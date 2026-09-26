@@ -1,0 +1,59 @@
+{
+  "source": "https://lemon.dogeware.me/ (Dogeware Lemon Mirror, LEMON manuals retrieved 2025, trusted)",
+  "crawl_date": "2026-09-26",
+  "years_crawled": [
+    2015,
+    2016,
+    2017
+  ],
+  "variants_crawled": 11717,
+  "variants_crawled_breakdown": {
+    "2015": 3865,
+    "2016_2017": 7852
+  },
+  "new_engines": 2270,
+  "new_engines_breakdown": {
+    "2015": 1083,
+    "2016_2017": 1187
+  },
+  "updated_existing_engines_to_trusted": 43,
+  "new_models": 96,
+  "new_vehicle_variants": 2419,
+  "total_db_after": {
+    "vehicle_variants": 28282,
+    "engines": 7446,
+    "models": 6079,
+    "service": 7446,
+    "tech": 7446
+  },
+  "service_confidence": {
+    "ESTIMATE": 5112,
+    "OEM_VERIFIED": 18,
+    "TRUSTED_AFTERMARKET": 3,
+    "TRUSTED_LEMON": 2313
+  },
+  "engines_confidence": {
+    "ESTIMATE": 3714,
+    "OEM_VERIFIED": 25,
+    "TRUSTED_AFTERMARKET": 1406,
+    "TRUSTED_LEMON": 2301
+  },
+  "fluid_coverage": "Engine Oil with Filter metric 98% (3804/3865 for 2015), Engine Coolant etc., all metric L",
+  "provenance": "lemon.dogeware.me LEMON 2015-2017, data_confidence=TRUSTED_LEMON, oil_spec_source/coolant_source=lemon.dogeware.me LEMON 2015-2017",
+  "files": {
+    "crawl_raw": [
+      "/home/user/lemon_crawl_2015.jsonl (34M)",
+      "/home/user/lemon_crawl_2016_2017.jsonl (66M)"
+    ],
+    "db": "/home/user/database_enriched/car_database.db (28282 variants, 7446 engines)",
+    "csv": "/home/user/database_enriched/csv_exports/ (01_vehicle_variants.csv 28282, 00_engines.csv 7446, 03_engine_service_specs.csv 7446, 04_engine_technical_specs.csv 7446)",
+    "json": "/home/user/database_enriched/json/ (models_production.json 6079, engine_specs_combined.json 7446)"
+  },
+  "notes": [
+    "Lemon is trusted per user; treated as TRUSTED_LEMON (OEM_VERIFIED equivalent). Corrects earlier vivid ESTIMATE capacities (e.g., L96 oil 7.2->5.67L, 2AR-FE 3.6->4.25L).",
+    "Synthetic engine codes for US-market models without explicit Eng CD (e.g., ACURA MDX 2015 fallback LEMON_ACURA_MDX_2015) deduplicated per brand/model/year after 2015-2017 patch.",
+    "Technical specs table now matches engines count (7446) after inserting placeholder tech for new lemon engines.",
+    "Production start/end per model updated for lemon models (70+26 new models).",
+    "Next: expand to 2000-2014 (est. ~45k variants, ~90 min crawl) and optionally 2018-2025 (site has 1960-2025). Ask user if full historical crawl desired."
+  ]
+}
