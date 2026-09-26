@@ -2,58 +2,96 @@
   "source": "https://lemon.dogeware.me/ (Dogeware Lemon Mirror, LEMON manuals retrieved 2025, trusted)",
   "crawl_date": "2026-09-26",
   "years_crawled": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
     2015,
     2016,
-    2017
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
   ],
-  "variants_crawled": 11717,
   "variants_crawled_breakdown": {
+    "2000_2004": 9286,
+    "2005_2009": 12442,
+    "2010_2014": 12206,
     "2015": 3865,
-    "2016_2017": 7852
+    "2016_2017": 7852,
+    "2018_2025_initial": 13974,
+    "2018_2025_remaining": 13352,
+    "2018_2025_final": 1843,
+    "total": 74820
   },
-  "new_engines": 2270,
+  "variants_crawled": 74820,
   "new_engines_breakdown": {
     "2015": 1083,
-    "2016_2017": 1187
+    "2016_2017": 1187,
+    "2000_2004": 1496,
+    "2005_2009": 2414,
+    "2010_2014": 2280,
+    "2018_2025_initial": 1847,
+    "2018_2025_remaining": 2111,
+    "2018_2025_final": 322,
+    "total": 12740
   },
-  "updated_existing_engines_to_trusted": 43,
-  "new_models": 96,
-  "new_vehicle_variants": 2419,
+  "new_engines": 12740,
+  "updated_existing_engines_to_trusted": 68,
+  "new_models": 277,
+  "new_vehicle_variants": 13319,
+  "total_db_before": {
+    "vehicle_variants": 25863,
+    "engines": 5176,
+    "models": 5983
+  },
   "total_db_after": {
-    "vehicle_variants": 28282,
-    "engines": 7446,
-    "models": 6079,
-    "service": 7446,
-    "tech": 7446
+    "vehicle_variants": 39182,
+    "engines": 17916,
+    "models": 6260,
+    "service": 17916,
+    "tech": 17916
   },
   "service_confidence": {
-    "ESTIMATE": 5112,
+    "ESTIMATE": 5081,
     "OEM_VERIFIED": 18,
     "TRUSTED_AFTERMARKET": 3,
-    "TRUSTED_LEMON": 2313
+    "TRUSTED_LEMON": 12814
   },
   "engines_confidence": {
     "ESTIMATE": 3714,
     "OEM_VERIFIED": 25,
     "TRUSTED_AFTERMARKET": 1406,
-    "TRUSTED_LEMON": 2301
+    "TRUSTED_LEMON": 12771
   },
-  "fluid_coverage": "Engine Oil with Filter metric 98% (3804/3865 for 2015), Engine Coolant etc., all metric L",
-  "provenance": "lemon.dogeware.me LEMON 2015-2017, data_confidence=TRUSTED_LEMON, oil_spec_source/coolant_source=lemon.dogeware.me LEMON 2015-2017",
+  "provenance": "lemon.dogeware.me LEMON 2000-2025 (retrieved 2025), data_confidence=TRUSTED_LEMON, oil_spec_source/coolant_source=lemon.dogeware.me LEMON 2000-2025",
   "files": {
-    "crawl_raw": [
-      "/home/user/lemon_crawl_2015.jsonl (34M)",
-      "/home/user/lemon_crawl_2016_2017.jsonl (66M)"
-    ],
-    "db": "/home/user/database_enriched/car_database.db (28282 variants, 7446 engines)",
-    "csv": "/home/user/database_enriched/csv_exports/ (01_vehicle_variants.csv 28282, 00_engines.csv 7446, 03_engine_service_specs.csv 7446, 04_engine_technical_specs.csv 7446)",
-    "json": "/home/user/database_enriched/json/ (models_production.json 6079, engine_specs_combined.json 7446)"
+    "crawl_raw": "8 jsonl files total 462M (2000-2025), stored locally as lemon_crawl_*.jsonl (kept outside repo due to size, compressed in repo as .zip if needed)",
+    "db": "/home/user/database_enriched/car_database.db (39182 variants, 17916 engines)",
+    "csv": "/home/user/database_enriched/csv_exports/ (01_vehicle_variants.csv 39182, 00_engines.csv 17916, 03_engine_service_specs.csv 17916, 04_engine_technical_specs.csv 17916)",
+    "json": "/home/user/database_enriched/json/ (models_production.json 6260, engine_specs_combined.json 17916)"
   },
   "notes": [
-    "Lemon is trusted per user; treated as TRUSTED_LEMON (OEM_VERIFIED equivalent). Corrects earlier vivid ESTIMATE capacities (e.g., L96 oil 7.2->5.67L, 2AR-FE 3.6->4.25L).",
-    "Synthetic engine codes for US-market models without explicit Eng CD (e.g., ACURA MDX 2015 fallback LEMON_ACURA_MDX_2015) deduplicated per brand/model/year after 2015-2017 patch.",
-    "Technical specs table now matches engines count (7446) after inserting placeholder tech for new lemon engines.",
-    "Production start/end per model updated for lemon models (70+26 new models).",
-    "Next: expand to 2000-2014 (est. ~45k variants, ~90 min crawl) and optionally 2018-2025 (site has 1960-2025). Ask user if full historical crawl desired."
+    "Full 2000-2025 Lemon crawl completed: 74,820 variants crawled (65 brands, 26 years). 13,319 new variants added, 12,740 new TRUSTED_LEMON engines (synthetic codes for US-market models without explicit Eng CD, deduplicated per brand/model/year).",
+    "Corrected vivid ESTIMATE capacities where Lemon provides OEM values (e.g., L96 7.2->5.67L oil, 2AR-FE 3.6->4.25L). Service and tech tables now synced (17916 each).",
+    "Production start/end per model updated; 6260 models total (+277 vs vivid).",
+    "Large raw jsonl files (462M) not pushed to GitHub due to size; only DB + CSV/JSON + reports are versioned. Raw crawls kept locally and available as compressed archive on request.",
+    "Next: incremental updates for future years or deeper Common Specs extraction (compression, oil pressure) can be added from Lemon Quick Lookups/Common Specs pages."
   ]
 }
