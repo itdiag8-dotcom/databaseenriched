@@ -1,0 +1,1146 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Car Database Dashboard</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:#0f1419;color:#e6eef8;line-height:1.5}
+  header{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:14px;padding:10px 18px;background:#0b1c30;border-bottom:1px solid #253240;flex-wrap:wrap}
+  header .logo{font-weight:700;font-size:16px;letter-spacing:.2px}
+  header .logo span{color:#7cc4ff}
+  header .dbpath{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;opacity:.65;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:340px}
+  header .spacer{flex:1}
+  button{background:#123a66;color:#e6eef8;border:1px solid #2a5a8a;border-radius:8px;padding:7px 12px;font-size:12px;cursor:pointer}
+  button:hover{background:#1b4d82}
+  button:active{transform:translateY(1px)}
+  button:disabled{opacity:.45;cursor:not-allowed}
+  button:hover:disabled{background:#123a66}
+  button.primary{background:#1b6bc4;border-color:#3b8bf5}
+  button.primary:not(:disabled):hover{background:#2b86e8}
+  button.small{padding:4px 9px;font-size:11px}
+  button.danger{background:#5b1f1f;border-color:#8b3b3b}
+  .layout{display:grid;grid-template-columns:320px 1fr;gap:16px;padding:16px;max-width:1800px;margin:0 auto}
+  aside{display:flex;flex-direction:column;gap:12px;align-self:start;position:sticky;top:64px}
+  main{min-width:0}
+  .card{background:#161d26;border:1px solid #253240;border-radius:12px;padding:14px}
+  h2{font-size:16px;margin-bottom:8px}
+  .muted{color:#9fb3c8;font-size:12px}
+  label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:#b8cce6;margin:10px 0 4px}
+  select,input[type=text],input[type=search],input[type=number]{
+    width:100%;background:#0b1220;color:#e6eef8;border:1px solid #253240;border-radius:8px;padding:7px 9px;font-size:13px}
+  select:focus,input:focus{outline:none;border-color:#3b8bf5}
+  input[type=number]{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+  .searchbox{position:relative}
+  .sr{max-height:260px;overflow:auto;background:#0b1220;border:1px solid #253240;border-radius:8px;margin-top:6px;display:none;position:absolute;left:0;right:0;z-index:30}
+  .sr.open{display:block}
+  .sr div{padding:7px 9px;cursor:pointer;font-size:12px;border-bottom:1px solid #1a2534}
+  .sr div:hover{background:#123a66}
+  .sr .code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:#7cc4ff}
+  .sr .muted{font-size:11px}
+  nav.casc label:first-child{margin-top:0}
+  .casc-actions{display:flex;gap:8px;margin-top:12px}
+  .casc-actions button{flex:1;white-space:nowrap}
+  .mini{background:#0b1220;border:1px solid #2a5a8a;border-radius:10px;padding:10px 12px;margin-top:10px}
+  .mini h4{font-size:12px;color:#7cc4ff;margin-bottom:2px}
+  .mini .hint{font-size:11px;color:#9fb3c8;margin:4px 0 8px}
+  .mini .grid2{display:grid;grid-template-columns:1fr 1fr;gap:6px 10px}
+  .mini .btns{display:flex;gap:8px;margin-top:10px}
+  .mini input[disabled]{opacity:.55}
+  @media(max-width:520px){.mini .grid2{grid-template-columns:1fr}}
+  .addcar-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+  .modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:200;display:flex;align-items:center;justify-content:center;padding:20px}
+  .modal{background:#161d26;border:1px solid #2a5a8a;border-radius:12px;max-width:880px;width:100%;max-height:86vh;overflow:auto;padding:16px}
+  .modal h3{font-size:15px;margin-bottom:2px}
+  .modal .hint{font-size:12px;color:#9fb3c8;margin-bottom:10px}
+  .modal .grid2{display:grid;grid-template-columns:1fr 1fr;gap:6px 12px}
+  .modal .grid2 .fld label{margin-top:0}
+  .modal .btns{display:flex;gap:8px;margin-top:14px;align-items:center}
+  .modal .btns .margin-auto{margin-left:auto}
+  .breadcrumb{font-size:12px;color:#9fb3c8;margin-bottom:10px;word-break:break-word}
+  .breadcrumb b{color:#7cc4ff}
+  .toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:#0f1e2e;border:1px solid #253240;border-radius:10px;padding:9px 12px;margin:0 0 12px}
+  .toolbar .cnt{font-size:12px;color:#9fb3c8;flex:1;display:flex;align-items:center;gap:8px}
+  .toolbar .cnt b{font-size:15px;color:#fbbf24;min-width:18px;text-align:center}
+  .toolbar .cnt.nopending b{color:#4ade80}
+  .toolbar .legend{font-size:11px;color:#9fb3c8}
+  .swatch{display:inline-block;width:11px;height:11px;border-radius:3px;background:rgba(251,191,36,.35);border:1px solid #f59e0b;vertical-align:-1px;margin-right:5px}
+  .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;border-bottom:1px solid #253240;padding-bottom:8px}
+  .tabs button{background:transparent;border:1px solid transparent;border-radius:8px;padding:7px 13px;font-size:13px;color:#9fb3c8}
+  .tabs button.on{background:#0f2138;border-color:#2a5a8a;color:#e6eef8}
+  .tabs button.ondirty{border-color:#f59e0b}
+  .tbadge{display:none;margin-left:5px;min-width:16px;padding:0 5px;border-radius:999px;background:#6b4a0f;color:#fde68a;font-size:10px;line-height:15px;text-align:center}
+  .tbadge.on{display:inline-block;background:#f59e0b;color:#1a1205}
+  /* ---- record cards (form grid: 4 fields per row) ---- */
+  .recwrap{display:flex;flex-direction:column;gap:12px}
+  .rec{background:#0b1220;border:1px solid #253240;border-radius:10px;padding:10px 12px}
+  .rec.hasdirty{border:1px solid #b45a0f;box-shadow:inset 3px 0 0 #f59e0b}
+  .recheader{display:flex;align-items:center;gap:10px;padding-bottom:8px;margin-bottom:8px;border-bottom:1px dashed #1a2534;flex-wrap:wrap}
+  .recheader .pk{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:#7cc4ff;flex:1;min-width:120px}
+  .recheader .pk .locklock{color:#5b6b80;font-size:10px;font-family:system-ui,Arial}
+  .vthumb{width:108px;height:68px;object-fit:cover;border-radius:8px;border:1px solid #2a5a8a;background:#08101c;flex-shrink:0}
+  .vthumb.none{display:flex;align-items:center;justify-content:center;font-size:10px;color:#5b6b80;text-transform:uppercase;letter-spacing:.5px;background:#0b1220}
+  .recgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px 12px}
+  .fld{display:flex;flex-direction:column;gap:3px;min-width:0}
+  .fld label{font-size:10px;text-transform:uppercase;letter-spacing:.4px;color:#8fa3bd;margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .fld input{width:100%;font-size:12px}
+  .fld .pkpk{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:#7cc4ff;padding:7px 9px;background:#0b1220;border:1px dashed #2a5a8a;border-radius:8px}
+  /* ---- dirty (unsaved edit) styling ---- */
+  .fld input.cell.dirty{background:rgba(251,191,36,.2);border-color:#f59e0b;color:#ffedc4}
+  .fld.dirty{background:rgba(251,191,36,.08)}
+  @media(max-width:1280px){.recgrid{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:820px){.recgrid{grid-template-columns:1fr}}
+  .rd{display:none;font-size:10px;color:#fde68a;background:#6b4a0f;border:1px solid #b45a0f;border-radius:999px;padding:1px 8px;margin-right:4px}
+  .rd.show{display:inline-block}
+  .rowacts{display:flex;gap:6px;align-items:center;justify-content:flex-end}
+  .rowacts .st{font-size:11px}
+  .ok{color:#4ade80}.err{color:#f87171}.info{color:#fbbf24}
+  .pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;border:1px solid #2a5a8a;background:#0f2138}
+  .pill.good{background:#0f2a1a;border-color:#2a5a3a;color:#86efac}
+  .pill.warn{background:#2a1f0f;border-color:#5a4a2a;color:#fde68a}
+  #toast{position:fixed;bottom:18px;right:18px;z-index:999;display:flex;flex-direction:column;gap:8px;max-height:80vh;overflow:hidden}
+  .toast{background:#123a66;border:1px solid #2a5a8a;border-radius:10px;padding:10px 14px;font-size:13px;max-width:420px;box-shadow:0 6px 20px rgba(0,0,0,.4)}
+  .toast.err{background:#4a1f2a;border-color:#8b3b3b}
+  .toast.ok{background:#0f2a1a;border-color:#2a5a3a}
+  .placeholder{padding:60px 20px;text-align:center;color:#9fb3c8}
+  .kv{display:grid;grid-template-columns:180px 1fr;gap:4px 12px;font-size:12px}
+  .kv b{color:#b8cce6;font-weight:600}
+  .kv > div{padding:3px 0;border-bottom:1px dashed #1a2534;word-break:break-word}
+  .center-box{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:12px 0}
+  .exportbar{margin-top:10px;display:flex;gap:8px;justify-content:flex-end}
+  .badge-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+  .empty{color:#9fb3c8;font-style:italic;padding:14px;font-size:12px}
+  .pager{display:flex;gap:8px;align-items:center;margin-top:8px;font-size:12px}
+  details.gridtoggle{margin-top:10px}
+  details.gridtoggle summary{cursor:pointer;color:#7cc4ff;font-size:12px}
+  #saveAll:not(:disabled){animation:pulse 1.6s infinite}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(59,139,245,.5)}50%{box-shadow:0 0 0 5px rgba(59,139,245,0)}}
+  @media(max-width:920px){.layout{grid-template-columns:1fr}aside{position:static}.sr{position:static}}
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">&#128663; <span>Car Database Dashboard</span></div>
+  <div class="dbpath" id="dbpath">car_database.db</div>
+  <div class="spacer"></div>
+  <button id="btnBackup" title="Copy the database to backups/">Backup now</button>
+  <button id="btnOpenBak" title="Open the backups folder">Open backups</button>
+</header>
+
+<div class="layout">
+  <aside>
+    <div class="searchbox card">
+      <label>Search engine code / type / model</label>
+      <input type="search" id="search" placeholder="e.g. 312 A1.000, EA888, T-Jet, 1.9 JTD…" autocomplete="off">
+      <div class="sr" id="sr"></div>
+    </div>
+
+    <div class="card">
+      <nav class="casc">
+        <label>1. Car Brand</label>
+        <select id="selBrand"><option value="">— select brand —</option></select>
+        <label>2. Car Model</label>
+        <select id="selModel" disabled><option value="">— select model —</option></select>
+        <label>3. Engine type</label>
+        <select id="selEngineType" disabled><option value="">— select engine type —</option></select>
+        <label>4. Engine code</label>
+        <select id="selCode" disabled><option value="">— select engine code —</option></select>
+      </nav>
+      <div class="casc-actions">
+        <button id="btnAddEngine" class="small" title="Add a new engine code or add a vehicle variant for an existing code">+ Add engine code</button>
+        <button id="btnEditCode" class="small" disabled title="Rename the currently selected engine code">Edit code</button>
+      </div>
+      <div class="casc-actions">
+        <button id="btnAddBrand" class="small" title="Add a new car brand">+ Add brand</button>
+        <button id="btnAddModel" class="small" title="Add a new car model under the selected brand">+ Add model</button>
+        <button id="btnDelModel" class="small danger" disabled title="Delete the selected model and all its vehicles">Delete model</button>
+      </div>
+      <div id="cascPanel"></div>
+      <div id="modelInfo" class="muted" style="margin-top:12px"></div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="card" id="placeholder">
+      <div class="placeholder">
+        <div style="font-size:34px">&#128663;&#65039;</div>
+        <div style="margin-top:8px">Pick a brand (or search an engine code) to browse and edit the database.</div>
+        <div class="muted" style="margin-top:6px">Edits are staged first — edited cells turn <b style="color:#fde68a">amber</b> and are only written to car_database.db when you press <b>Save all changes</b>. A daily backup is kept in backups/.</div>
+      </div>
+    </div>
+
+    <div id="detail" hidden>
+      <div class="card">
+        <div class="breadcrumb" id="breadcrumb"></div>
+        <div class="toolbar" id="toolbar">
+          <span class="cnt nopending" id="dirtyWrap"><b id="dirtyCount">0</b><span id="dirtyText">unsaved changes</span></span>
+          <button id="saveAll" class="primary" disabled>Save all changes</button>
+          <button id="discardAll" class="danger" disabled>Discard all</button>
+        </div>
+        <div class="legend muted"><span class="swatch"></span>amber cells are edited but not yet saved &nbsp;·&nbsp; Ctrl+S = save all</div>
+        <div class="tabs" id="tabs"></div>
+        <div id="tabContent"></div>
+        <div class="exportbar">
+          <button id="btnExport">Export this engine (JSON)</button>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<div id="toast"></div>
+
+<script>
+'use strict';
+const $ = s => document.querySelector(s);
+const S = { brand:'', model:'', modelObj:null, etype:'', code:'', data:null };
+
+/* ---------- staged / pending edits ---------- */
+const PENDING = {};                       // "tkey\u0001rowKey\u0001col" -> {orig, val}
+const SEP = '\u0001';
+const pendKey = (t, r, c) => t + SEP + r + SEP + c;
+function pendCount(){ let n = 0; for (const k in PENDING) n++; return n; }
+function rowPendKeys(t, r){ return Object.keys(PENDING).filter(k => k.indexOf(t + SEP + r + SEP) === 0); }
+
+/* ---------- toast ---------- */
+function toast(msg, kind){
+  const el = document.createElement('div');
+  el.className = 'toast' + (kind ? ' ' + kind : '');
+  el.textContent = msg;
+  $('#toast').appendChild(el);
+  setTimeout(()=>{ el.style.opacity='0'; el.style.transition='opacity .4s'; setTimeout(()=>el.remove(), 420); }, 3400);
+}
+
+async function api(url, opts){
+  const r = await fetch(url, opts);
+  const d = await r.json().catch(()=>({}));
+  if (!r.ok) { const e = new Error(d.error || ('HTTP ' + r.status)); e.status = r.status; throw e; }
+  return d;
+}
+const encode = v => encodeURIComponent(v);
+
+/* ---------- toolbar ---------- */
+function updateToolbar(){
+  const n = pendCount();
+  const wrap = $('#dirtyWrap');
+  const saveBtn = $('#saveAll'), discBtn = $('#discardAll');
+  if (!wrap) return;
+  $('#dirtyCount').textContent = n;
+  wrap.classList.toggle('nopending', n === 0);
+  $('#dirtyText').textContent = n === 0 ? 'no unsaved changes' : (n === 1 ? 'unsaved change' : 'unsaved changes');
+  saveBtn.disabled = n === 0;
+  discBtn.disabled = n === 0;
+  applyTabBadges();
+  document.title = (n > 0 ? '(' + n + ' unsaved) ' : '') + 'Car Database Dashboard';
+}
+function applyTabBadges(){
+  const tabs = document.querySelectorAll('#tabs button.tab');
+  tabs.forEach(b => {
+    const n = Object.keys(PENDING).filter(k => k.indexOf(b.dataset.key + SEP) === 0).length;
+    const badge = b.querySelector('.tbadge');
+    if (badge) { badge.textContent = n || ''; badge.classList.toggle('on', !!n); }
+    b.classList.toggle('ondirty', n > 0);
+  });
+}
+
+/* ---------- cell dirty handling ---------- */
+function refreshRowBadge(rec){
+  if (!rec) return;
+  const inp = rec.querySelector('input.cell');
+  const badge = rec.querySelector('[data-rd]');
+  const reset = rec.querySelector('[data-reset]');
+  if (!inp || !badge) return;
+  const n = rowPendKeys(inp.dataset.tkey, inp.dataset.rowkey).length;
+  badge.textContent = n > 0 ? (n === 1 ? '1 edited' : n + ' edited') : '';
+  badge.classList.toggle('show', n > 0);
+  rec.classList.toggle('hasdirty', n > 0);
+  if (reset) reset.disabled = n === 0;
+}
+
+function onCellInput(inp){
+  const k = pendKey(inp.dataset.tkey, inp.dataset.rowkey, inp.dataset.col);
+  const orig = inp.dataset.orig;
+  if (inp.value === orig) {
+    delete PENDING[k];
+    inp.classList.remove('dirty');
+    inp.parentElement.classList.remove('dirty');
+  } else if (PENDING[k]) {
+    PENDING[k].val = inp.value;
+    inp.classList.add('dirty');
+    inp.parentElement.classList.add('dirty');
+  } else {
+    PENDING[k] = { orig, val: inp.value };
+    inp.classList.add('dirty');
+    inp.parentElement.classList.add('dirty');
+  }
+  refreshRowBadge(inp.closest('.rec'));
+  updateToolbar();
+}
+
+function applyPending(key){
+  document.querySelectorAll('#tabContent input.cell').forEach(inp => {
+    const k = pendKey(inp.dataset.tkey, inp.dataset.rowkey, inp.dataset.col);
+    if (PENDING[k]) {
+      inp.value = PENDING[k].val == null ? '' : PENDING[k].val;
+      inp.classList.add('dirty');
+      inp.parentElement.classList.add('dirty');
+    } else {
+      inp.classList.remove('dirty');
+      inp.parentElement.classList.remove('dirty');
+    }
+    refreshRowBadge(inp.closest('.rec'));
+  });
+  applyTabBadges();
+}
+
+/* ---------- datalists for autocomplete ---------- */
+const DATALISTS = {
+  engine:   ['fuel','ecu_maker','ecu_model'],
+  service:  ['fuel','oil_viscosity','oil_standard','oil_acea','oil_oem_spec','coolant_type','coolant_spec','timing_type','brake_fluid_type','spark_plug_type'],
+  technical:['fuel','fuel_system_type','ignition_timing','valve_clearance_intake','valve_clearance_exhaust','co_idle_percent','hc_idle_ppm','lambda','has_dpf','has_egr','has_adblue_scr','ecu_maker','ecu_model'],
+  variants: ['fuel','ecu_maker','ecu_model']
+};
+async function ensureDatalists(){
+  for (const [tkey, cols] of Object.entries(DATALISTS)) {
+    for (const col of cols) {
+      const did = `dl_${tkey}_${col}`;
+      if (document.getElementById(did)) continue;
+      try {
+        const vals = await api(`/api/distinct?table=${tkey}&col=${encode(col)}`);
+        const dl = document.createElement('datalist');
+        dl.id = did;
+        vals.forEach(v => { const o = document.createElement('option'); o.value = v; dl.appendChild(o); });
+        document.body.appendChild(dl);
+      } catch (e) { /* ignore */ }
+    }
+  }
+}
+
+/* ---------- brand -> model -> engine type -> code ---------- */
+const selBrand = $('#selBrand'), selModel = $('#selModel'),
+      selEtype = $('#selEngineType'), selCode = $('#selCode');
+
+function confirmLeave(){
+  if (!pendCount()) return true;
+  return window.confirm('You have unsaved changes. Discard them and continue?');
+}
+
+async function loadBrands(){
+  const brands = await api('/api/brands');
+  selBrand.innerHTML = '<option value="">— select brand —</option>' +
+    brands.map(b => `<option value="${b.name.replace(/"/g,'&quot;')}">${b.name} (${b.model_count})</option>`).join('');
+}
+
+async function onBrand(){
+  if (!confirmLeave()) { selBrand.value = S.brand; return; }
+  S.brand = selBrand.value;
+  S.model = ''; S.etype = ''; S.code = '';
+  selModel.innerHTML = ''; selEtype.innerHTML=''; selCode.innerHTML='';
+  selModel.disabled = true; selEtype.disabled = true; selCode.disabled = true;
+  $('#modelInfo').textContent = '';
+  clearDetail();
+  if (!S.brand) return;
+  const models = await api('/api/brands/' + encode(S.brand) + '/models');
+  selModel.innerHTML = '<option value="">— select model —</option>' +
+    models.map(m => `<option value="${m.model_name.replace(/"/g,'&quot;')}" data-id="${m.id}">${m.model_name}</option>`).join('');
+  selModel.disabled = false;
+  if (models.length === 1) { selModel.value = models[0].model_name; selModel._models = models; onModel(); }
+  else selModel._models = models;
+}
+
+async function onModel(){
+  if (!confirmLeave()) { selModel.value = S.model; return; }
+  const models = selModel._models || [];
+  const chosen = models.find(m => m.model_name === selModel.value);
+  S.model = selModel.value; S.etype=''; S.code='';
+  selEtype.innerHTML=''; selCode.innerHTML='';
+  selEtype.disabled = true; selCode.disabled = true;
+  clearDetail();
+  if (!S.model) { $('#modelInfo').textContent=''; return; }
+  if (chosen) {
+    S.modelObj = chosen;
+    renderModelInfo(chosen);
+  }
+  const types = await api(`/api/brands/${encode(S.brand)}/models/${encode(S.model)}/engine_types`);
+  selEtype.innerHTML = '<option value="">— select engine type —</option>' +
+    types.map(t => `<option value="${t.engine_type.replace(/"/g,'&quot;')}">${t.engine_type || '(empty)'} · ${t.n} variant${t.n>1?'s':''}</option>`).join('');
+  selEtype.disabled = false;
+  if (types.length === 1) { selEtype.value = types[0].engine_type; onEtype(); }
+}
+
+function renderModelInfo(m){
+  const yrs = m.years_span || (m.production_start ? m.production_start + '-' + (m.production_end||'') : '');
+  $('#modelInfo').innerHTML =
+    `<b>Production:</b> ${yrs || '—'}<br>
+     <b>Variants:</b> ${m.variant_count} <span class="muted">(${m.total_variants} in models)</span><br>
+     <b>Source:</b> ${m.source || '—'} &nbsp; <b>Status:</b> ${m.status || '—'}<br>
+     <button class="small" onclick="editModel(${m.id})">Edit model info</button>`;
+}
+
+async function editModel(id){
+  if (!S.modelObj) return;
+  const m = S.modelObj;
+  const s = $('#modelInfo');
+  s.innerHTML =
+    `<div style="font-size:12px"><b>Edit model</b>
+     <label style="margin-top:6px">Production start</label>
+     <input type="number" id="m_start" value="${m.production_start ?? ''}">
+     <label>Production end</label>
+     <input type="number" id="m_end" value="${m.production_end ?? ''}">
+     <label>Years span</label>
+     <input type="text" id="m_span" value="${(m.years_span||'').replace(/"/g,'&quot;')}">
+     <div style="margin-top:8px;display:flex;gap:8px">
+       <button class="small primary" id="m_save">Save</button>
+       <button class="small" onclick="renderModelInfo(S.modelObj)">Cancel</button>
+     </div></div>`;
+  $('#m_save').onclick = async () => {
+    try {
+      const vals = { production_start: $('#m_start').value, production_end: $('#m_end').value, years_span: $('#m_span').value };
+      await api('/api/update', { method:'POST', headers:{'Content-Type':'application/json'},
+        body: JSON.stringify({ table:'model', rowKey:id, values: vals }) });
+      S.modelObj = { ...S.modelObj, production_start: vals.production_start || null, production_end: vals.production_end || null, years_span: vals.years_span || null };
+      renderModelInfo(S.modelObj);
+      toast('Model updated', 'ok');
+    } catch (e) { toast('Failed: ' + e.message, 'err'); }
+  };
+}
+
+async function onEtype(){
+  if (!confirmLeave()) { selEtype.value = S.etype; return; }
+  S.etype = selEtype.value; S.code='';
+  selCode.innerHTML=''; selCode.disabled=true;
+  clearDetail();
+  if (!S.model) return;
+  const codes = await api(`/api/brands/${encode(S.brand)}/models/${encode(S.model)}/codes?engine_type=${encode(S.etype)}`);
+  selCode.innerHTML = '<option value="">— select engine code —</option>' +
+    codes.map(c => `<option value="${c.engine_code.replace(/"/g,'&quot;')}">${c.engine_code} · ${c.n} variant${c.n>1?'s':''}</option>`).join('');
+  selCode.disabled = false;
+  if (codes.length === 1) { selCode.value = codes[0].engine_code; onCode(); }
+}
+
+async function onCode(){
+  if (!confirmLeave()) { selCode.value = S.code; return; }
+  S.code = selCode.value;
+  if (!S.code) { clearDetail(); return; }
+  await loadEngine(S.code, { keepSelection:true });
+}
+
+async function loadEngine(code, opts){
+  opts = opts || {};
+  try {
+    S.data = await api('/api/engine/' + encode(code));
+    S.code = code;
+    syncCascadeButtons();
+    $('#placeholder').hidden = true;
+    $('#detail').hidden = false;
+    Object.keys(PENDING).forEach(k => delete PENDING[k]);
+    if (!opts.keepSelection) { trySelectPathFromData(); }
+    render();
+  } catch (e) {
+    toast('Could not load engine: ' + e.message, 'err');
+  }
+}
+
+function trySelectPathFromData(){
+  const d = S.data;
+  if (!d.variants || !d.variants.length) return;
+  const v = d.variants[0];
+  S.brand = v.car_brand; S.model = v.car_model; S.etype = (d.engine && d.engine.engine_type) || v.engine_type || '';
+  selBrand.value = S.brand;
+  if (!selBrand.value) return;
+  onBrand().then(() => {
+    selModel.value = S.model;
+    onModel().then(() => {
+      selEtype.value = S.etype;
+      onEtype().then(() => {
+        selCode.value = S.code;
+      });
+    });
+  });
+}
+
+function clearDetail(){
+  S.data = null; S.code='';
+  syncCascadeButtons();
+  $('#placeholder').hidden = false;
+  $('#detail').hidden = true;
+  updateToolbar();
+}
+
+/* ---------- rendering ---------- */
+const COL_META = {};
+async function getCols(key){
+  if (!COL_META[key]) COL_META[key] = await api('/api/columns/' + key);
+  return COL_META[key];
+}
+
+const TAB_DEFS = [
+  { key:'engine',   title:'Engine',          desc:'engine table row' },
+  { key:'service',  title:'Service specs',   desc:'engine_service_specs' },
+  { key:'technical',title:'Technical specs', desc:'engine_technical_specs' },
+  { key:'variants', title:'Vehicle variants', desc:'vehicle_variants' }
+];
+
+let activeTab = 'engine';
+async function render(){
+  const d = S.data;
+  if (!d) return;
+  const eng = d.engine || {};
+  $('#breadcrumb').innerHTML =
+    `<b>${eng.brand_example || S.brand || '?'}</b> / ${eng.model_example || S.model || '?'} / <b>${eng.engine_type || S.etype || '?'}</b> / <code>${S.code}</code>
+     &nbsp;<span class="muted">${eng.fuel||''} ${eng.displacement_cc?'· '+eng.displacement_cc+' cc':' '} ${eng.power_hp?'· '+eng.power_hp+' hp':' '}</span>`;
+  $('#tabs').innerHTML = TAB_DEFS.map((t,i) =>
+    `<button class="tab ${i===0?'on':''}" data-key="${t.key}">${t.title}<span class="tbadge"></span>
+       ${t.key==='variants'?`<span class="muted" style="font-size:10px">(${d.variants.length})</span>`:''}
+     </button>`).join('');
+  activeTab = 'engine';
+  $('#tabs').querySelectorAll('button').forEach(b => b.onclick = () => switchTab(b.dataset.key));
+  await switchTab('engine');
+  if (!COL_META.__init) { COL_META.__init = true; ensureDatalists(); }
+}
+
+async function switchTab(key){
+  activeTab = key;
+  $('#tabs').querySelectorAll('button').forEach(b => b.classList.toggle('on', b.dataset.key === key));
+  const el = $('#tabContent');
+  el.innerHTML = '<span class="muted">loading…</span>';
+  try {
+    const meta = await getCols(key);
+    switch (key) {
+      case 'engine':     el.innerHTML = await tableHTML('engine', [S.data.engine], meta); break;
+      case 'service':    el.innerHTML = S.data.service ? await tableHTML('service', [S.data.service], meta) : emptyHTML('No service data row for this engine.'); break;
+      case 'technical':  el.innerHTML = S.data.technical ? await tableHTML('technical', [S.data.technical], meta) : emptyHTML('No technical data row for this engine.'); break;
+      case 'variants':   el.innerHTML = addCarBarHTML() + await tableHTML('variants', S.data.variants, meta); await initVariantsPager(); wireAddCar(); break;
+    }
+    wireTable(key, meta);
+    applyPending(key);
+    updateToolbar();
+  } catch (e) {
+    el.innerHTML = '<span class="err">' + e.message + '</span>';
+  }
+}
+
+function emptyHTML(msg){ return `<div class="empty">${msg}</div>`; }
+
+function colType(c){ return /INT/i.test(c.type) ? 'number' : (/REAL|DOU|FLO|NUM|DEC/i.test(c.type) ? 'number' : 'text'); }
+
+async function tableHTML(tkey, rows, meta){
+  if (!rows || !rows.length) return emptyHTML('No rows.');
+  const sug = DATALISTS[tkey] || [];
+  const recs = rows.map((r, i) => {
+    const fields = meta.columns.map(c => {
+      const raw = r[c.name];
+      if (c.pk && tkey !== 'engine') {
+        return `<div class="fld" title="primary key"><label>${c.name} &#128274;</label><div class="pkpk">${escapeHtml(raw??'')}</div></div>`;
+      }
+      const type = colType(c);
+      const attrs = `data-tkey="${tkey}" data-col="${c.name}" data-rowkey="${r[meta.pk]}" data-orig="${raw==null?'':escapeHtml(raw)}"`;
+      let input = `<input class="cell" type="${type}" step="any" ${attrs} value="${raw==null?'':escapeHtml(raw)}">`;
+      if (sug.includes(c.name)) input = `<input class="cell" list="dl_${tkey}_${c.name}" type="text" ${attrs} value="${raw==null?'':escapeHtml(raw)}">`;
+      return `<div class="fld" title="${c.name} (${c.type})"><label>${c.name}</label>${input}</div>`;
+    }).join('');
+    return `<div class="rec" data-rowkey="${r[meta.pk]}">
+      <div class="recheader">
+        ${tkey==='variants' ? (r.car_picture
+          ? `<img class="vthumb" src="/car_images/${encodeURIComponent(String(r.car_picture).split('/').pop())}" alt="${escapeHtml(r.car_model||'')}">`
+          : `<span class="vthumb none">no image</span>`) : ''}
+        <span class="pk">${meta.pk}: ${escapeHtml(String(r[meta.pk]))} ${tkey==='engine'?'':`<span class="locklock">&#128274; not editable</span>`}</span>
+        <span class="rowacts"><span class="rd" data-rd></span><span class="st" data-st></span>
+        <button class="small" data-reset disabled>Reset</button>
+        ${tkey==='variants'?'<button class="small" data-edit title="Edit this variant">Edit</button><button class="small danger" data-del title="Delete this vehicle variant">Delete</button>':''}</span>
+      </div>
+      <div class="recgrid">${fields}</div>
+    </div>`;
+  }).join('');
+  const pager = tkey === 'variants' && rows.length > 50
+    ? `<div class="pager"><button class="small" id="vpPrev">&#9664; prev</button><span id="vpLabel"></span><button class="small" id="vpNext">next &#9654;</button></div>`
+    : '';
+  return `<div class="recwrap">${recs}</div>${pager}`;
+}
+
+function escapeHtml(v){ return String(v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
+
+let varPage = 0;
+async function initVariantsPager(){
+  varPage = 0;
+  const n = S.data.variants.length;
+  const lbl = $('#vpLabel'); const prev = $('#vpPrev'); const next = $('#vpNext');
+  if (!lbl) return;
+  const show = () => {
+    lbl.textContent = `showing ${varPage*50+1}-${Math.min((varPage+1)*50, n)} of ${n}`;
+    const recs = $('#tabContent').querySelectorAll('.rec');
+    recs.forEach((rec, i) => { rec.style.display = (i >= varPage*50 && i < (varPage+1)*50) ? '' : 'none'; });
+    prev.disabled = varPage === 0; next.disabled = (varPage+1)*50 >= n;
+  };
+  prev.onclick = () => { if (varPage>0){varPage--; show();} };
+  next.onclick = () => { if ((varPage+1)*50 < n){varPage++; show();} };
+  show();
+}
+
+function wireTable(tkey, meta){
+  const el = $('#tabContent');
+  el.querySelectorAll('input.cell').forEach(inp => {
+    inp.addEventListener('input', () => onCellInput(inp));
+  });
+  el.querySelectorAll('button[data-reset]').forEach(btn => {
+    btn.onclick = () => resetRow(btn.closest('.rec'));
+  });
+  el.querySelectorAll('button[data-del]').forEach(btn => {
+    btn.onclick = () => deleteVariant(btn.closest('.rec'));
+  });
+  el.querySelectorAll('button[data-edit]').forEach(btn => {
+    btn.onclick = () => openVariantModal(btn.closest('.rec'));
+  });
+}
+
+function resetRow(rec){
+  rec.querySelectorAll('input.cell').forEach(inp => {
+    const k = pendKey(inp.dataset.tkey, inp.dataset.rowkey, inp.dataset.col);
+    delete PENDING[k];
+    inp.value = inp.dataset.orig == null ? '' : inp.dataset.orig;
+    inp.classList.remove('dirty');
+    inp.parentElement.classList.remove('dirty');
+  });
+  refreshRowBadge(rec);
+  updateToolbar();
+}
+
+/* ---------- save / discard all ---------- */
+function collectOps(){
+  const opsMap = {};
+  for (const k in PENDING) {
+    const [tkey, rowKey, col] = k.split(SEP);
+    const key2 = tkey + SEP + rowKey;
+    if (!opsMap[key2]) opsMap[key2] = { table: tkey, rowKey, values: {} };
+    opsMap[key2].values[col] = PENDING[k].val;
+  }
+  return Object.values(opsMap);
+}
+
+async function saveAll(){
+  const count = pendCount();
+  if (!count) return;
+  const ops = collectOps();
+  const btn = $('#saveAll');
+  btn.disabled = true; btn.textContent = 'Saving…';
+  try {
+    const r = await api('/api/update_batch', { method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ ops }) });
+    const renames = r.renames || [];
+    const mine = renames.filter(rn => rn.from === S.code);
+    Object.keys(PENDING).forEach(k => delete PENDING[k]);
+    if (mine.length) {
+      S.code = mine[0].to;
+      $('#search').value = S.code;
+    }
+    await refreshEngineData();
+    if (mine.length) {
+      CODE_CACHE = null; ADD_DL = null;
+      if (S.brand && S.model) await refreshCascadePath();
+      toast('Saved ' + r.saved + ' change' + (r.saved>1?'s':'') + ' — engine code renamed to "' + S.code + '"', 'ok');
+    } else {
+      toast('Saved ' + r.saved + ' change' + (r.saved>1?'s':'') + ' to the database', 'ok');
+    }
+  } catch (e) {
+    toast('Save failed, nothing was changed: ' + e.message, 'err');
+  } finally {
+    btn.textContent = 'Save all changes';
+    updateToolbar();
+  }
+}
+
+function discardAll(){
+  if (!pendCount()) return;
+  document.querySelectorAll('#tabContent input.cell').forEach(inp => {
+    const k = pendKey(inp.dataset.tkey, inp.dataset.rowkey, inp.dataset.col);
+    if (PENDING[k]) inp.value = PENDING[k].orig == null ? '' : PENDING[k].orig;
+    inp.classList.remove('dirty');
+    inp.parentElement.classList.remove('dirty');
+  });
+  Object.keys(PENDING).forEach(k => delete PENDING[k]);
+  document.querySelectorAll('#tabContent .rec').forEach(rec => refreshRowBadge(rec));
+  updateToolbar();
+  toast('Discarded all pending changes');
+}
+
+async function refreshEngineData(){
+  if (!S.code) return;
+  const det = await api('/api/engine/' + encode(S.code));
+  S.data = det;
+  await switchTab(activeTab);
+}
+
+/* ---------- add / edit engine code ---------- */
+let ADD_DL = null;
+async function ensureAddDatalist(){
+  if (ADD_DL) return;
+  const all = await codeCache();
+  ADD_DL = document.createElement('datalist');
+  ADD_DL.id = 'dlAddCode';
+  all.forEach(c => { if (c.engine_code) { const o = document.createElement('option'); o.value = c.engine_code; ADD_DL.appendChild(o); } });
+  document.body.appendChild(ADD_DL);
+}
+
+function syncCascadeButtons(){
+  const e = $('#btnEditCode');
+  if (e) e.disabled = !S.code;
+  const dm = $('#btnDelModel');
+  if (dm) dm.disabled = !S.model;
+}
+
+function closePanel(){ $('#cascPanel').innerHTML = ''; }
+
+function showAddForm(){
+  closePanel();
+  const p = $('#cascPanel');
+  p.innerHTML = `
+    <div class="mini">
+      <h4>+ Add engine code</h4>
+      <div class="hint">Already in the DB? Only a vehicle variant for this brand/model is added — all shared engine data is reused, nothing duplicated. New code? Blank Engine / Service / Technical rows are created to fill in.</div>
+      <div class="grid2">
+        <div><label>Engine code *</label><input type="text" id="add_code" list="dlAddCode" placeholder="e.g. 312 A1.000" autocomplete="off"></div>
+        <div><label>Engine type</label><input type="text" id="add_type" placeholder="e.g. 1.4 16v T-Jet" autocomplete="off"></div>
+        <div><label>Fuel</label><input type="text" id="add_fuel" list="dl_engine_fuel" placeholder="Petrol / Diesel" autocomplete="off"></div>
+        <div><label>Brand</label><input type="text" id="add_brand" value="${escapeHtml(S.brand||'')}"></div>
+        <div><label>Model</label><input type="text" id="add_model" value="${escapeHtml(S.model||'')}"></div>
+      </div>
+      <div class="btns">
+        <button class="small primary" id="add_go">Create / add</button>
+        <button class="small" onclick="closePanel()">Cancel</button>
+      </div>
+    </div>`;
+  ensureAddDatalist();
+  ensureDatalists();
+  $('#add_go').onclick = doAddEngine;
+  $('#add_code').focus();
+}
+
+async function doAddEngine(){
+  const code = $('#add_code').value.trim();
+  if (!code) { toast('Engine code is required', 'err'); return; }
+  const btn = $('#add_go');
+  btn.disabled = true; btn.textContent = 'Adding…';
+  try {
+    const r = await api('/api/add_engine', { method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({
+        engine_code: code,
+        engine_type: $('#add_type').value.trim(),
+        fuel: $('#add_fuel').value.trim(),
+        brand: $('#add_brand').value.trim(),
+        model: $('#add_model').value.trim()
+      }) });
+    if (r.added === 'none') {
+      toast('Code "' + code + '" already exists (no brand/model given) — nothing to add', 'info');
+      closePanel();
+      return;
+    }
+    CODE_CACHE = null; ADD_DL = null;
+    closePanel();
+    if (r.added === 'engine') {
+      toast('New engine code "' + code + '" created' + (r.variantId ? ' + 1 variant' : ''), 'ok');
+      await loadEngine(code, { keepSelection: false });
+    } else {
+      toast('Variant added for existing code "' + code + '"', 'ok');
+      await refreshEngineData();
+    }
+    if (S.brand && S.model) await refreshCascadePath();
+  } catch (e) {
+    toast('Add failed: ' + e.message, 'err');
+  } finally {
+    btn.disabled = false; btn.textContent = 'Create / add';
+  }
+}
+
+function showEditForm(){
+  if (!S.code) return;
+  closePanel();
+  const stale = PENDING[pendKey('engine', S.code, 'engine_code')];
+  const cur = stale ? stale.val : S.code;
+  $('#cascPanel').innerHTML = `
+    <div class="mini">
+      <h4>Edit engine code</h4>
+      <div class="hint">Renames the code everywhere — engine, service, technical and all vehicle variants linked to it.</div>
+      <div><label>Old code</label><input type="text" value="${escapeHtml(S.code)}" disabled></div>
+      <div><label>New code *</label><input type="text" id="edit_code" list="dlAddCode" value="${escapeHtml(cur)}" autocomplete="off"></div>
+      <div class="btns">
+        <button class="small primary" id="edit_go">Save rename</button>
+        <button class="small" onclick="closePanel()">Cancel</button>
+      </div>
+    </div>`;
+  ensureAddDatalist();
+  $('#edit_go').onclick = doEditCode;
+  $('#edit_code').focus();
+  $('#edit_code').select();
+}
+
+async function doEditCode(){
+  const oldCode = S.code;
+  const newCode = $('#edit_code').value.trim();
+  if (!newCode) { toast('New engine code is required', 'err'); return; }
+  const k = pendKey('engine', oldCode, 'engine_code');
+  if (newCode === oldCode && !PENDING[k]) { toast('No change', 'info'); closePanel(); return; }
+  PENDING[k] = { orig: oldCode, val: newCode };
+  updateToolbar();
+  closePanel();
+  await saveAll();
+}
+
+/* ---------- add / delete brand & model ---------- */
+let BRAND_DL = null;
+async function ensureBrandDatalist(){
+  if (BRAND_DL) return;
+  const brands = await api('/api/brands');
+  BRAND_DL = document.createElement('datalist');
+  BRAND_DL.id = 'dlBrands';
+  brands.forEach(b => { const o = document.createElement('option'); o.value = b.name; BRAND_DL.appendChild(o); });
+  document.body.appendChild(BRAND_DL);
+}
+
+function showAddBrand(){
+  closePanel();
+  $('#cascPanel').innerHTML = `
+    <div class="mini">
+      <h4>+ Add car brand</h4>
+      <div class="hint">Creates a new entry in the brands list (it shows up in step 1 once saved).</div>
+      <div><input type="text" id="ab_name" placeholder="Brand name e.g. Fiat" autocomplete="off"></div>
+      <div class="btns">
+        <button class="small primary" id="ab_go">Create brand</button>
+        <button class="small" onclick="closePanel()">Cancel</button>
+      </div>
+    </div>`;
+  $('#ab_go').onclick = doAddBrand;
+  $('#ab_name').focus();
+}
+
+async function doAddBrand(){
+  const name = $('#ab_name').value.trim();
+  if (!name) { toast('Brand name is required', 'err'); return; }
+  const btn = $('#ab_go'); btn.disabled = true; btn.textContent = 'Adding…';
+  try {
+    const r = await api('/api/add_brand', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ name }) });
+    toast(r.added === 'created' ? 'Brand "' + name + '" added' : 'Brand "' + name + '" already exists', r.added === 'created' ? 'ok' : 'info');
+    BRAND_DL = null;
+    const cur = S.brand;
+    await loadBrands();
+    if (cur) selBrand.value = cur;
+    else selBrand.value = name;
+  } catch (e) {
+    toast('Add brand failed: ' + e.message, 'err');
+  } finally {
+    btn.disabled = false; btn.textContent = 'Create brand';
+    closePanel();
+  }
+}
+
+function showAddModel(){
+  closePanel();
+  ensureBrandDatalist();
+  $('#cascPanel').innerHTML = `
+    <div class="mini">
+      <h4>+ Add car model</h4>
+      <div class="hint">The brand must already exist. The model appears in step 2 of the cascade.</div>
+      <div><label>Brand</label><input type="text" id="am_brand" list="dlBrands" value="${escapeHtml(S.brand||'')}" autocomplete="off"></div>
+      <div><label>Model name *</label><input type="text" id="am_name" placeholder="e.g. Punto" autocomplete="off"></div>
+      <div class="btns">
+        <button class="small primary" id="am_go">Create model</button>
+        <button class="small" onclick="closePanel()">Cancel</button>
+      </div>
+    </div>`;
+  $('#am_go').onclick = doAddModel;
+  $('#am_name').focus();
+}
+
+async function doAddModel(){
+  const brand = $('#am_brand').value.trim();
+  const name = $('#am_name').value.trim();
+  if (!brand || !name) { toast('Brand and model name are required', 'err'); return; }
+  const btn = $('#am_go'); btn.disabled = true; btn.textContent = 'Adding…';
+  try {
+    const r = await api('/api/add_model', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ brand, model: name }) });
+    toast(r.added === 'created' ? 'Model "' + name + '" added under "' + brand + '"' : 'Model "' + name + '" already exists', r.added === 'created' ? 'ok' : 'info');
+    if (r.added === 'created') {
+      S.model = ''; S.etype = ''; S.code = '';
+      clearDetail();
+      S.brand = brand;
+      await loadBrands();
+      selBrand.value = brand;
+      if (selBrand.value === brand) {
+        await onBrand();
+        const models = selModel._models || [];
+        const m = models.find(x => x.model_name === name);
+        if (m) { selModel.value = name; await onModel(); }
+      }
+    }
+  } catch (e) {
+    toast('Add model failed: ' + e.message, 'err');
+  } finally {
+    btn.disabled = false; btn.textContent = 'Create model';
+    closePanel();
+  }
+}
+
+async function doDeleteModel(){
+  if (!S.model) return;
+  const label = S.brand ? S.model + ' (' + S.brand + ')' : S.model;
+  if (!window.confirm('Delete model "' + label + '" and ALL its vehicle variants? This cannot be undone.')) return;
+  try {
+    const brand = S.brand, model = S.model;
+    const r = await api('/api/delete_model', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ brand, model }) });
+    toast('Deleted model "' + model + '"' + (r.deletedVariants ? ' + ' + r.deletedVariants + ' vehicle' + (r.deletedVariants>1?'s':'') : ''), 'ok');
+    S.model = ''; S.etype = ''; S.code = '';
+    clearDetail();
+    if (S.brand) { selBrand.value = S.brand; if (selBrand.value) await onBrand(); }
+  } catch (e) {
+    toast('Delete model failed: ' + e.message, 'err');
+  }
+}
+
+/* ---------- add / delete car (vehicle variant) ---------- */
+async function deleteVariant(rec){
+  const id = rec.dataset.rowkey;
+  if (!window.confirm('Delete this vehicle variant (id ' + id + ')? This cannot be undone.')) return;
+  try {
+    Object.keys(PENDING).forEach(k => { if (k.indexOf('variants' + SEP + id + SEP) === 0) delete PENDING[k]; });
+    await api('/api/delete_variant', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ id }) });
+    toast('Vehicle variant deleted', 'ok');
+    await refreshEngineData();
+    if (S.brand && S.model) await refreshCascadePath();
+  } catch (e) {
+    toast('Delete failed: ' + e.message, 'err');
+  }
+}
+
+/* ---------- variant edit modal ---------- */
+let variantModal = null;
+
+function closeVariantModal(){
+  if (variantModal) { variantModal.remove(); variantModal = null; }
+}
+
+function openVariantModal(rec){
+  const id = String(rec.dataset.rowkey);
+  const v = (S.data.variants || []).find(x => String(x.id) === id);
+  const meta = COL_META['variants'];
+  if (!v) { toast('Variant not found', 'err'); return; }
+  if (!meta) { toast('Columns not loaded yet — open the variants tab first', 'err'); return; }
+  closeVariantModal();
+  const bg = document.createElement('div');
+  bg.className = 'modal-bg';
+  const sug = DATALISTS.variants || [];
+  const fields = meta.columns.map(c => {
+    const raw = v[c.name];
+    if (c.pk) {
+      return `<div class="fld" style="grid-column:1/-1"><label>${c.name} &#128274;</label><div class="pkpk">${escapeHtml(raw??'')}</div></div>`;
+    }
+    const type = colType(c);
+    const list = sug.includes(c.name) ? ` list="dl_variants_${c.name}"` : '';
+    const o = raw == null ? '' : escapeHtml(raw);
+    return `<div class="fld"><label>${c.name}</label><input type="${type}" step="any"${list} data-col="${c.name}" data-orig="${o}" value="${o}"></div>`;
+  }).join('');
+  bg.innerHTML = `
+    <div class="modal">
+      <h3>Edit variant <span class="muted">#${id}</span></h3>
+      <div class="hint">${escapeHtml(v.car_brand||'')} ${escapeHtml(v.car_model||'')}${v.car_year?(' &middot; '+v.car_year):''}${v.engine_code?(' &middot; <code>'+escapeHtml(v.engine_code)+'</code>'):''}</div>
+      ${v.car_picture?`<div style="text-align:center;margin-bottom:10px"><img src="/car_images/${encodeURIComponent(String(v.car_picture).split('/').pop())}" alt="${escapeHtml(v.car_model||'')}" style="max-width:360px;max-height:220px;object-fit:contain;border-radius:10px;border:1px solid #2a5a8a;background:#08101c"></div>`:''}
+      <div class="grid2">${fields}</div>
+      <div class="btns">
+        <button class="small primary" id="vm_save">Save</button>
+        <button class="small" id="vm_cancel">Cancel</button>
+        <button class="small danger margin-auto" id="vm_del">Delete variant</button>
+      </div>
+    </div>`;
+  document.body.appendChild(bg);
+  variantModal = bg;
+  bg.addEventListener('mousedown', e => { if (e.target === bg) closeVariantModal(); });
+  bg.querySelector('#vm_cancel').onclick = closeVariantModal;
+  bg.querySelector('#vm_save').onclick = () => saveVariantModal(id, v, bg);
+  bg.querySelector('#vm_del').onclick = async () => {
+    if (!window.confirm('Delete this vehicle variant (id ' + id + ')? This cannot be undone.')) return;
+    closeVariantModal();
+    await deleteVariant(rec);
+  };
+}
+
+function saveVariantModal(id, v, bg){
+  let changed = 0;
+  bg.querySelectorAll('input[data-col]').forEach(inp => {
+    const col = inp.dataset.col;
+    const o = inp.dataset.orig == null ? '' : inp.dataset.orig;
+    const k = pendKey('variants', id, col);
+    if (inp.value === o) { if (PENDING[k]) delete PENDING[k]; return; }
+    if (!PENDING[k] || PENDING[k].orig !== o) PENDING[k] = { orig: o, val: inp.value };
+    else PENDING[k].val = inp.value;
+    changed++;
+  });
+  closeVariantModal();
+  applyPending('variants');
+  updateToolbar();
+  toast(changed ? changed + ' field' + (changed>1?'s':'') + ' staged — press "Save all changes" to write' : 'No changes to save');
+}
+
+function addCarBarHTML(){
+  return `<div class="addcar-bar">
+    <button class="small primary" id="btnAddCar">+ Add variant</button>
+    <span class="muted">Add a car to the current brand/model, or press Edit on a row below to change an existing variant.</span>
+  </div>
+  <div id="addcarForm" hidden>
+    <div class="mini">
+      <h4>Add a car</h4>
+      <div class="grid2">
+        <div><label>Brand *</label><input type="text" id="ac_brand" list="dlBrands" value="${escapeHtml(S.brand||'')}" autocomplete="off"></div>
+        <div><label>Model *</label><input type="text" id="ac_model" value="${escapeHtml(S.model||'')}" autocomplete="off"></div>
+        <div><label>Year</label><input type="number" id="ac_year" value="" placeholder="e.g. 2008"></div>
+        <div><label>Power (hp)</label><input type="number" id="ac_power" value="" placeholder="e.g. 120"></div>
+        <div><label>Fuel</label><input type="text" id="ac_fuel" list="dl_engine_fuel" placeholder="Petrol / Diesel" autocomplete="off"></div>
+        <div><label>Engine type</label><input type="text" id="ac_type" placeholder="e.g. 1.4 16v T-Jet" autocomplete="off"></div>
+        <div><label>Engine code</label><input type="text" id="ac_code" list="dlAddCode" value="${escapeHtml(S.code||'')}" placeholder="existing code, or type a new one" autocomplete="off"></div>
+      </div>
+      <div class="btns">
+        <button class="small primary" id="ac_go">Add car</button>
+        <button class="small" id="ac_cancel">Cancel</button>
+      </div>
+    </div>
+  </div>`;
+}
+
+function wireAddCar(){
+  const btn = $('#btnAddCar'), form = $('#addcarForm');
+  if (btn) btn.onclick = () => { form.hidden = !form.hidden; if (!form.hidden) { ensureAddDatalist(); ensureDatalists(); ensureBrandDatalist(); $('#ac_code').focus(); } };
+  const cancel = $('#ac_cancel');
+  if (cancel) cancel.onclick = () => { form.hidden = true; };
+  const go = $('#ac_go');
+  if (go) go.onclick = doAddCar;
+}
+
+async function doAddCar(){
+  const brand = $('#ac_brand').value.trim();
+  const model = $('#ac_model').value.trim();
+  if (!brand || !model) { toast('Brand and model are required', 'err'); return; }
+  const btn = $('#ac_go'); btn.disabled = true; btn.textContent = 'Adding…';
+  try {
+    const r = await api('/api/add_variant', { method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({
+        car_brand: brand,
+        car_model: model,
+        car_year: $('#ac_year').value,
+        engine_power_hp: $('#ac_power').value,
+        fuel: $('#ac_fuel').value.trim(),
+        engine_type: $('#ac_type').value.trim(),
+        engine_code: $('#ac_code').value.trim()
+      }) });
+    toast('Car added (id ' + r.id + ')' + (r.engineCreated ? ' — new engine code created' : ''), 'ok');
+    $('#addcarForm').hidden = true;
+    if (r.engineCreated) { CODE_CACHE = null; ADD_DL = null; }
+    if (r.engine_code) { await loadEngine(r.engine_code, { keepSelection:false }); }
+    else { await refreshEngineData(); }
+    if (S.brand && S.model) await refreshCascadePath();
+  } catch (e) {
+    toast('Add car failed: ' + e.message, 'err');
+  } finally {
+    btn.disabled = false; btn.textContent = 'Add car';
+  }
+}
+
+async function refreshCascadePath(){
+  if (!S.brand || !S.model) return;
+  const types = await api(`/api/brands/${encode(S.brand)}/models/${encode(S.model)}/engine_types`);
+  const keepType = S.etype && types.some(t => t.engine_type === S.etype);
+  selEtype.innerHTML = '<option value="">— select engine type —</option>' +
+    types.map(t => `<option value="${t.engine_type.replace(/"/g,'&quot;')}">${t.engine_type || '(empty)'} · ${t.n} variant${t.n>1?'s':''}</option>`).join('');
+  selEtype.disabled = false;
+  S.etype = keepType ? S.etype : (types.length === 1 ? types[0].engine_type : '');
+  selEtype.value = S.etype;
+  if (!S.etype) { selCode.innerHTML=''; selCode.disabled=true; return; }
+  const codes = await api(`/api/brands/${encode(S.brand)}/models/${encode(S.model)}/codes?engine_type=${encode(S.etype)}`);
+  selCode.innerHTML = '<option value="">— select engine code —</option>' +
+    codes.map(c => `<option value="${c.engine_code.replace(/"/g,'&quot;')}">${c.engine_code} · ${c.n} variant${c.n>1?'s':''}</option>`).join('');
+  selCode.disabled = false;
+  if (S.code && codes.some(c => c.engine_code === S.code)) selCode.value = S.code;
+}
+
+/* ---------- search ---------- */
+let CODE_CACHE = null;
+async function codeCache(){
+  if (!CODE_CACHE) CODE_CACHE = await api('/api/codes');
+  return CODE_CACHE;
+}
+
+$('#search').addEventListener('input', async () => {
+  const qTxt = $('#search').value.trim().toLowerCase();
+  const box = $('#sr');
+  if (qTxt.length < 2) { box.classList.remove('open'); return; }
+  let hits = [];
+  const all = await codeCache();
+  hits = all.filter(c =>
+    (c.engine_code && c.engine_code.toLowerCase().includes(qTxt)) ||
+    (c.engine_type && c.engine_type.toLowerCase().includes(qTxt)) ||
+    (c.fuel && c.fuel.toLowerCase().includes(qTxt)) ).slice(0, 30);
+  if (!hits.length) hits = [{ engine_code: null, engine_type: 'no exact match — use code prefix' }];
+  box.innerHTML = hits.map(h => `<div data-code="${escapeHtml(h.engine_code||'')}">
+      <span class="code">${escapeHtml(h.engine_code||'—')}</span> &nbsp;${escapeHtml(h.engine_type||'')}
+      <span class="muted">${h.fuel||''} ${h.power_hp?h.power_hp+' hp':''}</span></div>`).join('');
+  box.classList.add('open');
+  box.querySelectorAll('div[data-code]').forEach(d => {
+    d.onclick = () => {
+      box.classList.remove('open');
+      const c = d.dataset.code;
+      if (!c) { toast('Unknown code', 'err'); return; }
+      if (!confirmLeave()) { $('#search').value = ''; return; }
+      $('#search').value = c;
+      loadEngine(c, { keepSelection:true });
+    };
+  });
+});
+$('#search').addEventListener('blur', () => setTimeout(()=>$('#sr').classList.remove('open'), 200));
+
+/* ---------- buttons ---------- */
+$('#btnBackup').onclick = async () => {
+  try { const r = await api('/api/backup'); toast('Backup saved: ' + r.file.split('\\').pop(), 'ok'); }
+  catch (e) { toast('Backup failed: ' + e.message, 'err'); }
+};
+$('#btnOpenBak').onclick = async () => { api('/api/openbackups'); toast('Opened backups folder'); };
+
+$('#btnExport').onclick = () => {
+  if (!S.data) return;
+  const blob = new Blob([JSON.stringify(S.data, null, 2)], { type:'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'engine_' + S.code.replace(/[^A-Za-z0-9_.-]/g, '_') + '.json';
+  a.click();
+  URL.revokeObjectURL(a.href);
+};
+
+$('#saveAll').onclick = saveAll;
+$('#discardAll').onclick = discardAll;
+$('#btnAddEngine').onclick = showAddForm;
+$('#btnEditCode').onclick = showEditForm;
+$('#btnAddBrand').onclick = showAddBrand;
+$('#btnAddModel').onclick = showAddModel;
+$('#btnDelModel').onclick = doDeleteModel;
+
+/* ---------- keyboard + leave warnings ---------- */
+window.addEventListener('keydown', e => {
+  if (e.key === 'Escape') { closeVariantModal(); return; }
+  if ((e.ctrlKey || e.metaKey) && !e.shiftKey && e.key.toLowerCase() === 's') {
+    e.preventDefault();
+    if (S.data) saveAll();
+  }
+});
+window.addEventListener('beforeunload', e => {
+  if (pendCount()) { e.preventDefault(); e.returnValue = ''; }
+});
+
+/* ---------- events ---------- */
+selBrand.addEventListener('change', onBrand);
+selModel.addEventListener('change', onModel);
+selEtype.addEventListener('change', onEtype);
+selCode.addEventListener('change', onCode);
+
+/* ---------- boot ---------- */
+(async () => {
+  await loadBrands();
+})();
+</script>
+</body>
+</html>
