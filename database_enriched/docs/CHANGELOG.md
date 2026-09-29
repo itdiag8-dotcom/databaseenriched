@@ -179,3 +179,19 @@
 - Script: step9_step5_lemon_replacement.py (dry-run default, --apply gate).
 - Backup: backups/car_database_backup_pre_step9_2026-09-29.db
 - Decisions log: csv_exports/17_lemon_replacement_decisions.csv
+
+## Step 10 + 10b — 2026-09-30 (user-plan Step 5, batch 2): LEMON replacement, Mopar SUVs/LX cars/Jeep/Ram 1500
+
+- Replaced 638 LEMON_* codes with real OEM codes (3.6 Pentastar 172, EZH 121, EVA 40, EKG 40, EXL 29,
+  6.2 Hellcat 29, ESH 24, ESF 21 ...) using displacement + VIN char + year + fuel, verified against
+  the Chrysler HEMI/PowerTech wiki tables, the 2015 lemon crawl (VIN G/T/M/B/S/N + Eng CD EZC/EZH/ESG/ESH),
+  and Hurricane references (see STEP5_BATCH2_REPORT.md).
+- Created 12 engine rows (Hellcat, 3.5 LX, 3.2 Pentastar, 2.0 GME (+4xe), 5.7 HEMI Hybrid, 4.0/2.5 AMC,
+  R428, 3.0 CRD OM642, 3.0 Hurricane); fixed EDZ config (I4 not V6), EZC 340hp, EXL, ESH, EZH rows.
+- 38 fuel-label fixes (EcoDiesel/CRD diesels + GC 4xe hybrid).
+- 15 rows skipped on principle (Nitro 4.0, Cherokee VIN X, ambiguous bare rows) - documented.
+- Step 10b: overrode 32 target engines' ESTIMATE-heuristic oil/coolant specs with the real crawled
+  lemon data recovered from backups (also covers batch-1 targets); 0 ESTIMATE sources remain among
+  step-9/10 targets.
+- 10,114 LEMON rows remain (batches 3+: Explorer/Edge/Escape, imports).
+- Backups: pre_step10, pre_step10b. Decisions: csv_exports/18_lemon_batch2_decisions.csv.
