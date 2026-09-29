@@ -1,0 +1,118 @@
+entry
+"  variant 20695: M54256S5 -> M54B25 (https://en.wikipedia.org/wiki/BMW_M54 (M54B25 = 2,494 cc))"
+  skip spec migrate M54256S5->M54B25 (source is ESTIMATE)
+  skip spec migrate M54256S5->M54B25 (source is ESTIMATE)
+  engine row M54256S5 retired (1 variants moved)
+"  variant 19529: G4KR -> G4EE (https://www.drom.ru/catalog/kia/engine/g4ee/ + https://en.kiaclub.cz/engine_detail.php?id=27 (G4EE = Kia Alpha 1.4 DOHC 1,399 cc 75-97 hp; Kia Pride/Rio))"
+"  variant 19531: G4KR -> G4EE (https://www.drom.ru/catalog/kia/engine/g4ee/ + https://en.kiaclub.cz/engine_detail.php?id=27 (G4EE = Kia Alpha 1.4 DOHC 1,399 cc 75-97 hp; Kia Pride/Rio))"
+  skip spec migrate G4KR->G4EE (source is ESTIMATE)
+  skip spec migrate G4KR->G4EE (source is ESTIMATE)
+  engine row G4KR retired (2 variants moved)
+"  variant 19530: H4KR -> G4EE (https://www.drom.ru/catalog/kia/engine/g4ee/ + https://en.kiaclub.cz/engine_detail.php?id=27 (G4EE = Kia Alpha 1.4 DOHC 1,399 cc 75-97 hp; Kia Pride/Rio))"
+"  variant 19532: H4KR -> G4EE (https://www.drom.ru/catalog/kia/engine/g4ee/ + https://en.kiaclub.cz/engine_detail.php?id=27 (G4EE = Kia Alpha 1.4 DOHC 1,399 cc 75-97 hp; Kia Pride/Rio))"
+  skip spec migrate H4KR->G4EE (source is ESTIMATE)
+  skip spec migrate H4KR->G4EE (source is ESTIMATE)
+  engine row H4KR retired (2 variants moved)
+  variant 20851: 25V6S1 -> KV6 (Rover/MG KV6 2.5 V6 2497cc 177hp (existing DB row))
+  variant 24335: 25V6S1 -> KV6 (Rover/MG KV6 2.5 V6 2497cc 177hp (existing DB row))
+  skip spec migrate 25V6S1->KV6 (source is ESTIMATE)
+  skip spec migrate 25V6S1->KV6 (source is ESTIMATE)
+  engine row 25V6S1 retired (2 variants moved)
+  M54B25 displacement 2457->2494; G4EE 1400->1399 [cited]
+  variant 10687: C20LET -> F6JD (existing DB row (Ford 1.4 TDCi 1399cc 70hp))
+  variant 25313: C20LET -> K9K858 (existing DB row; sibling Duster 2012 1.5 dCi 109hp variants use K9K898/856/858)
+  variant 20879: C20LET -> F1CE0481FA (existing DB rows (Iveco 3.0 HPI TurboDiesel 146/176hp); sibling Massif variants use them)
+  variant 20887: C20LET -> F1CE0481FA (existing DB rows (Iveco 3.0 HPI TurboDiesel 146/176hp); sibling Massif variants use them)
+  variant 20881: C20LET -> F1CE0481HA (existing DB rows (Iveco 3.0 HPI TurboDiesel 146/176hp); sibling Massif variants use them)
+  variant 20885: C20LET -> F1CE0481HA (existing DB rows (Iveco 3.0 HPI TurboDiesel 146/176hp); sibling Massif variants use them)
+  C20LET engine row corrected to Opel 2.0 16v Turbo 204hp petrol
+  C20LET spec row cleared (was Ford 1.4 TDCi data)
+  created engine row 5.0 Rover V8: 5.0 V8 Rover (Marcos TS500)
+"  created engine row smart ED (450): Electric motor 30 kW (Zytek, Zebra battery)"
+"  created engine row Duratec 2.3 CSR: 2.3 I4 Ford Duratec (Cosworth-tuned, CSR/CSR260)"
+  created engine row M73B54: 5.4 V12 (BMW M73)
+  variant 17414: None -> C20LET (https://www.autodoc.co.uk/car-parts/timing-chain-kit-15065/caterham/seven/seven-cf/20729-2-0-turbo (Caterham Seven CF 2.0 Turbo 204hp 1998cc = C20 LET))
+  queue 227: pending -> remapped (C20LET)
+  variant 16239: None -> LCBD (https://autodata24.com/marcos/ts/ts-250/details + https://www.vindecoderz.com/EN/Marcos/Marcasite/2004/TS250%202.5%20MT/specs-features/19015 (2.5 Ford V6 Duratec 24V 175-180hp))
+  queue 209: pending -> remapped (LCBD)
+  variant 16240: None -> 5.0 Rover V8 (https://www.ultimatespecs.com/car-specs/Marcos/28718/Marcos-TS500-50-V8.html + https://www.carthrottle.com/post/nkvver3 (5.0 V8 320hp; Rover V8))
+  queue 210: pending -> remapped (5.0 Rover V8)
+"  variant 18714: None -> smart ED (450) (https://en.wikipedia.org/wiki/Smart_electric_drive + https://www.topspeed.com/cars/smart/2007-smart-fortwo-electric-vehicle/ (first-gen 450 ed: Zytek 30 kW/41hp, Zebra battery, London 2007))"
+  queue 280: pending -> remapped (smart ED (450))
+  variant 21361: None -> GW4G15T (https://www.chinamobil.ru/eng/great-wall/voleex-c50/?view=props + https://www.coolcarsinchina.com/2022/11/19/great-wall-voleex-c50-is-a-compact-sedan-in-china/ (Voleex/Tengyi C50 1.5T GW4G15T petrol 1497cc 133hp))
+  queue 355: pending -> remapped (GW4G15T)
+  variant 15974: None -> 4G64S4M (https://myenginespecs.com/mitsubishi/mitsubishi-4g64-engine-specs-configuration-and-service-intervals/ (Mitsubishi 4G64 2.4) + DB sibling Landwind variants)
+  queue 489: pending -> remapped (4G64S4M)
+"  variant 2193: 2.3 16v 5MT -> Duratec 2.3 CSR (https://en.wikipedia.org/wiki/Caterham_7 (CSR: 2.3 Ford Duratec, Cosworth-tuned, 200/260hp))"
+"  variant 2194: 2.3 16v 6MT -> Duratec 2.3 CSR (https://en.wikipedia.org/wiki/Caterham_7 (CSR: 2.3 Ford Duratec, Cosworth-tuned, 200/260hp))"
+"  GW4G15T row fixed: Petrol, 133hp, 1497cc; variant 3631 fuel/power fixed; bad estimate cleared"
+"  spec fill G6DA: {'oil_viscosity': '5W-30', 'oil_capacity_with_filter_l': 5.5, 'oil_oem_spec': 'Ford WSS-M2C913-C/D, ACEA A1/B1-A5/B5'}"
+"  spec fill G6DG: {'oil_viscosity': '5W-30', 'oil_capacity_with_filter_l': 5.5, 'oil_oem_spec': 'Ford WSS-M2C913-C/D, ACEA A1/B1-A5/B5'}"
+"  spec fill G6DA (Hyundai): {'oil_viscosity': '5W-30', 'oil_capacity_with_filter_l': 6.0}"
+"  spec fill G6DG (Hyundai): {'oil_viscosity': '5W-30', 'oil_capacity_with_filter_l': 6.9}"
+  spec fill M62B48: {'oil_capacity_with_filter_l': 7.5}
+"  spec fill M73B54: {'oil_viscosity': '5W-40', 'oil_capacity_with_filter_l': 8.0, 'coolant_capacity_l': 15.0}"
+"  7.3 PSD oil 12.87->14.2 L; 6.0 PSD 16.08->14.2 L (15 qt, cited); 6.7 PSD coolant 1.41 L cleared (impossible)"
+  engine row 4.6 V8 GT Convertible: junk etype '4.6 V8 GT Convertible' -> '4.6 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 4.6 V8 Automatic GT Convertible: junk etype '4.6 V8 Automatic GT Convertible' -> '4.6 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 5.0 V8 GT Convertible: junk etype '5.0 V8 GT Convertible' -> '5.0 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 2.3 Turbo Ecoboost Automatic Convertible: junk etype '2.3 Turbo Ecoboost Automatic Convertible' -> '2.3 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 2.3 Turbo Ecoboost Convertible: junk etype '2.3 Turbo Ecoboost Convertible' -> '2.3 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 4.7 V8 Convertible: junk etype '4.7 V8 Convertible' -> '4.7 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 5.4 V8 GT500 Convertible: junk etype '5.4 V8 GT500 Convertible' -> '5.4 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 5.4 V8 GT500 SVT Convertible: junk etype '5.4 V8 GT500 SVT Convertible' -> '5.4 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row K24Z4: junk etype 'SX4 Hatchback' -> '2.4 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row K24Z1: junk etype 'SX4 Hatchback' -> '2.4 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row N47C20A: junk etype '4.9 Roadster' -> '2.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row N04C-TQ: junk etype '940 II Estate (corr.)' -> '4.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row N04C-UP: junk etype '940 II Estate (corr.)' -> '4.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row N04C-VF: junk etype '940 II Estate (corr.)' -> '4.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row OM640.941: junk etype 'TIIDA Saloon (SC11X)' -> '2.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row 4ET50: junk etype 'FEITENG Closed Off-Road Vehicle' -> 'Electric Motor' (derived from own cc/fuel/cyl columns)
+  engine row 2AR-FE: junk etype 'HEIJINGANG Closed Off-Road Vehicle' -> '2.5 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 6B31: junk etype 'PAJERO Closed Off-Road Vehicle' -> '3.0 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 6G74(SOHC24V): junk etype 'ZERO I Convertible' -> '3.5 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row N6A(TU5JP4): junk etype 'X-TYPE Estate' -> '1.6 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row OM642.834: junk etype 'HOVER Closed Off-Road Vehicle' -> '3.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row 6G72(SOHC24V): junk etype 'PAJERO Closed Off-Road Vehicle' -> '3.0 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row M159.980: junk etype 'SANTA FE Closed Off-Road Vehicle' -> '6.2 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row M9T870: junk etype 'BLAZER Closed Off-Road Vehicle' -> '2.3 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row N04C-UL: junk etype '940 II Estate (945)' -> '4.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row F1AE0481HA: junk etype 'WINDSIDE Bus' -> '2.3 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row 1H-Z: junk etype 'HF8 MPV' -> '4.2 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row N04C-UM: junk etype '940 II Estate (945)' -> '4.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row N04C-UN: junk etype '940 II Estate (945)' -> '4.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row N04C-UQ: junk etype '940 II Estate (945)' -> '4.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row M160E6ALB03: junk etype 'ESCORT Estate' -> '0.6 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row M160.920: junk etype 'ESCORT Estate' -> '0.6 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row P9X701: junk etype 'STANZA Hatchback' -> '3.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row 841D.000: junk etype 'CROWN Estate' -> '2.4 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row F9Q812: junk etype '6 Hatchback (GH)' -> '1.9 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row M134.910: junk etype 'SAIFU Bus' -> '1.1 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row M135.930: junk etype 'IMAGE Bus' -> '1.3 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row 939A.000: junk etype 'WAGON Closed Off-Road Vehicle' -> '3.2 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row M9R761: junk etype 'SEBRING Convertible' -> '2.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row M9R762: junk etype 'SEBRING Convertible' -> '2.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row M9R763: junk etype 'SEBRING Convertible' -> '2.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row M273.924: junk etype 'JMC JEEP Closed Off-Road Vehicle' -> '4.7 Petrol' (derived from own cc/fuel/cyl columns)
+"  engine row H7: junk etype 'BOXER Bus (244, Z_)' -> '3.6 Petrol' (derived from own cc/fuel/cyl columns)"
+"  engine row HB: junk etype 'DUCATO Bus (244, Z_)' -> '3.6 Petrol' (derived from own cc/fuel/cyl columns)"
+"  engine row LEO: junk etype 'DUCATO Bus (244, Z_)' -> '3.6 Petrol' (derived from own cc/fuel/cyl columns)"
+  engine row K4M766: junk etype 'CARIBE Estate' -> '1.6 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row D7F800: junk etype 'ECHO Saloon' -> '1.1 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row J37A2: junk etype 'HERO Bus' -> '3.7 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row CA: junk etype 'HERO Bus' -> '3.7 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row L35: junk etype 'DEVAN Bus' -> '4.3 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row LFW: junk etype 'ECONOVAN Bus' -> '3.0 Petrol' (derived from own cc/fuel/cyl columns)
+  engine row W04D-TP: junk etype '940 II Estate (945)' -> '4.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row W04D-TR: junk etype '940 II Estate (945)' -> '4.0 Diesel' (derived from own cc/fuel/cyl columns)
+  engine row 4A30: junk etype 'XSARA Saloon' -> '0.7 Petrol' (derived from own cc/fuel/cyl columns)
+"  etype cleaned: 4308 junk-pattern rows, 906 displacement-spoof rows, 54 engine-row junk etypes"
+deleted orphaned junk engine row 2.3 16v 5MT
+deleted orphaned junk engine row 2.3 16v 6MT
+recomputed engines.count_variants from actual vehicle_variants links (all 15k+ rows)
+=== step 11c: PSD sibling oil fixes ===
+  7.3 V8 Powerstroke: oil 9.5 -> 14.2 L
+  T444E: oil 9.5 -> 14.2 L
+  6.4 V8 Powerstroke: oil 9.5 -> 14.2 L
+  6.7 V8 Powerstroke: oil 9.5 -> 12.3 L

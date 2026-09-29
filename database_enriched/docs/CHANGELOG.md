@@ -195,3 +195,27 @@
   step-9/10 targets.
 - 10,114 LEMON rows remain (batches 3+: Explorer/Edge/Escape, imports).
 - Backups: pre_step10, pre_step10b. Decisions: csv_exports/18_lemon_batch2_decisions.csv.
+
+## Step 11 + 11b + 11c — 2026-09-30: small cleanups (user-approved list)
+
+- Garbled codes retired: M54256S5→M54B25 (cc fixed 2494), G4KR/H4KR→G4EE (Kia Alpha 1.4 1399cc),
+  25V6S1→KV6; C20LET row corrected from mis-coded Ford 1.4 TDCi data to Opel 2.0 16v Turbo 204hp,
+  6 wrong attachments moved to real sibling codes (F6JD, K9K858, F1CE0481FA/HA).
+- Resolved 6 remaining pending queue items with citations (Marcos TS250/TS500, smart ed 450,
+  GWM C50 GW4G15T, Landwind 4G64S4M, Caterham CF C20LET) + Caterham CSR junk codes → new
+  'Duratec 2.3 CSR' row. Queue: 88 pending / 393 remapped.
+- 4 new STEP11_VERIFIED engine rows (5.0 Rover V8, smart ED (450) — first Electric engine,
+  Duratec 2.3 CSR, M73B54). Orphan refs now 0 (Rolls-Royce Park Ward closed).
+- OEM spec fills with citations: G6DA/G6DG Ford 2.0 TDCi 5W-30 5.5L WSS-M2C913-C/D, G6DA/G6DG
+  (Hyundai) 6.0/6.9L, M62B48 7.5L, M73B54 5W-40 8.0L/15L coolant.
+- Power Stroke fixes: 7.3 oil 12.87→14.2L, 6.0 oil 16.08→14.2L, 6.7 coolant cleared; sibling rows
+  7.3 V8 Powerstroke/T444E/6.4 V8 Powerstroke 9.5→14.2L, 6.7 V8 Powerstroke 9.5→12.3L.
+- Cosmetic etype cleanup: 4,308 junk-pattern + 906 displacement-spoof variant etypes (engine-table
+  etype propagated only when itself clean & self-consistent, else NULL); 54 engine rows with
+  car-model/body-style junk etypes relabeled from own cc/fuel columns.
+- Step 11b: deleted 2 orphaned Caterham junk rows; recomputed all engines.count_variants from
+  actual links (0 mismatches).
+- Verification: garbled codes gone, 0 junk-pattern etypes, 0 orphan refs, 0 count mismatches.
+- LEMON unchanged at 10,114 (batch 3 Ford Explorer/Edge/Escape next).
+- Scripts: step11_small_cleanups.py, step11b_post_fix.py, step11c_psd_oil.py.
+  Backup: pre_step11. Logs: csv_exports/19_small_cleanups_log.csv + 19_small_cleanups_decisions.csv.
