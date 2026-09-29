@@ -164,3 +164,18 @@
 - 48 new real brand rows (188->236 brands); 18 duplicate model rows merged (6299->6281); 0 hernr remnants in variants/models/engines/queue.
 - Bonus: Hummer H3 3.5 220hp remapped to L52 (NULL 96->95, specs 39,085->39,086); 5 brand-blocked queue pendings unblocked with citation notes (Marcos TS250/TS500, smart ed 41hp, GWM Tengyi C50, Landwind 2.4, Caterham Seven CF).
 - Source mystery solved: hernr_N = Vivid Hersteller-Nummer; original vivid_cars2000.db in repo root has same-broken brand column but yields kmodnr IDs + identification of non-imported buckets (Noble/RUF/Tesla/IKCO/Fisker/GAZ/Bristol/Lincoln). Decisions: csv_exports/16_brand_rebadge_decisions.csv. Backup: backups/car_database_backup_pre_step8_2026-09-29.db.
+
+## Step 9 — 2026-09-29 (user-plan Step 5, batch 1): LEMON synthetic-code replacement, US trucks/SUVs/vans
+
+- Replaced 1,885 LEMON_* synthetic engine codes with real OEM codes (Ford 633, Chevrolet 531,
+  GMC 457, Dodge 96, Ram 95, Cadillac 45, Lincoln 28) using displacement + 8th-VIN char + year +
+  fuel, verified against 20 web references (see STEP5_BATCH1_REPORT.md).
+- Migrated all crawled service/technical specs onto the real codes (v_vehicle_with_service
+  coverage unchanged at 39,086); provenance sources preserved.
+- Created 47 new engine rows (STEP9_VERIFIED); fixed junk engine_type on LFA/L18, L5P fuel, L8T specs.
+- Corrected 279 variant fuel labels (Petrol→Diesel) where lemon mislabeled diesel-only engines.
+- 97 in-scope rows deliberately skipped (ambiguous signal) — documented in report.
+- 10,752 LEMON rows remain for later batches (cars/SUVs/crossovers).
+- Script: step9_step5_lemon_replacement.py (dry-run default, --apply gate).
+- Backup: backups/car_database_backup_pre_step9_2026-09-29.db
+- Decisions log: csv_exports/17_lemon_replacement_decisions.csv
