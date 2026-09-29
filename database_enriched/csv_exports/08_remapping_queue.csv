@@ -1,0 +1,482 @@
+vehicle_variant_id,car_brand,car_model,car_year,variant_fuel,variant_power_hp,variant_engine_type,wrong_engine_code,wrong_engine_brand_example,wrong_engine_model_example,reason,detail
+2801,Effedi,Gasolone,2009,Diesel,109,1.5 16v,1.5 16v,Chevrolet,Cobalt,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+3987,Hyundai,Grandeur,2011,Petrol,266,3.0 V6 Automatic,G6DG,Ford,Kuga,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3000 vs 2000 cc also mismatched
+4130,Hyundai,Ix35,2010,Petrol,161,2.0 16v 2WD,G4HD,Hyundai,Getz,DISPLACEMENT_MISMATCH,variant engine_type '2.0 16v 2WD' -> 2000 cc vs engine 1100 cc (82% off)
+4131,Hyundai,Ix35,2010,Petrol,161,2.0 16v 2WD Automatic,G4HD,Hyundai,Getz,DISPLACEMENT_MISMATCH,variant engine_type '2.0 16v 2WD Automatic' -> 2000 cc vs engine 1100 cc (82% off)
+4132,Hyundai,Ix35,2010,Petrol,161,2.0 16v 4WD,G4HD,Hyundai,Getz,DISPLACEMENT_MISMATCH,variant engine_type '2.0 16v 4WD' -> 2000 cc vs engine 1100 cc (82% off)
+4133,Hyundai,Ix35,2010,Petrol,161,2.0 16v 4WD Automatic,G4HD,Hyundai,Getz,DISPLACEMENT_MISMATCH,variant engine_type '2.0 16v 4WD Automatic' -> 2000 cc vs engine 1100 cc (82% off)
+4370,Hyundai,Tucson,2011,Petrol,165,2.0 16v 2WD,G4HD,Hyundai,Getz,DISPLACEMENT_MISMATCH,variant engine_type '2.0 16v 2WD' -> 2000 cc vs engine 1100 cc (82% off)
+4372,Hyundai,Tucson,2011,Petrol,165,2.0 16v 2WD Automatic,G4HD,Hyundai,Getz,DISPLACEMENT_MISMATCH,variant engine_type '2.0 16v 2WD Automatic' -> 2000 cc vs engine 1100 cc (82% off)
+4392,Hyundai,Tucson Ix,2009,Petrol,164,2.0 16v VVT 2WD Automatic,G4HD,Hyundai,Getz,DISPLACEMENT_MISMATCH,variant engine_type '2.0 16v VVT 2WD Automatic' -> 2000 cc vs engine 1100 cc (82% off)
+9212,Volkswagen,Touareg,2003,Petrol,217,3.2 V6 24v,BAA,Ford,Ka,DISPLACEMENT_MISMATCH,variant engine_type '3.2 V6 24v' -> 3200 cc vs engine 1300 cc (146% off)
+9682,Renault,KANGOO Express (FC0/1_),2004,Petrol,82,1.6 16V bivalent,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+9724,Volkswagen,GOLF VI (5K1),2007,Petrol,102,1.6 (corr.),CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+9785,BMW,1 (F20),2011,Diesel,116,1.6 (est.),N47D16A,Bmw,1 Series,DISPLACEMENT_MISMATCH,variant engine_type '1.6 (est.)' -> 1600 cc vs engine 1222 cc (31% off)
+9821,Subaru,XV,2011,Diesel,109,2.0 D,A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+9950,Mini,MINI COUNTRYMAN (R60),2009,Petrol,163,6.5 D AWD,N18B16A,Mini,MINI Roadster (R59),DISPLACEMENT_MISMATCH,variant engine_type '6.5 D AWD' -> 6500 cc vs engine 1598 cc (307% off)
+9979,Alpina,D5 Touring (F11),2010,Diesel,350,3 (est.),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+10009,Dacia,LOGAN MCV (KS_),2009,Diesel,75,2.0 -16,K9K892,Dacia,DUSTER,DISPLACEMENT_MISMATCH,variant engine_type '2.0 -16' -> 2000 cc vs engine 1461 cc (37% off)
+10036,Honda,CR-V IV (RE),2011,Petrol,150,2.0,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2000 vs 1300 cc also mismatched
+10107,Hyundai,GENESIS Coupe,2007,Petrol,303,3.8 V6,G6DA,Ford,C-Max,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3800 vs 2000 cc also mismatched
+10128,Mercedes,VITO / MIXTO Box (W639),2009,Diesel,136,45 1.2,OM651.940,Mercedes,VITO / MIXTO Box (W639),DISPLACEMENT_MISMATCH,variant engine_type '45 1.2' -> 1200 cc vs engine 2143 cc (44% off)
+10132,Mercedes,VITO Bus (W639),2009,Diesel,136,45 1.2,OM651.940,Mercedes,VITO / MIXTO Box (W639),DISPLACEMENT_MISMATCH,variant engine_type '45 1.2' -> 1200 cc vs engine 2143 cc (44% off)
+10238,Volkswagen,TOUAREG (7P5),2009,Petrol,249,3.6 V6 FSI,CMTA,Volkswagen,Touareg,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+10315,Hyundai,GRAND SANTA FÉ,2012,Diesel,197,2.2 (est.),B207L,Saab,93,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+10410,Land Rover,DISCOVERY IV (LA),2012,Petrol,340,COROLLA,CGQB,Audi,A6,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+10425,Jaguar,XK Coupe (_J43_),2010,Petrol,550,1.3 JTD Multijet,508PS,Jaguar,"XJ (X35_, _J12_, _J24_)",DISPLACEMENT_MISMATCH,variant engine_type '1.3 JTD Multijet' -> 1300 cc vs engine 5000 cc (74% off)
+10437,hernr_1556,AMERICA,2009,Electric Motor,299,Electric,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+10438,hernr_1556,ASTROLAB,2009,Electric Motor,22,Electric,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+10439,hernr_1556,FETISH,2006,Electric Motor,299,Electric,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+10454,hernr_181,PORTER Dumptruck,2010,Electric Motor,24,Electric,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+10457,hernr_181,PORTER Platform/Chassis,2010,Electric Motor,24,Electric,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+10463,hernr_181,PORTER Box,2010,Electric Motor,24,Electric,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+10468,hernr_181,PORTER Bus,2010,Electric Motor,24,Electric,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+10475,hernr_181,APE CALESSINO Convertible,2006,Electric Motor,12,Electric,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+10577,MG,MG 6 Hatchback,2009,Petrol,160,1.8 T,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '1.8 T' -> 1800 cc vs engine 1329 cc (35% off)
+10579,MG,MG 6 Hatchback,2009,Petrol,133,1.8,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '1.8' -> 1800 cc vs engine 1329 cc (35% off)
+10583,Mitsubishi,i (HA_),2009,Petrol,64,0.7,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '0.7' -> 700 cc vs engine 1329 cc (47% off)
+10618,Saab,9-3X,2010,Petrol,220,1.2 GL (A151A),A20NFT,Opel,Astra,DISPLACEMENT_MISMATCH,variant engine_type '1.2 GL (A151A)' -> 1200 cc vs engine 2000 cc (40% off)
+10633,Saab,9-3 (YS3F),2010,Petrol,220,2.7 CRD Laredo,A20NFT,Opel,Astra,DISPLACEMENT_MISMATCH,variant engine_type '2.7 CRD Laredo' -> 2700 cc vs engine 2000 cc (35% off)
+10718,hernr_1553,PATRIOT,2003,Petrol,128,2.7,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.7' -> 2700 cc vs engine 1329 cc (103% off)
+10720,hernr_1553,PATRIOT,2003,Petrol,112,2.7,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.7' -> 2700 cc vs engine 1329 cc (103% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping
+10722,hernr_1553,PICKUP (2360),2003,Petrol,128,2.7,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.7' -> 2700 cc vs engine 1329 cc (103% off)
+10724,hernr_1553,HUNTER (3151),2003,Petrol,128,2.7,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.7' -> 2700 cc vs engine 1329 cc (103% off)
+10814,Volkswagen,VOYAGE,2007,Petrol,76,2.0 GSX,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '2.0 GSX' -> 2000 cc vs engine 2997 cc (33% off)
+10840,Mercedes,E-CLASS Coupe (C207),2010,Petrol,252,2.0 Zi,M276.957,Mercedes,"R-CLASS (W251, V251)",DISPLACEMENT_MISMATCH,variant engine_type '2.0 Zi' -> 2000 cc vs engine 3498 cc (43% off)
+10853,Alpina,D5 (F10),2010,Diesel,350,3 (est.),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+10907,Lexus,"ES (GSV4_, ACV4_)",2005,Petrol,277,3.5,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '3.5' -> 3500 cc vs engine 1329 cc (163% off)
+10908,Cadillac,CTS Sport Wagon,2007,Petrol,276,ECONOVAN Bus,C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 276 hp vs engine 99 hp (179% off), brands Cadillac vs Subaru, displacement unverifiable"
+10963,BMW,X3 (E83),2007,Diesel,163,2.0 d (corr.),N47D20C,Bmw,1 Series,DISPLACEMENT_MISMATCH,variant engine_type '2.0 d (corr.)' -> 2000 cc vs engine 1482 cc (35% off)
+10979,Hyundai,i40 CW (VF),2010,Diesel,136,3.0 -24 V6 CS/CSE,D4FD,Hyundai,I40,DISPLACEMENT_MISMATCH,variant engine_type '3.0 -24 V6 CS/CSE' -> 3000 cc vs engine 1700 cc (76% off)
+10990,Toyota,"DYNA Platform/Chassis (KD_, LY_, TRY2_, KDY2_, XZU4_, XZU3_,",2005,Petrol,133,2.0,A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+10992,Toyota,"DYNA Platform/Chassis (KD_, LY_, TRY2_, KDY2_, XZU4_, XZU3_,",2005,Petrol,116,E 250 T Turbo-D (210.215),A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+11095,Mercedes,"S-CLASS (W222, V222, X222)",2012,Petrol,585,GAZELLE (corr.),1TR-FE,Toyota,"DYNA Platform/Chassis (KD_, LY_, TRY2_, KDY2_, XZU4_, XZU3_,",POWER_MISMATCH_CROSSBRAND,"variant 585 hp vs engine 133 hp (340% off), brands Mercedes vs Toyota, displacement unverifiable"
+11097,Mercedes,"S-CLASS (W222, V222, X222)",2012,Petrol,585,GAZELLE (corr.),2KD-FTV,Toyota,Commuter,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+11099,hernr_802,EXIGE (SCC_),2005,Petrol,275,0.8 6336,2ZZ-GE,Lotus,Elise,DISPLACEMENT_MISMATCH,variant engine_type '0.8 6336' -> 800 cc vs engine 1800 cc (56% off)
+11115,Volkswagen,"CADDY III Box (2KA, 2KH, 2CA, 2CH)",2009,Diesel,85,2.7 D Rear Wheel Drive,CFHE,Volkswagen,Caddy,DISPLACEMENT_MISMATCH,variant engine_type '2.7 D Rear Wheel Drive' -> 2700 cc vs engine 2000 cc (35% off)
+11145,Jaguar,XK Convertible (_J43_),2010,Petrol,550,1.3 JTD Multijet,508PS,Jaguar,"XJ (X35_, _J12_, _J24_)",DISPLACEMENT_MISMATCH,variant engine_type '1.3 JTD Multijet' -> 1300 cc vs engine 5000 cc (74% off)
+11221,Vauxhall,"CORSA Mk II (C) (W5L, F08)",2001,Petrol,84,1.6,C30SEJ,Hyundai,SANTA FÉ I (SM),DISPLACEMENT_MISMATCH,variant engine_type '1.6' -> 1600 cc vs engine 2656 cc (40% off)
+11270,Peugeot,508 SW,2010,Hybrid,200,3000 GT (Z16A),RHH (DW10CTED4),Citroen,C4,HARD_FUEL_CONFLICT,variant fuel=Hybrid vs engine fuel=Diesel
+11527,Kia,CARNIVAL / GRAND CARNIVAL III (VQ),2009,Petrol,275,3.8,G6DA,Ford,C-Max,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3800 vs 2000 cc also mismatched
+11722,hernr_1139,SLAVUTA (1103),2001,Petrol,60,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+11804,Chevrolet,CRUZE (J300),2011,Diesel,131,1.7 D,LUD,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+11811,Chevrolet,CRUZE Hatchback (J305),2011,Diesel,131,1.7 D,LUD,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+12002,Holden,STATESMAN Saloon (WH),2001,Petrol,232,3.8 (est.),A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3800 vs 1300 cc also mismatched
+12011,Ford,"TRANSIT Bus (FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _)",2000,Diesel,120,"2.4 DI [RWD] (F_B_, F_C_, F_A_)",D4FA,Hyundai,Accent,DISPLACEMENT_MISMATCH,"variant engine_type '2.4 DI [RWD] (F_B_, F_C_, F_A_)' -> 2400 cc vs engine 1500 cc (60% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping"
+12018,Ford,TRANSIT Box (FA_ _),2000,Diesel,120,"2.4 DI [RWD] (FAA_, FAB_, FAC_, FAD_)",D4FA,Hyundai,Accent,DISPLACEMENT_MISMATCH,"variant engine_type '2.4 DI [RWD] (FAA_, FAB_, FAC_, FAD_)' -> 2400 cc vs engine 1500 cc (60% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping"
+12022,Ford,"TRANSIT Platform/Chassis (FM_ _, FN_ _)",2000,Diesel,120,"2.4 DI (F_A_, F_B_, F_C_, F_D_)",D4FA,Hyundai,Accent,DISPLACEMENT_MISMATCH,"variant engine_type '2.4 DI (F_A_, F_B_, F_C_, F_D_)' -> 2400 cc vs engine 1500 cc (60% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping"
+12066,Alpina,B3 Estate (E46),2000,Petrol,280,3.3,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3300 vs 1300 cc also mismatched
+12068,hernr_803,AERO 8,2000,Petrol,286,4.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4400 vs 1300 cc also mismatched
+12087,Mercedes,"SPRINTER 2-t Bus (901, 902)",2000,Diesel,156,216 CDI,A14XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+12092,Mercedes,SPRINTER 3-t Bus (903),2000,Diesel,156,316 CDI,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+12186,Mercedes,SPRINTER 4-t Box (904),2000,Diesel,109,411 CDI,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+12188,Mercedes,SPRINTER 4-t Box (904),2000,Diesel,129,413 CDI,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+12256,Volvo,S60 I,2000,Petrol,140,2.4,DW12BTED4,Land Rover,FREELANDER 2 (FA_),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+12258,Volvo,S60 I,2000,Petrol,170,2.4,DW12BTED4,Land Rover,FREELANDER 2 (FA_),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+12342,Opel,MOVANO Box (F9),2000,Diesel,90,2.2 DTI,A14XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2200 vs 1400 cc also mismatched
+12370,Volkswagen,PASSAT (3B3),2000,Petrol,170,2.3 V5,B230FT,Mercedes,C-CLASS (W203),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+12405,Ford,MONDEO III Saloon (B4Y),2000,Diesel,90,2.0 16V DI / TDDi / TDCi,SDBA,Ford,Mondeo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+12464,Ford,MONDEO III (B5Y),2000,Diesel,90,2.0 16V DI / TDDi / TDCi,SDBA,Ford,Mondeo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+12466,Ford,MONDEO III Estate (BWY),2000,Diesel,90,2.0 16V DI / TDDi / TDCi,SDBA,Ford,Mondeo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+12557,Fiat,BRAVO I (182),2000,Petrol,80,1.2 16V 80,D24TIC,Ford,MONDEO III Estate (BWY),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 1200 vs 2198 cc also mismatched
+12569,Alfa Romeo,147 (937),2001,Petrol,105,1.6 16V T.SPARK ECO (937AXA1A),A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+12596,Jaguar,X-TYPE (CF1),2001,Petrol,196,2.5 (est.),A20DTH,Opel,Astra,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+12633,Ford,"TRANSIT Bus (FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _)",2000,Diesel,75,"2.0 DI (F_E_, F_F_, F_G_)",D3FA,Hyundai,I10,DISPLACEMENT_MISMATCH,"variant engine_type '2.0 DI (F_E_, F_F_, F_G_)' -> 2000 cc vs engine 1100 cc (82% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping"
+12635,Ford,TRANSIT Box (FA_ _),2000,Diesel,75,"2.0 DI (FAE_, FAF_, FAG_)",D3FA,Hyundai,I10,DISPLACEMENT_MISMATCH,"variant engine_type '2.0 DI (FAE_, FAF_, FAG_)' -> 2000 cc vs engine 1100 cc (82% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping"
+12637,Ford,"TRANSIT Platform/Chassis (FM_ _, FN_ _)",2000,Diesel,75,"2.0 DI (F_E_, F_F_)",D3FA,Hyundai,I10,DISPLACEMENT_MISMATCH,"variant engine_type '2.0 DI (F_E_, F_F_)' -> 2000 cc vs engine 1100 cc (82% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping"
+12750,Mazda,MX-5 II (NB),2000,Petrol,146,1.8 16V,BPD,Volkswagen,Touareg,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 1800 vs 2500 cc also mismatched
+12751,Mazda,MX-5 II (NB),2000,Petrol,139,1.8 16V,BPD,Volkswagen,Touareg,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 1800 vs 2500 cc also mismatched
+12860,Alpina,B3 Convertible (E46),2000,Petrol,280,3.3,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3300 vs 1300 cc also mismatched
+12939,hernr_788,VEYRON EB 16.4,2003,Petrol,1001,8.0 W16,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '8.0 W16' -> 8000 cc vs engine 2997 cc (167% off)
+13102,Opel,COMBO Box Body / Estate,2001,Petrol,87,1.6,A17DTS,Chevrolet,Cruze,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+13245,hernr_701,MURCIÉLAGO,2001,Petrol,579,6.2,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '6.2' -> 6200 cc vs engine 2997 cc (107% off)
+13422,Vauxhall,COMBO Mk II (C) Box Body / Estate (F25),2001,Petrol,87,1.6,A17DTS,Chevrolet,Cruze,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+13480,Honda,INTEGRA (DC5),2002,Petrol,220,2.0 16V Type-R,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '2.0 16V Type-R' -> 2000 cc vs engine 2997 cc (33% off)
+13486,Mini,"MINI (R50, R53)",2002,Petrol,163,Cooper S,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+13492,hernr_815,ARNAGE,2002,Petrol,457,6.8 V8 T,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 6800 vs 1300 cc also mismatched
+13559,Chevrolet,ALERO,2001,Petrol,141,2.2,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '2.2' -> 2200 cc vs engine 2997 cc (27% off)
+13572,Mazda,6 Hatchback (GG),2002,Petrol,166,2.3,C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2300 vs 1399 cc also mismatched
+13603,Mercedes,C-CLASS T-Model (S203),2002,Petrol,163,C 200 Kompressor (203.242),B230FT,Mercedes,C-CLASS (W203),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+13615,Alpina,B10 (E39),2002,Petrol,375,4.8 V8,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4800 vs 1300 cc also mismatched
+13643,Citroën,JUMPER Box (244),2002,Diesel,101,2.2 HDi,X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2200 vs 1598 cc also mismatched
+13655,hernr_2164,MAYBACH (240_),2002,Petrol,551,"5.5 V12 57/62 (240.078, 240.178)",A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 5500 vs 1300 cc also mismatched
+13677,Volkswagen,"TOUAREG (7LA, 7L6, 7L7)",2002,Petrol,220,3.2 V6,BAA,Ford,Ka,DISPLACEMENT_MISMATCH,variant engine_type '3.2 V6' -> 3200 cc vs engine 1300 cc (146% off)
+13909,Ford,STREET KA (RL2),2003,Petrol,95,1.6,CDRA,Audi,A8,DISPLACEMENT_MISMATCH,variant engine_type '1.6' -> 1600 cc vs engine 4200 cc (62% off)
+13951,Audi,"A4 (8E2, B6)",2002,Petrol,190,1.8 T,DW12BTED4,Land Rover,FREELANDER 2 (FA_),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+13984,Audi,A3 (8P1),2003,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14047,Opel,SIGNUM,2003,Diesel,177,3.0 V6 CDTI,Y30DT,Opel,Signum,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+14109,Honda,ACCORD VII Tourer (CM),2002,Petrol,155,2.0 (corr.),C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2000 vs 1399 cc also mismatched
+14156,hernr_701,GALLARDO,2003,Petrol,500,5.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '5.0' -> 5000 cc vs engine 2997 cc (67% off)
+14190,hernr_705,PHANTOM,2002,Petrol,460,6.75,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14198,Lexus,"RX (MHU3_, GSU3_, MCU3_)",2003,Petrol,204,300,1MZ-FE,Jaguar,C-X16,POWER_MISMATCH_CROSSBRAND,"variant 204 hp vs engine 429 hp (52% off), brands Lexus vs Jaguar, displacement unverifiable"
+14236,Mercedes,C-CLASS (W203),2003,Petrol,170,C 200 CGI Kompressor (203.043),D24TIC,Ford,MONDEO III Estate (BWY),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14246,Vauxhall,SIGNUM,2003,Diesel,177,3.0 CDTi,Y30DT,Opel,Signum,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+14293,Alfa Romeo,147 (937),2003,Diesel,101,1.9 JTD,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+14342,Mercedes,E-CLASS T-Model (S211),2003,Petrol,306,E 500 T 4-matic (211.283),D24TIC,Ford,MONDEO III Estate (BWY),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14416,Alpina,B3 (E46),2002,Petrol,305,3.4 S,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3400 vs 1300 cc also mismatched
+14417,Alpina,B3 Estate (E46),2002,Petrol,305,3.4 S,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3400 vs 1300 cc also mismatched
+14418,Alpina,B3 Coupe (E46),2002,Petrol,305,3.4 S,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3400 vs 1300 cc also mismatched
+14419,Alpina,B3 Convertible (E46),2002,Petrol,305,3.4 S,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3400 vs 1300 cc also mismatched
+14420,Alpina,B10 Estate (E39),2002,Petrol,375,4.8 V8,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4800 vs 1300 cc also mismatched
+14421,Opel,VECTRA C GTS,2003,Diesel,177,3.0 CDTI,Y30DT,Opel,Signum,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+14422,Opel,VECTRA C,2003,Diesel,177,3.0 CDTI,Y30DT,Opel,Signum,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+14427,Ford,MONDEO III (B5Y),2003,Petrol,130,1.8 SCi,CFBA,Skoda,Superb,DISPLACEMENT_MISMATCH,variant engine_type '1.8 SCi' -> 1800 cc vs engine 1400 cc (29% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping
+14428,Ford,MONDEO III Estate (BWY),2003,Petrol,130,1.8 SCi,CFBA,Skoda,Superb,DISPLACEMENT_MISMATCH,variant engine_type '1.8 SCi' -> 1800 cc vs engine 1400 cc (29% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping
+14429,Ford,MONDEO III Saloon (B4Y),2003,Petrol,130,1.8 SCi,CFBA,Skoda,Superb,DISPLACEMENT_MISMATCH,variant engine_type '1.8 SCi' -> 1800 cc vs engine 1400 cc (29% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping
+14448,Ford,FOCUS C-MAX,2003,Diesel,136,2.0 TDCi,G6DB,Hyundai,GRANDEUR (TG),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 3342 cc also mismatched
+14456,Volkswagen,GOLF V (1K1),2003,Petrol,115,1.6 FSI,D24TIC,Ford,MONDEO III Estate (BWY),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 1600 vs 2198 cc also mismatched
+14458,Opel,VECTRA C Estate,2003,Diesel,177,3.0 V6 CDTI,Y30DT,Opel,Signum,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+14502,Suzuki,IGNIS II,2003,Petrol,99,1.5 (corr.),A20DTH,Opel,Astra,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14598,BMW,5 Touring (E61),2003,Petrol,192,525 i,A14XER,Chevrolet,Aveo,POWER_MISMATCH_CROSSBRAND,"variant 192 hp vs engine 99 hp (94% off), brands BMW vs Chevrolet, displacement unverifiable"
+14601,BMW,5 Touring (E61),2003,Petrol,333,4.4 (est.),A16XER,Chevrolet,Aveo,DISPLACEMENT_MISMATCH,variant engine_type '4.4 (est.)' -> 4400 cc vs engine 1600 cc (175% off)
+14671,hernr_815,CONTINENTAL Coupe,2003,Petrol,560,6.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '6.0' -> 6000 cc vs engine 2997 cc (100% off)
+14680,Fiat,IDEA,2003,Petrol,80,1.2 16V,C30SEJ,Hyundai,SANTA FÉ I (SM),DISPLACEMENT_MISMATCH,variant engine_type '1.2 16V' -> 1200 cc vs engine 2656 cc (55% off)
+14723,Jaguar,X-TYPE Estate,2003,Petrol,196,2.5,A20DTH,Opel,Astra,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14726,Maserati,QUATTROPORTE V,2003,Petrol,400,4.2,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4200 vs 1300 cc also mismatched
+14746,Seat,ALTEA (5P1),2003,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14785,hernr_803,AERO 8,2003,Petrol,333,4.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4400 vs 1300 cc also mismatched
+14834,Skoda,OCTAVIA (1Z3),2003,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14875,Volvo,S60 I,2003,Petrol,210,2.5 T,B230FT,Mercedes,C-CLASS (W203),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14907,Kia,PICANTO (BA),2003,Petrol,65,1.1,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+14911,Alpina,B7 (E65),2003,Petrol,500,4.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4400 vs 1300 cc also mismatched
+14922,hernr_1513,NOVA,2002,Petrol,19,650,E18NVR,Cadillac,CTS,POWER_MISMATCH_CROSSBRAND,"variant 19 hp vs engine 276 hp (93% off), brands hernr_1513 vs Cadillac, displacement unverifiable"
+14923,hernr_1513,BE UP,2002,Petrol,19,0.5,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '0.5' -> 500 cc vs engine 2997 cc (83% off)
+14936,Audi,A3 Sportback (8PA),2003,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15001,Volvo,V50 (MW),2003,Petrol,125,1.8,B230FT,Mercedes,C-CLASS (W203),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15052,Daihatsu,"EXTOL Bus (S22_, S23_)",2000,Petrol,86,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+15061,Vauxhall,VECTRA Mk II (C) Estate,2003,Diesel,177,3.0 V6 CDTI,Y30DT,Opel,Signum,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+15062,Vauxhall,VECTRA Mk II (C),2003,Diesel,177,3.0 V6 CDTI,Y30DT,Opel,Signum,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+15064,Vauxhall,VECTRA Mk II (C) GTS,2003,Diesel,177,3.0 V6 CDTI,Y30DT,Opel,Signum,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+15102,Renault,MEGANE II Saloon (LM0/1_),2003,Diesel,92,1.9 dCi,B230FB,Nissan,ALMERA II (N16),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+15134,Skoda,OCTAVIA Combi (1Z5),2003,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15147,BMW,5 (E60),2003,Petrol,507,M,A14NET,Chevrolet,Cruze,POWER_MISMATCH_CROSSBRAND,"variant 507 hp vs engine 138 hp (267% off), brands BMW vs Chevrolet, displacement unverifiable"
+15148,hernr_701,MURCIÉLAGO Roadster,2003,Petrol,579,6.2,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 6200 vs 1300 cc also mismatched
+15158,Maserati,MC 12,2003,Petrol,632,6.0,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 6000 vs 1300 cc also mismatched
+15214,Renault,MODUS / GRAND MODUS (F/JP0_),2003,Petrol,75,1.2 16V (corr.),C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15228,Proton,IMPIAN,2001,Petrol,102,1.6,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.6' -> 1600 cc vs engine 2997 cc (47% off)
+15230,Proton,WIRA,2000,Petrol,86,1.5,C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15232,Proton,WIRA,2000,Petrol,74,1.3,C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15236,Proton,SATRIA (C9_M),2000,Petrol,86,1.5,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.5' -> 1500 cc vs engine 2997 cc (50% off)
+15260,hernr_178,INDIGO (4_V2),2002,Petrol,85,1.4,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.4' -> 1400 cc vs engine 2997 cc (53% off)
+15262,hernr_178,INDIGO MARINA (4_V2),2002,Petrol,85,1.4,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.4' -> 1400 cc vs engine 2997 cc (53% off)
+15264,hernr_178,SAFARI (42_FD),2003,Petrol,135,2.1 (est.),E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '2.1 (est.)' -> 2100 cc vs engine 2997 cc (30% off)
+15306,Ford,FOCUS II (DA_),2003,Diesel,136,2.0 TDCi,G6DB,Hyundai,GRANDEUR (TG),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 3342 cc also mismatched
+15311,Seat,TOLEDO III (5P2),2003,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15364,Audi,"A6 (4F2, C6)",2004,Petrol,177,2.4 (corr.),X16SZR,Dacia,LOGAN MCV (KS_),DISPLACEMENT_MISMATCH,variant engine_type '2.4 (corr.)' -> 2400 cc vs engine 1598 cc (50% off)
+15399,BMW,3 (E90),2004,Diesel,163,320 d,C20LET,Ford,FIESTA VI,POWER_MISMATCH_CROSSBRAND,"variant 163 hp vs engine 70 hp (133% off), brands BMW vs Ford, displacement unverifiable"
+15477,Ford,FOCUS II Estate (DA_),2003,Diesel,109,1.6 TDCi,A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+15479,Ford,FOCUS II Estate (DA_),2003,Diesel,136,2.0 TDCi,G6DB,Hyundai,GRANDEUR (TG),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 3342 cc also mismatched
+15504,Alpina,B5 (E60),2004,Petrol,500,4.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4400 vs 1300 cc also mismatched
+15506,Alpina,B5 Estate (E61),2004,Petrol,500,4.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4400 vs 1300 cc also mismatched
+15518,hernr_788,VEYRON Grand Sport EB 16.4,2008,Petrol,1001,8.0 W16,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '8.0 W16' -> 8000 cc vs engine 2997 cc (167% off)
+15541,Honda,INTEGRA (DC5),2002,Petrol,160,2.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '2.0' -> 2000 cc vs engine 2997 cc (33% off)
+15578,hernr_815,CONTINENTAL FLYING SPUR,2004,Petrol,560,6.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '6.0' -> 6000 cc vs engine 2997 cc (100% off)
+15611,Maserati,SPYDER Coupe,2004,Petrol,400,4.2 Grand Sport,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4200 vs 1300 cc also mismatched
+15613,Maserati,SPYDER Coupe,2004,Petrol,400,4.2 Grand Sport,A14XER,Chevrolet,Aveo,DISPLACEMENT_MISMATCH,variant engine_type '4.2 Grand Sport' -> 4200 cc vs engine 1400 cc (200% off)
+15618,Mercedes,E-CLASS (W211),2004,Diesel,224,E 320 CDI (211.022),D24TIC,Ford,MONDEO III Estate (BWY),POWER_MISMATCH_CROSSBRAND,"variant 224 hp vs engine 150 hp (49% off), brands Mercedes vs Ford, displacement unverifiable"
+15644,Volkswagen,JETTA III (1K2),2004,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15671,Renault,LAGUNA II Grandtour (KG0/1_),2004,Petrol,112,1.6 16V,DW12BTED4,Land Rover,FREELANDER 2 (FA_),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 1600 vs 2179 cc also mismatched
+15765,BMW,3 Touring (E91),2004,Petrol,258,330 i,X16SZR,Dacia,LOGAN MCV (KS_),POWER_MISMATCH_CROSSBRAND,"variant 258 hp vs engine 105 hp (146% off), brands BMW vs Dacia, displacement unverifiable"
+15776,Seat,LEON (1P1),2004,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15840,hernr_1506,HUMMER H2  SUT,2003,Petrol,322,6.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '6.0' -> 6000 cc vs engine 2997 cc (100% off)
+15911,Volkswagen,"GOLF PLUS (5M1, 521)",2004,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+15965,Ford,FOCUS II Saloon (DA_),2004,Diesel,136,2.0 TDCi,G6DB,Hyundai,GRANDEUR (TG),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 3342 cc also mismatched
+15972,hernr_2589,LANDWIND,2004,Petrol,115,2.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '2.0' -> 2000 cc vs engine 2997 cc (33% off)
+15987,hernr_701,GALLARDO,2004,Petrol,520,5.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '5.0' -> 5000 cc vs engine 2997 cc (67% off)
+15996,hernr_2164,MAYBACH (240_),2004,Petrol,612,6.0 V12 57S (240.079),A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 6000 vs 1300 cc also mismatched
+16054,Renault,KANGOO (KC0/1_),2004,Petrol,82,1.6 16V bivalent,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+16109,hernr_2590,BL Coupe,2004,Petrol,86,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+16111,hernr_2590,BL Coupe,2004,Petrol,94,1.5,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.5' -> 1500 cc vs engine 2997 cc (50% off)
+16113,hernr_2590,CK Saloon,2004,Petrol,86,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+16115,hernr_2590,CK Saloon,2004,Petrol,94,1.5,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.5' -> 1500 cc vs engine 2997 cc (50% off)
+16117,hernr_2590,CK Saloon,2004,Petrol,107,1.6,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.6' -> 1600 cc vs engine 2997 cc (47% off)
+16119,hernr_2590,HQ Hatchback,2004,Petrol,52,1.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.0' -> 1000 cc vs engine 2997 cc (67% off)
+16121,hernr_2590,HQ Hatchback,2004,Petrol,86,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+16123,hernr_2590,HQ Sedan,2004,Petrol,54,1.1,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.1' -> 1100 cc vs engine 2997 cc (63% off)
+16125,hernr_2590,HQ Sedan,2004,Petrol,86,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+16127,hernr_2590,HQ SRV,2004,Petrol,52,1.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.0' -> 1000 cc vs engine 2997 cc (67% off)
+16129,hernr_2590,HQ SRV,2004,Petrol,54,1.1,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.1' -> 1100 cc vs engine 2997 cc (63% off)
+16131,hernr_2590,HQ SRV,2004,Petrol,86,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+16133,hernr_2590,MR Hatchback,2004,Petrol,86,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+16135,hernr_2590,MR Hatchback,2004,Petrol,94,1.5,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.5' -> 1500 cc vs engine 2997 cc (50% off)
+16137,hernr_2590,MR Sedan,2004,Petrol,52,1.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.0' -> 1000 cc vs engine 2997 cc (67% off)
+16139,hernr_2590,MR Sedan,2004,Petrol,54,1.1,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.1' -> 1100 cc vs engine 2997 cc (63% off)
+16141,hernr_2590,MR Sedan,2004,Petrol,86,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+16143,hernr_2590,MR Sedan,2004,Petrol,94,1.5,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.5' -> 1500 cc vs engine 2997 cc (50% off)
+16145,hernr_2590,PU,2004,Petrol,52,1.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.0' -> 1000 cc vs engine 2997 cc (67% off)
+16147,hernr_2590,PU,2004,Petrol,54,1.1,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.1' -> 1100 cc vs engine 2997 cc (63% off)
+16149,hernr_2590,PU,2004,Petrol,86,1.3,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3' -> 1300 cc vs engine 2997 cc (57% off)
+16197,Proton,JUMBUCK Pickup,2002,Petrol,86,1.5,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.5' -> 1500 cc vs engine 2997 cc (50% off)
+16239,hernr_1516,TS 250,2002,Petrol,180,2.5 V6,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2500 vs 1300 cc also mismatched
+16240,hernr_1516,TS 500,2002,Petrol,320,5.0 V8,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 5000 vs 1300 cc also mismatched
+16260,Kia,MAGENTIS (MG),2005,Diesel,140,2.0 CRDi,C30SEJ,Hyundai,SANTA FÉ I (SM),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+16382,Fiat,BRAVA (182),2000,Diesel,100,1.9 JTD,B230FB,Nissan,ALMERA II (N16),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+16457,Saab,9-5 (YS3E),2005,Diesel,150,1.9 TiD,X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+16460,hernr_701,GALLARDO SPYDER,2004,Petrol,520,5.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '5.0' -> 5000 cc vs engine 2997 cc (67% off)
+16654,Ford,FOCUS II Convertible,2005,Diesel,136,2.0 TDCi,G6DB,Hyundai,GRANDEUR (TG),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 3342 cc also mismatched
+16660,Ferrari,599 GTB/GTO,2005,Petrol,620,RETONA Closed Off-Road Vehicle,A14XER,Chevrolet,Aveo,POWER_MISMATCH_CROSSBRAND,"variant 620 hp vs engine 99 hp (526% off), brands Ferrari vs Chevrolet, displacement unverifiable"
+16731,Ford,TRANSIT Platform/Chassis,2005,Diesel,140,2.4 TDCi,C20LET,Ford,FIESTA VI,DISPLACEMENT_MISMATCH,variant engine_type '2.4 TDCi' -> 2400 cc vs engine 1399 cc (72% off)
+16741,hernr_815,AZURE II,2005,Petrol,456,6.8,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 6800 vs 1300 cc also mismatched
+16760,Volkswagen,PASSAT (3C2),2004,Petrol,150,2.0 FSI 4motion,D24TIC,Ford,MONDEO III Estate (BWY),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+16923,Mercedes,CLK (C209),2005,Petrol,481,63 AMG (209.377),A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+16924,Mercedes,CLK Convertible (A209),2005,Petrol,481,HHR (corr.),A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+16926,Mercedes,E-CLASS (W211),2005,Diesel,136,E 200 CDI (211.007),B230FB,Nissan,ALMERA II (N16),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+16943,Mercedes,E-CLASS T-Model (S211),2005,Petrol,388,E 500 T (211.272),D24TIC,Ford,MONDEO III Estate (BWY),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17354,Volkswagen,"TRANSPORTER V Box (7HA, 7HH, 7EA, 7EH)",2003,Petrol,235,3.2 V6 (corr.),A17DTR,Opel,Meriva,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3200 vs 1700 cc also mismatched
+17391,Suzuki,JIMNY (FJ),2000,Petrol,64,0.7,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17412,Mazda,PREMACY (CP),2004,Petrol,166,2.3 SVT,C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2300 vs 1399 cc also mismatched
+17414,hernr_1490,SEVEN (CF),2001,Petrol,204,2.0 Turbo,C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2000 vs 1399 cc also mismatched
+17449,Suzuki,WAGON R+ (MM),2000,Petrol,64,0.7,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17515,Volvo,S40 II (MS),2005,Diesel,179,2.4 D5,A17DTS,Chevrolet,Cruze,DISPLACEMENT_MISMATCH,variant engine_type '2.4 D5' -> 2400 cc vs engine 1700 cc (41% off)
+17543,Ford,FOCUS II Saloon (DA_),2004,Petrol,131,1.8 Flexifuel,CFBA,Skoda,Superb,DISPLACEMENT_MISMATCH,variant engine_type '1.8 Flexifuel' -> 1800 cc vs engine 1400 cc (29% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping
+17550,Mercedes,GLK-CLASS (X204),2012,Petrol,211,2 (est.),A20DTH,Opel,Astra,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17553,Mazda,3 (BM),2012,Diesel,150,2.2 D (corr.),C20LET,Ford,FIESTA VI,DISPLACEMENT_MISMATCH,variant engine_type '2.2 D (corr.)' -> 2200 cc vs engine 1399 cc (57% off)
+17560,Mazda,3 Saloon (BM),2012,Diesel,150,2.2 D (corr.),C20LET,Ford,FIESTA VI,DISPLACEMENT_MISMATCH,variant engine_type '2.2 D (corr.)' -> 2200 cc vs engine 1399 cc (57% off)
+17617,Hyundai,GRANDEUR (TG),2004,Petrol,265,3.8,G6DA,Ford,C-Max,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3800 vs 2000 cc also mismatched
+17629,Honda,AIRWAVE,2003,Petrol,110,1.5,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17651,Daewoo,AVEO,2002,Petrol,84,1.5 SE,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17658,Daihatsu,BEGO,2004,Petrol,86,1.3 DVVT 4x4,A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17676,Honda,CITY Saloon,2000,Petrol,88,1.5 Vtec,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17678,Honda,CITY Saloon,2003,Petrol,79,1.2,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17680,Honda,CITY Saloon,2004,Petrol,83,1.2,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17682,Honda,CITY Saloon,2004,Petrol,82,1.3,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17684,Honda,CITY Saloon,2003,Petrol,86,1.3 SES,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17686,Honda,CITY Saloon,2003,Petrol,95,1.5 FF,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17688,Honda,CITY Saloon,2004,Petrol,107,1.5 FF,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17699,Holden,COMBO Box (XC),2004,Petrol,90,1.4 i,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.4 i' -> 1400 cc vs engine 2997 cc (53% off)
+17711,Chevrolet,CRUZE,2000,Petrol,83,1.3 (est.),E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.3 (est.)' -> 1300 cc vs engine 2997 cc (57% off)
+17724,Daewoo,GENTRA Saloon,2002,Petrol,84,1.5 SE,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17732,Maserati,GRANSPORT Convertible,2003,Petrol,401,4.3,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4300 vs 1300 cc also mismatched
+17734,Maserati,GRANSPORT Convertible,2003,Petrol,401,4.3,A14XER,Chevrolet,Aveo,DISPLACEMENT_MISMATCH,variant engine_type '4.3' -> 4300 cc vs engine 1400 cc (207% off)
+17746,Honda,LAGREAT,2002,Petrol,150,2.3 Vtec,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2300 vs 1300 cc also mismatched
+17748,Honda,LAGREAT,2002,Petrol,233,3.5 EXi Vtec,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3500 vs 1300 cc also mismatched
+17750,Honda,LAGREAT,2004,Petrol,248,3.5 EXi Vtec,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3500 vs 1300 cc also mismatched
+17752,Honda,LAGREAT,2003,Petrol,256,3.5 EXi Vtec,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3500 vs 1300 cc also mismatched
+17754,Honda,LIFE,2001,Petrol,52,0.7 (corr.),A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17756,Honda,LIFE,2001,Petrol,64,0.7,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17758,Honda,LIFE,2003,Petrol,52,0.7 iDSI,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17760,Honda,LIFE,2003,Petrol,64,0.7 iDSi Turbo,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17825,Honda,THATS,2001,Petrol,52,0.7,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17827,Honda,THATS,2001,Petrol,64,0.7 Turbo,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17829,Honda,THATS,2003,Petrol,52,0.7 iDSI,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17831,Honda,THATS,2003,Petrol,64,0.7 iDSi Turbo,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+17837,Daewoo,TOSCA,2005,Petrol,143,2 (est.),A20DTH,Opel,Astra,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17869,Daewoo,WINSTORM,2005,Petrol,140,2.4 LS,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2400 vs 1300 cc also mismatched
+17920,Seat,"ALTEA XL (5P5, 5P8)",2005,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+17980,Ford,C-MAX (DM2),2006,Diesel,136,2.0 TDCi,G6DB,Hyundai,GRANDEUR (TG),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 3342 cc also mismatched
+18014,Volkswagen,GOLF V Variant (1K5),2006,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+18117,Honda,STEPWGN,2000,Petrol,160,2.0,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2000 vs 1300 cc also mismatched
+18119,Honda,STEPWGN,2000,Petrol,162,2.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2400 vs 1300 cc also mismatched
+18139,Honda,STEPWGN,2004,Petrol,162,2.4 Z FF,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2400 vs 1300 cc also mismatched
+18188,Daihatsu,TANTO,2002,Petrol,64,RUSH,A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+18198,Honda,STEPWGN,2004,Petrol,155,2.0,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2000 vs 1300 cc also mismatched
+18201,Toyota,"CAMRY SOLARA Coupe (MCV3_, ACV3_)",2003,Petrol,186,3.0,A17DTR,Opel,Meriva,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3000 vs 1700 cc also mismatched
+18203,Toyota,"CAMRY SOLARA Coupe (MCV3_, ACV3_)",2003,Petrol,224,3.3,A17DTR,Opel,Meriva,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3300 vs 1700 cc also mismatched
+18208,Toyota,"CAMRY SOLARA Convertible (MCV3_, ACV3_)",2003,Petrol,224,3.3,A17DTR,Opel,Meriva,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3300 vs 1700 cc also mismatched
+18221,Kia,OPIRUS (GH),2005,Petrol,267,3.8 V6,G6DA,Ford,C-Max,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3800 vs 2000 cc also mismatched
+18296,Mercedes,CLK Convertible (A209),2005,Petrol,388,GAZELLE (corr.),A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+18339,Audi,"A6 Avant (4F5, C6)",2006,Petrol,210,2.8 FSI quattro,X16SZR,Dacia,LOGAN MCV (KS_),DISPLACEMENT_MISMATCH,variant engine_type '2.8 FSI quattro' -> 2800 cc vs engine 1598 cc (75% off)
+18498,Peugeot,"308 (4A_, 4C_)",2006,Diesel,109,1.6 HDi,X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+18672,Chrysler,"VOYAGER IV (RG, RS)",2004,Diesel,120,2.5 CRD,X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2500 vs 1598 cc also mismatched
+18714,hernr_3514,CITY,2007,Electric Motor,41,Retrofit leather multifunction steering wheel (without SA 248),A14XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+18954,Chrysler,PACIFICA,2003,Petrol,253,3.5,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '3.5' -> 3500 cc vs engine 1329 cc (163% off)
+19008,Nissan,BLUEBIRD SYLPHY,2002,Petrol,150,2.0,DW12BTED4,Land Rover,FREELANDER 2 (FA_),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+19015,Nissan,LATIO Saloon,2006,Petrol,110,1.6,A20DTH,Opel,Astra,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+19121,BMW,X3 (E83),2006,Diesel,177,2.0 d,N47D20C,Bmw,1 Series,DISPLACEMENT_MISMATCH,variant engine_type '2.0 d' -> 2000 cc vs engine 1482 cc (35% off)
+19160,Mitsubishi,"DIAMANTE Saloon (F4_A, F3_A)",2003,Petrol,205,2.5,A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2500 vs 1700 cc also mismatched
+19172,Chevrolet,AVALANCHE,2000,Petrol,344,8.1 (corr.),E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '8.1 (corr.)' -> 8100 cc vs engine 2997 cc (170% off)
+19230,Daihatsu,MOVE,2002,Petrol,58,0.7,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+19232,Daihatsu,MOVE,2002,Petrol,64,0.7 Turbo,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+19266,Toyota,"HARRIER (MCU3_, MHU3_, ACU3_, GSU3_)",2003,Petrol,204,"Spacer Tube, torsion bar",1MZ-FE,Jaguar,C-X16,POWER_MISMATCH_CROSSBRAND,"variant 204 hp vs engine 429 hp (52% off), brands Toyota vs Jaguar, displacement unverifiable"
+19272,Subaru,"IMPREZA Hatchback (GR, GH, G3)",2010,Diesel,109,2.0 D (corr.),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+19274,Toyota,"KLUGER (_MCU2_, _ACU2_)",2003,Petrol,204,PAJERO Closed Off-Road Vehicle,1MZ-FE,Jaguar,C-X16,POWER_MISMATCH_CROSSBRAND,"variant 204 hp vs engine 429 hp (52% off), brands Toyota vs Jaguar, displacement unverifiable"
+19283,Alfa Romeo,GIULIETTA (940),2012,Petrol,241,Rear side-section,1MZ-FE,Jaguar,C-X16,POWER_MISMATCH_CROSSBRAND,"variant 241 hp vs engine 429 hp (44% off), brands Alfa Romeo vs Jaguar, displacement unverifiable"
+19419,Volkswagen,PASSAT CC (357),2007,Petrol,300,3.6 FSI 4motion,X16SZR,Dacia,LOGAN MCV (KS_),DISPLACEMENT_MISMATCH,variant engine_type '3.6 FSI 4motion' -> 3600 cc vs engine 1598 cc (125% off)
+19438,Skoda,OCTAVIA (1Z3),2005,Diesel,170,1.8 De Luxe (YR20),X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+19558,Chevrolet,TAHOE (B2W),2000,Petrol,280,4.8,A17DTR,Opel,Meriva,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4800 vs 1700 cc also mismatched
+19568,Daewoo,TOSCA,2005,Petrol,122,1.8,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.8' -> 1800 cc vs engine 2997 cc (40% off)
+19576,Holden,ASTRA TWINTOP (AH),2007,Petrol,150,2.2 i,Z19DTH,Chevrolet,Vectra,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+19621,Mercedes,"SPRINTER CLASSIC 3,5-t Box (909)",2012,Diesel,109,C 220 CDI (corr.),A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+19625,Mercedes,"SPRINTER CLASSIC 4,6-t Bus (909)",2012,Diesel,109,C 220 CDI (corr.),A16XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+19652,Peugeot,PARTNER Box (5),2002,Petrol,73,1.4,A17DTR,Opel,Meriva,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+19690,Mercedes,"S-CLASS (W222, V222, X222)",2012,Petrol,455,4.7 (est.),2AD-FHV,Lexus,Is,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4700 vs 2200 cc also mismatched
+19894,Renault,SCÉNIC I (JA0/1_),2000,Petrol,116,CENTURY Box,B230FT,Mercedes,C-CLASS (W203),HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+19903,Opel,"CORSA C Box (F08, W5L)",2003,Petrol,90,1.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+19921,Ssangyong,REXTON (GAB_),2005,Diesel,186,2.7 Xdi (corr.),C30SEJ,Hyundai,SANTA FÉ I (SM),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+20036,hernr_803,AEROMAX Coupe,2006,Petrol,333,4.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 4400 vs 1300 cc also mismatched
+20158,Volkswagen,PASSAT Variant (3B6),2001,Petrol,170,QIBING Closed Off-Road Vehicle,A17DTR,Opel,Meriva,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+20193,Chrysler,300 C (LX),2004,Petrol,253,3.5,1NZ-FE,Toyota,Vios,DISPLACEMENT_MISMATCH,variant engine_type '3.5' -> 3500 cc vs engine 1500 cc (133% off)
+20196,Chrysler,PACIFICA,2005,Petrol,260,ZEBRA Box,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+20200,Chrysler,CHARGER,2004,Petrol,431,6.1 (est.),C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '6.1 (est.)' -> 6100 cc vs engine 1329 cc (359% off)
+20310,Vauxhall,CORSAVAN Mk II (C),2003,Petrol,89,1.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+20312,Vauxhall,COMBO Mk II (C) Box Body / Estate (F25),2001,Petrol,84,1.6,A17DTS,Chevrolet,Cruze,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+20467,Mitsubishi,VERADA Saloon (KL),2003,Petrol,209,for variable suction pipe,C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 209 hp vs engine 99 hp (111% off), brands Mitsubishi vs Subaru, displacement unverifiable"
+20662,Mazda,5 (CR19),2004,Petrol,166,2.3,C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2300 vs 1399 cc also mismatched
+20669,Chrysler,"RAM 1500 Pickup (D1, DC, DH, DM, DR)",2001,Petrol,213,3.7,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '3.7' -> 3700 cc vs engine 1329 cc (178% off)
+20672,Chrysler,"RAM 1500 Pickup (D1, DC, DH, DM, DR)",2001,Petrol,234,4.7,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '4.7' -> 4700 cc vs engine 1329 cc (254% off)
+20674,Chrysler,"RAM 1500 Pickup (D1, DC, DH, DM, DR)",2001,Petrol,245,5.9,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '5.9' -> 5900 cc vs engine 1329 cc (344% off)
+20679,Nissan,SENTRA,2002,Petrol,175,2.5,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2500 vs 1300 cc also mismatched
+20681,Nissan,SENTRA,2000,Petrol,126,1.8,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 1800 vs 1300 cc also mismatched
+20683,Nissan,SENTRA,2000,Petrol,120,1.8,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 1800 vs 1300 cc also mismatched
+20690,Nissan,URVAN Bus (V2_),2000,Petrol,120,2.0,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2000 vs 1300 cc also mismatched
+20692,Nissan,URVAN Bus (V2_),2001,Petrol,140,2.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2400 vs 1300 cc also mismatched
+20715,Volkswagen,"GOLF PLUS (5M1, 521)",2006,Petrol,102,1.6 (corr.),CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+20733,Audi,"A6 (4F2, C6)",2007,Petrol,290,3.0 TFSI quattro,X16SZR,Dacia,LOGAN MCV (KS_),DISPLACEMENT_MISMATCH,variant engine_type '3.0 TFSI quattro' -> 3000 cc vs engine 1598 cc (88% off)
+20761,Volkswagen,"TOUAREG (7LA, 7L6, 7L7)",2005,Diesel,211,3.0 V6 TDI (corr.),X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 3000 vs 1598 cc also mismatched
+20801,Skoda,OCTAVIA (1Z3),2007,Petrol,102,1.6 (corr.),CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+20803,Skoda,OCTAVIA Combi (1Z5),2007,Petrol,102,1.6 (corr.),CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+20848,Holden,ASTRA (AH),2004,Petrol,200,2.0 i Turbo,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.0 i Turbo' -> 2000 cc vs engine 1329 cc (50% off)
+20972,hernr_3276,CLUBSPORT Saloon (VX),2000,Petrol,347,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 347 hp vs engine 99 hp (251% off), brands hernr_3276 vs Subaru, displacement unverifiable"
+20974,hernr_3276,CLUBSPORT Saloon (VY),2002,Petrol,354,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 354 hp vs engine 99 hp (258% off), brands hernr_3276 vs Subaru, displacement unverifiable"
+20976,hernr_3276,CLUBSPORT Saloon (VY),2003,Petrol,388,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 388 hp vs engine 99 hp (292% off), brands hernr_3276 vs Subaru, displacement unverifiable"
+20978,hernr_3276,CLUBSPORT Saloon (VZ),2003,Petrol,404,6 (est.),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 404 hp vs engine 99 hp (308% off), brands hernr_3276 vs Subaru, displacement unverifiable"
+21052,BMW,X3 (E83),2007,Diesel,177,2.0 d (corr.),N47D20C,Bmw,1 Series,DISPLACEMENT_MISMATCH,variant engine_type '2.0 d (corr.)' -> 2000 cc vs engine 1482 cc (35% off)
+21073,BMW,3 (E90),2007,Petrol,272,330 i (corr.),X16SZR,Dacia,LOGAN MCV (KS_),POWER_MISMATCH_CROSSBRAND,"variant 272 hp vs engine 105 hp (159% off), brands BMW vs Dacia, displacement unverifiable"
+21251,hernr_3297,FALCON Saloon (BA),2003,Petrol,367,4 (est.),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 367 hp vs engine 99 hp (271% off), brands hernr_3297 vs Subaru, displacement unverifiable"
+21252,hernr_3297,FALCON Saloon (BA),2003,Petrol,394,5.4 (est.),C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '5.4 (est.)' -> 5400 cc vs engine 1329 cc (306% off)
+21253,hernr_3297,FALCON Pickup (BA),2003,Petrol,394,Repair rim on rim flange,C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 394 hp vs engine 99 hp (298% off), brands hernr_3297 vs Subaru, displacement unverifiable"
+21254,hernr_3297,FALCON Pickup (BF),2004,Petrol,367,Repair rim on rim flange,C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 367 hp vs engine 99 hp (271% off), brands hernr_3297 vs Subaru, displacement unverifiable"
+21255,hernr_3297,FALCON Pickup (BF),2004,Petrol,394,4 (est.),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 394 hp vs engine 99 hp (298% off), brands hernr_3297 vs Subaru, displacement unverifiable"
+21262,Holden,STATESMAN Saloon (WK),2003,Petrol,333,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 333 hp vs engine 99 hp (236% off), brands Holden vs Subaru, displacement unverifiable"
+21264,Holden,STATESMAN Saloon (WL),2005,Petrol,354,6 (est.),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 354 hp vs engine 99 hp (258% off), brands Holden vs Subaru, displacement unverifiable"
+21303,Jaguar,"XF (_J05_, CC9)",2008,Diesel,275,3.0 D,X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 3000 vs 1598 cc also mismatched
+21309,Holden,COMMODORE Pickup (VU),2000,Petrol,207,3.8 (est.),C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '3.8 (est.)' -> 3800 cc vs engine 1329 cc (186% off)
+21312,Holden,COMMODORE Pickup (VY),2002,Petrol,306,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 306 hp vs engine 99 hp (209% off), brands Holden vs Subaru, displacement unverifiable"
+21315,Holden,COMMODORE Pickup (VZ),2003,Petrol,238,3.6 (est.),C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '3.6 (est.)' -> 3600 cc vs engine 1329 cc (171% off)
+21318,Holden,COMMODORE Pickup (VU),2000,Petrol,306,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 306 hp vs engine 99 hp (209% off), brands Holden vs Subaru, displacement unverifiable"
+21320,Holden,COMMODORE Pickup (VY),2002,Petrol,320,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 320 hp vs engine 99 hp (223% off), brands Holden vs Subaru, displacement unverifiable"
+21322,Holden,COMMODORE Pickup (VY),2002,Petrol,333,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 333 hp vs engine 99 hp (236% off), brands Holden vs Subaru, displacement unverifiable"
+21324,Holden,COMMODORE Saloon (VE),2005,Petrol,367,6 (est.),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 367 hp vs engine 99 hp (271% off), brands Holden vs Subaru, displacement unverifiable"
+21329,Ferrari,599 GTB/GTO,2005,Petrol,612,RETONA Closed Off-Road Vehicle,A14XER,Chevrolet,Aveo,POWER_MISMATCH_CROSSBRAND,"variant 612 hp vs engine 99 hp (518% off), brands Ferrari vs Chevrolet, displacement unverifiable"
+21333,Maserati,GRAN TURISMO,2007,Petrol,395,4.2,A14XER,Chevrolet,Aveo,DISPLACEMENT_MISMATCH,variant engine_type '4.2' -> 4200 cc vs engine 1400 cc (200% off)
+21345,Holden,COMMODORE Saloon (VE),2005,Petrol,265,3.6 (est.),C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '3.6 (est.)' -> 3600 cc vs engine 1329 cc (171% off)
+21352,hernr_3276,GRANGE Saloon (WH),2000,Petrol,347,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 347 hp vs engine 99 hp (251% off), brands hernr_3276 vs Subaru, displacement unverifiable"
+21353,hernr_3276,GRANGE Saloon (WK),2003,Petrol,388,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 388 hp vs engine 99 hp (292% off), brands hernr_3276 vs Subaru, displacement unverifiable"
+21355,hernr_3276,GRANGE Saloon (WL),2003,Petrol,404,6 (est.),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 404 hp vs engine 99 hp (308% off), brands hernr_3276 vs Subaru, displacement unverifiable"
+21361,hernr_2903,TENGYI C50 Saloon,2010,Petrol,126,1.5 (corr.),GW4G15T,Gwm,C50,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+21371,Honda,CITY Saloon (GM),2007,Petrol,107,1.5,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+21552,Citroën,C4 Grand Picasso I (UA_),2008,Diesel,150,2.0 HDi (corr.),X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 1598 cc also mismatched
+21568,Ford,"TRANSIT Bus (VH, VJ)",2000,Diesel,120,2.4 D,D4FA,Hyundai,Accent,DISPLACEMENT_MISMATCH,variant engine_type '2.4 D' -> 2400 cc vs engine 1500 cc (60% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping
+21571,Ford,"TRANSIT Platform/Chassis (VH, VJ)",2000,Diesel,120,2.4 D,D4FA,Hyundai,Accent,DISPLACEMENT_MISMATCH,variant engine_type '2.4 D' -> 2400 cc vs engine 1500 cc (60% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping
+21619,Audi,Q5 (8R),2007,Diesel,211,3.0 TDI quattro,A14NET,Chevrolet,Cruze,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 3000 vs 1400 cc also mismatched
+21642,Citroën,C5 III (RD_),2008,Diesel,241,2.1 dT (B546),DT20C,Citroen,C5,DISPLACEMENT_MISMATCH,variant engine_type '2.1 dT (B546)' -> 2100 cc vs engine 3000 cc (30% off)
+21643,Citroën,C5 III Break (TD_),2008,Diesel,241,2.1 dT (B546),DT20C,Citroen,C5,DISPLACEMENT_MISMATCH,variant engine_type '2.1 dT (B546)' -> 2100 cc vs engine 3000 cc (30% off)
+21678,Kia,VENGA (YN),2009,Diesel,90,1.9 SRDT,D4FC,Hyundai,I20,DISPLACEMENT_MISMATCH,variant engine_type '1.9 SRDT' -> 1900 cc vs engine 1400 cc (36% off)
+21925,Volkswagen,GOLF VI Variant (AJ5),2008,Petrol,102,1.6,CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+21972,Audi,A3 Sportback (8PA),2005,Diesel,163,2.0 TDI,A14XER,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 1400 cc also mismatched
+22198,Volkswagen,GOLF V (1K1),2006,Petrol,102,1.6 (corr.),CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+22199,Volkswagen,JETTA III (1K2),2007,Petrol,102,1.6 (corr.),CCSA,Audi,A3,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+22202,Mercedes,E-CLASS (W212),2008,Diesel,231,2.5 SE,X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2500 vs 1598 cc also mismatched
+22305,Mitsubishi,"L 300 Box (P0_W, P1_W)",2005,Petrol,114,2.4 i,A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 2400 vs 1700 cc also mismatched
+22496,Kia,OPTIMA,2011,Diesel,136,3.0 -24 V6 CS/CSE,D4FD-L,Kia,SPORTAGE (SL),DISPLACEMENT_MISMATCH,variant engine_type '3.0 -24 V6 CS/CSE' -> 3000 cc vs engine 1685 cc (78% off)
+22497,Kia,OPTIMA,2011,Diesel,136,3.0 -24 V6 CS/CSE,A17DTR,Opel,Meriva,DISPLACEMENT_MISMATCH,variant engine_type '3.0 -24 V6 CS/CSE' -> 3000 cc vs engine 1700 cc (76% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping
+22499,Toyota,"KLUGER (_MHU4_, _GSU4_, _ASU4_)",2006,Petrol,273,ZERO I Convertible,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+22507,hernr_3208,QM5,2005,Petrol,171,2.5,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.5' -> 2500 cc vs engine 1329 cc (88% off)
+22539,hernr_3122,G3,2008,Petrol,122,1.8,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '1.8' -> 1800 cc vs engine 1329 cc (35% off)
+22542,hernr_3035,TIGUAN,2009,Petrol,200,2 (est.),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 200 hp vs engine 99 hp (102% off), brands hernr_3035 vs Subaru, displacement unverifiable"
+22730,hernr_1138,FORTWO Cabrio (451),2009,Petrol,102,1.4 TD LS,M132.930,hernr_1138,FORTWO Coupe (451),DISPLACEMENT_MISMATCH,variant engine_type '1.4 TD LS' -> 1400 cc vs engine 999 cc (40% off)
+22893,Daihatsu,COPEN,2003,Petrol,64,0.7,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '0.7' -> 700 cc vs engine 1329 cc (47% off)
+23057,Chevrolet,AVALANCHE 2500 Crew Cab Pickup,2001,Petrol,345,8.1 (corr.),E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '8.1 (corr.)' -> 8100 cc vs engine 2997 cc (170% off)
+23074,Chevrolet,SILVERADO 2500 Cab & Chassis,2000,Petrol,345,8.1,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '8.1' -> 8100 cc vs engine 2997 cc (170% off)
+23079,Chevrolet,SILVERADO 2500 HD Crew Cab Pickup,2000,Petrol,345,8.1,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '8.1' -> 8100 cc vs engine 2997 cc (170% off)
+23092,Chevrolet,SUBURBAN 1500 Closed Off-Road Vehicle,2000,Petrol,345,8.1,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '8.1' -> 8100 cc vs engine 2997 cc (170% off)
+23100,Skoda,RAPID Spaceback (NH1),2011,Petrol,105,1.2 (est.),A20DTH,Opel,Astra,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 1200 vs 2000 cc also mismatched
+23272,Skoda,RAPID Spaceback (NH1),2011,Petrol,122,1.4 TSI,A20DTH,Opel,Astra,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 1400 vs 2000 cc also mismatched
+23294,BMW,3 Coupe (E92),2005,Petrol,211,325 i,C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+23304,BMW,3 Coupe (E92),2006,Petrol,211,325 i,A17DTR,Opel,Meriva,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+23311,Peugeot,3008,2010,Hybrid,200,2 (est.),RHH (DW10CTED4),Citroen,C4,HARD_FUEL_CONFLICT,variant fuel=Hybrid vs engine fuel=Diesel
+23328,Citroën,C4 Picasso II,2012,Diesel,150,2.0 HDi (corr.),X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 1598 cc also mismatched
+23331,Citroën,C4 Grand Picasso II,2012,Diesel,150,2.0 HDi (corr.),X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 1598 cc also mismatched
+23355,BMW,3 Gran Turismo (F34),2012,Diesel,163,320 d,C20LET,Ford,FIESTA VI,POWER_MISMATCH_CROSSBRAND,"variant 163 hp vs engine 70 hp (133% off), brands BMW vs Ford, displacement unverifiable"
+23356,BMW,3 Gran Turismo (F34),2012,Diesel,163,320 d,A17DTJ,Opel,Zafira,POWER_MISMATCH_CROSSBRAND,"variant 163 hp vs engine 109 hp (50% off), brands BMW vs Opel, displacement unverifiable"
+23368,BMW,3 Coupe (E92),2006,Diesel,163,320 d,A17DTJ,Opel,Zafira,POWER_MISMATCH_CROSSBRAND,"variant 163 hp vs engine 109 hp (50% off), brands BMW vs Opel, displacement unverifiable"
+23529,Kia,CEE'D,2011,Diesel,90,1.9 SRDT,D4FC,Hyundai,I20,DISPLACEMENT_MISMATCH,variant engine_type '1.9 SRDT' -> 1900 cc vs engine 1400 cc (36% off)
+23599,Chrysler,YPSILON,2010,Diesel,95,1.2 (est.),C16NZ2,Subaru,TREZIA,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+23605,Honda,CR-V IV (RE),2011,Petrol,180,2.4 (corr.),C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.4 (corr.)' -> 2400 cc vs engine 1329 cc (81% off)
+23615,Renault,DUSTER,2011,Petrol,133,2.0,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.0' -> 2000 cc vs engine 1329 cc (50% off)
+23722,Toyota,"PREVIA III (ACR5_, GSR5_)",2011,Hybrid,150,2.4 Hybrid (corr.),C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.4 Hybrid (corr.)' -> 2400 cc vs engine 1329 cc (81% off)
+23747,Hyundai,i40 (VF),2011,Diesel,136,3.0 -24 V6 CS/CSE,D4FD,Hyundai,I40,DISPLACEMENT_MISMATCH,variant engine_type '3.0 -24 V6 CS/CSE' -> 3000 cc vs engine 1700 cc (76% off)
+23781,Hyundai,H100 Platform/Chassis,2003,Diesel,79,2.6 D,A13DTE,Chevrolet,Aveo,DISPLACEMENT_MISMATCH,variant engine_type '2.6 D' -> 2600 cc vs engine 1300 cc (100% off)
+23803,Kia,CADENZA,2009,Petrol,271,3 (est.),G6DG,Ford,Kuga,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+23805,Kia,CADENZA,2009,Petrol,290,3.5 (est.),G6DC,Ford,FOCUS C-MAX,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3500 vs 1997 cc also mismatched
+23816,Chevrolet,CRUZE Station Wagon (J308),2011,Diesel,131,1.7 TD,LUD,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+23860,hernr_2590,MK Hatchback,2011,Petrol,94,1.5,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.5' -> 1500 cc vs engine 2997 cc (50% off)
+24085,Chevrolet,TRAX,2011,Diesel,131,1.7 TD,LUD,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+24265,Iveco,DAILY IV Box Body / Estate,2005,Diesel,150,1.6 e (corr.),C16NZ2,Subaru,TREZIA,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+24286,Mazda,"6 Estate (GJ, GH)",2011,Petrol,155,2.0,LFX,Cadillac,CTS Sport Wagon,DISPLACEMENT_MISMATCH,variant engine_type '2.0' -> 2000 cc vs engine 3564 cc (44% off)
+24321,Mitsubishi,"PAJERO SPORT II (KG_, KH_)",2009,Petrol,186,3.5,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '3.5' -> 3500 cc vs engine 1329 cc (163% off)
+24451,BMW,1 (F21),2010,Diesel,116,1.6 (est.),N47D16A,Bmw,1 Series,DISPLACEMENT_MISMATCH,variant engine_type '1.6 (est.)' -> 1600 cc vs engine 1222 cc (31% off)
+24559,Renault,LAGUNA II Grandtour (KG0/1_),2003,Petrol,133,2.0 16V,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '2.0 16V' -> 2000 cc vs engine 1329 cc (50% off)
+24579,Kia,CARENS IV,2012,Diesel,136,3.0 -24 V6 CS/CSE,D4FD-L,Kia,SPORTAGE (SL),DISPLACEMENT_MISMATCH,variant engine_type '3.0 -24 V6 CS/CSE' -> 3000 cc vs engine 1685 cc (78% off)
+24741,BMW,1 (E81),2010,Diesel,90,320 d (corr.),C16NZ2,Subaru,TREZIA,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+24770,Land Rover,RANGE ROVER SPORT (LW),2012,Petrol,340,COROLLA,CGQB,Audi,A6,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+24781,Toyota,"COASTER Bus (TRB5_, XZB5_, RZB4_, HZB5_, BZB5_, BB4_)",2003,Diesel,101,3.7 D,A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 3700 vs 1600 cc also mismatched
+24783,Toyota,"COASTER Bus (TRB5_, XZB5_, RZB4_, HZB5_, BZB5_, BB4_)",2003,Diesel,131,4.2 TD,A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 4200 vs 1600 cc also mismatched
+24809,Mitsubishi,"PAJERO SPORT II (KG_, KH_)",2007,Petrol,220,PAJERO Closed Off-Road Vehicle,C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 220 hp vs engine 99 hp (122% off), brands Mitsubishi vs Subaru, displacement unverifiable"
+24811,Mitsubishi,"PAJERO SPORT II (KG_, KH_)",2007,Petrol,208,3.5 V6 24V,C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '3.5 V6 24V' -> 3500 cc vs engine 1329 cc (163% off)
+24981,BMW,5 (E60),2005,Petrol,156,520 i,C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 156 hp vs engine 99 hp (58% off), brands BMW vs Subaru, displacement unverifiable"
+24983,Mazda,"6 Estate (GJ, GH)",2011,Diesel,150,2.2 D,C20LET,Ford,FIESTA VI,DISPLACEMENT_MISMATCH,variant engine_type '2.2 D' -> 2200 cc vs engine 1399 cc (57% off)
+25027,Mercedes,C-CLASS T-Model (S204),2006,Diesel,163,C 220 CDI,C16NZ2,Subaru,TREZIA,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25062,Nissan,URVAN NV350 / CARAVAN (E26),2012,Diesel,129,2.5 dCi 4WD (corr.),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2500 vs 1600 cc also mismatched
+25160,Land Rover,RANGE ROVER IV (LG),2012,Petrol,340,COROLLA,CGQB,Audi,A6,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+25164,Vauxhall,ZAFIRA Mk III (P12),2012,Petrol,200,1.6 (corr.),A17DTR,Opel,Meriva,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+25170,Toyota,"FORTUNER Closed Off-Road Vehicle (TGN6_, KUN6_, GGN6_, TGN5_",2008,Diesel,170,3.0 D,A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 3000 vs 1600 cc also mismatched
+25176,Toyota,"DYNA Bus (XZU3_, XZU4_, WU4_, WU3_, LY2_, KDY2_)",2005,Diesel,110,940 II Estate (945),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25178,Toyota,"DYNA Bus (XZU3_, XZU4_, WU4_, WU3_, LY2_, KDY2_)",2005,Diesel,130,940 II Estate (945),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25180,Toyota,"DYNA Platform/Chassis (KD_, LY_, TRY2_, KDY2_, XZU4_, XZU3_,",2001,Diesel,110,940 II Estate (945),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25182,Toyota,"DYNA Platform/Chassis (KD_, LY_, TRY2_, KDY2_, XZU4_, XZU3_,",2005,Diesel,130,940 II Estate (945),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25203,Honda,MOBILIO,2001,Petrol,110,1.5,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+25212,hernr_3141,TEANA (J32),2012,Petrol,186,2.5,QR25DE,Renault,Koleos,DISPLACEMENT_MISMATCH,variant engine_type '2.5' -> 2500 cc vs engine 1600 cc (56% off); NOTE: power matches within 15% - the ENGINE ROW's displacement may be the wrong value (e.g. Range Rover TD6 <-> BMW M57); verify the engine row before remapping
+25229,Mercedes,CITAN Combi (415),2012,Petrol,114,1.2 (est.),E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.2 (est.)' -> 1200 cc vs engine 2997 cc (60% off)
+25242,Toyota,"TUV Platform/Chassis (YF_, RZF_, LF_, KF_)",2003,Diesel,88,3.0 D,A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 3000 vs 1600 cc also mismatched
+25333,Mini,MINI (F56),2012,Petrol,136,Cooper,A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+25336,Mini,MINI (F56),2012,Petrol,192,Cooper S,A17DTJ,Opel,Zafira,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+25363,Mitsubishi,VERADA Saloon (KW),2003,Petrol,209,ZERO I Convertible,C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 209 hp vs engine 99 hp (111% off), brands Mitsubishi vs Subaru, displacement unverifiable"
+25384,hernr_705,PARK WARD,2000,Petrol,326,5.4,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 5400 vs 1300 cc also mismatched
+25395,Volkswagen,UP,2012,Petrol,75,1.0,E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '1.0' -> 1000 cc vs engine 2997 cc (67% off)
+25401,Mercedes,"S-CLASS (W222, V222, X222)",2012,Hybrid,231,2.1 (est.),OM651.921,Mercedes,C-CLASS T-Model (S204),HARD_FUEL_CONFLICT,variant fuel=Hybrid vs engine fuel=Diesel
+25490,Mazda,3 (BM),2012,Petrol,155,2.0,LFX,Cadillac,CTS Sport Wagon,DISPLACEMENT_MISMATCH,variant engine_type '2.0' -> 2000 cc vs engine 3564 cc (44% off)
+25491,Mazda,3 Saloon (BM),2012,Petrol,155,2.0,LFX,Cadillac,CTS Sport Wagon,DISPLACEMENT_MISMATCH,variant engine_type '2.0' -> 2000 cc vs engine 3564 cc (44% off)
+25533,Alpina,XD3 (F25),2012,Diesel,350,3 (est.),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25534,Alpina,D3 (F30),2012,Diesel,350,3 (est.),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25535,Alpina,D3 Estate (F31),2012,Diesel,350,3 (est.),A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25552,Mercedes,S-CLASS Coupe (C217),2012,Petrol,455,4.7 (est.),E18NVR,Cadillac,CTS,DISPLACEMENT_MISMATCH,variant engine_type '4.7 (est.)' -> 4700 cc vs engine 2997 cc (57% off)
+25586,Mercedes,S-CLASS Coupe (C217),2012,Petrol,585,GAZELLE (corr.),E18NVR,Cadillac,CTS,POWER_MISMATCH_CROSSBRAND,"variant 585 hp vs engine 276 hp (112% off), brands Mercedes vs Cadillac, displacement unverifiable"
+25593,Citroën,"C8 (EA_, EB_)",2002,Diesel,109,2.0 HDi,C20LET,Ford,FIESTA VI,DISPLACEMENT_MISMATCH,variant engine_type '2.0 HDi' -> 2000 cc vs engine 1399 cc (43% off)
+25602,Ford,TRANSIT Box,2012,Diesel,155,"A4 (8D2, B5)",C16NZ2,Subaru,TREZIA,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25605,Ford,TRANSIT Box,2012,Diesel,125,305 I (581A),C16NZ2,Subaru,TREZIA,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25730,BMW,6 Coupe (F13),2010,Petrol,405,Dismantle/assemble gear selector bearing/mounting body (removed),E18NVR,Cadillac,CTS,POWER_MISMATCH_CROSSBRAND,"variant 405 hp vs engine 276 hp (47% off), brands BMW vs Cadillac, displacement unverifiable"
+25872,Renault,THALIA III,2012,Petrol,75,1.2 16V,C20LET,Ford,FIESTA VI,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+25890,Vauxhall,MERIVA Mk II (B),2012,Diesel,110,DEDRA (835),C16NZ2,Subaru,TREZIA,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+25911,Holden,CALAIS Saloon (VX),2000,Petrol,233,3.8 (est.),A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 3800 vs 1300 cc also mismatched
+25915,Holden,CALAIS Saloon (VX),2000,Petrol,207,3.8 (est.),C16NZ2,Subaru,TREZIA,DISPLACEMENT_MISMATCH,variant engine_type '3.8 (est.)' -> 3800 cc vs engine 1329 cc (186% off)
+25922,Holden,CALAIS Saloon (VZ),2003,Petrol,320,LIANA (ER),C16NZ2,Subaru,TREZIA,POWER_MISMATCH_CROSSBRAND,"variant 320 hp vs engine 99 hp (223% off), brands Holden vs Subaru, displacement unverifiable"
+25980,Mercedes,C-CLASS T-Model (S205),2012,Diesel,136,2.2 LWB,OM626.951,Mercedes,C-CLASS (W205),DISPLACEMENT_MISMATCH,variant engine_type '2.2 LWB' -> 2200 cc vs engine 1598 cc (38% off)
+25992,Ferrari,599 SA,2009,Petrol,620,6 (est.),A14XER,Chevrolet,Aveo,POWER_MISMATCH_CROSSBRAND,"variant 620 hp vs engine 99 hp (526% off), brands Ferrari vs Chevrolet, displacement unverifiable"
+26139,Mercedes,CLA Coupe (C117),2012,Diesel,163,2.1 (est.),C16NZ2,Subaru,TREZIA,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2100 vs 1329 cc also mismatched
+26147,Citroën,BERLINGO Box (B9),2012,Electric Motor,67,Electric,E18NVR,Cadillac,CTS,HARD_FUEL_CONFLICT,variant fuel=Electric Motor vs engine fuel=Petrol
+26195,Mercedes,C-CLASS T-Model (S205),2013,Diesel,204,2.1 (est.),C16NZ2,Subaru,TREZIA,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2100 vs 1329 cc also mismatched
+26206,BMW,i3,2012,Hybrid,170,Hybrid,IB1P25B,BMW,i3,HARD_FUEL_CONFLICT,variant fuel=Hybrid vs engine fuel=Electric Motor
+26212,Alpina,D4 Coupe (F32),2012,Diesel,350,3.0,A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 3000 vs 1600 cc also mismatched
+26213,Alpina,D4 Convertible (F33),2012,Diesel,350,3.0,A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 3000 vs 1600 cc also mismatched
+26288,Audi,TT Roadster (FV9),2013,Diesel,184,2.0 TDI,C30SEJ,Hyundai,SANTA FÉ I (SM),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+26300,Suzuki,SPACIA,2012,Petrol,64,0.7,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel; displacement 700 vs 1300 cc also mismatched
+26377,Mini,MINI COUNTRYMAN (R60),2013,Petrol,122,3.3 VVTi G,N18B16A,Mini,MINI Roadster (R59),DISPLACEMENT_MISMATCH,variant engine_type '3.3 VVTi G' -> 3300 cc vs engine 1598 cc (107% off)
+26381,Mini,MINI PACEMAN (R61),2013,Petrol,122,3.3 VVTi G,N18B16A,Mini,MINI Roadster (R59),DISPLACEMENT_MISMATCH,variant engine_type '3.3 VVTi G' -> 3300 cc vs engine 1598 cc (107% off)
+26479,Citroën,DS5,2012,Diesel,150,2.0 HDi (corr.),X16SZR,Dacia,LOGAN MCV (KS_),HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2000 vs 1598 cc also mismatched
+26571,Nissan,MURANO (Z51),2009,Petrol,249,CROWN ROYAL,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+26609,Volkswagen,GOLF ALLTRACK (BA5),2013,Diesel,184,2.7 D Rear Wheel Drive,CUNA,Audi,A3,DISPLACEMENT_MISMATCH,variant engine_type '2.7 D Rear Wheel Drive' -> 2700 cc vs engine 2000 cc (35% off)
+26636,BMW,2 Active Tourer (F45),2013,Diesel,95,Forward- /Backflow,A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+26673,Hyundai,H-1 Cargo (TQ),2007,Diesel,116,2.5 CRDi,A16LET,Buick,Excelle,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol; displacement 2500 vs 1600 cc also mismatched
+26680,Renault,LOGAN II,2012,Petrol,82,1.6,A13DTE,Chevrolet,Aveo,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+26802,BMW,535d,2015,Petrol,,,N57D30A,Bmw,3 Series,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+26857,BMW,X5,2015,Petrol,,,N57D30A,Bmw,3 Series,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+26947,Chevrolet,Silverado,2015,Petrol,,,LML,Chevrolet,Silverado,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+27161,GMC,Sierra,2015,Petrol,,,LML,Chevrolet,Silverado,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+27968,BMW,X5,2016,Diesel,,,N57D30T,BMW,535d,HARD_FUEL_CONFLICT,variant fuel=Diesel vs engine fuel=Petrol
+28118,Chevrolet,Silverado,2016,Petrol,,,LML,Chevrolet,Silverado,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+28447,GMC,Sierra,2016,Petrol,,,LML,Chevrolet,Silverado,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+31097,Chevrolet,Chevy,2007,Petrol,,,LLY,Chevrolet,Silverado,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+31098,Chevrolet,Chevy,2007,Petrol,,,LMM,Chevrolet,Silverado,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+33644,Chevrolet,Silverado,2010,Petrol,,,LMM,Chevrolet,Silverado,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel
+34352,GMC,Sierra,2010,Petrol,,,LMM,Chevrolet,Silverado,HARD_FUEL_CONFLICT,variant fuel=Petrol vs engine fuel=Diesel

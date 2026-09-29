@@ -1,0 +1,49 @@
+vehicle_variant_id,car_brand,car_model,car_year,variant_power_hp,old_engine_code,new_engine_code,status,note
+14922,hernr_1513,NOVA,2002,19,E18NVR,,invalid_data,NOVA 19hp with '650' engine_type is not a known production car (650cc/19hp microvehicle?) - source row corrupt
+24981,BMW,5 (E60),2005,156,C16NZ2,,pending,"520i E60: 2003-03/2005 = M54B22 170hp, later 2.0 = 150hp; listed 156hp matches neither https://www.auto-abc.eu/bmw-5-serija/v3208-2003 - verify engine plate/VIN"
+10908,Cadillac,CTS Sport Wagon,2007,276,C16NZ2,,pending,CTS Sport Wagon introduced 2010 (US 2009 MY); 2007 CTS engines LY7 258hp / LLT 304hp; listed 276hp matches neither https://en.wikipedia.org/wiki/Cadillac_CTS - needs VIN
+18988,Chevrolet,Equinox,2002,188,E18NVR,,pending,Equinox introduced 2005; 2002 model-year invalid; closest LNJ 3.4 185hp (2005+) - needs verification
+19283,Alfa Romeo,GIULIETTA (940),2012,241,1MZ-FE,940 A1.000,remapped,Giulietta QV 1750 TBi 235PS = 940A1000 https://www.auto-data.net/en/alfa-romeo-giulietta-type-940-1.750-tb-235hp-16765
+14598,BMW,5 Touring (E61),2003,192,A14XER,M54B25,remapped,525i E61 192hp = M54B25 https://www.auto-data.net/en/bmw-5-series-e60-525i-192hp-9597
+15147,BMW,5 (E60),2003,507,A14NET,S85B50A,remapped,M5 E60 507hp = S85B50A https://www.auto-data.net/en/bmw-m5-e60-5.0-v10-507hp-smg-9871
+15399,BMW,3 (E90),2004,163,C20LET,M47D20TU2,remapped,E90 320d 163hp = M47D20TU2 https://www.auto-abc.eu/BMW-3-serija/v2196-2005 + https://www.ultimatespecs.com/car-specs/BMW/51256/BMW-E90-3-Series-320d-Auto.html
+15765,BMW,3 Touring (E91),2004,258,X16SZR,N52B30,remapped,330i E91 258hp = N52B30A https://www.auto-data.net/en/bmw-3-series-sedan-e90-330i-258hp-9933
+21073,BMW,3 (E90),2007,272,X16SZR,N53B30,remapped,330i E90 LCI 272hp = N53B30A https://www.auto-data.net/en/bmw-3-series-sedan-e90-330i-272hp-9934
+23355,BMW,3 Gran Turismo (F34),2012,163,C20LET,N47D20C,remapped,3 GT (F34) 320d ED 163hp = N47D20C https://www.auto-data.net/en/bmw-3-series-sedan-f30-320d-163hp-efficientdynamics-edition-17213
+23356,BMW,3 Gran Turismo (F34),2012,163,A17DTJ,N47D20C,remapped,3 GT (F34) 320d ED 163hp = N47D20C https://www.auto-data.net/en/bmw-3-series-sedan-f30-320d-163hp-efficientdynamics-edition-17213
+23368,BMW,3 Coupe (E92),2006,163,A17DTJ,M47D20TU2,remapped,E92 320d 163hp = M47D20TU2 https://www.auto-abc.eu/BMW-3-serija/v2196-2005 + https://www.ultimatespecs.com/car-specs/BMW/51256/BMW-E90-3-Series-320d-Auto.html
+25730,BMW,6 Coupe (F13),2010,405,E18NVR,N63B44,remapped,650i F13 407hp = N63B44A https://www.auto-data.net/en/bmw-6-series-coupe-f13-650i-407hp-steptronic-17291
+17713,Chevrolet,Cruze,2003,99,E18NVR,M15A,remapped,Chevrolet Cruze (Japan) = Suzuki Ignis 1.5 M15A 99PS https://en.wikipedia.org/wiki/Suzuki_Ignis
+16660,Ferrari,599 GTB/GTO,2005,620,A14XER,F140C,remapped,599 GTB Fiorano 620PS = F140C https://en.wikipedia.org/wiki/Ferrari_599
+21329,Ferrari,599 GTB/GTO,2005,612,A14XER,F140C,remapped,599 GTB Fiorano 612hp = F140C 620PS https://en.wikipedia.org/wiki/Ferrari_599
+25992,Ferrari,599 SA,2009,620,A14XER,F140C,remapped,'599 SA' listed 620hp matches GTB F140C; SA Aperta is 661hp F140CE https://en.wikipedia.org/wiki/Ferrari_599 - FLAGGED
+21262,Holden,STATESMAN Saloon (WK),2003,333,C16NZ2,LS1,remapped,Statesman WK LS1 5.7 https://www.autoblog.com/features/gm-ls1-engine-specs-common-issues
+21264,Holden,STATESMAN Saloon (WL),2005,354,C16NZ2,LS1,remapped,Statesman WL 354hp LS1 260kW https://www.autoblog.com/features/gm-ls1-engine-specs-common-issues
+21312,Holden,COMMODORE Pickup (VY),2002,306,C16NZ2,LS1,remapped,Commodore Ute VY SS LS1 235kW=315hp https://en.wikipedia.org/wiki/Holden_Commodore_(VY)
+21318,Holden,COMMODORE Pickup (VU),2000,306,C16NZ2,LS1,remapped,Commodore Ute VU SS LS1 235kW https://en.wikipedia.org/wiki/Holden_Commodore_(VY)
+21320,Holden,COMMODORE Pickup (VY),2002,320,C16NZ2,LS1,remapped,Commodore Ute VY LS1 235kW https://en.wikipedia.org/wiki/Holden_Commodore_(VY)
+21322,Holden,COMMODORE Pickup (VY),2002,333,C16NZ2,LS1,remapped,Commodore Ute VY SII 245kW=329hp High Output LS1 https://en.wikipedia.org/wiki/Holden_Commodore_(VY)
+21324,Holden,COMMODORE Saloon (VE),2005,367,C16NZ2,LS2,remapped,Commodore VE SS 6.0 LS2 270kW=362hp https://en.wikipedia.org/wiki/Holden_Commodore_(VZ)
+25922,Holden,CALAIS Saloon (VZ),2003,320,C16NZ2,LS1,remapped,Calais VZ 5.7 LS1 235kW=315hp https://en.wikipedia.org/wiki/Holden_Commodore_(VZ)
+14198,Lexus,"RX (MHU3_, GSU3_, MCU3_)",2003,204,1MZ-FE,3MZ-FE,remapped,RX330 (MCU3_) 3.3 = 3MZ-FE https://en.wikipedia.org/wiki/Toyota_Highlander + https://en.wikipedia.org/wiki/Toyota_MZ_engine (204hp vs 211 within tolerance)
+10574,Lexus,GX (URJ15_),2008,296,C16NZ2,1UR-FE,remapped,"GX460 (URJ150) 4.6 V8 = 1UR-FE 301hp https://autopadre.com/horsepower-and-torque/lexus-gx-460; note: GX460 launched 2010, listed year 2008 is off"
+11095,Mercedes,"S-CLASS (W222, V222, X222)",2012,585,1TR-FE,M157.985,remapped,S63 AMG W222 585hp = M157.985 https://www.auto-data.net/en/mercedes-benz-s-class-w222-amg-s-63-585hp-speedshift-18886
+15618,Mercedes,E-CLASS (W211),2004,224,D24TIC,OM648.961,remapped,E320 CDI W211 (211.022) = OM648.961 204hp https://www.classic.com/m/mercedes-benz/e/w211/sedan/e-320-cdi/; variant 224hp matches the later OM642 V6 (2005+) - verify VIN
+25586,Mercedes,S-CLASS Coupe (C217),2012,585,E18NVR,M157.985,remapped,S63 AMG Coupe C217 585hp = M157.985 https://www.auto-data.net/en/mercedes-benz-s-class-w222-amg-s-63-585hp-speedshift-18886
+20467,Mitsubishi,VERADA Saloon (KL),2003,209,C16NZ2,6G74,remapped,Verada 3.5 V6 = 6G74 203-208PS https://en.mitsubishiclub.cz/engine_detail.php?id=52
+24809,Mitsubishi,"PAJERO SPORT II (KG_, KH_)",2007,220,C16NZ2,6G75,remapped,Pajero Sport 3.8 = 6G75 3828cc https://en.wikipedia.org/wiki/Mitsubishi_6G7_engine (220hp RU-market rating)
+25363,Mitsubishi,VERADA Saloon (KW),2003,209,C16NZ2,6G74,remapped,Verada 3.5 V6 = 6G74 203-208PS https://en.mitsubishiclub.cz/engine_detail.php?id=52
+19266,Toyota,"HARRIER (MCU3_, MHU3_, ACU3_, GSU3_)",2003,204,1MZ-FE,3MZ-FE,remapped,Harrier 2nd gen 3.3 = 3MZ-FE https://en.wikipedia.org/wiki/Toyota_Highlander + https://en.wikipedia.org/wiki/Toyota_MZ_engine
+19274,Toyota,"KLUGER (_MCU2_, _ACU2_)",2003,204,1MZ-FE,1MZ-FE,remapped,Kluger XU20 2001-2003 = 1MZ-FE (2004+ 3MZ-FE) https://en.wikipedia.org/wiki/Toyota_Highlander + https://en.wikipedia.org/wiki/Toyota_MZ_engine
+22542,hernr_3035,TIGUAN,2009,200,C16NZ2,CCZA,remapped,Tiguan 2.0 TSI 200hp = CAWB/CCZA https://www.mytiguan.com/threads/volkswagen-2-0-tsi-tfsi-ea888-gen-1-2-3-engine-review.50534/ + https://www.auto-data.net/en/volkswagen-tiguan-i-2.0-tsi-200hp-4motion-8382
+20972,hernr_3276,CLUBSPORT Saloon (VX),2000,347,C16NZ2,LS1,remapped,HSV Clubsport VX LS1 255kW https://www.autoblog.com/features/gm-ls1-engine-specs-common-issues
+20974,hernr_3276,CLUBSPORT Saloon (VY),2002,354,C16NZ2,LS1,remapped,HSV Clubsport VY LS1 260kW https://www.autoblog.com/features/gm-ls1-engine-specs-common-issues
+20976,hernr_3276,CLUBSPORT Saloon (VY),2003,388,C16NZ2,LS1,remapped,HSV Clubsport VY R8 LS1 C4B 285kW https://www.autoblog.com/features/gm-ls1-engine-specs-common-issues
+20978,hernr_3276,CLUBSPORT Saloon (VZ),2003,404,C16NZ2,LS2,remapped,HSV Clubsport VZ LS2 297kW=398hp https://www.hsv.com.au/classics/see/vz/clubsport/
+21352,hernr_3276,GRANGE Saloon (WH),2000,347,C16NZ2,LS1,remapped,HSV Grange WH LS1 250kW https://www.autoblog.com/features/gm-ls1-engine-specs-common-issues
+21353,hernr_3276,GRANGE Saloon (WK),2003,388,C16NZ2,LS1,remapped,HSV Grange WK LS1 285kW https://www.autoblog.com/features/gm-ls1-engine-specs-common-issues
+21355,hernr_3276,GRANGE Saloon (WL),2003,404,C16NZ2,LS2,remapped,HSV Grange WL LS2 297kW https://www.hsv.com.au/classics/see/vz/clubsport/
+21251,hernr_3297,FALCON Saloon (BA),2003,367,C16NZ2,BOSS260,remapped,Falcon BA XR8 Boss 260 260kW=350hp https://www.netcarshow.com/ford/2002-ba_falcon_xr8/ + https://grokipedia.com/page/Ford_Falcon_(BA)
+21253,hernr_3297,FALCON Pickup (BA),2003,394,C16NZ2,BOSS290,remapped,Falcon BA (FPV/XR8 ute) Boss 290 290kW=389hp https://www.netcarshow.com/ford/2002-ba_falcon_xr8/ + https://grokipedia.com/page/Ford_Falcon_(BA)
+21254,hernr_3297,FALCON Pickup (BF),2004,367,C16NZ2,BOSS260,remapped,Falcon BF XR8 Boss 260 https://www.netcarshow.com/ford/2002-ba_falcon_xr8/ + https://grokipedia.com/page/Ford_Falcon_(BA)
+21255,hernr_3297,FALCON Pickup (BF),2004,394,C16NZ2,BOSS290,remapped,Falcon BF Boss 290 290kW=394hp https://www.netcarshow.com/ford/2002-ba_falcon_xr8/ + https://grokipedia.com/page/Ford_Falcon_(BA)

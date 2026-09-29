@@ -111,3 +111,56 @@
 - Builder script: `/home/user/build_enriched_db.py` (1667 lines) + inline patch; `random.seed(42)`.
 - Re-run produces identical row counts unless original CSV or clones under `/tmp/repo_*` change.
 - External clones pinned to 2026-09-11 fetch; counts logged (`Found 2621 gor models, 1678 ovdb models, 4202 daniel models`).
+
+---
+
+## 2026-09-29 — Step 1: Quarantine of wrong engine mappings (data-safety fix)
+
+- 481 variant→engine mappings that were physically impossible (hard fuel conflicts, >25% displacement mismatches, >30% cross-brand power mismatches) had `engine_code` set to NULL and were moved to the new **`remapping_queue`** table for review/remapping (`status='pending'`).
+- Legitimate cross-brand engine sharing was explicitly preserved via a brand-family map (GM, VW Group, FCA, PSA+Opel, Renault-Nissan, Hyundai-Kia, Ford+PAG, Toyota+Subaru, BMW+Mini) and hybrid-aware fuel rules: real diesel-hybrids (Mercedes E300de, Peugeot 508/3008 Hybrid4, BMW i3 REX), tune families (N47D20C, 4G63T, OM651) and badge-engineered shares (A13DTE: Fiat/Opel/Vauxhall/Chevrolet) are all still joined.
+- 452 kept-but-suspect rows exported to `csv_exports/09_engine_row_suspects.csv` (wrong engine-row displacement, e.g. B38B15M0 1005cc vs real 1499cc, or junk Vivid engine_type text).
+- `engines.count_variants` recomputed. View `v_vehicle_with_service`: 39,182 → 38,701 rows.
+- Tooling: `step1_quarantine_wrong_mappings.py` (dry-run/apply), report: `STEP1_QUARANTINE_REPORT.md`, pre-change backup: `backups/car_database_backup_pre_step1_2026-09-29.db`.
+
+## 2026-09-29 — Step 2: model-name case normalization
+
+- 1,655 variant (brand, model) values renamed to the models-catalog casing (Vivid ALL-CAPS artifacts, e.g. 'ASTRA J' → 'Astra J'). Variants↔models orphan joins: 1,748 → 0.
+- 39 models added for pairs existing only in variants (Subaru Traviq, Isuzu N Series, Ford E-Series, Mazda Demio…) with derived production years; flagged mis-branded rebadges (SATURN Corsa/Agila…) and typos (Crow Victoria) for Step 3.
+- models.total_variants recomputed for all rows (1,001 wrong counts fixed). Change logs: csv_exports/10_model_name_changes.csv, 11_added_models.csv. Backup: backups/car_database_backup_pre_step2_2026-09-29.db. Report: STEP2_NORMALIZATION_REPORT.md.
+
+## 2026-09-29 — Step 4 batch 1: remapped the 45 POWER_MISMATCH_CROSSBRAND rows (web-verified)
+
+- 44 of 45 quarantined power-mismatch variants remapped to verified engine codes with citations (report: REMAPPING_REVIEW_BATCH1.md, decisions: csv_exports/12_remap_batch1_decisions.csv). 3 rows left pending (ambiguous: 520i E60 156hp, CTS Sport Wagon 2007, Equinox 2002), 1 marked invalid_data (NOVA 19hp).
+- Engine identity fixes: 1MZ-FE (was 429hp Jaguar junk -> 2995cc/201hp Toyota), N52B30 (1300->2996cc), N47D20/C (1482->1995cc), N63B44 (547->407hp), M47D20TU2, AJ126 (2995cc).
+- 22 Jaguar 3.0 SC V6 variants moved from 1MZ-FE to AJ126; X5 M E70 moved to S63B44; 3 rows wrongly kept by the brand-family rule re-quarantined and 2 of them remapped (GX460 -> 1UR-FE, JDM Cruze -> M15A).
+- v_vehicle_with_service: 38,701 -> 38,742. Backup: backups/car_database_backup_pre_step4_2026-09-29.db.
+
+## 2026-09-29 — Step 4 batch 2: fuel conflicts + displacement mismatches resolved
+
+- 303 more quarantined variants restored to correct engines (38,742 -> 39,045 with specs; NULL codes 440 -> 137). Report: REMAPPING_REVIEW_BATCH2.md, decisions: csv_exports/13_remap_batch2_decisions.csv.
+- 34 fuel-direction fixes: 21 variant fuel labels corrected (e.g. Golf/A3 '1.6 102hp Petrol' -> 1.6 TDI CAYC; Touareg '3.6 FSI 249hp' -> TDI CMTA), 13 engine rows had wrong fuel (Y30DT '3.0 V6 CDTI', SDBA TDDi stored as Petrol -> Diesel).
+- 37 web-verified remaps (CAYC, CANB Audi 2.7 TDI, OM612.981/OM611 Sprinter CDI, R20A4, AZZ Touareg, K4M850, G4KD, Hybrid4 RHC, S300h OM651.921, i3 REX) + 250 rule-based internal remaps (0 power mismatches >25% after audit).
+- Discovered real cross-brand engine-code collisions: G6DA/G6DG (Ford 2.0 TDCi diesel vs Hyundai Lambda petrol V6) and BAA (Ford Ka 1.3 vs VW Touareg 3.2) - affected rows left pending pending engine-row disambiguation.
+- Queue now: 331 remapped, 13 engine_fuel_fixed, 3 fuel_label_fixed (+18 CAYC), 136 pending (93 fuel / 40 displacement / 3 power; 10 of them EVs needing an EV data model), 1 invalid. Backup: backups/car_database_backup_pre_step5_2026-09-29.db.
+
+## 2026-09-29 — Step 4 batch 3: web research on fuel pendings + G6DA/G6DG disambiguation
+
+- 55 more variants restored to correct engines (39,045 -> 39,099 with specs; NULL codes 137 -> 82; queue remapped 331 -> 386, pending 136 -> 81, all documented). Report: REMAPPING_REVIEW_BATCH3.md, decisions: csv_exports/14_remap_batch3_decisions.csv.
+- G6DA/G6DG code collision resolved: created 'G6DA (Hyundai)' (3.8 MPi Lambda 3778cc) and 'G6DG (Hyundai)' (3.0 GDI Lambda II 2999cc) rows; 7 Hyundai/Kia Lambda variants remapped (Grandeur TG/HG, Genesis Coupe, Carnival VQ, Opirus, Cadenza x2). BAA needed no action (resolved in batch 2).
+- Engine-row fixes: G6DH was mislabeled 3.0/247hp -> corrected to 3.3 GDI 3342cc/292hp (Wikipedia Lambda); N57D30B displacement 4004->2993cc; N57D30T was fuel='Petrol' with NULL cc -> Diesel 2993cc.
+- Web-verified remaps: Alpina D3/D4/D5/XD3 350PS -> N57D30B (Alpina N57 biturbo); Alpina B10 V8S -> new M62B48 row; Rolls-Royce Park Ward -> new M73B54 row; Maserati MC12 -> F140B (Enzo F140); Land Rover 3.0 SC x3 -> AJ126; plus 24 internal remaps (incl. Subaru XV/Impreza 2.0D -> EE20Z early tune).
+- New rows G6DA (Hyundai), G6DG (Hyundai), M62B48, M73B54 have empty service specs - flagged for OEM spec fill. Backup: backups/car_database_backup_pre_step6_2026-09-29.db.
+
+## 2026-09-29 — Step 7: engine-row suspect worklist (452 rows / 200 codes)
+
+- 19 engine rows repaired with citations: QR25DE 1600->2488cc (Nissan 2.5), CMXA 1200->1598cc (VW 1.6 MultiFuel - 17 Seat/VW variants were right, row was wrong), M57D30 2353->2993cc, B38B15M0 1005->1499cc, ETJ/ETH/ETC -> Cummins 6.7/5.9 identities, CCRA -> 1.6 TotalFlex 1598cc, E18NVR text 'ECONOVAN Bus' -> '3.0 V6 SIDI VVT' (Cadillac LF1-type data), L96 '1.3 VVTi' -> '6.0 V8 Vortec' (dieselhub), LC9/L76/L20/LM7 Vortec texts, CKMA '6.7 Turbo R' -> '1.4 TSI Twincharger', F1CE0481* -> '3.0 HPI TurboDiesel', 4HH -> '2.2 16v HDi'.
+- E18NVR grab-bag cleanup: 14 junk attachments quarantined (VW Voyage, Alpina B3 x3, LANDWIND, HUMMER H3, Chevrolet Colorado/Suburban/Uplander/Avalanche) that survived filters via junk-etype displacement parses; v_vehicle_with_service 39,099 -> 39,085 (honest loss of wrong spec joins).
+- Displacement-suspect joined rows 452 -> 405; remainder is cosmetic variant-etype junk (specs correct). Report: ENGINE_ROW_WORKLIST_REPORT.md, fix log: csv_exports/15_engine_row_fixes.csv. Backup: backups/car_database_backup_pre_step7_2026-09-29.db.
+
+## 2026-09-29 — Step 8 (user's Step 3): hernr_* brand rebadging + mis-brand fixes
+
+- All 83 hernr_NNN brand buckets (743 variants, from the Vivid WorkshopData source) rebadged to real manufacturers using model+engine evidence, each web-verified (citations in STEP3_BRAND_REBADGE_REPORT.md): Smart, Lamborghini, Bentley, Lotus, Infiniti, Tata, UAZ, Perodua, Chery, Geely, GWM, BYD, Foton, Brilliance, Chana, Soueast, Gonow, Dadi, Hafei, Jinbei, Lifan, Saipa, Besturn, Haima, Luxgen, Huanghai, Higer, Golden Dragon, Dongfeng Fengxing, Baolong, Naza, BAW, Inokom, Eunos (800=Xedos 9), Marcos, Metrocab (MCW 2L-T), Westfield (XTR4), Caterham, Zastava, Santana, Ligier, Aixam, Venturi, Wiesmann, Maybach, Spyker, Morgan, Rolls-Royce, AC, Renault Trucks, Piaggio, HSV, Artega, Shuanghuan, ZAZ + consolidations into Ford/VW/Toyota/Honda/Nissan/BMW/LDV/Renault Samsung/MG/Mahindra/Hummer/Acura/Dr Motor/KTM/McLaren/Bugatti/Pontiac/Daewoo.
+- Mis-brands fixed: Citroën->Citroen (486 variants unified, 711 total), Saic Mg->MG, SATURN->Saturn, SHELBY->Shelby, Jmc->JMC, Volga->GAZ.
+- 48 new real brand rows (188->236 brands); 18 duplicate model rows merged (6299->6281); 0 hernr remnants in variants/models/engines/queue.
+- Bonus: Hummer H3 3.5 220hp remapped to L52 (NULL 96->95, specs 39,085->39,086); 5 brand-blocked queue pendings unblocked with citation notes (Marcos TS250/TS500, smart ed 41hp, GWM Tengyi C50, Landwind 2.4, Caterham Seven CF).
+- Source mystery solved: hernr_N = Vivid Hersteller-Nummer; original vivid_cars2000.db in repo root has same-broken brand column but yields kmodnr IDs + identification of non-imported buckets (Noble/RUF/Tesla/IKCO/Fisker/GAZ/Bristol/Lincoln). Decisions: csv_exports/16_brand_rebadge_decisions.csv. Backup: backups/car_database_backup_pre_step8_2026-09-29.db.
