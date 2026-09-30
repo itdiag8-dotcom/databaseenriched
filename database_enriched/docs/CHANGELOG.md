@@ -300,3 +300,27 @@
   Toyota 471, Kia 392, Hyundai 391...).
 - Scripts: step14_step5_lemon_batch5_bmw.py, step14b_estimate_override.py.
   Backup: pre_step14. Decisions: csv_exports/22_lemon_batch5_decisions.csv.
+
+## Step 15 + 15b — 2026-09-30 (user-plan Step 5, batch 6): LEMON replacement, ALL Chevrolet
+
+- Batch 6 in LEMON-count order: replaced 600 LEMON_CHEVROLET codes (653 inventoried, 53 skipped) with
+  real OEM codes across 49 models / years 2000-2025, using the Ford-batch method (cc + VIN 8th char +
+  year). DB's 150+ GM RPO codes served as target vocabulary.
+- Key decodes: Camaro VIN J=L99/W=LS3/V=LLT/3=LFX/P=LSA; truck Vortec VINs (X 4.3, V 4.8, T LM7,
+  U LQ4, G 8.1, F 6.5TD); 2018 Equinox LYX/LTG/LH7; 2016 Malibu 1.5T=LFV; Cruze 2.0TD=LUZ;
+  TB EXT 5.3=LM4; Trailblazer 1.2T LIH / 1.3T L3T; 2013 Traverse still LLT; generic 'Chevy' rows
+  (63) mapped by (cc, year) to Vortec families.
+- 23 new engine rows: LSJ, LD9, LFV, LYX, LH7, LUZ, LZ9, LT2 (C8), LT6 (Z06), LM4, LG8, L77,
+  6.5 TD V8, MR20DD (City Express), Voltec 1.4/1.5 EREV (Volt), Bolt EV + Spark EV Electric
+  (11 Electric engines now), 1.8 Hybrid (Malibu), 1.4 Spark US, LUH/LIH/L3T.
+- Row-fixes: 1ZZ-FE 1600->1794cc (Prizm - long-standing error), LS4 303hp, LZ4/LZE/LNJ/L82/LL8/LS1/
+  J20A labels. 31 fuel fixes (Hybrid 13, Diesel 10, Electric 8).
+- Step 15b: 18 ESTIMATE overrides + 11 majority normalizations + 32 power syncs; NULL-power engine
+  rows filled (LGX 310/LT1 455/LCV 196/LEA 182/LN2 120) propagated to 128 variants. Flags: LS7 9.93L
+  (crawl year-split 2006-08 vs 2009+), LT1 9.27L single-source, Spark 1.4 RPO unverified (row descriptive).
+- 53 rows deliberately skipped (bare multi-engine rows, Canadian Daewoo Optra/Epica, RV chassis,
+  Corvette Z06 ambiguity 2001-04, transition years).
+- Verification: 0 ESTIMATE among targets, 0 orphan refs, 0 count mismatches, 0 power mismatches.
+  Engines 12,658; LEMON total 7,228 (Audi 576 next: Nissan 520, Toyota 471, Kia 392, Hyundai 391...).
+- Scripts: step15_step5_lemon_batch6_chevrolet.py, step15b_estimate_override.py.
+  Backup: pre_step15. Decisions: csv_exports/23_lemon_batch6_decisions.csv.
