@@ -462,3 +462,22 @@
   (Mazda 303 next: Cadillac 269, Jaguar 258...).
 - Scripts: step22_step5_lemon_batch13_honda.py, step22b_estimate_override.py.
   Backup: pre_step22. Decisions: csv_exports/30_lemon_batch13_decisions.csv.
+
+## Step 23 + 23b — 2026-09-30 (user-plan Step 5, batch 14): LEMON replacement, ALL Mazda
+
+- Baseline guard caught a 6th full workspace rewind pre-inventory; recovered via git reset --hard
+  origin, no work lost. Script baseline assert (LEMON=4344) held.
+- Batch 14: replaced 301 of 303 LEMON_MAZDA codes (2 skips: Mazda3 2019/20 bare) across 27 models
+  MY2000-2025. Rebadge twins mapped to Ford-family rows (Tribute=Escape: Zetec/Duratec 30/Atkinson
+  Hybrid; B-Series=Ranger: 2.3 DOHC/2.5 Lima/3.0 Vulcan/4.0 Cologne). CX-50 Hybrid 2025 = Toyota
+  A25A-FXS system (cross-brand). CX-5 2019 2200cc = rare US 2.2 Skyactiv-D diesel (fuel fixed).
+- 13 new engine rows: MZR NA family (1.5/2.0 LF/2.3), Skyactiv-G 2.0 PE + 2.5 PY (NA+turbo family
+  row), 2.2 Skyactiv-D, 1.8 BP Miata, KJ-ZEM Miller SC Millenia S, 2.3 Atkinson Hybrid, 3.7 Duratec
+  37, 2.5 PHEV + 3.3T I6 e-Skyactiv (CX-70/90), MX-30 Electric. 5 row-fixes (L3-VE 2.3 DISI Turbo
+  263hp, FS 130hp, 13B-MSP Renesis 212hp, 3.0 V6 dual label, L5-VE). 11 fuel fixes.
+- Mazda3 2.5 boundary enforced after spot-check: L5-VE MZR through 2013, PY Skyactiv from 2014.
+- Step 23b: 9 ESTIMATE overrides + 3 normalizations + 18 power syncs.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 9,564; LEMON 4,043
+  (Cadillac 269 next: Jaguar 258, VW 237...).
+- Scripts: step23_step5_lemon_batch14_mazda.py, step23b_estimate_override.py.
+  Backup: pre_step23. Decisions: csv_exports/31_lemon_batch14_decisions.csv.
