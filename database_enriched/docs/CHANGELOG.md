@@ -520,3 +520,27 @@
   (Volkswagen 237 next, then Infiniti 230, Dodge 207, Buick 205, Subaru 205...).
 - Scripts: step25_step5_lemon_batch16_jaguar.py, step25b_estimate_override.py.
   Backup: pre_step25. Decisions: csv_exports/33_lemon_batch16_decisions.csv.
+
+## Step 26 + 26b + 26c — 2026-09-30 (user-plan Step 5, batch 17): LEMON replacement, Volkswagen
+
+- Incidents: 9th full workspace rewind caught by baseline guard pre-work (no loss); NEW STANDING
+  RULE from silent code collisions: CYFB already existed as a Ford Transit 2.2 TDCi row and DGUA
+  as a NULL junk row - the pre-apply existence assert passed but identity was wrong (2 Golf R
+  variants linked to a Ford diesel row). step26c repaired: Golf R -> own row, Ford CYFB spec+tech
+  restored from backup, DGUA filled 184hp. Pre-apply assert must now check target identity, not
+  just existence.
+- Batch 17: replaced 234 of 237 LEMON_VOLKSWAGEN codes (3 skips: Passat 2005 2800cc anomalous,
+  Touareg 2008 5000cc V10-cancelled, Golf 2025 bare GTI-vs-R) across 19 models MY2005-2025.
+- Families: AWP/AWV/AWM 1.8T; BPY->CCTA 2.0T 200hp (n=70); CXCA/CXCB/CXDA US GTI/GLI Gen3
+  210/220/228/241hp; Golf R 292hp; DGUA Tiguan Budack 184hp; Atlas 2.0T 235->269hp evo4 2024+;
+  BEW/BRM/BHW Pumpe-Duse TDIs; CVCA EA288 150 (all 2015 TDIs per VW media); VR6 EA390
+  BKL/BUB/BLV/CNNA/CGRA/CDVC + 2.8 Mk4; AXQ 4.2 V8; V10 TDI 310hp (US 06-07 only); W12 Phaeton;
+  3.0 TSI Hybrid; e-Golf EV; 1.4 TSI Hybrid Jetta; 1.5 TSI evo; Routan Chrysler rebadge rows.
+- 12 fuel fixes (8 mislabeled-Petrol TDIs + 4 e-Golf Electric). 22 label row-fixes incl. filling
+  the CXBA/CXBB 1.8T NULL rows (n=27+5).
+- Step 26b: 20 ESTIMATE overrides + 6 normalizations + 28 power syncs; GTI Mk8 0W-20/5.7L 508.00
+  and 1.4T 0W-20 4.0L externally verified.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches, 0 fuel conflicts. Engines 8,846;
+  LEMON 3,301 (Infiniti 230 next: Dodge 207, Buick 205, Subaru 205...).
+- Scripts: step26_step5_lemon_batch17_vw.py, step26b_estimate_override.py, step26c_fix_collisions.py.
+  Backup: pre_step26. Decisions: csv_exports/34_lemon_batch17_decisions.csv.
