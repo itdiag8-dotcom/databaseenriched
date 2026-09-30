@@ -405,3 +405,23 @@
   (Hyundai 391 next: Lexus 322, Honda 312...).
 - Scripts: step19_step5_lemon_batch10_kia.py, step19b_estimate_override.py.
   Backup: pre_step19. Decisions: csv_exports/27_lemon_batch10_decisions.csv.
+
+## Step 20 + 20b — 2026-09-30 (user-plan Step 5, batch 11): LEMON replacement, ALL Hyundai
+
+- Baseline guard (added after batch-10 rewind) caught a 3rd full workspace rewind pre-inventory
+  (LEMON 12,637 vs expected 5,331); recovered via git reset --hard origin, no work lost. Script now
+  asserts baseline counts before running.
+- Batch 11: replaced 385 LEMON_HYUNDAI codes (391 inventoried, 6 skipped) across 23 models
+  MY2000-2025. Lemon fuel column resolved Sonata 2.0-hybrid era (2016+ = G4NE HEV; 2015 = 2.0T),
+  Ioniq (2017-21 HEV; 2022+ = Ioniq 5/6 EV -> new Electric row + fuel fix), Santa Fe 1.6T HEV.
+- Web-verified US Tucson TL lineup (hyundainews 2020 spec PDF): Nu 2.0 GDI 161-164 + Theta 2.4 GDI
+  181 + 1.6T 177 (16-18). Genesis sedan/coupe split by year+cc+slug logic (2000=Coupe 2.0T only,
+  4.6/5.0=sedan Tau, 2010-14 3.8 skipped as MPi-vs-GDI ambiguous).
+- 4 new engine rows: G4LD 1.4T, Sigma 3.0 (XG300), Lambda II 3.8 GDI (Genesis Coupe), Ioniq Electric.
+  5 row-label fixes (G6DB, Tau 4.6, Kappa HEV, Smartstream 1.6T HEV, Lambda 3.5 GDI widened to
+  include Santa Fe/Ioniq/Equus/Genesis applications). 4 fuel fixes (Ioniq 2022+ -> Electric).
+- Step 20b: 4 ESTIMATE overrides + 12 normalizations + 4 power syncs.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 10,431; LEMON 4,946
+  (Lexus 322 next: Honda 312, Mazda 303...).
+- Scripts: step20_step5_lemon_batch11_hyundai.py, step20b_estimate_override.py.
+  Backup: pre_step20. Decisions: csv_exports/28_lemon_batch11_decisions.csv.
