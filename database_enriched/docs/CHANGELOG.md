@@ -425,3 +425,21 @@
   (Lexus 322 next: Honda 312, Mazda 303...).
 - Scripts: step20_step5_lemon_batch11_hyundai.py, step20b_estimate_override.py.
   Backup: pre_step20. Decisions: csv_exports/28_lemon_batch11_decisions.csv.
+
+## Step 21 + 21b — 2026-09-30 (user-plan Step 5, batch 12): LEMON replacement, ALL Lexus
+
+- Baseline guard caught a 4th full workspace rewind pre-inventory; recovered via git reset --hard
+  origin, no work lost. Script baseline assert (LEMON=4946) held for the apply.
+- Batch 12: replaced 291 LEMON_LEXUS codes (322 inventoried, 31 skipped) across 19 models
+  MY2000-2025. Trim slugs encode powertrains (IS250/350, LS600H, NX300H...) -> direct mapping;
+  cc/VIN rows carried 2018+ IS/RC splits. UX hybrid-only from 2023 (C&D). GX550 2024+ = T24A-FTS
+  i-FORCE MAX hybrid (fuel fixed).
+- 3 new engine rows: 1UZ-FE (LS400), 2UR-FXE (LS600h 438hp), RZ450e Electric. 5 junk-label fixes
+  (2JZ-GE '300', 8AR-FTS '2 (est.)' 241hp, 1LR-GUE 553hp, 2GR-FXE, 4GR-FSE). 34 fuel fixes
+  (Hybrid 31, Electric 3).
+- Step 21b: 9 ESTIMATE overrides + 7 normalizations (3UR-FE lemon-majority 9.27L REJECTED after
+  verification -> 8.0L per LX570 8.5qt/0W-20 AMSOIL spec; Tundra 7.4qt) + 5 power syncs.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 10,143; LEMON 4,655
+  (Honda 312 next: Mazda 303, Cadillac 269...).
+- Scripts: step21_step5_lemon_batch12_lexus.py, step21b_estimate_override.py.
+  Backup: pre_step21. Decisions: csv_exports/29_lemon_batch12_decisions.csv.
