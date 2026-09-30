@@ -610,3 +610,33 @@
 - Scripts: step28_step5_lemon_batch19_mopar.py, step28b_estimate_override.py,
   step28c_fix_vote_contamination.py. Backup: pre_step28. Decisions:
   csv_exports/36_lemon_batch19_decisions.csv (+DRYRUN).
+
+## Step 29 + 29b + 29c — 2026-10-01 (user-plan Step 5, batch 20): LEMON replacement, Buick
+
+- Incidents: 12th full workspace rewind caught by baseline guard pre-work (no loss). Zero dry-run
+  iterations needed beyond the first (all 205 rows carried cc/VIN markers or sole-engine years).
+- Batch 20: replaced all 205 LEMON_BUICK codes across 16 models MY2000-2025 -> 205/205 mapped,
+  ZERO skips (second fully-cleared brand after Infiniti). LEMON 2,689 -> 2,484; engines 8,250 -> 8,047.
+- Families: 3.6 genealogy LY7 (240-275) -> LLT (280-288) -> LFX (288-304) -> LGX 310 (LaCrosse/
+  Enclave 18+/Regal GS); LF1 3.0 255; OHV fleet L36 (205/195)/L26 (200/197)/LG8/LA1/LX9/LZ9;
+  LL8 4.2 275-291 + LM4/LH6 5.3 290-300 (Rainier); LS4 5.3 300 (LaCrosse Super); LD8 4.6 275
+  (Lucerne); LTG 2.0T 250-259 (n=142 after) + new '2.0 Turbo (Regal 2011-13)' 220 (LNF-family,
+  RPO ambiguous) + LSY 228 (Envision 21+, NULL row filled) + new LWC 1.6T 200 (Cascada);
+  LUV 1.4T 138 (153 LE2 died 2020) / LIH 1.2T / L3T 1.3T (Encore GX + Envista); LAF/LEA/LCV/LUK
+  2.4-2.5 family.
+- eAssist policy (DB convention): mild hybrids on shared petrol rows keep Petrol -> 3 LEMON Hybrid
+  rows fuel-fixed (LUK LaCrosse/Regal) + step29c fixed 2 pre-existing Malibu BAS-hybrid rows on LE5.
+- Row-fixes: L26/LUK/LSY/LE2/LCV/LZ9/LX9/LD8/LL8/LM4/LH6/LF1/LEA labels+powers (incl. 2 NULL-junk
+  fills). Web-verified: Lucerne 197/227/275; Rendezvous 3.5-only 2007; Terraza 3.9-std 2007;
+  Rainier 2006 bumps; Regal 220/270->259->250 + GS 310; Enclave sole-3.6 by year; Encore 138-only
+  2020+; LSY 0W-20/5.3qt (AMSOIL).
+- Step 29b: 2 EST overrides + 6 normalizations + 11 power syncs; vote line-audit clean (no
+  contamination). 4 pre-existing LE2 NULL powers swept. ESTIMATE left on 4 Chinese-market codes.
+- Verification: 0 ESTIMATE/orphans/count-mismatches/fuel-conflicts/NULL-powers among targets.
+  Engines 8,047; LEMON 2,484. Next: Subaru 205, Land Rover 194, Porsche 193, Lincoln 192, Volvo
+  184, Acura 180, GMC 156, Mitsubishi 138, Ford 85, Pontiac 85, Genesis 74, Fiat 64, Mercury 63,
+  Saturn 49, Scion 44, Alfa Romeo 43, Isuzu 35, Saab 34, Mini 31, Suzuki 29, Hummer 19, Smart 12,
+  Tesla 10, Daewoo 9.
+- Scripts: step29_step5_lemon_batch20_buick.py, step29b_estimate_override.py,
+  step29c_fix_preexisting.py. Backup: pre_step29. Decisions:
+  csv_exports/37_lemon_batch20_decisions.csv (+DRYRUN).
