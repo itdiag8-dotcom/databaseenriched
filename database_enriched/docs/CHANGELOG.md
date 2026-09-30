@@ -443,3 +443,22 @@
   (Honda 312 next: Mazda 303, Cadillac 269...).
 - Scripts: step21_step5_lemon_batch12_lexus.py, step21b_estimate_override.py.
   Backup: pre_step21. Decisions: csv_exports/29_lemon_batch12_decisions.csv.
+
+## Step 22 + 22b — 2026-09-30 (user-plan Step 5, batch 13): LEMON replacement, ALL Honda
+
+- Baseline guard caught a 5th full workspace rewind pre-inventory; recovered via git reset --hard
+  origin, no work lost. Script baseline assert (LEMON=4655) held.
+- Batch 13: replaced 311 of 312 LEMON_HONDA codes (1 skip: CR-V 2025 bare) across 19 models
+  MY2000-2025. Lemon fuel column resolved all hybrid splits (Accord 2.0T-vs-i-MMD, CR-V/Civic
+  hybrids, CR-Z, Insight 1.0/1.3/1.5 eras, Clarity PHEV). Web-verified: R20Z1 155hp (motorreviewer),
+  K20C4 252hp Accord 2.0T, D17A2 Civic. Passport 2000-02 = Isuzu 6VD1 3.2 V6 (Rodeo rebadge,
+  cross-brand row per standing rule).
+- 22 new engine rows (D16/D17/B20Z2/R18Z1/R20Z1/K24W/K24Z9/K20C4/J30A1/H22A4/F20C1/F22C1/L15B2/
+  6VD1/i-MMD 2.0+1.5/CR-Z IMA/Civic Hybrid IMA/Insight 1.0+1.3/Clarity PHEV/J35Y). 13 row-fixes
+  (J35 junk labels 'CORVETTE'/'CROWN ROYAL'/'BASSARA'/'LUV'/'for engines without EGR' decoded to
+  real Honda applications + US hp corrections). 52 fuel fixes (Hybrid).
+- Step 22b: 16 ESTIMATE overrides + 1 normalization + 29 power syncs + 11 NULL fills.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 9,852; LEMON 4,344
+  (Mazda 303 next: Cadillac 269, Jaguar 258...).
+- Scripts: step22_step5_lemon_batch13_honda.py, step22b_estimate_override.py.
+  Backup: pre_step22. Decisions: csv_exports/30_lemon_batch13_decisions.csv.
