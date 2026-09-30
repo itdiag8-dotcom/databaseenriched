@@ -324,3 +324,25 @@
   Engines 12,658; LEMON total 7,228 (Audi 576 next: Nissan 520, Toyota 471, Kia 392, Hyundai 391...).
 - Scripts: step15_step5_lemon_batch6_chevrolet.py, step15b_estimate_override.py.
   Backup: pre_step15. Decisions: csv_exports/23_lemon_batch6_decisions.csv.
+
+## Step 16 + 16b — 2026-09-30 (user-plan Step 5, batch 7): LEMON replacement, ALL Audi
+
+- Batch 7 in LEMON-count order: replaced 537 LEMON_AUDI codes (576 inventoried, 39 skipped) with real
+  OEM codes across 31 models / years 2000-2025, using (model, year, cc) rules + the DB's deep VAG
+  vocabulary (APB/AUK/CAEB/CTUA/CTWA/CREC/BCY...).
+- Key facts verified: A8 D5 '4000cc VIN E' = 60 TFSI 4.0T 453hp (C&D/truecar); A8 D4 4.2=CDRA 372 /
+  4.0T=CTG 420-435 (auto-data/motorinsel); R8 4.2=BYH; TT RS 8J=CEPA/CEPB 360; S3 8V=292hp CYFB
+  family (DB CYFB row is mislabeled Ford - left alone, descriptive row created); Q7 2011-15 US =
+  3.0 TDI only; Q5 3000cc petrol 2014-17 = SQ5-family 3.0T.
+- Junk/NULL rows decoded: CTNA = A8 W12 6.3 500hp; CTGA = A8 D4 4.0T; DBPA/DHHA/DLRA completed
+  (B9 45 TFSI 252 / TT Mk3 245 / TTS 288).
+- 16 new engine rows: ATW, S3 8V/8Y, S6/S8 5.2 V10, S8 D5 4.0T, RS4/RS5 4.2, R8 42/4S V10, TTS,
+  TT RS 8S 394hp, Q7 US TDI, SQ7/SQ8 500hp, Q4 e-tron + e-tron Electric (13 Electric engines now),
+  A8 D5 60 TFSI. 21 fuel fixes (Diesel 11, Electric 10).
+- Step 16b: 31 ESTIMATE overrides + 10 majority normalizations + 18 power syncs + 20 NULL-power
+  variant fills. 39 rows deliberately skipped (A6 bare 2.0T-vs-3.0T x15, RS model unknown x13,
+  TT Mk1/2016-17 x6, misc transitions).
+- Verification: 0 ESTIMATE among targets, 0 orphan refs, 0 count mismatches, 0 power mismatches.
+  Engines 12,136; LEMON total 6,691 (Nissan 520 next: Toyota 471, Kia 392, Hyundai 391...).
+- Scripts: step16_step5_lemon_batch7_audi.py, step16b_estimate_override.py.
+  Backup: pre_step16. Decisions: csv_exports/24_lemon_batch7_decisions.csv.
