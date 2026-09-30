@@ -544,3 +544,26 @@
   LEMON 3,301 (Infiniti 230 next: Dodge 207, Buick 205, Subaru 205...).
 - Scripts: step26_step5_lemon_batch17_vw.py, step26b_estimate_override.py, step26c_fix_collisions.py.
   Backup: pre_step26. Decisions: csv_exports/34_lemon_batch17_decisions.csv.
+
+## Step 27 + 27b + 27c — 2026-09-30 (user-plan Step 5, batch 18): LEMON replacement, Infiniti
+
+- Incidents: 10th full workspace rewind caught by baseline guard pre-work (no loss); dry-run fix
+  narrowed the Q50-2019 skip (rows carry cc markers -> mappable), giving 230/230 with ZERO skips -
+  first brand fully cleared.
+- Batch 18: replaced all 230 LEMON_INFINITI codes across 32 models MY2000-2025.
+- Families: VQ V6 genealogy VQ30DE->VQ35DE (n=156)->VQ35HR->VQ35DD (QX60 2017+ per Infiniti press
+  kit)->VQ37VHR (n=106); VK V8s VK45DE/VK50VE/VK56DE/VK56VD (400hp row fix); VR30DDTT 300/400
+  (Q50/Q60 3.0t); KR20DDET VC-T 268 (QX50 19+/QX55); Mercedes M274DE20 208 (Q50/Q60 2.0t + QX30);
+  new hybrid rows VQ35HR Hybrid Direct Response 360hp net + QR25DER Hybrid 250hp net (QX60);
+  VH41DE 4.1 (Q45 G50) new.
+- US lineups verified: Q50 hybrid->2018 + 2.0t->2020; Q60 4cyl dropped 2019; QX70 V8 discontinued
+  for 2015 (no skip needed); QX60 hybrid 2014-17 only, 3.5 = VQ35DD from 2017.
+- 4 fuel fixes (M35h x2 + Q50 2015 hybrids -> Hybrid). 14 label row-fixes. Identity assert
+  (batch-17 rule) ran first time: OK.
+- Step 27b: 7 ESTIMATE overrides + 5 normalizations + 13 power syncs (VR30/KR20 0W-20 verified).
+  Step 27c: relinked 3 pre-existing Euro-catalog M/Q70 hybrids off plain VQ35HR (fuel-conflict
+  audit catch; pre-dated batch).
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches, 0 fuel conflicts. Engines 8,620;
+  LEMON 3,071 (Dodge 207 next: Buick 205, Subaru 205, Land Rover 194...).
+- Scripts: step27_step5_lemon_batch18_infiniti.py, step27b_estimate_override.py, step27c_fix_hybrids.py.
+  Backup: pre_step27. Decisions: csv_exports/35_lemon_batch18_decisions.csv.
