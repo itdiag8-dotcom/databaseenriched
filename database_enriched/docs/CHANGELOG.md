@@ -239,3 +239,35 @@
   documented with reasons.
 - Verification: 0 orphan refs, 0 count_variants mismatches (recomputed), LEMON total 9,456 remain.
 - Backups: pre_step12. Decisions: csv_exports/20_lemon_batch3_decisions.csv.
+
+## Step 13 + 13b + 13c — 2026-09-30 (user-plan Step 5, batch 4): LEMON replacement, ALL Mercedes
+
+- Batch 4 of 5 in LEMON-count order: replaced 931 LEMON_MERCEDES codes (968 inventoried, 37 skipped)
+  with real OEM codes. Unlike Ford/Mopar batches, LEMON Mercedes codes are US TRIM names (C300,
+  E350, C63...) with no cc/VIN signal -> rules keyed on (trim base, year range), ~150 rules,
+  verified via 7 research passes (C/E/S/CLK/CLS/CL/SLK/SL/ML/GL/G/GLE/GLS/CLA/GLA/GLB/Sprinter/
+  Metris/G/AMG GT/EQB/EQS); Wikibooks Mercedes VIN table primary, ~30 sources in CIT dict.
+- Key generation facts: C63 M156->M177(2015)->M139 PHEV 671hp (W206); E350 M272->M276(2012)->
+  M264(2018); E450 2019+ M256 I6; S600 M137->M275->M277; A/CLA/GLA/GLB 250 M270->M260(2019);
+  G550 M273->M176(2017)->M256(2025); Sprinter OM642/OM651/OM654(2023+); Metris = M274.920 van
+  tune 208hp; GL450 X166 2013-14 M278 vs 2015+ M276 (mbworld).
+- 23 new STEP13_VERIFIED engines (M256/M256 53, M254, M264, M260/35, M139 43/45/PHEV, M176, M178,
+  M152, M137, M155 SLR, M113.943, M276 PHEV, M274 PHEV, OM654, EQB250+/300/350, EQS450+,
+  W242 B250e Electric) + fuel fixes 76 (Diesel 52, Hybrid 12, Electric 12).
+- Step 13b: overrode 59 ESTIMATE-heuristic oil specs on targets with lemon-crawl majority values
+  from the pre_step13 backup (verified as genuine qt->L conversions vs MB specs).
+- Step 13c (post-apply conflation audit): (a) Metris split into 'M274.920 (Metris)' 208hp
+  0W-30/7.57L - AMSOIL/Wikiwand confirm code 274.920 but 8qt van sump vs ~6.3qt cars;
+  (b) S450 2018-20 rule error fixed: W222 S450 = M276.824 V6 362hp (AMSOIL engine code,
+  CarBuzz), NOT M256 I6 (W223-only) - 3 variants remapped; (c) S560e set 469hp system
+  (Car and Driver) Hybrid, M276.824 spec 0W-30/6.52L per AMSOIL (last ESTIMATE eliminated);
+  (d) 14 targets normalized to variant-weighted lemon majorities; 24 NULL/stale spec power_hp
+  filled from engines (incl. M274.920 stale Euro 211->241).
+- 37 rows deliberately skipped (bare Sprinter 2500 gas/diesel x18, Maybach x3, W202/W204
+  transition years, 12 single-row ambiguities) - documented with reasons.
+- Verification: 0 ESTIMATE among step-13 targets, 0 orphan refs, 0 count_variants mismatches,
+  0 engines<->specs power mismatches. LEMON total 8,525 (BMW 780 next: Chevrolet 653, Audi 576,
+  Nissan 520, Toyota 471, Kia 392, Hyundai 391...).
+- Scripts: step13_step5_lemon_batch4_mercedes.py, step13b_estimate_override.py,
+  step13c_conflation_fixes.py. Backups: pre_step13, pre_step13c.
+  Decisions: csv_exports/21_lemon_batch4_decisions.csv (updated in place by 13c).
