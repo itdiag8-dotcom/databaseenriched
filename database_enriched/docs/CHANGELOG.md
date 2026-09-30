@@ -500,3 +500,23 @@
   (Jaguar 258 next: VW 237, Infiniti 230...).
 - Scripts: step24_step5_lemon_batch15_cadillac.py, step24b_estimate_override.py.
   Backup: pre_step24. Decisions: csv_exports/32_lemon_batch15_decisions.csv.
+
+## Step 25 + 25b — 2026-09-30 (user-plan Step 5, batch 16): LEMON replacement, Jaguar
+
+- Incidents: baseline guard caught 8th full workspace rewind pre-work (no loss); fixed decide()
+  tuple-unpack bug pre-dry-run.
+- Batch 16: replaced 246 of 258 LEMON_JAGUAR codes (12 skips: S-Type x9 V6-vs-V8 bare rows,
+  X-Type 2002-04 x3 2.5-vs-3.0) across 19 models MY2000-2025.
+- Genealogy: AJ-V8 eras AJ27 4.0 -> AJ33/DB-AJ34 4.2 -> AJ133 5.0 family; SC line AJ27S (DB-convention
+  code) -> AJ33S 4.2 SC -> AJ133/AJ133S 5.0 SC 510/550/575. AJ126 3.0 SC V6 biggest target (61).
+- US lineups verified: XE Ford-EcoBoost-until-2017 (VIN G) then Ingenium; XF/F-Pace 20d diesel 2017-19
+  (fueleconomy.gov + C/D test; Wikipedia 'no US diesel' wrong); 2018MY 30t 296hp trio; F-Pace 2021
+  I6 MHEP AJ300P replaces SC V6; 2021+ 2.0 = P250 only. Bare 2.0 rows 2018-19 = 30t by elimination.
+- New rows: AJ27, AJ27S, 204DTD (20d diesel), AJ300P (3.0 I6 MHEV P340/P400), I-Pace Electric.
+  7 label row-fixes (AJ133/AJ133S/AJ126/AJ33S/AJ34/AJ30/204PT). Fuel fixes: 9 Diesel + 6 Electric.
+- Step 25b: 7 ESTIMATE overrides + 1 normalization + 5 power syncs; every value audited + externally
+  verified (204PT 0W-20/7.0L, AJ300P 9.08L, 204DTD 0W-30 per blauparts/costaoils).
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 9,065; LEMON 3,535
+  (Volkswagen 237 next, then Infiniti 230, Dodge 207, Buick 205, Subaru 205...).
+- Scripts: step25_step5_lemon_batch16_jaguar.py, step25b_estimate_override.py.
+  Backup: pre_step25. Decisions: csv_exports/33_lemon_batch16_decisions.csv.
