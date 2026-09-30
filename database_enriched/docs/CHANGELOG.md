@@ -271,3 +271,32 @@
 - Scripts: step13_step5_lemon_batch4_mercedes.py, step13b_estimate_override.py,
   step13c_conflation_fixes.py. Backups: pre_step13, pre_step13c.
   Decisions: csv_exports/21_lemon_batch4_decisions.csv (updated in place by 13c).
+
+## Step 14 + 14b — 2026-09-30 (user-plan Step 5, batch 5): LEMON replacement, ALL BMW
+
+- Batch 5 of 5 in LEMON-count order: replaced 697 LEMON_BMW codes (780 inventoried, 83 skipped)
+  with real OEM codes across 91 models / years 2000-2025. Rules keyed on (model, year, cc) -
+  unlike Mercedes, BMW X3/X4/X5/X6/X7/Z4 codes carry a cc segment separating 28i/30i vs 35i/M40i
+  vs 50i trims; car trims have one engine per generation. ~45 cited sources in CIT dict.
+- Key facts verified: F01 740i/Li = N54 315hp (2011-12) -> N55 (2013 FL); 750i G11 LCI 2019+ =
+  523hp; G70 760i 2023+ = S68 536hp; US 540d = B57 261hp; Alpina B7 500(SC)->540->600->612hp;
+  M2 = N55 365 / S55 Comp 405 / S58 453; X5/X7 V8 = 445/456hp -> 523hp from 2020 (M50i);
+  X1 2023 US single-trim 241hp; E90 323i (CA) = N52B25; anomalous 2011 528i identified as late
+  E60/N52 via sump fingerprint (6.52L matches 2010, not F10's 5.01L).
+- 24 new STEP14_VERIFIED engines: S58 (M3/M4 + M2), S55 (M2 Comp), N55 (M2 + M235i), B48 M235i GC,
+  S63B44T2 (F90 M5/M8), N63B44TU2 523hp, S68, B58 (40i + M40i), B48B20 (30i), N20 US, 4x PHEV
+  rows, B57 540d, N47 328d, i3 Electric (9th Electric engine), 4 Alpina rows.
+- 15 row-fixes on reused rows (junk displacements: N55B30A 3926->2979, N54B30O0 2265->2979,
+  M52TUB28 2470->2793, M62B44TU/N62B44 ->4398; i8 B3815KT0 -> Hybrid 357hp; V12 etype cleanups).
+- 50 fuel fixes (Hybrid 28, Diesel 13, Electric 9 incl. i3/i8, X5 40e, 30e PHEVs, 328d).
+- Step 14b: overrode 29 ESTIMATE oil specs + normalized 12 first-code merges to variant-weighted
+  lemon majorities (M-cars correctly landed on 10W-60: S54 5.48L, S65 8.8L, S85 9.27L; M73B54
+  corrected 8.0qt-as-litres -> 7.57L); synced 30 stale/NULL spec power_hp; filled 15 pre-existing
+  NULL-power variants; i3 spec annotated as range-extender oil (BEV has none).
+- 83 rows deliberately skipped (no-signal X/Z rows x59, bare M/X2/ActiveHybrid/Z3/X1-2024+ x22,
+  non-existent 535i/550i 2017 x2) - documented with reasons.
+- Verification: 0 ESTIMATE among step-14 targets, 0 orphan refs, 0 count_variants mismatches,
+  0 power mismatches. Engines 13,235; LEMON total 7,828 (Chevrolet 653 next: Audi 576, Nissan 520,
+  Toyota 471, Kia 392, Hyundai 391...).
+- Scripts: step14_step5_lemon_batch5_bmw.py, step14b_estimate_override.py.
+  Backup: pre_step14. Decisions: csv_exports/22_lemon_batch5_decisions.csv.
