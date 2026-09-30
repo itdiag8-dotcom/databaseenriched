@@ -219,3 +219,23 @@
 - LEMON unchanged at 10,114 (batch 3 Ford Explorer/Edge/Escape next).
 - Scripts: step11_small_cleanups.py, step11b_post_fix.py, step11c_psd_oil.py.
   Backup: pre_step11. Logs: csv_exports/19_small_cleanups_log.csv + 19_small_cleanups_decisions.csv.
+
+## Step 12 + 12b — 2026-09-30 (user-plan Step 5, batch 3): LEMON replacement, ALL Ford
+
+- Replaced 658 LEMON_FORD codes with real OEM codes across 41 models / model years 2000-2024
+  (top: 2.0 EcoBoost 66, 3.5 Cyclone 62, 2.3 EcoBoost 45, 2.5 Duratec 42, 3.0 V6 37, 4.6 V8 32),
+  using cc + VIN-8th char + year + fuel + trim slug, verified against Ford's own fleet VIN guide
+  PDFs (fordpro 2013/2014/2022), fordmasterx, and listings carrying actual VINs (see
+  STEP5_BATCH3_REPORT.md and the CIT dict in step12_step5_lemon_batch3.py).
+- Key VIN findings: 8 = 3.5 NA (cars) but 3.5 EcoBoost turbo on 2021+ F-150; T = 3.5 GTDI;
+  4 = 3.5 EB std (vs T HO); H/D = 2.3 EB; 9 = 2.0 EB; B/W = 3.3 NA/Hybrid; C = 3.0 EB 400hp;
+  Explorer 2.3 EB is real from 2016 (replaced 2.0 EB).
+- 21 new STEP12_VERIFIED engine rows incl. E-Transit Electric + Focus Electric (2nd/3rd Electric
+  engines), GT500 5.4/5.8 SC, Voodoo 5.2, Ford GT 5.4 SC, Thunderbird AJ35, hybrid families.
+- 15 fuel fixes (PIU W hybrid, Maverick hybrid, C-Max Energi, E-Transit, Focus Electric).
+- Step 12b: overrode 4 pre-existing ESTIMATE-heuristic oil specs on shared targets with lemon
+  majority values (2.0 EB 5W-30 5.39L, 3.0 V6 5W-20 5.67L, 4.0 SOHC 5W-30 4.73L, 4.6 V8 5W-20 5.67L).
+- 85 rows deliberately skipped (ambiguous: bare vans/trucks, Taurus/Focus engine splits, SSV) -
+  documented with reasons.
+- Verification: 0 orphan refs, 0 count_variants mismatches (recomputed), LEMON total 9,456 remain.
+- Backups: pre_step12. Decisions: csv_exports/20_lemon_batch3_decisions.csv.
