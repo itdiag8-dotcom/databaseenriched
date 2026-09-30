@@ -346,3 +346,20 @@
   Engines 12,136; LEMON total 6,691 (Nissan 520 next: Toyota 471, Kia 392, Hyundai 391...).
 - Scripts: step16_step5_lemon_batch7_audi.py, step16b_estimate_override.py.
   Backup: pre_step16. Decisions: csv_exports/24_lemon_batch7_decisions.csv.
+
+## Step 17 + 17b — 2026-09-30 (user-plan Step 5, batch 8): LEMON replacement, ALL Nissan
+
+- Batch 8 in LEMON-count order: replaced 513 LEMON_NISSAN codes (520 inventoried, 7 skipped) with real
+  OEM codes across 25 models / MY2005-2025. Nissan's one-engine-per-model lineup + DB's QR/VQ/VK/MR/HR
+  vocabulary made this mostly rule-driven; signals = cc + VIN chars + 2015 trim slugs.
+- Web-verified: 2020+ Frontier = VQ38DD 3.8 310hp (autofiles/crownnissan); 2025 Kicks = 2.0 141hp
+  (autopadre); Ariya = 238/389hp EV (nissanusa); 2019+ Altima = KR20DDET VC-T / PR25DD 2.5;
+  2022+ Rogue = KR15DDET 1.5T; Titan XD 5000cc = 5.0 Cummins ISV V8 TD 310hp.
+- 8 new engine rows: PR25DD, KR20DDET, KR15DDET, VQ38DD, VR30DDTT (2023+ Z), Leaf EM57 Electric,
+  Ariya Electric (15 Electric engines now), 5.0 Cummins ISV V8 TD. 32 fuel fixes (Electric 28,
+  Diesel 4). 7 rows skipped (Titan 17-19 gas-vs-Cummins x3, NV3500 x2, Versa 07-08 x2).
+- Step 17b: 10 ESTIMATE overrides + 2 normalizations + 8 power syncs + 5 NULL-power fills.
+- Verification: 0 ESTIMATE among targets, 0 orphan refs, 0 count mismatches, 0 power mismatches.
+  Engines 11,631; LEMON total 6,178 (Toyota 471 next: Kia 392, Hyundai 391, Lexus 322...).
+- Scripts: step17_step5_lemon_batch8_nissan.py, step17b_estimate_override.py.
+  Backup: pre_step17. Decisions: csv_exports/25_lemon_batch8_decisions.csv.
