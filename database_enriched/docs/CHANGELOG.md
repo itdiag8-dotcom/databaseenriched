@@ -363,3 +363,24 @@
   Engines 11,631; LEMON total 6,178 (Toyota 471 next: Kia 392, Hyundai 391, Lexus 322...).
 - Scripts: step17_step5_lemon_batch8_nissan.py, step17b_estimate_override.py.
   Backup: pre_step17. Decisions: csv_exports/25_lemon_batch8_decisions.csv.
+
+## Step 18 + 18b — 2026-09-30 (user-plan Step 5, batch 9): LEMON replacement, ALL Toyota
+
+- INCIDENT: sandbox fully rewound to branch point 5bf3811 between turns (batches 3-8 gone from
+  working tree). Recovered via git reset --hard origin (all 10 commits were pushed). No work lost.
+- Batch 9: replaced 469 LEMON_TOYOTA codes (471 inventoried, 2 skipped) across 31 models MY2005-2025.
+  Lemon fuel column resolved gas-vs-hybrid VIN splits (Camry VIN1/6 gas vs plain hybrid; Corolla C/D
+  hybrid; RAV4 6/W hybrid vs bare gas). T24A-FTS/V35A-FTS cover gas + hybrid-MAX (same engine).
+- Hybrid-only lineups fuel-fixed: 2025 Camry, Sienna 21+, Venza 21+, Sequoia 23+ (i-FORCE MAX),
+  Land Cruiser 24+, Crown 23+, Grand Highlander, Prius, Mirai (FCEV), bZ4X. 118 fuel fixes total
+  (Hybrid 107, Electric 11).
+- 10 new engine rows: 2GR-FKS, M20A-FKS/XS, T24A-FTS, V35A-FTS, FA24, G16E-GTS, B48B20 (Supra 2.0)
+  + BMW B58 rows reused for Supra 3.0, Mirai FCEV, bZ4X Electric. Row-fixes: 1NZ-FXE (fuel Hybrid),
+  2ZR-FXE/A25A labels, 2ZZ-GE 180hp.
+- Fuel-label unification: 'Electric Motor' -> 'Electric' (14 engines, 30 variants); 5 fuel values.
+- Step 18b: 17 ESTIMATE overrides + 5 normalizations (2 manually corrected: B58 6.52L restored,
+  2AR-FE 0W-20) + 15 power syncs + 8 NULL-power fills.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 11,172; LEMON 5,709
+  (Kia 392 next: Hyundai 391, Lexus 322...).
+- Scripts: step18_step5_lemon_batch9_toyota.py, step18b_estimate_override.py.
+  Backup: pre_step18. Decisions: csv_exports/26_lemon_batch9_decisions.csv.
