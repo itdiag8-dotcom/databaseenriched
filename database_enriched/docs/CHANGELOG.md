@@ -384,3 +384,24 @@
   (Kia 392 next: Hyundai 391, Lexus 322...).
 - Scripts: step18_step5_lemon_batch9_toyota.py, step18b_estimate_override.py.
   Backup: pre_step18. Decisions: csv_exports/26_lemon_batch9_decisions.csv.
+
+## Step 19 + 19b — 2026-09-30 (user-plan Step 5, batch 10): LEMON replacement, ALL Kia
+
+- INCIDENT (2nd full rewind): workspace rewound to branch point between turns again; batch-10 apply
+  landed on the old baseline, detected via post-apply verify (LEMON 12,259). Recovered with
+  git reset --hard origin + clean re-apply. New standing rule: verify baseline counts before apply.
+- Batch 10: replaced 378 LEMON_KIA codes (392 inventoried, 14 skipped) across 32 models MY2000-2025.
+  Lemon fuel column resolved Optima hybrids (G4KK 2.4-hybrid 2011-16 / G4NE 2.0-hybrid 2017-20) and
+  Sorento/Sportage/Carnival 1.6T HEV + Niro HEV.
+- Web-verified: G4NH = Forte/Soul/Seltos/K4 2.0 MPi (wikibooks/go-parts); G6DP = 3.3TT Stinger/K900;
+  G4KK = Optima Hybrid 2.4; G4NA = Soul 2.0; Rio 1.5 = Mazda B5-DE.
+- Code collision handled: DB G6DA is a Ford TDCi code -> Kia Lambda 3.8 MPi got descriptive row
+  'Lambda 3.8 MPi (G6DA-family)'. Similar descriptive rows for Lambda 3.5/3.3 GDI, Telluride 3.8 GDI,
+  Tau 4.6/5.0 (DB G6 rows carry junk labels, e.g. 'BLAZER S10').
+- 18 new engine rows (incl. G6DP, Smartstream 2.5T/1.6T-HEV, Niro HEV, G4NH/NA/NB/KK, Soul EV/EV6/EV9
+  Electric). 39 fuel fixes (Hybrid 32, Electric 7). Row-fixes: G4KN, G4NE, G6EA.
+- Step 19b: 18 ESTIMATE overrides + 4 normalizations + 20 power syncs + 3 NULL fills.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 10,812; LEMON 5,331
+  (Hyundai 391 next: Lexus 322, Honda 312...).
+- Scripts: step19_step5_lemon_batch10_kia.py, step19b_estimate_override.py.
+  Backup: pre_step19. Decisions: csv_exports/27_lemon_batch10_decisions.csv.
