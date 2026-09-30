@@ -481,3 +481,22 @@
   (Cadillac 269 next: Jaguar 258, VW 237...).
 - Scripts: step23_step5_lemon_batch14_mazda.py, step23b_estimate_override.py.
   Backup: pre_step23. Decisions: csv_exports/31_lemon_batch14_decisions.csv.
+
+## Step 24 + 24b — 2026-09-30 (user-plan Step 5, batch 15): LEMON replacement, ALL Cadillac
+
+- Incidents: baseline guard caught 7th full workspace rewind pre-inventory (no loss); the pre-apply
+  target assert fired correctly (Catera Opel L81 missing from NEW_ENGINES - fixed before apply);
+  diagnosed head-pipe SIGPIPE killing dry-run CSV writes (dry runs now un-truncated).
+- Batch 15: replaced 262 of 269 LEMON_CADILLAC codes (7 skips) across 24 models MY2000-2025.
+  Northstar genealogy web-verified: RWD 4.6 = LH2 320hp (STS/SRX/XLR - new row; DB 'LH8' is a 5.3
+  truck code, untouched); 4.4 SC = LC3 (STS-V 469 / XLR-V 443); FWD LD8/L37 DeVille family.
+  CTS-V generations: LS6->LS2->LSA->LT4 (2016-19 640hp); 2015 6200cc row skipped (no 2015 CTS-V).
+  Escalade: L59/LQ4->L92/L9H->L86->L87 + LM2 Duramax (Diesel fix) + LFA two-mode hybrid + ELR=Voltec.
+- 8 new engine rows: LH2, Opel L81 3.0 (Catera), LA3 3.2, LP1/LP9 2.8 (Canada), LTA 4.2TT Blackwing
+  (CT6-V 550hp), LYRIQ + OPTIQ Electric. 8 row-fixes incl. LF4 junk row ('2.5'/2492cc/156hp ->
+  3.6TT 464hp ATS-V) and NULL rows LGW/LGX/LT4/L87 filled. 6 fuel fixes.
+- Step 24b: 7 ESTIMATE overrides + 5 normalizations + 10 power syncs + 22 NULL fills.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 9,306; LEMON 3,781
+  (Jaguar 258 next: VW 237, Infiniti 230...).
+- Scripts: step24_step5_lemon_batch15_cadillac.py, step24b_estimate_override.py.
+  Backup: pre_step24. Decisions: csv_exports/32_lemon_batch15_decisions.csv.
