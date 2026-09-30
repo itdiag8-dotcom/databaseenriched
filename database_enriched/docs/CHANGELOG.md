@@ -567,3 +567,46 @@
   LEMON 3,071 (Dodge 207 next: Buick 205, Subaru 205, Land Rover 194...).
 - Scripts: step27_step5_lemon_batch18_infiniti.py, step27b_estimate_override.py, step27c_fix_hybrids.py.
   Backup: pre_step27. Decisions: csv_exports/35_lemon_batch18_decisions.csv.
+
+## Step 28 + 28b + 28c — 2026-09-30 (user-plan Step 5, batch 19 = MOPAR GROUP): LEMON replacement, Dodge + Chrysler + Jeep
+
+- Incidents: 11th full workspace rewind caught by baseline guard pre-work (no loss); first apply
+  crashed on a (lc)-not-a-tuple sqlite binding bug AFTER backup but BEFORE commit -> clean rollback
+  (verified LEMON=3,071), fixed, re-applied. IDENTITY assert caught an ESG/EGS dict swap pre-apply
+  (ESG = 6.4 HEMI 6400cc, EGS = 4.0 SOHC 3952cc) and queued 2 junk-cc bypasses (ED8, OM612).
+- Batch 19 (grouped per user directive): 441 rows (Dodge 207 + Chrysler 136 + Jeep 98) -> 382
+  mapped / 59 documented skips. LEMON 3,071 -> 2,689; engines 8,620 -> 8,250.
+- Families: Pentastar 3.6 (n=247 after; NULL power filled=283) + 3.2 KL; full 4-cyl lineage EDZ ->
+  ED3 World GEMA -> ED8 Tigershark (junk NULL row REPAIRED 2360cc/184hp) -> new 2.0 TigerShark
+  (Dart) + 1.4 MultiAir Turbo + 1.8 World; new 1.3 GSE Turbo (Renegade) + 1.3 GSE PHEV (Hornet
+  R/T 288hp, fuel fix -> Hybrid); 2.0 Turbo GME 268 (Hornet GT; row power matched exactly).
+- Jeeps: Wagoneer 5.7 eTorque 392 (new row) / Hurricane SO 420 (VINP, V8s dropped for 2024);
+  Grand Wagoneer 6.4 ESG 471 (VINJ) + new Hurricane H.O. 510/540 (2025); Compass 2023+ = 2.0T
+  200hp (2.4 died after MY2022); Renegade 2021+ US = 1.3T only; Cherokee XJ 2001 = 4.0 I6 AMC.
+- Viper generations: new 8.0 Gen II 450 / new 8.4 Gen V 640/645 rows + 1 pre-existing 2013 Viper
+  relinked off the Gen IV 599hp row; 8.3 SRT 500 (03-06); 8.4 SRT10 600 (08-10).
+- Fleet/legacy: EER 2.7, EGF 3.5 JS 235, EGG 3.5 LH 250, new 3.2 V6 LH 220 (Intrepid), EGX
+  Crossfire 3.2, 3.5 V6 (LX) Challenger SE, EGA/EGH/4.0 OHV minivan (Routan row relabeled 251hp),
+  EGS 4.0 SOHC relabeled (Nitro 260/Pacifica 253; was junk 'ZEBRA Pickup'), EKG 3.7 Dakota,
+  6G72(SOHC24V) reused for minivan 3.0 150hp + Sebring/Stratus coupe 200hp, EZC/EZH Chassis Cab
+  5.7, ETH 5.9 Cummins CR HO 325 (fuel fixes Petrol->Diesel on 4 mislabelled 5900cc rows),
+  OM612DE27LA Sprinter 2.7 I5 (cc junk 2184->2685 fixed; 2003-04 fuel fixes) + M272E35 Sprinter
+  3.5 254, SRT-4 2.4T 215/230 (row power fixed 205), Neon 2.0 SOHC 132 (new), Pacifica PHEV
+  260hp total system (new, Stellantis media).
+- Skips (59): 2-engine ambiguity (T&C/GC 3.3-vs-3.8, Compass/Patriot 2.0-vs-2.4, misc bare
+  sedans, Wagoneer 2023, GC 2022/25) + physical impossibilities (Pacifica 3.8 2008, Ram 5.9
+  2004 mid-year split + 2008-09 out-of-production).
+- Step 28b: 10 EST overrides + 10 normalizations + 22 power syncs. Step 28c line-audit (majority-
+  vote hazard rule) caught 3 contaminations and reverted: EZH 5.7 HEMI (n=177) single-vote 15W-40/
+  11.35 diesel flip -> 5W-20/6.62; M272E35 12.5L Sprinter-vote flip -> 0W-30/8.04; 3.5 V6 (LX)
+  single-vote 0W-40 -> 10W-30/5.67. Hurricane SO 0W-20 x6/6 verified externally (blauparts/AMSOIL
+  - also confirms VIN P = Hurricane SO); Hurricane H.O. spec set 0W-40 MS-A0921. 49 stale NULL
+  variant powers swept on batch targets.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches, 0 fuel conflicts, 0 NULL powers
+  on targets. Engines 8,250; LEMON 2,689 (remaining Mopar = the 59 skips). Next: Buick 205,
+  Subaru 205, Land Rover 194, Porsche 193, Lincoln 192, Volvo 184, Acura 180, GMC 156, Mitsubishi
+  138, Ford 85, Pontiac 85, Genesis 74, Fiat 64, Mercury 63, Saturn 49, Scion 44, Alfa Romeo 43,
+  Isuzu 35, Saab 34, Mini 31, Suzuki 29, Hummer 19, Smart 12, Tesla 10, Daewoo 9.
+- Scripts: step28_step5_lemon_batch19_mopar.py, step28b_estimate_override.py,
+  step28c_fix_vote_contamination.py. Backup: pre_step28. Decisions:
+  csv_exports/36_lemon_batch19_decisions.csv (+DRYRUN).
