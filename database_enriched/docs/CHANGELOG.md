@@ -640,3 +640,31 @@
 - Scripts: step29_step5_lemon_batch20_buick.py, step29b_estimate_override.py,
   step29c_fix_preexisting.py. Backup: pre_step29. Decisions:
   csv_exports/37_lemon_batch20_decisions.csv (+DRYRUN).
+
+## Step 30 + 30b + 30c — 2026-10-01 (user-plan Step 5, batch 21): LEMON replacement, Subaru
+
+- Incidents: 13th full workspace rewind caught by baseline guard pre-work (no loss).
+- Batch 21: 205 LEMON_SUBARU rows, 13 models MY2005-2025 -> 199 mapped / 6 documented skips
+  (Baja 05-06, Legacy 05-07 bare 2.5-ambiguity, Impreza 2500CC 2005 RS-vs-STI).
+  LEMON 2,484 -> 2,285; engines 8,047 -> 7,852.
+- Key disambiguations: bare 'Impreza' = non-WRX (EJ253 2.5i / FB20B 2.0 by era) while
+  IMPREZA_2500CC 2012-13 = Impreza WRX EJ255 265 (Edmunds) and IMPREZA_2000CC 2005 = WRX EJ205 227;
+  WRX-vs-STI split via 2015 slugs (STI=EJ257 305) and 2019-21 displacement (2500CC=STI 310);
+  Forester 2000CC 2014-18 = 2.0XT FA20F 250 (turbo axed 2018, torquenews).
+- Families: EJ253 (n=34 after) / EJ255 / EJ257 / EJ205; EZ30D 245 + EZ36D 256 (US relabels from
+  Euro 241/258); FB20B 148-152 / FB25 relabeled FB25B 173-175 / new FB25D 2.5 DI 182 (Forester 19+,
+  Legacy+Outback 20+, Crosstrek Sport, Impreza RS); FA20 200 (BRZ) / FA24 228 (BRZ 22+) + new
+  FA20F (WRX 268 / Forester XT 250) and FA24F (Ascent+XT 260 / WRX 22+ 271) per Wikipedia FA page;
+  new XV Crosstrek Hybrid 160 (mild), Crosstrek Hybrid PHEV 148, Solterra BEV 215 (3 rows fuel-fix
+  Petrol -> Electric).
+- Step 30b: 8 EST overrides + 11 power syncs; vote audit clean (EJ=5W-30, FB=0W-20, all strong
+  majorities). Step 30c: consolidated NULL-junk FB25BA/FB25BC (Forester 14-17) into relabeled FB25
+  (8 variants relinked, 170hp fill); deleted all-NULL Solterra spec/tech rows (BEV, i3 precedent).
+- Verification: 0 ESTIMATE/orphans/count-mismatches/fuel-conflicts/NULL-powers among targets.
+  Engines 7,852; LEMON 2,285. Next: Land Rover 194, Porsche 193, Lincoln 192, Volvo 184, Acura
+  180, GMC 156, Mitsubishi 138, Ford 85, Pontiac 85, Genesis 74, Fiat 64, Mercury 63, Saturn 49,
+  Scion 44, Alfa Romeo 43, Isuzu 35, Saab 34, Mini 31, Suzuki 29, Hummer 19, Smart 12, Tesla 10,
+  Daewoo 9.
+- Scripts: step30_step5_lemon_batch21_subaru.py, step30b_estimate_override.py,
+  step30c_fix_preexisting.py. Backup: pre_step30. Decisions:
+  csv_exports/38_lemon_batch21_decisions.csv (+DRYRUN).
