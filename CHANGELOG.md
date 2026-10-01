@@ -1,11 +1,4 @@
-## 2026-10-01 - Step 11: cylinders, displacement, and a systematic column bug (step64/64b)
-- "104 NULL cylinders / 73 NULL displacement" was three different problems. 36 and 49 of them are electric/FCEV rows where NULL is the CORRECT value - an electric motor has no cylinders - so counting them as defects overstated the gap by about half. They are documented, not filled.
-- The 68 + 24 real gaps are filled, mostly the same family stems and sales codes Step 8 gave power to, using the row's own layout token where it had one.
-- The systematic bug: Step 8's N53B3O0-at-630cc was not a typo. 13 more rows had their model designation leaked into displacement_cc - 650i -> 650cc, 740i -> 740cc, 725tds -> 725cc, CL600 -> 600cc - and each states its true displacement in the same string. The cylinder counts were corrupted downstream of it: something derived "under 1 litre -> 3 cylinders", so 3.0 straight-six diesels were recorded as triples and 4.4 V8 diesels too. One bad value, two wrong columns. M275KE55LA was worst: a CL600 M275 is a 5.5 V12 biturbo, and its descriptor said V8.
-- 16 further cylinder counts contradicted an explicit layout token in their own descriptor (EZ36D "3.6 H6" stored as 8, N74B66A "6.6 V12" stored as 8, the Cummins sixes stored as 8). D4FD-L was deliberately excluded - there the descriptor is the wrong half, reading "3.0 -24 V6" on a 1685cc Hyundai 1.7 diesel.
-- Step 11b cleared 4-cylinder counts off 12 pure-electric rows (hybrids keep theirs - they have a real engine). The 13th, A14XFL, was not electric at all: it is the Opel Ampera's 1.4 petrol range extender, i.e. the European Volt, which this DB already models correctly as Voltec 1.4 EREV. It is now Hybrid 1398cc/4cyl with its junk descriptors ("216 1.6i", "FEITENG Closed Off-Road Vehicle") replaced.
-- DB: 5,670 engines, 37,444 variants, 0 fuel conflicts / 0 orphans / 0 count mismatches, 0 implausible cylinder-displacement combinations.
-## Step 12 — Engine descriptor cleanup (2026-10-01)
+## 2026-10-01 - Step 12: engine descriptor cleanup (step65/65b)
 
 - **`(est.)`/`(corr.)` markers removed from 879 descriptors** (540 engine + 506 variant rows had
   them). They are provenance notes living in a human-readable field, and they contradicted the
@@ -28,6 +21,13 @@
   mismatches. Scripts `step65_step12_descriptors.py` + `step65b_descriptor_leftovers.py`,
   report `STEP12_DESCRIPTORS_REPORT.md`.
 
+## 2026-10-01 - Step 11: cylinders, displacement, and a systematic column bug (step64/64b)
+- "104 NULL cylinders / 73 NULL displacement" was three different problems. 36 and 49 of them are electric/FCEV rows where NULL is the CORRECT value - an electric motor has no cylinders - so counting them as defects overstated the gap by about half. They are documented, not filled.
+- The 68 + 24 real gaps are filled, mostly the same family stems and sales codes Step 8 gave power to, using the row's own layout token where it had one.
+- The systematic bug: Step 8's N53B3O0-at-630cc was not a typo. 13 more rows had their model designation leaked into displacement_cc - 650i -> 650cc, 740i -> 740cc, 725tds -> 725cc, CL600 -> 600cc - and each states its true displacement in the same string. The cylinder counts were corrupted downstream of it: something derived "under 1 litre -> 3 cylinders", so 3.0 straight-six diesels were recorded as triples and 4.4 V8 diesels too. One bad value, two wrong columns. M275KE55LA was worst: a CL600 M275 is a 5.5 V12 biturbo, and its descriptor said V8.
+- 16 further cylinder counts contradicted an explicit layout token in their own descriptor (EZ36D "3.6 H6" stored as 8, N74B66A "6.6 V12" stored as 8, the Cummins sixes stored as 8). D4FD-L was deliberately excluded - there the descriptor is the wrong half, reading "3.0 -24 V6" on a 1685cc Hyundai 1.7 diesel.
+- Step 11b cleared 4-cylinder counts off 12 pure-electric rows (hybrids keep theirs - they have a real engine). The 13th, A14XFL, was not electric at all: it is the Opel Ampera's 1.4 petrol range extender, i.e. the European Volt, which this DB already models correctly as Voltec 1.4 EREV. It is now Hybrid 1398cc/4cyl with its junk descriptors ("216 1.6i", "FEITENG Closed Off-Road Vehicle") replaced.
+- DB: 5,670 engines, 37,444 variants, 0 fuel conflicts / 0 orphans / 0 count mismatches, 0 implausible cylinder-displacement combinations.
 ## 2026-10-01 - Step 10: 1,738 duplicate variant rows removed (step63)
 - vehicle_variants 39,182 -> 37,444. 1,332 groups of byte-identical rows (worst: eleven identical Toyota Prius 2015 / 2ZR-FXE rows) collapsed to one row each.
 - Where they came from: the LEMON campaign made them. F21's near-duplicate rows differed only in power or engine_type text, and relinking them onto shared engine codes erased the difference. Step 9 produced the very last one - completing the kW column made a final pair match, which is why this script's baseline assert fired and had to move from 1,738 to 1,739.
