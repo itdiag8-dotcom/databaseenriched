@@ -1,3 +1,9 @@
+## 2026-10-01 - Step 5 Batch 40: Mini (step49/49b/49c)
+- 31/31 rows mapped, 0 skips. Every row is badged "Cooper", so the decode used the displacement tokens plus the crawl's oil fill: 4.54 L/5W-40 = Tritec W10B16 115hp, 4.2 L/5W-30 = N16 121hp, 4.2-4.6 L/0W-20 = B38 three-cylinder 134hp, 5.25 L = Cooper S 2.0 (B46 189hp, B48 201hp for the 2025 F66).
+- The bare 2020-2024 rows resolve despite having no displacement token: 5.25 L is a litre above any three-cylinder row. The 1600CC MY2015 rows must be the outgoing N16, since the F56 is 1.5 or 2.0.
+- 1 new engine (W10B16 Cooper 115hp - the DB only had the 90hp One). 4 ROW_FIXES, incl. B38A15A which was recorded as a 4-cylinder.
+- 49c: 24 pre-existing Mini variants were sitting on bare "Eng CD" placeholder rows (B38, B48, N16, N18, W10, ...M0 stubs) with NULL power; they were relinked to the verified vocabulary, power was backfilled on N12/N14/W11/N18B16A/N18B16C, 6 emptied placeholders were retired and B48A20B lost its junk "Leaf Spring Suspension" descriptor.
+- DB: LEMON 302->271; engines 5,950->5,914; Mini fuel conflicts 0; Mini NULL-power variants 55->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 39: Lexus (step48/48b/48c)
 - 31/31 rows mapped, 0 skips (12 flagged volume defaults). All rows were bare nameplate+year, so the decode ran on the crawl's oil fill AND viscosity: 0W-16/4.54 L identifies the 2.5 Dynamic Force (ES 250 A25A-FKS), 4.35 L the 2AR-FXE hybrid, 4.63 L the 8AR-FTS 2.0 turbo, 5.39-6.43 L the 2GR-FKS V6, 6.05 L the 2GR-FE, 5.20 L the SC 300's 2JZ-GE.
 - ES 2018 was identified as the ES 300h from its 4.35 L fill and its fuel corrected Petrol->Hybrid. IS/RC 2018-2025 take the volume 350 V6 over the RC F / IS 500 V8 (flagged).
