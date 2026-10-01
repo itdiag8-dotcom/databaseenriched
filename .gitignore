@@ -6,3 +6,6 @@ database_enriched/backups/
 
 # Loose zip archives of the data directory (regenerate on demand)
 *.zip
+
+# 7zap model pictures downloaded by step92 (regenerate with the script)
+database_enriched/model_images/

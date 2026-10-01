@@ -1,3 +1,60 @@
+## 2026-10-01 - Step 95: dashboard car selection becomes a picture catalog (7zap-style)
+
+- The dashboard's brand -> model -> engine type -> engine code dropdown cascade now has a visual
+  twin: a **Catalog view** (default) with a brand grid, then 7zap-like generation cards showing the
+  model picture, years, variant/engine counts, the matched catalogue entry and a `7zap`/`wikidata`
+  source badge. Picking an engine code drops into the unchanged editor with everything preselected.
+- New endpoints: `/api/catalog/brands`, `/api/catalog/brands/:brand/models`, `/api/catalog/stats`,
+  `/model_images/<brand>/<file>`.
+- **`/img?u=<url>` proxies and caches pictures** to `model_images/_cache/`: the database holds 781
+  image URLs but no local files yet (step 92 unrun), and browsers can be refused by hot-link
+  protection. Allow-list: img.7zap.com, 7zap.com, commons.wikimedia.org, upload.wikimedia.org.
+- Commons attribution is rendered on the cards (`image_credit` / `image_license`, with a source-page
+  fallback); 7zap tiles show none, as none is required.
+- `server.listen` now honours `HOST` (default `127.0.0.1`, unchanged behaviour).
+- `dashboard/catalog_smoke_test.mjs` runs the dashboard JS against the live API with a stubbed DOM
+  and walks all four levels - 147 brand tiles, 379 BMW model tiles with 362 pictures - so the UI can
+  be verified without a browser.
+
+## 2026-10-01 - Step 94: Wikidata/Commons fallback for the brands 7zap does not carry
+
+- 91 brands / 1 229 model rows (Ferrari, Aston Martin, Bugatti, Isuzu, Bentley, Maserati, Jaguar,
+  Land Rover, Tesla ...) have **no 7zap catalog at all**, so step 90-93 can never illustrate them.
+- `step94_fetch_wikidata_images.py` queries Wikidata for `P31/P279* = automobile model` + `P18`
+  picture, binding the manufacturer **by label/alias instead of a hard-coded QID** - "GWM" lands on
+  Great Wall Motor, "DS" on DS Automobiles, and both "Land Rover" entities are caught at once; an
+  `ALIASES` table covers spellings Wikidata lacks (Maruti -> Maruti Suzuki, Ikco -> Iran Khodro).
+- **Attribution is now first-class**, because Commons licences demand it where 7zap did not: author
+  and licence are read from the Commons API into new `CatalogModel.credit` / `.license` fields and
+  stored in three new `models` columns - `image_source`, `image_credit`, `image_license`
+  (existing 7zap rows backfilled to `image_source='7zap'`).
+- Seeded from a real WDQS response (`wikidata_captures/exotics_batch1.txt`, importable via
+  `--from-capture`): 91 models for 8 exotic brands matched **178 of 449 rows (39.6 %)** - 45 exact,
+  5 code, 97 family, 31 fuzzy - with only one sixth of the response captured. Database now holds
+  **781 illustrated model rows** (603 7zap + 178 Wikidata).
+- The 31 fuzzy matches score 0.51-0.56 and are the dubious ones (DB12 wearing the DB2 photo) only
+  because the right model sits in the uncaptured part of the response; `--threshold 0.6` suppresses
+  that tier.
+- `step94_selftest.py` covers the chain offline (stubbed WDQS + Commons API).
+
+## 2026-10-01 - Step 93: 7zap pictures for every brand and every region
+
+- The step-90 crawl read brand catalog pages, which render **one region at a time** and switch
+  client-side (`#region=europe`), so Europe/Asia-only generations (BMW `1' F20`, Audi `A1`) were
+  unreachable no matter how the brand page was requested - `?region=` is ignored server-side.
+- `step93_fetch_7zap_all_regions.py` crawls the **sitemap index** instead: 7zap publishes one
+  sitemap per generation (`/sitemaps/cats/7zap_com/<brand>/generation_<slug>.xml`) independently of
+  region, and the generation slug maps 1:1 onto the model page that carries the picture, name,
+  years and region label. Threaded, resumable (`--resume`), merges into the existing
+  `catalog_models.jsonl`, so step 91/92 are unchanged.
+- `step93_selftest.py` exercises the whole chain offline with stubbed HTTP (sitemap parse, title /
+  year-range / open-ended years / region / picture extraction, idempotent merge).
+- Brand ceiling quantified: 7zap carries **70 brands** (`database_enriched/7zap/brands.json`); the
+  database has 147. **56 brands = 5 023 model rows (80.3 %) are reachable**, 91 brands = 1 229 rows
+  (Ferrari, Aston Martin, Bugatti, Isuzu, Bentley, Jaguar, Land Rover…) have no 7zap catalog at all
+  and would need a different source. Per-brand detail in
+  `database_enriched/csv_exports/90_7zap_brand_coverage.csv`.
+
 ## 2026-10-01 - Step 14: cylinder counts, cross-checked then self-checked (step67/67b/67c)
 
 - **127 engine rows corrected (658 variants).** 29 from the MagicMotorsport layout tokens
