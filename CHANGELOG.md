@@ -1,3 +1,11 @@
+## 2026-10-01 - Step 5 Batch 42: Dodge + Jeep + Chrysler (step51/51b)
+- 59/59 rows mapped (Dodge 23, Jeep 21, Chrysler 15), 0 skips. Merged into one batch because the three brands share a single engine catalogue; "BRAND:MODEL" rule keys keep the nameplates apart.
+- Decoded on the crawl's oil-fill ladder: 4.25-4.56 L = EDZ 2.4 / ECN-ED3 World Engine / 420A, 4.73 L = EGA 3.3, EGL 3.8, the new EGW 3.2 and the 2.0 GME 4xe, 5.2 L = EGF 3.5, 5.67 L = 3.6 Pentastar, 6.62 L = 5.7 Hemi eTorque, 11.35 L of 15W-40 = 5.9 Cummins.
+- The 2000-2001 LH cars (Concorde/Intrepid) record exactly 5 qt, which is the 3.2 V6 - an engine the DB was missing, now added as EGW 225hp. The Journey's three-year engine walk (3.5 -> 2.4 -> Pentastar) is visible in its fills.
+- 5 fuel corrections: the four Ram 5900CC rows Petrol->Diesel (Cummins), Grand Cherokee 2025 Petrol->Hybrid (4xe, identified by its 5 qt fill vs the Pentastar's 6).
+- 2 new engines (EGW, 420A). 8 ROW_FIXES: EGL/EGF/EGG/ED3 had wrong cylinder counts and ETH (5.9 Cummins I6) was listed as an 8-cylinder.
+- 51b: 1 ESTIMATE override, 5 normalizations (incl. a swapped EDZ/EGA fill pair), 10 power syncs.
+- DB: LEMON 242->183; engines 5,886->5,829; fuel conflicts 0 across all three brands; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 41: Suzuki (step50/50b)
 - 29/29 rows mapped, 0 skips. Half the range is other people's engineering: Forenza/Reno/Verona = Daewoo (T20SED 126hp, X25D1 2.5 inline-six 155hp), Equator = Nissan Frontier (QR25DE 152 / VQ40DE 261), XL7 2007-09 = GM Theta with the LY7 3.6 V6 252hp. Suzuki's own: Aerio J23A 155 (new row), Grand Vitara H25A 165 -> H27A 185 -> J24B 166 / N32A 230, SX4 J20A 143, XL-7 H27A 185.
 - The XL-7 -> XL7 rename in 2007 is a real engine change (2.7 V6 5.48 L -> GM 3.6 5.2 L), visible in the crawl's fills.
