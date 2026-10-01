@@ -1,0 +1,343 @@
+variant_id,action,engine_code,brand,model,year,new_hp,new_kw,evidence
+4734,SKIP,1.6 16v CRDI,Kia,Ceed,2010,,,"the 2010 Cee'd 1.6 CRDi was sold at 90, 115 and 128hp"
+4765,FILL,1.7 16v CRDI,Kia,Optima,2015,141,103.7,"Optima 1.7 CRDi, a single 141hp tune"
+4799,FILL,1.7 CRDi,Kia,Sportage,2010,115,84.6,"Sportage 1.7 CRDi, a single 115hp tune - the row's own sibling reads 115"
+6014,SKIP,1.9 dCi,Nissan,Interstar,,,,generic descriptor; the Interstar's siblings read 80 and 99
+3232,SKIP,2.0 TDCi,Ford,Edge,2015,,,generic descriptor; the 2015 Ford range offered the 2.0 TDCi in six tunes and the row's own siblings spread 129-161
+3437,SKIP,2.0 TDCi,Ford,Focus,2015,,,generic descriptor; the 2015 Ford range offered the 2.0 TDCi in six tunes and the row's own siblings spread 129-161
+3484,SKIP,2.0 TDCi,Ford,Galaxy,2015,,,generic descriptor; the 2015 Ford range offered the 2.0 TDCi in six tunes and the row's own siblings spread 129-161
+3496,SKIP,2.0 TDCi,Ford,Kuga,2015,,,generic descriptor; the 2015 Ford range offered the 2.0 TDCi in six tunes and the row's own siblings spread 129-161
+3532,SKIP,2.0 TDCi,Ford,Mondeo,2015,,,generic descriptor; the 2015 Ford range offered the 2.0 TDCi in six tunes and the row's own siblings spread 129-161
+3582,SKIP,2.0 TDCi,Ford,S-Max,2015,,,generic descriptor; the 2015 Ford range offered the 2.0 TDCi in six tunes and the row's own siblings spread 129-161
+5181,FILL,2.5 MZR-CD,Mazda,Bt2500,2001,141,103.7,"the row's own sibling, the same Mazda 2.5 MZR-CD, reads 141"
+5182,FILL,2.5 MZR-CD,Mazda,Bt2500,2004,141,103.7,"the row's own sibling, the same Mazda 2.5 MZR-CD, reads 141"
+3453,SKIP,2.5 TD,Ford,Freda,2001,,,"generic descriptor shared by Ford, Mazda, Nissan and Mahindra engines; siblings spread 109-131"
+3570,SKIP,2.5 TD,Ford,Ranger,2001,,,"generic descriptor shared by Ford, Mazda, Nissan and Mahindra engines; siblings spread 109-131"
+5180,SKIP,2.5 TD,Mazda,Bongo,2001,,,"generic descriptor shared by Ford, Mazda, Nissan and Mahindra engines; siblings spread 109-131"
+6011,SKIP,2.5 TD,Nissan,Frontier,,,,"generic descriptor shared by Ford, Mazda, Nissan and Mahindra engines; siblings spread 109-131"
+3632,SKIP,2.5 TDI,GWM,Hover,,,,generic descriptor on a GWM Hover with no year recorded
+3714,FILL,2.8 V6,Holden,Signum,,224,164.8,Signum 2.8 V6 turbo; the row's own Signum siblings read 224
+39146,FILL,274,Mercedes,Sprinter,2023,188,138.3,stub code; the 2023 Sprinter's petrol M274 2.0 turbo is rated 188hp
+35196,FILL,276,Mercedes,E350,2014,302,222.1,stub code; the 2014 E350's M276 3.5 V6 is rated 302hp
+6017,SKIP,3.0 dCi,Nissan,Interstar,,,,"generic descriptor, no year on the variant"
+5732,FILL,4D56IT,Mitsubishi,Adventure,2000,115,84.6,2.5 TD - DB's 4D56T reads 115
+5782,FILL,4D56IT,Mitsubishi,Freeca,2000,115,84.6,2.5 TD - DB's 4D56T reads 115
+4501,FILL,4JK1-TC (HI),Isuzu,Mu-X,2015,136,100.0,"2.5 TD in the MU-X, 136hp"
+5913,FILL,4M41IT,Mitsubishi,Montero,2000,170,125.0,3.2 DI-D - DB's 4M41GVIT reads 170 for the same early DI-D
+5916,FILL,4M41IT,Mitsubishi,Montero Sport,2001,170,125.0,3.2 DI-D - DB's 4M41GVIT reads 170 for the same early DI-D
+5917,FILL,4M41IT,Mitsubishi,Nativa,2001,170,125.0,3.2 DI-D - DB's 4M41GVIT reads 170 for the same early DI-D
+5974,FILL,4M41IT,Mitsubishi,Shogun Sport,2001,170,125.0,3.2 DI-D - DB's 4M41GVIT reads 170 for the same early DI-D
+5980,FILL,4M41IT,Mitsubishi,Triton,2001,170,125.0,3.2 DI-D - DB's 4M41GVIT reads 170 for the same early DI-D
+31385,FILL,6.7 Cummins ISB,Dodge,Pickup,2007,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+31417,FILL,6.7 Cummins ISB,Dodge,Pickup,2008,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+31424,FILL,6.7 Cummins ISB,Dodge,Cab,2009,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+31450,FILL,6.7 Cummins ISB,Dodge,Pickup,2009,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+33939,FILL,6.7 Cummins ISB,Dodge,Pickup,2010,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+33944,FILL,6.7 Cummins ISB,Dodge,Cab,2011,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+33962,FILL,6.7 Cummins ISB,Dodge,Pickup,2011,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+33969,FILL,6.7 Cummins ISB,Dodge,Cab,2012,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+33991,FILL,6.7 Cummins ISB,Dodge,Pickup,2012,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+33993,FILL,6.7 Cummins ISB,Dodge,Pickup,2012,350,257.4,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+33999,FILL,6.7 Cummins ISB,Ram,2500,2013,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+34003,FILL,6.7 Cummins ISB,Ram,3500,2013,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+34039,FILL,6.7 Cummins ISB,Ram,2500,2014,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+34045,FILL,6.7 Cummins ISB,Ram,3500,2014,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+27003,FILL,6.7 Cummins ISB,Ram,2500,2015,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+27008,FILL,6.7 Cummins ISB,Ram,3500,2015,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+28204,FILL,6.7 Cummins ISB,Ram,2500,2016,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+28209,FILL,6.7 Cummins ISB,Ram,3500,2016,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+28248,FILL,6.7 Cummins ISB,Ram,2500,2017,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+28253,FILL,6.7 Cummins ISB,Ram,3500,2017,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36799,FILL,6.7 Cummins ISB,Ram,2500,2018,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36804,FILL,6.7 Cummins ISB,Ram,3500,2018,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36837,FILL,6.7 Cummins ISB,Ram,2500,2019,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36842,FILL,6.7 Cummins ISB,Ram,3500,2019,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36873,FILL,6.7 Cummins ISB,Ram,2500,2020,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36878,FILL,6.7 Cummins ISB,Ram,3500,2020,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36909,FILL,6.7 Cummins ISB,Ram,2500,2021,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36914,FILL,6.7 Cummins ISB,Ram,3500,2021,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36944,FILL,6.7 Cummins ISB,Ram,2500,2022,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36949,FILL,6.7 Cummins ISB,Ram,3500,2022,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36980,FILL,6.7 Cummins ISB,Ram,2500,2023,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+36985,FILL,6.7 Cummins ISB,Ram,3500,2023,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+37012,FILL,6.7 Cummins ISB,Ram,2500,2024,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+37017,FILL,6.7 Cummins ISB,Ram,3500,2024,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+37032,FILL,6.7 Cummins ISB,Ram,2500,2025,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+37033,FILL,6.7 Cummins ISB,Ram,2500,2025,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+37036,FILL,6.7 Cummins ISB,Ram,3500,2025,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+37037,FILL,6.7 Cummins ISB,Ram,3500,2025,370,272.1,"Cummins 6.7 standard output by era: 350hp 2007.5-2012, 370hp from 2013 (68RFE). The 385/400/420hp ratings are Aisin-only high-output options on the 3500, and nothing in these rows distinguishes the transmission, so the standard rating is used"
+39951,FILL,B4204T12,Volvo,S60,2018,245,180.2,S60 T5 2.0 - DB's B4204T11 (T5) reads 245
+39952,FILL,B4204T43,Volvo,S60,2018,306,225.1,S60 T6 2.0 twincharged - DB's B4204T9 (T6) reads 306
+39965,FILL,B4204T43,Volvo,V60,2018,306,225.1,S60 T6 2.0 twincharged - DB's B4204T9 (T6) reads 306
+29213,SKIP,BEA,Audi,Tt,2004,,,"2004-06 Audi TT 1.8T; the 4.54 L / 0W-30 fill is common to the 150, 180 and 225hp tunes of that engine"
+30678,SKIP,BEA,Audi,Tt,2005,,,"2004-06 Audi TT 1.8T; the 4.54 L / 0W-30 fill is common to the 150, 180 and 225hp tunes of that engine"
+30692,SKIP,BEA,Audi,Tt,2006,,,"2004-06 Audi TT 1.8T; the 4.54 L / 0W-30 fill is common to the 150, 180 and 225hp tunes of that engine"
+28999,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2016,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+29000,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2017,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+39597,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2018,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+39598,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2019,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+39599,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2020,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+39600,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2021,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+39601,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2022,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+39602,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2023,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+39603,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2024,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+39604,SKIP,"BEV (Tesla, model unidentified)",Tesla,Model,2025,,,"by design - this row is the catch-all for Teslas whose model could not be identified, and Tesla outputs range from 283hp to 1,020hp. Already a documented NULL-by-design row"
+27794,FILL,CNSA,Volkswagen,Golf,2015,170,125.0,1.8 TSI EA888 Gen3 in the US Golf - DB's CXBA/CXBB read 170 for the same car
+27913,FILL,CREH,Audi,A7,2017,333,244.9,"3.0 TFSI supercharged V6 in the A6/A7, 333hp"
+30158,FILL,D17A1,Honda,Civic,2001,115,84.6,"1.7 SOHC VTEC in the 2001-02 Civic LX/DX, 115hp - DB's D17A6 reads 116"
+30169,FILL,D17A1,Honda,Civic,2002,115,84.6,"1.7 SOHC VTEC in the 2001-02 Civic LX/DX, 115hp - DB's D17A6 reads 116"
+39877,FILL,DDSA,Volkswagen,Passat,2019,174,128.0,"2.0 TSI in the 2019-2020 US Passat, 174hp"
+39892,FILL,DDSA,Volkswagen,Passat,2020,174,128.0,"2.0 TSI in the 2019-2020 US Passat, 174hp"
+39878,FILL,DDSB,Volkswagen,Passat,2019,174,128.0,"2.0 TSI in the 2019-2021 US Passat, 174hp"
+39893,FILL,DDSB,Volkswagen,Passat,2020,174,128.0,"2.0 TSI in the 2019-2021 US Passat, 174hp"
+39906,FILL,DDSB,Volkswagen,Passat,2021,174,128.0,"2.0 TSI in the 2019-2021 US Passat, 174hp"
+39917,FILL,DSFE,Volkswagen,Golf,2022,320,235.4,"EA888 evo4 in the Golf R Mk8, 235kW = 320hp (autoparts-24 engine-code index; the US rating is quoted as 315hp)"
+39931,FILL,DSFE,Volkswagen,Golf,2023,320,235.4,"EA888 evo4 in the Golf R Mk8, 235kW = 320hp (autoparts-24 engine-code index; the US rating is quoted as 315hp)"
+39939,FILL,DSFE,Volkswagen,Golf,2024,320,235.4,"EA888 evo4 in the Golf R Mk8, 235kW = 320hp (autoparts-24 engine-code index; the US rating is quoted as 315hp)"
+39918,FILL,DSFF,Volkswagen,Golf,2022,320,235.4,"sister code to DSFE, same Golf R Mk8 EA888 evo4"
+39932,FILL,DSFF,Volkswagen,Golf,2023,320,235.4,"sister code to DSFE, same Golf R Mk8 EA888 evo4"
+39940,FILL,DSFF,Volkswagen,Golf,2024,320,235.4,"sister code to DSFE, same Golf R Mk8 EA888 evo4"
+2569,FILL,DT20C,Citroen,C5,2009,241,177.3,3.0 HDi V6; the row's own siblings read 241
+39907,FILL,DTDA,Volkswagen,Passat,2021,174,128.0,"2.0 TSI in the 2021 US Passat, 174hp"
+39909,FILL,DTEA,Volkswagen,Tiguan,2021,184,135.3,"2.0 TSI in the 2021 Tiguan, 184hp"
+27027,FILL,ECK,Dodge,Dart,2015,160,117.7,"2.0 Tigershark in the 2015 Dart, 160hp"
+28636,FILL,EDD,Jeep,Compass,2017,180,132.4,"2.4 Tigershark in the 2017 Compass, 180hp"
+38190,FILL,EDE,Jeep,Compass,2018,180,132.4,"2.4 Tigershark MultiAir2 in the Compass MP, 180hp - DB's ED8 descriptor records the same 180hp Compass/500X tune"
+38209,FILL,EDE,Jeep,Compass,2019,180,132.4,"2.4 Tigershark MultiAir2 in the Compass MP, 180hp - DB's ED8 descriptor records the same 180hp Compass/500X tune"
+38229,FILL,EDE,Jeep,Compass,2020,180,132.4,"2.4 Tigershark MultiAir2 in the Compass MP, 180hp - DB's ED8 descriptor records the same 180hp Compass/500X tune"
+28194,FILL,ERC,Chrysler,Pacifica,2017,287,211.1,"3.6 Pentastar: 287hp in the Pacifica, 285hp in the Wrangler JL"
+38244,FILL,ERC,Jeep,Wrangler,2020,285,209.6,"3.6 Pentastar: 287hp in the Pacifica, 285hp in the Wrangler JL"
+38265,FILL,ERC,Jeep,Wrangler,2021,285,209.6,"3.6 Pentastar: 287hp in the Pacifica, 285hp in the Wrangler JL"
+38287,FILL,ERC,Jeep,Wrangler,2022,285,209.6,"3.6 Pentastar: 287hp in the Pacifica, 285hp in the Wrangler JL"
+38314,FILL,ERC,Jeep,Wrangler,2023,285,209.6,"3.6 Pentastar: 287hp in the Pacifica, 285hp in the Wrangler JL"
+28195,FILL,ERF,Chrysler,Pacifica,2017,287,211.1,"3.6 Pentastar in the 2017 Pacifica, 287hp"
+38245,FILL,ERG,Jeep,Wrangler,2020,285,209.6,"3.6 Pentastar in the Wrangler JL, 285hp"
+38266,FILL,ERG,Jeep,Wrangler,2021,285,209.6,"3.6 Pentastar in the Wrangler JL, 285hp"
+38288,FILL,ERG,Jeep,Wrangler,2022,285,209.6,"3.6 Pentastar in the Wrangler JL, 285hp"
+38315,FILL,ERG,Jeep,Wrangler,2023,285,209.6,"3.6 Pentastar in the Wrangler JL, 285hp"
+38269,FILL,ESA,Jeep,Wrangler,2021,470,345.7,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+38293,FILL,ESA,Jeep,Wrangler,2022,470,345.7,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+38320,FILL,ESA,Jeep,Wrangler,2023,470,345.7,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+38333,FILL,ESA,Jeep,Wrangler,2024,470,345.7,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+38345,FILL,ESA,Jeep,Wrangler,2025,470,345.7,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+34040,FILL,ESA,Ram,2500,2014,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+34041,FILL,ESA,Ram,2500,2014,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+34044,FILL,ESA,Ram,3500,2014,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+34046,FILL,ESA,Ram,3500,2014,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+27002,FILL,ESA,Ram,2500,2015,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+27004,FILL,ESA,Ram,2500,2015,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+27006,FILL,ESA,Ram,3500,2015,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+27009,FILL,ESA,Ram,3500,2015,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+28203,FILL,ESA,Ram,2500,2016,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+28205,FILL,ESA,Ram,2500,2016,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+28208,FILL,ESA,Ram,3500,2016,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+28247,FILL,ESA,Ram,2500,2017,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+28249,FILL,ESA,Ram,2500,2017,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+28252,FILL,ESA,Ram,3500,2017,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36798,FILL,ESA,Ram,2500,2018,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36801,FILL,ESA,Ram,2500,2018,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36803,FILL,ESA,Ram,3500,2018,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36836,FILL,ESA,Ram,2500,2019,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36838,FILL,ESA,Ram,2500,2019,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36839,FILL,ESA,Ram,3500,2019,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36872,FILL,ESA,Ram,2500,2020,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36874,FILL,ESA,Ram,2500,2020,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36875,FILL,ESA,Ram,3500,2020,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36908,FILL,ESA,Ram,2500,2021,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36910,FILL,ESA,Ram,2500,2021,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36911,FILL,ESA,Ram,3500,2021,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36943,FILL,ESA,Ram,2500,2022,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36945,FILL,ESA,Ram,2500,2022,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36946,FILL,ESA,Ram,3500,2022,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36979,FILL,ESA,Ram,2500,2023,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36981,FILL,ESA,Ram,2500,2023,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+36982,FILL,ESA,Ram,3500,2023,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+37011,FILL,ESA,Ram,2500,2024,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+37013,FILL,ESA,Ram,2500,2024,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+37014,FILL,ESA,Ram,3500,2024,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+37031,FILL,ESA,Ram,2500,2025,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+37034,FILL,ESA,Ram,2500,2025,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+37035,FILL,ESA,Ram,3500,2025,410,301.6,6.4 HEMI. In the Ram 2500/3500 HD it is rated 410hp; the Jeep Wrangler Rubicon 392 (2021+) runs the same block at 470hp
+34047,FILL,ESB,Ram,3500,2014,410,301.6,"6.4 HEMI in the 2014-2015 Ram HD, 410hp"
+27010,FILL,ESB,Ram,3500,2015,410,301.6,"6.4 HEMI in the 2014-2015 Ram HD, 410hp"
+36889,SKIP,ESD,Dodge,Charger,2020,,,"2020 Charger on the supercharged 6.2 (confirmed by its 6.62 L / 0W-40 Hellcat service spec), but that year offered both the 717hp Hellcat and the 797hp Redeye and nothing separates ESD from ESJ"
+36890,SKIP,ESJ,Dodge,Charger,2020,,,"sister code to ESD - same 6.2 supercharged service spec, same 717-vs-797 ambiguity"
+36840,FILL,ETL,Ram,3500,2019,370,272.1,"recorded as a 6700cc PETROL Ram 3500 engine, which does not exist. Its service spec is 11.35 L of 10W-30 - the Cummins 6.7's 12-quart fill and viscosity. It is the 2019+ Cummins at 370hp standard output"
+36876,FILL,ETL,Ram,3500,2020,370,272.1,"recorded as a 6700cc PETROL Ram 3500 engine, which does not exist. Its service spec is 11.35 L of 10W-30 - the Cummins 6.7's 12-quart fill and viscosity. It is the 2019+ Cummins at 370hp standard output"
+36912,FILL,ETL,Ram,3500,2021,370,272.1,"recorded as a 6700cc PETROL Ram 3500 engine, which does not exist. Its service spec is 11.35 L of 10W-30 - the Cummins 6.7's 12-quart fill and viscosity. It is the 2019+ Cummins at 370hp standard output"
+36947,FILL,ETL,Ram,3500,2022,370,272.1,"recorded as a 6700cc PETROL Ram 3500 engine, which does not exist. Its service spec is 11.35 L of 10W-30 - the Cummins 6.7's 12-quart fill and viscosity. It is the 2019+ Cummins at 370hp standard output"
+36983,FILL,ETL,Ram,3500,2023,370,272.1,"recorded as a 6700cc PETROL Ram 3500 engine, which does not exist. Its service spec is 11.35 L of 10W-30 - the Cummins 6.7's 12-quart fill and viscosity. It is the 2019+ Cummins at 370hp standard output"
+37015,FILL,ETL,Ram,3500,2024,370,272.1,"recorded as a 6700cc PETROL Ram 3500 engine, which does not exist. Its service spec is 11.35 L of 10W-30 - the Cummins 6.7's 12-quart fill and viscosity. It is the 2019+ Cummins at 370hp standard output"
+36841,FILL,ETM,Ram,3500,2019,370,272.1,sister code to ETL; same 11.35 L / 10W-30 Cummins service spec
+36877,FILL,ETM,Ram,3500,2020,370,272.1,sister code to ETL; same 11.35 L / 10W-30 Cummins service spec
+36913,FILL,ETM,Ram,3500,2021,370,272.1,sister code to ETL; same 11.35 L / 10W-30 Cummins service spec
+36948,FILL,ETM,Ram,3500,2022,370,272.1,sister code to ETL; same 11.35 L / 10W-30 Cummins service spec
+36984,FILL,ETM,Ram,3500,2023,370,272.1,sister code to ETL; same 11.35 L / 10W-30 Cummins service spec
+37016,FILL,ETM,Ram,3500,2024,370,272.1,sister code to ETL; same 11.35 L / 10W-30 Cummins service spec
+36831,FILL,EZL,Ram,1500,2019,395,290.5,"5.7 HEMI eTorque in the 2019+ Ram 1500 DT, 395hp"
+36868,FILL,EZL,Ram,1500,2020,395,290.5,"5.7 HEMI eTorque in the 2019+ Ram 1500 DT, 395hp"
+36902,FILL,EZL,Ram,1500,2021,395,290.5,"5.7 HEMI eTorque in the 2019+ Ram 1500 DT, 395hp"
+36934,FILL,EZL,Ram,1500,2022,395,290.5,"5.7 HEMI eTorque in the 2019+ Ram 1500 DT, 395hp"
+36973,FILL,EZL,Ram,1500,2023,395,290.5,"5.7 HEMI eTorque in the 2019+ Ram 1500 DT, 395hp"
+37997,FILL,G4EN,Hyundai,Tucson,2023,187,137.5,"2.5 Smartstream MPI in the 2023+ Tucson, 187hp"
+38014,FILL,G4EN,Hyundai,Tucson,2024,187,137.5,"2.5 Smartstream MPI in the 2023+ Tucson, 187hp"
+38031,FILL,G4EN,Hyundai,Tucson,2025,187,137.5,"2.5 Smartstream MPI in the 2023+ Tucson, 187hp"
+34515,FILL,J35Y2,Honda,Accord,2013,278,204.5,"3.5 V6 i-VTEC in the 2013-2017 Accord, 278hp"
+34540,FILL,J35Y2,Honda,Accord,2014,278,204.5,"3.5 V6 i-VTEC in the 2013-2017 Accord, 278hp"
+27180,FILL,J35Y2,Honda,Accord,2015,278,204.5,"3.5 V6 i-VTEC in the 2013-2017 Accord, 278hp"
+28481,FILL,J35Y2,Honda,Accord,2016,278,204.5,"3.5 V6 i-VTEC in the 2013-2017 Accord, 278hp"
+28497,FILL,J35Y2,Honda,Accord,2017,278,204.5,"3.5 V6 i-VTEC in the 2013-2017 Accord, 278hp"
+34498,FILL,J35Z3,Honda,Accord,2012,271,199.3,"3.5 V6 in the 2012 Accord, 271hp"
+27183,FILL,K24V1,Honda,Cr-V,2015,185,136.1,"2.4 Earth Dreams in the 2015-2016 CR-V, 185hp"
+28484,FILL,K24V1,Honda,Cr-V,2016,185,136.1,"2.4 Earth Dreams in the 2015-2016 CR-V, 185hp"
+28502,FILL,K24V9,Honda,Cr-V,2017,184,135.3,"2.4 Earth Dreams in the 2017-2019 CR-V, 184hp"
+37779,FILL,K24V9,Honda,Cr-V,2018,184,135.3,"2.4 Earth Dreams in the 2017-2019 CR-V, 184hp"
+37796,FILL,K24V9,Honda,Cr-V,2019,184,135.3,"2.4 Earth Dreams in the 2017-2019 CR-V, 184hp"
+27185,FILL,K24W9,Honda,Cr-V,2015,185,136.1,"2.4 Earth Dreams in the 2015+ CR-V, 185hp - DB's K24W (Accord/CR-V 2013-17) reads 189 for the same family"
+28485,FILL,K24W9,Honda,Cr-V,2016,185,136.1,"2.4 Earth Dreams in the 2015+ CR-V, 185hp - DB's K24W (Accord/CR-V 2013-17) reads 189 for the same family"
+28501,FILL,K24W9,Honda,Cr-V,2017,185,136.1,"2.4 Earth Dreams in the 2015+ CR-V, 185hp - DB's K24W (Accord/CR-V 2013-17) reads 189 for the same family"
+37780,FILL,K24W9,Honda,Cr-V,2018,185,136.1,"2.4 Earth Dreams in the 2015+ CR-V, 185hp - DB's K24W (Accord/CR-V 2013-17) reads 189 for the same family"
+37795,FILL,K24W9,Honda,Cr-V,2019,185,136.1,"2.4 Earth Dreams in the 2015+ CR-V, 185hp - DB's K24W (Accord/CR-V 2013-17) reads 189 for the same family"
+28490,FILL,L15B1,Honda,Fit,2016,130,95.6,1.5 SOHC i-VTEC in the 2016-17 Fit - DB's L15B2 (Fit 2015-20) reads 130
+28505,FILL,L15B1,Honda,Fit,2017,130,95.6,1.5 SOHC i-VTEC in the 2016-17 Fit - DB's L15B2 (Fit 2015-20) reads 130
+28491,FILL,L15B3,Honda,Fit,2016,130,95.6,"sister code to L15B1, same Fit 1.5"
+28507,FILL,L15B3,Honda,Fit,2017,130,95.6,"sister code to L15B1, same Fit 1.5"
+37784,FILL,L15BY,Honda,Civic,2018,174,128.0,"1.5 VTEC Turbo: 174hp in the Civic, 190hp in the CR-V - DB's L15B7 descriptor records exactly that 174-190 spread"
+37794,FILL,L15BY,Honda,Cr-V,2019,190,139.7,"1.5 VTEC Turbo: 174hp in the Civic, 190hp in the CR-V - DB's L15B7 descriptor records exactly that 174-190 spread"
+37799,FILL,L15BY,Honda,Civic,2019,174,128.0,"1.5 VTEC Turbo: 174hp in the Civic, 190hp in the CR-V - DB's L15B7 descriptor records exactly that 174-190 spread"
+37841,FILL,L15BY,Honda,Civic,2022,174,128.0,"1.5 VTEC Turbo: 174hp in the Civic, 190hp in the CR-V - DB's L15B7 descriptor records exactly that 174-190 spread"
+37775,FILL,LFB1,Honda,Accord,2018,212,155.9,"Accord Hybrid 2018: 212hp total system output (2.0 Atkinson + e-motor), the same system-output convention used for the Toyota hybrids in Step 6"
+37776,FILL,LFB2,Honda,Accord,2018,212,155.9,"sister code to LFB1, same Accord Hybrid system"
+5213,FILL,M266E15,Mercedes,A,2004,95,69.9,A150 1.5 - DB's M266.920 (A 150) reads 95
+5224,FILL,M266E15,Mercedes,B,2005,95,69.9,A150 1.5 - DB's M266.920 (A 150) reads 95
+5216,FILL,M266E20,Mercedes,A,2004,136,100.0,A200/B200 2.0 - DB's M266.960 (A 200) reads 136
+5227,FILL,M266E20,Mercedes,B,2005,136,100.0,A200/B200 2.0 - DB's M266.960 (A 200) reads 136
+32274,FILL,M266E20,Mercedes,B200,2006,136,100.0,A200/B200 2.0 - DB's M266.960 (A 200) reads 136
+32311,FILL,M266E20,Mercedes,B200,2007,136,100.0,A200/B200 2.0 - DB's M266.960 (A 200) reads 136
+32349,FILL,M266E20,Mercedes,B200,2008,136,100.0,A200/B200 2.0 - DB's M266.960 (A 200) reads 136
+32389,FILL,M266E20,Mercedes,B200,2009,136,100.0,A200/B200 2.0 - DB's M266.960 (A 200) reads 136
+35037,FILL,M266E20,Mercedes,B200,2010,136,100.0,A200/B200 2.0 - DB's M266.960 (A 200) reads 136
+35070,FILL,M266E20,Mercedes,B200,2011,136,100.0,A200/B200 2.0 - DB's M266.960 (A 200) reads 136
+5217,FILL,M266E20AL,Mercedes,A,2005,193,142.0,A200 Turbo - DB's M266.980 (B 200 TURBO) reads 193
+5228,FILL,M266E20AL,Mercedes,B,2005,193,142.0,A200 Turbo - DB's M266.980 (B 200 TURBO) reads 193
+29270,FILL,M54,BMW,325i,2003,189,139.0,M54 stem. 530i = DB's M54306S3 231. 325i = DB's M54B25 (325Ci) 189
+29277,FILL,M54,BMW,530i,2003,231,169.9,M54 stem. 530i = DB's M54306S3 231. 325i = DB's M54B25 (325Ci) 189
+29290,FILL,M54,BMW,325i,2004,189,139.0,M54 stem. 530i = DB's M54306S3 231. 325i = DB's M54B25 (325Ci) 189
+29297,FILL,M54,BMW,530i,2004,231,169.9,M54 stem. 530i = DB's M54306S3 231. 325i = DB's M54B25 (325Ci) 189
+30751,FILL,M54,BMW,325i,2005,189,139.0,M54 stem. 530i = DB's M54306S3 231. 325i = DB's M54B25 (325Ci) 189
+29271,FILL,M56,BMW,325i,2003,189,139.0,M56 is the SULEV M54B25 fitted to the 325i - DB's M54B25 reads 189
+29291,FILL,M56,BMW,325i,2004,189,139.0,M56 is the SULEV M54B25 fitted to the 325i - DB's M54B25 reads 189
+30750,FILL,M56,BMW,325i,2005,189,139.0,M56 is the SULEV M54B25 fitted to the 325i - DB's M54B25 reads 189
+30873,FILL,M57,BMW,X5,2009,265,194.9,"M57 stem, and a DIESEL filed as Petrol. The 2009-2012 X5 on an M57 is the US X5 xDrive35d, rated 265hp SAE"
+33300,FILL,M57,BMW,X5,2010,265,194.9,"M57 stem, and a DIESEL filed as Petrol. The 2009-2012 X5 on an M57 is the US X5 xDrive35d, rated 265hp SAE"
+33336,FILL,M57,BMW,X5,2011,265,194.9,"M57 stem, and a DIESEL filed as Petrol. The 2009-2012 X5 on an M57 is the US X5 xDrive35d, rated 265hp SAE"
+33397,FILL,M57,BMW,X5,2012,265,194.9,"M57 stem, and a DIESEL filed as Petrol. The 2009-2012 X5 on an M57 is the US X5 xDrive35d, rated 265hp SAE"
+35437,FILL,MA1,Porsche,911,2012,394,289.8,991 Carrera S 3.8 - DB's MA1.03 reads 394 for exactly that car
+39451,SKIP,MDK,Porsche,911,2020,,,2020 911; its 8.28 L / 0W-40 spec confirms a 992 but not whether it is the 385hp Carrera or the 450hp Carrera S
+35025,FILL,MZR,Mazda,2,2014,103,75.8,Mazda2 1.5 MZR - DB's ZY row reads 103 for the same car
+33349,FILL,N20,BMW,328i,2012,240,176.5,N20 stem; 328i/X1 28i/Z4 28i of 2012-13 - DB's 'N20B20 (328i/28i US)' reads 240
+33402,FILL,N20,BMW,Z4,2012,240,176.5,N20 stem; 328i/X1 28i/Z4 28i of 2012-13 - DB's 'N20B20 (328i/28i US)' reads 240
+33414,FILL,N20,BMW,328i,2013,240,176.5,N20 stem; 328i/X1 28i/Z4 28i of 2012-13 - DB's 'N20B20 (328i/28i US)' reads 240
+33418,FILL,N20,BMW,328xi,2013,240,176.5,N20 stem; 328i/X1 28i/Z4 28i of 2012-13 - DB's 'N20B20 (328i/28i US)' reads 240
+33450,FILL,N20,BMW,X1,2013,240,176.5,N20 stem; 328i/X1 28i/Z4 28i of 2012-13 - DB's 'N20B20 (328i/28i US)' reads 240
+3754,FILL,N22A2,Honda,Accord,2010,140,103.0,2.2 i-CTDi Accord; the row's own siblings read 138-140 and DB's N22A1 reads 140
+33350,FILL,N26,BMW,328i,2012,245,180.2,N26 stem; the SULEV N20 in the 328i - DB's N26B20A reads 245
+33415,FILL,N26,BMW,328i,2013,245,180.2,N26 stem; the SULEV N20 in the 328i - DB's N26B20A reads 245
+33419,FILL,N26,BMW,328xi,2013,245,180.2,N26 stem; the SULEV N20 in the 328i - DB's N26B20A reads 245
+33470,FILL,N26,BMW,328i,2014,245,180.2,N26 stem; the SULEV N20 in the 328i - DB's N26B20A reads 245
+30796,FILL,N51,BMW,328i,2007,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+30799,FILL,N51,BMW,328xi,2007,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+30820,FILL,N51,BMW,128i,2008,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+30823,FILL,N51,BMW,328i,2008,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+30826,FILL,N51,BMW,328xi,2008,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+30850,FILL,N51,BMW,128i,2009,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+30853,FILL,N51,BMW,328i,2009,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+30856,FILL,N51,BMW,328xi,2009,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33273,FILL,N51,BMW,128i,2010,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33276,FILL,N51,BMW,328i,2010,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33278,FILL,N51,BMW,328xi,2010,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33308,FILL,N51,BMW,128i,2011,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33313,FILL,N51,BMW,328i,2011,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33314,FILL,N51,BMW,328xi,2011,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33344,FILL,N51,BMW,128i,2012,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33347,FILL,N51,BMW,328i,2012,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33351,FILL,N51,BMW,328xi,2012,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33406,FILL,N51,BMW,128i,2013,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33412,FILL,N51,BMW,328i,2013,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+33416,FILL,N51,BMW,328xi,2013,233,171.4,N51 stem; the SULEV N52. DB's N51B30US reads 233 for the same 128i/328i/328xi
+1743,FILL,N51B30,BMW,1 Series,2002,233,171.4,descriptor '128i 3000 24v' - DB's N51B30US reads 233
+1758,FILL,N51B30,BMW,1 Series,2008,233,171.4,descriptor '128i 3000 24v' - DB's N51B30US reads 233
+30779,FILL,N52,BMW,530i,2006,268,197.1,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30798,FILL,N52,BMW,328i,2007,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30800,FILL,N52,BMW,328xi,2007,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30805,FILL,N52,BMW,530i,2007,268,197.1,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30817,FILL,N52,BMW,X5,2007,268,197.1,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30821,FILL,N52,BMW,128i,2008,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30825,FILL,N52,BMW,328i,2008,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30827,FILL,N52,BMW,328xi,2008,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30849,FILL,N52,BMW,X5,2008,268,197.1,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30851,FILL,N52,BMW,128i,2009,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30855,FILL,N52,BMW,328i,2009,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30857,FILL,N52,BMW,328xi,2009,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+30872,FILL,N52,BMW,X5,2009,268,197.1,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33272,FILL,N52,BMW,128i,2010,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33277,FILL,N52,BMW,328i,2010,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33279,FILL,N52,BMW,328xi,2010,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33299,FILL,N52,BMW,X5,2010,268,197.1,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33307,FILL,N52,BMW,128i,2011,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33312,FILL,N52,BMW,328i,2011,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33315,FILL,N52,BMW,328xi,2011,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33334,FILL,N52,BMW,X3,2011,258,189.8,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33345,FILL,N52,BMW,128i,2012,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33348,FILL,N52,BMW,328i,2012,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33352,FILL,N52,BMW,328xi,2012,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33407,FILL,N52,BMW,128i,2013,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33413,FILL,N52,BMW,328i,2013,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+33417,FILL,N52,BMW,328xi,2013,233,171.4,"N52 stem. 128i/328i/328xi are the US 230hp SAE cars - DB's N51B30US and N52B25O1NUS both read 233 for exactly these. 530i and X5 3.0si = DB's N52B30O1 (X5 30si) 268. X3 = DB's N52B30A 258, whose descriptor covers X3 3.0si"
+2110,FILL,N52B25,BMW,X Series,2006,177,130.2,"descriptor '323i 2500 24v' - DB's N52NB25A (323i) reads 177; the 5-Series car is a 523i, DB's N52B25A reads 204"
+1848,FILL,N52B25,BMW,3 Series,2007,177,130.2,"descriptor '323i 2500 24v' - DB's N52NB25A (323i) reads 177; the 5-Series car is a 523i, DB's N52B25A reads 204"
+1959,FILL,N53B25U0,BMW,5 Series,2007,190,139.7,descriptor '523i 2500 24v' - DB's N53B25A (523i) reads 190
+2119,FILL,N53B30,BMW,X Series,2010,272,200.1,descriptor 'X1 xDrive28i 3000 24v'; the row's own populated sibling reads 272
+2011,FILL,N53B3O0,BMW,6 Series,2007,268,197.1,"descriptor '630i 3000 24v'; the 630i's N52B30 is 272 PS = 268hp, matching DB's N53B30O0US (530i) 268"
+30847,FILL,N54,BMW,X6,2008,302,222.1,N54 stem; X6 xDrive35i and Z4 sDrive35i - DB's N54B30O0 (335i) reads 302
+30878,FILL,N54,BMW,X6,2009,302,222.1,N54 stem; X6 xDrive35i and Z4 sDrive35i - DB's N54B30O0 (335i) reads 302
+33303,FILL,N54,BMW,X6,2010,302,222.1,N54 stem; X6 xDrive35i and Z4 sDrive35i - DB's N54B30O0 (335i) reads 302
+33405,FILL,N54,BMW,Z4,2012,302,222.1,N54 stem; X6 xDrive35i and Z4 sDrive35i - DB's N54B30O0 (335i) reads 302
+1746,FILL,N54B30,BMW,1 Series,2007,302,222.1,descriptor says 135i: DB's N54B30O0 (335i/135i) reads 302. The M-Series car is the 1M - DB's N54B30A reads 335
+2091,FILL,N54B30,BMW,X Series,2009,302,222.1,descriptor says 135i: DB's N54B30O0 (335i/135i) reads 302. The M-Series car is the 1M - DB's N54B30A reads 335
+2058,FILL,N54B30,BMW,M Series,2011,335,246.4,descriptor says 135i: DB's N54B30O0 (335i/135i) reads 302. The M-Series car is the 1M - DB's N54B30A reads 335
+33335,FILL,N55,BMW,X3,2011,302,222.1,N55 stem; all six cars are X1/X3/X5/X6 xDrive35i - DB's N55B30A reads 302 and its descriptor names X5-X6 xDrive35i
+33337,FILL,N55,BMW,X5,2011,302,222.1,N55 stem; all six cars are X1/X3/X5/X6 xDrive35i - DB's N55B30A reads 302 and its descriptor names X5-X6 xDrive35i
+33339,FILL,N55,BMW,X6,2011,302,222.1,N55 stem; all six cars are X1/X3/X5/X6 xDrive35i - DB's N55B30A reads 302 and its descriptor names X5-X6 xDrive35i
+33399,FILL,N55,BMW,X5,2012,302,222.1,N55 stem; all six cars are X1/X3/X5/X6 xDrive35i - DB's N55B30A reads 302 and its descriptor names X5-X6 xDrive35i
+33401,FILL,N55,BMW,X6,2012,302,222.1,N55 stem; all six cars are X1/X3/X5/X6 xDrive35i - DB's N55B30A reads 302 and its descriptor names X5-X6 xDrive35i
+33452,FILL,N55,BMW,X1,2013,302,222.1,N55 stem; all six cars are X1/X3/X5/X6 xDrive35i - DB's N55B30A reads 302 and its descriptor names X5-X6 xDrive35i
+33455,FILL,N55,BMW,X5,2013,302,222.1,N55 stem; all six cars are X1/X3/X5/X6 xDrive35i - DB's N55B30A reads 302 and its descriptor names X5-X6 xDrive35i
+33457,FILL,N55,BMW,X6,2013,302,222.1,N55 stem; all six cars are X1/X3/X5/X6 xDrive35i - DB's N55B30A reads 302 and its descriptor names X5-X6 xDrive35i
+26800,FILL,N57D30T,BMW,535d,2015,255,187.6,same US 535d and X5 xDrive35d that Step 7 settled at 255 on N57D30A
+26858,FILL,N57D30T,BMW,X5,2015,255,187.6,same US 535d and X5 xDrive35d that Step 7 settled at 255 on N57D30A
+27968,FILL,N57D30T,BMW,X5,2016,255,187.6,same US 535d and X5 xDrive35d that Step 7 settled at 255 on N57D30A
+30818,FILL,N62,BMW,X5,2007,355,261.1,"N62 stem; the 2007-2010 X5 on a 4.8 V8 is the X5 4.8i - DB's N62B48 row is literally 'X5 48is 4800 V8', 355"
+30845,FILL,N62,BMW,X5,2008,355,261.1,"N62 stem; the 2007-2010 X5 on a 4.8 V8 is the X5 4.8i - DB's N62B48 row is literally 'X5 48is 4800 V8', 355"
+30875,FILL,N62,BMW,X5,2009,355,261.1,"N62 stem; the 2007-2010 X5 on a 4.8 V8 is the X5 4.8i - DB's N62B48 row is literally 'X5 48is 4800 V8', 355"
+33301,FILL,N62,BMW,X5,2010,355,261.1,"N62 stem; the 2007-2010 X5 on a 4.8 V8 is the X5 4.8i - DB's N62B48 row is literally 'X5 48is 4800 V8', 355"
+30846,FILL,N63,BMW,X6,2008,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+30876,FILL,N63,BMW,X6,2009,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33304,FILL,N63,BMW,X6,2010,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33338,FILL,N63,BMW,X5,2011,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33341,FILL,N63,BMW,X6,2011,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33362,FILL,N63,BMW,550i,2012,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33364,FILL,N63,BMW,550xi,2012,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33369,FILL,N63,BMW,650i,2012,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33373,FILL,N63,BMW,650xi,2012,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33384,FILL,N63,BMW,750Lxi,2012,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33386,FILL,N63,BMW,750xi,2012,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33398,FILL,N63,BMW,X5,2012,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33404,FILL,N63,BMW,X6,2012,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33456,FILL,N63,BMW,X5,2013,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33458,FILL,N63,BMW,X6,2013,407,299.3,"N63 stem. Every variant here is 2008-2013, i.e. pre-N63TU - DB's N63B44 row reads 407 and its descriptor names 750i/550i. The 449hp TU arrived for 2014"
+33393,FILL,S63,BMW,M6,2012,552,406.0,S63 stem; F10 M5 and F12/F13 M6 - DB's S63B44B ('M5 4400 V8') reads 552
+33444,FILL,S63,BMW,M5,2013,552,406.0,S63 stem; F10 M5 and F12/F13 M6 - DB's S63B44B ('M5 4400 V8') reads 552
+33447,FILL,S63,BMW,M6,2013,552,406.0,S63 stem; F10 M5 and F12/F13 M6 - DB's S63B44B ('M5 4400 V8') reads 552
+2059,FILL,S65B40,BMW,M Series,2007,420,308.9,descriptor 'M3 4000 V8' - DB's S65B40A reads 420
+2060,FILL,S65B44,BMW,M Series,2011,450,331.0,"descriptor 'M3 4400 V8', the E92 M3 GTS - DB's S65B44A reads 450"

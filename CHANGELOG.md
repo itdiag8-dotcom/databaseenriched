@@ -1,3 +1,11 @@
+## 2026-10-01 - Step 8: blank engine rows filled, power backfill finished (step61)
+- NULL-power variants 535 -> 45; engine rows with no power 85 -> 14. 312 variants filled, 71 engine rows given a figure, 30 variants left blank on purpose.
+- The unlock: most blank rows are truncated duplicates. N52, N63, M54, S63, N20, M57 are family stems, and the DB already holds the fully specified member rows. Where the variant names its car (BMW 550i, Ram 2500), the answer was already in the table - N63 -> 407 via N63B44 ("750i/550i 407hp"), N62 -> 355 via the row literally called "X5 48is", S63 -> 552 via S63B44B ("M5 4400 V8").
+- Oil data caught three wrong fuels: ETL and ETM were filed as 6700cc PETROL Ram 3500 engines, but their service spec is 11.35 L of 10W-30 - the Cummins 6.7's twelve-quart fill. They and their 12 variants are now Diesel at 370hp, 6690cc. M57 was the same error, a BMW turbodiesel stem filed as Petrol with its four X5s.
+- Research cases: the 38 Cummins variants split 350hp (2007-2012) / 370hp (2013+), with the Aisin-only 385/400/420 HO ratings documented as indistinguishable in these rows rather than guessed; ESA splits 410hp Ram HD / 470hp Wrangler 392; DSFE/DSFF are the Golf R Mk8 at 320hp; L15BY splits 174 Civic / 190 CR-V.
+- 9 displacement repairs spotted in passing, including N53B3O0 at 630cc - the model designation 630i had leaked into the displacement column.
+- Left blank on purpose: the 10 unidentified Teslas (NULL by design), 14 generic-descriptor rows, ESD/ESJ (Hellcat 717 vs Redeye 797 indistinguishable), MDK (992 Carrera vs Carrera S), BEA (TT 1.8T sold at 150/180/225).
+- DB: 5,670 engines, 39,182 variants, 0 fuel conflicts / 0 orphans / 0 count mismatches.
 ## 2026-10-01 - Step 7: variant power backfill (step60)
 - NULL-power variants 535 -> 357. 178 filled with hp and kW; 7 left blank on purpose; the remaining 342 are blocked behind engine rows that are themselves blank (Step 8) and 8 have no engine_code.
 - The worklist called these 185 rows a trivial inherit-from-engine-row. They were not: only 19 of the 55 engine codes have siblings that unanimously agree with their row, so each code was ruled on individually. 131 COPY, 47 RULE, 7 SKIP.
