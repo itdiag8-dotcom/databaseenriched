@@ -111,3 +111,560 @@
 - Builder script: `/home/user/build_enriched_db.py` (1667 lines) + inline patch; `random.seed(42)`.
 - Re-run produces identical row counts unless original CSV or clones under `/tmp/repo_*` change.
 - External clones pinned to 2026-09-11 fetch; counts logged (`Found 2621 gor models, 1678 ovdb models, 4202 daniel models`).
+
+---
+
+## 2026-09-29 — Step 1: Quarantine of wrong engine mappings (data-safety fix)
+
+- 481 variant→engine mappings that were physically impossible (hard fuel conflicts, >25% displacement mismatches, >30% cross-brand power mismatches) had `engine_code` set to NULL and were moved to the new **`remapping_queue`** table for review/remapping (`status='pending'`).
+- Legitimate cross-brand engine sharing was explicitly preserved via a brand-family map (GM, VW Group, FCA, PSA+Opel, Renault-Nissan, Hyundai-Kia, Ford+PAG, Toyota+Subaru, BMW+Mini) and hybrid-aware fuel rules: real diesel-hybrids (Mercedes E300de, Peugeot 508/3008 Hybrid4, BMW i3 REX), tune families (N47D20C, 4G63T, OM651) and badge-engineered shares (A13DTE: Fiat/Opel/Vauxhall/Chevrolet) are all still joined.
+- 452 kept-but-suspect rows exported to `csv_exports/09_engine_row_suspects.csv` (wrong engine-row displacement, e.g. B38B15M0 1005cc vs real 1499cc, or junk Vivid engine_type text).
+- `engines.count_variants` recomputed. View `v_vehicle_with_service`: 39,182 → 38,701 rows.
+- Tooling: `step1_quarantine_wrong_mappings.py` (dry-run/apply), report: `STEP1_QUARANTINE_REPORT.md`, pre-change backup: `backups/car_database_backup_pre_step1_2026-09-29.db`.
+
+## 2026-09-29 — Step 2: model-name case normalization
+
+- 1,655 variant (brand, model) values renamed to the models-catalog casing (Vivid ALL-CAPS artifacts, e.g. 'ASTRA J' → 'Astra J'). Variants↔models orphan joins: 1,748 → 0.
+- 39 models added for pairs existing only in variants (Subaru Traviq, Isuzu N Series, Ford E-Series, Mazda Demio…) with derived production years; flagged mis-branded rebadges (SATURN Corsa/Agila…) and typos (Crow Victoria) for Step 3.
+- models.total_variants recomputed for all rows (1,001 wrong counts fixed). Change logs: csv_exports/10_model_name_changes.csv, 11_added_models.csv. Backup: backups/car_database_backup_pre_step2_2026-09-29.db. Report: STEP2_NORMALIZATION_REPORT.md.
+
+## 2026-09-29 — Step 4 batch 1: remapped the 45 POWER_MISMATCH_CROSSBRAND rows (web-verified)
+
+- 44 of 45 quarantined power-mismatch variants remapped to verified engine codes with citations (report: REMAPPING_REVIEW_BATCH1.md, decisions: csv_exports/12_remap_batch1_decisions.csv). 3 rows left pending (ambiguous: 520i E60 156hp, CTS Sport Wagon 2007, Equinox 2002), 1 marked invalid_data (NOVA 19hp).
+- Engine identity fixes: 1MZ-FE (was 429hp Jaguar junk -> 2995cc/201hp Toyota), N52B30 (1300->2996cc), N47D20/C (1482->1995cc), N63B44 (547->407hp), M47D20TU2, AJ126 (2995cc).
+- 22 Jaguar 3.0 SC V6 variants moved from 1MZ-FE to AJ126; X5 M E70 moved to S63B44; 3 rows wrongly kept by the brand-family rule re-quarantined and 2 of them remapped (GX460 -> 1UR-FE, JDM Cruze -> M15A).
+- v_vehicle_with_service: 38,701 -> 38,742. Backup: backups/car_database_backup_pre_step4_2026-09-29.db.
+
+## 2026-09-29 — Step 4 batch 2: fuel conflicts + displacement mismatches resolved
+
+- 303 more quarantined variants restored to correct engines (38,742 -> 39,045 with specs; NULL codes 440 -> 137). Report: REMAPPING_REVIEW_BATCH2.md, decisions: csv_exports/13_remap_batch2_decisions.csv.
+- 34 fuel-direction fixes: 21 variant fuel labels corrected (e.g. Golf/A3 '1.6 102hp Petrol' -> 1.6 TDI CAYC; Touareg '3.6 FSI 249hp' -> TDI CMTA), 13 engine rows had wrong fuel (Y30DT '3.0 V6 CDTI', SDBA TDDi stored as Petrol -> Diesel).
+- 37 web-verified remaps (CAYC, CANB Audi 2.7 TDI, OM612.981/OM611 Sprinter CDI, R20A4, AZZ Touareg, K4M850, G4KD, Hybrid4 RHC, S300h OM651.921, i3 REX) + 250 rule-based internal remaps (0 power mismatches >25% after audit).
+- Discovered real cross-brand engine-code collisions: G6DA/G6DG (Ford 2.0 TDCi diesel vs Hyundai Lambda petrol V6) and BAA (Ford Ka 1.3 vs VW Touareg 3.2) - affected rows left pending pending engine-row disambiguation.
+- Queue now: 331 remapped, 13 engine_fuel_fixed, 3 fuel_label_fixed (+18 CAYC), 136 pending (93 fuel / 40 displacement / 3 power; 10 of them EVs needing an EV data model), 1 invalid. Backup: backups/car_database_backup_pre_step5_2026-09-29.db.
+
+## 2026-09-29 — Step 4 batch 3: web research on fuel pendings + G6DA/G6DG disambiguation
+
+- 55 more variants restored to correct engines (39,045 -> 39,099 with specs; NULL codes 137 -> 82; queue remapped 331 -> 386, pending 136 -> 81, all documented). Report: REMAPPING_REVIEW_BATCH3.md, decisions: csv_exports/14_remap_batch3_decisions.csv.
+- G6DA/G6DG code collision resolved: created 'G6DA (Hyundai)' (3.8 MPi Lambda 3778cc) and 'G6DG (Hyundai)' (3.0 GDI Lambda II 2999cc) rows; 7 Hyundai/Kia Lambda variants remapped (Grandeur TG/HG, Genesis Coupe, Carnival VQ, Opirus, Cadenza x2). BAA needed no action (resolved in batch 2).
+- Engine-row fixes: G6DH was mislabeled 3.0/247hp -> corrected to 3.3 GDI 3342cc/292hp (Wikipedia Lambda); N57D30B displacement 4004->2993cc; N57D30T was fuel='Petrol' with NULL cc -> Diesel 2993cc.
+- Web-verified remaps: Alpina D3/D4/D5/XD3 350PS -> N57D30B (Alpina N57 biturbo); Alpina B10 V8S -> new M62B48 row; Rolls-Royce Park Ward -> new M73B54 row; Maserati MC12 -> F140B (Enzo F140); Land Rover 3.0 SC x3 -> AJ126; plus 24 internal remaps (incl. Subaru XV/Impreza 2.0D -> EE20Z early tune).
+- New rows G6DA (Hyundai), G6DG (Hyundai), M62B48, M73B54 have empty service specs - flagged for OEM spec fill. Backup: backups/car_database_backup_pre_step6_2026-09-29.db.
+
+## 2026-09-29 — Step 7: engine-row suspect worklist (452 rows / 200 codes)
+
+- 19 engine rows repaired with citations: QR25DE 1600->2488cc (Nissan 2.5), CMXA 1200->1598cc (VW 1.6 MultiFuel - 17 Seat/VW variants were right, row was wrong), M57D30 2353->2993cc, B38B15M0 1005->1499cc, ETJ/ETH/ETC -> Cummins 6.7/5.9 identities, CCRA -> 1.6 TotalFlex 1598cc, E18NVR text 'ECONOVAN Bus' -> '3.0 V6 SIDI VVT' (Cadillac LF1-type data), L96 '1.3 VVTi' -> '6.0 V8 Vortec' (dieselhub), LC9/L76/L20/LM7 Vortec texts, CKMA '6.7 Turbo R' -> '1.4 TSI Twincharger', F1CE0481* -> '3.0 HPI TurboDiesel', 4HH -> '2.2 16v HDi'.
+- E18NVR grab-bag cleanup: 14 junk attachments quarantined (VW Voyage, Alpina B3 x3, LANDWIND, HUMMER H3, Chevrolet Colorado/Suburban/Uplander/Avalanche) that survived filters via junk-etype displacement parses; v_vehicle_with_service 39,099 -> 39,085 (honest loss of wrong spec joins).
+- Displacement-suspect joined rows 452 -> 405; remainder is cosmetic variant-etype junk (specs correct). Report: ENGINE_ROW_WORKLIST_REPORT.md, fix log: csv_exports/15_engine_row_fixes.csv. Backup: backups/car_database_backup_pre_step7_2026-09-29.db.
+
+## 2026-09-29 — Step 8 (user's Step 3): hernr_* brand rebadging + mis-brand fixes
+
+- All 83 hernr_NNN brand buckets (743 variants, from the Vivid WorkshopData source) rebadged to real manufacturers using model+engine evidence, each web-verified (citations in STEP3_BRAND_REBADGE_REPORT.md): Smart, Lamborghini, Bentley, Lotus, Infiniti, Tata, UAZ, Perodua, Chery, Geely, GWM, BYD, Foton, Brilliance, Chana, Soueast, Gonow, Dadi, Hafei, Jinbei, Lifan, Saipa, Besturn, Haima, Luxgen, Huanghai, Higer, Golden Dragon, Dongfeng Fengxing, Baolong, Naza, BAW, Inokom, Eunos (800=Xedos 9), Marcos, Metrocab (MCW 2L-T), Westfield (XTR4), Caterham, Zastava, Santana, Ligier, Aixam, Venturi, Wiesmann, Maybach, Spyker, Morgan, Rolls-Royce, AC, Renault Trucks, Piaggio, HSV, Artega, Shuanghuan, ZAZ + consolidations into Ford/VW/Toyota/Honda/Nissan/BMW/LDV/Renault Samsung/MG/Mahindra/Hummer/Acura/Dr Motor/KTM/McLaren/Bugatti/Pontiac/Daewoo.
+- Mis-brands fixed: Citroën->Citroen (486 variants unified, 711 total), Saic Mg->MG, SATURN->Saturn, SHELBY->Shelby, Jmc->JMC, Volga->GAZ.
+- 48 new real brand rows (188->236 brands); 18 duplicate model rows merged (6299->6281); 0 hernr remnants in variants/models/engines/queue.
+- Bonus: Hummer H3 3.5 220hp remapped to L52 (NULL 96->95, specs 39,085->39,086); 5 brand-blocked queue pendings unblocked with citation notes (Marcos TS250/TS500, smart ed 41hp, GWM Tengyi C50, Landwind 2.4, Caterham Seven CF).
+- Source mystery solved: hernr_N = Vivid Hersteller-Nummer; original vivid_cars2000.db in repo root has same-broken brand column but yields kmodnr IDs + identification of non-imported buckets (Noble/RUF/Tesla/IKCO/Fisker/GAZ/Bristol/Lincoln). Decisions: csv_exports/16_brand_rebadge_decisions.csv. Backup: backups/car_database_backup_pre_step8_2026-09-29.db.
+
+## Step 9 — 2026-09-29 (user-plan Step 5, batch 1): LEMON synthetic-code replacement, US trucks/SUVs/vans
+
+- Replaced 1,885 LEMON_* synthetic engine codes with real OEM codes (Ford 633, Chevrolet 531,
+  GMC 457, Dodge 96, Ram 95, Cadillac 45, Lincoln 28) using displacement + 8th-VIN char + year +
+  fuel, verified against 20 web references (see STEP5_BATCH1_REPORT.md).
+- Migrated all crawled service/technical specs onto the real codes (v_vehicle_with_service
+  coverage unchanged at 39,086); provenance sources preserved.
+- Created 47 new engine rows (STEP9_VERIFIED); fixed junk engine_type on LFA/L18, L5P fuel, L8T specs.
+- Corrected 279 variant fuel labels (Petrol→Diesel) where lemon mislabeled diesel-only engines.
+- 97 in-scope rows deliberately skipped (ambiguous signal) — documented in report.
+- 10,752 LEMON rows remain for later batches (cars/SUVs/crossovers).
+- Script: step9_step5_lemon_replacement.py (dry-run default, --apply gate).
+- Backup: backups/car_database_backup_pre_step9_2026-09-29.db
+- Decisions log: csv_exports/17_lemon_replacement_decisions.csv
+
+## Step 10 + 10b — 2026-09-30 (user-plan Step 5, batch 2): LEMON replacement, Mopar SUVs/LX cars/Jeep/Ram 1500
+
+- Replaced 638 LEMON_* codes with real OEM codes (3.6 Pentastar 172, EZH 121, EVA 40, EKG 40, EXL 29,
+  6.2 Hellcat 29, ESH 24, ESF 21 ...) using displacement + VIN char + year + fuel, verified against
+  the Chrysler HEMI/PowerTech wiki tables, the 2015 lemon crawl (VIN G/T/M/B/S/N + Eng CD EZC/EZH/ESG/ESH),
+  and Hurricane references (see STEP5_BATCH2_REPORT.md).
+- Created 12 engine rows (Hellcat, 3.5 LX, 3.2 Pentastar, 2.0 GME (+4xe), 5.7 HEMI Hybrid, 4.0/2.5 AMC,
+  R428, 3.0 CRD OM642, 3.0 Hurricane); fixed EDZ config (I4 not V6), EZC 340hp, EXL, ESH, EZH rows.
+- 38 fuel-label fixes (EcoDiesel/CRD diesels + GC 4xe hybrid).
+- 15 rows skipped on principle (Nitro 4.0, Cherokee VIN X, ambiguous bare rows) - documented.
+- Step 10b: overrode 32 target engines' ESTIMATE-heuristic oil/coolant specs with the real crawled
+  lemon data recovered from backups (also covers batch-1 targets); 0 ESTIMATE sources remain among
+  step-9/10 targets.
+- 10,114 LEMON rows remain (batches 3+: Explorer/Edge/Escape, imports).
+- Backups: pre_step10, pre_step10b. Decisions: csv_exports/18_lemon_batch2_decisions.csv.
+
+## Step 11 + 11b + 11c — 2026-09-30: small cleanups (user-approved list)
+
+- Garbled codes retired: M54256S5→M54B25 (cc fixed 2494), G4KR/H4KR→G4EE (Kia Alpha 1.4 1399cc),
+  25V6S1→KV6; C20LET row corrected from mis-coded Ford 1.4 TDCi data to Opel 2.0 16v Turbo 204hp,
+  6 wrong attachments moved to real sibling codes (F6JD, K9K858, F1CE0481FA/HA).
+- Resolved 6 remaining pending queue items with citations (Marcos TS250/TS500, smart ed 450,
+  GWM C50 GW4G15T, Landwind 4G64S4M, Caterham CF C20LET) + Caterham CSR junk codes → new
+  'Duratec 2.3 CSR' row. Queue: 88 pending / 393 remapped.
+- 4 new STEP11_VERIFIED engine rows (5.0 Rover V8, smart ED (450) — first Electric engine,
+  Duratec 2.3 CSR, M73B54). Orphan refs now 0 (Rolls-Royce Park Ward closed).
+- OEM spec fills with citations: G6DA/G6DG Ford 2.0 TDCi 5W-30 5.5L WSS-M2C913-C/D, G6DA/G6DG
+  (Hyundai) 6.0/6.9L, M62B48 7.5L, M73B54 5W-40 8.0L/15L coolant.
+- Power Stroke fixes: 7.3 oil 12.87→14.2L, 6.0 oil 16.08→14.2L, 6.7 coolant cleared; sibling rows
+  7.3 V8 Powerstroke/T444E/6.4 V8 Powerstroke 9.5→14.2L, 6.7 V8 Powerstroke 9.5→12.3L.
+- Cosmetic etype cleanup: 4,308 junk-pattern + 906 displacement-spoof variant etypes (engine-table
+  etype propagated only when itself clean & self-consistent, else NULL); 54 engine rows with
+  car-model/body-style junk etypes relabeled from own cc/fuel columns.
+- Step 11b: deleted 2 orphaned Caterham junk rows; recomputed all engines.count_variants from
+  actual links (0 mismatches).
+- Verification: garbled codes gone, 0 junk-pattern etypes, 0 orphan refs, 0 count mismatches.
+- LEMON unchanged at 10,114 (batch 3 Ford Explorer/Edge/Escape next).
+- Scripts: step11_small_cleanups.py, step11b_post_fix.py, step11c_psd_oil.py.
+  Backup: pre_step11. Logs: csv_exports/19_small_cleanups_log.csv + 19_small_cleanups_decisions.csv.
+
+## Step 12 + 12b — 2026-09-30 (user-plan Step 5, batch 3): LEMON replacement, ALL Ford
+
+- Replaced 658 LEMON_FORD codes with real OEM codes across 41 models / model years 2000-2024
+  (top: 2.0 EcoBoost 66, 3.5 Cyclone 62, 2.3 EcoBoost 45, 2.5 Duratec 42, 3.0 V6 37, 4.6 V8 32),
+  using cc + VIN-8th char + year + fuel + trim slug, verified against Ford's own fleet VIN guide
+  PDFs (fordpro 2013/2014/2022), fordmasterx, and listings carrying actual VINs (see
+  STEP5_BATCH3_REPORT.md and the CIT dict in step12_step5_lemon_batch3.py).
+- Key VIN findings: 8 = 3.5 NA (cars) but 3.5 EcoBoost turbo on 2021+ F-150; T = 3.5 GTDI;
+  4 = 3.5 EB std (vs T HO); H/D = 2.3 EB; 9 = 2.0 EB; B/W = 3.3 NA/Hybrid; C = 3.0 EB 400hp;
+  Explorer 2.3 EB is real from 2016 (replaced 2.0 EB).
+- 21 new STEP12_VERIFIED engine rows incl. E-Transit Electric + Focus Electric (2nd/3rd Electric
+  engines), GT500 5.4/5.8 SC, Voodoo 5.2, Ford GT 5.4 SC, Thunderbird AJ35, hybrid families.
+- 15 fuel fixes (PIU W hybrid, Maverick hybrid, C-Max Energi, E-Transit, Focus Electric).
+- Step 12b: overrode 4 pre-existing ESTIMATE-heuristic oil specs on shared targets with lemon
+  majority values (2.0 EB 5W-30 5.39L, 3.0 V6 5W-20 5.67L, 4.0 SOHC 5W-30 4.73L, 4.6 V8 5W-20 5.67L).
+- 85 rows deliberately skipped (ambiguous: bare vans/trucks, Taurus/Focus engine splits, SSV) -
+  documented with reasons.
+- Verification: 0 orphan refs, 0 count_variants mismatches (recomputed), LEMON total 9,456 remain.
+- Backups: pre_step12. Decisions: csv_exports/20_lemon_batch3_decisions.csv.
+
+## Step 13 + 13b + 13c — 2026-09-30 (user-plan Step 5, batch 4): LEMON replacement, ALL Mercedes
+
+- Batch 4 of 5 in LEMON-count order: replaced 931 LEMON_MERCEDES codes (968 inventoried, 37 skipped)
+  with real OEM codes. Unlike Ford/Mopar batches, LEMON Mercedes codes are US TRIM names (C300,
+  E350, C63...) with no cc/VIN signal -> rules keyed on (trim base, year range), ~150 rules,
+  verified via 7 research passes (C/E/S/CLK/CLS/CL/SLK/SL/ML/GL/G/GLE/GLS/CLA/GLA/GLB/Sprinter/
+  Metris/G/AMG GT/EQB/EQS); Wikibooks Mercedes VIN table primary, ~30 sources in CIT dict.
+- Key generation facts: C63 M156->M177(2015)->M139 PHEV 671hp (W206); E350 M272->M276(2012)->
+  M264(2018); E450 2019+ M256 I6; S600 M137->M275->M277; A/CLA/GLA/GLB 250 M270->M260(2019);
+  G550 M273->M176(2017)->M256(2025); Sprinter OM642/OM651/OM654(2023+); Metris = M274.920 van
+  tune 208hp; GL450 X166 2013-14 M278 vs 2015+ M276 (mbworld).
+- 23 new STEP13_VERIFIED engines (M256/M256 53, M254, M264, M260/35, M139 43/45/PHEV, M176, M178,
+  M152, M137, M155 SLR, M113.943, M276 PHEV, M274 PHEV, OM654, EQB250+/300/350, EQS450+,
+  W242 B250e Electric) + fuel fixes 76 (Diesel 52, Hybrid 12, Electric 12).
+- Step 13b: overrode 59 ESTIMATE-heuristic oil specs on targets with lemon-crawl majority values
+  from the pre_step13 backup (verified as genuine qt->L conversions vs MB specs).
+- Step 13c (post-apply conflation audit): (a) Metris split into 'M274.920 (Metris)' 208hp
+  0W-30/7.57L - AMSOIL/Wikiwand confirm code 274.920 but 8qt van sump vs ~6.3qt cars;
+  (b) S450 2018-20 rule error fixed: W222 S450 = M276.824 V6 362hp (AMSOIL engine code,
+  CarBuzz), NOT M256 I6 (W223-only) - 3 variants remapped; (c) S560e set 469hp system
+  (Car and Driver) Hybrid, M276.824 spec 0W-30/6.52L per AMSOIL (last ESTIMATE eliminated);
+  (d) 14 targets normalized to variant-weighted lemon majorities; 24 NULL/stale spec power_hp
+  filled from engines (incl. M274.920 stale Euro 211->241).
+- 37 rows deliberately skipped (bare Sprinter 2500 gas/diesel x18, Maybach x3, W202/W204
+  transition years, 12 single-row ambiguities) - documented with reasons.
+- Verification: 0 ESTIMATE among step-13 targets, 0 orphan refs, 0 count_variants mismatches,
+  0 engines<->specs power mismatches. LEMON total 8,525 (BMW 780 next: Chevrolet 653, Audi 576,
+  Nissan 520, Toyota 471, Kia 392, Hyundai 391...).
+- Scripts: step13_step5_lemon_batch4_mercedes.py, step13b_estimate_override.py,
+  step13c_conflation_fixes.py. Backups: pre_step13, pre_step13c.
+  Decisions: csv_exports/21_lemon_batch4_decisions.csv (updated in place by 13c).
+
+## Step 14 + 14b — 2026-09-30 (user-plan Step 5, batch 5): LEMON replacement, ALL BMW
+
+- Batch 5 of 5 in LEMON-count order: replaced 697 LEMON_BMW codes (780 inventoried, 83 skipped)
+  with real OEM codes across 91 models / years 2000-2025. Rules keyed on (model, year, cc) -
+  unlike Mercedes, BMW X3/X4/X5/X6/X7/Z4 codes carry a cc segment separating 28i/30i vs 35i/M40i
+  vs 50i trims; car trims have one engine per generation. ~45 cited sources in CIT dict.
+- Key facts verified: F01 740i/Li = N54 315hp (2011-12) -> N55 (2013 FL); 750i G11 LCI 2019+ =
+  523hp; G70 760i 2023+ = S68 536hp; US 540d = B57 261hp; Alpina B7 500(SC)->540->600->612hp;
+  M2 = N55 365 / S55 Comp 405 / S58 453; X5/X7 V8 = 445/456hp -> 523hp from 2020 (M50i);
+  X1 2023 US single-trim 241hp; E90 323i (CA) = N52B25; anomalous 2011 528i identified as late
+  E60/N52 via sump fingerprint (6.52L matches 2010, not F10's 5.01L).
+- 24 new STEP14_VERIFIED engines: S58 (M3/M4 + M2), S55 (M2 Comp), N55 (M2 + M235i), B48 M235i GC,
+  S63B44T2 (F90 M5/M8), N63B44TU2 523hp, S68, B58 (40i + M40i), B48B20 (30i), N20 US, 4x PHEV
+  rows, B57 540d, N47 328d, i3 Electric (9th Electric engine), 4 Alpina rows.
+- 15 row-fixes on reused rows (junk displacements: N55B30A 3926->2979, N54B30O0 2265->2979,
+  M52TUB28 2470->2793, M62B44TU/N62B44 ->4398; i8 B3815KT0 -> Hybrid 357hp; V12 etype cleanups).
+- 50 fuel fixes (Hybrid 28, Diesel 13, Electric 9 incl. i3/i8, X5 40e, 30e PHEVs, 328d).
+- Step 14b: overrode 29 ESTIMATE oil specs + normalized 12 first-code merges to variant-weighted
+  lemon majorities (M-cars correctly landed on 10W-60: S54 5.48L, S65 8.8L, S85 9.27L; M73B54
+  corrected 8.0qt-as-litres -> 7.57L); synced 30 stale/NULL spec power_hp; filled 15 pre-existing
+  NULL-power variants; i3 spec annotated as range-extender oil (BEV has none).
+- 83 rows deliberately skipped (no-signal X/Z rows x59, bare M/X2/ActiveHybrid/Z3/X1-2024+ x22,
+  non-existent 535i/550i 2017 x2) - documented with reasons.
+- Verification: 0 ESTIMATE among step-14 targets, 0 orphan refs, 0 count_variants mismatches,
+  0 power mismatches. Engines 13,235; LEMON total 7,828 (Chevrolet 653 next: Audi 576, Nissan 520,
+  Toyota 471, Kia 392, Hyundai 391...).
+- Scripts: step14_step5_lemon_batch5_bmw.py, step14b_estimate_override.py.
+  Backup: pre_step14. Decisions: csv_exports/22_lemon_batch5_decisions.csv.
+
+## Step 15 + 15b — 2026-09-30 (user-plan Step 5, batch 6): LEMON replacement, ALL Chevrolet
+
+- Batch 6 in LEMON-count order: replaced 600 LEMON_CHEVROLET codes (653 inventoried, 53 skipped) with
+  real OEM codes across 49 models / years 2000-2025, using the Ford-batch method (cc + VIN 8th char +
+  year). DB's 150+ GM RPO codes served as target vocabulary.
+- Key decodes: Camaro VIN J=L99/W=LS3/V=LLT/3=LFX/P=LSA; truck Vortec VINs (X 4.3, V 4.8, T LM7,
+  U LQ4, G 8.1, F 6.5TD); 2018 Equinox LYX/LTG/LH7; 2016 Malibu 1.5T=LFV; Cruze 2.0TD=LUZ;
+  TB EXT 5.3=LM4; Trailblazer 1.2T LIH / 1.3T L3T; 2013 Traverse still LLT; generic 'Chevy' rows
+  (63) mapped by (cc, year) to Vortec families.
+- 23 new engine rows: LSJ, LD9, LFV, LYX, LH7, LUZ, LZ9, LT2 (C8), LT6 (Z06), LM4, LG8, L77,
+  6.5 TD V8, MR20DD (City Express), Voltec 1.4/1.5 EREV (Volt), Bolt EV + Spark EV Electric
+  (11 Electric engines now), 1.8 Hybrid (Malibu), 1.4 Spark US, LUH/LIH/L3T.
+- Row-fixes: 1ZZ-FE 1600->1794cc (Prizm - long-standing error), LS4 303hp, LZ4/LZE/LNJ/L82/LL8/LS1/
+  J20A labels. 31 fuel fixes (Hybrid 13, Diesel 10, Electric 8).
+- Step 15b: 18 ESTIMATE overrides + 11 majority normalizations + 32 power syncs; NULL-power engine
+  rows filled (LGX 310/LT1 455/LCV 196/LEA 182/LN2 120) propagated to 128 variants. Flags: LS7 9.93L
+  (crawl year-split 2006-08 vs 2009+), LT1 9.27L single-source, Spark 1.4 RPO unverified (row descriptive).
+- 53 rows deliberately skipped (bare multi-engine rows, Canadian Daewoo Optra/Epica, RV chassis,
+  Corvette Z06 ambiguity 2001-04, transition years).
+- Verification: 0 ESTIMATE among targets, 0 orphan refs, 0 count mismatches, 0 power mismatches.
+  Engines 12,658; LEMON total 7,228 (Audi 576 next: Nissan 520, Toyota 471, Kia 392, Hyundai 391...).
+- Scripts: step15_step5_lemon_batch6_chevrolet.py, step15b_estimate_override.py.
+  Backup: pre_step15. Decisions: csv_exports/23_lemon_batch6_decisions.csv.
+
+## Step 16 + 16b — 2026-09-30 (user-plan Step 5, batch 7): LEMON replacement, ALL Audi
+
+- Batch 7 in LEMON-count order: replaced 537 LEMON_AUDI codes (576 inventoried, 39 skipped) with real
+  OEM codes across 31 models / years 2000-2025, using (model, year, cc) rules + the DB's deep VAG
+  vocabulary (APB/AUK/CAEB/CTUA/CTWA/CREC/BCY...).
+- Key facts verified: A8 D5 '4000cc VIN E' = 60 TFSI 4.0T 453hp (C&D/truecar); A8 D4 4.2=CDRA 372 /
+  4.0T=CTG 420-435 (auto-data/motorinsel); R8 4.2=BYH; TT RS 8J=CEPA/CEPB 360; S3 8V=292hp CYFB
+  family (DB CYFB row is mislabeled Ford - left alone, descriptive row created); Q7 2011-15 US =
+  3.0 TDI only; Q5 3000cc petrol 2014-17 = SQ5-family 3.0T.
+- Junk/NULL rows decoded: CTNA = A8 W12 6.3 500hp; CTGA = A8 D4 4.0T; DBPA/DHHA/DLRA completed
+  (B9 45 TFSI 252 / TT Mk3 245 / TTS 288).
+- 16 new engine rows: ATW, S3 8V/8Y, S6/S8 5.2 V10, S8 D5 4.0T, RS4/RS5 4.2, R8 42/4S V10, TTS,
+  TT RS 8S 394hp, Q7 US TDI, SQ7/SQ8 500hp, Q4 e-tron + e-tron Electric (13 Electric engines now),
+  A8 D5 60 TFSI. 21 fuel fixes (Diesel 11, Electric 10).
+- Step 16b: 31 ESTIMATE overrides + 10 majority normalizations + 18 power syncs + 20 NULL-power
+  variant fills. 39 rows deliberately skipped (A6 bare 2.0T-vs-3.0T x15, RS model unknown x13,
+  TT Mk1/2016-17 x6, misc transitions).
+- Verification: 0 ESTIMATE among targets, 0 orphan refs, 0 count mismatches, 0 power mismatches.
+  Engines 12,136; LEMON total 6,691 (Nissan 520 next: Toyota 471, Kia 392, Hyundai 391...).
+- Scripts: step16_step5_lemon_batch7_audi.py, step16b_estimate_override.py.
+  Backup: pre_step16. Decisions: csv_exports/24_lemon_batch7_decisions.csv.
+
+## Step 17 + 17b — 2026-09-30 (user-plan Step 5, batch 8): LEMON replacement, ALL Nissan
+
+- Batch 8 in LEMON-count order: replaced 513 LEMON_NISSAN codes (520 inventoried, 7 skipped) with real
+  OEM codes across 25 models / MY2005-2025. Nissan's one-engine-per-model lineup + DB's QR/VQ/VK/MR/HR
+  vocabulary made this mostly rule-driven; signals = cc + VIN chars + 2015 trim slugs.
+- Web-verified: 2020+ Frontier = VQ38DD 3.8 310hp (autofiles/crownnissan); 2025 Kicks = 2.0 141hp
+  (autopadre); Ariya = 238/389hp EV (nissanusa); 2019+ Altima = KR20DDET VC-T / PR25DD 2.5;
+  2022+ Rogue = KR15DDET 1.5T; Titan XD 5000cc = 5.0 Cummins ISV V8 TD 310hp.
+- 8 new engine rows: PR25DD, KR20DDET, KR15DDET, VQ38DD, VR30DDTT (2023+ Z), Leaf EM57 Electric,
+  Ariya Electric (15 Electric engines now), 5.0 Cummins ISV V8 TD. 32 fuel fixes (Electric 28,
+  Diesel 4). 7 rows skipped (Titan 17-19 gas-vs-Cummins x3, NV3500 x2, Versa 07-08 x2).
+- Step 17b: 10 ESTIMATE overrides + 2 normalizations + 8 power syncs + 5 NULL-power fills.
+- Verification: 0 ESTIMATE among targets, 0 orphan refs, 0 count mismatches, 0 power mismatches.
+  Engines 11,631; LEMON total 6,178 (Toyota 471 next: Kia 392, Hyundai 391, Lexus 322...).
+- Scripts: step17_step5_lemon_batch8_nissan.py, step17b_estimate_override.py.
+  Backup: pre_step17. Decisions: csv_exports/25_lemon_batch8_decisions.csv.
+
+## Step 18 + 18b — 2026-09-30 (user-plan Step 5, batch 9): LEMON replacement, ALL Toyota
+
+- INCIDENT: sandbox fully rewound to branch point 5bf3811 between turns (batches 3-8 gone from
+  working tree). Recovered via git reset --hard origin (all 10 commits were pushed). No work lost.
+- Batch 9: replaced 469 LEMON_TOYOTA codes (471 inventoried, 2 skipped) across 31 models MY2005-2025.
+  Lemon fuel column resolved gas-vs-hybrid VIN splits (Camry VIN1/6 gas vs plain hybrid; Corolla C/D
+  hybrid; RAV4 6/W hybrid vs bare gas). T24A-FTS/V35A-FTS cover gas + hybrid-MAX (same engine).
+- Hybrid-only lineups fuel-fixed: 2025 Camry, Sienna 21+, Venza 21+, Sequoia 23+ (i-FORCE MAX),
+  Land Cruiser 24+, Crown 23+, Grand Highlander, Prius, Mirai (FCEV), bZ4X. 118 fuel fixes total
+  (Hybrid 107, Electric 11).
+- 10 new engine rows: 2GR-FKS, M20A-FKS/XS, T24A-FTS, V35A-FTS, FA24, G16E-GTS, B48B20 (Supra 2.0)
+  + BMW B58 rows reused for Supra 3.0, Mirai FCEV, bZ4X Electric. Row-fixes: 1NZ-FXE (fuel Hybrid),
+  2ZR-FXE/A25A labels, 2ZZ-GE 180hp.
+- Fuel-label unification: 'Electric Motor' -> 'Electric' (14 engines, 30 variants); 5 fuel values.
+- Step 18b: 17 ESTIMATE overrides + 5 normalizations (2 manually corrected: B58 6.52L restored,
+  2AR-FE 0W-20) + 15 power syncs + 8 NULL-power fills.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 11,172; LEMON 5,709
+  (Kia 392 next: Hyundai 391, Lexus 322...).
+- Scripts: step18_step5_lemon_batch9_toyota.py, step18b_estimate_override.py.
+  Backup: pre_step18. Decisions: csv_exports/26_lemon_batch9_decisions.csv.
+
+## Step 19 + 19b — 2026-09-30 (user-plan Step 5, batch 10): LEMON replacement, ALL Kia
+
+- INCIDENT (2nd full rewind): workspace rewound to branch point between turns again; batch-10 apply
+  landed on the old baseline, detected via post-apply verify (LEMON 12,259). Recovered with
+  git reset --hard origin + clean re-apply. New standing rule: verify baseline counts before apply.
+- Batch 10: replaced 378 LEMON_KIA codes (392 inventoried, 14 skipped) across 32 models MY2000-2025.
+  Lemon fuel column resolved Optima hybrids (G4KK 2.4-hybrid 2011-16 / G4NE 2.0-hybrid 2017-20) and
+  Sorento/Sportage/Carnival 1.6T HEV + Niro HEV.
+- Web-verified: G4NH = Forte/Soul/Seltos/K4 2.0 MPi (wikibooks/go-parts); G6DP = 3.3TT Stinger/K900;
+  G4KK = Optima Hybrid 2.4; G4NA = Soul 2.0; Rio 1.5 = Mazda B5-DE.
+- Code collision handled: DB G6DA is a Ford TDCi code -> Kia Lambda 3.8 MPi got descriptive row
+  'Lambda 3.8 MPi (G6DA-family)'. Similar descriptive rows for Lambda 3.5/3.3 GDI, Telluride 3.8 GDI,
+  Tau 4.6/5.0 (DB G6 rows carry junk labels, e.g. 'BLAZER S10').
+- 18 new engine rows (incl. G6DP, Smartstream 2.5T/1.6T-HEV, Niro HEV, G4NH/NA/NB/KK, Soul EV/EV6/EV9
+  Electric). 39 fuel fixes (Hybrid 32, Electric 7). Row-fixes: G4KN, G4NE, G6EA.
+- Step 19b: 18 ESTIMATE overrides + 4 normalizations + 20 power syncs + 3 NULL fills.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 10,812; LEMON 5,331
+  (Hyundai 391 next: Lexus 322, Honda 312...).
+- Scripts: step19_step5_lemon_batch10_kia.py, step19b_estimate_override.py.
+  Backup: pre_step19. Decisions: csv_exports/27_lemon_batch10_decisions.csv.
+
+## Step 20 + 20b — 2026-09-30 (user-plan Step 5, batch 11): LEMON replacement, ALL Hyundai
+
+- Baseline guard (added after batch-10 rewind) caught a 3rd full workspace rewind pre-inventory
+  (LEMON 12,637 vs expected 5,331); recovered via git reset --hard origin, no work lost. Script now
+  asserts baseline counts before running.
+- Batch 11: replaced 385 LEMON_HYUNDAI codes (391 inventoried, 6 skipped) across 23 models
+  MY2000-2025. Lemon fuel column resolved Sonata 2.0-hybrid era (2016+ = G4NE HEV; 2015 = 2.0T),
+  Ioniq (2017-21 HEV; 2022+ = Ioniq 5/6 EV -> new Electric row + fuel fix), Santa Fe 1.6T HEV.
+- Web-verified US Tucson TL lineup (hyundainews 2020 spec PDF): Nu 2.0 GDI 161-164 + Theta 2.4 GDI
+  181 + 1.6T 177 (16-18). Genesis sedan/coupe split by year+cc+slug logic (2000=Coupe 2.0T only,
+  4.6/5.0=sedan Tau, 2010-14 3.8 skipped as MPi-vs-GDI ambiguous).
+- 4 new engine rows: G4LD 1.4T, Sigma 3.0 (XG300), Lambda II 3.8 GDI (Genesis Coupe), Ioniq Electric.
+  5 row-label fixes (G6DB, Tau 4.6, Kappa HEV, Smartstream 1.6T HEV, Lambda 3.5 GDI widened to
+  include Santa Fe/Ioniq/Equus/Genesis applications). 4 fuel fixes (Ioniq 2022+ -> Electric).
+- Step 20b: 4 ESTIMATE overrides + 12 normalizations + 4 power syncs.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 10,431; LEMON 4,946
+  (Lexus 322 next: Honda 312, Mazda 303...).
+- Scripts: step20_step5_lemon_batch11_hyundai.py, step20b_estimate_override.py.
+  Backup: pre_step20. Decisions: csv_exports/28_lemon_batch11_decisions.csv.
+
+## Step 21 + 21b — 2026-09-30 (user-plan Step 5, batch 12): LEMON replacement, ALL Lexus
+
+- Baseline guard caught a 4th full workspace rewind pre-inventory; recovered via git reset --hard
+  origin, no work lost. Script baseline assert (LEMON=4946) held for the apply.
+- Batch 12: replaced 291 LEMON_LEXUS codes (322 inventoried, 31 skipped) across 19 models
+  MY2000-2025. Trim slugs encode powertrains (IS250/350, LS600H, NX300H...) -> direct mapping;
+  cc/VIN rows carried 2018+ IS/RC splits. UX hybrid-only from 2023 (C&D). GX550 2024+ = T24A-FTS
+  i-FORCE MAX hybrid (fuel fixed).
+- 3 new engine rows: 1UZ-FE (LS400), 2UR-FXE (LS600h 438hp), RZ450e Electric. 5 junk-label fixes
+  (2JZ-GE '300', 8AR-FTS '2 (est.)' 241hp, 1LR-GUE 553hp, 2GR-FXE, 4GR-FSE). 34 fuel fixes
+  (Hybrid 31, Electric 3).
+- Step 21b: 9 ESTIMATE overrides + 7 normalizations (3UR-FE lemon-majority 9.27L REJECTED after
+  verification -> 8.0L per LX570 8.5qt/0W-20 AMSOIL spec; Tundra 7.4qt) + 5 power syncs.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 10,143; LEMON 4,655
+  (Honda 312 next: Mazda 303, Cadillac 269...).
+- Scripts: step21_step5_lemon_batch12_lexus.py, step21b_estimate_override.py.
+  Backup: pre_step21. Decisions: csv_exports/29_lemon_batch12_decisions.csv.
+
+## Step 22 + 22b — 2026-09-30 (user-plan Step 5, batch 13): LEMON replacement, ALL Honda
+
+- Baseline guard caught a 5th full workspace rewind pre-inventory; recovered via git reset --hard
+  origin, no work lost. Script baseline assert (LEMON=4655) held.
+- Batch 13: replaced 311 of 312 LEMON_HONDA codes (1 skip: CR-V 2025 bare) across 19 models
+  MY2000-2025. Lemon fuel column resolved all hybrid splits (Accord 2.0T-vs-i-MMD, CR-V/Civic
+  hybrids, CR-Z, Insight 1.0/1.3/1.5 eras, Clarity PHEV). Web-verified: R20Z1 155hp (motorreviewer),
+  K20C4 252hp Accord 2.0T, D17A2 Civic. Passport 2000-02 = Isuzu 6VD1 3.2 V6 (Rodeo rebadge,
+  cross-brand row per standing rule).
+- 22 new engine rows (D16/D17/B20Z2/R18Z1/R20Z1/K24W/K24Z9/K20C4/J30A1/H22A4/F20C1/F22C1/L15B2/
+  6VD1/i-MMD 2.0+1.5/CR-Z IMA/Civic Hybrid IMA/Insight 1.0+1.3/Clarity PHEV/J35Y). 13 row-fixes
+  (J35 junk labels 'CORVETTE'/'CROWN ROYAL'/'BASSARA'/'LUV'/'for engines without EGR' decoded to
+  real Honda applications + US hp corrections). 52 fuel fixes (Hybrid).
+- Step 22b: 16 ESTIMATE overrides + 1 normalization + 29 power syncs + 11 NULL fills.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 9,852; LEMON 4,344
+  (Mazda 303 next: Cadillac 269, Jaguar 258...).
+- Scripts: step22_step5_lemon_batch13_honda.py, step22b_estimate_override.py.
+  Backup: pre_step22. Decisions: csv_exports/30_lemon_batch13_decisions.csv.
+
+## Step 23 + 23b — 2026-09-30 (user-plan Step 5, batch 14): LEMON replacement, ALL Mazda
+
+- Baseline guard caught a 6th full workspace rewind pre-inventory; recovered via git reset --hard
+  origin, no work lost. Script baseline assert (LEMON=4344) held.
+- Batch 14: replaced 301 of 303 LEMON_MAZDA codes (2 skips: Mazda3 2019/20 bare) across 27 models
+  MY2000-2025. Rebadge twins mapped to Ford-family rows (Tribute=Escape: Zetec/Duratec 30/Atkinson
+  Hybrid; B-Series=Ranger: 2.3 DOHC/2.5 Lima/3.0 Vulcan/4.0 Cologne). CX-50 Hybrid 2025 = Toyota
+  A25A-FXS system (cross-brand). CX-5 2019 2200cc = rare US 2.2 Skyactiv-D diesel (fuel fixed).
+- 13 new engine rows: MZR NA family (1.5/2.0 LF/2.3), Skyactiv-G 2.0 PE + 2.5 PY (NA+turbo family
+  row), 2.2 Skyactiv-D, 1.8 BP Miata, KJ-ZEM Miller SC Millenia S, 2.3 Atkinson Hybrid, 3.7 Duratec
+  37, 2.5 PHEV + 3.3T I6 e-Skyactiv (CX-70/90), MX-30 Electric. 5 row-fixes (L3-VE 2.3 DISI Turbo
+  263hp, FS 130hp, 13B-MSP Renesis 212hp, 3.0 V6 dual label, L5-VE). 11 fuel fixes.
+- Mazda3 2.5 boundary enforced after spot-check: L5-VE MZR through 2013, PY Skyactiv from 2014.
+- Step 23b: 9 ESTIMATE overrides + 3 normalizations + 18 power syncs.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 9,564; LEMON 4,043
+  (Cadillac 269 next: Jaguar 258, VW 237...).
+- Scripts: step23_step5_lemon_batch14_mazda.py, step23b_estimate_override.py.
+  Backup: pre_step23. Decisions: csv_exports/31_lemon_batch14_decisions.csv.
+
+## Step 24 + 24b — 2026-09-30 (user-plan Step 5, batch 15): LEMON replacement, ALL Cadillac
+
+- Incidents: baseline guard caught 7th full workspace rewind pre-inventory (no loss); the pre-apply
+  target assert fired correctly (Catera Opel L81 missing from NEW_ENGINES - fixed before apply);
+  diagnosed head-pipe SIGPIPE killing dry-run CSV writes (dry runs now un-truncated).
+- Batch 15: replaced 262 of 269 LEMON_CADILLAC codes (7 skips) across 24 models MY2000-2025.
+  Northstar genealogy web-verified: RWD 4.6 = LH2 320hp (STS/SRX/XLR - new row; DB 'LH8' is a 5.3
+  truck code, untouched); 4.4 SC = LC3 (STS-V 469 / XLR-V 443); FWD LD8/L37 DeVille family.
+  CTS-V generations: LS6->LS2->LSA->LT4 (2016-19 640hp); 2015 6200cc row skipped (no 2015 CTS-V).
+  Escalade: L59/LQ4->L92/L9H->L86->L87 + LM2 Duramax (Diesel fix) + LFA two-mode hybrid + ELR=Voltec.
+- 8 new engine rows: LH2, Opel L81 3.0 (Catera), LA3 3.2, LP1/LP9 2.8 (Canada), LTA 4.2TT Blackwing
+  (CT6-V 550hp), LYRIQ + OPTIQ Electric. 8 row-fixes incl. LF4 junk row ('2.5'/2492cc/156hp ->
+  3.6TT 464hp ATS-V) and NULL rows LGW/LGX/LT4/L87 filled. 6 fuel fixes.
+- Step 24b: 7 ESTIMATE overrides + 5 normalizations + 10 power syncs + 22 NULL fills.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 9,306; LEMON 3,781
+  (Jaguar 258 next: VW 237, Infiniti 230...).
+- Scripts: step24_step5_lemon_batch15_cadillac.py, step24b_estimate_override.py.
+  Backup: pre_step24. Decisions: csv_exports/32_lemon_batch15_decisions.csv.
+
+## Step 25 + 25b — 2026-09-30 (user-plan Step 5, batch 16): LEMON replacement, Jaguar
+
+- Incidents: baseline guard caught 8th full workspace rewind pre-work (no loss); fixed decide()
+  tuple-unpack bug pre-dry-run.
+- Batch 16: replaced 246 of 258 LEMON_JAGUAR codes (12 skips: S-Type x9 V6-vs-V8 bare rows,
+  X-Type 2002-04 x3 2.5-vs-3.0) across 19 models MY2000-2025.
+- Genealogy: AJ-V8 eras AJ27 4.0 -> AJ33/DB-AJ34 4.2 -> AJ133 5.0 family; SC line AJ27S (DB-convention
+  code) -> AJ33S 4.2 SC -> AJ133/AJ133S 5.0 SC 510/550/575. AJ126 3.0 SC V6 biggest target (61).
+- US lineups verified: XE Ford-EcoBoost-until-2017 (VIN G) then Ingenium; XF/F-Pace 20d diesel 2017-19
+  (fueleconomy.gov + C/D test; Wikipedia 'no US diesel' wrong); 2018MY 30t 296hp trio; F-Pace 2021
+  I6 MHEP AJ300P replaces SC V6; 2021+ 2.0 = P250 only. Bare 2.0 rows 2018-19 = 30t by elimination.
+- New rows: AJ27, AJ27S, 204DTD (20d diesel), AJ300P (3.0 I6 MHEV P340/P400), I-Pace Electric.
+  7 label row-fixes (AJ133/AJ133S/AJ126/AJ33S/AJ34/AJ30/204PT). Fuel fixes: 9 Diesel + 6 Electric.
+- Step 25b: 7 ESTIMATE overrides + 1 normalization + 5 power syncs; every value audited + externally
+  verified (204PT 0W-20/7.0L, AJ300P 9.08L, 204DTD 0W-30 per blauparts/costaoils).
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches. Engines 9,065; LEMON 3,535
+  (Volkswagen 237 next, then Infiniti 230, Dodge 207, Buick 205, Subaru 205...).
+- Scripts: step25_step5_lemon_batch16_jaguar.py, step25b_estimate_override.py.
+  Backup: pre_step25. Decisions: csv_exports/33_lemon_batch16_decisions.csv.
+
+## Step 26 + 26b + 26c — 2026-09-30 (user-plan Step 5, batch 17): LEMON replacement, Volkswagen
+
+- Incidents: 9th full workspace rewind caught by baseline guard pre-work (no loss); NEW STANDING
+  RULE from silent code collisions: CYFB already existed as a Ford Transit 2.2 TDCi row and DGUA
+  as a NULL junk row - the pre-apply existence assert passed but identity was wrong (2 Golf R
+  variants linked to a Ford diesel row). step26c repaired: Golf R -> own row, Ford CYFB spec+tech
+  restored from backup, DGUA filled 184hp. Pre-apply assert must now check target identity, not
+  just existence.
+- Batch 17: replaced 234 of 237 LEMON_VOLKSWAGEN codes (3 skips: Passat 2005 2800cc anomalous,
+  Touareg 2008 5000cc V10-cancelled, Golf 2025 bare GTI-vs-R) across 19 models MY2005-2025.
+- Families: AWP/AWV/AWM 1.8T; BPY->CCTA 2.0T 200hp (n=70); CXCA/CXCB/CXDA US GTI/GLI Gen3
+  210/220/228/241hp; Golf R 292hp; DGUA Tiguan Budack 184hp; Atlas 2.0T 235->269hp evo4 2024+;
+  BEW/BRM/BHW Pumpe-Duse TDIs; CVCA EA288 150 (all 2015 TDIs per VW media); VR6 EA390
+  BKL/BUB/BLV/CNNA/CGRA/CDVC + 2.8 Mk4; AXQ 4.2 V8; V10 TDI 310hp (US 06-07 only); W12 Phaeton;
+  3.0 TSI Hybrid; e-Golf EV; 1.4 TSI Hybrid Jetta; 1.5 TSI evo; Routan Chrysler rebadge rows.
+- 12 fuel fixes (8 mislabeled-Petrol TDIs + 4 e-Golf Electric). 22 label row-fixes incl. filling
+  the CXBA/CXBB 1.8T NULL rows (n=27+5).
+- Step 26b: 20 ESTIMATE overrides + 6 normalizations + 28 power syncs; GTI Mk8 0W-20/5.7L 508.00
+  and 1.4T 0W-20 4.0L externally verified.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches, 0 fuel conflicts. Engines 8,846;
+  LEMON 3,301 (Infiniti 230 next: Dodge 207, Buick 205, Subaru 205...).
+- Scripts: step26_step5_lemon_batch17_vw.py, step26b_estimate_override.py, step26c_fix_collisions.py.
+  Backup: pre_step26. Decisions: csv_exports/34_lemon_batch17_decisions.csv.
+
+## Step 27 + 27b + 27c — 2026-09-30 (user-plan Step 5, batch 18): LEMON replacement, Infiniti
+
+- Incidents: 10th full workspace rewind caught by baseline guard pre-work (no loss); dry-run fix
+  narrowed the Q50-2019 skip (rows carry cc markers -> mappable), giving 230/230 with ZERO skips -
+  first brand fully cleared.
+- Batch 18: replaced all 230 LEMON_INFINITI codes across 32 models MY2000-2025.
+- Families: VQ V6 genealogy VQ30DE->VQ35DE (n=156)->VQ35HR->VQ35DD (QX60 2017+ per Infiniti press
+  kit)->VQ37VHR (n=106); VK V8s VK45DE/VK50VE/VK56DE/VK56VD (400hp row fix); VR30DDTT 300/400
+  (Q50/Q60 3.0t); KR20DDET VC-T 268 (QX50 19+/QX55); Mercedes M274DE20 208 (Q50/Q60 2.0t + QX30);
+  new hybrid rows VQ35HR Hybrid Direct Response 360hp net + QR25DER Hybrid 250hp net (QX60);
+  VH41DE 4.1 (Q45 G50) new.
+- US lineups verified: Q50 hybrid->2018 + 2.0t->2020; Q60 4cyl dropped 2019; QX70 V8 discontinued
+  for 2015 (no skip needed); QX60 hybrid 2014-17 only, 3.5 = VQ35DD from 2017.
+- 4 fuel fixes (M35h x2 + Q50 2015 hybrids -> Hybrid). 14 label row-fixes. Identity assert
+  (batch-17 rule) ran first time: OK.
+- Step 27b: 7 ESTIMATE overrides + 5 normalizations + 13 power syncs (VR30/KR20 0W-20 verified).
+  Step 27c: relinked 3 pre-existing Euro-catalog M/Q70 hybrids off plain VQ35HR (fuel-conflict
+  audit catch; pre-dated batch).
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches, 0 fuel conflicts. Engines 8,620;
+  LEMON 3,071 (Dodge 207 next: Buick 205, Subaru 205, Land Rover 194...).
+- Scripts: step27_step5_lemon_batch18_infiniti.py, step27b_estimate_override.py, step27c_fix_hybrids.py.
+  Backup: pre_step27. Decisions: csv_exports/35_lemon_batch18_decisions.csv.
+
+## Step 28 + 28b + 28c — 2026-09-30 (user-plan Step 5, batch 19 = MOPAR GROUP): LEMON replacement, Dodge + Chrysler + Jeep
+
+- Incidents: 11th full workspace rewind caught by baseline guard pre-work (no loss); first apply
+  crashed on a (lc)-not-a-tuple sqlite binding bug AFTER backup but BEFORE commit -> clean rollback
+  (verified LEMON=3,071), fixed, re-applied. IDENTITY assert caught an ESG/EGS dict swap pre-apply
+  (ESG = 6.4 HEMI 6400cc, EGS = 4.0 SOHC 3952cc) and queued 2 junk-cc bypasses (ED8, OM612).
+- Batch 19 (grouped per user directive): 441 rows (Dodge 207 + Chrysler 136 + Jeep 98) -> 382
+  mapped / 59 documented skips. LEMON 3,071 -> 2,689; engines 8,620 -> 8,250.
+- Families: Pentastar 3.6 (n=247 after; NULL power filled=283) + 3.2 KL; full 4-cyl lineage EDZ ->
+  ED3 World GEMA -> ED8 Tigershark (junk NULL row REPAIRED 2360cc/184hp) -> new 2.0 TigerShark
+  (Dart) + 1.4 MultiAir Turbo + 1.8 World; new 1.3 GSE Turbo (Renegade) + 1.3 GSE PHEV (Hornet
+  R/T 288hp, fuel fix -> Hybrid); 2.0 Turbo GME 268 (Hornet GT; row power matched exactly).
+- Jeeps: Wagoneer 5.7 eTorque 392 (new row) / Hurricane SO 420 (VINP, V8s dropped for 2024);
+  Grand Wagoneer 6.4 ESG 471 (VINJ) + new Hurricane H.O. 510/540 (2025); Compass 2023+ = 2.0T
+  200hp (2.4 died after MY2022); Renegade 2021+ US = 1.3T only; Cherokee XJ 2001 = 4.0 I6 AMC.
+- Viper generations: new 8.0 Gen II 450 / new 8.4 Gen V 640/645 rows + 1 pre-existing 2013 Viper
+  relinked off the Gen IV 599hp row; 8.3 SRT 500 (03-06); 8.4 SRT10 600 (08-10).
+- Fleet/legacy: EER 2.7, EGF 3.5 JS 235, EGG 3.5 LH 250, new 3.2 V6 LH 220 (Intrepid), EGX
+  Crossfire 3.2, 3.5 V6 (LX) Challenger SE, EGA/EGH/4.0 OHV minivan (Routan row relabeled 251hp),
+  EGS 4.0 SOHC relabeled (Nitro 260/Pacifica 253; was junk 'ZEBRA Pickup'), EKG 3.7 Dakota,
+  6G72(SOHC24V) reused for minivan 3.0 150hp + Sebring/Stratus coupe 200hp, EZC/EZH Chassis Cab
+  5.7, ETH 5.9 Cummins CR HO 325 (fuel fixes Petrol->Diesel on 4 mislabelled 5900cc rows),
+  OM612DE27LA Sprinter 2.7 I5 (cc junk 2184->2685 fixed; 2003-04 fuel fixes) + M272E35 Sprinter
+  3.5 254, SRT-4 2.4T 215/230 (row power fixed 205), Neon 2.0 SOHC 132 (new), Pacifica PHEV
+  260hp total system (new, Stellantis media).
+- Skips (59): 2-engine ambiguity (T&C/GC 3.3-vs-3.8, Compass/Patriot 2.0-vs-2.4, misc bare
+  sedans, Wagoneer 2023, GC 2022/25) + physical impossibilities (Pacifica 3.8 2008, Ram 5.9
+  2004 mid-year split + 2008-09 out-of-production).
+- Step 28b: 10 EST overrides + 10 normalizations + 22 power syncs. Step 28c line-audit (majority-
+  vote hazard rule) caught 3 contaminations and reverted: EZH 5.7 HEMI (n=177) single-vote 15W-40/
+  11.35 diesel flip -> 5W-20/6.62; M272E35 12.5L Sprinter-vote flip -> 0W-30/8.04; 3.5 V6 (LX)
+  single-vote 0W-40 -> 10W-30/5.67. Hurricane SO 0W-20 x6/6 verified externally (blauparts/AMSOIL
+  - also confirms VIN P = Hurricane SO); Hurricane H.O. spec set 0W-40 MS-A0921. 49 stale NULL
+  variant powers swept on batch targets.
+- Verification: 0 ESTIMATE, 0 orphans, 0 count/power mismatches, 0 fuel conflicts, 0 NULL powers
+  on targets. Engines 8,250; LEMON 2,689 (remaining Mopar = the 59 skips). Next: Buick 205,
+  Subaru 205, Land Rover 194, Porsche 193, Lincoln 192, Volvo 184, Acura 180, GMC 156, Mitsubishi
+  138, Ford 85, Pontiac 85, Genesis 74, Fiat 64, Mercury 63, Saturn 49, Scion 44, Alfa Romeo 43,
+  Isuzu 35, Saab 34, Mini 31, Suzuki 29, Hummer 19, Smart 12, Tesla 10, Daewoo 9.
+- Scripts: step28_step5_lemon_batch19_mopar.py, step28b_estimate_override.py,
+  step28c_fix_vote_contamination.py. Backup: pre_step28. Decisions:
+  csv_exports/36_lemon_batch19_decisions.csv (+DRYRUN).
+
+## Step 29 + 29b + 29c — 2026-10-01 (user-plan Step 5, batch 20): LEMON replacement, Buick
+
+- Incidents: 12th full workspace rewind caught by baseline guard pre-work (no loss). Zero dry-run
+  iterations needed beyond the first (all 205 rows carried cc/VIN markers or sole-engine years).
+- Batch 20: replaced all 205 LEMON_BUICK codes across 16 models MY2000-2025 -> 205/205 mapped,
+  ZERO skips (second fully-cleared brand after Infiniti). LEMON 2,689 -> 2,484; engines 8,250 -> 8,047.
+- Families: 3.6 genealogy LY7 (240-275) -> LLT (280-288) -> LFX (288-304) -> LGX 310 (LaCrosse/
+  Enclave 18+/Regal GS); LF1 3.0 255; OHV fleet L36 (205/195)/L26 (200/197)/LG8/LA1/LX9/LZ9;
+  LL8 4.2 275-291 + LM4/LH6 5.3 290-300 (Rainier); LS4 5.3 300 (LaCrosse Super); LD8 4.6 275
+  (Lucerne); LTG 2.0T 250-259 (n=142 after) + new '2.0 Turbo (Regal 2011-13)' 220 (LNF-family,
+  RPO ambiguous) + LSY 228 (Envision 21+, NULL row filled) + new LWC 1.6T 200 (Cascada);
+  LUV 1.4T 138 (153 LE2 died 2020) / LIH 1.2T / L3T 1.3T (Encore GX + Envista); LAF/LEA/LCV/LUK
+  2.4-2.5 family.
+- eAssist policy (DB convention): mild hybrids on shared petrol rows keep Petrol -> 3 LEMON Hybrid
+  rows fuel-fixed (LUK LaCrosse/Regal) + step29c fixed 2 pre-existing Malibu BAS-hybrid rows on LE5.
+- Row-fixes: L26/LUK/LSY/LE2/LCV/LZ9/LX9/LD8/LL8/LM4/LH6/LF1/LEA labels+powers (incl. 2 NULL-junk
+  fills). Web-verified: Lucerne 197/227/275; Rendezvous 3.5-only 2007; Terraza 3.9-std 2007;
+  Rainier 2006 bumps; Regal 220/270->259->250 + GS 310; Enclave sole-3.6 by year; Encore 138-only
+  2020+; LSY 0W-20/5.3qt (AMSOIL).
+- Step 29b: 2 EST overrides + 6 normalizations + 11 power syncs; vote line-audit clean (no
+  contamination). 4 pre-existing LE2 NULL powers swept. ESTIMATE left on 4 Chinese-market codes.
+- Verification: 0 ESTIMATE/orphans/count-mismatches/fuel-conflicts/NULL-powers among targets.
+  Engines 8,047; LEMON 2,484. Next: Subaru 205, Land Rover 194, Porsche 193, Lincoln 192, Volvo
+  184, Acura 180, GMC 156, Mitsubishi 138, Ford 85, Pontiac 85, Genesis 74, Fiat 64, Mercury 63,
+  Saturn 49, Scion 44, Alfa Romeo 43, Isuzu 35, Saab 34, Mini 31, Suzuki 29, Hummer 19, Smart 12,
+  Tesla 10, Daewoo 9.
+- Scripts: step29_step5_lemon_batch20_buick.py, step29b_estimate_override.py,
+  step29c_fix_preexisting.py. Backup: pre_step29. Decisions:
+  csv_exports/37_lemon_batch20_decisions.csv (+DRYRUN).
+
+## Step 30 + 30b + 30c — 2026-10-01 (user-plan Step 5, batch 21): LEMON replacement, Subaru
+
+- Incidents: 13th full workspace rewind caught by baseline guard pre-work (no loss).
+- Batch 21: 205 LEMON_SUBARU rows, 13 models MY2005-2025 -> 199 mapped / 6 documented skips
+  (Baja 05-06, Legacy 05-07 bare 2.5-ambiguity, Impreza 2500CC 2005 RS-vs-STI).
+  LEMON 2,484 -> 2,285; engines 8,047 -> 7,852.
+- Key disambiguations: bare 'Impreza' = non-WRX (EJ253 2.5i / FB20B 2.0 by era) while
+  IMPREZA_2500CC 2012-13 = Impreza WRX EJ255 265 (Edmunds) and IMPREZA_2000CC 2005 = WRX EJ205 227;
+  WRX-vs-STI split via 2015 slugs (STI=EJ257 305) and 2019-21 displacement (2500CC=STI 310);
+  Forester 2000CC 2014-18 = 2.0XT FA20F 250 (turbo axed 2018, torquenews).
+- Families: EJ253 (n=34 after) / EJ255 / EJ257 / EJ205; EZ30D 245 + EZ36D 256 (US relabels from
+  Euro 241/258); FB20B 148-152 / FB25 relabeled FB25B 173-175 / new FB25D 2.5 DI 182 (Forester 19+,
+  Legacy+Outback 20+, Crosstrek Sport, Impreza RS); FA20 200 (BRZ) / FA24 228 (BRZ 22+) + new
+  FA20F (WRX 268 / Forester XT 250) and FA24F (Ascent+XT 260 / WRX 22+ 271) per Wikipedia FA page;
+  new XV Crosstrek Hybrid 160 (mild), Crosstrek Hybrid PHEV 148, Solterra BEV 215 (3 rows fuel-fix
+  Petrol -> Electric).
+- Step 30b: 8 EST overrides + 11 power syncs; vote audit clean (EJ=5W-30, FB=0W-20, all strong
+  majorities). Step 30c: consolidated NULL-junk FB25BA/FB25BC (Forester 14-17) into relabeled FB25
+  (8 variants relinked, 170hp fill); deleted all-NULL Solterra spec/tech rows (BEV, i3 precedent).
+- Verification: 0 ESTIMATE/orphans/count-mismatches/fuel-conflicts/NULL-powers among targets.
+  Engines 7,852; LEMON 2,285. Next: Land Rover 194, Porsche 193, Lincoln 192, Volvo 184, Acura
+  180, GMC 156, Mitsubishi 138, Ford 85, Pontiac 85, Genesis 74, Fiat 64, Mercury 63, Saturn 49,
+  Scion 44, Alfa Romeo 43, Isuzu 35, Saab 34, Mini 31, Suzuki 29, Hummer 19, Smart 12, Tesla 10,
+  Daewoo 9.
+- Scripts: step30_step5_lemon_batch21_subaru.py, step30b_estimate_override.py,
+  step30c_fix_preexisting.py. Backup: pre_step30. Decisions:
+  csv_exports/38_lemon_batch21_decisions.csv (+DRYRUN).
