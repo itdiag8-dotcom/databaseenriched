@@ -1,3 +1,9 @@
+## 2026-10-01 - Step 5 Batch 45: Jaguar + Land Rover (step54/54b/54c)
+- 27/27 rows mapped, 0 skips, 0 new engines. One batch because JLR is one engine catalogue by this period, and because both brands' rows arrive with the same problem: the crawl truncated "Range Rover Sport/Velar/Evoque" to "RANGE".
+- With the nameplates gone the fill decided everything, and three targets' service specs already in this DB match the crawl to the decilitre: 204PT 7.0 L 0W-20 (RANGE 2022-2025 -> 2.0 Ingenium P250 246hp), AJ126 8.04 L (RANGE 3000CC 2014-2019 -> 3.0 V6 SC 340hp), AJ30 6.52 L (S-Type/X-Type -> 3.0 AJ-V6).
+- RANGE 3000CC 2020-2025 steps up to 8.8 then 9.46 L, tracking the Ingenium straight six replacing the V6 -> AJ300P P400 395hp. RANGE 2000 at 5.82 L of 5W-40 is the P38's Rover OHV V8, 222hp.
+- 2 ROW_FIXES (Rover V8 and AJ30 descriptors). 54b: 3 normalizations. 54c reverts 54b's AJ126 change (7.99 L/5W-20 back to the curated 8.04 L/0W-20, which the rest of the Jaguar fleet relies on).
+- DB: LEMON 118->91; engines 5,772->5,745; 0 orphans/count mismatches/fuel conflicts.
 ## 2026-10-01 - Step 5 Batch 44: Hummer + Cadillac + GMC + Pontiac (step53/53b)
 - 28/28 rows mapped, 0 skips, and 0 new engines needed - the last four GM brands share a catalogue the earlier GM batches had already completed.
 - Hummer H2 -> LQ4 6.0 (325hp) then L92 6.2 (393hp) from 2008; H3/H3T -> L52 3.5 I5, LLR 3.7 I5 and LH8 5.3 V8 by displacement token; Escalade 2002-2006 -> LQ4 345hp; CTS 6200CC 2015 -> LSA 556hp; STS 2011 -> LLT 302hp.
