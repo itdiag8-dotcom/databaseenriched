@@ -1,3 +1,9 @@
+## 2026-10-01 - Step 5 Batch 35: Alfa Romeo (step44/44b)
+- 43/43 rows mapped, 0 skips. Four nameplates, four powertrains: 4C 1750 TBi 237hp (incl. 3 MY2015 trim-slug rows), Giulia/Stelvio 2.0 GME-T4 280hp, Quadrifoglio 2.9 V6 twin-turbo (690T) 505hp, Tonale Q4 PHEV 285hp.
+- 1 new engine (690T 2.9 V6 TT). 3 ROW_FIXES incl. 960A1.000, which carried the junk parts-catalogue descriptor "Rear side-section" and is now the 4C's 1750 TBi.
+- All three Tonale rows were recorded as Petrol; every US Tonale is a plug-in hybrid, so they were relinked to the 1.3 GSE PHEV row with fuel corrected to Hybrid.
+- 44b: 1 ESTIMATE override, 1 normalization, 2 power syncs.
+- DB: LEMON 476->433; engines 6,117->6,075; Alfa fuel conflicts 0; Alfa NULL-power variants 43->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 34: Scion (step43/43b)
 - 44/44 rows mapped, 0 skips, no volume defaults needed: Scion had no engines of its own and each nameplate ran a single engine per generation (xA/xB-I 1NZ-FE 103, xB-II 2AZ-FE 158, xD 2ZR-FE 128, tC 2AZ-FE 161 then 2AR-FE 179, iQ 1NR-FE 94, iM 2ZR-FAE 137).
 - Non-Toyota engines identified: FR-S = Subaru FA20 flat-four (Toyota 4U-GSE) 200hp; iA = Mazda2 sedan with the 1.5 Skyactiv-G 106hp (1 new engine row).
