@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 5 Batch 32: Genesis (step41/41b)
+- 74/74 rows mapped, 0 skips. Four Hyundai families cover the whole brand: Theta II FR 2.0T, Lambda II 3.8/3.3T, Tau 5.0 V8, Smartstream 2.5T/3.5T.
+- Key identification: the G70/G80 DH/Stinger 2.0T is the longitudinal G4KL (252hp), not the transverse Sonata G4KH; Smartstream codes confirmed as G4KR (2.5T 300hp) and G6DT (3.5T 375hp).
+- Six BEV rows (GV60 x3, "Electrified" x3) were recorded as Petrol in the crawl; both got E-GMP dual-motor rows and their variant fuel corrected to Electric. The truncated "Electrified" nameplate (G80 365hp vs GV70 429hp) is mapped to the shared powertrain row with the ambiguity documented.
+- 5 new engines (G4KL, G4KR, G6DT, GV60 Electric, E-GMP Dual Motor); 2 ROW_FIXES (G6DJ was an 8-cylinder 335hp row, corrected to the 3.8 V6 Lambda II at 311hp).
+- 41b: 3 normalizations, 2 kept, 6 power syncs; crawl oil capacities matched the published Genesis figures, so no correction script was needed this batch.
+- DB: LEMON 658->584; engines 6,290->6,221; Genesis fuel conflicts 0; Genesis NULL-power variants 74->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 31: BMW (step40/40b/40c/40d)
 - Hardest row shape so far: 80 of 83 codes are nameplate + year only (no displacement, no VIN, no trim). Decoded by nameplate generation + US volume engine; 83/83 mapped, 0 skips.
 - Truncated names resolved: "M" = M roadster/M coupe (S52 240hp MY2000, S54 315hp 2001-02, Z4 M 330hp 2006-08); "ACTIVEHYBRID" = ActiveHybrid 3/5, N55 300hp + 55hp motor = 335hp combined (BMW US press kits).
