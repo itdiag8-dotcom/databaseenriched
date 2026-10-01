@@ -5,6 +5,29 @@
 - 16 further cylinder counts contradicted an explicit layout token in their own descriptor (EZ36D "3.6 H6" stored as 8, N74B66A "6.6 V12" stored as 8, the Cummins sixes stored as 8). D4FD-L was deliberately excluded - there the descriptor is the wrong half, reading "3.0 -24 V6" on a 1685cc Hyundai 1.7 diesel.
 - Step 11b cleared 4-cylinder counts off 12 pure-electric rows (hybrids keep theirs - they have a real engine). The 13th, A14XFL, was not electric at all: it is the Opel Ampera's 1.4 petrol range extender, i.e. the European Volt, which this DB already models correctly as Voltec 1.4 EREV. It is now Hybrid 1398cc/4cyl with its junk descriptors ("216 1.6i", "FEITENG Closed Off-Road Vehicle") replaced.
 - DB: 5,670 engines, 37,444 variants, 0 fuel conflicts / 0 orphans / 0 count mismatches, 0 implausible cylinder-displacement combinations.
+## Step 12 — Engine descriptor cleanup (2026-10-01)
+
+- **`(est.)`/`(corr.)` markers removed from 879 descriptors** (540 engine + 506 variant rows had
+  them). They are provenance notes living in a human-readable field, and they contradicted the
+  column that actually records provenance: 281 `(corr.)` rows were `TRUSTED_AFTERMARKET` and 4
+  were `OEM_VERIFIED`. `data_confidence` is now the single source of truth; it was not modified.
+- **254 engine descriptors that described no engine were rebuilt** as `"5.5 L Petrol"` from each
+  row's own displacement and fuel — they held other manufacturers' model names (`GAZELLE` on nine
+  Mercedes rows, `HHR`, `NEDCAR`), workshop operations (`Make centre right seat functional`) and
+  stray catalogue fragments (`Water tap`). 1,026 variants inherited their engine row's descriptor.
+- **No cylinder count or layout letter in the rebuilt text, on purpose.** 78 of the 254 rows carry
+  an implausible cylinder count (`1AR-FE`, a Toyota 2.7 four, says 6; `BARRA245T`, a straight-six,
+  says 8) — the junk text and the junk numbers came from the same import. The 32 strongest
+  suspects are exported to `csv_exports/74_suspect_cylinders_worklist.csv` instead of being
+  written into prose.
+- **Brand-verified badges are preserved** (33 engine + 52 variant rows): `2.5 L Petrol (T5)` on a
+  Volvo, `5.4 L Petrol (55 AMG)` on a Mercedes, while `HHR` on a Mercedes is dropped.
+- **53 engine rows had a NULL descriptor** (not empty — which is why the first pass skipped them),
+  including `ESA` 6.4 HEMI with 29 variants and the `ETL`/`ETM` Cummins pair; all were filled.
+- 2,705 column updates, no rows created or deleted. 0 fuel conflicts, 0 orphan refs, 0 count
+  mismatches. Scripts `step65_step12_descriptors.py` + `step65b_descriptor_leftovers.py`,
+  report `STEP12_DESCRIPTORS_REPORT.md`.
+
 ## 2026-10-01 - Step 10: 1,738 duplicate variant rows removed (step63)
 - vehicle_variants 39,182 -> 37,444. 1,332 groups of byte-identical rows (worst: eleven identical Toyota Prius 2015 / 2ZR-FXE rows) collapsed to one row each.
 - Where they came from: the LEMON campaign made them. F21's near-duplicate rows differed only in power or engine_type text, and relinking them onto shared engine codes erased the difference. Step 9 produced the very last one - completing the kW column made a final pair match, which is why this script's baseline assert fired and had to move from 1,738 to 1,739.

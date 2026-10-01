@@ -146,6 +146,7 @@ e.g., Hyundai Grandeur petrol variant joined to diesel engine `G6DG`; VW Golf VI
 | F25 | ~~Repo bloat: nested duplicate snapshot `database_enriched/database_enriched/` (older DB, 38,921 variants/17,590 engines), 3 zip archives (~30 MB), `.git` ≈ 42 MB.~~ **Partly resolved 2026-10-01:** the nested duplicate (171 MB, 27 files, all stale copies) and the 60 tracked DB backups (1.5 GB) are no longer versioned; its one unique file was kept as `csv_exports/07_missing_engine_codes_2026-09-26_baseline.csv`. The 3 zips and the history blobs remain. |
 | F26 | `backups/car_database_backup_2026-09-26.db` is **byte-identical** to the live DB — only one restore point. |
 | F27 | `ecu_maker='Unknown'` for 1,161 engines (better as NULL). |
+| F29 | ~~`engine_type` descriptors polluted with `(est.)`/`(corr.)` provenance markers (540+506 rows) and with non-engine catalogue text (254 engine + 1,045 variant rows: other brands' model names, workshop operations, stray fragments).~~ **Resolved 2026-10-01 (Step 12).** Markers stripped (provenance lives in `data_confidence`); junk rebuilt from displacement + fuel. 3 engine rows + 19 variants documented as unfixable (no displacement recorded). Spin-off finding: 78 of those rows also carry an implausible cylinder count → `csv_exports/74_suspect_cylinders_worklist.csv`. |
 | F28 | No `CHECK` constraints or `COLLATE NOCASE` unique indexes; FKs declared but not enforced by default (`PRAGMA foreign_keys` is off per-connection in SQLite). |
 
 ---
