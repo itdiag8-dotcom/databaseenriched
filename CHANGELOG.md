@@ -1,3 +1,8 @@
+## 2026-10-01 — Step 5 Batch 28: Mitsubishi (step37/37b/37c)
+- Replaced 138/138 LEMON Mitsubishi rows, zero skips. Decode = nameplate generation + displacement (Eclipse 4G64/6G72 -> 4G69/6G75 263-265; 2018+ "Eclipse" rows = Eclipse Cross 4B40; Lancer 4G94->4B11 152/148 + 4B12; Outlander 4B12 168/166 + 6B31 220/224, 2000CC rows = Outlander Sport 148, 2021+ = PR25DD 181; Mirage 3A92 74/78; Raider = Dakota EKG/EVA).
+- 1 new engine (4B40 1.5T Eclipse Cross 152hp); 4 i-MiEV rows fuel Petrol->Electric; 11 ROW_FIXES incl. 4G69 cylinders 6->4 (brand_example was BYD), 4B12 6->4, 3A92 4->3, Y4F1 "CITYROVER" -> i-MiEV traction motor 66hp.
+- 37b: 9 ESTIMATE overrides, 3 normalized, 2 power syncs. 37c: EVA oil capacity restored to 5.67L (4.7 V8, not the 3.7's 4.73L); deleted heuristic engine-oil specs from 16 battery-electric engine rows.
+- DB: LEMON 1,160->1,022; engines 6,782->6,645; 0 orphans/count mismatches/Mitsubishi fuel conflicts.
 ## 2026-10-01 — Step 5 Batch 27: GMC + Chevrolet (step36/36b/36c/36d)
 - First merged engine-family batch (GMC and Chevrolet share one GM RPO catalogue). Replaced 208/209 LEMON rows; 1 documented skip (Sierra 6000CC VIN J 2012 - L96 vs LC8 unresolvable). Decode = RPO via displacement + VIN 8th digit + model year (Terrain K/5/3/V/X/U; Acadia LY7->LLT->LFX->LGX/LCV/LSY->LK0; Envoy LL8 270/275/291 + LM4->LH6; full-size L83/L82/L84).
 - 5 new engines (L65 6.5 Detroit Diesel, LAP, LKW, LK0, Ultium e4WD Hummer EV 1000hp Electric); 16 fuel fixes in-batch (L65 x10 Diesel, Hummer EV x4 Electric, LH7 x2 Diesel); 12 ROW_FIXES incl. LU3/LL8/LFX cylinders 8->6.
