@@ -1,3 +1,9 @@
+## 2026-10-01 - Step 5 Batch 34: Scion (step43/43b)
+- 44/44 rows mapped, 0 skips, no volume defaults needed: Scion had no engines of its own and each nameplate ran a single engine per generation (xA/xB-I 1NZ-FE 103, xB-II 2AZ-FE 158, xD 2ZR-FE 128, tC 2AZ-FE 161 then 2AR-FE 179, iQ 1NR-FE 94, iM 2ZR-FAE 137).
+- Non-Toyota engines identified: FR-S = Subaru FA20 flat-four (Toyota 4U-GSE) 200hp; iA = Mazda2 sedan with the 1.5 Skyactiv-G 106hp (1 new engine row).
+- 4 ROW_FIXES: FA20 and 2AR-FE were recorded as 6-cylinder; 2ZR-FAE and 1NR-FE given family descriptors.
+- 43b: 2 ESTIMATE overrides, 1 normalization, 1 power sync - no correction script needed.
+- DB: LEMON 520->476; engines 6,160->6,117; Scion fuel conflicts 0; Scion NULL-power variants 44->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 33: Fiat (step42/42b)
 - 64/64 rows mapped, 0 skips. First batch decoded largely from the crawl's VIN engine digit: Fiat position-8 table gives R = 1.4 MultiAir NA (101hp, EAB), H = 1.4 MultiAir Turbo (EAF/EAM, 135-160hp), E = 83 kW electric.
 - 21 MY2015 trim-slug rows handled by the trim table (Abarth 160/157, Turbo 135, Pop-Sport-Lounge 101, every 500L trim 160).
