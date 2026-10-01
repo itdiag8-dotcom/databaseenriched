@@ -1,3 +1,29 @@
+## 2026-10-01 - Step 13: ECU enrichment from the MagicMotorsport Flex list (step66/66b)
+
+- Imported the user-supplied `vehicles-list (3).csv` (15,948 rows) from the MagicMotorsport Flex
+  vehicle list, a tuning-tool compatibility catalogue that names the physical ECU per vehicle.
+- **Variants with a real ECU: 22,042 -> 25,779.** NULL `ecu_model` 11,686 -> 8,686, `Unknown`
+  maker 3,716 -> 2,979. Engine rows with a real ECU 4,011 -> 4,235. 7,585 column updates.
+- **The source lists gearbox controllers too** - 2,591 TCM, 143 OTHER, 57 ACM rows, with ZF and
+  GETRAG among the "makers". All 2,791 non-ECM rows were held back; only ECM rows may write an
+  engine ECU field.
+- **A disagreement is usually not a correction.** Of 4,457 differences: 2,973 genuinely different
+  (2,568 applied), 589 where the source is more specific (applied, e.g. `8GMF` -> `8GMF MPC5565`),
+  514 where OURS is more specific (kept - `MED9.1.5` -> `MED9.1` would lose the subversion), 280
+  identical apart from whitespace (`Simos PCR 2.1`), and 101 that are the same ECU under a
+  different maker name (`Siemens` vs `Continental` on `SID208`).
+- **Overwrites require an engine-code match**; a brand+model+power match may fill a blank but not
+  overturn a stored value (419 rows kept ours). 7,184 ambiguous variants left untouched.
+- **Aston Martin DB9/V12 Vantage 2013 corrected** from `Ford/EEC-VI` to `Bosch/ME17.8.31` - our
+  own 2013 Vanquish and V12 Vantage S rows, same V12, already said Bosch.
+- **Only 4 of 89 blank `engine_code` values were filled**: a code is written only when the match
+  is unanimous and the code already exists in `engines`, since inventing one creates an orphan.
+- **36 Step-12 placeholder descriptors upgraded** (`2.7 L Petrol` -> `2.7L VVTi Petrol`). Rejected:
+  7 that only repeated the displacement, 2 contradicting our displacement, and petrol/diesel
+  technology mismatches such as `CYRB`, a 2,198 cc diesel the source calls `2.0L TFSI`.
+- 0 fuel conflicts / 0 orphan refs / 0 count mismatches; engines 5,670 and variants 37,444
+  unchanged. Report `STEP13_MAGICMOTORSPORT_ECU_REPORT.md`.
+
 ## 2026-10-01 - Step 12: engine descriptor cleanup (step65/65b)
 
 - **`(est.)`/`(corr.)` markers removed from 879 descriptors** (540 engine + 506 variant rows had
