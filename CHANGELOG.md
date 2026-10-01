@@ -1,3 +1,8 @@
+## 2026-10-01 - Step 5 Batch 37: Isuzu (step46/46b) - completes the batch 26-37 run
+- 35/35 rows mapped, 0 skips. Isuzu's own cars decoded from displacement tokens (X22SE 2.2 130hp, 6VD1 3.2 205hp, 6VE1 3.5 at 215/230/250hp by model); the GM rebadges decoded from nameplate + crawl oil fill (Hombre LN2, Ascender LL8 275/291 and Vortec 5300 LM4 290 for 2004 vs LH6 300 for 2005-06, i-280 LK5, i-290 LLV, i-350 L52, i-370 LLR).
+- 2 new engines (X22SE, 6VD1). 6 ROW_FIXES: the GM Atlas rows had wrong cylinder counts - LLV is a 2.9 I4 (was 6), LLR and L52 are I5s (were 8 and 6).
+- 46b: 1 ESTIMATE override, 3 normalizations (10W-30 kept for the 2000-2003 Isuzu engines, which is the period-correct spec), 5 power syncs.
+- DB: LEMON 402->367; engines 6,047->6,014; Isuzu fuel conflicts 0; Isuzu NULL-power variants 35->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 36: Audi (step45/45b/45c)
 - 31/39 rows mapped, 8 documented skips. New decode signal: the per-row oil fill recorded by the crawl separates Audi's families (longitudinal 2.0 TFSI 4.6-4.7 L, transverse MQB 2.0 TFSI 5.7 L, 3.2 FSI 6.2-6.5 L, supercharged 3.0 TFSI 6.8 L, EA839 3.0 V6 7.6 L, V8s 8.7-9.65 L), which is what identifies A6 2020-2025 as the 55 TFSI V6 and RS 2013-2014 as the RS 5 4.2 FSI V8.
 - 2 new engines (MQB 2.0 TFSI 220hp; EA839 3.0 V6 TFSI 335hp). 9 ROW_FIXES, incl. CYMC which had NULL type/power/cylinders and is now the B9 2.0 TFSI 252hp.
