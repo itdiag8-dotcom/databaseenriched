@@ -1,3 +1,8 @@
+## 2026-10-01 - Step 9: kilowatt column completed (step62)
+- Filled engine_power_kw on 12,869 variants and power_kw on 446 engine rows. Both columns are now complete wherever horsepower exists.
+- The conversion factor was read off the database itself: the kW/hp ratio of the 26,268 already-populated variants clusters on 0.735-0.736, i.e. metric PS, so 0.7355 was used rather than the SAE factor.
+- Existing values were not overwritten. The 59 rows whose stored kW disagrees with their own hp by >3% are exported to csv_exports/70_kw_outliers_step62.csv instead - they split into microcar rounding noise, SAE-vs-PS mixing (Z20LET 192hp stored as 147kW = 200 PS), and engine-vs-system power on the DW10 HYbrid4 rows.
+- DB unchanged structurally: 39,182 variants, 5,670 engines, 0 conflicts / 0 orphans / 0 count mismatches.
 ## 2026-10-01 - Step 8: blank engine rows filled, power backfill finished (step61)
 - NULL-power variants 535 -> 45; engine rows with no power 85 -> 14. 312 variants filled, 71 engine rows given a figure, 30 variants left blank on purpose.
 - The unlock: most blank rows are truncated duplicates. N52, N63, M54, S63, N20, M57 are family stems, and the DB already holds the fully specified member rows. Where the variant names its car (BMW 550i, Ram 2500), the answer was already in the table - N63 -> 407 via N63B44 ("750i/550i 407hp"), N62 -> 355 via the row literally called "X5 48is", S63 -> 552 via S63B44B ("M5 4400 V8").
