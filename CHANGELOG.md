@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 5 Batch 31: BMW (step40/40b/40c/40d)
+- Hardest row shape so far: 80 of 83 codes are nameplate + year only (no displacement, no VIN, no trim). Decoded by nameplate generation + US volume engine; 83/83 mapped, 0 skips.
+- Truncated names resolved: "M" = M roadster/M coupe (S52 240hp MY2000, S54 315hp 2001-02, Z4 M 330hp 2006-08); "ACTIVEHYBRID" = ActiveHybrid 3/5, N55 300hp + 55hp motor = 335hp combined (BMW US press kits).
+- 2 new engines: N55B30 (ActiveHybrid) and N63B44 (ActiveHybrid). 10 ROW_FIXES (N55B30A/N52B30A cylinder counts 4->6, family descriptors).
+- 40b: 5 ESTIMATE overrides, 8 normalized, 1 power sync. 40c: restored six BMW service fills the crawl majority had broken (N55 6.5L, B58 6.5L, B48 5.25L, S54 5.48L, M54 6.5L, N63TU 8.99L).
+- 40d: cleared all 38 BMW fuel contradictions - V8 ActiveHybrid 7/X6 rows moved off the petrol N63 rows, N63B44A corrected from Hybrid to Petrol, i3 REx rows moved to the W20K06A range extender, N57D30T/B3815KT0 variant fuels fixed.
+- DB: LEMON 741->658; engines 6,371->6,290; BMW fuel conflicts 38->0 (DB-wide 181->141); BMW NULL-power variants 83->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 30: Pontiac + Saturn (step39/39b/39c)
 - Merged GM badge-division batch (G6=Aura, G5=ION, Solstice=Sky, Torrent=Vue, Montana SV6=Relay, G3/Wave=Aveo, Astra=Opel, Vibe=Matrix). 133/134 rows mapped, 1 documented skip.
 - Epsilon ratings decoded year by year (2.4 169->164, 3.5 200->224->219, 3.9 240->227->222, 3.6 252).
