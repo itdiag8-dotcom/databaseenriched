@@ -1,3 +1,11 @@
+## 2026-10-01 - Step 5 Batch 30: Pontiac + Saturn (step39/39b/39c)
+- Merged GM badge-division batch (G6=Aura, G5=ION, Solstice=Sky, Torrent=Vue, Montana SV6=Relay, G3/Wave=Aveo, Astra=Opel, Vibe=Matrix). 133/134 rows mapped, 1 documented skip.
+- Epsilon ratings decoded year by year (2.4 169->164, 3.5 200->224->219, 3.9 240->227->222, 3.6 252).
+- Findings: Saturn Vue 3.5 V6 2005-07 = Honda J35S1/J35A3 sold by GM as L66 250hp (new row); VUE_2400CC_2007 is the Green Line BAS mild hybrid (new LAT row, fuel -> Hybrid), the first-gen Vue never had a petrol 2.4.
+- 3 new engines (L66, L81, LAT); 10 ROW_FIXES (cylinder counts on L61/LE5/LNF/L91/1ZZ-FE/2AZ-FE, LZ4 power 211->219, conflation notes on L36 and L61).
+- 39b: 3 ESTIMATE overrides, 6 normalized, 4 power syncs. 39c: reverted two bad crawl-majority oil capacities (LA1 -> 4.25L, L76 -> 5.67L).
+- Skip: LEMON_PONTIAC_GRAND_2005 - bare "Grand" 2005 is Grand Prix or Grand Am, no displacement to disambiguate.
+- DB: LEMON 874->741; engines 6,501->6,371; Pontiac/Saturn fuel conflicts 0; 0 orphans/count mismatches.
 ## 2026-10-01 — Step 5 Batch 29: Ford + Mercury (step38/38b/38c)
 - Merged Ford-family batch (every Mercury is a Ford twin). Replaced 148/148 LEMON rows, zero skips. Decode = nameplate generation + displacement (Triton 4.6/5.4/6.8 chassis rows, Vulcan->Cyclone Taurus/Sable, Duratec 2.3/2.5/3.0 Escape-Mariner + Fusion-Milan, 4.0/4.6-3V/5.0 Explorer-Mountaineer, Mustang 3.8->2.3EB + 5.2 Voodoo, Transit Connect vs Transit).
 - Police/fleet rows identified: "Special" 2014-18 = Taurus Special Service Sedan 2.0 EcoBoost 240hp; "SSV" 2019-20 = SSV Plug-In Hybrid Sedan (Fusion Energi) 2.0 Atkinson PHEV 188hp.
