@@ -1,3 +1,9 @@
+## 2026-10-01 - Step 5 Batch 36: Audi (step45/45b/45c)
+- 31/39 rows mapped, 8 documented skips. New decode signal: the per-row oil fill recorded by the crawl separates Audi's families (longitudinal 2.0 TFSI 4.6-4.7 L, transverse MQB 2.0 TFSI 5.7 L, 3.2 FSI 6.2-6.5 L, supercharged 3.0 TFSI 6.8 L, EA839 3.0 V6 7.6 L, V8s 8.7-9.65 L), which is what identifies A6 2020-2025 as the 55 TFSI V6 and RS 2013-2014 as the RS 5 4.2 FSI V8.
+- 2 new engines (MQB 2.0 TFSI 220hp; EA839 3.0 V6 TFSI 335hp). 9 ROW_FIXES, incl. CYMC which had NULL type/power/cylinders and is now the B9 2.0 TFSI 252hp.
+- Skips: the 8 bare "RS" rows for 2018-2025 - Audi sold 2-6 different RS models per year from MY2018 (2.5 I5, 2.9 V6 TT, 4.0 V8 TT, electric) and these rows carry no displacement, VIN or source URL. The 2016-2017 RS rows were resolved because their tech_source URL names "RS 7 Base".
+- 45c: Q5 2013/2016 variants flagged Hybrid while linked to the petrol CNCD were given their own Q5 hybrid quattro engine row (2.0 TFSI + 40 kW, 245hp) instead of having their fuel flattened.
+- DB: LEMON 433->402; engines 6,075->6,047; fuel conflicts on batch targets 2->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 35: Alfa Romeo (step44/44b)
 - 43/43 rows mapped, 0 skips. Four nameplates, four powertrains: 4C 1750 TBi 237hp (incl. 3 MY2015 trim-slug rows), Giulia/Stelvio 2.0 GME-T4 280hp, Quadrifoglio 2.9 V6 twin-turbo (690T) 505hp, Tonale Q4 PHEV 285hp.
 - 1 new engine (690T 2.9 V6 TT). 3 ROW_FIXES incl. 960A1.000, which carried the junk parts-catalogue descriptor "Rear side-section" and is now the 4C's 1750 TBi.
