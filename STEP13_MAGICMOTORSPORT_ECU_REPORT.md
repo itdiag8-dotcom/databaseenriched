@@ -107,3 +107,57 @@ specific were left alone. Three filters stopped bad upgrades:
   outside a European tuning tool's coverage.
 - 450 engine rows ambiguous, 3,983 with no match.
 - The Siemens/Continental vocabulary decision.
+
+---
+
+# Step 13c — fetching from the API directly, and what it proved
+
+**Script:** `step66c_ambiguous_makers.py` · **CSV:** `csv_exports/79_ambiguous_makers_step66c.csv`
+**Backup:** `backups/car_database_backup_pre_step66c_2026-10-01.db`
+
+## The hypothesis was wrong, and the API disproved it
+
+Step 13 left 7,184 variants untouched because their engine code maps to more than one ECU. I
+recommended re-exporting with the `produced_from_year` / `produced_to_year` columns the CSV export
+omits, expecting the years to separate the candidates. They do not.
+
+The API paginates on `page` + `per_page` and ignores every filter parameter, so the rows were
+located by binary search on the alphabetical brand ordering — `Audi` at id 1000, `CASE Tractors`
+(a tractor; non-car rows are interleaved) at 3600, Chevrolet `Trax` at 4030, `Citroen` at 4100 —
+which put Chrysler in a 70-row window. Fetching it returned the decisive rows:
+
+| id | model | code | ps | years | ECU |
+|---|---|---|---|---|---|
+| 4058 | Chrysler 300 (II) | EZH | 368 | **2011–2023** | Continental **GPEC2** |
+| 4059 | Chrysler 300 (II) | EZH | 368 | **2011–2023** | Continental **GPEC2A** |
+| 4060 | Chrysler 300 (II) | EZH | 368 | **2011–2023** | Continental **GPEC2A** |
+| 4056 | Chrysler 300 (II) | ERB | 304 | 2011–2023 | Continental GPEC2 |
+| 4057 | Chrysler 300 (II) | ERB | 304 | 2011–2023 | Continental GPEC2A |
+
+Identical model, version, power, fuel **and year range** — differing only in the ECU. The
+ambiguity is not missing metadata. One vehicle shipped with more than one ECU hardware revision,
+and a tuning-tool list documents every one the tool can talk to. No extra source data collapses
+these into a single answer, so the year re-export I asked for would not have helped.
+
+## What was recoverable instead
+
+In **5,091 of the 7,184** ambiguous cases every candidate shares one maker — Delco `E37`/`E38`,
+Bosch `MED17.5`/`MED17.1`, Continental `GPEC2`/`GPEC2A`. Which revision a given car got is
+unknowable from this source; who built it is not in doubt.
+
+**1,372 variants gained `ecu_maker`, with `ecu_model` deliberately left NULL.** A half-known fact
+recorded honestly is worth more than a guess or a blank, and the candidate models are listed per
+row in the CSV. The remaining rows split as: 3,365 already had the correct maker (independent
+corroboration), 354 hold a different maker and keep ours, 1,390 have candidates from genuinely
+different makers, and 703 codes are absent from the source.
+
+## Coverage after 13 + 13b + 13c
+
+| | count |
+|---|---|
+| variants with a real ECU maker | **27,151** / 37,444 |
+| variants with a real ECU model | **25,770** |
+| maker known, model genuinely ambiguous | **1,381** |
+| no ECU information at all | 10,293 |
+
+0 fuel conflicts, 0 orphan references, 0 `count_variants` mismatches.

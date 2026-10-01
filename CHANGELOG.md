@@ -1,3 +1,20 @@
+## 2026-10-01 - Step 13c: the ambiguous ECUs are not year-separable (step66c)
+
+- Fetched the disputed rows straight from the MagicMotorsport API to test whether the year columns
+  missing from the CSV export would resolve Step 13's 7,184 ambiguous variants. **They do not.**
+  The three Chrysler 300 `EZH` rows (API ids 4058-4060) are identical in model, version, power,
+  fuel AND year range (2011-2023) and differ only in ECU: Continental `GPEC2` vs `GPEC2A`.
+- The ambiguity is real, not a gap in the data: one vehicle shipped with several ECU hardware
+  revisions, and a tuning-tool list documents each one the tool supports.
+- The API ignores every filter parameter, so rows were located by binary search on the brand
+  ordering (Audi at id 1000, a CASE tractor at 3600 - non-car rows are interleaved - Chevrolet
+  Trax at 4030, Citroen at 4100), narrowing Chrysler to a 70-row window.
+- **1,372 variants gained `ecu_maker` with `ecu_model` left NULL**: in 5,091 of the ambiguous
+  cases every candidate shares one maker (Delco E37/E38, Bosch MED17.5/MED17.1), so the
+  manufacturer is certain even though the revision is not. 3,365 already had the right maker.
+- Variants with a real ECU maker 25,779 -> 27,151. 0 fuel conflicts / 0 orphan refs / 0 count
+  mismatches.
+
 ## 2026-10-01 - Step 13: ECU enrichment from the MagicMotorsport Flex list (step66/66b)
 
 - Imported the user-supplied `vehicles-list (3).csv` (15,948 rows) from the MagicMotorsport Flex

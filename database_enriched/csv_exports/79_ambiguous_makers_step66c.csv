@@ -1,0 +1,1373 @@
+id,brand,model,engine_code,new_maker,ecu_model,candidates
+9520,Peugeot,508,EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+9521,Peugeot,508 SW,EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+9569,Cadillac,Cts,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+9575,Cadillac,CTS Sport Wagon,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+9728,Jeep,"GRAND CHEROKEE IV (WK, WK2)",EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+9731,Land Rover,RANGE ROVER SPORT (LS),508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+10000,Peugeot,308 CC,EP6CDTX,Bosch,(left NULL - genuinely ambiguous),MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEVD17.4.2
+10091,Opel,Antara,A22DM,Delphi,(left NULL - genuinely ambiguous),DCM3.7 | DCM3.7AP
+10092,Opel,Antara,A22DMH,Delphi,(left NULL - genuinely ambiguous),DCM3.7 | DCM3.7AP
+10262,Toyota,FJ CRUISER (GSJ1_),1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+10270,Chevrolet,"CAPTIVA (C100, C140)",A22DMH,Delphi,(left NULL - genuinely ambiguous),DCM3.7 | DCM3.7AP
+10280,Peugeot,208,EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+10303,Honda,JAZZ III (GE),LDA3,Keihin,(left NULL - genuinely ambiguous),37820-xxx-xxx SH7058 (CAN) | 37820-xxx-xxx SH72543
+10305,Saab,9-3 (YS3F),LP9,Bosch,(left NULL - genuinely ambiguous),ME9.6 | ME9.6.1 | MED9.1
+10310,Saab,9-3 Estate,LP9,Bosch,(left NULL - genuinely ambiguous),ME9.6 | ME9.6.1 | MED9.1
+10313,Saab,9-3 Convertible (YS3F),LP9,Bosch,(left NULL - genuinely ambiguous),ME9.6 | ME9.6.1 | MED9.1
+10477,Cadillac,SRX,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+10481,Chevrolet,"CAPTIVA (C100, C140)",LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+10545,Toyota,FJ CRUISER (GSJ1_),1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+10547,Toyota,FJ CRUISER (GSJ1_),1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+10556,Subaru,FORESTER (SH),FB20,Denso,(left NULL - genuinely ambiguous),112800 SH72531 | Denso_Gasoline_MB112700
+10574,Lexus,GX (URJ15_),1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+10645,Chevrolet,Camaro,L99,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+10647,Chevrolet,Camaro,L99,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+10649,Chevrolet,CAMARO Convertible,L99,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+10650,Chevrolet,CAMARO Convertible,L99,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+10709,Toyota,"SEQUOIA (UCK45_, UCK35_)",2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+10710,Toyota,"SEQUOIA (UCK6_, UPK6_, USK6_)",2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+10714,Toyota,"LAND CRUISER 150 (KDJ15_, GRJ15_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+10716,Toyota,"TUNDRA Pickup (_K4_, _K3_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+10740,Toyota,"HARRIER (MCU3_, MHU3_, ACU3_, GSU3_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+10752,Fiat,DUCATO Bus (250),250A1.000,Bosch,(left NULL - genuinely ambiguous),EDC17C49 | EDC17C69
+10755,Fiat,DUCATO Box (250),250A1.000,Bosch,(left NULL - genuinely ambiguous),EDC17C49 | EDC17C69
+10756,Fiat,DUCATO Platform/Chassis (250),250A1.000,Bosch,(left NULL - genuinely ambiguous),EDC17C49 | EDC17C69
+10909,Cadillac,CTS Coupe,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+10921,Toyota,"FORTUNER Closed Off-Road Vehicle (TGN6_, KUN6_, GGN6_, TGN5_",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+10965,Volkswagen,PASSAT (362),CKMA,Bosch,(left NULL - genuinely ambiguous),MED17.5.5 TC1766 | MED17.5.5 TC1767
+10967,Volkswagen,PASSAT Variant (365),CKMA,Bosch,(left NULL - genuinely ambiguous),MED17.5.5 TC1766 | MED17.5.5 TC1767
+11076,Peugeot,PARTNER Box,EP6,Bosch,(left NULL - genuinely ambiguous),EDC16C34 | ME7.4.9 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+11154,Volkswagen,PASSAT CC (357),CKMA,Bosch,(left NULL - genuinely ambiguous),MED17.5.5 TC1766 | MED17.5.5 TC1767
+11384,Ford,TRANSIT Bus,DRFA,Bosch,(left NULL - genuinely ambiguous),MG1CS031 H80 (Locked) | MG1CS111 (Locked)
+11397,Ford,TRANSIT Box,DRFA,Bosch,(left NULL - genuinely ambiguous),MG1CS031 H80 (Locked) | MG1CS111 (Locked)
+11413,Ford,TRANSIT Box,CYRB,Continental,(left NULL - genuinely ambiguous),SIMOS18.1 | SIMOS18.4
+11415,Ford,TRANSIT Platform/Chassis,DRFA,Bosch,(left NULL - genuinely ambiguous),MG1CS031 H80 (Locked) | MG1CS111 (Locked)
+11428,Ford,TRANSIT Platform/Chassis,CYRB,Continental,(left NULL - genuinely ambiguous),SIMOS18.1 | SIMOS18.4
+11478,Cadillac,SRX,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+11571,Toyota,FJ CRUISER (GSJ1_),1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+11580,Toyota,"LAND CRUISER (VDJ20_, UZJ20_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+11581,Toyota,FJ CRUISER (GSJ1_),1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+11939,Lexus,GX (_J12_),2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+12514,Renault,MEGANE III Coupe (DZ0/1_),H5F400,Continental,(left NULL - genuinely ambiguous),EMS3110 | EMS3150
+12661,Alfa Romeo,156 (932),AR37101,Bosch,(left NULL - genuinely ambiguous),EDC15C7 | EDC16C39
+12664,Alfa Romeo,156 Sportwagon (932),AR37101,Bosch,(left NULL - genuinely ambiguous),EDC15C7 | EDC16C39
+13109,Renault,MEGANE III Grandtour (KZ0/1),H5F400,Continental,(left NULL - genuinely ambiguous),EMS3110 | EMS3150
+13279,Cadillac,Cts,LA3,Bosch,(left NULL - genuinely ambiguous),ME9.6 | ME9.6.1 | MED9.1
+13776,Ford,Tourneo Connect,R2PA,Siemens,(left NULL - genuinely ambiguous),SID202 | SID206
+13813,Ford,"TRANSIT CONNECT (P65_, P70_, P80_)",R2PA,Siemens,(left NULL - genuinely ambiguous),SID202 | SID206
+13830,Renault,MEGANE III Hatchback (BZ0_),H5F400,Continental,(left NULL - genuinely ambiguous),EMS3110 | EMS3150
+14066,Toyota,"LAND CRUISER (KDJ12_, GRJ12_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+14675,Chevrolet,CORVETTE (C6),LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+14807,Chrysler,300 C (LX),EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+16101,Chrysler,300 C Touring (LX),EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+16252,Isuzu,Ascender,LH6,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+16613,Chevrolet,CORVETTE Convertible (C6),LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+16980,Chrysler,300 C Touring (LX),EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+17134,Chrysler,CALIBER,ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+17209,Peugeot,207 CC (WD_),EP6,Bosch,(left NULL - genuinely ambiguous),EDC16C34 | ME7.4.9 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+17259,Alfa Romeo,166 (936),841M.000,Bosch,(left NULL - genuinely ambiguous),EDC16C39 | EDC16C8
+17262,Alfa Romeo,166 (936),841M.000,Bosch,(left NULL - genuinely ambiguous),EDC16C39 | EDC16C8
+17436,AC,COBRA Mk IV (291N),LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+17476,Toyota,"CAMRY (MCV3_, ACV3_, _XV3_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+17792,HSV,CLUBSPORT Estate (VF),LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+18077,Peugeot,"207 (WA_, WC_)",EP6,Bosch,(left NULL - genuinely ambiguous),EDC16C34 | ME7.4.9 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+18202,Toyota,"CAMRY SOLARA Coupe (MCV3_, ACV3_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+18207,Toyota,"CAMRY SOLARA Convertible (MCV3_, ACV3_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+18369,Chrysler,AVENGER,ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+18485,Peugeot,"308 (4A_, 4C_)",EP3,Bosch,(left NULL - genuinely ambiguous),MEV17.2.2 TC1767 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+18487,Peugeot,"308 (4A_, 4C_)",EP6,Bosch,(left NULL - genuinely ambiguous),EDC16C34 | ME7.4.9 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+18501,Peugeot,207 SW (WK_),EP3,Bosch,(left NULL - genuinely ambiguous),MEV17.2.2 TC1767 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+18504,Peugeot,207 SW (WK_),EP6,Bosch,(left NULL - genuinely ambiguous),EDC16C34 | ME7.4.9 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+18933,Chevrolet,TRAILBLAZER (KC_),LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+19045,Toyota,PRADO,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+19151,Toyota,"LAND CRUISER (KDJ12_, GRJ12_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+19182,Toyota,"CAMRY SOLARA Convertible (MCV3_, ACV3_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+19209,Toyota,"CAMRY SOLARA Coupe (MCV3_, ACV3_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+19267,Toyota,"HARRIER (MCU3_, MHU3_, ACU3_, GSU3_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+19275,Toyota,"KLUGER (_MCU2_, _ACU2_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+19284,Alfa Romeo,GIULIETTA (940),960A1.000,Bosch,(left NULL - genuinely ambiguous),MED17.3.1 | MED17.3.3
+19323,Toyota,"SIENNA (MCL2_, GSL2_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+19423,Peugeot,308 SW,EP6,Bosch,(left NULL - genuinely ambiguous),EDC16C34 | ME7.4.9 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+19446,Peugeot,"207 (WA_, WC_)",EP3,Bosch,(left NULL - genuinely ambiguous),MEV17.2.2 TC1767 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+19657,Alfa Romeo,156 (932),841M.000,Bosch,(left NULL - genuinely ambiguous),EDC16C39 | EDC16C8
+19669,Alfa Romeo,156 Sportwagon (932),841M.000,Bosch,(left NULL - genuinely ambiguous),EDC16C39 | EDC16C8
+19683,Chrysler,"RAM 1500 Pickup (DJ, DS)",EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+19689,Volkswagen,"TRANSPORTER V Bus (7HB, 7HJ, 7EB, 7EJ, 7EF)",CJKA,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+19693,Volkswagen,"TRANSPORTER V Box (7HA, 7HH, 7EA, 7EH)",CJKA,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+19694,Volkswagen,"MULTIVAN V (7HM, 7HN, 7HF, 7EF, 7EM, 7EN)",CJKA,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+19839,Vauxhall,Monaro,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+19840,Vauxhall,Monaro,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+19841,Vauxhall,VXR8 Saloon,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+19842,Vauxhall,VXR8 Saloon,LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+19953,Toyota,"VISTA Saloon (SV5_, ZV5_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+20206,Volkswagen,GOLF VI Convertible (517),CULC,Continental,(left NULL - genuinely ambiguous),SIMOS18.1 | SIMOS18.10 | SIMOS18.2
+20209,Toyota,"HILUX III Pickup (TGN1_, GGN2_, GGN1_, KUN2_, KUN1_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+20315,Chrysler,"RAM 2500 Pickup (DJ, DS)",EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+20400,Toyota,"LAND CRUISER (VDJ20_, UZJ20_)",2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+20498,HSV,SENATOR Saloon (VF),LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+20658,Toyota,"4 RUNNER (KZN18_, VZN18_, RZN18_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+20805,Toyota,"LAND CRUISER (VDJ20_, UZJ20_)",1VD-FTV,Denso,(left NULL - genuinely ambiguous),275922-001 | 275922-092 | 276122-092_(CAN)
+20863,Chrysler,SEBRING (JS),ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+20904,Peugeot,3008,EP6,Bosch,(left NULL - genuinely ambiguous),EDC16C34 | ME7.4.9 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+20977,HSV,CLUBSPORT Saloon (VZ),LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+21151,Honda,INSIGHT (ZE_),LDA3,Keihin,(left NULL - genuinely ambiguous),37820-xxx-xxx SH7058 (CAN) | 37820-xxx-xxx SH72543
+21354,HSV,GRANGE Saloon (WL),LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+21395,Peugeot,308 CC,EP6,Bosch,(left NULL - genuinely ambiguous),EDC16C34 | ME7.4.9 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+21543,Peugeot,5008,EP6,Bosch,(left NULL - genuinely ambiguous),EDC16C34 | ME7.4.9 | MEV17.4 TC1766 | MEV17.4 TC1796 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797
+21545,Peugeot,5008,EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+21673,Peugeot,Rcz,EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+21674,Peugeot,Rcz,EP6CDTX,Bosch,(left NULL - genuinely ambiguous),MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEVD17.4.2
+21683,Land Rover,RANGE ROVER III (LM),508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+21684,Land Rover,RANGE ROVER SPORT (LS),508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+21753,Subaru,"LEGACY V Estate (BM, BR)",FB20,Denso,(left NULL - genuinely ambiguous),112800 SH72531 | Denso_Gasoline_MB112700
+21865,Holden,COMMODORE Saloon (VE),LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+21874,Holden,COMMODORE Estate (VE),LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+21978,Toyota,"LAND CRUISER (VDJ20_, UZJ20_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+22033,Peugeot,308 CC,EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+22281,Peugeot,"308 (4A_, 4C_)",EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+22284,Peugeot,308 SW,EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+22513,Toyota,"LAND CRUISER 150 (KDJ15_, GRJ15_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+22516,Toyota,"LAND CRUISER 150 (KDJ15_, GRJ15_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+22542,Volkswagen,TIGUAN (5N_),CCZA,Bosch,(left NULL - genuinely ambiguous),MED17.5 | MED17.5.2
+22576,Jeep,"GRAND CHEROKEE III (WH, WK)",EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+22642,Vauxhall,VXR8 Saloon,LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+22731,Peugeot,"308 (4A_, 4C_)",EP6CDTX,Bosch,(left NULL - genuinely ambiguous),MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEVD17.4.2
+22821,HSV,CLUBSPORT Saloon (VE),LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+22829,Toyota,"LAND CRUISER (PZJ7_, KZJ7_, HZJ7_, BJ7_, LJ7_, RJ7_)",1VD-FTV,Denso,(left NULL - genuinely ambiguous),275922-001 | 275922-092 | 276122-092_(CAN)
+22830,Toyota,"LAND CRUISER (VDJ20_, UZJ20_)",2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+22980,Toyota,"LAND CRUISER (VDJ20_, UZJ20_)",2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+23041,Cadillac,Cts,LA3,Bosch,(left NULL - genuinely ambiguous),ME9.6 | ME9.6.1 | MED9.1
+23062,Chevrolet,SILVERADO 1500 Crew Cab Pickup,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23185,Lexus,LX (UZJ100),2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+23186,Lexus,LX (UZJ100),2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+23204,Chrysler,RAM 1500 Standard Cab Pickup,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+23209,Cadillac,CTS Sport Wagon,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+23212,GMC,SIERRA 1500 Extended Cab Pickup,L76,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23218,GMC,SIERRA 1500 Standard Cab Pickup,L76,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23230,Chevrolet,SILVERADO 1500 Crew Cab Pickup,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23267,Cadillac,CTS Sport Wagon,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+23373,GMC,SIERRA 1500 Crew Cab Pickup,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23378,GMC,SIERRA 1500 Crew Cab Pickup,L76,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23379,GMC,SIERRA 1500 Extended Cab Pickup,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23383,GMC,SIERRA 1500 Extended Cab Pickup,L76,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23385,GMC,SIERRA 1500 Standard Cab Pickup,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23390,GMC,SIERRA 1500 Standard Cab Pickup,L76,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23415,Chevrolet,SILVERADO 1500 Extended Cab Pickup,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23420,Chevrolet,SILVERADO 1500 Standard Cab Pickup,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+23448,Cadillac,Cts,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+23449,Cadillac,CTS Coupe,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+23450,Cadillac,CTS Coupe,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+23451,Cadillac,CTS Sport Wagon,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+23453,Cadillac,SRX,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+23580,Chrysler,CHARGER,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+23583,Chrysler,CHALLENGER Coupe,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+23588,Chrysler,DURANGO,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+23819,Vauxhall,VXR8 MALOO,LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+23820,Vauxhall,VXR8 Estate,LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+23896,Honda,INSIGHT (ZE_),LDA3,Keihin,(left NULL - genuinely ambiguous),37820-xxx-xxx SH7058 (CAN) | 37820-xxx-xxx SH72543
+23921,Chevrolet,CAMARO Convertible,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+24067,Volkswagen,CC (358),CKMA,Bosch,(left NULL - genuinely ambiguous),MED17.5.5 TC1766 | MED17.5.5 TC1767
+24079,Land Rover,RANGE ROVER IV (LG),508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+24159,Renault,SCÉNIC III (JZ0/1_),H5F400,Continental,(left NULL - genuinely ambiguous),EMS3110 | EMS3150
+24160,Renault,GRAND SCÉNIC III (JZ0/1_),H5F400,Continental,(left NULL - genuinely ambiguous),EMS3110 | EMS3150
+24166,Dacia,Dokker,H5F402,Continental,(left NULL - genuinely ambiguous),EMS3110 | EMS3150
+24168,Cadillac,SRX,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+24172,Chevrolet,Camaro,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+24189,Toyota,LAND CRUISER Pickup (_J7_),1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+24190,Dacia,Lodgy,H5F402,Continental,(left NULL - genuinely ambiguous),EMS3110 | EMS3150
+24468,Toyota,"HILUX III Platform/Chassis (KUN1_, TGN3_, TGN2_, TGN1_, KUN2",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+24607,Subaru,FORESTER (SJ),FB20,Denso,(left NULL - genuinely ambiguous),112800 SH72531 | Denso_Gasoline_MB112700
+24615,Alfa Romeo,166 (936),841M.000,Bosch,(left NULL - genuinely ambiguous),EDC16C39 | EDC16C8
+24617,Lancia,THESIS (841AX),841M.000,Bosch,(left NULL - genuinely ambiguous),EDC16C39 | EDC16C8
+24636,Alfa Romeo,147 (937),AR37101,Bosch,(left NULL - genuinely ambiguous),EDC15C7 | EDC16C39
+24644,Saab,9-4X,LP9,Bosch,(left NULL - genuinely ambiguous),ME9.6 | ME9.6.1 | MED9.1
+24646,Saab,9-4X,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+24766,Land Rover,RANGE ROVER SPORT (LW),508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+24769,Volkswagen,"EOS (1F7, 1F8)",CULC,Continental,(left NULL - genuinely ambiguous),SIMOS18.1 | SIMOS18.10 | SIMOS18.2
+24803,Toyota,"KLUGER (_MCU2_, _ACU2_)",3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+24816,Alfa Romeo,4C (960),960A1.000,Bosch,(left NULL - genuinely ambiguous),MED17.3.1 | MED17.3.3
+24939,Dacia,DOKKER Express,H5F402,Continental,(left NULL - genuinely ambiguous),EMS3110 | EMS3150
+24969,Chrysler,300 C,ERB,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A | GPEC3
+24971,Chrysler,GRAND VOYAGER V (RT),ERB,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A | GPEC3
+25027,Mercedes,C-CLASS T-Model (S204),OM651.921,Delphi,(left NULL - genuinely ambiguous),CRD2.x MPC556x | CRD3x.x TC1793 | CRD3x.x TC1797
+25128,Peugeot,308 II,EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+25223,Chrysler,JOURNEY,ERB,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A | GPEC3
+25351,Peugeot,308 SW II,EP6CDT,Bosch,(left NULL - genuinely ambiguous),MED17.4 TC1766 | MED17.4 TC1767 | MED17.4 TC1796 | MED17.4.2 TC1767 | MED17.4.2 TC1797 | MEV17.4.2 TC1767 | MEV17.4.2 TC1797 | MEVD17.4.2
+25385,Vauxhall,VXR8 Saloon,LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+25386,Vauxhall,VXR8 Saloon,LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+25687,Chevrolet,SILVERADO 1500 Crew Cab Pickup,LH6,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+25688,Chevrolet,SILVERADO 1500 Extended Cab Pickup,LH6,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+25689,Chevrolet,SILVERADO 1500 Standard Cab Pickup,LH6,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+25721,Cadillac,Cts,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+25836,Volkswagen,"SCIROCCO (137, 138)",CULC,Continental,(left NULL - genuinely ambiguous),SIMOS18.1 | SIMOS18.10 | SIMOS18.2
+25897,Volkswagen,PASSAT (3G2),CUAA,Bosch,(left NULL - genuinely ambiguous),EDC17C64 | EDC17CP74
+25898,Volkswagen,PASSAT Variant (3G5),CUAA,Bosch,(left NULL - genuinely ambiguous),EDC17C64 | EDC17CP74
+25928,HSV,CLUBSPORT Saloon (VE),LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+25929,HSV,GRANGE Saloon (VF),LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+26061,Ford,MONDEO V Hatchback,UNCF,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.0.1
+26074,Ford,MONDEO V Turnier,UNCF,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.0.1
+26246,HSV,CLUBSPORT Estate (VF),LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+26247,HSV,CLUBSPORT Saloon (VF),LS3,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+26249,Toyota,"LAND CRUISER (PZJ7_, KZJ7_, HZJ7_, BJ7_, LJ7_, RJ7_)",1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+26250,Alfa Romeo,4C SPIDER (960),960A1.000,Bosch,(left NULL - genuinely ambiguous),MED17.3.1 | MED17.3.3
+26455,Land Rover,RANGE ROVER SPORT (LW),508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+26552,Volkswagen,BEETLE (5C1),CULC,Continental,(left NULL - genuinely ambiguous),SIMOS18.1 | SIMOS18.10 | SIMOS18.2
+26553,Volkswagen,BEETLE Convertible (5C7),CULC,Continental,(left NULL - genuinely ambiguous),SIMOS18.1 | SIMOS18.10 | SIMOS18.2
+26719,Alfa Romeo,4C,960A1.000,Bosch,(left NULL - genuinely ambiguous),MED17.3.1 | MED17.3.3
+26725,Audi,A4,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+26727,Audi,A4,CPMB,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.10
+26731,Audi,A5,CPMB,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.10
+26732,Audi,A6,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+26747,Audi,Q5,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+26761,Audi,RS 7,CRDB,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+26770,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+26773,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+26777,Audi,Allroad,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+26820,BMW,740Ld,N57D30O1,Bosch,(left NULL - genuinely ambiguous),EDC17C56 | EDC17C76
+26871,Buick,Enclave,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26875,Buick,LaCrosse,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+26876,Buick,LaCrosse,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26879,Buick,Regal,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+26881,Buick,Regal,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+26882,Buick,Verano,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+26885,Cadillac,ATS,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+26887,Cadillac,ATS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26890,Cadillac,Cts,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26900,Cadillac,SRX,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+26904,Cadillac,XTS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26906,Chevrolet,Camaro,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26908,Chevrolet,Camaro,L99,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+26911,Chevrolet,Caprice,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26914,Chevrolet,Colorado,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+26917,Chevrolet,Colorado,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26926,Chevrolet,Equinox,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26932,Chevrolet,Impala,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+26933,Chevrolet,Impala,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+26936,Chevrolet,Malibu,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+26943,Chevrolet,Silverado,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+26991,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+26997,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+27001,Ram,2500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+27007,Ram,3500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+27013,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+27014,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+27019,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+27028,Dodge,Dart,ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+27032,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+27156,GMC,Sierra,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+27163,GMC,Terrain,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+27289,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+27319,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+27369,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+27370,Land Rover,LR2,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+27377,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+27380,Land Rover,Range,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+27382,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+27388,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+27398,Lexus,Is,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+27405,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+27414,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+27419,Lexus,RC,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+27463,Mercedes,C300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+27481,Mercedes,E250,OM651.924,Delphi,(left NULL - genuinely ambiguous),CRD2.x MPC556x | CRD3x.x TC1797
+27504,Mercedes,GLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+27505,Mercedes,ML250,OM651.924,Delphi,(left NULL - genuinely ambiguous),CRD2.x MPC556x | CRD3x.x TC1797
+27507,Mercedes,GLK250,OM651.924,Delphi,(left NULL - genuinely ambiguous),CRD2.x MPC556x | CRD3x.x TC1797
+27535,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+27536,Mini,Cooper,N18B16A,Bosch,(left NULL - genuinely ambiguous),MEVD17.2.2 | MEVD17.2.7
+27538,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+27544,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+27553,Mitsubishi,Outlander,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+27676,Porsche,Macan,MCT.LA,Continental,(left NULL - genuinely ambiguous),SDI10.1 | SDI10.2
+27712,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+27718,Toyota,Avalon,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+27721,Toyota,Camry,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+27730,Toyota,Highlander,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+27731,Toyota,Land Cruiser,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+27754,Toyota,Sequoia,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+27756,Toyota,Sienna,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+27764,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+27765,Toyota,Tacoma,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+27767,Toyota,Tundra,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+27769,Toyota,Tundra,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+27770,Toyota,Venza,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+27865,Alfa Romeo,4C,960A1.000,Bosch,(left NULL - genuinely ambiguous),MED17.3.1 | MED17.3.3
+27868,Alfa Romeo,4C,960A1.000,Bosch,(left NULL - genuinely ambiguous),MED17.3.1 | MED17.3.3
+27874,Audi,A4,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+27875,Audi,A4,CPMB,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.10
+27876,Audi,A5,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+27880,Audi,A6,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+27883,Audi,A7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+27891,Audi,Q5,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+27894,Audi,RS,CRDB,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+27898,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+27899,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+27903,Audi,Allroad,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+27907,Audi,A5,CPMB,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.10
+27911,Audi,A6,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+27915,Audi,A7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+27919,Audi,Q5,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+27924,Audi,Q7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+27926,Audi,RS,CRDB,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+27929,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+27930,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+27947,BMW,535d,N57D30O1,Bosch,(left NULL - genuinely ambiguous),EDC17C56 | EDC17C76
+27963,BMW,X1,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+28004,BMW,X1,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+28018,Buick,Enclave,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28023,Buick,LaCrosse,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+28024,Buick,LaCrosse,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28027,Buick,Regal,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+28029,Buick,Regal,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+28030,Buick,Verano,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+28032,Buick,Enclave,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28040,Buick,Regal,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+28042,Buick,Verano,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+28045,Cadillac,ATS,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+28047,Cadillac,ATS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28048,Cadillac,CT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+28053,Cadillac,Cts,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+28058,Cadillac,SRX,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+28059,Cadillac,XTS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28062,Cadillac,ATS,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+28063,Cadillac,ATS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28065,Cadillac,CT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+28070,Cadillac,Cts,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+28074,Cadillac,XT5,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28075,Cadillac,XTS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28080,Chevrolet,Caprice,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28083,Chevrolet,Colorado,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+28085,Chevrolet,Colorado,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28095,Chevrolet,Equinox,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28100,Chevrolet,Impala,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+28101,Chevrolet,Impala,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28103,Chevrolet,Impala,LKW,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+28111,Chevrolet,Silverado,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+28137,Chevrolet,Caprice,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28140,Chevrolet,Colorado,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+28151,Chevrolet,Equinox,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28155,Chevrolet,Impala,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+28156,Chevrolet,Impala,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+28162,Chevrolet,Silverado,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+28184,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28191,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28194,Chrysler,Pacifica,ERC,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A | GPEC5
+28195,Chrysler,Pacifica,ERF,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC5
+28197,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28202,Ram,2500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28207,Ram,3500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28211,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28213,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28217,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28229,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28240,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28246,Ram,2500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28251,Ram,3500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28254,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28258,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28260,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28267,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28441,GMC,Sierra,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+28449,GMC,Terrain,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+28454,GMC,Acadia,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+28465,GMC,Sierra,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+28472,GMC,Terrain,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+28530,Hyundai,Elantra,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+28532,Hyundai,Elantra,G4LD,Kefico,(left NULL - genuinely ambiguous),CPEGD2.20.1 | CPEGD2.20.2 | CPEGD2.20.3 | CPEGD2.20.4
+28602,Jaguar,Xe,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+28621,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28641,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+28670,Kia,Forte,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+28692,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+28694,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+28701,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+28702,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+28706,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+28708,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+28710,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+28711,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+28720,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+28722,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+28724,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+28725,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+28779,Mercedes,C300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+28788,Mercedes,E250,OM651.924,Delphi,(left NULL - genuinely ambiguous),CRD2.x MPC556x | CRD3x.x TC1797
+28803,Mercedes,GLC300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+28826,Mercedes,C300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+28836,Mercedes,E300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+28845,Mercedes,GLC300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+28867,Mercedes,SLC300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+28872,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+28873,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+28874,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+28875,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+28879,Mitsubishi,Outlander,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+28884,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+28889,Mitsubishi,Outlander,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+28953,Porsche,Macan,MCT.LA,Continental,(left NULL - genuinely ambiguous),SDI10.1 | SDI10.2
+28965,Porsche,Macan,MCT.LA,Continental,(left NULL - genuinely ambiguous),SDI10.1 | SDI10.2
+29001,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+29003,Toyota,Avalon,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+29006,Toyota,Camry,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+29009,Toyota,Highlander,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+29011,Toyota,Land Cruiser,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+29015,Toyota,Sequoia,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+29017,Toyota,Sienna,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+29020,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+29021,Toyota,Tundra,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+29023,Toyota,Tundra,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+29025,Toyota,Venza,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+29027,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+29029,Toyota,Avalon,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+29033,Toyota,Camry,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+29038,Toyota,Land Cruiser,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+29042,Toyota,Sequoia,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+29046,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+29049,Toyota,Tundra,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+29051,Toyota,Tundra,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+29088,Volkswagen,Jetta,CZEA,Bosch,(left NULL - genuinely ambiguous),MED17.1.61 | MED17.5.21 | MED17.5.25
+29351,Cadillac,Cts,LA3,Bosch,(left NULL - genuinely ambiguous),ME9.6 | ME9.6.1 | MED9.1
+29358,Cadillac,Cts,LA3,Bosch,(left NULL - genuinely ambiguous),ME9.6 | ME9.6.1 | MED9.1
+29397,Chevrolet,Prizm,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+29441,Chevrolet,Prizm,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+29473,Chevrolet,Cavalier,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+29489,Chevrolet,Prizm,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+29496,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+29510,Chevrolet,Astro,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+29513,Chevrolet,Blazer,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+29519,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+29531,Chevrolet,S10,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+29533,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+29549,Chevrolet,Astro,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+29553,Chevrolet,Blazer,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+29558,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+29563,Chevrolet,Classic,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+29570,Chevrolet,Malibu,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+29579,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30026,GMC,Envoy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30027,GMC,Jimmy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30031,GMC,Safari,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30032,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30037,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30042,GMC,Sonoma,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30052,GMC,Jimmy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30053,GMC,Safari,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30054,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30060,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30066,GMC,Sonoma,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30077,GMC,Jimmy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30078,GMC,Safari,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30079,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30085,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30091,GMC,Sonoma,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30102,GMC,Jimmy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30103,GMC,Safari,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30104,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30108,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30110,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30115,GMC,Sonoma,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30129,GMC,Jimmy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30130,GMC,Safari,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30131,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30135,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30390,Lexus,Lx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+30396,Lexus,Lx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+30398,Lexus,Lx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+30404,Lexus,Gx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+30409,Lexus,Lx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+30414,Lexus,Gx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+30417,Lexus,Lx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+30504,Mazda,Rx-8,13B-MSP,Denso,(left NULL - genuinely ambiguous),Denso Nxxx SH7055 | SH70xx
+30901,Buick,Terraza,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+30912,Buick,Terraza,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+30926,Buick,Lucerne,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+30988,Chevrolet,Astro,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30992,Chevrolet,Blazer,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+30997,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31001,Chevrolet,Classic,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31002,Chevrolet,Cobalt,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31006,Chevrolet,Corvette,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31012,Chevrolet,Malibu,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31019,Chevrolet,SSR,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31021,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31041,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31045,Chevrolet,Cobalt,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31046,Chevrolet,Cobalt,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+31050,Chevrolet,Corvette,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31057,Chevrolet,HHR,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31058,Chevrolet,HHR,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+31060,Chevrolet,Impala,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31061,Chevrolet,Malibu,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31065,Chevrolet,Malibu,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31066,Chevrolet,Monte,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31073,Chevrolet,SSR,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31075,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31086,Chevrolet,TrailBlazer,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31087,Chevrolet,Uplander,LZE,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31088,Chevrolet,Uplander,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31096,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31100,Chevrolet,Cobalt,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31102,Chevrolet,Cobalt,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+31105,Chevrolet,Corvette,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31111,Chevrolet,HHR,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31112,Chevrolet,HHR,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+31114,Chevrolet,Impala,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31116,Chevrolet,Malibu,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31118,Chevrolet,Malibu,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31119,Chevrolet,Monte,LZE,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31126,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31139,Chevrolet,TrailBlazer,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31140,Chevrolet,Uplander,LZE,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31146,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31151,Chevrolet,Cobalt,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31152,Chevrolet,Cobalt,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+31163,Chevrolet,HHR,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31164,Chevrolet,HHR,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+31167,Chevrolet,Impala,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31169,Chevrolet,Malibu,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+31172,Chevrolet,Malibu,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31178,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31191,Chevrolet,TrailBlazer,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31192,Chevrolet,Uplander,LZE,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31198,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31203,Chevrolet,Cobalt,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31216,Chevrolet,HHR,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+31217,Chevrolet,HHR,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+31220,Chevrolet,Impala,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31222,Chevrolet,Malibu,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+31227,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31241,Chevrolet,TrailBlazer,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31243,Chevrolet,Uplander,LZE,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+31298,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+31362,Dodge,Caliber,ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+31386,Dodge,Sprinter,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+31393,Dodge,Caliber,ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+31418,Dodge,Sprinter,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+31423,Dodge,Cab,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+31427,Dodge,Caliber,ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+31428,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+31432,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+31439,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+31448,Dodge,Pickup,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+31451,Dodge,Sprinter,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+31682,GMC,Jimmy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31683,GMC,Safari,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31684,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31689,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31705,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31711,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31728,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31733,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31751,GMC,Savana,LMF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31752,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31756,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31773,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31775,GMC,Savana,LMF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31779,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+31863,Hyundai,Sonata,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31868,Hyundai,Azera,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31874,Hyundai,Santa,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31876,Hyundai,Sonata,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31883,Hyundai,Azera,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31888,Hyundai,Santa,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31890,Hyundai,Sonata,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31898,Hyundai,Azera,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31904,Hyundai,Santa,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31906,Hyundai,Sonata,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+31944,Isuzu,Ascender,LH6,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31945,Isuzu,Ascender,LH6,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+31986,Jeep,Liberty,R428,Bosch,(left NULL - genuinely ambiguous),EDC17CP22 | EDC17CP27
+32000,Jeep,Liberty,R428,Bosch,(left NULL - genuinely ambiguous),EDC17CP22 | EDC17CP27
+32027,Jeep,Commander,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+32034,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+32122,Lexus,Gx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32127,Lexus,Lx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32131,Lexus,Gx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32136,Lexus,Lx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32137,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+32139,Lexus,Gx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32141,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+32143,Lexus,Lx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32145,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+32147,Lexus,Gx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32149,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+32150,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+32154,Lexus,Gx,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32155,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+32157,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+32158,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+32194,Mazda,Rx-8,13B-MSP,Denso,(left NULL - genuinely ambiguous),Denso Nxxx SH7055 | SH70xx
+32206,Mazda,Rx-8,13B-MSP,Denso,(left NULL - genuinely ambiguous),Denso Nxxx SH7055 | SH70xx
+32219,Mazda,Rx-8,13B-MSP,Denso,(left NULL - genuinely ambiguous),Denso Nxxx SH7055 | SH70xx
+32229,Mazda,Rx-8,13B-MSP,Denso,(left NULL - genuinely ambiguous),Denso Nxxx SH7055 | SH70xx
+32241,Mazda,Rx-8,13B-MSP,Denso,(left NULL - genuinely ambiguous),Denso Nxxx SH7055 | SH70xx
+32268,Mercedes,SLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32276,Mercedes,C350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32282,Mercedes,CLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32308,Mercedes,SLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32314,Mercedes,C350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32315,Mercedes,CLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32345,Mercedes,SLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32357,Mercedes,CLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32385,Mercedes,SLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32394,Mercedes,CLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32425,Mercedes,SLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+32514,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+32522,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+32611,Pontiac,GTO,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+32617,Pontiac,Pursuit,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32618,Pontiac,Vibe,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32622,Pontiac,G5,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32623,Pontiac,G6,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32625,Pontiac,G6,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+32626,Pontiac,GTO,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+32630,Pontiac,Solstice,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32632,Pontiac,Vibe,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32633,Pontiac,Montana,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+32635,Pontiac,G5,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32638,Pontiac,G6,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+32639,Pontiac,G6,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32642,Pontiac,Montana,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+32643,Pontiac,Solstice,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32647,Pontiac,Vibe,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32649,Pontiac,G5,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32651,Pontiac,G6,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+32655,Pontiac,G6,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32659,Pontiac,Solstice,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32660,Pontiac,Montana,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+32665,Pontiac,Vibe,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32668,Pontiac,G6,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32670,Pontiac,G6,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+32675,Pontiac,Solstice,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32676,Pontiac,Montana,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+32725,Saab,9-7X,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+32728,Saab,9-7X,LS2,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+32736,Saturn,Ion,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32740,Saturn,Aura,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32745,Saturn,Ion,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32748,Saturn,Sky,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32754,Saturn,Aura,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32758,Saturn,Sky,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32760,Saturn,Vue,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32764,Saturn,Aura,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32767,Saturn,Sky,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32770,Saturn,Vue,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+32850,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32851,Toyota,4Runner,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32852,Toyota,Avalon,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32853,Toyota,Camry,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32855,Toyota,Camry,3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+32857,Toyota,Corolla,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32859,Toyota,Highlander,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32860,Toyota,Highlander,3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+32861,Toyota,Land Cruiser,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32862,Toyota,MR2,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32863,Toyota,Matrix,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32864,Toyota,Rav4,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32866,Toyota,Sequoia,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32867,Toyota,Sienna,3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+32868,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+32869,Toyota,Tacoma,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32870,Toyota,Tundra,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32871,Toyota,Tundra,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32872,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32873,Toyota,4Runner,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32874,Toyota,Avalon,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32875,Toyota,Camry,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32877,Toyota,Camry,3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+32878,Toyota,Corolla,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32879,Toyota,Highlander,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32880,Toyota,Highlander,3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+32881,Toyota,Land Cruiser,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32882,Toyota,Matrix,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32884,Toyota,Rav4,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32885,Toyota,Rav4,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32886,Toyota,Sequoia,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32887,Toyota,Sienna,3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+32888,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+32889,Toyota,Tacoma,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32890,Toyota,Tundra,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32891,Toyota,Tundra,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32892,Toyota,4Runner,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32893,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32894,Toyota,Avalon,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32895,Toyota,Camry,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32896,Toyota,Camry,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32897,Toyota,Camry,3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+32898,Toyota,Corolla,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32899,Toyota,FJ,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32900,Toyota,Highlander,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32901,Toyota,Highlander,3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+32902,Toyota,Matrix,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32903,Toyota,Land Cruiser,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32905,Toyota,Rav4,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32906,Toyota,Rav4,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32907,Toyota,Sequoia,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32908,Toyota,Sienna,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32909,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+32910,Toyota,Tacoma,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32911,Toyota,Tundra,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32912,Toyota,Tundra,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32913,Toyota,Tundra,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+32915,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32916,Toyota,4Runner,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32917,Toyota,Avalon,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32918,Toyota,Camry,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32919,Toyota,Camry,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32920,Toyota,Camry,3MZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275236-0011 ECU
+32921,Toyota,Corolla,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32922,Toyota,FJ,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32923,Toyota,Highlander,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32925,Toyota,Matrix,1ZZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-7341 | 275922-473
+32926,Toyota,Land Cruiser,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+32928,Toyota,Rav4,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32929,Toyota,Rav4,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32930,Toyota,Sequoia,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32931,Toyota,Sequoia,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+32932,Toyota,Sienna,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32933,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+32934,Toyota,Tacoma,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32935,Toyota,Tundra,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32936,Toyota,Tundra,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32937,Toyota,Tundra,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+32939,Toyota,4Runner,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32940,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32941,Toyota,Avalon,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32942,Toyota,Camry,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32943,Toyota,Camry,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32945,Toyota,Corolla,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32946,Toyota,FJ,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32948,Toyota,Highlander,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32951,Toyota,Land Cruiser,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+32952,Toyota,Matrix,2AZ-FE,Denso,(left NULL - genuinely ambiguous),21175-2540 | 275036-1152 | 275036-9160
+32955,Toyota,Rav4,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32956,Toyota,Sequoia,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32957,Toyota,Sequoia,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+32958,Toyota,Sienna,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+32959,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+32960,Toyota,Tacoma,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32961,Toyota,Tundra,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+32962,Toyota,Tundra,2UZ-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275036-3160 ( CAN )
+32963,Toyota,Tundra,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+32965,Toyota,Venza,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+33079,Volvo,C70,B5254T7,Bosch,(left NULL - genuinely ambiguous),ME7.0.1 | ME9.0
+33080,Volvo,C30,B5254T7,Bosch,(left NULL - genuinely ambiguous),ME7.0.1 | ME9.0
+33092,Volvo,C30,B5254T7,Bosch,(left NULL - genuinely ambiguous),ME7.0.1 | ME9.0
+33093,Volvo,C70,B5254T7,Bosch,(left NULL - genuinely ambiguous),ME7.0.1 | ME9.0
+33185,Audi,A6,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+33210,Audi,A6,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+33221,Audi,Q5,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+33232,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+33233,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+33238,Audi,Allroad,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+33240,Audi,A4,CPMB,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.10
+33244,Audi,A5,CPMB,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.10
+33245,Audi,A6,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+33254,Audi,Q5,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+33265,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+33267,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+33270,Audi,Allroad,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+33476,BMW,535d,N57D30O1,Bosch,(left NULL - genuinely ambiguous),EDC17C56 | EDC17C76
+33507,Buick,LaCrosse,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33508,Buick,LaCrosse,LAF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E83
+33510,Buick,Lucerne,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+33513,Buick,LaCrosse,LAF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E83
+33515,Buick,Lucerne,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+33516,Buick,Regal,LAF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E83
+33521,Buick,LaCrosse,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+33523,Buick,Regal,LAF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E83
+33526,Buick,Verano,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+33527,Buick,Enclave,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33529,Buick,LaCrosse,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+33534,Buick,Regal,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+33535,Buick,Verano,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+33537,Buick,Enclave,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33540,Buick,LaCrosse,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33541,Buick,LaCrosse,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+33543,Buick,Regal,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+33546,Buick,Regal,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+33547,Buick,Verano,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+33551,Cadillac,Cts,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33552,Cadillac,Cts,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33559,Cadillac,SRX,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33562,Cadillac,Cts,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33563,Cadillac,Cts,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33569,Cadillac,SRX,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33572,Cadillac,Cts,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33573,Cadillac,Cts,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33579,Cadillac,SRX,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33580,Cadillac,ATS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33581,Cadillac,ATS,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+33583,Cadillac,Cts,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33585,Cadillac,Cts,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33590,Cadillac,SRX,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33591,Cadillac,XTS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33593,Cadillac,ATS,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+33594,Cadillac,ATS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33595,Cadillac,Cts,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33597,Cadillac,Cts,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33602,Cadillac,SRX,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33603,Cadillac,XTS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33610,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33615,Chevrolet,Cobalt,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+33627,Chevrolet,Equinox,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33628,Chevrolet,HHR,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+33629,Chevrolet,HHR,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+33632,Chevrolet,Impala,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+33633,Chevrolet,Malibu,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+33639,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33658,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33674,Chevrolet,Equinox,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33675,Chevrolet,HHR,L61,Ac Delco,(left NULL - genuinely ambiguous),E37 | E67
+33676,Chevrolet,HHR,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+33678,Chevrolet,Impala,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+33679,Chevrolet,Malibu,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+33684,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33700,Chevrolet,Camaro,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33701,Chevrolet,Camaro,L99,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+33703,Chevrolet,Caprice,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33706,Chevrolet,Captiva,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33707,Chevrolet,Captiva,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+33708,Chevrolet,Chevy,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33729,Chevrolet,Equinox,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33730,Chevrolet,Impala,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33731,Chevrolet,Malibu,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+33734,Chevrolet,Malibu,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33739,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33756,Chevrolet,Camaro,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33759,Chevrolet,Camaro,L99,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+33762,Chevrolet,Caprice,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33764,Chevrolet,Captiva,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+33765,Chevrolet,Captiva,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+33778,Chevrolet,Equinox,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33779,Chevrolet,Express,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33780,Chevrolet,Express,LMF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33786,Chevrolet,Impala,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33787,Chevrolet,Malibu,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+33788,Chevrolet,Malibu,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+33801,Chevrolet,Silverado,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33817,Chevrolet,Camaro,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33818,Chevrolet,Camaro,L99,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+33820,Chevrolet,Camaro,L99,Ac Delco,(left NULL - genuinely ambiguous),E38 | E67
+33824,Chevrolet,Caprice,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33833,Chevrolet,Equinox,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33836,Chevrolet,Express,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33837,Chevrolet,Express,LMF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+33843,Chevrolet,Impala,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+33844,Chevrolet,Impala,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+33845,Chevrolet,Impala,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+33847,Chevrolet,Impala,LKW,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+33848,Chevrolet,Malibu,LUK,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+33849,Chevrolet,Malibu,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+33856,Chevrolet,Silverado,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+33870,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33884,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33891,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33902,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33912,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33918,Dodge,Cab,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33919,Dodge,Caliber,ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+33921,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33925,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33938,Dodge,Pickup,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33943,Dodge,Cab,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33945,Dodge,Caliber,ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+33946,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33948,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33950,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33954,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33961,Dodge,Pickup,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33968,Dodge,Cab,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33970,Dodge,Caliber,ECN,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC3
+33972,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33973,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33977,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33979,Dodge,Charger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33982,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33990,Dodge,Pickup,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33994,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+33998,Ram,2500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34002,Ram,3500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34010,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34012,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34015,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34017,Dodge,Charger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34025,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34036,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34038,Ram,2500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34043,Ram,3500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34055,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34056,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34059,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34061,Dodge,Charger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34069,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34342,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34343,GMC,Savana,LMF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34347,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34354,GMC,Terrain,LAF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E83
+34365,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34366,GMC,Savana,LMF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34370,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34376,GMC,Terrain,LAF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E83
+34395,GMC,Savana,LMF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34397,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34402,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34411,GMC,Terrain,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+34428,GMC,Savana,LMF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34429,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34442,GMC,Sierra,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34447,GMC,Terrain,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+34456,GMC,Savana,LU3,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34457,GMC,Savana,LMF,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38
+34463,GMC,Sierra,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+34470,GMC,Terrain,LEA,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E83
+34563,Hyundai,Azera,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+34572,Hyundai,Sonata,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+34576,Hyundai,Azera,G6DB,Siemens,(left NULL - genuinely ambiguous),FOMOCO SID803 | FOMOCO SID803A
+34700,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+34718,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+34729,Jeep,Commander,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34733,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34740,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34747,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34756,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34772,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+34788,Kia,Soul,G4FC,Bosch,(left NULL - genuinely ambiguous),M7.9.8 | ME17.9.11 | ME17.9.11.1 | MED17.9.8 | MEDG17.9.8_ECU | MEG17.9.12 ECU
+34800,Kia,Soul,G4FC,Bosch,(left NULL - genuinely ambiguous),M7.9.8 | ME17.9.11 | ME17.9.11.1 | MED17.9.8 | MEDG17.9.8_ECU | MEG17.9.12 ECU
+34857,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+34859,Land Rover,LR2,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+34860,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+34861,Land Rover,LR2,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+34863,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+34868,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+34872,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34873,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34874,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+34877,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+34878,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34883,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34884,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+34888,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34890,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34896,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+34898,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34900,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34901,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+34907,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+34908,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34910,Lexus,Ls,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+34912,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+34968,Mazda,Rx-8,13B-MSP,Denso,(left NULL - genuinely ambiguous),Denso Nxxx SH7055 | SH70xx
+34981,Mazda,Rx-8,13B-MSP,Denso,(left NULL - genuinely ambiguous),Denso Nxxx SH7055 | SH70xx
+35055,Mercedes,GLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+35067,Mercedes,SLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+35087,Mercedes,GLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+35103,Mercedes,SLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+35123,Mercedes,GLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+35161,Mercedes,GLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+35162,Mercedes,GLK250,OM651.924,Delphi,(left NULL - genuinely ambiguous),CRD2.x MPC556x | CRD3x.x TC1797
+35194,Mercedes,E250,OM651.924,Delphi,(left NULL - genuinely ambiguous),CRD2.x MPC556x | CRD3x.x TC1797
+35206,Mercedes,GLK250,OM651.924,Delphi,(left NULL - genuinely ambiguous),CRD2.x MPC556x | CRD3x.x TC1797
+35207,Mercedes,GLK350,M272E35,Bosch,(left NULL - genuinely ambiguous),ME17.7 | ME9.7
+35239,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+35241,Mini,Cooper,N18B16A,Bosch,(left NULL - genuinely ambiguous),MEVD17.2.2 | MEVD17.2.7
+35242,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+35243,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+35248,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+35255,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+35261,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+35267,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+35272,Mitsubishi,Lancer,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+35414,Pontiac,G6,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+35416,Pontiac,G6,LZ9,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E67
+35418,Pontiac,Solstice,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+35452,Porsche,Cayenne,M48.02,Continental,(left NULL - genuinely ambiguous),SDI6 | SDI7
+35454,Porsche,Cayenne,M48.52,Continental,(left NULL - genuinely ambiguous),SDI6 | SDI8
+35461,Porsche,Cayenne,M48.02,Continental,(left NULL - genuinely ambiguous),SDI6 | SDI7
+35469,Saab,9-4X,LF1,Ac Delco,(left NULL - genuinely ambiguous),E37 | E39 | E39A | E67 | E83B
+35476,Saturn,Sky,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+35480,Saturn,Vue,LE5,Ac Delco,(left NULL - genuinely ambiguous),E37 | E38 | E39 | E39A | E67 | E83
+35602,Alfa Romeo,4C,960A1.000,Bosch,(left NULL - genuinely ambiguous),MED17.3.1 | MED17.3.3
+35608,Alfa Romeo,4C,960A1.000,Bosch,(left NULL - genuinely ambiguous),MED17.3.1 | MED17.3.3
+35612,Alfa Romeo,4C,960A1.000,Bosch,(left NULL - genuinely ambiguous),MED17.3.1 | MED17.3.3
+35641,Audi,A6,CNCD,Continental,(left NULL - genuinely ambiguous),SIMOS12.1 | SIMOS18.1
+35650,Audi,Q7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+35657,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35658,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35675,Audi,Q7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+35700,Audi,Q7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+35708,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35709,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35735,Audi,Q7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+35745,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35746,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35772,Audi,Q7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+35779,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35780,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35808,Audi,Q7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+35816,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35817,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35845,Audi,Q7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+35852,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35853,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35874,Audi,Q7,CREC,Continental,(left NULL - genuinely ambiguous),SIMOS16.1 | SIMOS16.2x
+35881,Audi,S6,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35882,Audi,S7,CTGE,Bosch,(left NULL - genuinely ambiguous),MED17.1 TC1796 | MED17.1.1 TC1797
+35913,BMW,X1,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+35949,BMW,X1,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+35967,BMW,228i,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+35988,BMW,X1,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+36010,BMW,228i,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+36033,BMW,X1,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+36055,BMW,228i,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+36076,BMW,X1,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+36095,BMW,228i,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+36136,BMW,228i,B48B20,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS003 (DME_861) | MG1CS003 (Locked) | MG1CS024 | MG1CS024 (Locked) | MG1CS201 | MG1CS201 (Locked)
+36250,Cadillac,ATS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+36251,Cadillac,ATS,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36254,Cadillac,CT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36258,Cadillac,Cts,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36262,Cadillac,XT5,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+36263,Cadillac,XTS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+36266,Cadillac,ATS,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36269,Cadillac,CT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36275,Cadillac,Cts,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36280,Cadillac,XT5,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+36281,Cadillac,XTS,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+36292,Cadillac,CT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36296,Cadillac,XT5,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36299,Cadillac,XT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36312,Cadillac,XT5,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36316,Cadillac,XT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36331,Cadillac,XT5,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36335,Cadillac,XT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36351,Cadillac,XT5,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36356,Cadillac,XT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36372,Cadillac,XT5,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36377,Cadillac,XT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36394,Cadillac,XT5,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36399,Cadillac,XT6,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+36407,Chevrolet,Colorado,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36424,Chevrolet,Impala,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36425,Chevrolet,Impala,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+36428,Chevrolet,Silverado,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+36450,Chevrolet,Blazer,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36460,Chevrolet,Colorado,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36478,Chevrolet,Impala,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36479,Chevrolet,Impala,LFX,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E78 | E82
+36483,Chevrolet,Silverado,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+36507,Chevrolet,Blazer,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36518,Chevrolet,Colorado,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36531,Chevrolet,Impala,LKW,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A
+36534,Chevrolet,Silverado,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+36554,Chevrolet,Blazer,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36564,Chevrolet,Colorado,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36575,Chevrolet,Silverado,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+36609,Chevrolet,Colorado,LCV,Ac Delco,(left NULL - genuinely ambiguous),E39 | E39A | E80
+36758,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36761,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36767,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36774,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36778,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36785,Chrysler,300,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36793,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36797,Ram,2500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36802,Ram,3500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36805,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36809,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36812,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36818,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36830,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36832,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36844,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36848,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36851,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36856,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36866,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36870,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36881,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36883,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36887,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36893,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36901,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36906,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36916,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36920,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36924,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36927,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36935,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36941,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36951,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36955,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36958,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36962,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36972,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36977,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36987,Dodge,Challenger,ESG,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36990,Dodge,Challenger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+36994,Dodge,Charger,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+37000,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+37007,Ram,1500,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+37019,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+37040,Dodge,Durango,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+37520,GMC,Acadia,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+37533,GMC,Sierra,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+37547,GMC,Acadia,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+37559,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37561,GMC,Sierra,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+37579,GMC,Acadia,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+37591,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37594,GMC,Sierra,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+37609,GMC,Acadia,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+37618,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37619,GMC,Sierra,LV3,Ac Delco,(left NULL - genuinely ambiguous),E92 | E93
+37627,GMC,Yukon,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37629,GMC,Yukon,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37630,GMC,Acadia,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+37644,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37646,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37650,GMC,Yukon,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37654,GMC,Acadia,LGX,Ac Delco,(left NULL - genuinely ambiguous),E67 | E82 | E92
+37664,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37669,GMC,Yukon,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37679,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37683,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37685,GMC,Yukon,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37695,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37699,GMC,Sierra,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37703,GMC,Yukon,L84,Ac Delco,(left NULL - genuinely ambiguous),E90 | E92
+37885,Hyundai,Elantra,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37887,Hyundai,Elantra,G4LD,Kefico,(left NULL - genuinely ambiguous),CPEGD2.20.1 | CPEGD2.20.2 | CPEGD2.20.3 | CPEGD2.20.4
+37891,Hyundai,Kona,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37901,Hyundai,Elantra,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37902,Hyundai,Elantra,G4LD,Kefico,(left NULL - genuinely ambiguous),CPEGD2.20.1 | CPEGD2.20.2 | CPEGD2.20.3 | CPEGD2.20.4
+37907,Hyundai,Kona,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37920,Hyundai,Veloster,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37923,Hyundai,Elantra,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37925,Hyundai,Elantra,G4LD,Kefico,(left NULL - genuinely ambiguous),CPEGD2.20.1 | CPEGD2.20.2 | CPEGD2.20.3 | CPEGD2.20.4
+37929,Hyundai,Kona,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37940,Hyundai,Veloster,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37946,Hyundai,Elantra,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37949,Hyundai,Kona,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37959,Hyundai,Veloster,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37965,Hyundai,Elantra,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37969,Hyundai,Kona,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37980,Hyundai,Veloster,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37982,Hyundai,Elantra,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+37987,Hyundai,Kona,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38001,Hyundai,Elantra,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38005,Hyundai,Kona,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38018,Hyundai,Elantra,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38022,Hyundai,Kona,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38091,Jaguar,E-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38092,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38093,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38099,Jaguar,F-Type,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38102,Jaguar,Xe,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38112,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38113,Jaguar,E-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38115,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38119,Jaguar,F-Type,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38123,Jaguar,Xe,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38125,Jaguar,Xe,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38127,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38129,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38136,Jaguar,E-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38137,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38140,Jaguar,F-Type,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38145,Jaguar,Xe,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38146,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38148,Jaguar,E-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38150,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38154,Jaguar,F-Type,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38158,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38159,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38160,Jaguar,E-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38167,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38170,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38172,Jaguar,E-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38173,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38175,Jaguar,E-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38179,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38181,Jaguar,Xf,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38182,Jaguar,F-Pace,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38195,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+38215,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+38234,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+38244,Jeep,Wrangler,ERC,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A | GPEC5
+38256,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+38265,Jeep,Wrangler,ERC,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A | GPEC5
+38280,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+38287,Jeep,Wrangler,ERC,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A | GPEC5
+38303,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+38314,Jeep,Wrangler,ERC,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A | GPEC5
+38326,Jeep,Grand Cherokee,EZH,Continental,(left NULL - genuinely ambiguous),GPEC2 | GPEC2A
+38346,Kia,Forte,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38369,Kia,Forte,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38393,Kia,Forte,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38407,Kia,Soul,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38414,Kia,Forte,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38421,Kia,Seltos,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38425,Kia,Soul,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38434,Kia,Forte,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38440,Kia,Seltos,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38444,Kia,Soul,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38454,Kia,Forte,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38459,Kia,Seltos,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38463,Kia,Soul,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38473,Kia,Forte,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38477,Kia,Seltos,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38481,Kia,Soul,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38488,Kia,K4,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38492,Kia,Seltos,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38496,Kia,Soul,G4NH,Continental,(left NULL - genuinely ambiguous),SIM2K-251 ECU TC1782F | SIM2K-251 ECU TC1782N | SIM2K-259 ECU TC1782F | SIM2K-259 ECU TC1782N
+38500,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38504,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+38506,Land Rover,Range,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38512,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38513,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+38519,Land Rover,Range,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38522,Land Rover,Defender,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38528,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38529,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+38535,Land Rover,Range,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38540,Land Rover,Defender,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38542,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38545,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38547,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+38553,Land Rover,Range,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38555,Land Rover,Defender,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38556,Land Rover,Defender,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+38557,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38559,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38562,Land Rover,Range,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+38566,Land Rover,Range,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38568,Land Rover,Defender,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38570,Land Rover,Defender,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+38572,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38574,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38580,Land Rover,Range,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38584,Land Rover,Defender,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38586,Land Rover,Defender,508PS,Bosch,(left NULL - genuinely ambiguous),MED17.8.31 | MED17.8.32 (2021)
+38590,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38591,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38597,Land Rover,Range,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38604,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38605,Land Rover,Discovery,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38610,Land Rover,Range,204PT,Bosch,(left NULL - genuinely ambiguous),MED17.0 | MED17.9.7 | MEDC17.9
+38614,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38616,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+38617,Lexus,Is,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38623,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+38625,Lexus,RC,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38629,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38630,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+38632,Lexus,Is,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38636,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+38639,Lexus,RC,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38644,Lexus,Gs,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38645,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+38647,Lexus,Is,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38651,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+38654,Lexus,RC,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38659,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+38661,Lexus,Is,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38665,Lexus,Lx,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+38668,Lexus,RC,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38673,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+38675,Lexus,Is,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38682,Lexus,RC,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38687,Lexus,Gx,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+38690,Lexus,Is,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38696,Lexus,RC,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38707,Lexus,Is,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38714,Lexus,RC,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38726,Lexus,Is,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38732,Lexus,RC,2GR-FSE,Denso,(left NULL - genuinely ambiguous),275036-1470_ | 275036-8730 | Toyota_Denso_275036-3410
+38895,Mercedes,C300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+38903,Mercedes,E300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+38912,Mercedes,GLC300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+38933,Mercedes,SLC300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+38937,Mercedes,C300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+38942,Mercedes,E300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+38952,Mercedes,GLC300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+38972,Mercedes,SLC300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+38977,Mercedes,C300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+39013,Mercedes,SLC300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+39021,Mercedes,C300,M274.920,Bosch,(left NULL - genuinely ambiguous),MED17.7.2 | MED17.7.7
+39208,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+39209,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+39210,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+39211,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+39212,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+39213,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+39215,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+39216,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+39218,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+39219,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+39221,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+39222,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+39224,Mini,Cooper,B38A15A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201 | MG1CS201 (Locked)
+39225,Mini,Cooper,B46A20A,Bosch,(left NULL - genuinely ambiguous),MG1CS024 | MG1CS024 (Locked)
+39227,Mini,Cooper,B48A20A,Bosch,(left NULL - genuinely ambiguous),MED17.2.3 | MEVD17.2.3 | MEVD17.2.K | MG1CS201
+39228,Mitsubishi,Eclipse,4B40,Melco,(left NULL - genuinely ambiguous),E6T8597x MH8601 | E6T8598x MH8601
+39233,Mitsubishi,Outlander,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+39234,Mitsubishi,Eclipse,4B40,Melco,(left NULL - genuinely ambiguous),E6T8597x MH8601 | E6T8598x MH8601
+39239,Mitsubishi,Outlander,4B11,Melco,(left NULL - genuinely ambiguous),E6T7997x MH8611 | E6T8358x MH8115
+39240,Mitsubishi,Eclipse,4B40,Melco,(left NULL - genuinely ambiguous),E6T8597x MH8601 | E6T8598x MH8601
+39247,Mitsubishi,Eclipse,4B40,Melco,(left NULL - genuinely ambiguous),E6T8597x MH8601 | E6T8598x MH8601
+39250,Mitsubishi,Eclipse,4B40,Melco,(left NULL - genuinely ambiguous),E6T8597x MH8601 | E6T8598x MH8601
+39253,Mitsubishi,Eclipse,4B40,Melco,(left NULL - genuinely ambiguous),E6T8597x MH8601 | E6T8598x MH8601
+39256,Mitsubishi,Eclipse,4B40,Melco,(left NULL - genuinely ambiguous),E6T8597x MH8601 | E6T8598x MH8601
+39432,Porsche,Macan,MCT.LA,Continental,(left NULL - genuinely ambiguous),SDI10.1 | SDI10.2
+39517,Subaru,Ascent,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39528,Subaru,Ascent,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39534,Subaru,Legacy,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39535,Subaru,Outback,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39540,Subaru,Ascent,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39544,Subaru,Legacy,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39547,Subaru,Outback,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39551,Subaru,Ascent,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39557,Subaru,Legacy,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39559,Subaru,Outback,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39560,Subaru,WRX,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39562,Subaru,Ascent,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39568,Subaru,Legacy,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39570,Subaru,Outback,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39572,Subaru,WRX,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39573,Subaru,Ascent,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39581,Subaru,Legacy,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39583,Subaru,Outback,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39585,Subaru,WRX,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39586,Subaru,Ascent,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39596,Subaru,WRX,FA24F,Hitachi,(left NULL - genuinely ambiguous),DEF020 | DEF030 | DEF031
+39605,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+39608,Toyota,Avalon,2GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-2110 | 275036-4520 | 275036-5130 ( CAN )
+39617,Toyota,Land Cruiser,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+39621,Toyota,Sequoia,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+39625,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+39628,Toyota,Tundra,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+39630,Toyota,Tundra,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+39632,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+39646,Toyota,Land Cruiser,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+39650,Toyota,Sequoia,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+39653,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+39655,Toyota,Tundra,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+39656,Toyota,Tundra,1UR-FE,Denso,(left NULL - genuinely ambiguous),175822-737 | 275922-001
+39660,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+39675,Toyota,Land Cruiser,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+39681,Toyota,Sequoia,3UR-FE,Denso,(left NULL - genuinely ambiguous),275036-3560 | 275036-5920
+39685,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+39689,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+39718,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+39724,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+39755,Toyota,Tacoma,2TR-FE,Denso,(left NULL - genuinely ambiguous),175822-887_39GD | 275036-7400 | 275036-9170 | 275136-1910 | 275922-828
+39762,Toyota,4Runner,1GR-FE,Denso,(left NULL - genuinely ambiguous),275036-0360 | 275036-5130 ( CAN ) | 275036-5920 | 275136-2010
+39856,Volkswagen,Jetta,CZEA,Bosch,(left NULL - genuinely ambiguous),MED17.1.61 | MED17.5.21 | MED17.5.25
+39869,Volkswagen,Golf,CZEA,Bosch,(left NULL - genuinely ambiguous),MED17.1.61 | MED17.5.21 | MED17.5.25
+39875,Volkswagen,Jetta,CZEA,Bosch,(left NULL - genuinely ambiguous),MED17.1.61 | MED17.5.21 | MED17.5.25
+39888,Volkswagen,Golf,CZEA,Bosch,(left NULL - genuinely ambiguous),MED17.1.61 | MED17.5.21 | MED17.5.25
+39890,Volkswagen,Jetta,CZEA,Bosch,(left NULL - genuinely ambiguous),MED17.1.61 | MED17.5.21 | MED17.5.25
+39903,Volkswagen,Golf,CZEA,Bosch,(left NULL - genuinely ambiguous),MED17.1.61 | MED17.5.21 | MED17.5.25
+39905,Volkswagen,Jetta,CZEA,Bosch,(left NULL - genuinely ambiguous),MED17.1.61 | MED17.5.21 | MED17.5.25
