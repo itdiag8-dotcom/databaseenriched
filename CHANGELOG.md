@@ -1,3 +1,21 @@
+## 2026-10-01 - Step 95: dashboard car selection becomes a picture catalog (7zap-style)
+
+- The dashboard's brand -> model -> engine type -> engine code dropdown cascade now has a visual
+  twin: a **Catalog view** (default) with a brand grid, then 7zap-like generation cards showing the
+  model picture, years, variant/engine counts, the matched catalogue entry and a `7zap`/`wikidata`
+  source badge. Picking an engine code drops into the unchanged editor with everything preselected.
+- New endpoints: `/api/catalog/brands`, `/api/catalog/brands/:brand/models`, `/api/catalog/stats`,
+  `/model_images/<brand>/<file>`.
+- **`/img?u=<url>` proxies and caches pictures** to `model_images/_cache/`: the database holds 781
+  image URLs but no local files yet (step 92 unrun), and browsers can be refused by hot-link
+  protection. Allow-list: img.7zap.com, 7zap.com, commons.wikimedia.org, upload.wikimedia.org.
+- Commons attribution is rendered on the cards (`image_credit` / `image_license`, with a source-page
+  fallback); 7zap tiles show none, as none is required.
+- `server.listen` now honours `HOST` (default `127.0.0.1`, unchanged behaviour).
+- `dashboard/catalog_smoke_test.mjs` runs the dashboard JS against the live API with a stubbed DOM
+  and walks all four levels - 147 brand tiles, 379 BMW model tiles with 362 pictures - so the UI can
+  be verified without a browser.
+
 ## 2026-10-01 - Step 94: Wikidata/Commons fallback for the brands 7zap does not carry
 
 - 91 brands / 1 229 model rows (Ferrari, Aston Martin, Bugatti, Isuzu, Bentley, Maserati, Jaguar,

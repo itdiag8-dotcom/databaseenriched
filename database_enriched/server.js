@@ -2,6 +2,7 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const crypto = require('node:crypto');
 const { DatabaseSync } = require('node:sqlite');
 
 const ROOT = __dirname;
@@ -9,6 +10,8 @@ const DB_PATH = path.join(ROOT, 'car_database.db');
 const DASH_PATH = path.join(ROOT, 'dashboard', 'index.html');
 const BACKUP_DIR = path.join(ROOT, 'backups');
 const PORT = Number(process.env.PORT || 3000);
+// stays local by default; set HOST=0.0.0.0 to expose it (e.g. a remote preview)
+const HOST = process.env.HOST || '127.0.0.1';
 
 fs.mkdirSync(BACKUP_DIR, { recursive: true });
 const today = new Date().toISOString().slice(0, 10);
@@ -186,6 +189,118 @@ const server = http.createServer(async (req, res) => {
       res.writeHead(200, { 'Content-Type': ct, 'Content-Length': data.length, 'Cache-Control': 'public, max-age=86400' });
       res.end(data);
       return;
+    }
+
+    /* ---- model pictures (model_images/<brand>/<file>) ---- */
+    m = p.match(/^\/model_images\/(.+)$/);
+    if (req.method === 'GET' && m) {
+      const rel = decodeURIComponent(m[1]).split('/').filter(x => x && x !== '..' && x !== '.');
+      const file = path.join(ROOT, 'model_images', ...rel);
+      if (!rel.length || !file.startsWith(path.join(ROOT, 'model_images')) || !fs.existsSync(file)) {
+        return json(res, { error: 'image not found' }, 404);
+      }
+      const data = fs.readFileSync(file);
+      const ext = path.extname(file).toLowerCase();
+      const ct = ext === '.webp' ? 'image/webp' : ext === '.png' ? 'image/png'
+        : (ext === '.jpg' || ext === '.jpeg') ? 'image/jpeg' : ext === '.gif' ? 'image/gif'
+        : 'application/octet-stream';
+      res.writeHead(200, { 'Content-Type': ct, 'Content-Length': data.length, 'Cache-Control': 'public, max-age=86400' });
+      res.end(data);
+      return;
+    }
+
+    /* ---- picture proxy + on-disk cache (/img?u=<source url>) ----
+       Lets the dashboard show catalogue pictures before step92 has downloaded
+       them, avoids hot-link/referer blocking, and keeps every fetched file in
+       model_images/_cache so the next load is local. */
+    if (req.method === 'GET' && p === '/img') {
+      const raw = q.get('u') || '';
+      let u;
+      try { u = new URL(raw); } catch { return json(res, { error: 'bad url' }, 400); }
+      const ALLOWED = new Set(['img.7zap.com', '7zap.com', 'commons.wikimedia.org', 'upload.wikimedia.org']);
+      if (u.protocol !== 'https:' || !ALLOWED.has(u.hostname)) {
+        return json(res, { error: 'host not allowed' }, 403);
+      }
+      const cacheDir = path.join(ROOT, 'model_images', '_cache');
+      const key = crypto.createHash('sha1').update(raw).digest('hex');
+      const guess = path.extname(u.pathname).toLowerCase().split('?')[0];
+      const ext = ['.webp', '.jpg', '.jpeg', '.png', '.gif'].includes(guess) ? guess : '.img';
+      const file = path.join(cacheDir, key + ext);
+      const TYPES = { '.webp': 'image/webp', '.png': 'image/png', '.jpg': 'image/jpeg',
+                      '.jpeg': 'image/jpeg', '.gif': 'image/gif', '.img': 'application/octet-stream' };
+      const serve = buf => {
+        res.writeHead(200, { 'Content-Type': TYPES[ext], 'Content-Length': buf.length,
+                             'Cache-Control': 'public, max-age=604800' });
+        res.end(buf);
+      };
+      if (fs.existsSync(file)) return serve(fs.readFileSync(file));
+      try {
+        const headers = { 'User-Agent': 'car-database-dashboard/1.0 (local model picture viewer)' };
+        if (u.hostname.endsWith('7zap.com')) headers.Referer = 'https://7zap.com/en/';
+        const r = await fetch(raw, { headers, redirect: 'follow' });
+        if (!r.ok) return json(res, { error: 'upstream ' + r.status }, 502);
+        const buf = Buffer.from(await r.arrayBuffer());
+        fs.mkdirSync(cacheDir, { recursive: true });
+        fs.writeFileSync(file, buf);
+        return serve(buf);
+      } catch (e) {
+        return json(res, { error: 'fetch failed: ' + e.message }, 502);
+      }
+    }
+
+    /* ---- catalog: brand tiles (7zap-style picture browser) ---- */
+    if (req.method === 'GET' && p === '/api/catalog/brands') {
+      const rows = db.prepare(
+        "SELECT m.brand_name AS name, COUNT(*) AS model_count, " +
+        "SUM(CASE WHEN m.image_url IS NOT NULL AND m.image_url<>'' THEN 1 ELSE 0 END) AS with_image, " +
+        "SUM(COALESCE(m.total_variants,0)) AS variant_count, " +
+        "MIN(m.production_start) AS first_year, MAX(m.production_end) AS last_year " +
+        "FROM models m GROUP BY m.brand_name ORDER BY m.brand_name"
+      ).all();
+      const cover = db.prepare(
+        "SELECT brand_name, image_url, image_local_path, image_source FROM models " +
+        "WHERE image_url IS NOT NULL AND image_url<>'' " +
+        "GROUP BY brand_name HAVING MAX(COALESCE(image_match_score,0))"
+      ).all();
+      const byBrand = {};
+      for (const c of cover) byBrand[c.brand_name] = c;
+      for (const r of rows) {
+        const c = byBrand[r.name];
+        r.image_url = c ? c.image_url : null;
+        r.image_local_path = c ? c.image_local_path : null;
+        r.image_source = c ? c.image_source : null;
+      }
+      return json(res, rows);
+    }
+
+    /* ---- catalog: model cards for one brand ---- */
+    m = p.match(/^\/api\/catalog\/brands\/([^/]+)\/models$/);
+    if (req.method === 'GET' && m) {
+      const brand = decodeURIComponent(m[1]);
+      const rows = db.prepare(
+        'SELECT id, model_name, production_start, production_end, years_span, total_variants, ' +
+        'source, status, image_url, image_local_path, image_source, image_source_page, ' +
+        'image_match_name, image_match_score, image_match_method, image_credit, image_license, ' +
+        '(SELECT COUNT(*) FROM vehicle_variants v WHERE v.car_brand=m.brand_name AND v.car_model=m.model_name) AS variant_count, ' +
+        '(SELECT COUNT(DISTINCT v.engine_code) FROM vehicle_variants v WHERE v.car_brand=m.brand_name AND v.car_model=m.model_name) AS engine_count ' +
+        'FROM models m WHERE brand_name=? ORDER BY model_name'
+      ).all(brand);
+      return json(res, rows);
+    }
+
+    /* ---- catalog: picture coverage summary ---- */
+    if (req.method === 'GET' && p === '/api/catalog/stats') {
+      const row = db.prepare(
+        "SELECT COUNT(*) AS models, " +
+        "SUM(CASE WHEN image_url IS NOT NULL AND image_url<>'' THEN 1 ELSE 0 END) AS with_image, " +
+        "SUM(CASE WHEN image_local_path IS NOT NULL AND image_local_path<>'' THEN 1 ELSE 0 END) AS downloaded, " +
+        "COUNT(DISTINCT brand_name) AS brands FROM models"
+      ).get();
+      const bySource = db.prepare(
+        "SELECT COALESCE(image_source,'?') AS source, COUNT(*) AS n FROM models " +
+        "WHERE image_url IS NOT NULL AND image_url<>'' GROUP BY 1 ORDER BY n DESC"
+      ).all();
+      return json(res, { ...row, by_source: bySource });
     }
 
     /* ---- brands ---- */
@@ -581,7 +696,7 @@ const server = http.createServer(async (req, res) => {
   }
 });
 
-server.listen(PORT, '127.0.0.1', () => {
+server.listen(PORT, HOST, () => {
   console.log('Car database dashboard running at  http://localhost:' + PORT);
   console.log('Database: ' + DB_PATH);
   console.log('Backups:  ' + BACKUP_DIR);

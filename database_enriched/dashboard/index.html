@@ -117,6 +117,47 @@
   #saveAll:not(:disabled){animation:pulse 1.6s infinite}
   @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(59,139,245,.5)}50%{box-shadow:0 0 0 5px rgba(59,139,245,0)}}
   @media(max-width:920px){.layout{grid-template-columns:1fr}aside{position:static}.sr{position:static}}
+  /* ---- 7zap-style picture catalog ---- */
+  .viewtabs{display:flex;gap:6px;margin-right:6px}
+  .viewtabs button.on{background:#1b6bc4;border-color:#3b8bf5}
+  #catalog{padding:16px;max-width:1800px;margin:0 auto}
+  .catbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+  .catbar input[type=search]{width:auto;flex:1;min-width:180px}
+  .catcrumb{display:flex;align-items:center;gap:6px;font-size:13px;flex-wrap:wrap}
+  .catcrumb a{color:#7cc4ff;cursor:pointer;text-decoration:none}
+  .catcrumb a:hover{text-decoration:underline}
+  .catcrumb .sep{color:#44566b}
+  .catcrumb b{color:#e6eef8}
+  .chk{display:flex;align-items:center;gap:6px;font-size:12px;color:#9fb3c8;white-space:nowrap}
+  .chk input{width:auto}
+  .azbar{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:12px}
+  .azbar button{padding:2px 8px;font-size:11px;background:#0f2138;border-color:#253240}
+  .azbar button.on{background:#1b6bc4;border-color:#3b8bf5}
+  .grid{display:grid;gap:12px}
+  .grid.brands{grid-template-columns:repeat(auto-fill,minmax(190px,1fr))}
+  .grid.models{grid-template-columns:repeat(auto-fill,minmax(230px,1fr))}
+  .grid.chips{grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
+  .tile{background:#0b1220;border:1px solid #253240;border-radius:12px;overflow:hidden;cursor:pointer;
+        display:flex;flex-direction:column;transition:border-color .12s,transform .12s}
+  .tile:hover{border-color:#3b8bf5;transform:translateY(-2px)}
+  .tile .shot{height:132px;background:#070d16;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
+  .tile .shot img{width:100%;height:100%;object-fit:contain;padding:6px}
+  .tile .shot .ph{font-size:30px;opacity:.25}
+  .tile .shot .srcbadge{position:absolute;top:6px;right:6px;font-size:9px;letter-spacing:.4px;text-transform:uppercase;
+        padding:1px 6px;border-radius:999px;background:rgba(8,16,28,.85);border:1px solid #2a5a8a;color:#7cc4ff}
+  .tile .shot .srcbadge.wikidata{border-color:#5a4a2a;color:#fde68a}
+  .tile .body{padding:9px 11px;display:flex;flex-direction:column;gap:3px;flex:1}
+  .tile .name{font-size:13px;font-weight:600;line-height:1.25;word-break:break-word}
+  .tile .sub{font-size:11px;color:#9fb3c8}
+  .tile .foot{margin-top:auto;display:flex;gap:6px;flex-wrap:wrap;padding-top:6px}
+  .tile .foot .pill{font-size:10px;padding:1px 7px}
+  .tile .credit{font-size:9px;color:#6b7f96;line-height:1.3;word-break:break-word}
+  .tile.initial .shot{background:linear-gradient(145deg,#132236,#0a1420)}
+  .tile.initial .shot .letters{font-size:30px;font-weight:700;color:#3f6186;letter-spacing:1px}
+  .covbar{height:4px;background:#13202e;border-radius:999px;overflow:hidden;margin-top:6px}
+  .covbar i{display:block;height:100%;background:#2b86e8}
+  .catempty{color:#9fb3c8;font-style:italic;padding:28px;text-align:center}
+  .catnote{font-size:11px;color:#9fb3c8;margin-bottom:10px}
 </style>
 </head>
 <body>
@@ -124,9 +165,27 @@
   <div class="logo">&#128663; <span>Car Database Dashboard</span></div>
   <div class="dbpath" id="dbpath">car_database.db</div>
   <div class="spacer"></div>
+  <div class="viewtabs">
+    <button id="btnViewCatalog" class="on" title="Browse brands and models as pictures, 7zap style">&#128444;&#65039; Catalog</button>
+    <button id="btnViewEditor" title="Classic dropdown cascade + editor">&#9881;&#65039; Editor</button>
+  </div>
   <button id="btnBackup" title="Copy the database to backups/">Backup now</button>
   <button id="btnOpenBak" title="Open the backups folder">Open backups</button>
 </header>
+
+<section id="catalog">
+  <div class="card">
+    <div class="catbar">
+      <nav class="catcrumb" id="catCrumb"></nav>
+      <div class="spacer" style="flex:1"></div>
+      <input type="search" id="catFilter" placeholder="Filter…" autocomplete="off">
+      <label class="chk"><input type="checkbox" id="catOnlyPics"> with picture only</label>
+    </div>
+    <div class="catnote muted" id="catStats"></div>
+    <div class="azbar" id="catAz"></div>
+    <div id="catBody"><div class="catempty">loading…</div></div>
+  </div>
+</section>
 
 <div class="layout">
   <aside>
@@ -434,6 +493,7 @@ async function loadEngine(code, opts){
     syncCascadeButtons();
     $('#placeholder').hidden = true;
     $('#detail').hidden = false;
+    if (typeof showView === 'function') showView('editor');
     Object.keys(PENDING).forEach(k => delete PENDING[k]);
     if (!opts.keepSelection) { trySelectPathFromData(); }
     render();
@@ -1137,9 +1197,222 @@ selModel.addEventListener('change', onModel);
 selEtype.addEventListener('change', onEtype);
 selCode.addEventListener('change', onCode);
 
+/* ====================================================================
+   7zap-style picture catalog: Brand -> Model -> Engine type -> Code
+   ==================================================================== */
+const CAT = { level:'brands', brand:'', model:'', modelObj:null, etype:'',
+              brands:[], models:[], types:[], codes:[], az:'', stats:null };
+
+function showView(v){
+  const cat = v === 'catalog';
+  $('#catalog').style.display = cat ? '' : 'none';
+  document.querySelector('.layout').style.display = cat ? 'none' : '';
+  $('#btnViewCatalog').classList.toggle('on', cat);
+  $('#btnViewEditor').classList.toggle('on', !cat);
+}
+
+function picSrc(row){
+  if (row.image_local_path) {
+    const rel = String(row.image_local_path).split(/model_images[\\/]/).pop();
+    return '/model_images/' + rel.split(/[\\/]/).filter(Boolean).map(encodeURIComponent).join('/');
+  }
+  // not downloaded yet: let the server fetch + cache it (also dodges hot-link blocks)
+  return row.image_url ? '/img?u=' + encodeURIComponent(row.image_url) : '';
+}
+
+function creditHTML(row){
+  // Commons pictures are free only if credited; 7zap assets need no attribution
+  if (row.image_credit) {
+    return `<div class="credit">&copy; ${escapeHtml(row.image_credit)}` +
+           `${row.image_license ? ' · ' + escapeHtml(row.image_license) : ''}</div>`;
+  }
+  if (row.image_source === 'wikidata') {
+    return '<div class="credit">Wikimedia Commons · author and licence on the source page</div>';
+  }
+  return '';
+}
+
+function shotHTML(row, placeholder){
+  const src = picSrc(row);
+  const badge = row.image_source
+    ? `<span class="srcbadge ${row.image_source === 'wikidata' ? 'wikidata' : ''}">${escapeHtml(row.image_source)}</span>` : '';
+  if (!src) return `<div class="shot"><span class="ph">${placeholder}</span></div>`;
+  return `<div class="shot"><img loading="lazy" referrerpolicy="no-referrer" src="${escapeHtml(src)}"
+      alt="${escapeHtml(row.model_name || row.name || '')}"
+      onerror="this.parentNode.innerHTML='<span class=&quot;ph&quot;>${placeholder}</span>'">${badge}</div>`;
+}
+
+function catCrumb(){
+  const parts = [`<a onclick="catGo('brands')">All brands</a>`];
+  if (CAT.brand) parts.push(`<a onclick="catGo('models')">${escapeHtml(CAT.brand)}</a>`);
+  if (CAT.model) parts.push(`<a onclick="catGo('types')">${escapeHtml(CAT.model)}</a>`);
+  if (CAT.etype) parts.push(`<b>${escapeHtml(CAT.etype)}</b>`);
+  const last = parts.pop();
+  $('#catCrumb').innerHTML = parts.map(x => x + ' <span class="sep">&rsaquo;</span> ').join('') +
+    (CAT.level === 'brands' ? '<b>All brands</b>' : last);
+}
+
+function catFilterValue(){ return ($('#catFilter').value || '').trim().toLowerCase(); }
+
+async function catLoadStats(){
+  try {
+    CAT.stats = await api('/api/catalog/stats');
+    const s = CAT.stats;
+    const srcs = (s.by_source || []).map(x => `${x.n} ${x.source}`).join(' + ');
+    $('#catStats').innerHTML =
+      `<b>${s.with_image}</b> of ${s.models} models illustrated` +
+      (srcs ? ` (${srcs})` : '') +
+      ` &nbsp;·&nbsp; ${s.downloaded} picture file${s.downloaded === 1 ? '' : 's'} stored locally` +
+      (s.downloaded === 0 ? ' <span class="muted">— run step92 to download them; until then the pictures load from the source site</span>' : '');
+  } catch (e) { $('#catStats').textContent = ''; }
+}
+
+async function catGo(level, arg){
+  if (level === 'brands') { CAT.brand=''; CAT.model=''; CAT.modelObj=null; CAT.etype=''; }
+  if (level === 'models' && arg) { CAT.brand = arg; CAT.model=''; CAT.modelObj=null; CAT.etype=''; }
+  if (level === 'types' && arg) { CAT.modelObj = arg; CAT.model = arg.model_name; CAT.etype=''; }
+  if (level === 'codes' && arg !== undefined) { CAT.etype = arg; }
+  CAT.level = level;
+  $('#catFilter').value = '';
+  $('#catFilter').placeholder = level === 'brands' ? 'Filter brands…' : level === 'models' ? 'Filter models…' : 'Filter…';
+  showView('catalog');
+  await catRender();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+async function catRender(){
+  catCrumb();
+  const body = $('#catBody');
+  const az = $('#catAz');
+  body.innerHTML = '<div class="catempty">loading…</div>';
+  az.style.display = CAT.level === 'brands' ? '' : 'none';
+  $('#catOnlyPics').parentNode.style.display = (CAT.level === 'brands' || CAT.level === 'models') ? '' : 'none';
+  try {
+    if (CAT.level === 'brands') return catRenderBrands(body, az);
+    if (CAT.level === 'models') return catRenderModels(body);
+    if (CAT.level === 'types')  return catRenderTypes(body);
+    if (CAT.level === 'codes')  return catRenderCodes(body);
+  } catch (e) {
+    body.innerHTML = `<div class="catempty err">${escapeHtml(e.message)}</div>`;
+  }
+}
+
+async function catRenderBrands(body, az){
+  if (!CAT.brands.length) CAT.brands = await api('/api/catalog/brands');
+  const letters = [...new Set(CAT.brands.map(b => (b.name[0] || '#').toUpperCase()))].sort();
+  az.innerHTML = [`<button class="${CAT.az ? '' : 'on'}" onclick="CAT.az='';catRender()">All</button>`]
+    .concat(letters.map(l => `<button class="${CAT.az === l ? 'on' : ''}" onclick="CAT.az='${l}';catRender()">${l}</button>`)).join('');
+  const f = catFilterValue(), onlyPics = $('#catOnlyPics').checked;
+  const rows = CAT.brands.filter(b =>
+    (!f || b.name.toLowerCase().includes(f)) &&
+    (!CAT.az || (b.name[0] || '').toUpperCase() === CAT.az) &&
+    (!onlyPics || b.with_image > 0));
+  if (!rows.length) { body.innerHTML = '<div class="catempty">no brand matches</div>'; return; }
+  body.innerHTML = '<div class="grid brands">' + rows.map(b => {
+    const pct = b.model_count ? Math.round(100 * b.with_image / b.model_count) : 0;
+    const initials = escapeHtml(b.name.slice(0, 3).toUpperCase());
+    const shot = picSrc(b) ? shotHTML({ ...b, model_name: b.name }, '&#128663;')
+      : `<div class="shot"><span class="letters">${initials}</span></div>`;
+    return `<div class="tile ${picSrc(b) ? '' : 'initial'}" onclick="catGo('models', ${JSON.stringify(b.name).replace(/"/g, '&quot;')})">
+      ${shot}
+      <div class="body">
+        <div class="name">${escapeHtml(b.name)}</div>
+        <div class="sub">${b.model_count} model${b.model_count === 1 ? '' : 's'} · ${b.variant_count || 0} variants</div>
+        <div class="covbar" title="${b.with_image}/${b.model_count} illustrated"><i style="width:${pct}%"></i></div>
+        <div class="sub">${b.with_image}/${b.model_count} with picture</div>
+      </div></div>`;
+  }).join('') + '</div>';
+}
+
+async function catRenderModels(body){
+  if (CAT._modelsFor !== CAT.brand) {           // cache: filtering must not re-query
+    CAT.models = await api('/api/catalog/brands/' + encode(CAT.brand) + '/models');
+    CAT._modelsFor = CAT.brand;
+  }
+  const f = catFilterValue(), onlyPics = $('#catOnlyPics').checked;
+  const rows = CAT.models.filter(m =>
+    (!f || m.model_name.toLowerCase().includes(f)) && (!onlyPics || m.image_url));
+  if (!rows.length) { body.innerHTML = '<div class="catempty">no model matches</div>'; return; }
+  body.innerHTML = '<div class="grid models">' + rows.map((m, i) => {
+    const yrs = m.years_span || (m.production_start ? m.production_start + '–' + (m.production_end || '') : '');
+    const credit = creditHTML(m);
+    const match = m.image_match_name
+      ? `<div class="sub" title="matched by ${escapeHtml(m.image_match_method || '')} (score ${m.image_match_score})">picture: ${escapeHtml(m.image_match_name)}</div>` : '';
+    return `<div class="tile" onclick="catPickModel(${i})" data-idx="${i}">
+      ${shotHTML(m, '&#128663;')}
+      <div class="body">
+        <div class="name">${escapeHtml(m.model_name)}</div>
+        <div class="sub">${escapeHtml(yrs || '—')}</div>
+        ${match}${credit}
+        <div class="foot">
+          <span class="pill">${m.variant_count} variant${m.variant_count === 1 ? '' : 's'}</span>
+          <span class="pill">${m.engine_count} engine${m.engine_count === 1 ? '' : 's'}</span>
+        </div>
+      </div></div>`;
+  }).join('') + '</div>';
+  body._rows = rows;
+}
+
+function catPickModel(i){
+  const rows = $('#catBody')._rows || [];
+  const m = rows[i];
+  if (m) catGo('types', m);
+}
+
+async function catRenderTypes(body){
+  const m = CAT.modelObj || {};
+  CAT.types = CAT.types_for === CAT.brand + '|' + CAT.model ? CAT.types : await api(`/api/brands/${encode(CAT.brand)}/models/${encode(CAT.model)}/engine_types`);
+  CAT.types_for = CAT.brand + '|' + CAT.model;
+  const head = `<div class="grid models" style="margin-bottom:14px;grid-template-columns:minmax(240px,320px)">
+      <div class="tile" style="cursor:default">
+        ${shotHTML(m, '&#128663;')}
+        <div class="body"><div class="name">${escapeHtml(CAT.brand)} ${escapeHtml(CAT.model)}</div>
+        <div class="sub">${escapeHtml(m.years_span || '—')} · ${m.variant_count || 0} variants</div>
+        ${m.image_source_page ? `<div class="sub"><a href="${escapeHtml(m.image_source_page)}" target="_blank" rel="noreferrer">picture source &#8599;</a></div>` : ''}
+        ${creditHTML(m)}
+        </div></div></div>`;
+  if (!CAT.types.length) {
+    body.innerHTML = head + '<div class="catempty">no engine variants recorded for this model</div>';
+    return;
+  }
+  body.innerHTML = head + '<div class="grid chips">' + CAT.types.map(t =>
+    `<div class="tile" style="padding:12px" onclick="catGo('codes', ${JSON.stringify(t.engine_type || '').replace(/"/g, '&quot;')})">
+       <div class="body"><div class="name">${escapeHtml(t.engine_type || '(empty)')}</div>
+       <div class="sub">${t.n} variant${t.n === 1 ? '' : 's'} · ${t.codes} engine code${t.codes === 1 ? '' : 's'}</div></div>
+     </div>`).join('') + '</div>';
+}
+
+async function catRenderCodes(body){
+  CAT.codes = await api(`/api/brands/${encode(CAT.brand)}/models/${encode(CAT.model)}/codes?engine_type=${encode(CAT.etype)}`);
+  if (!CAT.codes.length) { body.innerHTML = '<div class="catempty">no engine codes</div>'; return; }
+  body.innerHTML = '<div class="grid chips">' + CAT.codes.map(c =>
+    `<div class="tile" style="padding:12px" onclick="catOpenEditor(${JSON.stringify(c.engine_code).replace(/"/g, '&quot;')})">
+       <div class="body"><div class="name" style="font-family:ui-monospace,Menlo,monospace;color:#7cc4ff">${escapeHtml(c.engine_code)}</div>
+       <div class="sub">${escapeHtml(c.fuel || '')}${c.engine_power_hp ? ' · ' + c.engine_power_hp + ' hp' : ''}</div>
+       <div class="foot"><span class="pill">${c.n} variant${c.n === 1 ? '' : 's'}</span>
+       <span class="pill good">edit &rsaquo;</span></div></div>
+     </div>`).join('') + '</div>';
+}
+
+async function catOpenEditor(code){
+  showView('editor');
+  selBrand.value = CAT.brand; await onBrand();
+  selModel.value = CAT.model; await onModel();
+  selEtype.value = CAT.etype; await onEtype();
+  selCode.value = code; await onCode();
+}
+
+$('#btnViewCatalog').onclick = () => { showView('catalog'); if (!CAT.brands.length) catRender(); };
+$('#btnViewEditor').onclick = () => showView('editor');
+$('#catFilter').addEventListener('input', () => catRender());
+$('#catOnlyPics').addEventListener('change', () => catRender());
+
 /* ---------- boot ---------- */
 (async () => {
   await loadBrands();
+  showView('catalog');
+  catLoadStats();
+  catRender();
 })();
 </script>
 </body>
