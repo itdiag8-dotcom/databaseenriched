@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 5 Batch 47: Smart + Tesla + Daewoo (step56/56b)
+- 31/31 rows mapped, 0 skips. Three brands with no shared hardware, batched because each poses the same question differently: what to do when the crawl's model name has lost what you need.
+- Smart: fill tracks the generation change (3.31-3.4 L = 451 1.0 three-cylinder 70hp; 3.59 L from 2016 = 453 0.9 turbo 89hp). The MY2015 FORTWOELECTR trim row is the Electric Drive -> new 74hp BEV row, fuel Petrol->Electric.
+- Daewoo: one US engine per nameplate - Lanos 1.6 (3.78 L), Nubira 2.0 (3.88-3.97 L), Leganza 2.2 (3.97 L), the last added as the new X22SE.
+- Tesla: Model S/3/X/Y all truncate to "MODEL" with no displacement, fill or VIN, so the car is unrecoverable - but every Tesla is battery-electric. The 10 rows map to one explicit BEV (Tesla, model unidentified) engine, fuel corrected Petrol->Electric, power left NULL rather than invented: a smaller claim than the LEMON placeholders made, and unlike them a true one.
+- 3 new engines (X22SE, smart ED, Tesla BEV). 4 ROW_FIXES for junk descriptors. 56b: 4 ESTIMATE overrides off placeholder fills, 1 normalization, 1 power sync.
+- DB: LEMON 71->40; engines 5,725->5,696; 0 orphans/count mismatches/fuel conflicts.
 ## 2026-10-01 - Step 5 Batch 46: Kia + Hyundai (step55/55b/55c)
 - 20/20 rows mapped, 0 skips, 0 new engines. One batch because HMG is one engine catalogue (Nu, Gamma, Lambda, Smartstream).
 - Four targets confirmed by matching the crawl's fill/viscosity against specs already stored in this DB: G4FJ 4.5 L 5W-30 (Forte Koup SX / Forte5 SX 1.6 T-GDI 201hp), G4NA/G4NC 4.0 L 5W-20 (2.0 Nu), G4KN 5.8 L (K5 2025 2.5 Smartstream 191hp), G6BV 4.51 L (Optima 2001 2.5 V6, against the 2.4 four's 4.25 L).
