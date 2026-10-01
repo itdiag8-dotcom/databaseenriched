@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 5 Batch 33: Fiat (step42/42b)
+- 64/64 rows mapped, 0 skips. First batch decoded largely from the crawl's VIN engine digit: Fiat position-8 table gives R = 1.4 MultiAir NA (101hp, EAB), H = 1.4 MultiAir Turbo (EAF/EAM, 135-160hp), E = 83 kW electric.
+- 21 MY2015 trim-slug rows handled by the trim table (Abarth 160/157, Turbo 135, Pop-Sport-Lounge 101, every 500L trim 160).
+- Six BEV rows recorded as Petrol were corrected to Electric, including the MY2024 "500" row - the only US Fiat 500 that year was the new 500e.
+- 3 new engines (1.4 MultiAir NA, 500e 83 kW, 500e 87 kW); existing 1.4 MultiAir Turbo, ED8 Tigershark and 1.3 GSE Turbo rows reused with updated descriptors.
+- 42b: 0 overrides, 0 normalizations, 2 kept, 3 power syncs - no correction script needed.
+- DB: LEMON 584->520; engines 6,221->6,160; Fiat fuel conflicts 0; Fiat NULL-power variants 64->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 32: Genesis (step41/41b)
 - 74/74 rows mapped, 0 skips. Four Hyundai families cover the whole brand: Theta II FR 2.0T, Lambda II 3.8/3.3T, Tau 5.0 V8, Smartstream 2.5T/3.5T.
 - Key identification: the G70/G80 DH/Stinger 2.0T is the longitudinal G4KL (252hp), not the transverse Sonata G4KH; Smartstream codes confirmed as G4KR (2.5T 300hp) and G6DT (3.5T 375hp).
