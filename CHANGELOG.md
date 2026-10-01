@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 5 Batch 48: Audi + Porsche + Volkswagen (step57/57b/57c)
+- 19/19 rows mapped, 0 skips - including the eight bare "RS" rows batch 36 had deferred.
+- The RS rows resolved without guessing: all eight carry only two fills, 7.09 L (2.5 five-cylinder, RS 3) and 7.57 L (2.9 V6 biturbo, RS 5 - this project's own EA839 fingerprint). Neither is near the 4.0 V8's 9+ L, which rules the RS 6/RS 7/RS Q8 out of every row. Both engines were missing from the DB and are added.
+- Porsche: one nameplate, two engines, separated by fill - Cayenne 3.6 at 8.49 L is the NA V6 (300hp, 2015/2017), at 6.7 L the twin-turbo Cayenne S (420hp, 2016/2018); 911 3.8 VIN D 2012-13 = 991 Carrera S 400hp; Macan 3.0 2020-21 = Macan S 348hp.
+- VW: Golf 2025 = GTI Mk8 EA888 241hp; Passat 2.8 2005 = 2.8 V6 30v 190hp (new ATQ row); Touareg 5.0 = V10 TDI 310hp, fuel corrected Petrol->Diesel.
+- 5 ROW_FIXES (both Cayenne 3.6 rows were listed as 8-cylinder). 57b: 3 ESTIMATE overrides, 3 normalizations, 2 power syncs; 57c reverts all three normalizations, which had traded curated specs for single-row anecdotes (Touareg 11.45 L, Porsche A40 0W-40, VW 508 00 0W-20).
+- DB: LEMON 40->21; engines 5,696->5,679; 0 orphans/count mismatches/fuel conflicts.
 ## 2026-10-01 - Step 5 Batch 47: Smart + Tesla + Daewoo (step56/56b)
 - 31/31 rows mapped, 0 skips. Three brands with no shared hardware, batched because each poses the same question differently: what to do when the crawl's model name has lost what you need.
 - Smart: fill tracks the generation change (3.31-3.4 L = 451 1.0 three-cylinder 70hp; 3.59 L from 2016 = 453 0.9 turbo 89hp). The MY2015 FORTWOELECTR trim row is the Electric Drive -> new 74hp BEV row, fuel Petrol->Electric.
