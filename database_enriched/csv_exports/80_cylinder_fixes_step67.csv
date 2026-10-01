@@ -1,0 +1,34 @@
+engine_code,action,variants,old_cylinders,new_cylinders,old_cc,new_cc,evidence
+AXD,FIX,10,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+AXE,FIX,10,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+BNZ,FIX,11,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+BPC,FIX,11,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+CECA,FIX,5,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+CECB,FIX,5,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+CEBA,FIX,5,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+BBE,FIX,4,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+BBF,FIX,4,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+AVR,FIX,1,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+AJT,FIX,1,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+ANJ,FIX,0,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+APA,FIX,0,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+ACV,FIX,0,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+AUF,FIX,0,6,5,2500,2500,"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+OM642DE30LA,FIX,43,4,6,2873,2987,Mercedes OM642 is the 3.0 V6 CDI; source '3.0L ... CDI'. Stored cc 2873 is the leaked-designation bug from Step 11
+OM642DE30LAR,FIX,7,4,6,2444,2987,Mercedes OM642 3.0 V6 CDI; stored cc 2444 is corrupt
+OM642LSDE30LA,FIX,4,4,6,3393,2987,Mercedes OM642 3.0 V6 CDI; stored cc 3393 is corrupt
+ERB,FIX,11,8,6,3604,3604,"source '3.6L Pentastar V6'; the Pentastar is a V6, stored as 8"
+MCT.LA,FIX,5,8,6,3604,3604,"source '3.6L V6 Turbo'; VW-group 3.6 VR6, stored as 8"
+MCX.ZA,FIX,1,8,6,3604,3604,"source '3.6L V6'; VW-group 3.6 VR6, stored as 8"
+N55B30,FIX,5,4,6,2265,2979,BMW N55 is the 3.0 straight-six; stored as 4 with a corrupt 2265 cc
+M178.980,FIX,4,6,8,4000,4000,"source '4.0L V8 AMG GT-R'; M178 is the AMG 4.0 V8 biturbo, stored as 6"
+N73B68A,FIX,4,8,12,6749,6749,"source '6.8L V12'; BMW N73B68 is the 6,749 cc V12 (Phantom), stored as 8"
+CCFA,FIX,2,6,8,4200,4200,source '4.2L V8 TDI'; the Audi 4.2 TDI is a V8 - our own descriptor wrongly said V6
+1AR-FE,FIX,13,6,4,2671,2671,"Toyota 1AR-FE is the 2.7 inline-four (Camry/RAV4); source '2.7L VVTi', 2671 cc, stored as 6"
+B5254T12,FIX,11,6,5,2497,2497,"Volvo B5254 is the 2.5 inline-five; source '2.5L T5', stored as 6"
+B5254T4,FIX,3,6,5,2521,2521,"Volvo B5254 is the 2.5 inline-five; source '2.5L R AWD', stored as 6"
+4G69S4N,FIX,4,6,4,2378,2378,"Mitsubishi 4G69 is the 2.4 inline-four - the '4G6' family prefix means four, and source says '16V' (4 valves x 4), stored as 6"
+EDZ,KEEP_OURS,61,4,4,2400,2400,source says '2.4L V6'; Chrysler EDZ is the 2.4 DOHC inline-four and our descriptor says 'I4'. Source is wrong.
+G6DC,KEEP_OURS,3,4,4,1997,1997,"identity mismatch, not a cylinder error: source G6DC is a 3.5 V6, ours is a 1,997 cc 2.0 TDCi"
+LFY,KEEP_OURS,1,4,4,1800,1800,"identity mismatch: source LFY is a 3.6 V6, ours is an 1,800 cc 1.8 16v"
+CYRB,KEEP_OURS,2,6,6,2198,2198,"identity mismatch: source CYRB is a 2.0 TFSI petrol, ours is a 2,198 cc diesel"

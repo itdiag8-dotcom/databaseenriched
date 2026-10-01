@@ -1,3 +1,30 @@
+## 2026-10-01 - Step 14: cylinder counts, cross-checked then self-checked (step67/67b/67c)
+
+- **127 engine rows corrected (658 variants).** 29 from the MagicMotorsport layout tokens
+  ("3.6L Pentastar V6", "2.5L R5 TDI"); **98 from our own descriptors contradicting our own
+  cylinder counts**, found because Step 14's verification query was written to fail loudly and
+  reported 14 leftover rows.
+- **A valve count constrains a cylinder count** (2-5 valves per cylinder, nothing else), so a
+  descriptor reading "2.5 10v TDI" on a six-cylinder row is arithmetically impossible. Sweeping
+  that over the whole table found 129 impossible rows. Two false-positive classes were removed
+  first: **"MHEV 48V" is a battery voltage, not valves**, and **five valves per cylinder is real**
+  (the 1.8 20v is a four, the 4.2 V8 40v is an eight) - the naive version would have "corrected"
+  91 already-correct rows.
+- Fixes applied only where a **second independent signal** names the culprit, mostly the engine
+  code's own prefix: Volvo `B5xxx`/`D5xxx` = five, BMW `M5x`/`N5x` = straight-six, Mitsubishi
+  `4Mxx` = four, plus `10v` = five by elimination. **31 rows left untouched and exported**,
+  including `B10D1` (the stored 3 cylinders are right, the "16v" descriptor is wrong) and Ford
+  `SAFA` (both numbers wrong - the 3.2 Duratorq is an inline-five).
+- **The source was not treated as an oracle**: 4 of its claims rejected. `EDZ` is listed as a
+  "2.4L V6" but is Chrysler's 2.4 inline-four; `G6DC`, `LFY` and `CYRB` disagree on displacement
+  and fuel too, so the real defect is a **mis-assigned engine code** - correcting cylinders would
+  have hidden it.
+- Five-cylinder engines correctly recorded 7 -> 94; 4 `displacement_cc` corruptions repaired
+  (3 Mercedes OM642 rows carrying the Step 11 leaked-designation bug, 1 BMW N55B30).
+- Ledger rebuilt from the data (pre-step backup diffed against the live DB) rather than from the
+  decision CSVs, one of which a re-run had overwritten: `csv_exports/82_cylinder_changes_step14_ledger.csv`.
+- 0 fuel conflicts / 0 orphan refs / 0 count mismatches; engines 5,670, variants 37,444.
+
 ## 2026-10-01 - Step 13c: the ambiguous ECUs are not year-separable (step66c)
 
 - Fetched the disputed rows straight from the MagicMotorsport API to test whether the year columns
