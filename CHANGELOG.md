@@ -1,3 +1,9 @@
+## 2026-10-01 — Step 5 Batch 27: GMC + Chevrolet (step36/36b/36c/36d)
+- First merged engine-family batch (GMC and Chevrolet share one GM RPO catalogue). Replaced 208/209 LEMON rows; 1 documented skip (Sierra 6000CC VIN J 2012 - L96 vs LC8 unresolvable). Decode = RPO via displacement + VIN 8th digit + model year (Terrain K/5/3/V/X/U; Acadia LY7->LLT->LFX->LGX/LCV/LSY->LK0; Envoy LL8 270/275/291 + LM4->LH6; full-size L83/L82/L84).
+- 5 new engines (L65 6.5 Detroit Diesel, LAP, LKW, LK0, Ultium e4WD Hummer EV 1000hp Electric); 16 fuel fixes in-batch (L65 x10 Diesel, Hummer EV x4 Electric, LH7 x2 Diesel); 12 ROW_FIXES incl. LU3/LL8/LFX cylinders 8->6.
+- 36b: 5 ESTIMATE overrides, 5 normalized, 7 power syncs. 36c: 21 junk engine rows repaired (G16B "JETSTAR", LN2 NULL type+cylinders, LS1 brand_example Daewoo->Chevrolet). 36d: retired duplicate free-text code "6.5 TD V8 (L65)" into L65; A16XER Diesel->Petrol, LFA Petrol->Hybrid; 27 variant fuel fixes (Duramax->Diesel, two-mode/eAssist->Hybrid); L5P/L3B/LS9/LT5/LF3 power fills; 105 NULL powers backfilled.
+- step5_lemon_lib: multi-brand batches (Cfg.brand accepts a list, "BRAND:MODEL" rule keys, brand-aware decide/extra_decide).
+- DB: LEMON 1,368->1,160; engines 6,986->6,782; GMC+Chevrolet fuel conflicts 42->0 (DB-wide 271->205); 0 orphans/count mismatches.
 ## 2026-10-01 — Step 5 Batch 26: Acura (step35/35b/35c)
 - Replaced 180/180 LEMON Acura rows, zero skips. Decode = nameplate generation + displacement + VIN engine digit (US/CA market, no diesels). 19 new engines (J37A1, J35Y5, J30Y1, J30AC, C32B, JNC1, K23A1, J35Y4 (+SH), J32A3, J35Z6, K24W7, J35Y6, K20C6, K20C8, K24V7, L15CA, B18B1, J37A5); 7 row-fixes incl. J37A2 cylinders 8->6 and the L15BE stub; 6 NSX NC1 rows fuel Petrol->Hybrid.
 - 35b: 10 ESTIMATE overrides, 3 normalized, 23 power syncs. 35c: retired the vivid duplicate R23A2 (bogus 6-cylinder "2.3 Turbo") into K23A1, variant re-dated 2005->2007.
