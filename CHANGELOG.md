@@ -1,3 +1,9 @@
+## 2026-10-01 - Step 5 Batch 39: Lexus (step48/48b/48c)
+- 31/31 rows mapped, 0 skips (12 flagged volume defaults). All rows were bare nameplate+year, so the decode ran on the crawl's oil fill AND viscosity: 0W-16/4.54 L identifies the 2.5 Dynamic Force (ES 250 A25A-FKS), 4.35 L the 2AR-FXE hybrid, 4.63 L the 8AR-FTS 2.0 turbo, 5.39-6.43 L the 2GR-FKS V6, 6.05 L the 2GR-FE, 5.20 L the SC 300's 2JZ-GE.
+- ES 2018 was identified as the ES 300h from its 4.35 L fill and its fuel corrected Petrol->Hybrid. IS/RC 2018-2025 take the volume 350 V6 over the RC F / IS 500 V8 (flagged).
+- No new engines needed. 4 ROW_FIXES: 2AR-FXE was recorded as a 6-cylinder, A25A-FKS had a NULL cylinder count.
+- 48c: two pre-existing variants on the hybrid AVV5/AVV6 bodyshells (an ES and a Camry) were linked to 2AR-FXE but flagged Petrol; their fuel was corrected.
+- DB: LEMON 333->302; engines 5,981->5,950; fuel conflicts on batch targets 1->0; Lexus NULL-power variants 31->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 38: Saab (step47/47b)
 - 34/34 rows mapped, 0 skips (2 flagged volume defaults). Three engineering sources separated by displacement token and crawl oil fill: Subaru-built 9-2X (EJ205 227hp / EJ253 165-173hp, 3.97 L), Saab's own 9-3 and 9-5 (B207R US 210hp, B284L 250-255hp, new B235E US 220hp, A20NHT 220hp) and the GM rebadges (9-7X LL8 275/291, LH6 300, LS2 390; 9-4X LF1 265).
 - 1 new engine (B235E US 9-5 2.3T 220hp). 5 ROW_FIXES, incl. A20NHT which was recorded as a 6-cylinder.
