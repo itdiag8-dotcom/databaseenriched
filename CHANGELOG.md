@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 5 Batch 44: Hummer + Cadillac + GMC + Pontiac (step53/53b)
+- 28/28 rows mapped, 0 skips, and 0 new engines needed - the last four GM brands share a catalogue the earlier GM batches had already completed.
+- Hummer H2 -> LQ4 6.0 (325hp) then L92 6.2 (393hp) from 2008; H3/H3T -> L52 3.5 I5, LLR 3.7 I5 and LH8 5.3 V8 by displacement token; Escalade 2002-2006 -> LQ4 345hp; CTS 6200CC 2015 -> LSA 556hp; STS 2011 -> LLT 302hp.
+- The two rows earlier batches had parked as un-decodable both resolved: GMC Sierra 2012 by its VIN engine character J (the gaseous-fuel-capable LC8, not the L96), and Pontiac "GRAND" 2005 by its 5 qt fill, which only fits the 2.2 Ecotec - the nameplate stays ambiguous but the engine does not.
+- 4 ROW_FIXES: LH8, LQ9, L92 and L61 carried placeholder or incomplete descriptors.
+- 53b: 1 normalization (LLT 5.2 -> 5.67 L), 1 power sync.
+- DB: LEMON 146->118; engines 5,800->5,772; 0 orphans/count mismatches/fuel conflicts.
 ## 2026-10-01 - Step 5 Batch 43: Mercedes-Benz (step52/52b/52c)
 - 37/37 rows mapped, 0 skips. 19 rows decode from the nameplate (Mercedes names its cars after their engines); the 18 Sprinter rows decode from the oil fill, where 12.5 L of 5W-30 is the 3.0 V6 OM642 and 10.5 L the 2.0 four OM654.
 - 18 fuel corrections: every Sprinter row was filed as Petrol and is now Diesel.
