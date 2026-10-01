@@ -1,3 +1,11 @@
+## 2026-10-01 - Step 5 Batch 43: Mercedes-Benz (step52/52b/52c)
+- 37/37 rows mapped, 0 skips. 19 rows decode from the nameplate (Mercedes names its cars after their engines); the 18 Sprinter rows decode from the oil fill, where 12.5 L of 5W-30 is the 3.0 V6 OM642 and 10.5 L the 2.0 four OM654.
+- 18 fuel corrections: every Sprinter row was filed as Petrol and is now Diesel.
+- Maybach is the one badge worn by two cars here and the fill separates them: MY2021 at 9.5 L is the V12 S650 (621hp), 2022-2023 at 8.51 L the 4.0 V8 S580 (496hp). SLK300 2016 is the 2.0 turbo M274, not a V6. Sprinter 2024-2025 is the OM654 at 168hp.
+- 8 new engines (M111 2.3 Kompressor, M112 2.8 V6, M276 3.5 V6, M276 3.0 BiTurbo, M278 4.7 V8 BiTurbo, M274 2.0 Turbo, OM642 and OM654 Sprinter): the DB had dozens of chassis-specific rows but no clean US-market entry per family.
+- 6 ROW_FIXES: M279.980 (V12) was listed as an 8-cylinder, M112.972 (3.7 V6) likewise, and four rows carried junk crawl descriptors.
+- 52b: 2 ESTIMATE overrides, 6 normalizations, 8 power syncs. 52c reverts 52b's plurality vote on the Sprinter V6 fill (10.59 -> 12.5 L).
+- DB: LEMON 183->146; engines 5,829->5,800; 0 orphans/count mismatches; DB-wide fuel conflicts unchanged at 137 (the 32 remaining Mercedes mismatches are pre-existing hybrid/electric mislabels on untouched codes).
 ## 2026-10-01 - Step 5 Batch 42: Dodge + Jeep + Chrysler (step51/51b)
 - 59/59 rows mapped (Dodge 23, Jeep 21, Chrysler 15), 0 skips. Merged into one batch because the three brands share a single engine catalogue; "BRAND:MODEL" rule keys keep the nameplates apart.
 - Decoded on the crawl's oil-fill ladder: 4.25-4.56 L = EDZ 2.4 / ECN-ED3 World Engine / 420A, 4.73 L = EGA 3.3, EGL 3.8, the new EGW 3.2 and the 2.0 GME 4xe, 5.2 L = EGF 3.5, 5.67 L = 3.6 Pentastar, 6.62 L = 5.7 Hemi eTorque, 11.35 L of 15W-40 = 5.9 Cummins.
