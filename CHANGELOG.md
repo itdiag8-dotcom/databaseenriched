@@ -1,3 +1,9 @@
+## 2026-10-01 — Step 5 Batch 29: Ford + Mercury (step38/38b/38c)
+- Merged Ford-family batch (every Mercury is a Ford twin). Replaced 148/148 LEMON rows, zero skips. Decode = nameplate generation + displacement (Triton 4.6/5.4/6.8 chassis rows, Vulcan->Cyclone Taurus/Sable, Duratec 2.3/2.5/3.0 Escape-Mariner + Fusion-Milan, 4.0/4.6-3V/5.0 Explorer-Mountaineer, Mustang 3.8->2.3EB + 5.2 Voodoo, Transit Connect vs Transit).
+- Police/fleet rows identified: "Special" 2014-18 = Taurus Special Service Sedan 2.0 EcoBoost 240hp; "SSV" 2019-20 = SSV Plug-In Hybrid Sedan (Fusion Energi) 2.0 Atkinson PHEV 188hp.
+- 4 new engines (3.0 V6 Vulcan, 4.2 V6 Essex, 4.6 Triton 3V, 3.7 Ti-VCT Cyclone); 9 ROW_FIXES incl. 2.0 Zetec / 2.0 Duratec cylinders 6->4.
+- 38b: 4 ESTIMATE overrides, 6 normalized, 13 power syncs. 38c: 5 crawl-Hybrid rows re-mapped to the Atkinson hybrids (Escape 2.3 155hp, Mariner 2.5 177hp) + Fusion 2012 191hp; 5.4 Triton 3V oil restored to 6.62L; 23 pre-existing fuel contradictions cleared (Power Stroke->Diesel, PowerBoost->Hybrid).
+- DB: LEMON 1,022->874; engines 6,645->6,501; Ford+Mercury fuel conflicts 29->0 (DB-wide 210->181); 0 orphans/count mismatches.
 ## 2026-10-01 — Step 5 Batch 28: Mitsubishi (step37/37b/37c)
 - Replaced 138/138 LEMON Mitsubishi rows, zero skips. Decode = nameplate generation + displacement (Eclipse 4G64/6G72 -> 4G69/6G75 263-265; 2018+ "Eclipse" rows = Eclipse Cross 4B40; Lancer 4G94->4B11 152/148 + 4B12; Outlander 4B12 168/166 + 6B31 220/224, 2000CC rows = Outlander Sport 148, 2021+ = PR25DD 181; Mirage 3A92 74/78; Raider = Dakota EKG/EVA).
 - 1 new engine (4B40 1.5T Eclipse Cross 152hp); 4 i-MiEV rows fuel Petrol->Electric; 11 ROW_FIXES incl. 4G69 cylinders 6->4 (brand_example was BYD), 4B12 6->4, 3A92 4->3, Y4F1 "CITYROVER" -> i-MiEV traction motor 66hp.
