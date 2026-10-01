@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 10: 1,738 duplicate variant rows removed (step63)
+- vehicle_variants 39,182 -> 37,444. 1,332 groups of byte-identical rows (worst: eleven identical Toyota Prius 2015 / 2ZR-FXE rows) collapsed to one row each.
+- Where they came from: the LEMON campaign made them. F21's near-duplicate rows differed only in power or engine_type text, and relinking them onto shared engine codes erased the difference. Step 9 produced the very last one - completing the kW column made a final pair match, which is why this script's baseline assert fired and had to move from 1,738 to 1,739.
+- One pair is deliberately exempt. remapping_queue.vehicle_variant_id is NOT NULL and UNIQUE, and variants 31097/31098 each hold a queue row flagging a different wrong code (LLY vs LMM). Rather than destroy a pending remapping record, the variant stays: a row carrying unique downstream state is not a duplicate. The other 56 queue references were repointed at the surviving twin.
+- All three derived counters recomputed, and two were already wrong: models.total_variants had drifted on 18 models, and engine_service_specs.count_variants was a stale snapshot disagreeing with engines.count_variants on 3,846 rows. Now 0 / 0 / 0.
+- DATA_QUALITY_AUDIT.md updated: F11 resolved, F21 partly resolved (2,770 non-identical groups remain), F14 reclassified as not-a-defect - the 147 zero-variant engine rows are real 1990s European codes for cars the variants table does not cover, and are kept as a reference catalogue by decision.
+- DB: 37,444 variants, 5,670 engines, 0 fuel conflicts / 0 orphans / 0 count mismatches, 45 documented NULL-power variants.
 ## 2026-10-01 - Step 9: kilowatt column completed (step62)
 - Filled engine_power_kw on 12,869 variants and power_kw on 446 engine rows. Both columns are now complete wherever horsepower exists.
 - The conversion factor was read off the database itself: the kW/hp ratio of the 26,268 already-populated variants clusters on 0.735-0.736, i.e. metric PS, so 0.7355 was used rather than the SAE factor.

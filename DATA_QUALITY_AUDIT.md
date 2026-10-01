@@ -40,7 +40,7 @@ Plus 3 views (`v_engine_full`, `v_model_overview`, `v_vehicle_with_service`).
 
 - `PRAGMA integrity_check` = **ok**; file is not corrupted.
 - **Zero broken foreign keys**: every one of the 39,182 variants joins to an engine, and every engine joins 1:1 to both spec tables (`v_vehicle_with_service` = 39,182 rows).
-- **No exact duplicate variants**, no case-insensitive duplicate models, no duplicate engine PKs.
+- ~~**No exact duplicate variants**~~ **— no longer true, and now fixed (2026-10-01).** The LEMON campaign's relinking turned many F21 near-duplicates into byte-identical rows: 1,332 groups / 1,739 rows by the end of Step 9. Step 10 (`step63`) deleted 1,738 of them (one pair is exempt, see F21). No case-insensitive duplicate models, no duplicate engine PKs.
 - **No impossible values**: years all within 2000–2025; power 5–987 hp; cylinders 1–16; idle RPM within 400–2000; compression min ≤ max; no zero/negative service intervals; `production_end ≥ production_start` everywhere.
 - `data_confidence` populated on 100% of spec rows — provenance tracking is a real strength of this DB.
 - Oil capacities for EV/diesel flagged sensibly in places (e.g., diesel rows say "N/A (Glow Plug)").
@@ -122,17 +122,17 @@ e.g., Hyundai Grandeur petrol variant joined to diesel engine `G6DG`; VW Golf VI
 | # | Finding | Count | Example |
 |---|---|---:|---|
 | F10 | DPF/EGR/AdBlue flags use 4 vocabularies (`NULL`, `-`, `No`, `Yes`) | 12,740 NULL / 3,239 `-` / 776 `No` / 1,161 `Yes` | `-` = petrol/EV, `No` = diesel w/o DPF, NULL = unknown — implicit, undocumented |
-| F11 | Fuel vocabulary inconsistent between tables | 385 conflicts + stray values | variants: `Hybrid (Petrol-/ Electro.)` (1), `Electric Motor`; engines has only 5 values |
+| F11 | ~~Fuel vocabulary inconsistent between tables~~ **RESOLVED 2026-10-01 (Step 6, `step59`/`step59b`)** | 137 conflicts → **0**; stray labels → 0 | variants now use the same 5 values as engines (`Petrol`, `Diesel`, `Hybrid`, `Electric`, `Ethanol`); `Wankel` and `Hybrid (Petrol-/ Electro.)` are gone |
 | F12 | Malformed oil viscosities | 18 | `15-W40` (7), lowercase `0w-30` (11) |
 | F13 | Model-name typos / case errors | ~47 models | Ford **Crow Victoria** (Crown Victoria exists), GWM **Hower** (Hover exists), Donkervoort **D8 Gt**; Ford E-Series & Courier missing |
-| F14 | Orphan engines never used by any variant | 155 | Real codes (`AKL`, `AGN`, `AHH`, `AFN`…) that lost their variants during integration |
+| F14 | Orphan engines never used by any variant — **reclassified 2026-10-01: not a defect** | 147 | Reviewed in Step 10: these are real 1990s European codes (`AKL`, `AGN`, `AHH`, `AFN`…) marked `ESTIMATE`, describing cars the variants table simply does not cover. Decision: **keep as a reference catalogue**, do not delete, and stop counting them as a defect. They must still be excluded from any "engines in use" metric |
 | F15 | Models without production years | 1,291 (20.6 %) | mostly `DanielKohut/car-data` additions |
 | F16 | Variant year outside model production window | 358 | e.g., variant 2002 for a 2008– model |
 | F17 | Variants with NULL year | 296 | |
 | F18 | EVs modeled as combustion cars | 30 variants / 14 engines | all 30 EV variants carry oil viscosity & capacity specs; 8 engines have displacement = 0 |
 | F19 | Engine "codes" that are descriptions | 528 | `engine_code = engine_type` (`1.4 16v T-Jet MTA`); 10 purely numeric codes (`55253268` = Fiat part number) |
 | F20 | Near-duplicate engine codes (case/space-insensitive) | 12 pairs | `OM651 DE 22 LA` ×2, `2.0 dCI` ×2, `1.9 DDiS` ×2 |
-| F21 | Same engine listed >1× per (brand, model, year) | 2,486 groups / 3,273 redundant rows | some legit (different ECU), many differ only by power or engine_type text |
+| F21 | Same engine listed >1× per (brand, model, year) — **partly resolved 2026-10-01** | was 2,486 groups / 3,273 rows; the *byte-identical* subset (1,332 groups / 1,739 rows) was deleted in Step 10. **2,770 groups / 3,583 rows remain** that differ in at least one column (power, `engine_type` text, ECU) and need per-case judgement | one pair is deliberately exempt: variants 31097/31098 are identical but hold two different `remapping_queue` rows (`LLY` vs `LMM`), so the row carries unique downstream state |
 | F22 | Suspicious oil capacities | 8 rows + 4,877 quart-multiples | `LEMON_FORD_CAB_7300CC_*` = 16.08 L (exactly 17 US qt — verify unit conversion) |
 
 ---
@@ -176,8 +176,8 @@ e.g., Hyundai Grandeur petrol variant joined to diesel engine `G6DG`; VW Golf VI
 7. **Standardize vocabularies:** flags to `Yes/No/NULL` (F10); fuel to an enum `Petrol/Diesel/Hybrid/Electric/LPG/E85/Wankel` (F11); oil viscosity validated against `^\d{1,2}W-\d{2}$` (F12); one `data_confidence` source of truth, synced across the 3 tables (F9); `Unknown` ECU → NULL (F27).
 8. **Model catalog fixes:** add the 47 missing models, fix typos (Crow→Crown Victoria, Hower→Hover), merge Citroën, backfill production years for the 1,291 NULL models from Wikipedia/model-page ranges (F13, F15, F23).
 9. **EV handling:** either a separate `ev_specs` table (battery kWh, motor type) or explicit NULLs for combustion-only fields; drop `displacement_cc=0` in favor of NULL (F18).
-10. **Engine code hygiene:** merge the 12 case/space-duplicate codes (F20); replace description-codes with real codes where known or flag with `is_synthetic` boolean column instead of string-matching `LEMON_` (F19); delete or archive the 155 orphan engines (F14).
-11. **Deduplicate same-car rows** (F21): keep distinct rows only when ECU or transmission genuinely differs; collapse the rest.
+10. **Engine code hygiene:** merge the 12 case/space-duplicate codes (F20); replace description-codes with real codes where known or flag with `is_synthetic` boolean column instead of string-matching `LEMON_` (F19). ~~delete or archive the 155 orphan engines (F14)~~ — superseded 2026-10-01: the 147 orphans are kept as reference (see F14).
+11. **Deduplicate same-car rows** (F21): *byte-identical rows done 2026-10-01 (Step 10, −1,738 rows, all three derived counters resynced).* Remaining: the 2,770 groups that differ in power/`engine_type`/ECU — keep distinct rows only when ECU or transmission genuinely differs; collapse the rest.
 
 ### P3 — Process & repo
 
