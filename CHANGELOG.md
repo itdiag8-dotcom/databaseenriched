@@ -1,3 +1,9 @@
+## 2026-10-01 - Step 5 Batch 41: Suzuki (step50/50b)
+- 29/29 rows mapped, 0 skips. Half the range is other people's engineering: Forenza/Reno/Verona = Daewoo (T20SED 126hp, X25D1 2.5 inline-six 155hp), Equator = Nissan Frontier (QR25DE 152 / VQ40DE 261), XL7 2007-09 = GM Theta with the LY7 3.6 V6 252hp. Suzuki's own: Aerio J23A 155 (new row), Grand Vitara H25A 165 -> H27A 185 -> J24B 166 / N32A 230, SX4 J20A 143, XL-7 H27A 185.
+- The XL-7 -> XL7 rename in 2007 is a real engine change (2.7 V6 5.48 L -> GM 3.6 5.2 L), visible in the crawl's fills.
+- 1 new engine (J23A). 6 ROW_FIXES: H27A carried the junk descriptor "BLAZER S10", J24B was recorded as a 6-cylinder, N32A was a bare "3.2 (est.)".
+- 50b: 3 ESTIMATE overrides, 3 normalizations, 4 power syncs.
+- DB: LEMON 271->242; engines 5,914->5,886; Suzuki fuel conflicts 0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 40: Mini (step49/49b/49c)
 - 31/31 rows mapped, 0 skips. Every row is badged "Cooper", so the decode used the displacement tokens plus the crawl's oil fill: 4.54 L/5W-40 = Tritec W10B16 115hp, 4.2 L/5W-30 = N16 121hp, 4.2-4.6 L/0W-20 = B38 three-cylinder 134hp, 5.25 L = Cooper S 2.0 (B46 189hp, B48 201hp for the 2025 F66).
 - The bare 2020-2024 rows resolve despite having no displacement token: 5.25 L is a litre above any three-cylinder row. The 1600CC MY2015 rows must be the outgoing N16, since the F56 is 1.5 or 2.0.
