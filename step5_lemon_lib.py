@@ -37,6 +37,11 @@ class Cfg:
         self.expect_skipped = expect_skipped
 
 
+def norm_model(s):
+    """Model-name key tolerant of punctuation/spacing (NSX-T == 'NSX T' == NSX_T)."""
+    return re.sub(r"[^A-Z0-9]", "", (s or "").upper())
+
+
 def parse_code(code, prefix):
     m = re.match(r"^" + re.escape(prefix) + r"_(.+)$", code)
     if not m:
@@ -51,7 +56,7 @@ def parse_code(code, prefix):
     for t in toks[:yi]:
         if re.fullmatch(r"\d+CC", t):
             cc = int(t[:-2])
-        elif re.fullmatch(r"VIN[A-Z0-9]{1,2}", t):
+        elif re.fullmatch(r"VIN[A-Z0-9]{1,3}", t):
             vin = t[3:]
         else:
             model_toks.append(t)
@@ -62,13 +67,13 @@ def decide(cfg, model, year, cc, vin, post, code):
     mu, pu = model.upper(), (post or "").upper()
     # explicit skip notes
     for (sm, sy, sc, sv, sp), note in cfg.SKIP_NOTES.items():
-        if (sm == mu and (sy is None or sy == year) and (sc is None or sc == cc)
+        if (norm_model(sm) == norm_model(mu) and (sy is None or sy == year) and (sc is None or sc == cc)
                 and (sv is None or sv == vin) and (sp is None or sp == pu or pu.endswith(sp))):
             return (None, note, None, None)
     # trim rows: POST present -> trim rules only (never fall through to cc rules)
     if pu:
         for (tm, ty, tp), (tgt, note, pfix, ffix) in cfg.TRIM_RULES.items():
-            if tm == mu and (ty is None or ty == year) and (tp == pu or pu.endswith(tp)):
+            if norm_model(tm) == norm_model(mu) and (ty is None or ty == year) and (tp == pu or pu.endswith(tp)):
                 return (tgt, note, ffix, pfix)
         if cfg.extra_decide:
             r = cfg.extra_decide(model, year, cc, vin, post, code)
@@ -79,7 +84,7 @@ def decide(cfg, model, year, cc, vin, post, code):
         r = cfg.extra_decide(model, year, cc, vin, post, code)
         if r is not None:
             return r
-    cands = [r for r in cfg.R if r[0] == mu and r[1] <= year <= r[2]
+    cands = [r for r in cfg.R if norm_model(r[0]) == norm_model(mu) and r[1] <= year <= r[2]
              and r[3] == cc and (r[4] is None or r[4] == vin)]
     if not cands:
         return (None, f"no rule for {cfg.brand} {model} {year} cc={cc} vin={vin}", None, None)
@@ -106,7 +111,7 @@ def run_batch(cfg):
         p = parse_code(code, prefix)
         assert p, f"unparseable code: {code}"
         pm, py, cc, vin, post = p
-        assert pm.upper() == model.upper(), f"model parse mismatch {code} vs {model}"
+        assert norm_model(pm) == norm_model(model), f"model parse mismatch {code} vs {model}"
         tgt, note, fuel_fix, pfix = decide(cfg, model, year, cc, vin, post, code)
         if fuel_fix and fuel == fuel_fix:
             fuel_fix = None
