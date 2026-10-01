@@ -1,0 +1,186 @@
+variant_id,action,engine_code,brand,model,year,engine_row_hp,new_hp,new_kw,evidence
+3209,COPY,1.5 TDCi,Ford,C-Max,2015,148,148,108.9,"the only sibling is the same car - Ford C-Max 1.5 TDCi, 148hp"
+7046,SKIP,1.5 dCI,Renault,Megane,2009,89,,,generic descriptor shared by every Renault/Nissan 1.5 dCi from 56 to 109hp; the 2009 Megane and Scenic were each sold in two tunes and nothing here says which
+7116,SKIP,1.5 dCI,Renault,Scenic,2009,89,,,generic descriptor shared by every Renault/Nissan 1.5 dCi from 56 to 109hp; the 2009 Megane and Scenic were each sold in two tunes and nothing here says which
+2766,SKIP,1.8 16v,Dodge,Caliber,2006,130,,,generic descriptor; the row's 130hp comes from a Chery Tiggo. The Caliber 1.8 is a GEMA World engine - a different engine entirely
+7957,SKIP,2.0 16v,Suzuki,Vitara,2004,134,,,"generic descriptor spanning Ford, Renault, Subaru and Hyundai engines 114-173hp; the row's 134hp is a Citroen Jumpy figure, not a Grand Vitara one"
+6015,SKIP,2.2 dCi,Nissan,Interstar,,134,,,the row's 134hp is the Almera/X-Trail M9R tune; the Interstar is a Master-based van using the G9T at a much lower output
+5806,SKIP,2.4 16v,Mitsubishi,Grunder,2006,168,,,the row's 168hp is a Hyundai Sonata figure; the Grunder is a Galant with the Mitsubishi 4G69
+7150,COPY,3.0 dCI,Renault,Vel Satis,2002,178,178,130.9,Vel Satis and Espace share the 3.0 dCi V6; Espace sibling reads 178
+29212,COPY,AWP,Audi,Tt,2004,180,180,132.4,1.8T 20v 180hp - the TT 1.8T quattro and Mk4 GTI share this tune
+30677,COPY,AWP,Audi,Tt,2005,180,180,132.4,1.8T 20v 180hp - the TT 1.8T quattro and Mk4 GTI share this tune
+30693,COPY,AWP,Audi,Tt,2006,180,180,132.4,1.8T 20v 180hp - the TT 1.8T quattro and Mk4 GTI share this tune
+32982,COPY,BGH,Volkswagen,Phaeton,2005,330,330,242.7,"Phaeton 4.2 V8, 335 PS = 330hp; the 'Volkswagen Phaeton' sibling reads 330"
+32997,COPY,BGH,Volkswagen,Phaeton,2006,330,330,242.7,"Phaeton 4.2 V8, 335 PS = 330hp; the 'Volkswagen Phaeton' sibling reads 330"
+32981,COPY,BGJ,Volkswagen,Phaeton,2005,330,330,242.7,"sister code to BGH, same Phaeton 4.2 V8"
+32998,COPY,BGJ,Volkswagen,Phaeton,2006,330,330,242.7,"sister code to BGH, same Phaeton 4.2 V8"
+29214,COPY,BHE,Audi,Tt,2004,247,247,181.7,"TT 3.2 V6, 250 PS = 247hp; row and one sibling read 247"
+30676,COPY,BHE,Audi,Tt,2005,247,247,181.7,"TT 3.2 V6, 250 PS = 247hp; row and one sibling read 247"
+30694,COPY,BHE,Audi,Tt,2006,247,247,181.7,"TT 3.2 V6, 250 PS = 247hp; row and one sibling read 247"
+33241,COPY,CAED,Audi,A4,2014,221,221,162.5,"2.0 TFSI A4/A5/A6; siblings read 220-221 (162kW), row 221"
+33243,COPY,CAED,Audi,A5,2014,221,221,162.5,"2.0 TFSI A4/A5/A6; siblings read 220-221 (162kW), row 221"
+33246,COPY,CAED,Audi,A6,2014,221,221,162.5,"2.0 TFSI A4/A5/A6; siblings read 220-221 (162kW), row 221"
+26728,COPY,CAED,Audi,A4,2015,221,221,162.5,"2.0 TFSI A4/A5/A6; siblings read 220-221 (162kW), row 221"
+26730,COPY,CAED,Audi,A5,2015,221,221,162.5,"2.0 TFSI A4/A5/A6; siblings read 220-221 (162kW), row 221"
+26733,COPY,CAED,Audi,A6,2015,221,221,162.5,"2.0 TFSI A4/A5/A6; siblings read 220-221 (162kW), row 221"
+27873,COPY,CAED,Audi,A4,2016,221,221,162.5,"2.0 TFSI A4/A5/A6; siblings read 220-221 (162kW), row 221"
+27908,COPY,CAED,Audi,A5,2017,221,221,162.5,"2.0 TFSI A4/A5/A6; siblings read 220-221 (162kW), row 221"
+27801,COPY,CBPA,Volkswagen,Jetta,2015,115,115,84.6,"Jetta 2.0; siblings 115-116, row 115"
+33271,COPY,CDMA,Audi,Tt,2014,265,265,194.9,TTS 2.0 TFSI 265hp; both TT siblings read 265
+33269,COPY,CETA,Audi,Tt,2014,208,208,153.0,"TT 2.0 TFSI; siblings 208-211, row 208"
+33215,COPY,CGXB,Audi,A7,2013,310,310,228.0,3.0 TFSI 310hp; A6 and A7 siblings read 310
+33248,COPY,CGXB,Audi,A6,2014,310,310,228.0,3.0 TFSI 310hp; A6 and A7 siblings read 310
+33194,COPY,CJWB,Audi,Q7,2012,333,333,244.9,Q7 3.0 TFSI 333hp; Q7 sibling reads 333 - the NULL rows are Q7s too
+33227,COPY,CJWB,Audi,Q7,2013,333,333,244.9,Q7 3.0 TFSI 333hp; Q7 sibling reads 333 - the NULL rows are Q7s too
+33196,COPY,CJWE,Audi,Q7,2012,280,280,205.9,Q7 3.0 TFSI 280hp detune; Q7 sibling reads 280
+33224,COPY,CJWE,Audi,Q7,2013,280,280,205.9,Q7 3.0 TFSI 280hp detune; Q7 sibling reads 280
+27793,COPY,CNTA,Volkswagen,GTI,2015,217,217,159.6,"Golf GTI 2.0 TSI; siblings 210-217, row 217"
+27802,COPY,CPLA,Volkswagen,Jetta,2015,208,208,153.0,"Jetta 2.0 TSI; siblings 208-211, row 208"
+29068,COPY,CPLA,Volkswagen,Jetta,2016,208,208,153.0,"Jetta 2.0 TSI; siblings 208-211, row 208"
+39855,COPY,CPLA,Volkswagen,Jetta,2018,208,208,153.0,"Jetta 2.0 TSI; siblings 208-211, row 208"
+33208,COPY,CPMA,Audi,A4,2013,208,208,153.0,"2.0 TFSI FFV quattro; siblings 208-211, row 208"
+33209,COPY,CPMA,Audi,A5,2013,208,208,153.0,"2.0 TFSI FFV quattro; siblings 208-211, row 208"
+33240,COPY,CPMB,Audi,A4,2014,217,217,159.6,"2.0 TFSI quattro; siblings 217-220, row 217"
+33244,COPY,CPMB,Audi,A5,2014,217,217,159.6,"2.0 TFSI quattro; siblings 217-220, row 217"
+26727,COPY,CPMB,Audi,A4,2015,217,217,159.6,"2.0 TFSI quattro; siblings 217-220, row 217"
+26731,COPY,CPMB,Audi,A5,2015,217,217,159.6,"2.0 TFSI quattro; siblings 217-220, row 217"
+27875,COPY,CPMB,Audi,A4,2016,217,217,159.6,"2.0 TFSI quattro; siblings 217-220, row 217"
+27907,COPY,CPMB,Audi,A5,2017,217,217,159.6,"2.0 TFSI quattro; siblings 217-220, row 217"
+26737,COPY,CPNB,Audi,A6,2015,236,236,173.6,"3.0 TDI Clean Diesel, US rating; siblings 236-240, row 236"
+26739,COPY,CPNB,Audi,A7,2015,236,236,173.6,"3.0 TDI Clean Diesel, US rating; siblings 236-240, row 236"
+27884,COPY,CPNB,Audi,A7,2016,236,236,173.6,"3.0 TDI Clean Diesel, US rating; siblings 236-240, row 236"
+27803,COPY,CPPA,Volkswagen,Jetta,2015,211,211,155.2,"Jetta 2.0 TSI; siblings 210-211, row 211"
+39857,COPY,CPPA,Volkswagen,Jetta,2018,211,211,155.2,"Jetta 2.0 TSI; siblings 210-211, row 211"
+33225,COPY,CTWB,Audi,Q7,2013,280,280,205.9,Q7 3.0 TFSI 280hp; Q7 sibling reads 280
+26753,COPY,CTWB,Audi,Q7,2015,280,280,205.9,Q7 3.0 TFSI 280hp; Q7 sibling reads 280
+27795,COPY,CXBA,Volkswagen,Golf,2015,170,170,125.0,"US 1.8 TSI EA888 Gen3, 170hp across Golf/Jetta/Beetle/Passat - 22 siblings unanimous"
+29065,COPY,CXBA,Volkswagen,Golf,2016,170,170,125.0,"US 1.8 TSI EA888 Gen3, 170hp across Golf/Jetta/Beetle/Passat - 22 siblings unanimous"
+29084,COPY,CXBA,Volkswagen,Golf,2017,170,170,125.0,"US 1.8 TSI EA888 Gen3, 170hp across Golf/Jetta/Beetle/Passat - 22 siblings unanimous"
+39852,COPY,CXBA,Volkswagen,Golf,2018,170,170,125.0,"US 1.8 TSI EA888 Gen3, 170hp across Golf/Jetta/Beetle/Passat - 22 siblings unanimous"
+39870,COPY,CXBA,Volkswagen,Golf,2019,170,170,125.0,"US 1.8 TSI EA888 Gen3, 170hp across Golf/Jetta/Beetle/Passat - 22 siblings unanimous"
+27797,COPY,CXBB,Volkswagen,Golf,2015,170,170,125.0,"sister code to CXBA, same US 1.8 TSI 170hp"
+29066,COPY,CXBB,Volkswagen,Golf,2016,170,170,125.0,"sister code to CXBA, same US 1.8 TSI 170hp"
+29085,COPY,CXBB,Volkswagen,Golf,2017,170,170,125.0,"sister code to CXBA, same US 1.8 TSI 170hp"
+39853,COPY,CXBB,Volkswagen,Golf,2018,170,170,125.0,"sister code to CXBA, same US 1.8 TSI 170hp"
+39871,COPY,CXBB,Volkswagen,Golf,2019,170,170,125.0,"sister code to CXBA, same US 1.8 TSI 170hp"
+27792,COPY,CXCA,Volkswagen,GTI,2015,210,210,154.5,US GTI 2015-16 2.0 TSI 210hp - three GTI siblings read 210
+30159,COPY,D17A6,Honda,Civic,2001,116,116,85.3,Civic VII 1.7; the CIVIC VII Saloon sibling reads 116
+30170,COPY,D17A6,Honda,Civic,2002,116,116,85.3,Civic VII 1.7; the CIVIC VII Saloon sibling reads 116
+26989,COPY,ED6,Chrysler,200,2015,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+28180,COPY,ED6,Chrysler,200,2016,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+28189,COPY,ED6,Chrysler,200,2017,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+27025,COPY,ED6,Dodge,Dart,2015,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+28223,COPY,ED6,Dodge,Dart,2016,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+27310,COPY,ED6,Jeep,Cherokee,2015,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+28612,COPY,ED6,Jeep,Cherokee,2016,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+28631,COPY,ED6,Jeep,Cherokee,2017,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+28637,COPY,ED6,Jeep,Compass,2017,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+38185,COPY,ED6,Jeep,Cherokee,2018,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+38189,COPY,ED6,Jeep,Compass,2018,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+38199,COPY,ED6,Jeep,Renegade,2018,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+38211,COPY,ED6,Jeep,Compass,2019,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+38228,COPY,ED6,Jeep,Compass,2020,188,188,138.3,"2.4 Tigershark MultiAir2; every populated sibling on this code (DART, ProMaster, Cherokee) reads 188"
+33887,COPY,EDG,Chrysler,200,2012,170,170,125.0,"2.4 World engine in 200/Avenger; siblings 170-175, row 170"
+33899,COPY,EDG,Chrysler,200,2013,170,170,125.0,"2.4 World engine in 200/Avenger; siblings 170-175, row 170"
+33906,COPY,EDG,Chrysler,200,2014,170,170,125.0,"2.4 World engine in 200/Avenger; siblings 170-175, row 170"
+33967,COPY,EDG,Dodge,Avenger,2012,170,170,125.0,"2.4 World engine in 200/Avenger; siblings 170-175, row 170"
+34005,COPY,EDG,Dodge,Avenger,2013,170,170,125.0,"2.4 World engine in 200/Avenger; siblings 170-175, row 170"
+34050,COPY,EDG,Dodge,Avenger,2014,170,170,125.0,"2.4 World engine in 200/Avenger; siblings 170-175, row 170"
+33974,RULE,ESH,Dodge,Challenger,2012,485,471,346.4,"6.4 HEMI 392 in SRT8 trim (2011-2014) = 470hp; every populated sibling of that era - Charger, 300, Durango, Grand Cherokee - reads 471"
+34013,RULE,ESH,Dodge,Challenger,2013,485,471,346.4,"6.4 HEMI 392 in SRT8 trim (2011-2014) = 470hp; every populated sibling of that era - Charger, 300, Durango, Grand Cherokee - reads 471"
+34057,RULE,ESH,Dodge,Challenger,2014,485,471,346.4,"6.4 HEMI 392 in SRT8 trim (2011-2014) = 470hp; every populated sibling of that era - Charger, 300, Durango, Grand Cherokee - reads 471"
+27015,RULE,ESH,Dodge,Challenger,2015,485,485,356.7,"from 2015 the 392 was rerated to 485hp for SRT 392 / Scat Pack (confirmed: ChallengerTalk SRT8-vs-392, AmericanMuscle 392-vs-Scat-Pack)"
+28210,RULE,ESH,Dodge,Challenger,2016,485,485,356.7,"from 2015 the 392 was rerated to 485hp for SRT 392 / Scat Pack (confirmed: ChallengerTalk SRT8-vs-392, AmericanMuscle 392-vs-Scat-Pack)"
+28255,RULE,ESH,Dodge,Challenger,2017,485,485,356.7,"from 2015 the 392 was rerated to 485hp for SRT 392 / Scat Pack (confirmed: ChallengerTalk SRT8-vs-392, AmericanMuscle 392-vs-Scat-Pack)"
+36806,RULE,ESH,Dodge,Challenger,2018,485,485,356.7,"from 2015 the 392 was rerated to 485hp for SRT 392 / Scat Pack (confirmed: ChallengerTalk SRT8-vs-392, AmericanMuscle 392-vs-Scat-Pack)"
+36845,RULE,ESH,Dodge,Challenger,2019,485,485,356.7,"from 2015 the 392 was rerated to 485hp for SRT 392 / Scat Pack (confirmed: ChallengerTalk SRT8-vs-392, AmericanMuscle 392-vs-Scat-Pack)"
+36880,RULE,ESH,Dodge,Challenger,2020,485,485,356.7,"from 2015 the 392 was rerated to 485hp for SRT 392 / Scat Pack (confirmed: ChallengerTalk SRT8-vs-392, AmericanMuscle 392-vs-Scat-Pack)"
+36917,RULE,ESH,Dodge,Challenger,2021,485,485,356.7,"from 2015 the 392 was rerated to 485hp for SRT 392 / Scat Pack (confirmed: ChallengerTalk SRT8-vs-392, AmericanMuscle 392-vs-Scat-Pack)"
+36952,RULE,ESH,Dodge,Challenger,2022,485,485,356.7,"from 2015 the 392 was rerated to 485hp for SRT 392 / Scat Pack (confirmed: ChallengerTalk SRT8-vs-392, AmericanMuscle 392-vs-Scat-Pack)"
+36988,RULE,ESH,Dodge,Challenger,2023,485,485,356.7,"from 2015 the 392 was rerated to 485hp for SRT 392 / Scat Pack (confirmed: ChallengerTalk SRT8-vs-392, AmericanMuscle 392-vs-Scat-Pack)"
+6597,COPY,KFV (TU3A),Peugeot,206 Plus,2008,74,74,54.4,"206+ 1.4 8v, 75 PS = 74hp; 207 SW/Van siblings read 74"
+36285,COPY,L3B,Cadillac,CT4,2020,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36286,COPY,L3B,Cadillac,CT4,2020,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36300,COPY,L3B,Cadillac,CT4,2021,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36305,COPY,L3B,Cadillac,CT4,2021,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36318,COPY,L3B,Cadillac,CT4,2022,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36321,COPY,L3B,Cadillac,CT4,2022,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36338,COPY,L3B,Cadillac,CT4,2023,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36341,COPY,L3B,Cadillac,CT4,2023,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36357,COPY,L3B,Cadillac,CT4,2024,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36362,COPY,L3B,Cadillac,CT4,2024,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36379,COPY,L3B,Cadillac,CT4,2025,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36382,COPY,L3B,Cadillac,CT4,2025,310,310,228.0,2.7 Dual-Volute; 310hp is the CT4-badged rating (Premium Luxury/Sport). 325hp belongs to the CT4-V and nothing in these rows says V. Source: Cadillac Society 2020-11-18 and the 2022/2023 CT4 trim tables
+36308,COPY,L87,Cadillac,Escalade,2021,420,420,308.9,"6.2 V8 EcoTec3, 420hp in Escalade/Tahoe/Yukon/Silverado - all 33 siblings read 420"
+36327,COPY,L87,Cadillac,Escalade,2022,420,420,308.9,"6.2 V8 EcoTec3, 420hp in Escalade/Tahoe/Yukon/Silverado - all 33 siblings read 420"
+36347,COPY,L87,Cadillac,Escalade,2023,420,420,308.9,"6.2 V8 EcoTec3, 420hp in Escalade/Tahoe/Yukon/Silverado - all 33 siblings read 420"
+36368,COPY,L87,Cadillac,Escalade,2024,420,420,308.9,"6.2 V8 EcoTec3, 420hp in Escalade/Tahoe/Yukon/Silverado - all 33 siblings read 420"
+36387,COPY,L87,Cadillac,Escalade,2025,420,420,308.9,"6.2 V8 EcoTec3, 420hp in Escalade/Tahoe/Yukon/Silverado - all 33 siblings read 420"
+36390,COPY,L87,Cadillac,Escalade,2025,420,420,308.9,"6.2 V8 EcoTec3, 420hp in Escalade/Tahoe/Yukon/Silverado - all 33 siblings read 420"
+33599,RULE,LF3,Cadillac,Cts,2014,420,420,308.9,the row's descriptor states CTS V-Sport 420hp for this twin-turbo 3.6
+33604,RULE,LF3,Cadillac,XTS,2014,420,410,301.6,the row's descriptor states XTS 410hp for this twin-turbo 3.6
+26892,RULE,LF3,Cadillac,Cts,2015,420,420,308.9,the row's descriptor states CTS V-Sport 420hp for this twin-turbo 3.6
+26905,RULE,LF3,Cadillac,XTS,2015,420,410,301.6,the row's descriptor states XTS 410hp for this twin-turbo 3.6
+28054,RULE,LF3,Cadillac,Cts,2016,420,420,308.9,the row's descriptor states CTS V-Sport 420hp for this twin-turbo 3.6
+28060,RULE,LF3,Cadillac,XTS,2016,420,410,301.6,the row's descriptor states XTS 410hp for this twin-turbo 3.6
+28071,RULE,LF3,Cadillac,Cts,2017,420,420,308.9,the row's descriptor states CTS V-Sport 420hp for this twin-turbo 3.6
+28076,RULE,LF3,Cadillac,XTS,2017,420,410,301.6,the row's descriptor states XTS 410hp for this twin-turbo 3.6
+36259,RULE,LF3,Cadillac,Cts,2018,420,420,308.9,the row's descriptor states CTS V-Sport 420hp for this twin-turbo 3.6
+36264,RULE,LF3,Cadillac,XTS,2018,420,410,301.6,the row's descriptor states XTS 410hp for this twin-turbo 3.6
+36277,RULE,LF3,Cadillac,Cts,2019,420,420,308.9,the row's descriptor states CTS V-Sport 420hp for this twin-turbo 3.6
+36282,RULE,LF3,Cadillac,XTS,2019,420,410,301.6,the row's descriptor states XTS 410hp for this twin-turbo 3.6
+5226,COPY,M266E17,Mercedes,B,2005,114,114,83.8,"A/B-Class M266 1.7, 114hp; A-Class sibling reads 114"
+1981,RULE,M54B30,BMW,5 Series,2003,276,228,167.7,530i and X5 3.0i ran the M54B30 at 231 PS = 228hp; six BMW siblings read 228. The row's 276hp is an Alpina B3 3.3 figure
+2107,RULE,M54B30,BMW,X Series,2006,276,228,167.7,530i and X5 3.0i ran the M54B30 at 231 PS = 228hp; six BMW siblings read 228. The row's 276hp is an Alpina B3 3.3 figure
+33463,RULE,N20B20A,BMW,228i,2014,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+33466,RULE,N20B20A,BMW,328i,2014,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+33473,RULE,N20B20A,BMW,428i,2014,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+33491,RULE,N20B20A,BMW,X1,2014,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+26780,RULE,N20B20A,BMW,228i,2015,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+26786,RULE,N20B20A,BMW,328i,2015,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+26792,RULE,N20B20A,BMW,428i,2015,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+26848,RULE,N20B20A,BMW,X1,2015,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+27934,RULE,N20B20A,BMW,228i,2016,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+27938,RULE,N20B20A,BMW,328i,2016,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+27944,RULE,N20B20A,BMW,428i,2016,215,245,180.2,228i/328i/428i/X1 xDrive28i 2014-2016 all ran the 240hp SAE / 245 PS N20 tune; the F22/F30/F32 siblings read 245. The row's 215hp (and its 2795cc) describe a 125i and are wrong for these cars
+33464,COPY,N26B20A,BMW,228i,2014,245,245,180.2,SULEV N20 in 228i/328i/428i; all four siblings read 245
+33467,COPY,N26B20A,BMW,328i,2014,245,245,180.2,SULEV N20 in 228i/328i/428i; all four siblings read 245
+33472,COPY,N26B20A,BMW,428i,2014,245,245,180.2,SULEV N20 in 228i/328i/428i; all four siblings read 245
+26779,COPY,N26B20A,BMW,228i,2015,245,245,180.2,SULEV N20 in 228i/328i/428i; all four siblings read 245
+26787,COPY,N26B20A,BMW,328i,2015,245,245,180.2,SULEV N20 in 228i/328i/428i; all four siblings read 245
+26794,COPY,N26B20A,BMW,428i,2015,245,245,180.2,SULEV N20 in 228i/328i/428i; all four siblings read 245
+27935,COPY,N26B20A,BMW,228i,2016,245,245,180.2,SULEV N20 in 228i/328i/428i; all four siblings read 245
+27939,COPY,N26B20A,BMW,328i,2016,245,245,180.2,SULEV N20 in 228i/328i/428i; all four siblings read 245
+27943,COPY,N26B20A,BMW,428i,2016,245,245,180.2,SULEV N20 in 228i/328i/428i; all four siblings read 245
+1845,COPY,N43B20O0,BMW,3 Series,2001,168,168,123.6,320i N43 168hp; both siblings read 168
+1979,COPY,N52B25O1,BMW,5 Series,2005,215,215,158.1,325i N52 215hp; five siblings read 215
+2106,COPY,N52B25O1,BMW,X Series,2006,215,215,158.1,325i N52 215hp; five siblings read 215
+1735,RULE,N52B30,BMW,1 Series,2005,258,261,192.0,"130i ran 265 PS = 261hp, matching the Z4 3.0si siblings; the 215/218/227 siblings are 120i/125i/128i tunes"
+1736,RULE,N52B30,BMW,1 Series,2009,258,261,192.0,"130i ran 265 PS = 261hp, matching the Z4 3.0si siblings; the 215/218/227 siblings are 120i/125i/128i tunes"
+2010,COPY,N52B30O0,BMW,6 Series,2004,255,255,187.6,330i/530i N52 255hp; both siblings read 255
+1982,COPY,N52B30O0,BMW,5 Series,2005,255,255,187.6,330i/530i N52 255hp; both siblings read 255
+2138,COPY,N52B30O0,BMW,X Series,2010,255,255,187.6,330i/530i N52 255hp; both siblings read 255
+2108,COPY,N52B30O1,BMW,X Series,2006,268,268,197.1,X5 3.0si N52 268hp; sibling reads 268
+2111,COPY,N52B30O1,BMW,X Series,2008,268,268,197.1,X5 3.0si N52 268hp; sibling reads 268
+1873,COPY,N53B30O0,BMW,3 Series,2007,268,268,197.1,330i N53 268hp; sibling reads 268
+1980,COPY,N53B30U0,BMW,5 Series,2007,215,215,158.1,325i N53 215hp; seven siblings read 215
+2118,COPY,N53B30U0,BMW,X Series,2010,215,215,158.1,325i N53 215hp; seven siblings read 215
+26802,COPY,N57D30A,BMW,535d,2015,255,255,187.6,"these are US-market 535d and X5 xDrive35d, both rated 255hp - the lower 204/245 siblings are European 325d/330d tunes of the same family"
+26857,COPY,N57D30A,BMW,X5,2015,255,255,187.6,"these are US-market 535d and X5 xDrive35d, both rated 255hp - the lower 204/245 siblings are European 325d/330d tunes of the same family"
+27967,COPY,N57D30A,BMW,X5,2016,255,255,187.6,"these are US-market 535d and X5 xDrive35d, both rated 255hp - the lower 204/245 siblings are European 325d/330d tunes of the same family"
+33376,COPY,N63B44 (ActiveHybrid),BMW,750Li,2012,455,455,334.7,ActiveHybrid 7 combined output; the row's own 455hp figure is the code's defining rating
+33383,COPY,N63B44 (ActiveHybrid),BMW,750i,2012,455,455,334.7,ActiveHybrid 7 combined output; the row's own 455hp figure is the code's defining rating
+33385,COPY,N63B44 (ActiveHybrid),BMW,750i,2012,455,455,334.7,ActiveHybrid 7 combined output; the row's own 455hp figure is the code's defining rating
+33361,RULE,N63B44A,BMW,550i,2012,449,407,299.3,"550i/650i/750i of 2012 ran the pre-TU N63 at 407 PS; eight siblings of that era (5 F10, 5 GT, 7 F01, X5 E70, X6 E71) read 407-408"
+33365,RULE,N63B44A,BMW,550xi,2012,449,407,299.3,"550i/650i/750i of 2012 ran the pre-TU N63 at 407 PS; eight siblings of that era (5 F10, 5 GT, 7 F01, X5 E70, X6 E71) read 407-408"
+33370,RULE,N63B44A,BMW,650i,2012,449,407,299.3,"550i/650i/750i of 2012 ran the pre-TU N63 at 407 PS; eight siblings of that era (5 F10, 5 GT, 7 F01, X5 E70, X6 E71) read 407-408"
+33374,RULE,N63B44A,BMW,650xi,2012,449,407,299.3,"550i/650i/750i of 2012 ran the pre-TU N63 at 407 PS; eight siblings of that era (5 F10, 5 GT, 7 F01, X5 E70, X6 E71) read 407-408"
+33379,RULE,N63B44A,BMW,750Li,2012,449,407,299.3,"550i/650i/750i of 2012 ran the pre-TU N63 at 407 PS; eight siblings of that era (5 F10, 5 GT, 7 F01, X5 E70, X6 E71) read 407-408"
+33381,RULE,N63B44A,BMW,750Lxi,2012,449,407,299.3,"550i/650i/750i of 2012 ran the pre-TU N63 at 407 PS; eight siblings of that era (5 F10, 5 GT, 7 F01, X5 E70, X6 E71) read 407-408"
+33388,RULE,N63B44A,BMW,750xi,2012,449,407,299.3,"550i/650i/750i of 2012 ran the pre-TU N63 at 407 PS; eight siblings of that era (5 F10, 5 GT, 7 F01, X5 E70, X6 E71) read 407-408"
+33500,RULE,N63B44A,BMW,X6,2014,449,449,330.2,"X6 xDrive50i 2014 ran the N63TU, 449 PS - an X6 sibling reads 449"
+26863,COPY,S63B44A,BMW,X6,2015,555,555,408.2,X6 M S63 555hp - the NULL row IS an X6 and three siblings read 555
+8164,COPY,Z16XE1,Vauxhall,Zafira,2006,103,103,75.8,"Zafira 1.6 Ecotec, 105 PS = 103hp; the Opel Zafira sibling reads 103"
+8116,COPY,Z16XEP,Vauxhall,Astra,,102,102,75.0,Astra 1.6 TwinPort; Opel Astra siblings read 102-103
+3619,SKIP,ZSD-422,Ford,Transit,2015,160,,,"2.2 TDCi Puma, sold in 100/125/155 PS tunes in the 2015 Transit alone; siblings spread 118-160"
+35024,COPY,ZY,Mazda,2,2014,103,103,75.8,Mazda2 1.5 MZR; same-model sibling reads 103

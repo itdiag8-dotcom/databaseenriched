@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 7: variant power backfill (step60)
+- NULL-power variants 535 -> 357. 178 filled with hp and kW; 7 left blank on purpose; the remaining 342 are blocked behind engine rows that are themselves blank (Step 8) and 8 have no engine_code.
+- The worklist called these 185 rows a trivial inherit-from-engine-row. They were not: only 19 of the 55 engine codes have siblings that unanimously agree with their row, so each code was ruled on individually. 131 COPY, 47 RULE, 7 SKIP.
+- Rules that mattered: ESH 6.4 HEMI 392 splits by year (471 as the 2012-14 SRT8, 485 from 2015 as SRT 392/Scat Pack); LF3 splits by model, and the engine row's own descriptor spells out both tunes (CTS V-Sport 420 / XTS 410); N20B20A's row describes a 125i (215hp, 2795cc) and is wrong for the 228i/328i/428i/X1 at 245; N63B44A splits at the 2014 N63TU (407 -> 449); M54B30's 276hp is an Alpina figure, the 530i/X5 ran 228.
+- 7 variants left NULL because their "engine code" is a generic descriptor (1.5 dCI, 2.0 16v, ZSD-422...) whose power came from another manufacturer's car. A blank cell beats a confident wrong one.
+- Noted for later: 6 exact-duplicate CT4 variant rows, and 12,869 variants with hp but no kW.
+- DB: 39,182 variants, 5,670 engines, 0 fuel conflicts / 0 orphans / 0 count mismatches.
 ## 2026-10-01 - Step 6: all 137 fuel conflicts resolved (step59/59b)
 - Every variant now agrees with its engine row about what the car burns: 137 conflicts across 45 engine codes -> 0. Junk fuel labels ("Wankel", "Hybrid (Petrol-/ Electro.)") are gone too.
 - Four outcomes by evidence: 49 variants relinked to an existing sibling (Corolla Hybrid -> 2ZR-FXE, Highlander Hybrid -> 2GR-FXE, RAV4 Hybrid -> 2AR-FXE/A25A-FXS, Previa -> plain 2AZ-FE); 30 relinked to one of 12 new rows (Toyota's i-FORCE MAX pair, RX400h/Altima/Pathfinder hybrids, Tucson/Elantra/Sonata hybrids, the Mercedes and PSA diesel hybrids, the S580e PHEV); 4 engine rows had the wrong fuel (X16SZR is a petrol, CHJA/CRJA are literally named "Hybrid", RHC is a diesel); 57 variant labels were wrong.
