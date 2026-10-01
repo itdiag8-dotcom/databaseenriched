@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# SQLite backups taken before each step script (kept locally, not versioned)
+database_enriched/backups/
