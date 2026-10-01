@@ -1,3 +1,9 @@
+## 2026-10-01 - Step 5 Batch 46: Kia + Hyundai (step55/55b/55c)
+- 20/20 rows mapped, 0 skips, 0 new engines. One batch because HMG is one engine catalogue (Nu, Gamma, Lambda, Smartstream).
+- Four targets confirmed by matching the crawl's fill/viscosity against specs already stored in this DB: G4FJ 4.5 L 5W-30 (Forte Koup SX / Forte5 SX 1.6 T-GDI 201hp), G4NA/G4NC 4.0 L 5W-20 (2.0 Nu), G4KN 5.8 L (K5 2025 2.5 Smartstream 191hp), G6BV 4.51 L (Optima 2001 2.5 V6, against the 2.4 four's 4.25 L).
+- Genesis sedan: fill and viscosity disagreed about when the 3.8 Lambda MPi gave way to the Lambda II GDI (viscosity at MY2012, fill at MY2013). US model knowledge settled it at MY2012; 2010-11 -> G6DA 290hp, 2012-14 -> G6DJ 333hp, 2016 -> G6DJ 311hp, with the stale 2012 fill recorded as a caveat.
+- 5 ROW_FIXES (G4FJ US/EU rating split, G4NBB, G4KN cylinders NULL, G6BV, G6DA). 55b: 1 ESTIMATE override, 5 normalizations, 1 power sync. 55c reverts 55b's G6DA fill (5.19 -> 5.7 L): the Lambda MPi shares its sump with the GDI engine 55b had just set to 5.69 L.
+- DB: LEMON 91->71; engines 5,745->5,725; 0 orphans/count mismatches/fuel conflicts.
 ## 2026-10-01 - Step 5 Batch 45: Jaguar + Land Rover (step54/54b/54c)
 - 27/27 rows mapped, 0 skips, 0 new engines. One batch because JLR is one engine catalogue by this period, and because both brands' rows arrive with the same problem: the crawl truncated "Range Rover Sport/Velar/Evoque" to "RANGE".
 - With the nameplates gone the fill decided everything, and three targets' service specs already in this DB match the crawl to the decilitre: 204PT 7.0 L 0W-20 (RANGE 2022-2025 -> 2.0 Ingenium P250 246hp), AJ126 8.04 L (RANGE 3000CC 2014-2019 -> 3.0 V6 SC 340hp), AJ30 6.52 L (S-Type/X-Type -> 3.0 AJ-V6).
