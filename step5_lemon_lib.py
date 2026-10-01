@@ -15,11 +15,16 @@ DB = "database_enriched/car_database.db"
 
 
 class Cfg:
+    """`brand` may be a single car_brand string or a list of them (merged engine-family batch).
+    Rule model keys may be written "BRAND:MODEL" to disambiguate inside a merged batch."""
+
     def __init__(self, brand, step_tag, csv_num, lemon_baseline, engines_baseline,
                  R, NEW_ENGINES=None, ROW_FIXES=None, FUEL_FIX_BY_TARGET=None,
                  ENG_FUEL_FIX=None, IDENTITY=None, TRIM_RULES=None, SKIP_NOTES=None,
                  extra_decide=None, expect_mapped=None, expect_skipped=None):
-        self.brand = brand                      # car_brand value
+        self.brand = brand                      # car_brand value, or list of them
+        self.brands = [brand] if isinstance(brand, str) else list(brand)
+        self.label = " + ".join(self.brands)
         self.step_tag = step_tag                # e.g. "step32"
         self.csv_num = csv_num                  # e.g. 40
         self.lemon_baseline = lemon_baseline    # total LEMON rows before apply
@@ -37,6 +42,11 @@ class Cfg:
         self.expect_skipped = expect_skipped
 
 
+def norm_model(s):
+    """Model-name key tolerant of punctuation/spacing (NSX-T == 'NSX T' == NSX_T)."""
+    return re.sub(r"[^A-Z0-9]", "", (s or "").upper())
+
+
 def parse_code(code, prefix):
     m = re.match(r"^" + re.escape(prefix) + r"_(.+)$", code)
     if not m:
@@ -51,41 +61,61 @@ def parse_code(code, prefix):
     for t in toks[:yi]:
         if re.fullmatch(r"\d+CC", t):
             cc = int(t[:-2])
-        elif re.fullmatch(r"VIN[A-Z0-9]{1,2}", t):
+        elif re.fullmatch(r"VIN[A-Z0-9]{1,3}", t):
             vin = t[3:]
         else:
             model_toks.append(t)
     return " ".join(model_toks), year, cc, vin, "_".join(toks[yi + 1:])
 
 
-def decide(cfg, model, year, cc, vin, post, code):
+def mmatch(rule_model, brand, model):
+    """Rule model key match. "BRAND:MODEL" also constrains the brand (merged batches)."""
+    if ":" in rule_model:
+        rb, rm = rule_model.split(":", 1)
+        return norm_model(rb) == norm_model(brand) and norm_model(rm) == norm_model(model)
+    return norm_model(rule_model) == norm_model(model)
+
+
+def decide(cfg, model, year, cc, vin, post, code, brand=None):
+    brand = brand or cfg.brands[0]
     mu, pu = model.upper(), (post or "").upper()
     # explicit skip notes
     for (sm, sy, sc, sv, sp), note in cfg.SKIP_NOTES.items():
-        if (sm == mu and (sy is None or sy == year) and (sc is None or sc == cc)
+        if (mmatch(sm, brand, mu) and (sy is None or sy == year) and (sc is None or sc == cc)
                 and (sv is None or sv == vin) and (sp is None or sp == pu or pu.endswith(sp))):
             return (None, note, None, None)
     # trim rows: POST present -> trim rules only (never fall through to cc rules)
     if pu:
         for (tm, ty, tp), (tgt, note, pfix, ffix) in cfg.TRIM_RULES.items():
-            if tm == mu and (ty is None or ty == year) and (tp == pu or pu.endswith(tp)):
+            if mmatch(tm, brand, mu) and (ty is None or ty == year) and (tp == pu or pu.endswith(tp)):
                 return (tgt, note, ffix, pfix)
         if cfg.extra_decide:
-            r = cfg.extra_decide(model, year, cc, vin, post, code)
+            r = _call_extra(cfg, model, year, cc, vin, post, code, brand)
             if r is not None:
                 return r
         return (None, f"unknown trim slug '{post}' - no TRIM rule", None, None)
     if cfg.extra_decide:
-        r = cfg.extra_decide(model, year, cc, vin, post, code)
+        r = _call_extra(cfg, model, year, cc, vin, post, code, brand)
         if r is not None:
             return r
-    cands = [r for r in cfg.R if r[0] == mu and r[1] <= year <= r[2]
+    cands = [r for r in cfg.R if mmatch(r[0], brand, mu) and r[1] <= year <= r[2]
              and r[3] == cc and (r[4] is None or r[4] == vin)]
     if not cands:
-        return (None, f"no rule for {cfg.brand} {model} {year} cc={cc} vin={vin}", None, None)
+        return (None, f"no rule for {brand} {model} {year} cc={cc} vin={vin}", None, None)
     cands.sort(key=lambda r: (r[4] is None, r[1] != year))  # vin-specific first, then nearest y0
     r = cands[0]
     return (r[5], r[6], cfg.FUEL_FIX_BY_TARGET.get(r[5]), r[7])
+
+
+def _call_extra(cfg, model, year, cc, vin, post, code, brand):
+    """extra_decide may take the legacy 6 args or an extra trailing `brand` (merged batches)."""
+    try:
+        n = cfg.extra_decide.__code__.co_argcount
+    except AttributeError:
+        n = 6
+    if n >= 7:
+        return cfg.extra_decide(model, year, cc, vin, post, code, brand)
+    return cfg.extra_decide(model, year, cc, vin, post, code)
 
 
 def run_batch(cfg):
@@ -97,34 +127,36 @@ def run_batch(cfg):
     base_eng = cur.execute("SELECT COUNT(*) FROM engines").fetchone()[0]
     assert base_eng == cfg.engines_baseline, \
         f"BASELINE MISMATCH: engines={base_eng}, expected {cfg.engines_baseline}"
-    prefix = "LEMON_" + cfg.brand.upper().replace(" ", "_")
-    rows = cur.execute("""SELECT id, car_model, car_year, engine_code, fuel FROM vehicle_variants
-        WHERE car_brand=? AND engine_code LIKE ? ORDER BY car_model, car_year, engine_code""",
-        (cfg.brand, prefix + "%")).fetchall()
-    decisions, skips = [], []
-    for vid, model, year, code, fuel in rows:
-        p = parse_code(code, prefix)
-        assert p, f"unparseable code: {code}"
-        pm, py, cc, vin, post = p
-        assert pm.upper() == model.upper(), f"model parse mismatch {code} vs {model}"
-        tgt, note, fuel_fix, pfix = decide(cfg, model, year, cc, vin, post, code)
-        if fuel_fix and fuel == fuel_fix:
-            fuel_fix = None
-        if tgt is None:
-            skips.append((vid, model, year, code, note)); continue
-        decisions.append((vid, model, year, code, tgt, note, fuel_fix, pfix))
-    print(f"{cfg.brand} LEMON rows: {len(rows)} | mapped: {len(decisions)} | skipped: {len(skips)}")
+    rows, decisions, skips = [], [], []
+    for brand in cfg.brands:
+        prefix = "LEMON_" + brand.upper().replace(" ", "_")
+        brows = cur.execute("""SELECT id, car_model, car_year, engine_code, fuel FROM vehicle_variants
+            WHERE car_brand=? AND engine_code LIKE ? ORDER BY car_model, car_year, engine_code""",
+            (brand, prefix + "%")).fetchall()
+        rows += brows
+        for vid, model, year, code, fuel in brows:
+            p = parse_code(code, prefix)
+            assert p, f"unparseable code: {code}"
+            pm, py, cc, vin, post = p
+            assert norm_model(pm) == norm_model(model), f"model parse mismatch {code} vs {model}"
+            tgt, note, fuel_fix, pfix = decide(cfg, model, year, cc, vin, post, code, brand)
+            if fuel_fix and fuel == fuel_fix:
+                fuel_fix = None
+            if tgt is None:
+                skips.append((vid, brand, model, year, code, note)); continue
+            decisions.append((vid, brand, model, year, code, tgt, note, fuel_fix, pfix))
+    print(f"{cfg.label} LEMON rows: {len(rows)} | mapped: {len(decisions)} | skipped: {len(skips)}")
     if cfg.expect_mapped is not None:
         assert len(decisions) == cfg.expect_mapped, f"expected {cfg.expect_mapped} mapped, got {len(decisions)}"
     if cfg.expect_skipped is not None:
         assert len(skips) == cfg.expect_skipped, f"expected {cfg.expect_skipped} skips, got {len(skips)}"
     for s in skips:
-        print(f"  SKIP: {s[1]} {s[2]} [{s[3]}] - {s[4]}")
+        print(f"  SKIP: {s[1]} {s[2]} {s[3]} [{s[4]}] - {s[5]}")
     print("\ntop targets:")
-    for t, c in Counter(d[4] for d in decisions).most_common(40):
+    for t, c in Counter(d[5] for d in decisions).most_common(60):
         print(f"  {c:3} {t}")
-    print("\nfuel fixes:", Counter((d[4], d[6]) for d in decisions if d[6]))
-    missing = set(d[4] for d in decisions) - set(r[0] for r in cur.execute("SELECT engine_code FROM engines")) - set(cfg.NEW_ENGINES)
+    print("\nfuel fixes:", Counter((d[5], d[7]) for d in decisions if d[7]))
+    missing = set(d[5] for d in decisions) - set(r[0] for r in cur.execute("SELECT engine_code FROM engines")) - set(cfg.NEW_ENGINES)
     assert not missing, f"targets missing from engines+NEW_ENGINES: {missing}"
     for tgt, (efuel, ecc) in cfg.IDENTITY.items():
         cc_fix = cfg.ROW_FIXES.get(tgt, {}).get("displacement_cc")
@@ -145,9 +177,9 @@ def run_batch(cfg):
             w = csv.writer(f)
             w.writerow(["variant_id", "brand", "model", "year", "old_engine_code", "new_engine_code", "fuel_fix", "power_fill", "evidence"])
             for d in decisions:
-                w.writerow([d[0], cfg.brand, d[1], d[2], d[3], d[4], d[6] or "", d[7] if d[7] else "", d[5] or ""])
+                w.writerow([d[0], d[1], d[2], d[3], d[4], d[5], d[7] or "", d[8] if d[8] else "", d[6] or ""])
             for s in skips:
-                w.writerow([s[0], cfg.brand, s[1], s[2], s[3], "", "", "SKIP", s[4]])
+                w.writerow([s[0], s[1], s[2], s[3], s[4], "", "", "SKIP", s[5]])
         print(f"\nDRY RUN - no changes. Re-run with --apply."); con.close(); return
 
     bak = f"database_enriched/backups/car_database_backup_pre_{cfg.step_tag}_{date.today().isoformat()}.db"
@@ -172,7 +204,7 @@ def run_batch(cfg):
         print(f"  eng-fuel-fix {code} -> {fuel}")
 
     lemon_retired = defaultdict(list)
-    for vid, model, year, old, new, note, fuel_fix, pfix in decisions:
+    for vid, brand, model, year, old, new, note, fuel_fix, pfix in decisions:
         cur.execute("UPDATE vehicle_variants SET engine_code=?, fuel=COALESCE(?, fuel) WHERE id=?", (new, fuel_fix, vid))
         cur.execute("""UPDATE vehicle_variants SET engine_power_hp=COALESCE(?, COALESCE(engine_power_hp,
             (SELECT power_hp FROM engines WHERE engine_code=?)),
@@ -210,7 +242,7 @@ def run_batch(cfg):
 
     cur.execute("""UPDATE engines SET count_variants =
         (SELECT COUNT(*) FROM vehicle_variants v WHERE v.engine_code = engines.engine_code)""")
-    tgts = tuple(set(d[4] for d in decisions))
+    tgts = tuple(set(d[5] for d in decisions))
     cur.execute(f"""UPDATE vehicle_variants SET engine_power_hp=
         (SELECT power_hp FROM engines WHERE engine_code=vehicle_variants.engine_code)
         WHERE engine_code IN ({','.join('?'*len(tgts))}) AND engine_power_hp IS NULL""", tgts)
@@ -219,19 +251,21 @@ def run_batch(cfg):
         w = csv.writer(f)
         w.writerow(["variant_id", "brand", "model", "year", "old_engine_code", "new_engine_code", "fuel_fix", "power_fill", "evidence"])
         for d in decisions:
-            w.writerow([d[0], cfg.brand, d[1], d[2], d[3], d[4], d[6] or "", d[7] if d[7] else "", d[5] or ""])
+            w.writerow([d[0], d[1], d[2], d[3], d[4], d[5], d[7] or "", d[8] if d[8] else "", d[6] or ""])
     con.commit()
 
     print("\n--- verify ---")
-    print(f"LEMON {cfg.brand} remaining:", cur.execute(
-        "SELECT COUNT(*) FROM vehicle_variants WHERE car_brand=? AND engine_code LIKE 'LEMON%'",
-        (cfg.brand,)).fetchone()[0])
+    for brand in cfg.brands:
+        print(f"LEMON {brand} remaining:", cur.execute(
+            "SELECT COUNT(*) FROM vehicle_variants WHERE car_brand=? AND engine_code LIKE 'LEMON%'",
+            (brand,)).fetchone()[0])
     print("orphan refs:", cur.execute("""SELECT COUNT(*) FROM vehicle_variants v LEFT JOIN engines e ON e.engine_code=v.engine_code
         WHERE v.engine_code IS NOT NULL AND e.engine_code IS NULL""").fetchone()[0])
     print("count mismatches:", cur.execute("""SELECT COUNT(*) FROM engines WHERE count_variants !=
         (SELECT COUNT(*) FROM vehicle_variants v WHERE v.engine_code=engines.engine_code)""").fetchone()[0])
     print("total engines:", cur.execute("SELECT COUNT(*) FROM engines").fetchone()[0])
     print("LEMON total:", cur.execute("SELECT COUNT(*) FROM vehicle_variants WHERE engine_code LIKE 'LEMON%'").fetchone()[0])
-    print(f"{cfg.brand} fuels:", dict(cur.execute(
-        "SELECT fuel, COUNT(*) FROM vehicle_variants WHERE car_brand=? GROUP BY fuel", (cfg.brand,)).fetchall()))
+    for brand in cfg.brands:
+        print(f"{brand} fuels:", dict(cur.execute(
+            "SELECT fuel, COUNT(*) FROM vehicle_variants WHERE car_brand=? GROUP BY fuel", (brand,)).fetchall()))
     con.close()

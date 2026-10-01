@@ -1,0 +1,128 @@
+engine_code,brand,descriptor,old_cylinders,new_cylinders,old_displacement_cc,new_displacement_cc,variants,step,evidence
+OM642DE30LA,Mercedes,C320 3000 CDI,4,6,2873,2987,43,step67 (MagicMotorsport layout token),Mercedes OM642 is the 3.0 V6 CDI; source '3.0L ... CDI'. Stored cc 2873 is the leaked-designation bug from Step 11
+1AR-FE,Lexus,2.7L VVTi Petrol,6,4,2671,2671,13,step67 (MagicMotorsport layout token),"Toyota 1AR-FE is the 2.7 inline-four (Camry/RAV4); source '2.7L VVTi', 2671 cc, stored as 6"
+BNZ,Volkswagen,2.5 10v TDI,6,5,2500,2500,11,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+BPC,Volkswagen,2.5 10v TDI,6,5,2500,2500,11,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+ERB,Jeep,3.6,8,6,3604,3604,11,step67 (MagicMotorsport layout token),"source '3.6L Pentastar V6'; the Pentastar is a V6, stored as 8"
+B5254T12,Volvo,2.5L T5 Petrol,6,5,2497,2497,11,step67 (MagicMotorsport layout token),"Volvo B5254 is the 2.5 inline-five; source '2.5L T5', stored as 6"
+AXD,Volkswagen,2.5 10v TDI,6,5,2500,2500,10,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+AXE,Volkswagen,2.5 10v TDI,6,5,2500,2500,10,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+OM642DE30LAR,Mercedes,E280 3000 CDI,4,6,2444,2987,7,step67 (MagicMotorsport layout token),Mercedes OM642 3.0 V6 CDI; stored cc 2444 is corrupt
+N55B30,Bmw,135i 3000 Turbo,4,6,2265,2979,5,step67 (MagicMotorsport layout token),BMW N55 is the 3.0 straight-six; stored as 4 with a corrupt 2265 cc
+CEBA,Volkswagen,2.5 10v TDI,6,5,2500,2500,5,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+CECA,Volkswagen,2.5 10v TDI,6,5,2500,2500,5,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+CECB,Volkswagen,2.5 10v TDI,6,5,2500,2500,5,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+MCT.LA,Porsche,3.6 Turbo,8,6,3604,3604,5,step67 (MagicMotorsport layout token),"source '3.6L V6 Turbo'; VW-group 3.6 VR6, stored as 8"
+OM642LSDE30LA,Mercedes,C350 3000 CDI Blue,4,6,3393,2987,4,step67 (MagicMotorsport layout token),Mercedes OM642 3.0 V6 CDI; stored cc 3393 is corrupt
+M178.980,Mercedes,4.0 Bi-Turbo AMG,6,8,4000,4000,4,step67 (MagicMotorsport layout token),"source '4.0L V8 AMG GT-R'; M178 is the AMG 4.0 V8 biturbo, stored as 6"
+BBF,Volkswagen,2.5 10v TDI,6,5,2500,2500,4,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+BBE,Volkswagen,2.5 10v TDI,6,5,2500,2500,4,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+4G69S4N,GWM,2.4L 16V NA Petrol,6,4,2378,2378,4,step67 (MagicMotorsport layout token),"Mitsubishi 4G69 is the 2.4 inline-four - the '4G6' family prefix means four, and source says '16V' (4 valves x 4), stored as 6"
+N73B68A,Rolls-Royce,6.75,8,12,6749,6749,4,step67 (MagicMotorsport layout token),"source '6.8L V12'; BMW N73B68 is the 6,749 cc V12 (Phantom), stored as 8"
+B5254T4,Volvo,2.5L R AWD Petrol,6,5,2521,2521,3,step67 (MagicMotorsport layout token),"Volvo B5254 is the 2.5 inline-five; source '2.5L R AWD', stored as 6"
+CCFA,Audi,4.2 V8 TDI,6,8,4200,4200,2,step67 (MagicMotorsport layout token),source '4.2L V8 TDI'; the Audi 4.2 TDI is a V8 - our own descriptor wrongly said V6
+AJT,Volkswagen,2.5 10v TDI,6,5,2500,2500,1,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+AVR,Volkswagen,2.5 10v TDI,6,5,2500,2500,1,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+MCX.ZA,Porsche,3.6 L Petrol,8,6,3604,3604,1,step67 (MagicMotorsport layout token),"source '3.6L V6'; VW-group 3.6 VR6, stored as 8"
+ACV,Volkswagen,2.5 10v TDI,6,5,2500,2500,0,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+AUF,Volkswagen,2.5 10v TDI,6,5,2500,2500,0,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+APA,Volkswagen,2.5 10v TDI,6,5,2500,2500,0,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+ANJ,Volkswagen,2.5 10v TDI,6,5,2500,2500,0,step67 (MagicMotorsport layout token),"VW 2.5 R5 TDI: source says 'R5'; our own descriptor says '10v', and 10 valves at 2 per cylinder is a five"
+M54B25,Bmw,325Ci 2500 24v,4,6,2494,2494,27,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+B5244S,Volvo,2.4 20v,6,5,2400,2400,23,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244T4,Volvo,2.4 20v D5,6,5,2400,2400,16,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244T5,Volvo,2.4 20v D,6,5,2400,2400,14,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+N52B30,Bmw,130i 3000 24v,4,6,2996,2996,12,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+N51B30US,Bmw,328i 3000 24v,4,6,2996,2996,12,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+B5254T7,Volvo,2.5 20v T5,6,5,2500,2500,12,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+4M41IT,Mitsubishi,3.2 16v DI-D,6,4,3200,3200,11,step67b (valve count),Mitsubishi 4M/4G code prefix denotes four cylinders; 16v = 4 x 4
+D5244T10,Volvo,2.4 20v D5,6,5,2400,2400,11,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244T,Volvo,2.4 20v D5,6,5,2400,2400,10,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+N53B30U0,Bmw,325i 3000 24v,4,6,2795,2795,9,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+CBUA,Volkswagen,2.5 20v S,6,5,2500,2500,9,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+B5244S4,Volvo,2.4 20v,6,5,2400,2400,9,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5244S2,Volvo,2.4 20v,6,5,2400,2400,9,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+2.4 JTD 20v M-Jet,Alfa Romeo,2.4 JTD 20v M-Jet,6,5,2400,2400,8,step67b (valve count),Fiat/Alfa 2.4 JTD is the inline-five; 20v = 5 x 4
+N52B25U1,Bmw,323i 2500 24v,4,6,2497,2497,8,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+N52B25O1NUS,Bmw,328i 2500 24v,4,6,3029,3029,8,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+CCCA,Volkswagen,2.5 20v FSI,6,5,2500,2500,8,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+D5204T,Volvo,2.0 20v D4,6,5,2000,2000,8,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244T8,Volvo,2.4 20v D5,6,5,2400,2400,8,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244T14,Volvo,2.4 20v D,6,5,2400,2400,8,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5204T3,Volvo,2.0 20v D4,6,5,2000,2000,8,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+CEPA,Audi,2.5 20v TFSI Quattro DSG,6,5,2500,2500,7,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+N52B25O1,Bmw,325i 2500 24v,4,6,2795,2795,7,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+939 A3.000,Fiat,2.4 20v Mjet,6,5,2400,2400,7,step67b (valve count),Fiat/Alfa 2.4 JTD is the inline-five; 20v = 5 x 4
+CBTA,Volkswagen,2.5 20v S,6,5,2500,2500,7,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+D5244T2,Volvo,2.4 20v D,6,5,2400,2400,7,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5244T3,Volvo,2.4 20v,6,5,2400,2400,7,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5204T7,Volvo,2.0 20v D3,6,5,2000,2000,7,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+N51B30,Bmw,128i 3000 24v,4,6,2996,2996,6,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+M54B22,Bmw,320i 2200 24v,4,6,2184,2184,6,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+N52B25,Bmw,323i 2500 24v,4,6,2497,2497,6,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+D5244T12,Volvo,2.4 20v D4,6,5,2400,2400,6,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+2.4 JTD 10v,Alfa Romeo,2.4 JTD 10v,6,5,2400,2400,5,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+N52B30O0,Bmw,330i 3000 24v,4,6,3315,3315,5,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+BJJ,Volkswagen,2.5 10v TDI,6,5,2500,2500,5,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+BJK,Volkswagen,2.5 10v TDI,6,5,2500,2500,5,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+CEBB,Volkswagen,2.5 10v TDI,6,5,2500,2500,5,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+BJL,Volkswagen,2.5 10v TDI,6,5,2500,2500,5,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+BJM,Volkswagen,2.5 10v TDI,6,5,2500,2500,5,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+D5244T13,Volvo,2.4 20v D5,6,5,2400,2400,5,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244T17,Volvo,2.4 20v D3,6,5,2400,2400,5,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+4M41GVIT,Mitsubishi,3.2 16v DI-D 1 4x4 Triton,6,4,3200,3200,4,step67b (valve count),Mitsubishi 4M/4G code prefix denotes four cylinders; 16v = 4 x 4
+BTK,Volkswagen,2.5 20v,6,5,2500,2500,4,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+D5244T7,Volvo,2.4 20v D,6,5,2400,2400,4,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5204T5,Volvo,2.0 20v,6,5,2000,2000,4,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5244T5,Volvo,2.4 20v,6,5,2400,2400,4,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5254T6,Volvo,2.5 20v Turbo,6,5,2500,2500,4,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5254T10,Volvo,2.5 20v Turbo,6,5,2500,2500,4,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5254T8,Volvo,2.5 20v Turbo Flex,6,5,2500,2500,4,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5254T11,Volvo,2.5 20v Turbo Flex,6,5,2500,2500,4,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244T16,Volvo,2400 20V D5,6,5,2400,2400,4,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+2.4 JTD 20v M-Jet Q-Tronic,Alfa Romeo,2.4 JTD 20v M-Jet Q-Tronic,6,5,2400,2400,3,step67b (valve count),Fiat/Alfa 2.4 JTD is the inline-five; 20v = 5 x 4
+M52TUB28,Bmw,328Ci 2800 24v,4,6,2793,2793,3,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+N52B25O1N,Bmw,325i 2500 24v,4,6,2795,2795,3,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+192 A2.000,Fiat,2.4 20v,6,5,2400,2400,3,step67b (valve count),Fiat/Alfa 2.4 JTD is the inline-five; 20v = 5 x 4
+AXG,Volkswagen,2.5 10v TDI,6,5,2500,2500,3,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+BPS,Volkswagen,2.5 20v,6,5,2500,2500,3,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+BPR,Volkswagen,2.5 20v,6,5,2500,2500,3,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+CTSA,Audi,2.5 20v TFSI,6,5,2500,2500,2,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+CZGA,Audi,2.5 20v TFSI,6,5,2500,2500,2,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+CZGB,Audi,2.5 20v TFSI Quattro DSG,6,5,2500,2500,2,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+M52TUB25,Bmw,323Ci 2500 24v,4,6,2494,2494,2,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+N53B30O0,Bmw,330i 3000 24v,4,6,3484,3484,2,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+2.4 20v Mjet,Lancia,2.4 20v Mjet,6,5,2400,2400,2,step67b (valve count),Fiat/Alfa 2.4 JTD is the inline-five; 20v = 5 x 4
+AXL,Volkswagen,2.5 10v TDI,6,5,2500,2500,2,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+AYC,Volkswagen,2.5 10v TDI,6,5,2500,2500,2,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+BGQ,Volkswagen,2.5 20v,6,5,2500,2500,2,step67b (valve count),VW/Audi 2.5 is the inline-five; 20v = 5 x 4 and 2.5 L / 5 = ~500 cc per cylinder
+BLK,Volkswagen,2.5 10v TDI,6,5,2500,2500,2,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+BPD,Volkswagen,2.5 10v TDI,6,5,2500,2500,2,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+BAC,Volkswagen,2.5 10v TDI,6,5,2500,2500,2,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+BPE,Volkswagen,2.5 10v TDI,6,5,2500,2500,2,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+B5254T,Volvo,2.5 20v T5,6,5,2500,2500,2,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5234T3,Volvo,2.3 20v,6,5,2300,2300,2,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5204T6,Volvo,2.0 20v D3,6,5,2000,2000,2,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244T18,Volvo,2.4 20v D5,6,5,2400,2400,2,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+2.4 JTD 20v M-Jet Q4,Alfa Romeo,2.4 JTD 20v M-Jet Q4,6,5,2400,2400,1,step67b (valve count),Fiat/Alfa 2.4 JTD is the inline-five; 20v = 5 x 4
+2.4 JTD 20v M-Jet Sportronic,Alfa Romeo,2.4 JTD 20v M-Jet Sportronic,6,5,2400,2400,1,step67b (valve count),Fiat/Alfa 2.4 JTD is the inline-five; 20v = 5 x 4
+N52B25O1US,Bmw,325i 2500 24v,4,6,2795,2795,1,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+N52B30O0US,Bmw,330i 3000 24v,4,6,3315,3315,1,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+N52B30O0N,Bmw,330i 3000 24v,4,6,3315,3315,1,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+N53B25U0,Bmw,523i 2500 24v,4,6,1300,1300,1,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+N53B30O0US,Bmw,530i 3000 24v,4,6,3484,3484,1,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+2.4 20v,Lancia,2.4 20v,6,5,2400,2400,1,step67b (valve count),Fiat/Alfa 2.4 JTD is the inline-five; 20v = 5 x 4
+4M41GVIT2,Mitsubishi,3.2 16v DI-D,6,4,3200,3200,1,step67b (valve count),Mitsubishi 4M/4G code prefix denotes four cylinders; 16v = 4 x 4
+B5254T5,Subaru,2.5 20v T,6,5,2500,2500,1,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+B5204T3,Volvo,2.0 20v,6,5,2000,2000,1,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244T21,Volvo,2.4 20v,6,5,2400,2400,1,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+D5244,Volvo,2.4 20v D4,6,5,2400,2400,1,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
+M52B20,Bmw,320i 2000 24v,4,6,1924,1924,0,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+M52B25,Bmw,323i 2500 24v,4,6,2184,2184,0,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+M52B28,Bmw,328i 2800 24v,4,6,2457,2457,0,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+M52TUB20,Bmw,320i 2000 24v,4,6,1924,1924,0,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+M52B20TU,Bmw,520i 2000 24v,4,6,1924,1924,0,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+M52B25TU,Bmw,523i 2500 24v,4,6,2184,2184,0,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+M52B28US,Bmw,528i 2800 24v,4,6,2470,2470,0,step67b (valve count),BMW M5x/N5x is a straight-six; 24v = 6 x 4
+AHY,Volkswagen,2.5 10v TDI,6,5,2500,2500,0,step67b (valve count),10 valves can only be 5 cylinders x 2; a 2-cylinder 5-valve engine does not exist
+B5244S3,Volvo,2.4 20v,6,5,2400,2400,0,step67b (valve count),Volvo B5/D5 code prefix denotes five cylinders; 20v = 5 x 4
