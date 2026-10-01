@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 6: all 137 fuel conflicts resolved (step59/59b)
+- Every variant now agrees with its engine row about what the car burns: 137 conflicts across 45 engine codes -> 0. Junk fuel labels ("Wankel", "Hybrid (Petrol-/ Electro.)") are gone too.
+- Four outcomes by evidence: 49 variants relinked to an existing sibling (Corolla Hybrid -> 2ZR-FXE, Highlander Hybrid -> 2GR-FXE, RAV4 Hybrid -> 2AR-FXE/A25A-FXS, Previa -> plain 2AZ-FE); 30 relinked to one of 12 new rows (Toyota's i-FORCE MAX pair, RX400h/Altima/Pathfinder hybrids, Tucson/Elantra/Sonata hybrids, the Mercedes and PSA diesel hybrids, the S580e PHEV); 4 engine rows had the wrong fuel (X16SZR is a petrol, CHJA/CRJA are literally named "Hybrid", RHC is a diesel); 57 variant labels were wrong.
+- Best evidence of the step: the Audi rows labelled Diesel carry 310/197/228hp - exactly the petrol figures of their non-conflicting siblings, where the TDIs of those years read 240. And "Wankel" is a layout, not a fuel, so the RX-8 rows became Petrol.
+- Mild hybrid vs hybrid: the S450's EQ Boost cannot drive the car and the DB already treats such cars as Petrol (24 M256 variants), so the S450 moved to a new petrol row while the plug-in S560e kept M276.824.
+- 7 junk descriptors fixed, 1 duplicate stub code (654) retired. 59b fixed the single conflict 59 left standing (Sprinter 2023 relinked to a diesel row while still labelled Petrol).
+- DB: fuel conflicts 137->0; engines 5,659->5,670; 39,182 variants; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 49 (FINAL): Nissan + Subaru + Lincoln + Mazda + Toyota + Honda (step58/58b/58c)
 - 21/21 rows mapped, 0 skips. THE LEMON QUEUE IS EMPTY: 0 LEMON variants, and 0 LEMON rows left in engines, engine_service_specs and engine_technical_specs.
 - Decided on fill/viscosity as throughout: NV3500 and Titan 6.51 L -> VK56DE 317hp / VK56VDE 390hp (the 4.0 V6 takes 5.1 L); Versa 3.92 L -> MR18DE 122hp; six Subaru rows at 3.97 L -> EJ253 (Baja 165, Legacy 175, Impreza 173hp); MKS -> 3.7 Ti-VCT V6 273hp; Mazda3 4.54 L -> the new PY-VPS 2.5 Skyactiv-G 186hp (the 2.0 takes 4.2); Tundra 8.04 L -> 3UR-FE 381hp; CR-V 2025 -> L15BE 190hp.
