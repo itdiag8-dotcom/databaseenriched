@@ -1,3 +1,6 @@
+## 2026-10-01 — Step 5 Batch 24: Lincoln (step33/33b)
+- Replaced 189/192 LEMON Lincoln rows (3 skips: MKS 3700CC 2010-12 lineup contradiction). 2 new engines (4.6 InTech DOHC, Corsair PHEV 266); Ford-family codes reused (2.0T/2.3/2.7/3.0/3.5EB/3.7/4.6/5.4/AJ30/AJ35); 3 PHEV fuel fixes.
+- DB: LEMON 1,921->1,732; engines 7,512->7,325; 0 orphans/mismatches/conflicts.
 ## 2026-10-01 — Step 5 Batch 23: Porsche (step32/32b/32c, rebuilt after workspace rewind via new shared step5_lemon_lib.py)
 - Replaced 185/193 LEMON Porsche rows with verified codes (8 documented skips). 20 new engines; MDW 394hp + MDJ 350hp fills; MCG.EA fuel->Hybrid.
 - 32b: 28 ESTIMATE overrides, 22 power syncs. 32c: MDJ/MDW oil repairs (LN Engineering/NHTSA), MCT/MDH->MCT.LA 400hp consolidation, 918 Spyder 887hp Hybrid fix, hybrid-family fuel normalization.
