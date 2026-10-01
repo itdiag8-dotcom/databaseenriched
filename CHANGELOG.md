@@ -1,3 +1,9 @@
+## 2026-10-01 - Step 5 Batch 38: Saab (step47/47b)
+- 34/34 rows mapped, 0 skips (2 flagged volume defaults). Three engineering sources separated by displacement token and crawl oil fill: Subaru-built 9-2X (EJ205 227hp / EJ253 165-173hp, 3.97 L), Saab's own 9-3 and 9-5 (B207R US 210hp, B284L 250-255hp, new B235E US 220hp, A20NHT 220hp) and the GM rebadges (9-7X LL8 275/291, LH6 300, LS2 390; 9-4X LF1 265).
+- 1 new engine (B235E US 9-5 2.3T 220hp). 5 ROW_FIXES, incl. A20NHT which was recorded as a 6-cylinder.
+- Volume defaults: the MY2006 9-2X row (both that year's cars are 2.5-litre) and the 9-4X 2011 row (3.0i over the Aero 2.8T) - both flagged in the decision CSV.
+- 47b: 3 ESTIMATE overrides, 1 normalization, 3 power syncs.
+- DB: LEMON 367->333; engines 6,014->5,981; Saab fuel conflicts 0; Saab NULL-power variants 34->0; 0 orphans/count mismatches.
 ## 2026-10-01 - Step 5 Batch 37: Isuzu (step46/46b) - completes the batch 26-37 run
 - 35/35 rows mapped, 0 skips. Isuzu's own cars decoded from displacement tokens (X22SE 2.2 130hp, 6VD1 3.2 205hp, 6VE1 3.5 at 215/230/250hp by model); the GM rebadges decoded from nameplate + crawl oil fill (Hombre LN2, Ascender LL8 275/291 and Vortec 5300 LM4 290 for 2004 vs LH6 300 for 2005-06, i-280 LK5, i-290 LLV, i-350 L52, i-370 LLR).
 - 2 new engines (X22SE, 6VD1). 6 ROW_FIXES: the GM Atlas rows had wrong cylinder counts - LLV is a 2.9 I4 (was 6), LLR and L52 are I5s (were 8 and 6).

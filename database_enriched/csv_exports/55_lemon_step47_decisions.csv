@@ -1,0 +1,35 @@
+variant_id,brand,model,year,old_engine_code,new_engine_code,fuel_fix,power_fill,evidence
+32703,Saab,9-2X,2005,LEMON_SAAB_9-2X_2000CC_2005,EJ205,,227,"9-2X Aero 2005 = the WRX's EJ205 2.0 boxer turbo, 227hp in Saab tune; 3.97 L fill is the Subaru boxer [SAABUS][LEMONFILL]"
+32705,Saab,9-2X,2005,LEMON_SAAB_9-2X_2500CC_2005,EJ253,,165,"9-2X Linear 2005 = EJ253 2.5 SOHC boxer, 165hp [SAABUS][LEMONFILL]"
+32709,Saab,9-2X,2006,LEMON_SAAB_9_2X_2006,EJ253,,173,"9-2X MY2006 has no displacement token and both cars are 2.5-litre (Linear EJ253 173hp, Aero EJ255 turbo 230hp); VOLUME DEFAULT to the Linear's EJ253, 173hp [SAABUS]"
+32704,Saab,9-3,2005,LEMON_SAAB_9-3_2000CC_2005,B207R US,,210,"9-3 2.0T = B207R in US tune, 210hp, the volume engine of the car [SAABUS][LEMONFILL]"
+32710,Saab,9-3,2006,LEMON_SAAB_9-3_2000CC_2006,B207R US,,210,"9-3 2.0T = B207R in US tune, 210hp, the volume engine of the car [SAABUS][LEMONFILL]"
+32711,Saab,9-3,2006,LEMON_SAAB_9-3_2800CC_2006,B284L EU/RW/US,,250,"9-3 Aero 2.8 V6 turbo (B284L), 250hp [SAABUS]"
+32715,Saab,9-3,2007,LEMON_SAAB_9-3_2000CC_2007,B207R US,,210,"9-3 2.0T = B207R in US tune, 210hp, the volume engine of the car [SAABUS][LEMONFILL]"
+32716,Saab,9-3,2007,LEMON_SAAB_9-3_2800CC_2007,B284L EU/RW/US,,250,"9-3 Aero 2.8 V6 turbo (B284L), 250hp [SAABUS]"
+32720,Saab,9-3,2008,LEMON_SAAB_9-3_2000CC_2008,B207R US,,210,"9-3 2.0T = B207R in US tune, 210hp, the volume engine of the car [SAABUS][LEMONFILL]"
+32721,Saab,9-3,2008,LEMON_SAAB_9-3_2800CC_2008,B284L EU/RW/US,,255,9-3 Aero 2.8 V6 turbo MY2008 uprated to 255hp [SAABUS]
+35467,Saab,9-3,2011,LEMON_SAAB_9_3_2011,B207R US,,210,"9-3 2011-2012 = the same B207R 2.0 turbo, 210hp; Saab built no other US 9-3 engine in its last two years [SAABUS]"
+35471,Saab,9-3,2012,LEMON_SAAB_9-3_2000CC_VINR_2012,B207R US,,210,"9-3 2.0L 2012 (VIN R and VIN Z emissions variants) = B207R 2.0 turbo, 210hp [SAABUS]"
+35473,Saab,9-3,2012,LEMON_SAAB_9-3_2000CC_VINZ_2012,B207R US,,210,"9-3 2.0L 2012 (VIN R and VIN Z emissions variants) = B207R 2.0 turbo, 210hp [SAABUS]"
+35472,Saab,9-3,2012,LEMON_SAAB_9_3_2012,B207R US,,210,"9-3 2011-2012 = the same B207R 2.0 turbo, 210hp; Saab built no other US 9-3 engine in its last two years [SAABUS]"
+35468,Saab,9-3X,2011,LEMON_SAAB_9_3X_2011,B207R US,,210,"9-3X = the lifted XWD 9-3 wagon, 2.0T B207R, 210hp [SAABUS]"
+35474,Saab,9-3X,2012,LEMON_SAAB_9_3X_2012,B207R US,,210,"9-3X = the lifted XWD 9-3 wagon, 2.0T B207R, 210hp [SAABUS]"
+35469,Saab,9-4X,2011,LEMON_SAAB_9_4X_2011,LF1,,265,"9-4X 2011 = Cadillac SRX twin; VOLUME DEFAULT to the 3.0i's LF1 3.0 V6 direct-injection, 265hp, over the Aero 2.8T; 5.67 L fill [SAABUS][LEMONFILL]"
+32706,Saab,9-5,2005,LEMON_SAAB_9_5_2005,"B235E US (9-5 2.3T, 220hp)",,220,"9-5 2005-2008 = the 2.3T B235 in its 220hp base tune (the Aero ran 260hp); 3.88 L fill is the Saab 2.3, not a GM engine [SAABUS][LEMONFILL]"
+32712,Saab,9-5,2006,LEMON_SAAB_9_5_2006,"B235E US (9-5 2.3T, 220hp)",,220,"9-5 2005-2008 = the 2.3T B235 in its 220hp base tune (the Aero ran 260hp); 3.88 L fill is the Saab 2.3, not a GM engine [SAABUS][LEMONFILL]"
+32717,Saab,9-5,2007,LEMON_SAAB_9_5_2007,"B235E US (9-5 2.3T, 220hp)",,220,"9-5 2005-2008 = the 2.3T B235 in its 220hp base tune (the Aero ran 260hp); 3.88 L fill is the Saab 2.3, not a GM engine [SAABUS][LEMONFILL]"
+32722,Saab,9-5,2008,LEMON_SAAB_9_5_2008,"B235E US (9-5 2.3T, 220hp)",,220,"9-5 2005-2008 = the 2.3T B235 in its 220hp base tune (the Aero ran 260hp); 3.88 L fill is the Saab 2.3, not a GM engine [SAABUS][LEMONFILL]"
+35470,Saab,9-5,2011,LEMON_SAAB_9_5_2011,A20NHT,,220,"9-5 2011 = the Insignia-based second-generation car: A20NHT 2.0 turbo, 220hp US; 5.67 L fill [SAABUS][LEMONFILL]"
+32708,Saab,9-7X,2005,LEMON_SAAB_9-7X_4200CC_2005,LL8,,275,"9-7X 4.2 MY2005 = LL8 I6 Atlas, 275hp; 6.62 L fill [SAABUS][LEMONFILL]"
+32707,Saab,9-7X,2005,LEMON_SAAB_9-7X_5300CC_2005,LH6,,300,"9-7X 5.3 V8 = LH6 Vortec 5300 with Displacement on Demand, 300hp; 5.67 L fill [SAABUS][LEMONFILL]"
+32713,Saab,9-7X,2006,LEMON_SAAB_9-7X_4200CC_2006,LL8,,291,9-7X 4.2 MY2006-2009 = LL8 I6 Atlas uprated to 291hp [SAABUS][LEMONFILL]
+32714,Saab,9-7X,2006,LEMON_SAAB_9-7X_5300CC_2006,LH6,,300,"9-7X 5.3 V8 = LH6 Vortec 5300 with Displacement on Demand, 300hp; 5.67 L fill [SAABUS][LEMONFILL]"
+32718,Saab,9-7X,2007,LEMON_SAAB_9-7X_4200CC_2007,LL8,,291,9-7X 4.2 MY2006-2009 = LL8 I6 Atlas uprated to 291hp [SAABUS][LEMONFILL]
+32719,Saab,9-7X,2007,LEMON_SAAB_9-7X_5300CC_2007,LH6,,300,"9-7X 5.3 V8 = LH6 Vortec 5300 with Displacement on Demand, 300hp; 5.67 L fill [SAABUS][LEMONFILL]"
+32724,Saab,9-7X,2008,LEMON_SAAB_9-7X_4200CC_2008,LL8,,291,9-7X 4.2 MY2006-2009 = LL8 I6 Atlas uprated to 291hp [SAABUS][LEMONFILL]
+32723,Saab,9-7X,2008,LEMON_SAAB_9-7X_5300CC_2008,LH6,,300,"9-7X 5.3 V8 = LH6 Vortec 5300 with Displacement on Demand, 300hp; 5.67 L fill [SAABUS][LEMONFILL]"
+32725,Saab,9-7X,2008,LEMON_SAAB_9-7X_6000CC_2008,LS2,,390,"9-7X Aero 2008-2009 = the 6.0 V8 LS2, 390hp in this application [SAABUS]"
+32726,Saab,9-7X,2009,LEMON_SAAB_9-7X_4200CC_2009,LL8,,291,9-7X 4.2 MY2006-2009 = LL8 I6 Atlas uprated to 291hp [SAABUS][LEMONFILL]
+32727,Saab,9-7X,2009,LEMON_SAAB_9-7X_5300CC_2009,LH6,,300,"9-7X 5.3 V8 = LH6 Vortec 5300 with Displacement on Demand, 300hp; 5.67 L fill [SAABUS][LEMONFILL]"
+32728,Saab,9-7X,2009,LEMON_SAAB_9-7X_6000CC_2009,LS2,,390,"9-7X Aero 2008-2009 = the 6.0 V8 LS2, 390hp in this application [SAABUS]"
