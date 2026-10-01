@@ -51,7 +51,7 @@ def parse_code(code, prefix):
     for t in toks[:yi]:
         if re.fullmatch(r"\d+CC", t):
             cc = int(t[:-2])
-        elif re.fullmatch(r"VIN[A-Z0-9]", t):
+        elif re.fullmatch(r"VIN[A-Z0-9]{1,2}", t):
             vin = t[3:]
         else:
             model_toks.append(t)

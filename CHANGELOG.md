@@ -1,3 +1,6 @@
+## 2026-10-01 — Step 5 Batch 25: Volvo (step34/34b)
+- Replaced 184/184 LEMON Volvo rows, zero skips. Official Volvo VIN engine-code decode (pos 4-5: 40/49/61/90/94/95/98/99/10/A2/BR/BC/BK/H6/L1/06). 7 new engines; 14 T8 PHEV fuel fixes; B4204T27 row-fix to T6 316.
+- DB: LEMON 1,732->1,548; engines 7,325->7,148; 0 orphans/mismatches/conflicts.
 ## 2026-10-01 — Step 5 Batch 24: Lincoln (step33/33b)
 - Replaced 189/192 LEMON Lincoln rows (3 skips: MKS 3700CC 2010-12 lineup contradiction). 2 new engines (4.6 InTech DOHC, Corsair PHEV 266); Ford-family codes reused (2.0T/2.3/2.7/3.0/3.5EB/3.7/4.6/5.4/AJ30/AJ35); 3 PHEV fuel fixes.
 - DB: LEMON 1,921->1,732; engines 7,512->7,325; 0 orphans/mismatches/conflicts.
