@@ -1,0 +1,133 @@
+engine_code,action,column,old,new,evidence
+LT4,FILL_CYL,cylinders,,8,layout stated in the row's own engine_type descriptor
+ESA,FILL_CYL,cylinders,,8,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+ESB,FILL_CYL,cylinders,,8,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+ECK,FILL_CYL,cylinders,,4,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+J35Y1,FILL_CYL,cylinders,,6,layout stated in the row's own engine_type descriptor
+J35Y2,FILL_CYL,cylinders,,6,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+K24V1,FILL_CYL,cylinders,,4,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+K24W9,FILL_CYL,cylinders,,4,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+CNSA,FILL_CYL,cylinders,,4,VW/Audi: EA888 2.0 and 1.8 TSI are fours; CREH is the 3.0 TFSI V6
+CXBA,FILL_CYL,cylinders,,4,layout stated in the row's own engine_type descriptor
+CXBB,FILL_CYL,cylinders,,4,layout stated in the row's own engine_type descriptor
+DBPA,FILL_CYL,cylinders,,4,layout stated in the row's own engine_type descriptor
+CREH,FILL_CYL,cylinders,,6,VW/Audi: EA888 2.0 and 1.8 TSI are fours; CREH is the 3.0 TFSI V6
+LE2,FILL_CYL,cylinders,,4,layout stated in the row's own engine_type descriptor
+ERC,FILL_CYL,cylinders,,6,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+ERF,FILL_CYL,cylinders,,6,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+L15B1,FILL_CYL,cylinders,,4,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+L15B3,FILL_CYL,cylinders,,4,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+K24V9,FILL_CYL,cylinders,,4,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+EDD,FILL_CYL,cylinders,,4,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+BEA,FILL_CYL,cylinders,,4,VW/Audi: EA888 2.0 and 1.8 TSI are fours; CREH is the 3.0 TFSI V6
+M54,FILL_CYL,cylinders,,6,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+M56,FILL_CYL,cylinders,,6,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+D17A1,FILL_CYL,cylinders,,4,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+N52,FILL_CYL,cylinders,,6,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+N51,FILL_CYL,cylinders,,6,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+N62,FILL_CYL,cylinders,,8,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+N63,FILL_CYL,cylinders,,8,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+N54,FILL_CYL,cylinders,,6,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+M57,FILL_CYL,cylinders,,6,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+L26,FILL_CYL,cylinders,,6,layout stated in the row's own engine_type descriptor
+LS4,FILL_CYL,cylinders,,8,layout stated in the row's own engine_type descriptor
+LZE,FILL_CYL,cylinders,,6,layout stated in the row's own engine_type descriptor
+N55,FILL_CYL,cylinders,,6,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+N20,FILL_CYL,cylinders,,4,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+N26,FILL_CYL,cylinders,,4,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+S63,FILL_CYL,cylinders,,8,"BMW family stem; the family's layout is fixed (N2x/N5x/M5x sixes and fours, N6x/S63 V8s)"
+J35Z3,FILL_CYL,cylinders,,6,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+MZR,FILL_CYL,cylinders,,4,B420 = Volvo's 2.0 four; G4EN/MZR fours; MA1/MDK are Porsche flat-sixes; Mercedes M274 is a four and M276 a V6
+276,FILL_CYL,cylinders,,6,B420 = Volvo's 2.0 four; G4EN/MZR fours; MA1/MDK are Porsche flat-sixes; Mercedes M274 is a four and M276 a V6
+MA1,FILL_CYL,cylinders,,6,B420 = Volvo's 2.0 four; G4EN/MZR fours; MA1/MDK are Porsche flat-sixes; Mercedes M274 is a four and M276 a V6
+DHHA,FILL_CYL,cylinders,,4,layout stated in the row's own engine_type descriptor
+DLRA,FILL_CYL,cylinders,,4,layout stated in the row's own engine_type descriptor
+LGW,FILL_CYL,cylinders,,6,layout stated in the row's own engine_type descriptor
+EZL,FILL_CYL,cylinders,,8,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+ETL,FILL_CYL,cylinders,,6,Cummins 6.7 is a straight-six (see Step 8: their 11.35 L / 10W-30 service spec identified them as Cummins diesels)
+ETM,FILL_CYL,cylinders,,6,Cummins 6.7 is a straight-six (see Step 8: their 11.35 L / 10W-30 service spec identified them as Cummins diesels)
+ESD,FILL_CYL,cylinders,,8,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+ESJ,FILL_CYL,cylinders,,8,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+LFB1,FILL_CYL,cylinders,,4,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+LFB2,FILL_CYL,cylinders,,4,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+L15B7,FILL_CYL,cylinders,,4,layout stated in the row's own engine_type descriptor
+L15BY,FILL_CYL,cylinders,,4,"Honda family: J35 = 3.5 V6, K24 = 2.4 four, L15/LFB = 1.5-2.0 four"
+G4EN,FILL_CYL,cylinders,,4,B420 = Volvo's 2.0 four; G4EN/MZR fours; MA1/MDK are Porsche flat-sixes; Mercedes M274 is a four and M276 a V6
+EDE,FILL_CYL,cylinders,,4,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+ERG,FILL_CYL,cylinders,,6,"FCA sales code: ES*/EZ* are HEMI V8s, ER* the 3.6 Pentastar V6, ED*/EC* the Tigershark fours"
+274,FILL_CYL,cylinders,,4,B420 = Volvo's 2.0 four; G4EN/MZR fours; MA1/MDK are Porsche flat-sixes; Mercedes M274 is a four and M276 a V6
+MDK,FILL_CYL,cylinders,,6,B420 = Volvo's 2.0 four; G4EN/MZR fours; MA1/MDK are Porsche flat-sixes; Mercedes M274 is a four and M276 a V6
+MDW,FILL_CYL,cylinders,,6,layout stated in the row's own engine_type descriptor
+MDJ,FILL_CYL,cylinders,,4,layout stated in the row's own engine_type descriptor
+DDSA,FILL_CYL,cylinders,,4,VW/Audi: EA888 2.0 and 1.8 TSI are fours; CREH is the 3.0 TFSI V6
+DDSB,FILL_CYL,cylinders,,4,VW/Audi: EA888 2.0 and 1.8 TSI are fours; CREH is the 3.0 TFSI V6
+DTDA,FILL_CYL,cylinders,,4,VW/Audi: EA888 2.0 and 1.8 TSI are fours; CREH is the 3.0 TFSI V6
+DTEA,FILL_CYL,cylinders,,4,VW/Audi: EA888 2.0 and 1.8 TSI are fours; CREH is the 3.0 TFSI V6
+DSFE,FILL_CYL,cylinders,,4,VW/Audi: EA888 2.0 and 1.8 TSI are fours; CREH is the 3.0 TFSI V6
+DSFF,FILL_CYL,cylinders,,4,VW/Audi: EA888 2.0 and 1.8 TSI are fours; CREH is the 3.0 TFSI V6
+B4204T12,FILL_CYL,cylinders,,4,B420 = Volvo's 2.0 four; G4EN/MZR fours; MA1/MDK are Porsche flat-sixes; Mercedes M274 is a four and M276 a V6
+B4204T43,FILL_CYL,cylinders,,4,B420 = Volvo's 2.0 four; G4EN/MZR fours; MA1/MDK are Porsche flat-sixes; Mercedes M274 is a four and M276 a V6
+K24V1,FILL_DISP,displacement_cc,,2356,Honda K24 Earth Dreams 2.4
+K24W9,FILL_DISP,displacement_cc,,2356,Honda K24 Earth Dreams 2.4
+CREH,FILL_DISP,displacement_cc,,2995,Audi 3.0 TFSI
+ERC,FILL_DISP,displacement_cc,,3604,3.6 Pentastar - DB's ERB row reads 3604
+ERF,FILL_DISP,displacement_cc,,3604,3.6 Pentastar
+L15B1,FILL_DISP,displacement_cc,,1498,Honda L15B 1.5
+L15B3,FILL_DISP,displacement_cc,,1498,Honda L15B 1.5
+M54,FILL_DISP,displacement_cc,,2494,"stem; its model_example is the 325i, the 2.5 M54B25 - the same car Step 8 used to set its 189hp"
+M56,FILL_DISP,displacement_cc,,2497,M56 is the SULEV M54B25 2.5
+D17A1,FILL_DISP,displacement_cc,,1668,Honda D17 1.7 - DB's D17A2/D17A6 rows both read 1668
+N52,FILL_DISP,displacement_cc,,2996,BMW N52 is the 3.0 six
+N51,FILL_DISP,displacement_cc,,2996,N51 is the SULEV N52 3.0
+N55,FILL_DISP,displacement_cc,,2979,N55 3.0 TwinPower Turbo
+276,FILL_DISP,displacement_cc,,3498,Mercedes M276 3.5 V6
+EDE,FILL_DISP,displacement_cc,,2360,2.4 Tigershark - DB's ED8 row reads 2360
+274,FILL_DISP,displacement_cc,,1991,Mercedes M274 2.0
+MDK,FILL_DISP,displacement_cc,,2981,Porsche 992 3.0 flat-six
+DDSA,FILL_DISP,displacement_cc,,1984,EA888 2.0 TSI
+DDSB,FILL_DISP,displacement_cc,,1984,EA888 2.0 TSI
+DTDA,FILL_DISP,displacement_cc,,1984,EA888 2.0 TSI
+DTEA,FILL_DISP,displacement_cc,,1984,EA888 2.0 TSI
+DSFE,FILL_DISP,displacement_cc,,1984,"EA888 evo4 2.0, 1984cc per the engine-code index used in Step 8"
+DSFF,FILL_DISP,displacement_cc,,1984,EA888 evo4 2.0
+B4204T43,FILL_DISP,displacement_cc,,1969,Volvo VEP4 2.0 - DB's other B4204T rows read 1969
+M275KE55LA,REPAIR_DISP,displacement_cc,600,5513,"'CL600 5500 V8 TwinTurbo': 600 is the CL600 badge, not a displacement. The M275 is a 5.5 V12 biturbo - the descriptor's 'V8' is wrong too"
+M275KE55LA,REPAIR_CYL,cylinders,8,12,"'CL600 5500 V8 TwinTurbo': 600 is the CL600 badge, not a displacement. The M275 is a 5.5 V12 biturbo - the descriptor's 'V8' is wrong too"
+N62B48TU,REPAIR_DISP,displacement_cc,650,4799,'650i 4800 V8' - the 650i badge became 650cc
+N62B36,REPAIR_DISP,displacement_cc,735,3600,'735i 3600 V8' - the 735i badge became 735cc
+N62B40,REPAIR_DISP,displacement_cc,740,3999,'740i 4000 V8' - the 740i badge became 740cc
+N62NB40,REPAIR_DISP,displacement_cc,740,3999,'740Li 4000 V8' - the 740Li badge became 740cc
+M62TUB35,REPAIR_DISP,displacement_cc,735,3498,'735i 3500 V8' - badge became displacement
+M62TUB44,REPAIR_DISP,displacement_cc,740,4398,'740i 4400 V8' - badge became displacement
+M57D30A,REPAIR_DISP,displacement_cc,730,2993,"'730d 3000 D' became 730cc, and the cylinder count was then derived from it: a 3.0 straight-six diesel recorded as a 3-cylinder"
+M57D30A,REPAIR_CYL,cylinders,3,6,"'730d 3000 D' became 730cc, and the cylinder count was then derived from it: a 3.0 straight-six diesel recorded as a 3-cylinder"
+M57TU2D30TOP,REPAIR_DISP,displacement_cc,635,2993,"'635d 3000 D' became 635cc, cylinders derived as 3"
+M57TU2D30TOP,REPAIR_CYL,cylinders,3,6,"'635d 3000 D' became 635cc, cylinders derived as 3"
+M67D39,REPAIR_DISP,displacement_cc,740,3901,"'740d 3900 D' became 740cc; the M67 is a V8 diesel, not a triple"
+M67D39,REPAIR_CYL,cylinders,3,8,"'740d 3900 D' became 740cc; the M67 is a V8 diesel, not a triple"
+M67TUD39,REPAIR_DISP,displacement_cc,740,3901,'740d 3900 D' became 740cc; M67 V8 diesel
+M67TUD39,REPAIR_CYL,cylinders,3,8,'740d 3900 D' became 740cc; M67 V8 diesel
+M67D44,REPAIR_DISP,displacement_cc,745,4423,'745d 4400 D' became 745cc; M67 V8 diesel
+M67D44,REPAIR_CYL,cylinders,3,8,'745d 4400 D' became 745cc; M67 V8 diesel
+M51D25S,REPAIR_DISP,displacement_cc,725,2497,'725tds 2500 D' became 725cc; the M51 is a 2.5 straight-six diesel
+M51D25S,REPAIR_CYL,cylinders,3,6,'725tds 2500 D' became 725cc; the M51 is a 2.5 straight-six diesel
+N53B3O0,REPAIR_CYL,cylinders,3,6,displacement already repaired in Step 8 (630i badge -> 630cc); its cylinder count was still the 3 derived from the bogus 630cc
+CSCA,REPAIR_DISP,displacement_cc,829,1582,829cc recorded for a row whose own descriptor says '1.6 CRDi'; the U2 1.6 CRDi is 1582cc
+CSCA,REPAIR_CYL,cylinders,3,4,829cc recorded for a row whose own descriptor says '1.6 CRDi'; the U2 1.6 CRDi is 1582cc
+EZ36D,TOKEN_CYL,cylinders,8,6,stored count contradicts the explicit layout token in the row's own descriptor
+BGP,TOKEN_CYL,cylinders,6,5,stored count contradicts the explicit layout token in the row's own descriptor
+ETJ,TOKEN_CYL,cylinders,8,6,stored count contradicts the explicit layout token in the row's own descriptor
+N74B66A,TOKEN_CYL,cylinders,8,12,stored count contradicts the explicit layout token in the row's own descriptor
+OM612DE27LA,TOKEN_CYL,cylinders,4,5,stored count contradicts the explicit layout token in the row's own descriptor
+EGS,TOKEN_CYL,cylinders,8,6,stored count contradicts the explicit layout token in the row's own descriptor
+B3815KT0,TOKEN_CYL,cylinders,4,3,stored count contradicts the explicit layout token in the row's own descriptor
+N74B60A,TOKEN_CYL,cylinders,8,12,stored count contradicts the explicit layout token in the row's own descriptor
+CTNA,TOKEN_CYL,cylinders,8,12,stored count contradicts the explicit layout token in the row's own descriptor
+ETC,TOKEN_CYL,cylinders,8,6,stored count contradicts the explicit layout token in the row's own descriptor
+406PN,TOKEN_CYL,cylinders,8,6,stored count contradicts the explicit layout token in the row's own descriptor
+20K4F,TOKEN_CYL,cylinders,4,6,stored count contradicts the explicit layout token in the row's own descriptor
+1LR-GUE,TOKEN_CYL,cylinders,8,10,stored count contradicts the explicit layout token in the row's own descriptor
+VQ20DE,TOKEN_CYL,cylinders,4,6,stored count contradicts the explicit layout token in the row's own descriptor
+AM702,TOKEN_CYL,cylinders,8,12,stored count contradicts the explicit layout token in the row's own descriptor
+CFRA,TOKEN_CYL,cylinders,8,12,stored count contradicts the explicit layout token in the row's own descriptor
+D4FD-L,SKIP,cylinders,,,"its descriptor ('3.0 -24 V6') belongs to a different engine than its 1685cc Hyundai 1.7 diesel body - the text is the wrong half, so this belongs to the descriptor cleanup, not here"
