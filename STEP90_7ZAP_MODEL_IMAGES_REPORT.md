@@ -100,3 +100,71 @@ Notes / limitations:
 * `database_enriched/model_images/` is git-ignored: the pictures are 7zap
   assets, re-downloadable at any time with step 92.
 * Pictures are generation-level, so sibling trims legitimately share one photo.
+
+---
+
+## Step 93 - all brands, all regions (supersedes the step-90 crawl)
+
+The region gap above is now solved, and so is brand enumeration.
+
+**The brand catalog pages were the wrong entry point.** `…/catalog/cars/<brand>/`
+renders exactly one region (the brand's default - USA for BMW/Audi/Toyota,
+Global for Fiat/Opel, Europe for Skoda/Dacia…) and the region tabs are hash
+links (`#region=europe`) resolved client-side; `?region=…` is ignored by the
+server. No amount of brand-page crawling reaches `1' F20`.
+
+**7zap's sitemap index does not have that problem.** It lists one sitemap per
+*generation*, region-independent:
+
+```
+https://7zap.com/sitemap.xml
+  -> https://7zap.com/sitemaps/cats/7zap_com/bmw/generation_1-series-f20.xml   <- Europe-only
+  -> https://7zap.com/sitemaps/cats/7zap_com/opel/generation_astra-k.xml
+```
+
+and the generation slug maps 1:1 onto a model page that carries the picture,
+the full name, the years and the region label:
+`https://7zap.com/en/catalog/cars/bmw/1-series-f20-parts-catalog/`.
+
+`step93_fetch_7zap_all_regions.py` walks that index. One request per
+generation, threaded, resumable, merging into the same
+`database_enriched/7zap/catalog_models.jsonl` that step 91 consumes - so
+nothing already matched is lost.
+
+```bash
+pip install requests
+python3 step93_fetch_7zap_all_regions.py --list-only          # count what exists, writes 7zap/generations.json
+python3 step93_fetch_7zap_all_regions.py --db-brands          # crawl the brands our DB actually uses
+python3 step93_fetch_7zap_all_regions.py --resume             # pick up after an interruption
+python3 step91_match_7zap_images.py                           # re-match every model row
+python3 step92_download_7zap_images.py                        # download the pictures
+```
+
+`--workers 4 --delay 0.5` (the defaults) is roughly 8 pages/s worst case and
+polite; several thousand generations means tens of minutes, not hours. The
+parser is covered offline by `python3 step93_selftest.py` (stubbed HTTP:
+sitemap parsing, title/year/region/picture extraction, idempotent merge) -
+useful because this sandbox has no route to 7zap.
+
+### What the ceiling actually is
+
+7zap carries **70 car brands** (`database_enriched/7zap/brands.json`). Our
+database has 147. The overlap is the real upper bound on coverage:
+
+| | brands | model rows |
+| --- | --- | --- |
+| on 7zap | 56 | 5 023 (80.3 %) |
+| not on 7zap | 91 | 1 229 (19.7 %) |
+
+Full per-brand detail: `database_enriched/csv_exports/90_7zap_brand_coverage.csv`.
+
+The biggest absences are exotics and brands 7zap never carried parts for:
+Ferrari (115 rows), Aston Martin (78), Bugatti (58), Isuzu (54), Bentley (45),
+Maserati (44), Alpina (41), Brilliance (40), Jaguar (40), GWM (39), Land Rover
+(35), Lotus (34), Tata (34), Daihatsu (33), Mahindra (33). Those rows cannot
+get a 7zap picture by any means; a second source would be required, which is
+outside what was asked for here.
+
+So: ~80 % of model rows are reachable, and within a reachable brand the
+family matcher has been giving 86-95 % (Audi, BMW), i.e. an expected end state
+near 70-75 % of all 6 252 rows with a real generation photo.

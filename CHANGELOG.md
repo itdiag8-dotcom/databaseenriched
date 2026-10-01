@@ -1,3 +1,21 @@
+## 2026-10-01 - Step 93: 7zap pictures for every brand and every region
+
+- The step-90 crawl read brand catalog pages, which render **one region at a time** and switch
+  client-side (`#region=europe`), so Europe/Asia-only generations (BMW `1' F20`, Audi `A1`) were
+  unreachable no matter how the brand page was requested - `?region=` is ignored server-side.
+- `step93_fetch_7zap_all_regions.py` crawls the **sitemap index** instead: 7zap publishes one
+  sitemap per generation (`/sitemaps/cats/7zap_com/<brand>/generation_<slug>.xml`) independently of
+  region, and the generation slug maps 1:1 onto the model page that carries the picture, name,
+  years and region label. Threaded, resumable (`--resume`), merges into the existing
+  `catalog_models.jsonl`, so step 91/92 are unchanged.
+- `step93_selftest.py` exercises the whole chain offline with stubbed HTTP (sitemap parse, title /
+  year-range / open-ended years / region / picture extraction, idempotent merge).
+- Brand ceiling quantified: 7zap carries **70 brands** (`database_enriched/7zap/brands.json`); the
+  database has 147. **56 brands = 5 023 model rows (80.3 %) are reachable**, 91 brands = 1 229 rows
+  (Ferrari, Aston Martin, Bugatti, Isuzu, Bentley, Jaguar, Land Rover…) have no 7zap catalog at all
+  and would need a different source. Per-brand detail in
+  `database_enriched/csv_exports/90_7zap_brand_coverage.csv`.
+
 ## 2026-10-01 - Step 14: cylinder counts, cross-checked then self-checked (step67/67b/67c)
 
 - **127 engine rows corrected (658 variants).** 29 from the MagicMotorsport layout tokens
