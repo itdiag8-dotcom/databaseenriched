@@ -35,7 +35,12 @@ except ImportError:  # pragma: no cover
 
 
 def local_path_for(url: str, brand_slug: str) -> str:
-    name = os.path.basename(urlparse(url).path) or "image.webp"
+    """Filesystem-safe destination; Commons names carry spaces and commas."""
+    import re
+    from urllib.parse import unquote
+
+    name = unquote(os.path.basename(urlparse(url).path)) or "image.webp"
+    name = re.sub(r"[^A-Za-z0-9._-]+", "_", name)[:120]
     return os.path.join("database_enriched", "model_images", brand_slug, name)
 
 
@@ -75,7 +80,15 @@ def main() -> None:
           f"({len(urls)} to process)")
 
     session = requests.Session()
-    session.headers.update({"User-Agent": lib.USER_AGENT, "Referer": lib.BASE + "/en/"})
+    session.headers.update({"User-Agent": lib.USER_AGENT})
+
+    def headers_for(url: str) -> dict:
+        if "7zap.com" in url:
+            return {"Referer": lib.BASE + "/en/"}
+        if "wikimedia.org" in url or "wikipedia.org" in url:
+            # Wikimedia requires a descriptive, contactable User-Agent
+            return {"User-Agent": "car-database-enrichment/1.0 (model picture backfill)"}
+        return {}
 
     ok = skipped = failed = 0
     updates: list[tuple[str, int]] = []
@@ -87,7 +100,7 @@ def main() -> None:
         else:
             os.makedirs(os.path.dirname(dest), exist_ok=True)
             try:
-                resp = session.get(url, timeout=30)
+                resp = session.get(url, timeout=60, headers=headers_for(url))
                 if resp.status_code != 200 or not resp.content:
                     raise RuntimeError(f"HTTP {resp.status_code}")
                 with open(dest, "wb") as fh:

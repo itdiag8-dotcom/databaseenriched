@@ -18,7 +18,7 @@ import json
 import os
 import re
 import unicodedata
-from dataclasses import dataclass, asdict, field
+from dataclasses import dataclass, asdict, field, fields
 
 BASE = "https://7zap.com"
 CATALOG_URL = BASE + "/en/catalog/cars/{slug}/"
@@ -28,6 +28,8 @@ REPO_ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(REPO_ROOT, "database_enriched", "7zap")
 CATALOG_JSONL = os.path.join(DATA_DIR, "catalog_models.jsonl")
 BRANDS_JSON = os.path.join(DATA_DIR, "brands.json")
+WIKIDATA_DIR = os.path.join(REPO_ROOT, "database_enriched", "wikidata")
+WIKIDATA_JSONL = os.path.join(WIKIDATA_DIR, "catalog_models.jsonl")
 IMAGE_DIR = os.path.join(REPO_ROOT, "database_enriched", "model_images")
 DB_PATH = os.path.join(REPO_ROOT, "database_enriched", "car_database.db")
 
@@ -53,7 +55,9 @@ class CatalogModel:
     page_url: str            # https://7zap.com/en/catalog/cars/bmw/1-series-e82-parts-catalog/
     image_url: str           # https://img.7zap.com/images/oem/models/BMW_1-series_E82.webp
     slug: str = ""           # 1-series-e82-parts-catalog
-    source: str = "7zap"
+    source: str = "7zap"     # "7zap", "7zap:europe", "wikidata" ...
+    credit: str = ""         # author / attribution line (Wikimedia Commons)
+    license: str = ""        # e.g. "CC BY-SA 4.0"
 
     def to_json(self) -> str:
         return json.dumps(asdict(self), ensure_ascii=False)
@@ -230,6 +234,9 @@ def parse_catalog_tsv(tsv: str, brand_slug: str, brand_label: str = "") -> list[
 # --------------------------------------------------------------------------
 # catalog persistence
 # --------------------------------------------------------------------------
+_CATALOG_FIELDS = {f.name for f in fields(CatalogModel)}
+
+
 def load_catalog(path: str = CATALOG_JSONL) -> list[CatalogModel]:
     rows: list[CatalogModel] = []
     if not os.path.exists(path):
@@ -239,7 +246,8 @@ def load_catalog(path: str = CATALOG_JSONL) -> list[CatalogModel]:
             line = line.strip()
             if not line:
                 continue
-            rows.append(CatalogModel(**json.loads(line)))
+            raw = json.loads(line)
+            rows.append(CatalogModel(**{k: v for k, v in raw.items() if k in _CATALOG_FIELDS}))
     return rows
 
 

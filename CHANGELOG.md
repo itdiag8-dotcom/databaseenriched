@@ -1,3 +1,24 @@
+## 2026-10-01 - Step 94: Wikidata/Commons fallback for the brands 7zap does not carry
+
+- 91 brands / 1 229 model rows (Ferrari, Aston Martin, Bugatti, Isuzu, Bentley, Maserati, Jaguar,
+  Land Rover, Tesla ...) have **no 7zap catalog at all**, so step 90-93 can never illustrate them.
+- `step94_fetch_wikidata_images.py` queries Wikidata for `P31/P279* = automobile model` + `P18`
+  picture, binding the manufacturer **by label/alias instead of a hard-coded QID** - "GWM" lands on
+  Great Wall Motor, "DS" on DS Automobiles, and both "Land Rover" entities are caught at once; an
+  `ALIASES` table covers spellings Wikidata lacks (Maruti -> Maruti Suzuki, Ikco -> Iran Khodro).
+- **Attribution is now first-class**, because Commons licences demand it where 7zap did not: author
+  and licence are read from the Commons API into new `CatalogModel.credit` / `.license` fields and
+  stored in three new `models` columns - `image_source`, `image_credit`, `image_license`
+  (existing 7zap rows backfilled to `image_source='7zap'`).
+- Seeded from a real WDQS response (`wikidata_captures/exotics_batch1.txt`, importable via
+  `--from-capture`): 91 models for 8 exotic brands matched **178 of 449 rows (39.6 %)** - 45 exact,
+  5 code, 97 family, 31 fuzzy - with only one sixth of the response captured. Database now holds
+  **781 illustrated model rows** (603 7zap + 178 Wikidata).
+- The 31 fuzzy matches score 0.51-0.56 and are the dubious ones (DB12 wearing the DB2 photo) only
+  because the right model sits in the uncaptured part of the response; `--threshold 0.6` suppresses
+  that tier.
+- `step94_selftest.py` covers the chain offline (stubbed WDQS + Commons API).
+
 ## 2026-10-01 - Step 93: 7zap pictures for every brand and every region
 
 - The step-90 crawl read brand catalog pages, which render **one region at a time** and switch

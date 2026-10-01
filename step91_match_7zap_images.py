@@ -47,6 +47,9 @@ NEW_COLUMNS = {
     "image_match_name": "TEXT",
     "image_match_score": "REAL",
     "image_match_method": "TEXT",
+    "image_source": "TEXT",      # "7zap" | "wikidata"
+    "image_credit": "TEXT",      # author, when the licence requires attribution
+    "image_license": "TEXT",     # e.g. "CC BY-SA 4.0"
 }
 
 REPORT_CSV = os.path.join(lib.REPO_ROOT, "database_enriched", "csv_exports", "90_7zap_model_images.csv")
@@ -182,7 +185,7 @@ def main() -> None:
     by_brand: dict[str, list[lib.CatalogModel]] = defaultdict(list)
     for c in catalog:
         by_brand[c.brand_slug].append(c)
-    print(f"catalog: {len(catalog)} 7zap models across {len(by_brand)} brands")
+    print(f"catalog: {len(catalog)} source models across {len(by_brand)} brands")
 
     con = sqlite3.connect(args.db)
     con.row_factory = sqlite3.Row
@@ -215,7 +218,9 @@ def main() -> None:
             score = 0.0
         if cand and score >= threshold:
             label = cand.model_name + (f" ({cand.years_text.strip('()')})" if cand.years_text else "")
-            updates.append((cand.image_url, cand.page_url, label, round(score, 3), method, r["id"]))
+            updates.append((cand.image_url, cand.page_url, label, round(score, 3), method,
+                            (cand.source or "7zap").split(":")[0], cand.credit, cand.license,
+                            r["id"]))
             stats[method] += 1
         else:
             stats["no_match"] += 1
@@ -230,7 +235,8 @@ def main() -> None:
     if not args.dry_run:
         con.executemany(
             "UPDATE models SET image_url=?, image_source_page=?, image_match_name=?, "
-            "image_match_score=?, image_match_method=? WHERE id=?",
+            "image_match_score=?, image_match_method=?, image_source=?, image_credit=?, "
+            "image_license=?, image_local_path=NULL WHERE id=?",
             updates,
         )
         con.commit()
@@ -239,9 +245,11 @@ def main() -> None:
         with open(REPORT_CSV, "w", newline="", encoding="utf-8") as fh:
             w = csv.writer(fh)
             w.writerow(["model_id", "brand_name", "model_name", "years_span", "image_url",
-                        "image_source_page", "image_match_name", "image_match_score", "image_match_method"])
+                        "image_source_page", "image_match_name", "image_match_score",
+                        "image_match_method", "image_source", "image_credit", "image_license"])
             q = ("SELECT id, brand_name, model_name, years_span, image_url, image_source_page, "
-                 "image_match_name, image_match_score, image_match_method FROM models "
+                 "image_match_name, image_match_score, image_match_method, image_source, "
+                 "image_credit, image_license FROM models "
                  "WHERE image_url IS NOT NULL ORDER BY brand_name, model_name")
             w.writerows(con.execute(q))
         with open(UNMATCHED_CSV, "w", newline="", encoding="utf-8") as fh:
