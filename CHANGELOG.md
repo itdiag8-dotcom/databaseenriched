@@ -1,3 +1,10 @@
+## 2026-10-01 - Step 5 Batch 49 (FINAL): Nissan + Subaru + Lincoln + Mazda + Toyota + Honda (step58/58b/58c)
+- 21/21 rows mapped, 0 skips. THE LEMON QUEUE IS EMPTY: 0 LEMON variants, and 0 LEMON rows left in engines, engine_service_specs and engine_technical_specs.
+- Decided on fill/viscosity as throughout: NV3500 and Titan 6.51 L -> VK56DE 317hp / VK56VDE 390hp (the 4.0 V6 takes 5.1 L); Versa 3.92 L -> MR18DE 122hp; six Subaru rows at 3.97 L -> EJ253 (Baja 165, Legacy 175, Impreza 173hp); MKS -> 3.7 Ti-VCT V6 273hp; Mazda3 4.54 L -> the new PY-VPS 2.5 Skyactiv-G 186hp (the 2.0 takes 4.2); Tundra 8.04 L -> 3UR-FE 381hp; CR-V 2025 -> L15BE 190hp.
+- Toyota Crown 2025 is the batch's one fuel correction: 0W-8 is a grade Toyota uses only for its hybrid Dynamic Force fours, so the row is the 2.5 hybrid (A25A-FXS, 236hp), Petrol->Hybrid.
+- 1 new engine (PY-VPS), 6 ROW_FIXES. 58b: 1 ESTIMATE override, 5 normalizations, 2 power syncs; 58c reverts two that let single rows redefine shared engines (3.7 Ti-VCT back to 6 qt, A25A-FXS back off the Crown's JDM 0W-8).
+- DB: LEMON 21->0; engines 5,679->5,659; 39,182 variants; 0 orphans; 0 count mismatches.
+- Campaign close: batches 42-49 this session cleared 242 rows with zero skips, including the 8 Audi "RS" rows and the 2 GM rows earlier batches had parked. Remaining known residuals are all pre-existing: 137 fuel conflicts, 89 NULL engine_code variants, 536 NULL-power variants (10 of them the deliberately NULL Tesla rows).
 ## 2026-10-01 - Step 5 Batch 48: Audi + Porsche + Volkswagen (step57/57b/57c)
 - 19/19 rows mapped, 0 skips - including the eight bare "RS" rows batch 36 had deferred.
 - The RS rows resolved without guessing: all eight carry only two fills, 7.09 L (2.5 five-cylinder, RS 3) and 7.57 L (2.9 V6 biturbo, RS 5 - this project's own EA839 fingerprint). Neither is near the 4.0 V8's 9+ L, which rules the RS 6/RS 7/RS Q8 out of every row. Both engines were missing from the DB and are added.
