@@ -143,7 +143,7 @@ e.g., Hyundai Grandeur petrol variant joined to diesel engine `G6DG`; VW Golf VI
 |---|---|
 | F23 | `brands` contains both `Citroen` and `Citroën`; casing oddities (`SATURN`, `SHELBY`, `Saic Mg`, `Jmc`, `Dr Motor`) |
 | F24 | Docs are stale: README claims **95 brands / 4,299 models / 2,607 engines**; actual = **188 / 6,260 / 17,916**. CHANGELOG stops at the 2026-09-11 state. |
-| F25 | Repo bloat: nested duplicate snapshot `database_enriched/database_enriched/` (older DB, 38,921 variants/17,590 engines), 3 zip archives (~30 MB), `.git` ≈ 42 MB. |
+| F25 | ~~Repo bloat: nested duplicate snapshot `database_enriched/database_enriched/` (older DB, 38,921 variants/17,590 engines), 3 zip archives (~30 MB), `.git` ≈ 42 MB.~~ **Partly resolved 2026-10-01:** the nested duplicate (171 MB, 27 files, all stale copies) and the 60 tracked DB backups (1.5 GB) are no longer versioned; its one unique file was kept as `csv_exports/07_missing_engine_codes_2026-09-26_baseline.csv`. The 3 zips and the history blobs remain. |
 | F26 | `backups/car_database_backup_2026-09-26.db` is **byte-identical** to the live DB — only one restore point. |
 | F27 | `ecu_maker='Unknown'` for 1,161 engines (better as NULL). |
 | F28 | No `CHECK` constraints or `COLLATE NOCASE` unique indexes; FKs declared but not enforced by default (`PRAGMA foreign_keys` is off per-connection in SQLite). |
@@ -183,7 +183,7 @@ e.g., Hyundai Grandeur petrol variant joined to diesel engine `G6DG`; VW Golf VI
 
 12. **Add a data-quality gate script** (`audit_db.py`) run before every integration — Appendix B is a starting skeleton; fail the build on: new orphan joins, power mismatches > 30 %, fuel conflicts, vocabulary drift.
 13. **Update the docs** (README/CHANGELOG/SCHEMA) to the real counts and add the "known limitations" section (F24).
-14. **Slim the repo:** `git rm -r` the nested `database_enriched/database_enriched/` duplicate and the 3 zips; add `*.zip`, `*.db` (except a canonical one), `lemon_crawl_*.jsonl` to `.gitignore`; consider Git LFS for the DB (F25). Keep rotating backups (F26).
+14. **Slim the repo** (partly done 2026-10-01: nested duplicate and backups untracked, see F25): `git rm -r` the nested `database_enriched/database_enriched/` duplicate and the 3 zips; add `*.zip`, `*.db` (except a canonical one), `lemon_crawl_*.jsonl` to `.gitignore`; consider Git LFS for the DB (F25). Keep rotating backups (F26).
 15. **Harden the schema:** `PRAGMA foreign_keys=ON` in every connection (incl. `server.js`), `CHECK` constraints on fuel/power/year ranges, `COLLATE NOCASE` indexes, and an `import_log` table (source, date, rows added/updated, checks passed) so provenance is queryable.
 
 ---
