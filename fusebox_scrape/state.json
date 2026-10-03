@@ -308,12 +308,12 @@
   "buick": 19,
   "byd": 1,
   "cadillac": "done",
-  "chery": "done"
+  "chery": "done",
+  "chevrolet": true
  },
  "in_progress": "chevrolet",
  "queue_next_makes": [
   "arcfox",
-  "chevrolet",
   "chrysler",
   "citroen",
   "cupra",
@@ -698,10 +698,13 @@
   "chevrolet/sail": "done",
   "chevrolet/silverado-1500-hybrid": "done",
   "chevrolet/silverado-2500": "done",
-  "chevrolet/silverado-3500": "done"
+  "chevrolet/silverado-3500": "done",
+  "chevrolet/silverado-ev": "no_data",
+  "chevrolet/spark-ev": "no_data",
+  "chevrolet/tahoe-hybrid": "no_data"
  },
- "last_updated": "2026-10-03T22:33:11.597362",
- "current_brand": "chevrolet",
+ "last_updated": "2026-10-03T22:33:31.917495",
+ "current_brand": "chrysler",
  "audi_done_models": [
   "a1",
   "a2",
@@ -815,7 +818,10 @@
   "chevrolet/beretta",
   "chevrolet/calibra",
   "chevrolet/celebrity",
-  "chevrolet/corsica"
+  "chevrolet/corsica",
+  "chevrolet/silverado-ev",
+  "chevrolet/spark-ev",
+  "chevrolet/tahoe-hybrid"
  ],
  "brand_aliases": {
   "lynk-co": "Lynk & Co",
