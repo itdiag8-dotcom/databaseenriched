@@ -1,0 +1,475 @@
+{
+ "make_slug": "dacia",
+ "model_slug": "logan",
+ "brand_db": "Dacia",
+ "model_db_name": "Logan",
+ "model_id": 1367,
+ "generation_name": "1st generation (\"L90\")",
+ "generation_code": "g1",
+ "year_start": 2004,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/dacia/logan/info/fusebox/2013/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-logan-2013-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, ECU"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Brake light switch, reversing light switch"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Electronic engine start blocking (airbag and seat belt pretensioner control unit)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Trailer"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Left headlight (low beam)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Right headlight (low beam)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Left headlight (high beam)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Right headlight (high beam)"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "30A",
+     "Rear power windows"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "30A",
+     "Front power windows"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "ABS control unit"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Heated front seats"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Sound signal (horn)"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Left side light, hazard switch, cigarette lighter"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Right side light"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "7.5A",
+     "Rear fog lamp switch"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Security alarm installation location"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "5A",
+     "Power steering"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "5A",
+     "Gas (LPG) equipment"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "5A",
+     "Airbag and seat belt pretensioner control unit"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper, reversing light switch"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "15A",
+     "Interior lighting"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "15A",
+     "General power supply"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "20A",
+     "Locking of opening body elements"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F36",
+     "Fuse ATO",
+     "30A",
+     "Electric fan for heating (A/C) and interior ventilation"
+    ],
+    [
+     "F37",
+     "Fuse ATO",
+     "5A",
+     "Electric door mirrors"
+    ],
+    [
+     "F38",
+     "Fuse ATO",
+     "15A",
+     "Car radio"
+    ],
+    [
+     "F39",
+     "Fuse ATO",
+     "10A",
+     "Heating (A/C) and ventilation systems"
+    ],
+    [
+     "F1R",
+     "Fuse",
+     "",
+     "Burglar alarm, outdoor light switch, daytime running light relay"
+    ],
+    [
+     "F2R",
+     "Fuse",
+     "",
+     "Ambient light switch, passenger compartment fuse mounting block"
+    ],
+    [
+     "F1R",
+     "Fuse",
+     "",
+     "Relay board supply"
+    ],
+    [
+     "F3R",
+     "Fuse",
+     "",
+     "Injection system relay power supply circuit, engine management ECU"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (Type 1) [K4M690 - K7M710]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-logan-2013-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "25A",
+     "ABS electrical control unit"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "50A",
+     "ABS electrical control unit"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan high-speed relay power, relay plate, cooling fan relay, A/C compressor control relay"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "60A",
+     "Multi-function switch, passenger compartment fuse box"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "60A",
+     "Ignition switch, multi-function switch, daytime running lights relay, passenger compartment fuse box"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "30A",
+     "Relay plate power supply"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump relay, injection lockout relay"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "5A",
+     "Injection ECU, injection lockout relay"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "20A",
+     "Automatic gearbox central electrical unit [K4M engine only]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front fog lights"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cold air blower system relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Injection lockout relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Engine cooling fan low-speed relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Air conditioning clutch relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Engine cooling fan high-speed relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-logan-2013-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "25A",
+     "ABS control unit"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "50A",
+     "ABS control unit"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "70A",
+     "Glow plug control unit"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "A/C compressor relay; cooling fan high/low speed relays"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "80A",
+     "Power steering pump"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "80A",
+     "Additional heater relays 1 and 2"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "60A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "60A",
+     "Ignition switch, daytime running light system"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Cooling fan, low speed (30A also used)"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Cooling fan, low speed (30A also used)"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Mass air flow sensor, water-in-fuel sensor"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "30A",
+     "Injection control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Front fog light relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C blower motor"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Diesel injection control unit relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Cooling fan low speed relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan high speed relay"
+    ]
+   ]
+  }
+ ]
+}
