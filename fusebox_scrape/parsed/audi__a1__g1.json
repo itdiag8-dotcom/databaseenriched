@@ -1,0 +1,1742 @@
+{
+ "make_slug": "audi",
+ "model_slug": "a1",
+ "brand_db": "Audi",
+ "model_db_name": "A1 8X",
+ "model_id": 232,
+ "generation_name": "1st generation",
+ "generation_code": "Typ 8X",
+ "year_start": 2010,
+ "year_end": 2018,
+ "trim_label": null,
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/audi/a1/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel (Driver's side) [LHD]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "ST1-1",
+     "Fuse ATO",
+     "30A",
+     "Digital sound package control unit J525 / Voltage stabiliser J532 / Radio R"
+    ],
+    [
+     "ST1-2",
+     "Fuse ATO",
+     "40A",
+     "Heater control unit J65X / Contact relief relay J59 / Fresh air blower control unit J126 / Fresh air blower V2"
+    ],
+    [
+     "ST1-3",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter U1 / 12 V socket U5"
+    ],
+    [
+     "ST1-4",
+     "Fuse ATO",
+     "15A",
+     "Trailer detector control unit J345"
+    ],
+    [
+     "ST1-5",
+     "Fuse ATO",
+     "5A",
+     "Data bus diagnostic interface J533"
+    ],
+    [
+     "ST1-6",
+     "Fuse ATO",
+     "30A",
+     "Front passenger door control unit J387 / Rear right door control unit J389"
+    ],
+    [
+     "ST1-7",
+     "Fuse ATO",
+     "30A",
+     "Driver door control unit J386 / Rear left door control unit J388"
+    ],
+    [
+     "ST1-8",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window relay J9 / Heated rear window Z1"
+    ],
+    [
+     "ST1-9",
+     "Fuse ATO",
+     "25A",
+     "ABS control unit J104"
+    ],
+    [
+     "ST1-10",
+     "Fuse ATO",
+     "20A",
+     "Onboard supply control unit J519"
+    ],
+    [
+     "ST1-11",
+     "Fuse ATO",
+     "15A",
+     "High tone horn H2 / Low tone horn H7 / Horn relay J413"
+    ],
+    [
+     "ST1-12",
+     "Fuse ATO",
+     "30A",
+     "Onboard supply control unit J519"
+    ],
+    [
+     "ST2-1",
+     "Fuse MINI",
+     "5A",
+     "Alarm horn H12 / Anti-theft alarm sensor G578"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "5A",
+     "Terminal 30 voltage supply relay J317 [diesel] / Motronic current supply relay J271 [petrol] / Engine control unit J623"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "7.5A",
+     "Terminal 30 voltage supply relay J317 [diesel] / Motronic current supply relay J271 [petrol] / Engine control unit J623"
+    ],
+    [
+     "ST2-3",
+     "Fuse MINI",
+     "5A",
+     "Onboard supply control unit J519"
+    ],
+    [
+     "ST2-4",
+     "Fuse MINI",
+     "5A",
+     "ABS control unit J104 / Voltage stabiliser 2 J570"
+    ],
+    [
+     "ST2-4",
+     "Fuse MINI",
+     "15A",
+     "ABS control unit J104 / Voltage stabiliser 2 J570"
+    ],
+    [
+     "ST2-6",
+     "Fuse MINI",
+     "5A",
+     "Light/rain sensor G397 / Aerial amplifier for mobile telephone R86 / Telephone bracket R126 / Front roof module WX3"
+    ],
+    [
+     "ST2-7",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump control unit J538 [petrol] / Fuel pump relay J17 [diesel]"
+    ],
+    [
+     "ST2-7",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump control unit J538 [petrol] / Fuel pump relay J17 [diesel]"
+    ],
+    [
+     "ST2-8",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary coolant pump relay J496"
+    ],
+    [
+     "ST2-9",
+     "Fuse MINI",
+     "5A",
+     "Steering column electronics control unit J527"
+    ],
+    [
+     "ST2-10",
+     "Fuse MINI",
+     "5A",
+     "Light switch E1"
+    ],
+    [
+     "ST2-11",
+     "Fuse MINI",
+     "10A",
+     "Climatronic control unit J255 / Air conditioning system control unit J301 / Front passenger door control unit J387 / Rear right door control unit J389 / 16-pin diagnosis connector T16"
+    ],
+    [
+     "ST2-12",
+     "Fuse MINI",
+     "10A",
+     "Driver door control unit J386 / Rear left door control unit J388"
+    ],
+    [
+     "ST2-13",
+     "Fuse MINI",
+     "10A",
+     "Onboard supply control unit J519"
+    ],
+    [
+     "ST2-14",
+     "Fuse ATO",
+     "20A",
+     "Relay for power sockets J807 [models without trailer socket only]"
+    ],
+    [
+     "ST2-15",
+     "Fuse ATO",
+     "30A",
+     "Onboard supply control unit J519"
+    ],
+    [
+     "ST2-16",
+     "Fuse ATO",
+     "20A",
+     "Wiper motor switch-over relay 1 J368"
+    ],
+    [
+     "ST3-1",
+     "Fuse ATO",
+     "5A",
+     "Automatic glow period control unit J179 / Vacuum pump for brakes V192"
+    ],
+    [
+     "ST3-1",
+     "Fuse ATO",
+     "20A",
+     "Automatic glow period control unit J179 / Vacuum pump for brakes V192"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "5A",
+     "Brake light switch F / Brake pedal switch F63 / Auxiliary coolant pump relay J496 / Lambda probe heater Z19 / Lambda probe 1 heater after catalytic converter Z29"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "10A",
+     "Brake light switch F / Brake pedal switch F63 / Auxiliary coolant pump relay J496 / Lambda probe heater Z19 / Lambda probe 1 heater after catalytic converter Z29"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "5A",
+     "Air mass meter G70 / Fuel pump relay J17 / Low heat output relay J359 / High heat output relay J360 / Engine component current supply relay J757 / Fuel pressure regulating valve N276 / Coolant circulation pump V50"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "7.5A",
+     "Air mass meter G70 / Fuel pump relay J17 / Low heat output relay J359 / High heat output relay J360 / Engine component current supply relay J757 / Fuel pressure regulating valve N276 / Coolant circulation pump V50"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "15A",
+     "Air mass meter G70 / Fuel pump relay J17 / Low heat output relay J359 / High heat output relay J360 / Engine component current supply relay J757 / Fuel pressure regulating valve N276 / Coolant circulation pump V50"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "15A",
+     "Engine control unit J623 / Clutch position sender G476 / Brake light switch F"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "25A",
+     "Engine control unit J623 / Clutch position sender G476 / Brake light switch F"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "30A",
+     "Engine control unit J623 / Clutch position sender G476 / Brake light switch F"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "15A",
+     "Ignition coils 1-4 with output stage N70/N127/N291/N292 / Ignition transformer N152 / Fuel pressure regulating valve N276 / Fuel metering valve N290"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "20A",
+     "Ignition coils 1-4 with output stage N70/N127/N291/N292 / Ignition transformer N152 / Fuel pressure regulating valve N276 / Fuel metering valve N290"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "25A",
+     "Ignition coils 1-4 with output stage N70/N127/N291/N292 / Ignition transformer N152 / Fuel pressure regulating valve N276 / Fuel metering valve N290"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "30A",
+     "Ignition coils 1-4 with output stage N70/N127/N291/N292 / Ignition transformer N152 / Fuel pressure regulating valve N276 / Fuel metering valve N290"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "10A",
+     "Radiator fan control unit J293 / Heater element relay J925 / Charge pressure control solenoid valve N75 / Activated charcoal filter solenoid valve 1 N80 / Camshaft control valves / Turbocharger recirculation valve N249 / Intake manifold flap valve N316 / EGR cooler changeover valve N345 / Oil pressure regulation valve N428 / Cam adjusters cylinders 2-3 / EGR cooler pump V400"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "20A",
+     "Radiator fan control unit J293 / Heater element relay J925 / Charge pressure control solenoid valve N75 / Activated charcoal filter solenoid valve 1 N80 / Camshaft control valves / Turbocharger recirculation valve N249 / Intake manifold flap valve N316 / EGR cooler changeover valve N345 / Oil pressure regulation valve N428 / Cam adjusters cylinders 2-3 / EGR cooler pump V400"
+    ],
+    [
+     "ST3-7",
+     "Fuse ATO",
+     "5A",
+     "CD changer R41"
+    ],
+    [
+     "ST3-8",
+     "Fuse ATO",
+     "5A",
+     "Internet access control unit J666 / Chip card reader control unit J676 / Radio R / TV tuner R78"
+    ],
+    [
+     "ST3-9",
+     "Fuse ATO",
+     "5A",
+     "Control unit in dash panel insert J285"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "5A",
+     "Relay for automatic anti-dazzle interior mirror J910 / Automatic anti-dazzle interior mirror Y7"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "7.5A",
+     "Radio R / Control unit for information electronics 1 J794"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "15A",
+     "Radio R / Control unit for information electronics 1 J794"
+    ],
+    [
+     "ST3-12",
+     "Fuse ATO",
+     "5A",
+     "Display unit for front information display and operating unit control unit J685"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel (Driver's side) [RHD]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "ST1-1",
+     "Fuse ATO",
+     "30A",
+     "Digital sound system control unit / Voltage stabilizer / Head unit/radio tuner"
+    ],
+    [
+     "ST1-2",
+     "Fuse ATO",
+     "40A",
+     "Heater control unit / Contact X relief relay / Fresh air fan control unit / Fresh air fan"
+    ],
+    [
+     "ST1-3",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter / 12V socket"
+    ],
+    [
+     "ST1-4",
+     "Fuse ATO",
+     "15A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "ST1-5",
+     "Fuse ATO",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "ST1-6",
+     "Fuse ATO",
+     "30A",
+     "Front passenger door control unit / Rear right door control unit"
+    ],
+    [
+     "ST1-7",
+     "Fuse ATO",
+     "30A",
+     "Driver's door control unit / Rear left door control unit"
+    ],
+    [
+     "ST1-8",
+     "Fuse ATO",
+     "30A",
+     "Rear window heating relay / Rear window heating element"
+    ],
+    [
+     "ST1-9",
+     "Fuse ATO",
+     "25A",
+     "ABS control unit"
+    ],
+    [
+     "ST1-10",
+     "Fuse ATO",
+     "20A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST1-11",
+     "Fuse ATO",
+     "15A",
+     "High tone horn / Low tone horn / Horn relay"
+    ],
+    [
+     "ST1-12",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST2-1",
+     "Fuse MINI",
+     "5A",
+     "Alarm siren / Alarm sensor"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "5A",
+     "[1.6L diesel] Terminal 30 power supply relay / Motronic power supply relay [petrol] / Engine control unit"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "5A",
+     "[1.4 l (103 kW) petrol]"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "7.5A",
+     "[1.2 l petrol]"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "7.5A",
+     "[1.4 l (90 kW) petrol]"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "7.5A",
+     "[1.4 l (136 kW) petrol]"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "7.5A",
+     "[2.0L petrol]"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "7.5A",
+     "[2.0L diesel]"
+    ],
+    [
+     "ST2-3",
+     "Fuse MINI",
+     "5A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST2-4",
+     "Fuse MINI",
+     "5A",
+     "ABS control unit / Voltage stabiliser 2 / All-wheel drive control unit [2.0L petrol, from January 2014]"
+    ],
+    [
+     "ST2-4",
+     "Fuse MINI",
+     "15A",
+     "[2.0L petrol, from January 2014]"
+    ],
+    [
+     "ST2-6",
+     "Fuse MINI",
+     "5A",
+     "Rain and light sensor / Mobile telephone amplifier / Telephone holder / Front roof module"
+    ],
+    [
+     "ST2-7",
+     "Fuse MINI",
+     "15A",
+     "[petrol]: Fuel pump control unit / Fuel pump relay [diesel]"
+    ],
+    [
+     "ST2-7",
+     "Fuse MINI",
+     "20A",
+     "[diesel]"
+    ],
+    [
+     "ST2-8",
+     "Fuse MINI",
+     "10A",
+     "[petrol]: Additional coolant pump relay (up to October 2014)"
+    ],
+    [
+     "ST2-9",
+     "Fuse MINI",
+     "5A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "ST2-10",
+     "Fuse MINI",
+     "5A",
+     "Light switch"
+    ],
+    [
+     "ST2-11",
+     "Fuse MINI",
+     "10A",
+     "Climatronic control unit / Air conditioning control unit / Front passenger door control unit (up to April 2012) / Right rear door control unit (up to April 2012) / 16-pin diagnostic connector"
+    ],
+    [
+     "ST2-12",
+     "Fuse MINI",
+     "10A",
+     "Driver side control unit (before April 2012) / Left rear door control unit (before April 2012)"
+    ],
+    [
+     "ST2-13",
+     "Fuse MINI",
+     "10A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST2-14",
+     "Fuse ATO",
+     "20A",
+     "Socket relay / Cigarette lighter / 12 V socket [only vehicles without towbar socket]"
+    ],
+    [
+     "ST2-15",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST2-16",
+     "Fuse ATO",
+     "20A",
+     "Changeover relay 1 for windscreen wiper motor (up to October 2014) / Engine component supply relay [2.0L petrol from Jan 2014; 1.8L petrol from Nov 2014] / Ignition coils 1-4 with output stage"
+    ],
+    [
+     "ST3-1",
+     "Fuse ATO",
+     "5A",
+     "[1.6L/2.0L diesel]: Glow plug control unit / Brake vacuum pump"
+    ],
+    [
+     "ST3-1",
+     "Fuse ATO",
+     "20A",
+     "[1.4 l petrol 90/103/136 kW]: Glow plug control unit / Brake vacuum pump"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "10A",
+     "Brake light switch (before Oct 2011) / Auxiliary coolant pump relay / Lambda probe heaters (before Oct 2011) / Power supply fuses 9-10 on fuse holder F (Nov 2011-Oct 2014) / ABS control unit (from Nov 2011)"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "5A",
+     "[since November 2011]: same circuits as above"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "5A",
+     "[2.0L petrol; 1.6L/2.0L diesel]: Air mass meter / Fuel pump relay / Low and high heat output relays / Engine component supply relay / Fuel pressure regulator / Coolant circulation pump (all up to October 2014)"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "7.5A",
+     "[1.4 l (103 kW) petrol CPTA]: same circuits as above"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "15A",
+     "[1.2 l petrol; 1.4 l (90/136 kW) petrol]: same circuits as above"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "15A",
+     "[1.2 l petrol; 1.4 l petrol]: Engine control unit / Clutch pedal position sender (up to Oct 2011) / Brake light switch (up to Oct 2011)"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "25A",
+     "[2.0L petrol]"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "30A",
+     "[1.6L/2.0L diesel; 1.4 l (103/136 kW) petrol; 2.0L petrol]"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "20A",
+     "[2.0L petrol; 1.2 l petrol; 1.4 l (90/136 kW) petrol]: Ignition coils 1-4 with output stage / High voltage transformer / Fuel pressure regulator / Fuel metering valve (all up to October 2014)"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "15A",
+     "[1.6L/2.0L diesel]: same circuits as above"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "30A",
+     "[1.4 l (103 kW) petrol CPTA]: same circuits as above"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "10A",
+     "Radiator fan control unit / Heater resistor relay / Charge pressure control solenoid valve / Activated carbon filter solenoid valve 1 / Camshaft adjuster valves / Turbocharger wastegate valve / Intake manifold flap valve / EGR cooler changeover valve / Oil pressure regulating valve / Cam adjusters cylinders 2-3 / EGR cooler pump (all up to October 2014)"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "20A",
+     "[1.4 l (103 kW) petrol CPTA]: same circuits as above"
+    ],
+    [
+     "ST3-7",
+     "Fuse ATO",
+     "5A",
+     "CD changer"
+    ],
+    [
+     "ST3-8",
+     "Fuse ATO",
+     "5A",
+     "Internet access control unit / Chip card reader control unit / Head unit/radio tuner / TV tuner"
+    ],
+    [
+     "ST3-9",
+     "Fuse ATO",
+     "5A",
+     "Control unit for instrument cluster"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "5A",
+     "Relay for interior rearview mirror with automatic dimming function / Electrochromic interior mirror"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "7.5A",
+     "[cars with MMI]: Head unit/radio tuner / Electronic information system control unit 1"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "15A",
+     "[cars without MMI]: Head unit/radio tuner / Electronic information system control unit 1"
+    ],
+    [
+     "ST3-12",
+     "Fuse ATO",
+     "5A",
+     "Display for front control, display and information unit"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior fuse panel (LHD) (Under the dashboard trim on the front passenger side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-2.webp",
+   "fuses": [
+    [
+     "ST1-1",
+     "Fuse ATO",
+     "7.5A",
+     "Control unit for electric steering column lock"
+    ],
+    [
+     "ST1-2",
+     "Fuse ATO",
+     "20A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "ST1-3",
+     "Fuse ATO",
+     "20A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "ST1-4",
+     "Fuse ATO",
+     "30A",
+     "Mechatronic unit for DSG gearbox (up to October 2014)"
+    ],
+    [
+     "ST1-4",
+     "Fuse ATO",
+     "7.5A",
+     "Control unit for electronic damping control system (from January 2014)"
+    ],
+    [
+     "ST1-5",
+     "Fuse ATO",
+     "30A",
+     "Headlight cleaning system relay / Headlight washer pump"
+    ],
+    [
+     "ST1-6",
+     "Fuse ATO",
+     "5A",
+     "Vehicle positioning system interface control unit"
+    ],
+    [
+     "ST1-7",
+     "Fuse ATO",
+     "7.5A",
+     "Access and start authorization system control unit"
+    ],
+    [
+     "ST1-8",
+     "Fuse ATO",
+     "15A",
+     "Mechatronic unit DSG gearbox (up to October 2014)"
+    ],
+    [
+     "ST1-9",
+     "Fuse ATO",
+     "20A",
+     "Sliding sunroof drive motor"
+    ],
+    [
+     "ST1-10",
+     "Fuse ATO",
+     "7.5A",
+     "Selector lever sensors control unit"
+    ],
+    [
+     "ST1-11",
+     "Fuse ATO",
+     "15A",
+     "[2.0L petrol]: Engine component supply relay (up to October 2014) / Fuel pressure regulator (up to October 2014)"
+    ],
+    [
+     "ST2-1",
+     "Fuse MINI",
+     "5A",
+     "Reversing light switch / Selector lever sensors control unit / Mechatronic unit for dual clutch gearbox"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "10A",
+     "High pressure sender / Oil level and temperature sender / Air conditioning system control unit / Socket relay / Electrochromic interior mirror / 16-pin diagnostic socket"
+    ],
+    [
+     "ST2-3",
+     "Fuse MINI",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "ST2-4",
+     "Fuse MINI",
+     "5A",
+     "Heater control unit / Symposer control unit"
+    ],
+    [
+     "ST2-5",
+     "Fuse MINI",
+     "7.5A",
+     "Light switch / Starter relay 1 / Voltage stabiliser / Starter relay 2 / Relay for interior rearview mirror with automatic dimming function / Headlight front left / Headlight front right"
+    ],
+    [
+     "ST2-6",
+     "Fuse MINI",
+     "5A",
+     "Light switch"
+    ],
+    [
+     "ST2-7",
+     "Fuse MINI",
+     "5A",
+     "ABS control unit (up to October 2014) / Voltage stabilizer 2 (up to October 2014) / Electronically controlled damping control unit (from January 2014)"
+    ],
+    [
+     "ST2-8",
+     "Fuse MINI",
+     "5A",
+     "Driver's and front passenger seat heating regulators / Hazard warning flasher button / Rear window heating button / ASR and ESP deactivation button / Parking aid button / Tyre pressure display button / Start/stop button / Trailer detector control unit / Washer nozzle heating resistors"
+    ],
+    [
+     "ST2-9",
+     "Fuse MINI",
+     "5A",
+     "Power steering control unit"
+    ],
+    [
+     "ST2-10",
+     "Fuse MINI",
+     "5A",
+     "[petrol]: Air mass meter / Fuel pump control unit / Crankcase ventilation heating resistor"
+    ],
+    [
+     "ST2-10",
+     "Fuse MINI",
+     "7.5A",
+     "[diesel]: Air mass meter / Fuel pump control unit / Crankcase ventilation heating resistor"
+    ],
+    [
+     "ST2-11",
+     "Fuse MINI",
+     "5A",
+     "Airbag control unit / Front passenger airbag off indicator lamp"
+    ],
+    [
+     "ST2-12",
+     "Fuse MINI",
+     "5A",
+     "Parking aid control unit"
+    ],
+    [
+     "ST2-13",
+     "Fuse MINI",
+     "5A",
+     "Headlight range control unit"
+    ],
+    [
+     "ST2-14",
+     "Fuse ATO",
+     "30A",
+     "Seat heating control unit"
+    ],
+    [
+     "ST2-15",
+     "Fuse ATO",
+     "15A",
+     "Rear window wiper motor"
+    ],
+    [
+     "ST2-16",
+     "Fuse ATO",
+     "5A",
+     "Engine control unit / Air mass meter"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "10A",
+     "All-wheel drive control unit (being phased out)"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "5A",
+     "Control unit for special vehicles"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "10A",
+     "Control unit for special vehicles"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Interior fuse panel (RHD) (Under the dashboard trim on the front passenger side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-3.webp",
+   "fuses": [
+    [
+     "ST1-1",
+     "Fuse ATO",
+     "7.5A",
+     "Control unit for electric steering column lock"
+    ],
+    [
+     "ST1-2",
+     "Fuse ATO",
+     "20A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "ST1-3",
+     "Fuse ATO",
+     "20A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "ST1-4",
+     "Fuse ATO",
+     "30A",
+     "Mechatronic unit for DSG gearbox (up to October 2014)"
+    ],
+    [
+     "ST1-4",
+     "Fuse ATO",
+     "7.5A",
+     "Control unit for electronic damping control system (from January 2014)"
+    ],
+    [
+     "ST1-5",
+     "Fuse ATO",
+     "30A",
+     "Headlight cleaning system relay / Headlight washer pump"
+    ],
+    [
+     "ST1-6",
+     "Fuse ATO",
+     "5A",
+     "Vehicle positioning system interface control unit"
+    ],
+    [
+     "ST1-7",
+     "Fuse ATO",
+     "7.5A",
+     "Access and start authorization system control unit"
+    ],
+    [
+     "ST1-8",
+     "Fuse ATO",
+     "15A",
+     "Mechatronic unit DSG gearbox (up to October 2014)"
+    ],
+    [
+     "ST1-9",
+     "Fuse ATO",
+     "20A",
+     "Sliding sunroof drive motor"
+    ],
+    [
+     "ST1-10",
+     "Fuse ATO",
+     "7.5A",
+     "Selector lever sensors control unit"
+    ],
+    [
+     "ST1-11",
+     "Fuse ATO",
+     "15A",
+     "[2.0L petrol]: Engine component supply relay (up to October 2014) / Fuel pressure regulator (up to October 2014)"
+    ],
+    [
+     "ST2-1",
+     "Fuse MINI",
+     "5A",
+     "Reversing light switch / Selector lever sensors control unit / Mechatronic unit for dual clutch gearbox"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "10A",
+     "High pressure sender / Oil level and temperature sender / Air conditioning system control unit / Socket relay / Electrochromic interior mirror / 16-pin diagnostic socket"
+    ],
+    [
+     "ST2-3",
+     "Fuse MINI",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "ST2-4",
+     "Fuse MINI",
+     "5A",
+     "Heater control unit / Symposer control unit"
+    ],
+    [
+     "ST2-5",
+     "Fuse MINI",
+     "7.5A",
+     "Light switch / Starter relay 1 / Voltage stabiliser / Starter relay 2 / Relay for interior rearview mirror with automatic dimming function / Headlight front left / Headlight front right"
+    ],
+    [
+     "ST2-6",
+     "Fuse MINI",
+     "5A",
+     "Light switch"
+    ],
+    [
+     "ST2-7",
+     "Fuse MINI",
+     "5A",
+     "ABS control unit (up to October 2014) / Voltage stabilizer 2 (up to October 2014) / Electronically controlled damping control unit (from January 2014)"
+    ],
+    [
+     "ST2-8",
+     "Fuse MINI",
+     "5A",
+     "Driver's and front passenger seat heating regulators / Hazard warning flasher button / Rear window heating button / ASR and ESP deactivation button / Parking aid button / Tyre pressure display button / Start/stop button / Trailer detector control unit / Washer nozzle heating resistors"
+    ],
+    [
+     "ST2-9",
+     "Fuse MINI",
+     "5A",
+     "Power steering control unit"
+    ],
+    [
+     "ST2-10",
+     "Fuse MINI",
+     "5A",
+     "[petrol]: Air mass meter / Fuel pump control unit / Crankcase ventilation heating resistor"
+    ],
+    [
+     "ST2-10",
+     "Fuse MINI",
+     "7.5A",
+     "[diesel]: Air mass meter / Fuel pump control unit / Crankcase ventilation heating resistor"
+    ],
+    [
+     "ST2-11",
+     "Fuse MINI",
+     "5A",
+     "Airbag control unit / Front passenger airbag off indicator lamp"
+    ],
+    [
+     "ST2-12",
+     "Fuse MINI",
+     "5A",
+     "Parking aid control unit"
+    ],
+    [
+     "ST2-13",
+     "Fuse MINI",
+     "5A",
+     "Headlight range control unit"
+    ],
+    [
+     "ST2-14",
+     "Fuse ATO",
+     "30A",
+     "Seat heating control unit"
+    ],
+    [
+     "ST2-15",
+     "Fuse ATO",
+     "15A",
+     "Rear window wiper motor"
+    ],
+    [
+     "ST2-16",
+     "Fuse ATO",
+     "5A",
+     "Engine control unit / Air mass meter"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "10A",
+     "All-wheel drive control unit (being phased out)"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "5A",
+     "Control unit for special vehicles"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "10A",
+     "Control unit for special vehicles"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Fuse/Relay panel under the steering wheel (LHD)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "Voltage stabilizer"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "50A",
+     "Supply fuse carrier 1 -ST1- in fuse holder D -SD-"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Terminal 15 voltage supply relay"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "ABS control unit"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Voltage stabiliser 2 [gradual phase-out]"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Onboard supply control unit / Voltage stabilizer / Voltage stabilizer 2 [gradual phase-out] / Engine control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlight washer relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Signal (horn) relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Terminal 15 supply voltage relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "X contact reset relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heater relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "High performance heating relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Motronic power supply relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Power outlet relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Terminal 30 supply voltage relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Heating relay low output"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Power socket relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Motronic power supply relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Terminal 30 supply voltage relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Automatic anti-glare rearview mirror relay (if equipped)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Voltage regulator(s)"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Automatic anti-glare rearview mirror relay (if equipped)"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Fuse/Relay panel under the steering wheel (RHD)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-5.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "Voltage stabilizer"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "50A",
+     "Power supply / Fuse block 1 in fuse block D"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Power supply relay terminal 15"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "ABS control unit"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Voltage stabilizer 2 (gradually being phased out)"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Onboard power supply control unit / Voltage stabilizer / Voltage stabilizer 2 (being phased out) / Engine control unit"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Brake light switch (Nov 2011-Oct 2014) / Clutch pedal position sender (Nov 2011-Oct 2014)"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "Lambda probe heating element (Nov 2011-Oct 2014) / Lambda probe heating element 1 after catalytic converter (Nov 2011-Oct 2014)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlight washer relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power supply relay terminal 15"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "X contact reset relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heating resistor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "High power heating relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Terminal 50 power supply relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter relay 1"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter relay 2"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear window heating relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Motronic power supply relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Power supply relay terminal 30"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Socket relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Low power heating relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Motronic power supply relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Power supply relay terminal 30"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Socket relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Automatic dimming rear view mirror relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Voltage stabilizer 2"
+    ]
+   ]
+  },
+  {
+   "index": 6,
+   "name": "Fuse box A -SA-",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-6.webp",
+   "fuses": [
+    [
+     "SA2",
+     "Fuse MIDI",
+     "110A",
+     "Power supply for on-board network / Power supply for engine components"
+    ]
+   ]
+  },
+  {
+   "index": 7,
+   "name": "Fuse box B -SB- (battery in engine compartment)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-7.webp",
+   "fuses": [
+    [
+     "SB1",
+     "Fuse MIDI",
+     "175A",
+     "Generator"
+    ],
+    [
+     "SB2",
+     "Fuse MIDI",
+     "40A",
+     "Low power heating relay / Additional air heater heating element"
+    ],
+    [
+     "SB3",
+     "Fuse MIDI",
+     "110A",
+     "[battery in engine compartment]: Power supply for on-board electrical system / Power supply for engine components"
+    ],
+    [
+     "SB4",
+     "Fuse MIDI",
+     "80A",
+     "Power steering control unit"
+    ],
+    [
+     "SB5",
+     "Fuse MIDI",
+     "50A",
+     "[gradual introduction (2011 model year)]: Radiator fan temperature switch / Radiator fan control unit"
+    ],
+    [
+     "SB5",
+     "Fuse MIDI",
+     "40A",
+     "[gradual change (model year 2011)]: Radiator fan temperature switch / Radiator fan control unit"
+    ],
+    [
+     "SB6",
+     "Fuse MIDI",
+     "50A",
+     "Glow plug control unit"
+    ],
+    [
+     "SB7",
+     "Fuse MIDI",
+     "60A",
+     "High-output heating relay / Battery monitoring control unit [battery in engine compartment] / Additional air heater heating element"
+    ]
+   ]
+  },
+  {
+   "index": 8,
+   "name": "Fuse box B -SB- (battery in luggage compartment)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-8.webp",
+   "fuses": [
+    [
+     "SB1",
+     "Fuse MIDI",
+     "175A",
+     "Generator"
+    ],
+    [
+     "SB2",
+     "Fuse MIDI",
+     "40A",
+     "Low power heating relay / Additional air heater heating element"
+    ],
+    [
+     "SB4",
+     "Fuse MIDI",
+     "80A",
+     "Power steering control unit"
+    ],
+    [
+     "SB5",
+     "Fuse MIDI",
+     "50A",
+     "[gradual introduction (2011 model year)]: Radiator fan temperature switch / Radiator fan control unit"
+    ],
+    [
+     "SB5",
+     "Fuse MIDI",
+     "40A",
+     "[gradual change (model year 2011)]: Radiator fan temperature switch / Radiator fan control unit"
+    ],
+    [
+     "SB6",
+     "Fuse MIDI",
+     "50A",
+     "Glow plug control unit"
+    ],
+    [
+     "SB7",
+     "Fuse MIDI",
+     "60A",
+     "High-output heating relay / Additional air heater heating element"
+    ]
+   ]
+  },
+  {
+   "index": 9,
+   "name": "Engine fuse panel (SB)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2017-genid-g1-9.webp",
+   "fuses": [
+    [
+     "SB1",
+     "Fuse MIDI",
+     "110A",
+     "[battery in engine compartment, until October 2014]: Onboard power supply / Power supply for engine components"
+    ],
+    [
+     "SB1",
+     "Fuse MIDI",
+     "50A",
+     "[from November 2014]: Radiator fan control unit / Radiator fan"
+    ],
+    [
+     "SB2",
+     "Fuse MIDI",
+     "250A",
+     "Generator / Voltage regulator"
+    ],
+    [
+     "SB3",
+     "Fuse MIDI",
+     "80A",
+     "Power steering control unit"
+    ],
+    [
+     "SB4",
+     "Fuse MIDI",
+     "50A",
+     "[diesel, since November 2014]: Glow plug control unit / Glow plugs 1-4"
+    ],
+    [
+     "SB5",
+     "Fuse MIDI",
+     "50A",
+     "[up to October 2014]: Radiator fan control unit / Radiator fan"
+    ],
+    [
+     "SB5",
+     "Fuse MIDI",
+     "125A",
+     "[battery in engine compartment, since November 2014]: Power supply for on-board electrical system / Power supply for engine components"
+    ],
+    [
+     "SH1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heating element for additional air heater, Stage 1"
+    ],
+    [
+     "SH2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan control unit / Radiator fan"
+    ],
+    [
+     "SH4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heating element for additional air heater, Stage 2"
+    ],
+    [
+     "SH5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heating element for additional air heater, Stage 3"
+    ],
+    [
+     "SH6",
+     "Fuse ATO",
+     "30A",
+     "Mechatronic unit DSG gearbox"
+    ],
+    [
+     "SH7",
+     "Fuse ATO",
+     "7.5A",
+     "Engine control unit"
+    ],
+    [
+     "SH8",
+     "Fuse ATO",
+     "20A",
+     "Changeover relays 1-2 for windscreen wiper motor"
+    ],
+    [
+     "SH9",
+     "Fuse ATO",
+     "5A",
+     "Control unit for battery monitoring"
+    ],
+    [
+     "SH10",
+     "Fuse ATO",
+     "10A",
+     "Noise suppression capacitor"
+    ],
+    [
+     "SH12",
+     "Fuse MINI",
+     "10A",
+     "[1.0/1.4 l petrol]: Lambda probe heating elements"
+    ],
+    [
+     "SH12",
+     "Fuse MINI",
+     "15A",
+     "[1.8/2.0 l petrol; 1.4L/1.6L diesel]: Lambda probe heating elements"
+    ],
+    [
+     "SH13",
+     "Fuse MINI",
+     "5A",
+     "Brake light switch / Clutch pedal position sender"
+    ],
+    [
+     "SH14",
+     "Fuse MINI",
+     "5A",
+     "[1.8/2.0 l petrol]: AC shut-off thermal switch / Fuel metering valve / Oil pressure regulating valve / Cylinder head coolant circuit valve / Coolant circulation pump / Charge air cooling pump / Heater circulation pump"
+    ],
+    [
+     "SH14",
+     "Fuse MINI",
+     "10A",
+     "[1.4L/1.6L diesel; 1.0/1.4 l petrol]: same circuits as above"
+    ],
+    [
+     "SH15",
+     "Fuse MINI",
+     "5A",
+     "On-board power supply control unit / Engine control unit / Voltage stabilizer"
+    ],
+    [
+     "SH16",
+     "Fuse ATO",
+     "30A",
+     "Starter"
+    ],
+    [
+     "SH17",
+     "Fuse ATO",
+     "15A",
+     "[1.0/1.4 l petrol; 1.8/2.0 l petrol]: Engine control unit"
+    ],
+    [
+     "SH17",
+     "Fuse ATO",
+     "30A",
+     "[1.4L/1.6L diesel]: Engine control unit"
+    ],
+    [
+     "SH18",
+     "Fuse ATO",
+     "5A",
+     "[1.4L/1.6L diesel]: Oil level and temperature sender / Fuel pump relay / Radiator fan control unit / Heat output relays / Boost pressure control solenoid valve / Turbocharger bypass valve / Intake manifold flaps valve / Oil pressure regulating valve / Oil cooling valve"
+    ],
+    [
+     "SH18",
+     "Fuse ATO",
+     "10A",
+     "[1.0/1.4 l petrol; 1.8/2.0 l petrol]: same circuits as above"
+    ],
+    [
+     "SH19",
+     "Fuse ATO",
+     "7.5A",
+     "[1.4L diesel]: Engine electronics supply relay / Fuel pressure regulator / Fuel metering valve / Injectors 2 cylinders 1-4 / Valve lift control actuators 1-8 / Vacuum pump brake system"
+    ],
+    [
+     "SH19",
+     "Fuse ATO",
+     "10A",
+     "[1.6L diesel; 1.8/2.0 l petrol]: same circuits as above"
+    ],
+    [
+     "SH19",
+     "Fuse ATO",
+     "20A",
+     "[1.0/1.4 l petrol]: same circuits as above"
+    ],
+    [
+     "SH20",
+     "Fuse ATO",
+     "5A",
+     "[1.4L/1.6L diesel]: Glow plug control unit / Exhaust flap control unit / Crankcase ventilation heating resistor / Activated carbon filter solenoid valve 1 / Camshaft adjuster valves / Continued coolant circulation pump / Secondary air pressure senders 1-2"
+    ],
+    [
+     "SH20",
+     "Fuse ATO",
+     "10A",
+     "[1.8/2.0 l petrol]: same circuits as above"
+    ],
+    [
+     "SH20",
+     "Fuse ATO",
+     "20A",
+     "[1.0/1.4 l petrol]: same circuits as above"
+    ]
+   ]
+  }
+ ]
+}

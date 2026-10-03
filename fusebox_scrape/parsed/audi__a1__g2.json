@@ -1,0 +1,474 @@
+{
+ "make_slug": "audi",
+ "model_slug": "a1",
+ "brand_db": "Audi",
+ "model_db_name": "A1 GB",
+ "model_id": 233,
+ "generation_name": "2nd generation",
+ "generation_code": "Typ GB",
+ "year_start": 2019,
+ "year_end": 2024,
+ "trim_label": null,
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/audi/a1/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Engine control unit"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "7.5A",
+     "Fuel metering valve [1.0 petrol]; Charge air cooling pump [2.0 petrol]; [1.5 petrol]: Exhaust valve unit, Vacuum pump relay"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "",
+     "[2.0 petrol] Coolant after-treatment pump [2.0 petrol, DNND] / Charge air cooling pump"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe 1 before the neutralizer / Lambda probe 1 after neutralizer"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump control unit / Engine electronics power supply relay [2.0 petrol]"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "[1.0/1.5 petrol, 2.0 petrol DNND] Oil level and temperature sensor / Solenoid valve 1 of the adsorber / Valve 1 intake valve timing control / Valve 1 exhaust valve timing adjuster / Oil pressure regulating valve / Piston cooling nozzle control valve / Inlet and exhaust cam adjusters cylinders 2-3 [1.5 petrol] / Radiator fan / Active oil separator module [1.5 petrol]"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "[2.0 petrol]: Oil level and temperature sensor / Solenoid valve 1 of the adsorber / Turbocharger bypass valve / Intake manifold flap valve / Valve 1 exhaust valve timing adjuster / Oil pressure regulating valve / Piston cooling nozzle control valve / Valve 1 intake valve timing control / Inlet and exhaust cam adjusters cylinders 2-3 / Radiator fan / Active oil separator module"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Ignition coils 1-4 with output stage [1.0/1.5 petrol]"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "[1.0/1.5 petrol] Brake system vacuum pump [1.0 petrol]"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "[2.0 petrol] Vacuum pump relay [1.5 petrol] / Gearbox coolant circuit valve [2.0 petrol]"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "[2.0 petrol]: Engine electronics power supply relay / Actuators 1-8 of the variable valve timing system / Injector 2 cylinders 1-4"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "7.5A",
+     "Brake light switch"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "7.5A",
+     "Control unit for battery monitoring"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "30A",
+     "Additional pump 1 for gearbox oil [automatic transmission 0GC]"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning compressor regulating valve / Electromagnetic clutch relay"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Splitter [vehicles with batteries in the luggage compartment]"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "7.5A",
+     "ABS control unit / Main relay / Engine control unit"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "[DSG gearbox 0CW] Mechatronic unit DSG gearbox"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "7.5A",
+     "Engine control unit"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "Starter"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor relay 1 / Windscreen wiper motor relay 2"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS control unit"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "25A",
+     "ABS control unit"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "50A",
+     "Radiator fan"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine electronics power supply relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Relay 1 windscreen wiper motor"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter relay 2"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Windscreen wiper motor relay 2"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter relay 1"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Electromagnetic clutch relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a1-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse ATO",
+     "30A",
+     "Digital sound package control unit"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "40A",
+     "On-board power supply control unit"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "30A",
+     "Supply air fan control unit"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Front left seat belt"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Light switch / Rain and light sensor / Security alarm sensor / Adaptive headlight and headlight range control unit / Glove compartment light / Aesthetic illumination lamps / Diagnostic connector / Front ceiling module"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "7.5A",
+     "Control unit for instrument cluster / Emergency call module and communication unit control unit"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "40A",
+     "On-board power supply control unit"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "30A",
+     "Driver's door control unit [RHD] / Front passenger door control unit [LHD] / Driver's side rear window lift motor control unit [RHD] / Rear passenger side window lift motor control unit [LHD]"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "25A",
+     "Electronic information system control unit 1"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Rear window heating relay"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Multimedia system control panel"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "7.5A",
+     "Rear view camera control unit"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "7.5A",
+     "Charger 1 for mobile terminal devices / Mobile phone amplifier / USB Splitter"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "7.5A",
+     "Driver's side volume control"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "7.5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "7.5A",
+     "Electronic damping control unit"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition and starter switch [without access/engine start authorization system] / Steering column electronics control unit"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm siren"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Front right seat belt"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Heater/Air Conditioner Control Panel"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "7.5A",
+     "Headlight front left"
+    ],
+    [
+     "F33",
+     "Fuse ATO",
+     "30A",
+     "Driver's door control unit [LHD] / Front passenger door control unit [RHD] / Driver's side rear window lift motor control unit [LHD] / Rear passenger side window lift motor control unit [RHD]"
+    ],
+    [
+     "F34",
+     "Fuse ATO",
+     "7.5A",
+     "Headlight front right"
+    ],
+    [
+     "F35",
+     "Fuse ATO",
+     "40A",
+     "On-board power supply control unit"
+    ],
+    [
+     "F36",
+     "Fuse ATO",
+     "20A",
+     "Two-tone horn relay"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "F38",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "7.5A",
+     "Adaptive cruise control control unit / Parking aid control unit / Lane change assist control units / Front camera for driver assistance systems"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "7.5A",
+     "Interior rearview mirror / Front panel switch module, center / Diagnostic connector"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "7.5A",
+     "Socket relay"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "7.5A",
+     "Clutch pedal position sensor / Air conditioning circuit pressure sensor / Symposer control unit / Starter relays 1-2"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper motor"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag control unit / Front ceiling module"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "7.5A",
+     "Starter interlock switch and reversing light switch"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "7.5A",
+     "Front ceiling module"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "7.5A",
+     "Access and start authorization control unit / Electric steering column lock control unit"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "7.5A",
+     "Selector / Ignition key removal interlock solenoid [without access/engine start authorization system]"
+    ],
+    [
+     "F58",
+     "Fuse ATO",
+     "20A",
+     "12V socket"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Vacuum pump relay [1.5 petrol]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Two-tone horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power supply relay terminal 15"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear window heating relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Socket relay"
+    ]
+   ]
+  }
+ ]
+}
