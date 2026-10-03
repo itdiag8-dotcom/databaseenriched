@@ -1,0 +1,522 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "malibu",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Malibu",
+ "model_id": 1155,
+ "generation_name": "9th generation (E2XX)",
+ "generation_code": "g9",
+ "year_start": 2016,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/chevrolet/malibu/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-2024-genid-g9-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left power windows"
+    ],
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "30A",
+     "Right power windows"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heating, ventilation, and air conditioning blower"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 2 (without stop/start option)"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "",
+     "Left rear heated seat (for some models)"
+    ],
+    [
+     "F7",
+     "Fuse MICRO2",
+     "",
+     "Right rear heated seat (for some models)"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 2 (with stop/start option)"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "20A",
+     "Transmission control module (with stop/start option)"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "15A",
+     "Seat power lumbar"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 1 (without stop/start option)"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 4"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "10A",
+     "Electric steering column lock"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "10A",
+     "Sensing and diagnostic module/automatic occupant sensing (airbag)"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "7.5A",
+     "Data link connector"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "30A",
+     "AC DC inverter"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "20A",
+     "Body control module 8"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "10A",
+     "Overhead console"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "10A",
+     "Heating, ventilation, and air conditioning"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "5A",
+     "Central gateway module"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "5A",
+     "Wireless charger/USB charger"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "5A",
+     "OnStar"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "7.5A",
+     "Display"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "10A",
+     "Obstacle detection"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 1 (with stop/start option)"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "Console accessory power outlet - rear"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Interruptible retained accessory power"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-2024-genid-g9-1.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "60A",
+     "Antilock brake system pump/electric brake booster"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "7.5A",
+     "Rear closure"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "5A",
+     "Memory seat module"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC DC converter 1"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "5A",
+     "Passive entry/passive start"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "20A",
+     "Front wiper"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "18",
+     "Fuse FMM/MCase",
+     "30A",
+     "Antilock brake system valve"
+    ],
+    [
+     "19",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "5A",
+     "Parking lamp"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Automatic headlamp leveling/adaptive forward lighting"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission control module/ignition"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "10A",
+     "Instrument panel/body/ignition"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "10A",
+     "Rear vision camera/ventilated seats"
+    ],
+    [
+     "30",
+     "Fuse MICRO3",
+     "5A",
+     "Malfunction indicator lamp/ignition"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "5A",
+     "Canister vent solenoid/EVAP leak check module"
+    ],
+    [
+     "33",
+     "Fuse MICRO3",
+     "15A",
+     "Front heated seat"
+    ],
+    [
+     "35",
+     "Fuse MICRO3",
+     "10A",
+     "Body control module 6/body control module 7"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel module"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "10A",
+     "Steering column lock"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp leveling"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module/ignition"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC DC converter 2"
+    ],
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "59",
+     "Fuse MICRO3",
+     "10A",
+     "High-beam headlamps left/right"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan"
+    ],
+    [
+     "65",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "72",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter pinion"
+    ],
+    [
+     "75",
+     "Fuse MICRO2",
+     "25A",
+     "Engine control module main"
+    ],
+    [
+     "76",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module sense"
+    ],
+    [
+     "78",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "79",
+     "Fuse MICRO2",
+     "20A",
+     "Washer pump"
+    ],
+    [
+     "81",
+     "Fuse MICRO3",
+     "15A",
+     "Transmission control module/engine control module"
+    ],
+    [
+     "83",
+     "Fuse MICRO3",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "84",
+     "Fuse MICRO3",
+     "15A",
+     "Powertrain on engine"
+    ],
+    [
+     "85",
+     "Fuse FMX/JCase",
+     "60A",
+     "Shunt"
+    ],
+    [
+     "86",
+     "Fuse FMX/JCase",
+     "60A",
+     "Shunt"
+    ],
+    [
+     "88",
+     "Fuse MICRO2",
+     "10A",
+     "Aeroshutter"
+    ],
+    [
+     "93",
+     "Fuse MICRO2",
+     "10A",
+     "Automatic headlamp leveling"
+    ],
+    [
+     "99",
+     "Fuse MICRO2",
+     "10A",
+     "Coolant pump"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Front wiper control"
+    ],
+    [
+     "31",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Front wiper speed"
+    ],
+    [
+     "64",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "66",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "73",
+     "Relay",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "80",
+     "Relay",
+     "",
+     "Starter pinion"
+    ]
+   ]
+  }
+ ]
+}

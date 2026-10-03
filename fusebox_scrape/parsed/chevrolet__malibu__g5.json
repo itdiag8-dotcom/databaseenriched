@@ -1,0 +1,427 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "malibu",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Malibu",
+ "model_id": 1155,
+ "generation_name": "5th generation (N-body)",
+ "generation_code": "g5",
+ "year_start": 1997,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/chevrolet/malibu/info/fusebox/2004/5th-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block - Driver's Side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-2004-genid-g5-0.webp",
+   "fuses": [
+    [
+     "A",
+     "Fuse MINI",
+     "",
+     "Wipers"
+    ],
+    [
+     "B",
+     "Fuse MINI",
+     "",
+     "Trunk release and remote keyless entry"
+    ],
+    [
+     "C",
+     "Fuse MINI",
+     "",
+     "Turn signals"
+    ],
+    [
+     "D",
+     "Fuse MINI",
+     "",
+     "Power mirrors"
+    ],
+    [
+     "E",
+     "Fuse MINI",
+     "",
+     "Air bag"
+    ],
+    [
+     "F",
+     "Fuse MINI",
+     "",
+     "Body function control module"
+    ],
+    [
+     "G",
+     "Fuse MINI",
+     "",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "H",
+     "Fuse MINI",
+     "",
+     "Door locks"
+    ],
+    [
+     "J",
+     "Fuse MINI",
+     "",
+     "Body function control module/instrument panel cluster"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Trunk release (micro relay)"
+    ],
+    [
+     "R2",
+     "Circuit breaker",
+     "",
+     "Power seats (circuit breaker)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Door unlock (micro relay)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Door lock (micro relay)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Driver's door unlock (micro relay)"
+    ],
+    [
+     "R6",
+     "Fuse MINI",
+     "",
+     "(STOP LPS) Stoplamps"
+    ],
+    [
+     "R7",
+     "Fuse MINI",
+     "",
+     "(HAZARD LPS) Hazard lamps"
+    ],
+    [
+     "R8",
+     "Fuse MINI",
+     "",
+     "(IPC/HVAC BATT) Cluster, climate control"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block - Passenger's Side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-2004-genid-g5-1.webp",
+   "fuses": [
+    [
+     "CB",
+     "Circuit breaker",
+     "",
+     "Power windows (circuit breaker)"
+    ],
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Instrument panel lights, brightness control"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Cruise control switches"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Climate control system"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Cruise control"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Interior lamps, body function control module"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fog lamps (micro relay)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-2004-genid-g5-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Right headlamp"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Climate control system"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Canister purge valve, PCM, exhaust gas recirculation, heated O2 sensor"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Left headlamp"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "HVAC blower (climate control)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Cooling fan #2 ground"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Fuel pump injectors"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Anti-lock brakes (ABS)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Ignition system"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "PCM"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Back-up lamps, brake transaxle shift interlock control"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Powertrain control module (PCM), ignition"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Automatic transaxle"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Air conditioning compressor, body function control module"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Rear defog"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Accessory power outlets, cigar lighter"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Generator"
+    ],
+    [
+     "F36",
+     "Fuse MAXI",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "F38",
+     "Fuse MAXI",
+     "",
+     "Left electrical center - power seats, power mirrors, door locks, trunk release and remote lock control"
+    ],
+    [
+     "F39",
+     "Fuse MAXI",
+     "",
+     "Cooling fan #1"
+    ],
+    [
+     "F40",
+     "Fuse MAXI",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "F41",
+     "Fuse MAXI",
+     "",
+     "Right electrical center - fog lamps, radio, body function control module, interior lamps"
+    ],
+    [
+     "F42",
+     "Fuse MAXI",
+     "",
+     "Left electrical center - stoplamps, hazard lamps, body function control module, cluster, climate control system"
+    ],
+    [
+     "F43",
+     "Fuse MAXI",
+     "",
+     "Anti-lock brakes"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Daytime running lamps (DRL)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Automatic light control"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Automatic light control"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "HVAC blower (climate control)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan #2"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Cooling fan #1"
+    ]
+   ]
+  }
+ ]
+}
