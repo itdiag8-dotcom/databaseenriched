@@ -1,0 +1,668 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "7-series",
+ "brand_db": "BMW",
+ "model_db_name": "7 Series \u2013 E38",
+ "model_id": 677,
+ "generation_name": "3rd generation",
+ "generation_code": "E38",
+ "year_start": 1994,
+ "year_end": 2001,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/bmw/7-series/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-7-series-2001-genid-g3-0.webp",
+   "fuses": [
+    [
+     "50",
+     "Fuse ATO",
+     "15A",
+     "Auxiliary heating system, parking distance control system"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "20A",
+     "Sunroof control unit"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "30A",
+     "Cigarette lighters front and rear"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "20A",
+     "Rear seat adjustment"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "20A",
+     "Trailer connector"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "7.5A",
+     "General electrical control box"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "7.5A",
+     "Security alarm"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump relay"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "5A",
+     "Rear door lock switch, vehicle tilt sensor, electrochromic rearview mirror, protection and switching unit"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "15A",
+     "Refrigerator"
+    ],
+    [
+     "60",
+     "Fuse ATO",
+     "5A",
+     "Not used"
+    ],
+    [
+     "61",
+     "Fuse ATO",
+     "20A",
+     "Rear fan, rear fan relay"
+    ],
+    [
+     "62",
+     "Fuse ATO",
+     "5A",
+     "Electrochromic rearview mirror"
+    ],
+    [
+     "63",
+     "Fuse ATO",
+     "15A",
+     "Heated rear seat switch"
+    ],
+    [
+     "64",
+     "Fuse ATO",
+     "5A",
+     "Parking assistance control unit"
+    ],
+    [
+     "65",
+     "Fuse ATO",
+     "15A",
+     "Switching module, Electronic Damping Control (EDC)"
+    ],
+    [
+     "66",
+     "Fuse ATO",
+     "5A",
+     "Cigarette lighter"
+    ],
+    [
+     "68",
+     "Fuse ATO",
+     "5A",
+     "Rear fan, rear fan relay"
+    ],
+    [
+     "69",
+     "Fuse ATO",
+     "30A",
+     "Rear information display, voice control unit"
+    ],
+    [
+     "70",
+     "Fuse ATO",
+     "10A",
+     "Charging system, phone"
+    ],
+    [
+     "71",
+     "Fuse ATO",
+     "",
+     "Intercom (special equipment)"
+    ],
+    [
+     "79",
+     "Fuse MAXI",
+     "40A",
+     "Rear demister relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Auxiliary heating system"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel flap relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Unloader relay, terminal 15"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel module relay (fuel pump)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Demister relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-7-series-2001-genid-g3-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlight washer module"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Air conditioning water valves"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Trunk lid / tailgate control panel"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Shutdown relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Windshield heating, heated nozzles"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fan"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Additional cooling fan, speed 2"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Additional cooling fan, speed 1"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Additional cooling fan, speed 3"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-7-series-2001-genid-g3-2.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "Windshield washers, headlight washer"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Interior lamps, trunk lamp, windshield washers"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Air conditioner"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "30A",
+     "Central locking, power door mirrors"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "AC condenser fan motor"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "25A",
+     "Traction control"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Air conditioner"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Steering column position adjustment actuator"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Steering column position adjustment actuator"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "",
+     "Rear head restraint control unit; lower A-pillar units [after 09.1998]"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "Power seat (driver's side), steering column adjuster"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Power seat (passenger side)"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "ABS system, traction control, fuel module (fuel pump)"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "5A",
+     "Not used"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "5A",
+     "Heater fan motor, AC condenser fan motor, rear window heater, windshield heater"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "5A",
+     "Garage door remote control system"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Engine management"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "5A",
+     "Lighting circuit relay, instrument cluster"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "5A",
+     "Engine management"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "5A",
+     "Not used"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "5A",
+     "Immobilizer, automatic transmission selector lamp"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "5A",
+     "Multifunction display"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "5A",
+     "Windshield wipers, audio remote control system"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "30A",
+     "Central locking system, power windows"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Windshield washer nozzle heaters"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "30A",
+     "Power door mirrors, central locking, power windows"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "30A",
+     "Heater fan motor"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "25A",
+     "ABS system / air conditioning water valves"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "40A",
+     "AC condenser fan motor"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "10A",
+     "Steering wheel heater"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "5A",
+     "AC condenser fan motor"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "15A",
+     "Seat heater"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "5A",
+     "Not used / diagnostic connector"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "5A",
+     "Horn, instrument cluster, gear selector lamp"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "7.5A",
+     "Charging socket, vanity mirror lamp"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "5A",
+     "Immobilizer, lighting relay control, cruise control"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "5A",
+     "On-board computer, audio system, telephone"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "5A",
+     "Multifunction display, steering wheel adjustment mechanism"
+    ],
+    [
+     "78",
+     "Fuse MAXI",
+     "20A",
+     "Fan"
+    ],
+    [
+     "81",
+     "Fuse MAXI",
+     "40A",
+     "Fan relay"
+    ],
+    [
+     "F1",
+     "Fuse MAXI",
+     "30A",
+     "Diagnostic connector, engine control unit (DME), DME relay, transmission control unit"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "20A",
+     "Engine control unit (DME), engine management (EML)"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "20A",
+     "Oxygen sensor before catalytic converter"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "30A",
+     "Engine management (EML), transmission control unit, engine control unit (DME)"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "30A",
+     "Ignition coils"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Wiper relay 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Wiper relay 1"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Air pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Secondary air injection pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Preheating"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "DDE relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Main DDE relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "DDE relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "DDE relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "DME relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Unloader relay, terminal 15"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "DDE relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Additional relay block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-7-series-2001-genid-g3-3.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "ABS pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Exhaust air pump"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air conditioning condenser fan (fusible link)"
+    ]
+   ]
+  }
+ ]
+}
