@@ -1,0 +1,907 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "sonic",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Sonic",
+ "model_id": 1190,
+ "generation_name": "Generation T300 (T300)",
+ "generation_code": "g1",
+ "year_start": 2012,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/chevrolet/sonic/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block - 1.8L Engines",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-sonic-2018-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Antilock brake system valve"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Rear fog lamp"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Exterior rearview mirror / power window switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Automatic occupant sensing/ROS"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Passive entry / passive start"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Intelligent battery sensor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Heated exterior rearview mirror"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Fuel system control module 1"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Washer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Engine control module 5"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Fuel system control module 2 / Leveling"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Transmission control module 1 / DC DC converter"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Engine control module 1"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Coil"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Engine control module 4"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Engine control module 3"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Engine control module 2"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "1_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Front wipers"
+    ],
+    [
+     "2_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system pump"
+    ],
+    [
+     "3_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Blower"
+    ],
+    [
+     "4_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Run/Crank IEC"
+    ],
+    [
+     "6_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan K4"
+    ],
+    [
+     "7_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan K5"
+    ],
+    [
+     "9_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Electric vacuum pump"
+    ],
+    [
+     "RLY 1",
+     "Relay",
+     "",
+     "Front wiper control"
+    ],
+    [
+     "RLY 2",
+     "Relay",
+     "",
+     "Rear fog lamp"
+    ],
+    [
+     "RLY 3",
+     "Relay",
+     "",
+     "Front wiper speed"
+    ],
+    [
+     "RLY 4",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "RLY 5",
+     "Relay",
+     "",
+     "Run/Crank"
+    ],
+    [
+     "RLY 10",
+     "Relay",
+     "",
+     "Cooling fan K3"
+    ],
+    [
+     "RLY 11",
+     "Relay",
+     "",
+     "P/T"
+    ],
+    [
+     "RLY 12",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "RLY 13",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "RLY 14",
+     "Relay",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "RLY 15",
+     "Relay",
+     "",
+     "Cooling fan K1"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "SAI valve"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Injector / Ignition"
+    ],
+    [
+     "8_JC",
+     "Fuse FMX/JCase",
+     "",
+     "SAI pump"
+    ],
+    [
+     "RLY 6",
+     "Relay",
+     "",
+     "SAI valve"
+    ],
+    [
+     "RLY 8",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "RLY 9",
+     "Relay",
+     "",
+     "SAI pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block - 1.4L Engine",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-sonic-2018-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Antilock brake system valve"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Rear fog lamp"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Exterior rearview mirror / power window switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Automatic occupant sensing/ROS"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Passive entry / passive start"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Intelligent battery sensor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Heated exterior rearview mirror"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Fuel system control module 1"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Washer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Engine control module 5"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Fuel system control module 2 / Leveling"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Transmission control module 1 / DC DC converter"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Engine control module 1"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Coil"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Engine control module 4"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Engine control module 3"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Engine control module 2"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "1_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Front wipers"
+    ],
+    [
+     "2_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system pump"
+    ],
+    [
+     "3_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Blower"
+    ],
+    [
+     "4_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Run/Crank IEC"
+    ],
+    [
+     "6_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan K4"
+    ],
+    [
+     "7_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan K5"
+    ],
+    [
+     "9_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Electric vacuum pump"
+    ],
+    [
+     "RLY 1",
+     "Relay",
+     "",
+     "Front wiper control"
+    ],
+    [
+     "RLY 2",
+     "Relay",
+     "",
+     "Rear fog lamp"
+    ],
+    [
+     "RLY 3",
+     "Relay",
+     "",
+     "Front wiper speed"
+    ],
+    [
+     "RLY 4",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "RLY 5",
+     "Relay",
+     "",
+     "Run/Crank"
+    ],
+    [
+     "RLY 10",
+     "Relay",
+     "",
+     "Cooling fan K3"
+    ],
+    [
+     "RLY 11",
+     "Relay",
+     "",
+     "P/T"
+    ],
+    [
+     "RLY 12",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "RLY 13",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "RLY 14",
+     "Relay",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "RLY 15",
+     "Relay",
+     "",
+     "Cooling fan K1"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Injector / Ignition coil"
+    ],
+    [
+     "5_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Power seat"
+    ],
+    [
+     "10_JC",
+     "Fuse FMX/JCase",
+     "",
+     "Start"
+    ],
+    [
+     "RLY 9",
+     "Relay",
+     "",
+     "Cooling fan K2"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-sonic-2018-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Accessory"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Front power windows"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Body control module 5"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "",
+     "Rear power window"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Liftgate"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Sensing and diagnostic"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Data link"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Discrete logic ignition switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "HVAC 1"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Central gateway module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Lane departure warning / front collision alert"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Trailer 1"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Audio"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Rain sensing wiper"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Parking assist / side blind spot alert"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Telematics"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster / automatic occupant sensing display"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Automatic headlamp leveling switch"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "HVAC 2"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Clock spring"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Trailer hitch 2"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Cigar auxiliary power outlet"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Sunroof switch"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "IRAP relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Liftgate relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Run relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Retained accessory power / Accessory relay"
+    ]
+   ]
+  }
+ ]
+}
