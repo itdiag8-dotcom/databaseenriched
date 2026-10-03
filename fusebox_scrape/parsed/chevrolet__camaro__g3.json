@@ -1,0 +1,162 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "camaro",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Camaro",
+ "model_id": 1105,
+ "generation_name": "3rd generation",
+ "generation_code": "F-body",
+ "year_start": 1981,
+ "year_end": 1992,
+ "trim_label": "",
+ "representative_year": 1992,
+ "source_url": "https://www.startmycar.com/chevrolet/camaro/info/fusebox/1992",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Box Diagram 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-camaro-1992-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Fuel injector feed #1"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Hatch pull-down motor"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Cooling fan relay"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Turn signal lights, back-up lights"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Fuel injector feed #2"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Parking lights, side marker lights, taillights"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "25A",
+     "Heater or air conditioner"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Gauges, audio alarm system, vehicle speed sensor, TCC brake switch, rear window defogger, DRL, cruise control, A/C relay"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Supplemental inflatable restraint"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "Glove box light, cigarette lighter, hatchback lid release, horn relay, interior lights, power antenna, power door locks, radio/digital clock, computer command control"
+    ],
+    [
+     "12",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel lights"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Radio"
+    ],
+    [
+     "15",
+     "Circuit breaker MAXI",
+     "",
+     "Power door locks, power seats, rear window defogger"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "25A",
+     "Windshield wiper/washer"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "20A",
+     "Stoplight switch, hazard flasher, chime"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Box Diagram 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-camaro-1992-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "VATS II security light"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Radio"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "3A",
+     "ECM crank circuit"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "30A",
+     "Fog light"
+    ]
+   ]
+  }
+ ]
+}

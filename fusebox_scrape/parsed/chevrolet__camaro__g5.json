@@ -1,0 +1,559 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "camaro",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Camaro",
+ "model_id": 1105,
+ "generation_name": "5th generation",
+ "generation_code": "Zeta",
+ "year_start": 2009,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/chevrolet/camaro/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-camaro-2015-genid-g5-0.webp",
+   "fuses": [
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Wiper"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "",
+     "Brake vacuum pump"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "",
+     "Power windows rear"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "",
+     "Power windows front"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "",
+     "Rear defog"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan high"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system pump"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan low"
+    ],
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Air conditioning compressor clutch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Intercooler pump"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Engine control module main"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Pre-catalytic converter oxygen sensor"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Post-catalytic converter oxygen sensor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Fuel injectors - even"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Fuel injectors - odd"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Manifold air flow / chassis control"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Ignition"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Run/crank IP"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Sensing diagnostic module/ignition"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Run/crank body"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Transmission control module/ignition"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Engine control module/ignition"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Outside rearview mirror"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Washer pump front"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Antilock brake system valves"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "HID headlamp - left front"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "HID headlamp - right front"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "",
+     "High-beam headlamp - right front"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "High-beam headlamp - left front"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "",
+     "Heated mirror"
+    ],
+    [
+     "K26",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "K50",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "K55",
+     "Relay",
+     "",
+     "Rear defog relay"
+    ],
+    [
+     "K612",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ],
+    [
+     "K614",
+     "Relay",
+     "",
+     "Cooling fan control relay"
+    ],
+    [
+     "K61",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "K69",
+     "Relay",
+     "",
+     "Wiper control relay"
+    ],
+    [
+     "K613",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ],
+    [
+     "K617",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "K619",
+     "Relay",
+     "",
+     "Wiper speed relay"
+    ],
+    [
+     "K627",
+     "Relay",
+     "",
+     "HID headlamps relay"
+    ],
+    [
+     "K632",
+     "Relay",
+     "",
+     "Brake vacuum pump relay"
+    ],
+    [
+     "K641",
+     "Relay",
+     "",
+     "Intercooler pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-camaro-2015-genid-g5-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Discrete logic ignition switch"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Diagnostic link connector"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Airbag"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Cluster"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "HVAC controller"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Battery"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Display"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "OnStar universal hands-free phone"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Power outlet 1"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Power outlet 2"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls backlight"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Trunk"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Automatic occupant sensing"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "",
+     "Front HVAC"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "CB7",
+     "Circuit breaker ATO",
+     "",
+     "Passenger seat"
+    ],
+    [
+     "CB26",
+     "Circuit breaker ATO",
+     "",
+     "Driver seat"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "K609",
+     "Relay",
+     "",
+     "Trunk relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-camaro-2015-genid-g5-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Universal remote system/rear parking assist/inside rearview mirror"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Convertible top 1"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Convertible top 2"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Real time damping"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Active exhaust flapper"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Engine control module/battery"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Fuel system control module"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Active exhaust flapper relay"
+    ]
+   ]
+  }
+ ]
+}
