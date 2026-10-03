@@ -1,0 +1,180 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c2",
+ "brand_db": "Citroen",
+ "model_db_name": "C2",
+ "model_id": 1266,
+ "generation_name": "generation 1A (A6)",
+ "generation_code": "g1a",
+ "year_start": 2004,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/citroen/c2/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses under the dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c2-2007-genid-g1a-0.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Airbags"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic socket, particle filter additive, clutch switch, steering angle sensor"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "30A",
+     "Wipers"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Digital clock, steering wheel controls, car radio, indicator"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Cigarette lighter, digital clock, ceiling lights, passenger mirror"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Alarm"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Steering lock, diagnostic socket"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Airbag calculator, rain and light sensor"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Parking assistance, dashboard, air conditioning, Bluetooth phone"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "30A",
+     "Electric lock, super lock"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "40A",
+     "Defrosting/defogging of the heated rear window"
+    ],
+    [
+     "SH",
+     "Fuse ATO Shunt",
+     "",
+     "(Shunt) parking mode or customer mode shunt"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuses under engine hood",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c2-2007-genid-g1a-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Water detection sensor in diesel"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Sound signal (horn)"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Windshield wiper"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Power steering"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Engine coolant level"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "25A",
+     "Starter"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Computers (ABS, ESP)"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Engine control actuators (ignition coil, solenoid valve, oxygen sensor, injection), canister purge"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "40A",
+     "Air blower"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "30A",
+     "Windshield wipers"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Air pump [gasoline version], diesel heater"
+    ]
+   ]
+  }
+ ]
+}
