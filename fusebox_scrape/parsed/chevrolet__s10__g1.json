@@ -1,0 +1,264 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "s10",
+ "brand_db": "Chevrolet",
+ "model_db_name": "S10",
+ "model_id": 1180,
+ "trim_label": "",
+ "generation_name": "1st generation (GMT325)",
+ "generation_code": "g1",
+ "year_start": 1983,
+ "year_end": 1994,
+ "representative_year": 1994,
+ "source_url": "https://www.startmycar.com/chevrolet/s10/info/fusebox/1994/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses and Circuit Breakers",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-s10-1994-genid-g1-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel lights, headlight warning buzzer, ashtray light, 4WD indicator, fog light switch light"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "Power door locks, CD player, electric shift transfer case"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Horn, dome lights, glove box light, clock, lighter, vanity mirror, fog lamp, courtesy lights, outside rearview mirror"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Indicator lights and gauges, transmission converter clutch, cruise control, 4WD indicator, seat belt timer"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Rear wheel antilock brake module, speedometer"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Stop lights, hazard warning lights, chime module (1991-94)"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "Light switch, tail/park lights, digital cluster, license lamp"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Turn signals and backup lights"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "25A",
+     "Heating and air conditioning"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Radio, inside rearview mirror, map lights"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Engine control module, fuel pump"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Engine control module (1993-94)"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "25A",
+     "Windshield wipers and washers"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "5A",
+     "Electric shift transfer case module (1993-94)"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Daytime running light relay (Canada, 1993-94)"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "3A",
+     "Engine control module"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "CD player (fuse attached to fuse block)"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "Aux power outlet (parcel tray)"
+    ],
+    [
+     "Trailer",
+     "Fuse",
+     "",
+     "Trailer wiring harness (in-line fuse)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuses and Circuit Breakers (Ver. 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-s10-1994-genid-g1-1.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "(INST LPS) Instrument panel lights"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "CIR/BRK"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "CIG LTR/DM"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "GAGES"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "25A",
+     "AUX HTR A/C"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "(STOP/HAZ) Stop lights, hazard light"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "HRN/TL LPS"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "TURN B/U"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "(HTR A/C) Air conditioning system"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "(RADIO) Radio and audio system"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "(RADIO) Radio and audio system"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "(ECM B) Engine control unit"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "(ECM 1) Engine control unit"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "CIR/BRK"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "25A",
+     "(WIPER) Wipers"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "(AIR BAG) Airbag"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "(BRAKE) Anti-lock braking system"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "(DRL) Daytime running lights"
+    ]
+   ]
+  }
+ ]
+}
