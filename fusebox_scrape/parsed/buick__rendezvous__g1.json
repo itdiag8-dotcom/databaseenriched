@@ -1,0 +1,600 @@
+{
+ "make_slug": "buick",
+ "model_slug": "rendezvous",
+ "brand_db": "Buick",
+ "model_db_name": "Rendezvous",
+ "model_id": 970,
+ "generation_name": "1st generation",
+ "generation_code": "GMT257 / U-body",
+ "year_start": 2002,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/buick/rendezvous/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Floor console fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-rendezvous-2007-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Circuit breaker MAXI",
+     "",
+     "Power seats"
+    ],
+    [
+     "F2",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Steering wheel radio controls"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "25A",
+     "Power door locks"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "30A",
+     "Electronic level control (ELC) compressor"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Liftgate and endgate"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Rear auxiliary power outlet"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "ELC compressor relay and height sensor"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Power mirrors"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Ignition 1 module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Turn signal switch"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Air bag module"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "TCC switch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "25A",
+     "HVAC blower motor"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "HVAC mode/temperature motors, head-up display"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Automatic occupant sensing module"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Accessory power"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "25A",
+     "Windshield wipers and washer"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "2A",
+     "Instrument cluster, BCM, PASS-Key III"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "2A",
+     "Park lock ignition key solenoid"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "25A",
+     "UQ3 radio amplifier"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Head-up display"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "20A",
+     "Rear window wiper/washer"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "20A",
+     "Map lamps, courtesy lamps, instrument panel lights"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "15A",
+     "Hazard flashers"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, climate control, security LED, RKE mode"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "Power sunroof"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "PASS-Key III"
+    ],
+    [
+     "F39",
+     "Diode MINI",
+     "",
+     "Accessory diode"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "Body control module (BCM)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Turn signal and hazard lamp flashers"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Back-up lamps relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Accessory relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Ignition relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Underhood fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-rendezvous-2007-genid-g1-1.webp",
+   "fuses": [
+    [
+     "Diode",
+     "Diode MINI",
+     "",
+     "A/C compressor clutch diode"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine cooling fan 1"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "60A",
+     "Main battery fuse - ignition switch, radio, HUD, RKE, cluster, A/C, body computer"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Main battery fuse - climate control blower, ignition 3 relay"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "60A",
+     "Main battery fuse - heated seats, A/C, defogger"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Main battery fuse - RAP relay and accessory relay"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "60A",
+     "Main battery fuse - power outlets, level control, power seats, mirrors, body computer"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter solenoid battery fuse"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Engine cooling fan 2"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Powertrain sensors"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors (even)"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors (odd)"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Powertrain relay"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor / MAF sensor"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "25A",
+     "ABS solenoid valves"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Transmission"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lamps (DRL)"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Passenger's low-beam headlamp"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Driver's low-beam headlamp"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Driver's high-beam headlamp"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch battery power"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "15A",
+     "Parking lamps"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "Vent solenoids"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "15A",
+     "Ignition relay"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "Cruise control"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "15A",
+     "All-wheel drive (AWD) module"
+    ],
+    [
+     "F44",
+     "Diode MINI",
+     "",
+     "Ignition diode"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "10A",
+     "Front fog lamps"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "10A",
+     "Passenger's high-beam headlamp"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "15A",
+     "DVD"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "2A",
+     "S-band"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "10A",
+     "Body control module (BCM)"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "20A",
+     "Front power outlets/lights, OnStar"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "2A",
+     "Automatic transaxle shift lock control system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan 1 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan series/parallel relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan 2 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "DRL relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Low-beam headlamps relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "High-beam headlamps relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Parking lamps relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ]
+   ]
+  }
+ ]
+}
