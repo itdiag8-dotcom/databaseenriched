@@ -1,0 +1,963 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "spacetourer",
+ "brand_db": "Citroen",
+ "model_db_name": "SpaceTourer",
+ "model_id": null,
+ "generation_name": "G1 (\"K0\")",
+ "generation_code": "g1",
+ "year_start": 2021,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/citroen/spacetourer/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-spacetourer-2021-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "30A",
+     "[Full] Ignition switch, ADML push-button starter"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "3A",
+     "[Full] Steering angle sensor"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "3A",
+     "[Full] Appliance socket, Comelec joystick"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "7.5A",
+     "[Full] Instrument socket, diagnostic socket, dual-function brake switch, central voltage maintenance device"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "5A",
+     "[Full] Multifunction screen, rear view camera, parking assist ECU"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "[Full] Audio amplifier, rear BCC"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Interior lamp"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "",
+     "Front and rear door locks with power drive, fuel filler lock"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "",
+     "Front and rear fuel/door locks, fuel filler lock"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "[Full] Fuse box in relay compartment 3"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "[Full] Tracker"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "3A",
+     "[ECO] BSG, HDC, VCI"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "[Full] Autonomous telematics unit; [ECO] Heater for passenger compartment coolant circuit"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "[Full] 12V power outlet in trunk or cargo area"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "[ECO] CMB"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "3A",
+     "[ECO] Stop switch, DMTR"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "5A",
+     "[ECO] Diagnostic connector"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "5A",
+     "[ECO] BTA, alarm"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "3A",
+     "[Full] Boiler control module, APV voltage"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "[ECO] Front multiplexer, CRT, BCC, VTH, MCP"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "3A",
+     "[Full] Alarm, APV alarm voltage"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "7.5A",
+     "[ECO] Main stop CTC, DMTC, diagnostic connector"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "[Full] Engine wiring housing (PSF1)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "[ECO] RD6, NAC, RCC"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "[Full] MCP-BCC front shifter, front panel multiplexer, audio system, head-up display"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "5A",
+     "[ECO] Tracker"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "3A",
+     "[Full] Rain sensor, switch under the steering wheel"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "[ECO] Heater control module"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "3A",
+     "[Full] Instrument connectors, driver and passenger unbuckle indicator, APV voltage; [ECO] Electronic stability control"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "5A",
+     "[Full] Headlight corrector switch, electrochromic rear view mirror; [ECO] Airbag"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "5A",
+     "[Full] General service unit, under-steering-wheel communication module (CV00); [ECO] AAS, rear camera"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "3A",
+     "[Full] Driver door mirror plate, taxi, parking assist with blind spot monitor"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "5A",
+     "[ECO] Seat belt warning light display"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "3A",
+     "[Full] Glove compartment lighting, card reader; [ECO] CDPL, CVM"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "3A",
+     "[Full] Nomadic lamp charging, card reader"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "[Full] Cigarette lighter or 12V outlet"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "3A",
+     "[Full] Common trailer service unit, trailer connection box"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "5A",
+     "Taxi unit, AAS, adjustable rear-view mirrors, BTR convertible body"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "5A",
+     "[Full] Trailer connection unit combination ECU, instrument panel control computer; [ECO] Headlight height adjustment, BCP, coolant temperature level, diagnostic connector"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "20A",
+     "[Full] Audio"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "5A",
+     "[ECO] Glove box lighting, recharging device, card reading lamp"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "[Full] APV audio supply"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "15A",
+     "[Full] APV audio supply"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "5A",
+     "[Full] Airbag ECU"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "[ECO] Audio system of the second assembly"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "5A",
+     "[Full] Left and right sliding side doors"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "[ECO] Cigarette lighter or 12V socket"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box [2]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-spacetourer-2021-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "7.5A",
+     "[Full] Heated mirror"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "[ECO] Heated mirror"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "20A",
+     "[Full] 230V socket"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "30A",
+     "[ECO] Electric front windows"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "[Full] Folding rear view mirror"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "30A",
+     "[Full] Folding rear view mirror, Si 2 LVE"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "[ECO] 12V socket, APV 230V kit"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "[ECO] BSG RQ"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "30A",
+     "[Full] Front power window motor"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "10A",
+     "[ECO] Folding mirrors"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "30A",
+     "[Full] Heated seat"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "10A",
+     "[ECO] Folding mirrors"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "25A",
+     "[Full] Audio amplifier"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "[Full] Rear wiper (two screens)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "[ECO] 12V RG2 socket"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "15A",
+     "[Full] 12V power outlet"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "3A",
+     "[ECO] BSG"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "5A",
+     "[Full] Common trailer service unit, 7/13-pin"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "[Full] Common trailer service unit, 7/13-pin"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "[ECO] Heated boot, dual rear window wiper"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "30A",
+     "[Full] Power driver's seat"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "[ECO] Heated seat or heated bench seat"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "30A",
+     "[Full] Power passenger seat"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "3A",
+     "[Full] Left and right power sliding side doors"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "[Full] Glove box 12V outlet, APV 230V kit"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "3A",
+     "[Full] General trailer service unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "[Full] Right folding mirror"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "[ECO] Defog rear window and mirrors"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "[Full] Left folding mirror"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "[ECO] Electric windows"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "[Full] Heated mirrors and rear view"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "[ECO] Folding mirrors"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Box [A]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-spacetourer-2021-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Centralized power switch relay control, [Diesel] injectors"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Cooling fan unit relay control"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Steering relay, central voltage support device, reversible generator"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "SCR injector"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Pump-driven valve"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Intake air flow meter, EGR solenoid valve"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "[Diesel] Pump flow solenoid controller, TGV proportional solenoid"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "[Diesel] Water detection sensor, electromagnetic oil pump"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Electronic immobilizer"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Steering safety switch housing 3, engine correction micro-projector, fuel additive pump, power sliding side door"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Heating nozzle"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "DMTR tracker"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Front and rear window washer pump"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "ARTIV unit, diagnostic connector, clutch switch, coolant level sensor, power steering ECU"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Rear air conditioner pump group"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Built-in system interface"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "",
+     "Front windscreen wiper"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Pump power, front and rear window washer"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Headlight washer pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Sound signal (horn)"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Right high beam headlight"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Left high beam headlight"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "",
+     "[Diesel] Heater"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment Fuse Box [B]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-spacetourer-2021-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F8",
+     "Fuse ATO",
+     "",
+     "Euro 6 [Diesel]: NOx and SCR sensors"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Windshield wiper, manual transmission, Ax6 III ECU"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Coolant and interior heater"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "ECU COMELEC Ax6 III"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Dual-function brake switch"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine Compartment Fuse Box [Eco]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-spacetourer-2021-genid-g1-4.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioner fan"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "60A",
+     "ABS/ESP system computer"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "80A",
+     "Interior fuse box 3"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "30A",
+     "ABS/ESP system computer"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "50A",
+     "Intelligent switch unit"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "60A",
+     "Two-speed cooling fan control unit (GMV)"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "70A",
+     "Intelligent switching box"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Engine control fuel pump, piloted thermostat, oil pump solenoid valve, intake air flow meter, oxygen sensors (EP6FADTX/EP6FDT)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Piloted lift pump (DW10F), intake/exhaust valve solenoids, piloted thermostat, oil pump solenoid valve, air flow meter, oxygen sensors"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Engine computer, [Diesel] flow control pump solenoid, turbo pressure control solenoid (DV5R/DW10F), thermostat, purge heater, valve solenoids (EP6FADTX), oxygen sensors (EB2ADTS)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Engine computer"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "5A",
+     "Instruments, GMV relay, Istars, DMTC, electric water cooling with turbocharging (EB2ADTS/EP6FADTX), intelligent service unit"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "Intelligent switch box"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Battery charge level unit"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Electrically heated windshield"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "GMP relay diagnostics, BFRM, BSI1, engine computer, lower NOx sensor (DV5R/DW10 injectors)"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Right high beam headlights"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Left high beam headlights"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Engine computer, charge pump (ER6EDT), ignition coils (EB2ADTS/EP6FADTX)"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "40A",
+     "Taxi (reserve)"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "40A",
+     "Starter / Alternator"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "40A",
+     "Passenger compartment fuse box 5"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "40A",
+     "Interior fuse box 3"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "15A",
+     "Heater"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "20A",
+     "Heater"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "25A",
+     "Intelligent switching unit"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "30A",
+     "Urea pump and urea tube heating resistor power (DV5R), NOx sensor (DW10F), engine computer (EP6FADTX) - AdBlue"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windshield wiper"
+    ],
+    [
+     "F30",
+     "Fuse MIDI",
+     "80A",
+     "Pre-heating unit"
+    ],
+    [
+     "F31",
+     "Fuse MIDI",
+     "80A",
+     "Switching and protection unit"
+    ],
+    [
+     "F32",
+     "Fuse MIDI",
+     "80A",
+     "Power steering, left low beam, static turn lights, side/left turn indicators, front left & rear right side lights, left brake lights, license plate lights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine control computer / Euro 6 [Diesel] SCR module power supply"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Air conditioning compressor / heated windshield"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter / thermal preconditioning"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fog lights / daytime running lights"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Air conditioner fan"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlights"
+    ]
+   ]
+  }
+ ]
+}
