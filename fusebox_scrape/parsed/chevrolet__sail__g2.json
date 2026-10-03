@@ -1,0 +1,444 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "sail",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Sail",
+ "model_id": null,
+ "generation_name": "2nd generation (SGM308, NS)",
+ "generation_code": "g2",
+ "year_start": 2010,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/chevrolet/sail/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Cabin Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-sail-2014-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Electric rearview mirrors"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Central locking"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Dashboard"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "LP reserve"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "ECM IGN ignition"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "ECM ACC ignition"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "SDM - sensing and diagnostic module"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "ABS IGN ignition"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Brake light"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Emergency light"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "7.5A",
+     "Rear fog light"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Front windshield wipers"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "Engine fan"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Cabin light"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "25A",
+     "Central locking"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Sunroof"
+    ],
+    [
+     "E4",
+     "Fuse MINI",
+     "10A",
+     "Reading light"
+    ],
+    [
+     "1",
+     "Relay",
+     "",
+     "Rear fog light relay"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Windshield wiper relay"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Fan relay"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Flasher relay"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Window relay"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "7",
+     "Relay",
+     "",
+     "Accessory relay"
+    ],
+    [
+     "D1",
+     "Diode MINI",
+     "",
+     "Diode"
+    ],
+    [
+     "D2",
+     "Diode MINI",
+     "",
+     "Diode"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-sail-2014-genid-g2-1.webp",
+   "fuses": [
+    [
+     "EF1",
+     "Fuse MINI",
+     "15A",
+     "Front fog"
+    ],
+    [
+     "EF2",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "EF3",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "EF4",
+     "Fuse MINI",
+     "10A",
+     "LH tail lights"
+    ],
+    [
+     "EF5",
+     "Fuse MINI",
+     "10A",
+     "RH tail lights"
+    ],
+    [
+     "EF6",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "EF7",
+     "Fuse MINI",
+     "20A",
+     "Position light"
+    ],
+    [
+     "EF8",
+     "Fuse MINI",
+     "30A",
+     "Rear defog"
+    ],
+    [
+     "EF9",
+     "Fuse MINI",
+     "15A",
+     "ABS"
+    ],
+    [
+     "EF10",
+     "Fuse MINI",
+     "25A",
+     "Headlamp"
+    ],
+    [
+     "EF12",
+     "Fuse MINI",
+     "15A",
+     "Front O2 sensor"
+    ],
+    [
+     "EF13",
+     "Fuse MINI",
+     "15A",
+     "Rear O2 sensor"
+    ],
+    [
+     "EF14",
+     "Fuse MINI",
+     "30A",
+     "Main relay"
+    ],
+    [
+     "EF15",
+     "Fuse MINI",
+     "10A",
+     "ECU"
+    ],
+    [
+     "EF16",
+     "Fuse MINI",
+     "15A",
+     "Injector"
+    ],
+    [
+     "EF17",
+     "Fuse MINI",
+     "15A",
+     "ECU2"
+    ],
+    [
+     "EF20",
+     "Fuse MINI",
+     "15A",
+     "TCM"
+    ],
+    [
+     "EF21",
+     "Fuse MINI",
+     "30A",
+     "Pump relay"
+    ],
+    [
+     "EF25",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low LH"
+    ],
+    [
+     "EF26",
+     "Fuse MINI",
+     "10A",
+     "Headlamp high LH"
+    ],
+    [
+     "EF27",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low RH"
+    ],
+    [
+     "EF28",
+     "Fuse MINI",
+     "10A",
+     "Headlamp high RH"
+    ],
+    [
+     "JEF1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window"
+    ],
+    [
+     "JEF2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "JEF3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan"
+    ],
+    [
+     "JEF4",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "JEF5",
+     "Fuse FMX/JCase",
+     "30A",
+     "ACC/IGN 1"
+    ],
+    [
+     "JEF6",
+     "Fuse FMX/JCase",
+     "30A",
+     "IGN2/START"
+    ],
+    [
+     "JEF7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery to IP"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Compressor relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "High relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Position light relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlight relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "TCM relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "High fan relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Low fan relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Starter relay"
+    ]
+   ]
+  }
+ ]
+}
