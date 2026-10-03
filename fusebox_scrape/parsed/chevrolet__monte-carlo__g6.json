@@ -1,0 +1,468 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "monte-carlo",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Monte Carlo",
+ "model_id": 1165,
+ "generation_name": "6th generation (W-body)",
+ "generation_code": "g6",
+ "year_start": 2000,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/chevrolet/monte-carlo/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-monte-carlo-2007-genid-g6-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Circuit breaker MAXI",
+     "",
+     "Power seats"
+    ],
+    [
+     "F2",
+     "Circuit breaker MAXI",
+     "",
+     "Power window"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Retained accessory power"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Door locks"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Heated seats"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Auxiliary outlets"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "XM radio"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Canister"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Power mirrors"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Airbags"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Trunk"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Trunk relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-monte-carlo-2007-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 4"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 1"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "Anti-lock brake system motor 2"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "Anti-lock brake system motor 1"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Air pump"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 3"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 2"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Airbag, display"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Steering wheel"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Interior lamps"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Interior lamps, instrument panel dimmer"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Body control module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Center high-mounted stoplamp, back-up lamps"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Display"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "AIR (air injection reactor) solenoid"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Electronic throttle control, engine control module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Injector 1"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Emissions 1"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Injector 2"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Emissions 2"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Transaxle"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Engine control module, transaxle control module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Engine control module, ignition"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Wiper"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Heated mirror"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Auxiliary power"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Right spot"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Left spot"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Driver's side parking lamp"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Passenger's side turn signal"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control sensor"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Passenger's side parking lamp"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Driver's side turn signal"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Audio system"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "Driver's side low-beam"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Passenger's side low-beam"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Driver's side high-beam"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Passenger's side high-beam"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Headlamp module"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps 2"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "Windshield wiper"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps 1"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "Power drop, crank"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Cooling fan 3"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Powertrain"
+    ]
+   ]
+  }
+ ]
+}
