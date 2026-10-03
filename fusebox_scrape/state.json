@@ -305,12 +305,12 @@
     "z8"
    ]
   },
-  "buick": 19
+  "buick": 19,
+  "byd": 1
  },
  "in_progress": {},
  "queue_next_makes": [
   "arcfox",
-  "byd",
   "cadillac",
   "chery",
   "chevrolet",
@@ -587,10 +587,26 @@
   "byd/flyer": "no_data",
   "byd/g3": "no_data",
   "byd/g6": "no_data",
-  "byd/f0": "done"
+  "byd/f0": "done",
+  "byd/han-ev": "no_data",
+  "byd/king": "no_data",
+  "byd/l3": "no_data",
+  "byd/m6": "no_data",
+  "byd/qin": "no_data",
+  "byd/qin-plus": "no_data",
+  "byd/s6": "no_data",
+  "byd/s7": "no_data",
+  "byd/seagull": "no_data",
+  "byd/seal": "no_data",
+  "byd/shark": "no_data",
+  "byd/song-plus": "no_data",
+  "byd/song-pro": "no_data",
+  "byd/tang": "no_data",
+  "byd/yuan-plus": "no_data",
+  "byd/yuan-pro": "no_data"
  },
- "last_updated": "2026-10-03T20:40:34.211635",
- "current_brand": "byd",
+ "last_updated": "2026-10-03T20:41:03.957235",
+ "current_brand": "cadillac",
  "audi_done_models": [
   "a1",
   "a2",
@@ -680,7 +696,23 @@
   "byd/f6",
   "byd/flyer",
   "byd/g3",
-  "byd/g6"
+  "byd/g6",
+  "byd/han-ev",
+  "byd/king",
+  "byd/l3",
+  "byd/m6",
+  "byd/qin",
+  "byd/qin-plus",
+  "byd/s6",
+  "byd/s7",
+  "byd/seagull",
+  "byd/seal",
+  "byd/shark",
+  "byd/song-plus",
+  "byd/song-pro",
+  "byd/tang",
+  "byd/yuan-plus",
+  "byd/yuan-pro"
  ],
  "brand_aliases": {
   "lynk-co": "Lynk & Co",
@@ -882,6 +914,22 @@
   "f6",
   "flyer",
   "g3",
-  "g6"
+  "g6",
+  "han-ev",
+  "king",
+  "l3",
+  "m6",
+  "qin",
+  "qin-plus",
+  "s6",
+  "s7",
+  "seagull",
+  "seal",
+  "shark",
+  "song-plus",
+  "song-pro",
+  "tang",
+  "yuan-plus",
+  "yuan-pro"
  ]
 }
