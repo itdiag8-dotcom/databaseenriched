@@ -1,0 +1,390 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "epica",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Epica",
+ "model_id": 1132,
+ "generation_name": "1st generation (V200)",
+ "generation_code": "g1",
+ "year_start": 2000,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/chevrolet/epica/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-epica-2004-genid-g1-0.webp",
+   "fuses": [
+    [
+     "ECM",
+     "Fuse MINI",
+     "",
+     "Engine main relay, fuel pump relay, engine control module (ECM)"
+    ],
+    [
+     "BCK/UP CRUISE",
+     "Fuse MINI",
+     "",
+     "Back-up lamp switch, cruise control"
+    ],
+    [
+     "ABS",
+     "Fuse MINI",
+     "",
+     "Electronic brake control module (EBCM), A/D converter"
+    ],
+    [
+     "AUTO A/C BCM",
+     "Fuse MINI",
+     "",
+     "Automatic temperature control, A/C compressor relay, body control module (BCM)"
+    ],
+    [
+     "HVAC EPS",
+     "Fuse MINI",
+     "",
+     "Manual air conditioning, electronic power steering (EPS)"
+    ],
+    [
+     "AIRBAG",
+     "Fuse MINI",
+     "",
+     "Sensing and diagnostic module (SDM)"
+    ],
+    [
+     "TCM BTSI",
+     "Fuse MINI",
+     "",
+     "Transmission control module (TCM), brake transmission shift-interlock (BTSI)"
+    ],
+    [
+     "BCM ABS",
+     "Fuse MINI",
+     "",
+     "Body control module (BCM), antilock brake system (ABS)"
+    ],
+    [
+     "CLSTR AUTO A/C",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster, automatic temperature control, daytime running lamps (DRL)"
+    ],
+    [
+     "LTR",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter, glove box lamp"
+    ],
+    [
+     "RADIO",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "CLK",
+     "Fuse MINI",
+     "",
+     "Clock, dome lamp, key interlock unit"
+    ],
+    [
+     "WSWA",
+     "Fuse MINI",
+     "",
+     "Windshield washer"
+    ],
+    [
+     "WPR",
+     "Fuse MINI",
+     "",
+     "Wiper"
+    ],
+    [
+     "HTD/MIR",
+     "Fuse MINI",
+     "",
+     "Outside rearview mirror (OSRVM), rear glass defogger switch"
+    ],
+    [
+     "RADIO CRUISE",
+     "Fuse MINI",
+     "",
+     "Radio battery positive voltage, cruise"
+    ],
+    [
+     "HTD/SEAT",
+     "Fuse MINI",
+     "",
+     "Heating mat, accessory power outlet"
+    ],
+    [
+     "AUTO A/C CLSTR",
+     "Fuse MINI",
+     "",
+     "Automatic temperature control, cluster"
+    ],
+    [
+     "DLC",
+     "Fuse MINI",
+     "",
+     "Data link connector (DLC)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-epica-2004-genid-g1-1.webp",
+   "fuses": [
+    [
+     "LOW BEAM RT",
+     "Fuse MINI",
+     "",
+     "Right side headlamp low beam"
+    ],
+    [
+     "LOW BEAM LT",
+     "Fuse MINI",
+     "",
+     "Left side headlamp low beam"
+    ],
+    [
+     "INT LTS",
+     "Fuse MINI",
+     "",
+     "Interior lamp"
+    ],
+    [
+     "A/C",
+     "Fuse MINI",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "HI BEAM PASSING",
+     "Fuse MINI",
+     "",
+     "Headlamp passing light"
+    ],
+    [
+     "HI BEAM",
+     "Fuse MINI",
+     "",
+     "Headlamp high beam"
+    ],
+    [
+     "FUEL",
+     "Fuse MINI",
+     "",
+     "Fuel pump, data link connector (DLC)"
+    ],
+    [
+     "ECM",
+     "Fuse MINI",
+     "",
+     "Ignition coil"
+    ],
+    [
+     "COOL FAN HI",
+     "Fuse FMX/JCase",
+     "",
+     "Electric cooling fan high speed"
+    ],
+    [
+     "BCM BATT",
+     "Fuse FMX/JCase",
+     "",
+     "Body control module (BCM)"
+    ],
+    [
+     "IGN 1",
+     "Fuse FMX/JCase",
+     "",
+     "Ignition key (ACC, ON, START)"
+    ],
+    [
+     "FOG LAMPS",
+     "Fuse MINI",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "STOP LAMPS",
+     "Fuse MINI",
+     "",
+     "Brake switch"
+    ],
+    [
+     "I/P FUSE BATT",
+     "Fuse MINI",
+     "",
+     "Instrument panel fuse box"
+    ],
+    [
+     "ILLUM RT",
+     "Fuse MINI",
+     "",
+     "Illumination, right parking lamp"
+    ],
+    [
+     "ILLUM LT",
+     "Fuse MINI",
+     "",
+     "Left parking lamp"
+    ],
+    [
+     "HVAC BLWR",
+     "Fuse FMX/JCase",
+     "",
+     "Blower motor"
+    ],
+    [
+     "IGN 2",
+     "Fuse FMX/JCase",
+     "",
+     "Ignition key (ON, START)"
+    ],
+    [
+     "FOG DIODE",
+     "Fuse MINI",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "PWR/MIR",
+     "Fuse MINI",
+     "",
+     "Power mirror"
+    ],
+    [
+     "DRL",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "ENG 2",
+     "Fuse MINI",
+     "",
+     "Injector, variable induction system (VIS), EEGR, canister purge solenoid"
+    ],
+    [
+     "ENG 1",
+     "Fuse MINI",
+     "",
+     "Oxygen sensor, generator, engine control module (ECM)"
+    ],
+    [
+     "COOL FAN LOW",
+     "Fuse FMX/JCase",
+     "",
+     "Electric cooling fan low speed"
+    ],
+    [
+     "ABS",
+     "Fuse FMX/JCase",
+     "",
+     "Electronic brake control module (EBCM)"
+    ],
+    [
+     "PWR/SEAT",
+     "Fuse MINI",
+     "",
+     "Front power seat"
+    ],
+    [
+     "S/ROOF",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "ECM 1",
+     "Fuse MINI",
+     "",
+     "Engine control module (ECM), transmission control module (TCM), engine main relay"
+    ],
+    [
+     "PWR WNDW",
+     "Fuse FMX/JCase",
+     "",
+     "Power window"
+    ],
+    [
+     "COOL FAN HI_R",
+     "Relay",
+     "",
+     "Electric cooling fan high speed"
+    ],
+    [
+     "A/C CMPRSR",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "HEAD LAMP",
+     "Relay",
+     "",
+     "Headlamp"
+    ],
+    [
+     "COOL FAN CNTRL",
+     "Relay",
+     "",
+     "Electric cooling fan control"
+    ],
+    [
+     "FRT FOG",
+     "Relay",
+     "",
+     "Front fog lamp"
+    ],
+    [
+     "HORN_R",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "ILLUM LAMPS",
+     "Relay",
+     "",
+     "Taillamp"
+    ],
+    [
+     "FUEL PUMP",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "COOL FAN LOW_R",
+     "Relay",
+     "",
+     "Electric cooling fan low speed"
+    ],
+    [
+     "PWR WNDW1",
+     "Relay",
+     "",
+     "Power window"
+    ],
+    [
+     "ENG MAIN",
+     "Relay",
+     "",
+     "Engine control module (ECM), ignition coil"
+    ]
+   ]
+  }
+ ]
+}

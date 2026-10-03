@@ -1,0 +1,505 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "epica",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Epica",
+ "model_id": 1132,
+ "generation_name": "2nd generation (V250)",
+ "generation_code": "g2",
+ "year_start": 2006,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/chevrolet/epica/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-epica-2010-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "30A",
+     "HVAC BLWR - AC blower motor"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "60A",
+     "BCM BATT - Body control module"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS - Anti-lock braking system"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "IGN 1 - Ignition"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Passenger's power window"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "COOL FAN HI - Cooling fan high speed relay [petrol engine]"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "COOL FAN HI - Cooling fan high speed relay [diesel engine]"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "20A",
+     "COOL FAN LOW - Cooling fan low speed relay [petrol engine]"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "COOL FAN LOW - Cooling fan low speed relay [diesel engine]"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "ST/IG2 - Ignition switch, starter relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "ABS warning"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "S/ROOF - Sunroof"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "ABS - Anti-lock braking system"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "HI BEAM - Headlights high beam"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "DRIVER'S PWR WIDW - Safe power window assembly"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "PWR MIRROR - Power control mirror"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "ILLUM RT - Headlight right, parking light right, rear side light right"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "LCM"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "25A",
+     "IP FUSE - Dashboard fuse box"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "STOP LAMPS - Stop lights"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "ILLUM LT - Headlight left, parking light left, tail light left, license plate lighting"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "30A",
+     "PWR SEAT - Power seats"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "FUEL - Fuel pump"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "ECM - Engine control unit"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "IGN COIL - Ignition coil"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "HORN - Horn"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "ENG2 - Engine control system"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "20A",
+     "ENG3 - Engine control system"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "ENG1 - Engine control system"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "FRT FOG - Front fog lights"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Low beam LT"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "PWR AMP - Audio system"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Low beam RT"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "A/C CMPRSR - Air conditioning compressor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan control relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan hi speed relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front fog lights relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan low speed relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Head lamp low relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Engine main relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Illumination lamps (side light) relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Head lamp hi relay - headlights high beam"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Power windows relay"
+    ],
+    [
+     "ALT",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "ALTERNATOR - Battery and charging system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger's Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-epica-2010-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "CLUSTER2 - Instrument cluster, information display unit, LCM, RKE module, TCM, PNP switch"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "25A",
+     "WIPER - Wiper/washer switch, wiper motor, rain sensor unit"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "ECU"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "HVAC - ISU, fan relay, MTC/FATC switch, mode select actuator, recirculation actuator"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "CLOCK - Front courtesy lamp/sunroof switch, LCM, digital clock"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "RADIO - Audio system, navigation module"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "HEATING MAT - Heated carpet switch driver/passenger"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "AUDIO - Audio system"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "CLUSTER1 - Instrument cluster, MTC/FATC switch, digital clock, information display unit, LCM, inserted key switch, RKE module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "HR"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "AIR BAG - Passenger airbag/seat belt warning lamp, PPD sensor"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "LCM"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "CIGAR - Additional socket, cigarette lighter"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "SUB WOOFER - Speaker subwoofer"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "B/UP LP - Shift lever, PNP switch, reverse switch, ECM mirror, brake switch, instrument cluster"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "U/H J/B - ECM, fuel pump module, automatic transaxle, MAF sensor"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "BCM - ISU, wiper/washer switch"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "OSRVM - Power mirror driver/passenger, MTC/FATC switch"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "SSPS - SSPS module"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "ALDL - DLC, trunk release switch"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "30A",
+     "ESP - Electronic stability program"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Auxiliary Engine Compartment Fuses and Relays [Diesel only]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-epica-2010-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC3 - Additional heater"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC2 - Additional heater"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC1 - Additional heater"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "F/F HTR - Fuel filter heater"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "60A",
+     "GPCU - Glow plug control"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PTC3 - Additional heater"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PTC2 - Additional heater"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PTC1 - Additional heater"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "F/F HTR - Fuel filter heater"
+    ]
+   ]
+  }
+ ]
+}
