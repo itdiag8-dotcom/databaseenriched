@@ -1,0 +1,425 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "grand-caravan",
+ "brand_db": "Dodge",
+ "model_db_name": "Grand Caravan",
+ "model_id": 1448,
+ "generation_name": "Grand Caravan G5",
+ "generation_code": "g5",
+ "year_start": 2008,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/dodge/grand-caravan/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Totally Integrated Power Module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-grand-caravan-2017-genid-dodge__caravan_g5-0.webp",
+   "fuses": [
+    [
+     "J1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power folding seat"
+    ],
+    [
+     "J2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power liftgate module"
+    ],
+    [
+     "J3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear door module"
+    ],
+    [
+     "J4",
+     "Fuse FMX/JCase",
+     "25A",
+     "Driver door node"
+    ],
+    [
+     "J5",
+     "Fuse FMX/JCase",
+     "25A",
+     "Passenger door node"
+    ],
+    [
+     "J6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Antilock brakes pump / stability control system"
+    ],
+    [
+     "J7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Antilock brakes valve / stability control system"
+    ],
+    [
+     "J8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power memory seat [if equipped]"
+    ],
+    [
+     "J10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp wash / manifold tuning valve [if equipped]"
+    ],
+    [
+     "J11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power sliding door module / anti-theft module [if equipped]"
+    ],
+    [
+     "J12",
+     "Fuse",
+     "30A",
+     "HVAC rear blower, radiator fan motor"
+    ],
+    [
+     "J13",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition off draw (IOD) - main"
+    ],
+    [
+     "J14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "J15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower"
+    ],
+    [
+     "J17",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter solenoid"
+    ],
+    [
+     "J18",
+     "Fuse FMX/JCase",
+     "20A",
+     "Powertrain control module trans range"
+    ],
+    [
+     "J19",
+     "Fuse FMX/JCase",
+     "60A",
+     "Radiator fan"
+    ],
+    [
+     "J20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wiper low/high"
+    ],
+    [
+     "J21",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front/rear washer"
+    ],
+    [
+     "J22",
+     "Fuse FMX/JCase",
+     "25A",
+     "Sunroof module"
+    ],
+    [
+     "M1",
+     "Fuse MINI",
+     "15A",
+     "Rear center brake lamp / brake switch"
+    ],
+    [
+     "M2",
+     "Fuse MINI",
+     "20A",
+     "Front fog lamps"
+    ],
+    [
+     "M3",
+     "Fuse MINI",
+     "20A",
+     "Vacuum pump motor"
+    ],
+    [
+     "M5",
+     "Fuse MINI",
+     "25A",
+     "Inverter"
+    ],
+    [
+     "M6",
+     "Fuse MINI",
+     "20A",
+     "Power outlet #1 (ACC), rain sensor, cigar lighter"
+    ],
+    [
+     "M7",
+     "Fuse MINI",
+     "20A",
+     "Power outlet #2 (BATT/ACC select) - center seat or console rear"
+    ],
+    [
+     "M8",
+     "Fuse MINI",
+     "20A",
+     "Front heated seat [if equipped]"
+    ],
+    [
+     "M9",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seat [if equipped]"
+    ],
+    [
+     "M10",
+     "Fuse MINI",
+     "15A",
+     "IOD - video system, satellite radio, DVD, hands-free module, garage door opener, vanity lamp"
+    ],
+    [
+     "M11",
+     "Fuse MINI",
+     "10A",
+     "Climate control system"
+    ],
+    [
+     "M12",
+     "Fuse MINI",
+     "30A",
+     "Amplifier/radio"
+    ],
+    [
+     "M13",
+     "Fuse MINI",
+     "20A",
+     "Instrument cluster, siren, clock module, multifunction control switch"
+    ],
+    [
+     "M14",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow [if equipped]"
+    ],
+    [
+     "M15",
+     "Fuse MINI",
+     "20A",
+     "Rear view mirror, instrument cluster, multifunction control switch, tire pressure monitor"
+    ],
+    [
+     "M16",
+     "Fuse MINI",
+     "10A",
+     "Airbag module / occupant classification module"
+    ],
+    [
+     "M17",
+     "Fuse MINI",
+     "15A",
+     "Left tail/license/park lamp, running lamps"
+    ],
+    [
+     "M18",
+     "Fuse MINI",
+     "15A",
+     "Right tail/park/run lamp"
+    ],
+    [
+     "M19",
+     "Fuse MINI",
+     "25A",
+     "Powertrain"
+    ],
+    [
+     "M20",
+     "Fuse MINI",
+     "15A",
+     "Instrument cluster interior light, switch bank, steering column module, steering wheel switch"
+    ],
+    [
+     "M21",
+     "Fuse MINI",
+     "20A",
+     "Powertrain"
+    ],
+    [
+     "M22",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "M23",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "M24",
+     "Fuse MINI",
+     "25A",
+     "Rear wiper"
+    ],
+    [
+     "M25",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "M26",
+     "Fuse MINI",
+     "10A",
+     "Power mirror switch, driver window switch"
+    ],
+    [
+     "M27",
+     "Fuse MINI",
+     "10A",
+     "Wireless control module, keyless entry module"
+    ],
+    [
+     "M28",
+     "Fuse MINI",
+     "10A",
+     "Powertrain, transmission control module"
+    ],
+    [
+     "M29",
+     "Fuse MINI",
+     "10A",
+     "Occupant classification module"
+    ],
+    [
+     "M30",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic feed"
+    ],
+    [
+     "M31",
+     "Fuse MINI",
+     "20A",
+     "Back-up lamps"
+    ],
+    [
+     "M32",
+     "Fuse MINI",
+     "10A",
+     "Airbag module, Thatcham [if equipped]"
+    ],
+    [
+     "M33",
+     "Fuse MINI",
+     "10A",
+     "Powertrain"
+    ],
+    [
+     "M34",
+     "Fuse MINI",
+     "10A",
+     "Park assist, heater climate control module, headlamp wash, compass, rear camera, door lamps"
+    ],
+    [
+     "M35",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "M36",
+     "Fuse MINI",
+     "20A",
+     "Power outlet #3 (instrument panel or console center)"
+    ],
+    [
+     "M37",
+     "Fuse MINI",
+     "10A",
+     "Antilock brakes, stability control, stop lamp, fuel pump"
+    ],
+    [
+     "M38",
+     "Fuse MINI",
+     "25A",
+     "Door lock/unlock motors, liftgate lock/unlock motors"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "RUN-ACC relay"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "RUN relay"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "RUN/START relay"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Transmission control relay"
+    ],
+    [
+     "K6",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "Rear blower motor relay"
+    ],
+    [
+     "K9",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Auto shutdown relay"
+    ],
+    [
+     "K11",
+     "Relay",
+     "",
+     "Radiator fan low relay"
+    ]
+   ]
+  }
+ ]
+}
