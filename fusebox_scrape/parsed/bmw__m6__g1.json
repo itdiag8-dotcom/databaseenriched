@@ -1,0 +1,794 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "m6",
+ "brand_db": "BMW",
+ "model_db_name": "M6",
+ "model_id": 777,
+ "generation_name": "2nd generation",
+ "generation_code": "E63/E64",
+ "year_start": 2005,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/bmw/m6/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Trunk fuse box (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m6-2007-genid-g2-0.webp",
+   "fuses": [
+    [
+     "50",
+     "Fuse ATO",
+     "5A",
+     "Fuel pump output stage; siren and tilt alarm sensor"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "5A",
+     "Electrochromic interior rear view mirror; door sensors"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "40A",
+     "Folding roof drive motor"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "Seat backrest adjustment actuator motor"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "40A",
+     "Rear window heater"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "5A",
+     "Rain/sunlight sensor"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "5A",
+     "Air conditioner/heater fan control unit"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "5A",
+     "Audio system antenna"
+    ],
+    [
+     "62",
+     "Fuse ATO",
+     "30A",
+     "Rear window lowering and raising relay"
+    ],
+    [
+     "64",
+     "Fuse ATO",
+     "15A",
+     "Air conditioner/heater fan control unit"
+    ],
+    [
+     "66",
+     "Fuse ATO",
+     "20A",
+     "Panoramic glass roof [E63] / convertible top module [E64]"
+    ],
+    [
+     "67",
+     "Fuse ATO",
+     "10A",
+     "Automatic soft door closing system"
+    ],
+    [
+     "68",
+     "Fuse ATO",
+     "5A",
+     "Automatic soft door closing system"
+    ],
+    [
+     "69",
+     "Fuse ATO",
+     "5A",
+     "Parking system control unit"
+    ],
+    [
+     "70",
+     "Fuse ATO",
+     "10A",
+     "Active cruise control; long-range sensor; near field sensors left/right"
+    ],
+    [
+     "71",
+     "Fuse ATO",
+     "30A",
+     "Multifunction switch assembly"
+    ],
+    [
+     "72",
+     "Fuse ATO",
+     "20A",
+     "Fuel module relay (fuel pump) [N62] / fuel pump control EKPS [diesel]"
+    ],
+    [
+     "73",
+     "Fuse ATO",
+     "30A",
+     "Audio output amplifier [up to 08/07]; center console"
+    ],
+    [
+     "74",
+     "Fuse ATO",
+     "10A",
+     "Driver and passenger seat adjustment switches; satellite receiver"
+    ],
+    [
+     "75",
+     "Fuse ATO",
+     "10A",
+     "Digital tuner; video module"
+    ],
+    [
+     "76",
+     "Fuse ATO",
+     "10A",
+     "Dynamic drive"
+    ],
+    [
+     "77",
+     "Fuse ATO",
+     "10A",
+     "Main display"
+    ],
+    [
+     "78",
+     "Fuse ATO",
+     "5A",
+     "ABS electronic control unit"
+    ],
+    [
+     "79",
+     "Fuse ATO",
+     "10A",
+     "Central information display, controller"
+    ],
+    [
+     "80",
+     "Fuse ATO",
+     "10A",
+     "TCU (telematics), phone compensator, night vision module, selector lever, gear shift indicator"
+    ],
+    [
+     "82",
+     "Fuse ATO",
+     "7.5A",
+     "Tire pressure monitoring control unit"
+    ],
+    [
+     "83",
+     "Fuse ATO",
+     "30A",
+     "Active backrest width adjustment, driver's seat"
+    ],
+    [
+     "84",
+     "Fuse ATO",
+     "15A",
+     "Sequential manual transmission (SMG); transmission control"
+    ],
+    [
+     "86",
+     "Fuse ATO",
+     "40A",
+     "Power steering"
+    ],
+    [
+     "87",
+     "Fuse ATO",
+     "20A",
+     "Front cigarette lighter; charging socket in the glove box"
+    ],
+    [
+     "89",
+     "Fuse ATO",
+     "5A",
+     "Electrochromic interior rear view mirror; power saving relay, terminal 15"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Trunk fuse box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m6-2007-genid-g2-1.webp",
+   "fuses": [
+    [
+     "50",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump relay [M54, N62], fuel pump control EKPS [N52, diesel], fuel pump output stage [S85]"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer pump"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "5A",
+     "Siren and tilt alarm sensor, electrochromic interior mirror, microwave sensors"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "10A",
+     "Micro-power module"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "40A",
+     "Convertible top relays 1\u20132 [E64 only]"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "Active backrest width adjustment (driver, passenger)"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "5A",
+     "Rain/headlight sensor"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "40A",
+     "Boot lid lift"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "5A",
+     "Rain/headlight sensor"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "5A",
+     "Heating/air conditioning system [IHKA Basic]"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "20A",
+     "Rear wiper relay"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "5A",
+     "Aerial tuner with remote control receiver"
+    ],
+    [
+     "60",
+     "Fuse ATO",
+     "5A",
+     "Rollover protection controller"
+    ],
+    [
+     "61",
+     "Fuse ATO",
+     "7.5A",
+     "Cooler box"
+    ],
+    [
+     "62",
+     "Fuse ATO",
+     "30A",
+     "Rear window raise/lower relays [E64 only]"
+    ],
+    [
+     "63",
+     "Fuse ATO",
+     "20A",
+     "Independent auxiliary heater"
+    ],
+    [
+     "64",
+     "Fuse ATO",
+     "15A",
+     "Heating/air conditioning system [IHKA High]"
+    ],
+    [
+     "66",
+     "Fuse ATO",
+     "20A",
+     "Panorama glass roof [E63], convertible top module [E64]"
+    ],
+    [
+     "67",
+     "Fuse ATO",
+     "20A",
+     "Automatic soft-close drive, passenger door [LHD] / driver door [RHD], rear right"
+    ],
+    [
+     "68",
+     "Fuse ATO",
+     "20A",
+     "Automatic soft-close drive, driver door [LHD] / passenger door [RHD], rear left"
+    ],
+    [
+     "69",
+     "Fuse ATO",
+     "5A",
+     "Park distance control (PDC)"
+    ],
+    [
+     "70",
+     "Fuse ATO",
+     "10A",
+     "Active cruise control [up to 2007]"
+    ],
+    [
+     "70",
+     "Fuse ATO",
+     "10A",
+     "Active cruise control, far-range sensor, close-range sensors left/right"
+    ],
+    [
+     "71",
+     "Fuse ATO",
+     "30A",
+     "Centre console switch centre"
+    ],
+    [
+     "72",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump relay [N62], fuel pump control EKPS [diesel]"
+    ],
+    [
+     "73",
+     "Fuse ATO",
+     "30A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "73",
+     "Fuse ATO",
+     "40A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "74",
+     "Fuse ATO",
+     "10A",
+     "Centre console switch centre, seat adjustment switches (driver, passenger)"
+    ],
+    [
+     "75",
+     "Fuse ATO",
+     "10A",
+     "Satellite receiver, digital tuner, video module"
+    ],
+    [
+     "76",
+     "Fuse ATO",
+     "10A",
+     "Dynamic drive"
+    ],
+    [
+     "77",
+     "Fuse ATO",
+     "10A",
+     "Head-up display, headset connection module"
+    ],
+    [
+     "78",
+     "Fuse ATO",
+     "5A",
+     "Dynamic Stability Control (DSC), transfer box control unit"
+    ],
+    [
+     "79",
+     "Fuse ATO",
+     "10A",
+     "Central information display, controller"
+    ],
+    [
+     "82",
+     "Fuse ATO",
+     "7.5A",
+     "Tyre pressure control (RDC)"
+    ],
+    [
+     "83",
+     "Fuse ATO",
+     "30A",
+     "Active backrest width adjustment, driver [LHD] / passenger [RHD]"
+    ],
+    [
+     "84",
+     "Fuse ATO",
+     "15A",
+     "Transmission control, Sequential Manual Transmission (SMG)"
+    ],
+    [
+     "85",
+     "Fuse ATO",
+     "7.5A",
+     "Sequential Manual Transmission (SMG)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m6-2007-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "50A",
+     "Dynamic Stability Control (DSC) / ABS electronic unit"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "60A",
+     "Secondary air pump relay [petrol], fuel heater [diesel]"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Blower output stage"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "Power-saving relay, electronic damper control"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "20A",
+     "Energy saving relay; electronic damper control"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "50A",
+     "Light module"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "50A",
+     "Light module"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "50A",
+     "Car access system"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "30A",
+     "Ignition / starter electronics"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "60A",
+     "Engine management power: IVM [N62], engine electronics fuse holder [N62 SMG], B+ potential distributor & DME relay [S85/N52]"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "60A",
+     "Integrated supply module (IVM) [N62]"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "60A",
+     "Engine electronics fuse carrier (F01: SMG hydraulic pump relay) [N62 with SMG]"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "60A",
+     "B+ potential distributor, DME control unit & relay, engine electronics fuse carrier (injector/VVT/SMG/breather heater relays) [N52]"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "60A",
+     "Electric fan"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "30A",
+     "Body gateway module (window lift driver's side [LHD] / passenger's side [RHD])"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Basic body module (central locking, window lift, windscreen wiper relay)"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "30A",
+     "Body gateway module (window lift passenger's side [LHD] / driver's side [RHD])"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "30A",
+     "VTG transfer case; transfer box control unit"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Sequential manual transmission (SMG)"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "30A",
+     "Front seat module / seat adjustment & lumbar support switches (semi-electric basic seat)"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Car access system"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper relay"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "5A",
+     "Steering column switch cluster"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "Body gateway module"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "5A",
+     "Gear indicator lighting [USA]; EDC electronic damper control [S85]"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "Independent auxiliary heater [SHZH]; power-saving relay electronic damper control [EDC]"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Front right seat module / seat adjustment & lumbar support switches (semi-electric basic seat)"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Basic body module (rear window lift driver's side [LHD] / passenger's side [RHD])"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "30A",
+     "Electric vacuum pump relay [S85]"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Basic body module (rear window lift passenger's side [LHD] / driver's side [RHD])"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "Dynamic Stability Control (DSC) / ABS electronic unit"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "7.5A",
+     "Heating/air conditioning system [IHKA Basic]"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "20A",
+     "Power-saving relay, terminal 15"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "30A",
+     "Basic body module (central locking system)"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "20A",
+     "Steering column switch cluster"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "10A",
+     "OBD-II socket, airbag"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "15A",
+     "Heating/air conditioning system [IHKA High]"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump output stage, fuel pump relay"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "30A",
+     "Front left seat module [LHD] / front right [RHD] (heated, active backrest width, active seat)"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "10A",
+     "Driver's door switch block, electrochromic outside mirrors"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "30A",
+     "Centre console switch centre; front right seat module [LHD] / front left [RHD]"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "30A",
+     "CCC/M-ASK"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "20A",
+     "CCC/M-ASK"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "5A",
+     "Navigation system"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "7.5A",
+     "Comfort access control unit, outer door handle electronic modules"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "5A",
+     "TCU (telematics), ULF hands-free / ULF-SBX interface boxes, USB hub, eject box"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "10A",
+     "TCU (telematics), ULF hands-free unit, eject box [as of 2007]"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "5A",
+     "CD changer"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "10A",
+     "CD changer"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "10A",
+     "DVD changer"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "15A",
+     "Sequential manual transmission (SMG) [S85]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel module relay (fuel pump)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Trunk fuse box (reverse side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m6-2007-genid-g2-3.webp",
+   "fuses": [
+    [
+     "90",
+     "Fuse MIDI",
+     "200A",
+     "Front fuse holder (fuses 1\u201333)"
+    ],
+    [
+     "91",
+     "Fuse MIDI",
+     "100A",
+     "DDE main relay [diesel]; IVM, VVT relays 1\u20132, variable valve timing gear control unit [N62 TU]"
+    ],
+    [
+     "92",
+     "Fuse MIDI",
+     "100A",
+     "Electric auxiliary heater"
+    ]
+   ]
+  }
+ ]
+}
