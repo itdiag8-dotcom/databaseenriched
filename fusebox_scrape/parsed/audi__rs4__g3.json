@@ -1,0 +1,722 @@
+{
+ "make_slug": "audi",
+ "model_slug": "rs4",
+ "brand_db": "Audi",
+ "model_db_name": "RS4 Avant B8",
+ "model_id": 375,
+ "generation_name": "generation B8",
+ "generation_code": "Typ 8K",
+ "year_start": 2013,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/audi/rs4/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Left cockpit fuse",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs4-2013-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Dynamic steering"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "ESC control module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "A/C pressure sensor, parking brake, HomeLink, auto-dimming mirror, air quality sensor, ESC button"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Sound actuator"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Exhaust sound tuning"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Headlight range control system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Cornering light"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Headlight (cornering light)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Control modules (parking brake, shock absorber, quattro sport, trailer hitch), DCDC converter"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Adaptive cruise control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Shift gate"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Side assist"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Headlight range control, parking system"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Rear wiper (allroad)"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Auxiliary fuse (instrument panel)"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "40A",
+     "Auxiliary fuse terminal 15 (engine area)"
+    ],
+    [
+     "2m",
+     "Fuse ATO",
+     "5A",
+     "Brake light sensor"
+    ],
+    [
+     "3m",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump"
+    ],
+    [
+     "4m",
+     "Fuse ATO",
+     "5A",
+     "Clutch sensor"
+    ],
+    [
+     "5m",
+     "Fuse ATO",
+     "15A",
+     "Left seat heating with seat ventilation"
+    ],
+    [
+     "5m",
+     "Fuse ATO",
+     "30A",
+     "Left seat heating without seat ventilation"
+    ],
+    [
+     "6m",
+     "Fuse ATO",
+     "5A",
+     "ESC"
+    ],
+    [
+     "7m",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "8m",
+     "Fuse ATO",
+     "30A",
+     "Front left door (window regulator, central locking, mirror, switch, lighting)"
+    ],
+    [
+     "9m",
+     "Fuse ATO",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "10m",
+     "Fuse ATO",
+     "25A",
+     "ESC"
+    ],
+    [
+     "11m",
+     "Fuse ATO",
+     "30A",
+     "Rear left window regulator [2-door] / rear left door unit [4-door]"
+    ],
+    [
+     "12m",
+     "Fuse ATO",
+     "5A",
+     "Rain and light sensor"
+    ],
+    [
+     "3r",
+     "Fuse ATO",
+     "10A",
+     "Lumbar support"
+    ],
+    [
+     "4r",
+     "Fuse ATO",
+     "35A",
+     "Dynamic steering"
+    ],
+    [
+     "5r",
+     "Fuse ATO",
+     "5A",
+     "Interior lighting (Cabriolet)"
+    ],
+    [
+     "6r",
+     "Fuse ATO",
+     "35A",
+     "Windshield washer system, headlight washer system"
+    ],
+    [
+     "7r",
+     "Fuse ATO",
+     "20A",
+     "Vehicle electrical system control module 1"
+    ],
+    [
+     "8r",
+     "Fuse ATO",
+     "30A",
+     "Vehicle electrical system control module 1"
+    ],
+    [
+     "9r",
+     "Fuse ATO",
+     "7.5A",
+     "Left rear window regulator motor [Cabriolet]"
+    ],
+    [
+     "9r",
+     "Fuse ATO",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "10r",
+     "Fuse ATO",
+     "30A",
+     "Vehicle electrical system control module 1"
+    ],
+    [
+     "11r",
+     "Fuse ATO",
+     "7.5A",
+     "Right rear window regulator [Cabriolet]"
+    ],
+    [
+     "11r",
+     "Fuse ATO",
+     "20A",
+     "Sun shade motor"
+    ],
+    [
+     "12r",
+     "Fuse ATO",
+     "5A",
+     "Anti-theft alarm warning system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel right",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs4-2013-genid-g3-1.webp",
+   "fuses": [
+    [
+     "A5",
+     "Fuse ATO",
+     "5A",
+     "Steering column switch module"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "5A",
+     "Terminal 15 diagnostic connector"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "5A",
+     "Gateway (databus diagnostic interface)"
+    ],
+    [
+     "A9",
+     "Fuse ATO",
+     "5A",
+     "Supplementary heater"
+    ],
+    [
+     "B1",
+     "Fuse ATO",
+     "5A",
+     "CD/DVD player"
+    ],
+    [
+     "B2",
+     "Fuse ATO",
+     "5A",
+     "Wi-Fi"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "5A",
+     "MMI"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "20A",
+     "Radio"
+    ],
+    [
+     "B4",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "5A",
+     "Gateway (instrument cluster control module)"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "5A",
+     "Ignition lock"
+    ],
+    [
+     "B7",
+     "Fuse ATO",
+     "5A",
+     "Light switch"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "40A",
+     "Climate control system blower"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "5A",
+     "Steering column lock"
+    ],
+    [
+     "B10",
+     "Fuse ATO",
+     "10A",
+     "Climate control system"
+    ],
+    [
+     "B11",
+     "Fuse ATO",
+     "10A",
+     "Terminal 30 diagnostic connector"
+    ],
+    [
+     "B12",
+     "Fuse ATO",
+     "5A",
+     "Steering column switch module"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Right Luggage compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs4-2013-genid-g3-2.webp",
+   "fuses": [
+    [
+     "A2",
+     "Fuse MAXI",
+     "30A",
+     "Rear window heater [Cabriolet]"
+    ],
+    [
+     "A3",
+     "Fuse MAXI",
+     "30A",
+     "Power top latch [Cabriolet]"
+    ],
+    [
+     "A4",
+     "Fuse MAXI",
+     "50A",
+     "Power top hydraulics [Cabriolet]"
+    ],
+    [
+     "B1",
+     "Fuse ATO",
+     "30A",
+     "Luggage compartment lid control module [Allroad]"
+    ],
+    [
+     "B1",
+     "Fuse ATO",
+     "10A",
+     "Power top control module [Cabriolet]"
+    ],
+    [
+     "B2",
+     "Fuse ATO",
+     "15A",
+     "Trailer control module or retractable rear spoiler [RS 5 Coupe]"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "20A",
+     "Trailer control module"
+    ],
+    [
+     "B4",
+     "Fuse ATO",
+     "20A",
+     "Trailer control module"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "5A",
+     "Electromechanical parking brake"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "15A",
+     "Electronic damping control"
+    ],
+    [
+     "B7",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "30A",
+     "Rear exterior lighting"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "35A",
+     "quattro sport"
+    ],
+    [
+     "B10",
+     "Fuse ATO",
+     "30A",
+     "Rear exterior lighting"
+    ],
+    [
+     "B11",
+     "Fuse ATO",
+     "20A",
+     "Vehicle electrical system control module"
+    ],
+    [
+     "B12",
+     "Fuse ATO",
+     "5A",
+     "Terminal 30"
+    ],
+    [
+     "C1",
+     "Fuse ATO",
+     "30A",
+     "Luggage compartment lid control module [Allroad]"
+    ],
+    [
+     "C2",
+     "Fuse ATO",
+     "20A",
+     "12-volt socket, cigarette lighter"
+    ],
+    [
+     "C3",
+     "Fuse ATO",
+     "40A",
+     "DCDC converter path 1"
+    ],
+    [
+     "C4",
+     "Fuse ATO",
+     "30A",
+     "DCDC converter path 2, DSP amplifier, radio"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "30A",
+     "Right upper cabin heating [Cabriolet]"
+    ],
+    [
+     "C7",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake"
+    ],
+    [
+     "C9",
+     "Fuse ATO",
+     "30A",
+     "Right front door (window regulator, central locking, mirror, switch, lighting)"
+    ],
+    [
+     "C10",
+     "Fuse ATO",
+     "30A",
+     "Left upper cabin heating [Cabriolet]"
+    ],
+    [
+     "C11",
+     "Fuse ATO",
+     "30A",
+     "Rear right window regulator [2-door] / rear right door unit [4-door]"
+    ],
+    [
+     "C12",
+     "Fuse ATO",
+     "5A",
+     "Cell phone prep"
+    ],
+    [
+     "D1",
+     "Fuse ATO",
+     "15A",
+     "Right front seat heating"
+    ],
+    [
+     "D4",
+     "Fuse ATO",
+     "7.5A",
+     "MMI"
+    ],
+    [
+     "D5",
+     "Fuse ATO",
+     "5A",
+     "Radio"
+    ],
+    [
+     "D6",
+     "Fuse ATO",
+     "5A",
+     "Rear view camera"
+    ],
+    [
+     "D7",
+     "Fuse ATO",
+     "30A",
+     "Rear window heater [Allroad]"
+    ],
+    [
+     "D8",
+     "Fuse ATO",
+     "5A",
+     "Rear Seat Entertainment"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine fuse panel (Holder B)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs4-2013-genid-g3-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Automatic transmission control unit / DSG Mechatronik"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "5A",
+     "Oil level and temperature sensor"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Air mass meter, fuel pressure regulator, fuel metering valve [2.0/3.0 TDI]"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Air mass meter, fuel pressure regulator, fuel metering valve [petrol engines]"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Engine control unit / injectors 2, cylinders 1-4"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Valve lift actuators 1-8, boost/charcoal/engine mount/camshaft/exhaust flap/turbo bypass/fuel/manifold/coolant/oil pressure valves, after-run coolant pump, EGR radiator pump [by engine]"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "NOx sensors 1+2 + CUs, brake servo relay, soot particle sensor [2.0 TDI / 3.0 TDI EU6]"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "NOx sensors 1+2 + CUs, brake servo relay, soot particle sensor [3.0 TDI BIN 5]"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "NOx sensors 1+2 + CUs, brake servo relay, soot particle sensor [1.8 TFSI gen 3]"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "Voltage stabilizer / engine control unit"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Lambda probe heaters [3.0 TFSI from MY2015]"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Lambda probe heaters [2.0/3.0 TDI]"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heaters [petrol engines]"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Radiator fan control units 1+2"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "Automatic transmission control unit / DSG Mechatronik"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "Engine component supply relay 2, ignition coils 1-8, Climatronic coolant valve, EGR cooler pump [2.0 TDI]"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Engine component supply relay 2, ignition coils 1-8, Climatronic coolant valve, EGR cooler pump [4-cyl/6-cyl petrol]"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "30A",
+     "Engine component supply relay 2, ignition coils 1-8, Climatronic coolant valve, EGR cooler pump [8-cyl RS4 / 3.0 TFSI]"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Power steering control unit"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "15A",
+     "Electronic thermostat, glow plug CU, secondary air pump relays 1+2, heater relays, coolant pumps + valves, charge valves, crankcase heater, engine mount valves, intake manifold valves, EGR valves, oil pressure valve, charge air cooling pump"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heating elements 1+2 after catalytic converter [3.0 TFSI]"
+    ]
+   ]
+  }
+ ]
+}
