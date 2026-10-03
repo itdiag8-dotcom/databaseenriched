@@ -1,0 +1,16 @@
+{
+  "name": "car-database-dashboard",
+  "version": "1.0.0",
+  "description": "Car Database Dashboard with visual 7zap catalog, engine service specifications, and technical diagnostics.",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node init_db.js",
+    "lint": "node --check server.js init_db.js database_enriched/server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

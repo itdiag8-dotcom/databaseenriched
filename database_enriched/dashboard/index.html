@@ -4,248 +4,340 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Car Database Dashboard</title>
+<meta name="description" content="Visual automotive catalog browser, engine service specifications, and technical diagnostics database.">
+<meta property="og:title" content="Car Database Dashboard">
+<meta property="og:description" content="Visual automotive catalog browser, engine service specifications, and technical diagnostics database.">
 <style>
   *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:#0f1419;color:#e6eef8;line-height:1.5}
-  header{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:14px;padding:10px 18px;background:#0b1c30;border-bottom:1px solid #253240;flex-wrap:wrap}
-  header .logo{font-weight:700;font-size:16px;letter-spacing:.2px}
-  header .logo span{color:#7cc4ff}
-  header .dbpath{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;opacity:.65;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:340px}
+  body{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Arial,sans-serif;background:#0b1118;color:#e2e8f0;line-height:1.5}
+  
+  /* ---- Header ---- */
+  header{position:sticky;top:0;z-index:60;display:flex;align-items:center;gap:14px;padding:10px 20px;background:#081321;border-bottom:1px solid #1e293b;flex-wrap:wrap}
+  header .logo{font-weight:800;font-size:16px;letter-spacing:.3px;display:flex;align-items:center;gap:9px}
+  header .logo span{color:#38bdf8}
+  header .dbpath{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;color:#94a3b8;background:#0f172a;border:1px solid #1e293b;padding:3px 8px;border-radius:6px;max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   header .spacer{flex:1}
-  button{background:#123a66;color:#e6eef8;border:1px solid #2a5a8a;border-radius:8px;padding:7px 12px;font-size:12px;cursor:pointer}
-  button:hover{background:#1b4d82}
+  
+  /* Buttons */
+  button{background:#1e293b;color:#e2e8f0;border:1px solid #334155;border-radius:8px;padding:7px 14px;font-size:12px;font-weight:600;cursor:pointer;transition:all .15s ease;display:inline-flex;align-items:center;gap:6px}
+  button:hover{background:#334155;border-color:#475569}
   button:active{transform:translateY(1px)}
-  button:disabled{opacity:.45;cursor:not-allowed}
-  button:hover:disabled{background:#123a66}
-  button.primary{background:#1b6bc4;border-color:#3b8bf5}
-  button.primary:not(:disabled):hover{background:#2b86e8}
-  button.small{padding:4px 9px;font-size:11px}
-  button.danger{background:#5b1f1f;border-color:#8b3b3b}
-  .layout{display:grid;grid-template-columns:320px 1fr;gap:16px;padding:16px;max-width:1800px;margin:0 auto}
-  aside{display:flex;flex-direction:column;gap:12px;align-self:start;position:sticky;top:64px}
-  main{min-width:0}
-  .card{background:#161d26;border:1px solid #253240;border-radius:12px;padding:14px}
-  h2{font-size:16px;margin-bottom:8px}
-  .muted{color:#9fb3c8;font-size:12px}
-  label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:#b8cce6;margin:10px 0 4px}
-  select,input[type=text],input[type=search],input[type=number]{
-    width:100%;background:#0b1220;color:#e6eef8;border:1px solid #253240;border-radius:8px;padding:7px 9px;font-size:13px}
-  select:focus,input:focus{outline:none;border-color:#3b8bf5}
-  input[type=number]{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
-  .searchbox{position:relative}
-  .sr{max-height:260px;overflow:auto;background:#0b1220;border:1px solid #253240;border-radius:8px;margin-top:6px;display:none;position:absolute;left:0;right:0;z-index:30}
-  .sr.open{display:block}
-  .sr div{padding:7px 9px;cursor:pointer;font-size:12px;border-bottom:1px solid #1a2534}
-  .sr div:hover{background:#123a66}
-  .sr .code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:#7cc4ff}
-  .sr .muted{font-size:11px}
-  nav.casc label:first-child{margin-top:0}
-  .casc-actions{display:flex;gap:8px;margin-top:12px}
-  .casc-actions button{flex:1;white-space:nowrap}
-  .mini{background:#0b1220;border:1px solid #2a5a8a;border-radius:10px;padding:10px 12px;margin-top:10px}
-  .mini h4{font-size:12px;color:#7cc4ff;margin-bottom:2px}
-  .mini .hint{font-size:11px;color:#9fb3c8;margin:4px 0 8px}
-  .mini .grid2{display:grid;grid-template-columns:1fr 1fr;gap:6px 10px}
-  .mini .btns{display:flex;gap:8px;margin-top:10px}
-  .mini input[disabled]{opacity:.55}
-  @media(max-width:520px){.mini .grid2{grid-template-columns:1fr}}
-  .addcar-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px}
-  .modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:200;display:flex;align-items:center;justify-content:center;padding:20px}
-  .modal{background:#161d26;border:1px solid #2a5a8a;border-radius:12px;max-width:880px;width:100%;max-height:86vh;overflow:auto;padding:16px}
-  .modal h3{font-size:15px;margin-bottom:2px}
-  .modal .hint{font-size:12px;color:#9fb3c8;margin-bottom:10px}
-  .modal .grid2{display:grid;grid-template-columns:1fr 1fr;gap:6px 12px}
-  .modal .grid2 .fld label{margin-top:0}
-  .modal .btns{display:flex;gap:8px;margin-top:14px;align-items:center}
-  .modal .btns .margin-auto{margin-left:auto}
-  .breadcrumb{font-size:12px;color:#9fb3c8;margin-bottom:10px;word-break:break-word}
-  .breadcrumb b{color:#7cc4ff}
-  .toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:#0f1e2e;border:1px solid #253240;border-radius:10px;padding:9px 12px;margin:0 0 12px}
-  .toolbar .cnt{font-size:12px;color:#9fb3c8;flex:1;display:flex;align-items:center;gap:8px}
-  .toolbar .cnt b{font-size:15px;color:#fbbf24;min-width:18px;text-align:center}
-  .toolbar .cnt.nopending b{color:#4ade80}
-  .toolbar .legend{font-size:11px;color:#9fb3c8}
-  .swatch{display:inline-block;width:11px;height:11px;border-radius:3px;background:rgba(251,191,36,.35);border:1px solid #f59e0b;vertical-align:-1px;margin-right:5px}
-  .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;border-bottom:1px solid #253240;padding-bottom:8px}
-  .tabs button{background:transparent;border:1px solid transparent;border-radius:8px;padding:7px 13px;font-size:13px;color:#9fb3c8}
-  .tabs button.on{background:#0f2138;border-color:#2a5a8a;color:#e6eef8}
-  .tabs button.ondirty{border-color:#f59e0b}
-  .tbadge{display:none;margin-left:5px;min-width:16px;padding:0 5px;border-radius:999px;background:#6b4a0f;color:#fde68a;font-size:10px;line-height:15px;text-align:center}
-  .tbadge.on{display:inline-block;background:#f59e0b;color:#1a1205}
-  /* ---- record cards (form grid: 4 fields per row) ---- */
-  .recwrap{display:flex;flex-direction:column;gap:12px}
-  .rec{background:#0b1220;border:1px solid #253240;border-radius:10px;padding:10px 12px}
-  .rec.hasdirty{border:1px solid #b45a0f;box-shadow:inset 3px 0 0 #f59e0b}
-  .recheader{display:flex;align-items:center;gap:10px;padding-bottom:8px;margin-bottom:8px;border-bottom:1px dashed #1a2534;flex-wrap:wrap}
-  .recheader .pk{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:#7cc4ff;flex:1;min-width:120px}
-  .recheader .pk .locklock{color:#5b6b80;font-size:10px;font-family:system-ui,Arial}
-  .vthumb{width:108px;height:68px;object-fit:cover;border-radius:8px;border:1px solid #2a5a8a;background:#08101c;flex-shrink:0}
-  .vthumb.none{display:flex;align-items:center;justify-content:center;font-size:10px;color:#5b6b80;text-transform:uppercase;letter-spacing:.5px;background:#0b1220}
-  .recgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px 12px}
-  .fld{display:flex;flex-direction:column;gap:3px;min-width:0}
-  .fld label{font-size:10px;text-transform:uppercase;letter-spacing:.4px;color:#8fa3bd;margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .fld input{width:100%;font-size:12px}
-  .fld .pkpk{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:#7cc4ff;padding:7px 9px;background:#0b1220;border:1px dashed #2a5a8a;border-radius:8px}
-  /* ---- dirty (unsaved edit) styling ---- */
-  .fld input.cell.dirty{background:rgba(251,191,36,.2);border-color:#f59e0b;color:#ffedc4}
-  .fld.dirty{background:rgba(251,191,36,.08)}
-  @media(max-width:1280px){.recgrid{grid-template-columns:repeat(2,1fr)}}
-  @media(max-width:820px){.recgrid{grid-template-columns:1fr}}
-  .rd{display:none;font-size:10px;color:#fde68a;background:#6b4a0f;border:1px solid #b45a0f;border-radius:999px;padding:1px 8px;margin-right:4px}
-  .rd.show{display:inline-block}
-  .rowacts{display:flex;gap:6px;align-items:center;justify-content:flex-end}
-  .rowacts .st{font-size:11px}
-  .ok{color:#4ade80}.err{color:#f87171}.info{color:#fbbf24}
-  .pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;border:1px solid #2a5a8a;background:#0f2138}
-  .pill.good{background:#0f2a1a;border-color:#2a5a3a;color:#86efac}
-  .pill.warn{background:#2a1f0f;border-color:#5a4a2a;color:#fde68a}
-  #toast{position:fixed;bottom:18px;right:18px;z-index:999;display:flex;flex-direction:column;gap:8px;max-height:80vh;overflow:hidden}
-  .toast{background:#123a66;border:1px solid #2a5a8a;border-radius:10px;padding:10px 14px;font-size:13px;max-width:420px;box-shadow:0 6px 20px rgba(0,0,0,.4)}
-  .toast.err{background:#4a1f2a;border-color:#8b3b3b}
-  .toast.ok{background:#0f2a1a;border-color:#2a5a3a}
-  .placeholder{padding:60px 20px;text-align:center;color:#9fb3c8}
-  .kv{display:grid;grid-template-columns:180px 1fr;gap:4px 12px;font-size:12px}
-  .kv b{color:#b8cce6;font-weight:600}
-  .kv > div{padding:3px 0;border-bottom:1px dashed #1a2534;word-break:break-word}
-  .center-box{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:12px 0}
-  .exportbar{margin-top:10px;display:flex;gap:8px;justify-content:flex-end}
-  .badge-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
-  .empty{color:#9fb3c8;font-style:italic;padding:14px;font-size:12px}
-  .pager{display:flex;gap:8px;align-items:center;margin-top:8px;font-size:12px}
-  details.gridtoggle{margin-top:10px}
-  details.gridtoggle summary{cursor:pointer;color:#7cc4ff;font-size:12px}
-  #saveAll:not(:disabled){animation:pulse 1.6s infinite}
-  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(59,139,245,.5)}50%{box-shadow:0 0 0 5px rgba(59,139,245,0)}}
-  @media(max-width:920px){.layout{grid-template-columns:1fr}aside{position:static}.sr{position:static}}
-  /* ---- 7zap-style picture catalog ---- */
-  .viewtabs{display:flex;gap:6px;margin-right:6px}
-  .viewtabs button.on{background:#1b6bc4;border-color:#3b8bf5}
-  #catalog{padding:16px;max-width:1800px;margin:0 auto}
-  .catbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:12px}
-  .catbar input[type=search]{width:auto;flex:1;min-width:180px}
-  .catcrumb{display:flex;align-items:center;gap:6px;font-size:13px;flex-wrap:wrap}
-  .catcrumb a{color:#7cc4ff;cursor:pointer;text-decoration:none}
-  .catcrumb a:hover{text-decoration:underline}
-  .catcrumb .sep{color:#44566b}
-  .catcrumb b{color:#e6eef8}
-  .chk{display:flex;align-items:center;gap:6px;font-size:12px;color:#9fb3c8;white-space:nowrap}
-  .chk input{width:auto}
-  .azbar{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:12px}
-  .azbar button{padding:2px 8px;font-size:11px;background:#0f2138;border-color:#253240}
-  .azbar button.on{background:#1b6bc4;border-color:#3b8bf5}
-  .grid{display:grid;gap:12px}
-  .grid.brands{grid-template-columns:repeat(auto-fill,minmax(190px,1fr))}
-  .grid.models{grid-template-columns:repeat(auto-fill,minmax(230px,1fr))}
-  .grid.chips{grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
-  .tile{background:#0b1220;border:1px solid #253240;border-radius:12px;overflow:hidden;cursor:pointer;
-        display:flex;flex-direction:column;transition:border-color .12s,transform .12s}
-  .tile:hover{border-color:#3b8bf5;transform:translateY(-2px)}
-  .tile .shot{height:132px;background:#070d16;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
-  .tile .shot img{width:100%;height:100%;object-fit:contain;padding:6px}
-  .tile .shot .ph{font-size:30px;opacity:.25}
+  button:disabled{opacity:.45;cursor:not-allowed;transform:none}
+  button.primary{background:#0284c7;border-color:#38bdf8;color:#ffffff}
+  button.primary:not(:disabled):hover{background:#0369a1;border-color:#7dd3fc}
+  button.success{background:#15803d;border-color:#22c55e;color:#ffffff}
+  button.success:not(:disabled):hover{background:#166534}
+  button.danger{background:#991b1b;border-color:#ef4444;color:#ffffff}
+  button.danger:not(:disabled):hover{background:#7f1d1d}
+  button.small{padding:4px 9px;font-size:11px;border-radius:6px}
+  button.secondary{background:#0f172a;border-color:#1e293b;color:#cbd5e1}
+  button.secondary:hover{background:#1e293b;border-color:#334155}
+  
+  /* Header Nav / Tabs */
+  .viewtabs{display:flex;gap:4px;background:#0f172a;padding:3px;border-radius:10px;border:1px solid #1e293b}
+  .viewtabs button{background:transparent;border:1px solid transparent;color:#94a3b8;padding:6px 12px;border-radius:7px}
+  .viewtabs button.on{background:#0284c7;color:#ffffff;border-color:#38bdf8}
+
+  /* ---- Main Container ---- */
+  #catalog{padding:16px 20px;max-width:1800px;margin:0 auto}
+  .card{background:#0f172a;border:1px solid #1e293b;border-radius:14px;padding:16px;box-shadow:0 4px 20px rgba(0,0,0,.25)}
+  
+  /* Search & Filter Toolbar */
+  .catbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+  .catcrumb{display:flex;align-items:center;gap:6px;font-size:13px;flex-wrap:wrap;flex:1}
+  .catcrumb a{color:#38bdf8;cursor:pointer;text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:4px}
+  .catcrumb a:hover{text-decoration:underline;color:#7dd3fc}
+  .catcrumb .sep{color:#475569;font-size:11px}
+  .catcrumb b{color:#f8fafc;font-weight:700}
+  
+  input[type=search],input[type=text],input[type=number],select,textarea{
+    background:#070d16;color:#f8fafc;border:1px solid #1e293b;border-radius:8px;padding:8px 12px;font-size:13px;transition:border-color .15s}
+  input:focus,select:focus,textarea:focus{outline:none;border-color:#38bdf8;box-shadow:0 0 0 1px #38bdf8}
+  input[type=search]{min-width:240px}
+  .chk{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:#94a3b8;cursor:pointer;user-select:none}
+  .chk input{cursor:pointer}
+  
+  .catnote{font-size:12px;color:#94a3b8;margin-bottom:12px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .azbar{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:14px}
+  .azbar button{padding:3px 9px;font-size:11px;background:#081321;border-color:#1e293b;color:#94a3b8}
+  .azbar button.on{background:#0284c7;border-color:#38bdf8;color:#ffffff;font-weight:700}
+
+  /* ---- Grids ---- */
+  .grid{display:grid;gap:14px}
+  .grid.brands{grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
+  .grid.models{grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}
+  .grid.generations{grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}
+  .grid.variants{grid-template-columns:repeat(auto-fill,minmax(360px,1fr))}
+
+  /* ---- Visual Tiles (Brands & Models) ---- */
+  .tile{background:#081321;border:1px solid #1e293b;border-radius:12px;overflow:hidden;cursor:pointer;
+        display:flex;flex-direction:column;transition:all .18s ease;position:relative}
+  .tile:hover{border-color:#38bdf8;transform:translateY(-3px);box-shadow:0 8px 24px rgba(2,132,199,.18)}
+  
+  .tile .shot{height:135px;background:#050a12;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative;padding:10px}
+  .tile .shot .brandlogo-wrap{width:86px;height:86px;background:#ffffff;border-radius:16px;display:flex;align-items:center;justify-content:center;padding:10px;box-shadow:0 4px 16px rgba(0,0,0,.6),inset 0 0 0 1px rgba(0,0,0,.08);transition:transform .2s ease,box-shadow .2s ease}
+  .tile:hover .shot .brandlogo-wrap{transform:scale(1.08);box-shadow:0 6px 22px rgba(56,189,248,.3),inset 0 0 0 1px rgba(56,189,248,.35)}
+  .tile .shot img.brandlogo{width:100%;height:100%;object-fit:contain}
+  .tile .shot img.modelshot{width:100%;height:100%;object-fit:contain;transition:transform .2s ease}
+  .tile:hover .shot img.modelshot{transform:scale(1.04)}
+  
+  /* Fallback silhouette for models without photos */
+  .tile .shot .silhouette-box{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;width:100%;height:100%;background:linear-gradient(180deg,#0a1525 0%,#040911 100%)}
+  .tile .shot .silhouette-box svg{width:64px;height:38px;fill:#38bdf8;opacity:.7}
+  .tile .shot .silhouette-box span{font-size:10px;color:#64748b;letter-spacing:.3px;text-transform:uppercase;font-weight:600}
+  
   .tile .shot .srcbadge{position:absolute;top:6px;right:6px;font-size:9px;letter-spacing:.4px;text-transform:uppercase;
-        padding:1px 6px;border-radius:999px;background:rgba(8,16,28,.85);border:1px solid #2a5a8a;color:#7cc4ff}
-  .tile .shot .srcbadge.wikidata{border-color:#5a4a2a;color:#fde68a}
-  .tile .body{padding:9px 11px;display:flex;flex-direction:column;gap:3px;flex:1}
-  .tile .name{font-size:13px;font-weight:600;line-height:1.25;word-break:break-word}
-  .tile .sub{font-size:11px;color:#9fb3c8}
-  .tile .foot{margin-top:auto;display:flex;gap:6px;flex-wrap:wrap;padding-top:6px}
-  .tile .foot .pill{font-size:10px;padding:1px 7px}
-  .tile .credit{font-size:9px;color:#6b7f96;line-height:1.3;word-break:break-word}
-  .tile.initial .shot{background:linear-gradient(145deg,#132236,#0a1420)}
-  .tile.initial .shot .letters{font-size:30px;font-weight:700;color:#3f6186;letter-spacing:1px}
-  .covbar{height:4px;background:#13202e;border-radius:999px;overflow:hidden;margin-top:6px}
-  .covbar i{display:block;height:100%;background:#2b86e8}
-  .catempty{color:#9fb3c8;font-style:italic;padding:28px;text-align:center}
-  .catnote{font-size:11px;color:#9fb3c8;margin-bottom:10px}
+        padding:2px 7px;border-radius:999px;background:rgba(8,19,33,.85);border:1px solid #1e3a8a;color:#38bdf8;font-weight:700}
+  .tile .shot .srcbadge.wikidata{border-color:#854d0e;color:#fde047;background:rgba(30,20,5,.85)}
+
+  .tile .body{padding:12px;display:flex;flex-direction:column;gap:5px;flex:1}
+  .tile .name{font-size:15px;font-weight:700;line-height:1.25;color:#f8fafc;word-break:break-word}
+  .tile .sub{font-size:11px;color:#94a3b8}
+  .tile .covbar{height:4px;background:#1e293b;border-radius:999px;overflow:hidden;margin-top:6px}
+  .tile .covbar i{display:block;height:100%;background:#0284c7}
+  .tile .foot{margin-top:auto;display:flex;gap:6px;flex-wrap:wrap;padding-top:8px;align-items:center}
+
+  /* ---- Generation Cards ---- */
+  .gentile{background:#081321;border:1px solid #1e293b;border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:10px;cursor:pointer;transition:all .18s ease}
+  .gentile:hover{border-color:#38bdf8;transform:translateY(-2px);box-shadow:0 8px 24px rgba(2,132,199,.15)}
+  .gentile .genhead{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+  .gentile .genhead h3{font-size:16px;color:#38bdf8;font-weight:700}
+  .gentile .genhead .years{font-size:12px;color:#fbbf24;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;background:#172554;padding:2px 8px;border-radius:6px}
+  .gentile .ecutags{display:flex;gap:5px;flex-wrap:wrap;margin:4px 0}
+
+  /* ---- Variant Cards (Detailed ECU & Diagnostics) ---- */
+  .varcard{background:#081321;border:1px solid #1e293b;border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:10px;cursor:pointer;transition:all .18s ease}
+  .varcard:hover{border-color:#38bdf8;transform:translateY(-2px);box-shadow:0 8px 24px rgba(2,132,199,.18)}
+  .varcard .vhead{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+  .varcard .vname{font-size:15px;font-weight:700;color:#f8fafc}
+  .varcard .vcode{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;color:#38bdf8;background:#0c1e36;border:1px solid #0284c7;padding:3px 9px;border-radius:6px;font-weight:800;letter-spacing:.5px}
+  
+  .varcard .ecugrid{display:grid;grid-template-columns:1fr 1fr;gap:6px 10px;background:#050a12;border:1px solid #1e293b;border-radius:8px;padding:10px;font-size:11px}
+  .varcard .ecugrid .item{display:flex;flex-direction:column;gap:2px}
+  .varcard .ecugrid .k{color:#64748b;font-size:10px;text-transform:uppercase;letter-spacing:.4px;font-weight:600}
+  .varcard .ecugrid .v{color:#f8fafc;font-weight:600;word-break:break-word}
+  
+  .varcard .diagbox{background:#0e1e33;border-left:3px solid #38bdf8;padding:8px 10px;border-radius:4px;font-size:11px;color:#cbd5e1;line-height:1.4}
+  .varcard .obdbox{font-size:11px;color:#94a3b8;display:flex;align-items:center;gap:6px;background:#050a12;border:1px solid #1e293b;padding:5px 9px;border-radius:6px}
+  .varcard .actions{display:flex;gap:8px;margin-top:auto;justify-content:space-between;align-items:center;padding-top:6px}
+
+  /* Badges & Pills */
+  .pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:600;border:1px solid #334155;background:#0f172a;color:#cbd5e1}
+  .pill.good{background:#052e16;border-color:#16a34a;color:#86efac}
+  .pill.warn{background:#451a03;border-color:#d97706;color:#fde68a}
+  .pill.blue{background:#082f49;border-color:#0284c7;color:#7dd3fc}
+  .pill.purple{background:#3b0764;border-color:#9333ea;color:#e9d5ff}
+
+  /* ---- Full Car Data Inspector & In-Place Editor ---- */
+  #carDetailView{position:relative}
+  
+  /* Vehicle Selector Dropdown Toolbar */
+  .selector-toolbar{background:#081321;border:1px solid #1e293b;border-radius:12px;padding:14px 16px;margin-bottom:16px}
+  .selector-toolbar .grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+  @media(max-width:1100px){.selector-toolbar .grid4{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:600px){.selector-toolbar .grid4{grid-template-columns:1fr}}
+
+  .quicklinks{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px dashed #1e293b;font-size:11px;color:#94a3b8}
+  .quicklinks a{color:#38bdf8;cursor:pointer;text-decoration:none;font-weight:600;padding:2px 6px;border-radius:4px;background:#0f172a}
+  .quicklinks a:hover{background:#0284c7;color:#ffffff}
+
+  .detail-header{display:flex;align-items:center;gap:14px;background:#081321;border:1px solid #1e293b;border-radius:12px;padding:14px 16px;margin-bottom:16px;flex-wrap:wrap}
+  .detail-header .brand-icon-wrap{width:52px;height:52px;background:#ffffff;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:6px;box-shadow:0 2px 10px rgba(0,0,0,.5);flex-shrink:0}
+  .detail-header img.brand-icon{width:100%;height:100%;object-fit:contain}
+  .detail-header img.model-thumb{height:60px;width:95px;object-fit:contain;background:#050a12;border-radius:8px;border:1px solid #1e293b;padding:2px}
+  .detail-header .titles{flex:1;min-width:200px}
+  .detail-header .titles h2{font-size:20px;color:#f8fafc;font-weight:800;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .detail-header .titles .sub{font-size:12px;color:#94a3b8}
+
+  .toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:#081321;border:1px solid #1e293b;border-radius:10px;padding:10px 14px;margin-bottom:14px}
+  .toolbar .cnt{font-size:12px;color:#94a3b8;flex:1;display:flex;align-items:center;gap:8px}
+  .toolbar .cnt b{font-size:15px;color:#fbbf24;min-width:20px;text-align:center}
+  .toolbar .cnt.nopending b{color:#4ade80}
+  .swatch{display:inline-block;width:12px;height:12px;border-radius:3px;background:rgba(251,191,36,.35);border:1px solid #f59e0b;vertical-align:-1px;margin-right:5px}
+
+  .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px;border-bottom:1px solid #1e293b;padding-bottom:10px}
+  .tabs button{background:#081321;border:1px solid #1e293b;border-radius:8px;padding:9px 16px;font-size:13px;color:#94a3b8;font-weight:600}
+  .tabs button.on{background:#0284c7;border-color:#38bdf8;color:#ffffff;font-weight:700}
+  .tabs button.hasdirty{border-color:#f59e0b;color:#fde68a}
+
+  /* Form / Record editing cards */
+  .recwrap{display:flex;flex-direction:column;gap:16px}
+  .specs-section{background:#081321;border:1px solid #1e293b;border-radius:12px;padding:16px;margin-bottom:12px}
+  .specs-section .sec-title{font-size:13px;font-weight:700;color:#38bdf8;margin-bottom:12px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #1e293b;padding-bottom:8px}
+  .recgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px 16px}
+  @media(max-width:1300px){.recgrid{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:760px){.recgrid{grid-template-columns:1fr}}
+  
+  .fld{display:flex;flex-direction:column;gap:4px;min-width:0}
+  .fld label{font-size:11px;text-transform:uppercase;letter-spacing:.4px;color:#94a3b8;font-weight:700}
+  .fld input, .fld textarea{font-size:13px;background:#050a12;border:1px solid #1e293b;color:#f8fafc;padding:8px 10px;border-radius:7px}
+  .fld .pkpk{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;color:#38bdf8;padding:8px 10px;background:#050a12;border:1px dashed #0284c7;border-radius:8px}
+  .fld input.cell.dirty, .fld textarea.cell.dirty{background:rgba(251,191,36,.18);border-color:#f59e0b;color:#fef08a}
+
+  .rd{display:none;font-size:10px;color:#fde68a;background:#451a03;border:1px solid #d97706;border-radius:999px;padding:1px 8px;margin-right:4px}
+  .rd.show{display:inline-block}
+
+  /* Table browser styles */
+  .specstable{width:100%;border-collapse:collapse;font-size:12px;margin-top:10px}
+  .specstable th, .specstable td{padding:9px 12px;border-bottom:1px solid #1e293b;text-align:left}
+  .specstable th{background:#050a12;color:#94a3b8;font-size:11px;text-transform:uppercase;font-weight:700}
+  .specstable tr:hover td{background:#0e1e33}
+
+  /* Modals */
+  .modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.75);backdrop-filter:blur(4px);z-index:200;display:flex;align-items:center;justify-content:center;padding:20px}
+  .modal{background:#081321;border:1px solid #0284c7;border-radius:14px;max-width:540px;width:100%;max-height:90vh;overflow:auto;padding:20px;box-shadow:0 12px 40px rgba(0,0,0,.7)}
+  .modal h3{font-size:18px;margin-bottom:6px;display:flex;align-items:center;gap:8px;color:#f8fafc}
+  .modal .hint{font-size:12px;color:#94a3b8;margin-bottom:14px}
+  .modal .picpreview{width:100%;height:160px;object-fit:contain;background:#050a12;border-radius:8px;border:1px solid #1e293b;margin-top:8px}
+  .modal .btns{display:flex;gap:8px;margin-top:16px;align-items:center}
+  .modal .btns .margin-auto{margin-left:auto}
+
+  /* Quick search results dropdown */
+  .searchbox{position:relative}
+  .sr{max-height:360px;overflow:auto;background:#081321;border:1px solid #0284c7;border-radius:10px;margin-top:6px;display:none;position:absolute;left:0;right:0;z-index:50;box-shadow:0 10px 30px rgba(0,0,0,.6)}
+  .sr.open{display:block}
+  .sr div{padding:10px 12px;cursor:pointer;font-size:12px;border-bottom:1px solid #1e293b;display:flex;align-items:center;gap:10px}
+  .sr div:hover{background:#0284c7;color:#ffffff}
+  .sr .code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:#38bdf8;font-weight:700;font-size:13px}
+  .sr div:hover .code{color:#ffffff}
+  .sr .muted{font-size:11px;color:#94a3b8;margin-left:auto}
+  .sr div:hover .muted{color:#e0f2fe}
+
+  /* Toast notifications */
+  #toast{position:fixed;bottom:20px;right:20px;z-index:999;display:flex;flex-direction:column;gap:8px;max-height:80vh;overflow:hidden}
+  .toast{background:#081321;border:1px solid #0284c7;border-radius:10px;padding:11px 16px;font-size:13px;max-width:440px;box-shadow:0 8px 24px rgba(0,0,0,.5);color:#f8fafc;animation:toastIn .2s ease}
+  .toast.err{background:#450a0a;border-color:#ef4444;color:#fee2e2}
+  .toast.ok{background:#052e16;border-color:#22c55e;color:#f0fdf4}
+  @keyframes toastIn{from{transform:translateY(10px);opacity:0}to{transform:none;opacity:1}}
+
+  .catempty{color:#94a3b8;font-style:italic;padding:36px 20px;text-align:center;font-size:14px}
+  .catempty.err{color:#f87171}
 </style>
 </head>
 <body>
 <header>
   <div class="logo">&#128663; <span>Car Database Dashboard</span></div>
   <div class="dbpath" id="dbpath">car_database.db</div>
-  <div class="spacer"></div>
-  <div class="viewtabs">
-    <button id="btnViewCatalog" class="on" title="Browse brands and models as pictures, 7zap style">&#128444;&#65039; Catalog</button>
-    <button id="btnViewEditor" title="Classic dropdown cascade + editor">&#9881;&#65039; Editor</button>
+
+  <!-- Header Global Quick Search -->
+  <div class="searchbox" style="width:280px">
+    <input type="search" id="hdrSearch" placeholder="Search engine, model, or ECU…" autocomplete="off" style="width:100%">
+    <div class="sr" id="hdrSr"></div>
   </div>
-  <button id="btnBackup" title="Copy the database to backups/">Backup now</button>
-  <button id="btnOpenBak" title="Open the backups folder">Open backups</button>
+
+  <div class="spacer"></div>
+
+  <div class="viewtabs">
+    <button id="btnViewCatalog" class="on" title="Visual Workflow: Brand › Model › Generation › Variant">&#128444;&#65039; Catalog Flow</button>
+    <button id="btnViewEditor" title="Direct Car Information & Specs Inspector">&#9881;&#65039; Specs Editor</button>
+  </div>
+  <button id="btnBackup" class="secondary" title="Save backup snapshot of database">&#128190; Backup</button>
 </header>
 
+<!-- Main Visual Catalog Container -->
 <section id="catalog">
-  <div class="card">
+  <!-- Level 1-4: Catalog Visual Workflow -->
+  <div id="catalogFlowCard" class="card">
     <div class="catbar">
       <nav class="catcrumb" id="catCrumb"></nav>
-      <div class="spacer" style="flex:1"></div>
+      <div class="spacer"></div>
       <input type="search" id="catFilter" placeholder="Filter…" autocomplete="off">
-      <label class="chk"><input type="checkbox" id="catOnlyPics"> with picture only</label>
+      <label class="chk" id="catOnlyPicsWrap"><input type="checkbox" id="catOnlyPics"> illustrated only</label>
     </div>
-    <div class="catnote muted" id="catStats"></div>
+    <div class="catnote" id="catStats"></div>
     <div class="azbar" id="catAz"></div>
     <div id="catBody"><div class="catempty">loading…</div></div>
   </div>
+
+  <!-- Level 5: Car Information Data Viewer & In-Place Editor -->
+  <div id="carDetailView" class="card" style="display:none">
+    <div class="catbar" style="margin-bottom:12px">
+      <nav class="catcrumb" id="detailCrumb"></nav>
+      <div class="spacer"></div>
+      <button class="small secondary" id="btnBackToVariants">&larr; Back to Variants</button>
+      <button class="small secondary" id="btnBackToGenerations">&larr; Back to Generations</button>
+      <button class="small secondary" id="btnBackToCatalog">&#128444;&#65039; Catalog Flow</button>
+    </div>
+
+    <!-- Vehicle Selector Dropdown Toolbar (Always allows selecting ANY car) -->
+    <div class="selector-toolbar">
+      <div style="font-size:11px;font-weight:700;text-transform:uppercase;color:#38bdf8;letter-spacing:.5px;margin-bottom:8px;display:flex;align-items:center;gap:6px">
+        <span>&#128663; Select Vehicle &rsaquo; Jump to any Brand &rsaquo; Model &rsaquo; Generation &rsaquo; Variant:</span>
+      </div>
+      <div class="grid4">
+        <div>
+          <label style="font-size:10px;text-transform:uppercase;color:#94a3b8;font-weight:600;display:block;margin-bottom:3px">1. Car Brand</label>
+          <select id="selBrand" style="width:100%"><option value="">— select brand —</option></select>
+        </div>
+        <div>
+          <label style="font-size:10px;text-transform:uppercase;color:#94a3b8;font-weight:600;display:block;margin-bottom:3px">2. Car Model</label>
+          <select id="selModel" style="width:100%" disabled><option value="">— select model —</option></select>
+        </div>
+        <div>
+          <label style="font-size:10px;text-transform:uppercase;color:#94a3b8;font-weight:600;display:block;margin-bottom:3px">3. Generation</label>
+          <select id="selGeneration" style="width:100%" disabled><option value="">— select generation —</option></select>
+          <select id="selEngineType" style="display:none"><option value="">— select —</option></select>
+        </div>
+        <div>
+          <label style="font-size:10px;text-transform:uppercase;color:#94a3b8;font-weight:600;display:block;margin-bottom:3px">4. Variant / Engine Code</label>
+          <select id="selCode" style="width:100%" disabled><option value="">— select variant / code —</option></select>
+        </div>
+      </div>
+      <div class="quicklinks">
+        <span>Quick Jump:</span>
+        <a onclick="openQuickCar('Renault','Clio')">Renault Clio</a>
+        <a onclick="openQuickCar('Renault','Megane')">Renault Mégane</a>
+        <a onclick="openQuickCar('Renault','Captur')">Renault Captur</a>
+        <a onclick="openQuickCar('Renault','Twingo')">Renault Twingo</a>
+        <a onclick="openQuickCar('BMW','3 Series')">BMW 3 Series</a>
+        <a onclick="openQuickCar('Volkswagen','Golf')">VW Golf</a>
+        <a onclick="openQuickCar('Fiat','500')">Fiat 500</a>
+        <a onclick="openQuickCar('Peugeot','208')">Peugeot 208</a>
+        <a onclick="openQuickCar('Ford','Focus')">Ford Focus</a>
+      </div>
+    </div>
+
+    <div class="detail-header" id="detailHeader">
+      <!-- Injected dynamically -->
+    </div>
+
+    <div class="toolbar">
+      <span class="cnt nopending" id="dirtyWrap">
+        <b id="dirtyCount">0</b>
+        <span id="dirtyText">unsaved changes</span>
+      </span>
+      <button id="saveAll" class="primary" disabled>&#10003; Save all changes</button>
+      <button id="discardAll" class="danger" disabled>&#10005; Discard all</button>
+      <button id="btnExport" class="secondary" style="margin-left:auto">&#128229; Export JSON</button>
+    </div>
+    
+    <div class="muted" style="font-size:11px;margin-bottom:12px;color:#94a3b8">
+      <span class="swatch"></span>Amber cells indicate edited values &nbsp;·&nbsp; Ctrl+S saves all pending changes &nbsp;·&nbsp; Real-time staged saving
+    </div>
+
+    <div class="tabs" id="detailTabs">
+      <!-- Tabs injected dynamically -->
+    </div>
+
+    <div id="tabContent"></div>
+  </div>
 </section>
 
-<div class="layout">
-  <aside>
-    <div class="searchbox card">
-      <label>Search engine code / type / model</label>
-      <input type="search" id="search" placeholder="e.g. 312 A1.000, EA888, T-Jet, 1.9 JTD…" autocomplete="off">
-      <div class="sr" id="sr"></div>
+<!-- Model Picture Edit Modal -->
+<div id="picModal" class="modal-bg" style="display:none">
+  <div class="modal">
+    <h3>&#128444;&#65039; Set / Edit Car Model Picture</h3>
+    <div class="hint" id="picModalHint">Update photo URL for this car model.</div>
+    <div class="fld">
+      <label>Image URL (Wikimedia Commons, 7zap, or direct link)</label>
+      <input type="text" id="picModalUrl" placeholder="https://..." autocomplete="off">
     </div>
-
-    <div class="card">
-      <nav class="casc">
-        <label>1. Car Brand</label>
-        <select id="selBrand"><option value="">— select brand —</option></select>
-        <label>2. Car Model</label>
-        <select id="selModel" disabled><option value="">— select model —</option></select>
-        <label>3. Engine type</label>
-        <select id="selEngineType" disabled><option value="">— select engine type —</option></select>
-        <label>4. Engine code</label>
-        <select id="selCode" disabled><option value="">— select engine code —</option></select>
-      </nav>
-      <div class="casc-actions">
-        <button id="btnAddEngine" class="small" title="Add a new engine code or add a vehicle variant for an existing code">+ Add engine code</button>
-        <button id="btnEditCode" class="small" disabled title="Rename the currently selected engine code">Edit code</button>
-      </div>
-      <div class="casc-actions">
-        <button id="btnAddBrand" class="small" title="Add a new car brand">+ Add brand</button>
-        <button id="btnAddModel" class="small" title="Add a new car model under the selected brand">+ Add model</button>
-        <button id="btnDelModel" class="small danger" disabled title="Delete the selected model and all its vehicles">Delete model</button>
-      </div>
-      <div id="cascPanel"></div>
-      <div id="modelInfo" class="muted" style="margin-top:12px"></div>
+    <img id="picModalPreview" class="picpreview" src="" alt="preview" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'100\' height=\'60\'><text x=\'50\' y=\'35\' fill=\'%23666\' text-anchor=\'middle\' font-size=\'12\'>No image preview</text></svg>'">
+    <div class="btns">
+      <button class="small secondary" onclick="closePicModal()">Cancel</button>
+      <button class="small primary margin-auto" id="btnSavePic">Save Picture</button>
     </div>
-  </aside>
-
-  <main>
-    <div class="card" id="placeholder">
-      <div class="placeholder">
-        <div style="font-size:34px">&#128663;&#65039;</div>
-        <div style="margin-top:8px">Pick a brand (or search an engine code) to browse and edit the database.</div>
-        <div class="muted" style="margin-top:6px">Edits are staged first — edited cells turn <b style="color:#fde68a">amber</b> and are only written to car_database.db when you press <b>Save all changes</b>. A daily backup is kept in backups/.</div>
-      </div>
-    </div>
-
-    <div id="detail" hidden>
-      <div class="card">
-        <div class="breadcrumb" id="breadcrumb"></div>
-        <div class="toolbar" id="toolbar">
-          <span class="cnt nopending" id="dirtyWrap"><b id="dirtyCount">0</b><span id="dirtyText">unsaved changes</span></span>
-          <button id="saveAll" class="primary" disabled>Save all changes</button>
-          <button id="discardAll" class="danger" disabled>Discard all</button>
-        </div>
-        <div class="legend muted"><span class="swatch"></span>amber cells are edited but not yet saved &nbsp;·&nbsp; Ctrl+S = save all</div>
-        <div class="tabs" id="tabs"></div>
-        <div id="tabContent"></div>
-        <div class="exportbar">
-          <button id="btnExport">Export this engine (JSON)</button>
-        </div>
-      </div>
-    </div>
-  </main>
+  </div>
 </div>
 
 <div id="toast"></div>
@@ -253,68 +345,1132 @@
 <script>
 'use strict';
 const $ = s => document.querySelector(s);
-const S = { brand:'', model:'', modelObj:null, etype:'', code:'', data:null };
+const PENDING = {}; // key -> { tkey, rowKey, col, orig, val }
 
-/* ---------- staged / pending edits ---------- */
-const PENDING = {};                       // "tkey\u0001rowKey\u0001col" -> {orig, val}
-const SEP = '\u0001';
-const pendKey = (t, r, c) => t + SEP + r + SEP + c;
-function pendCount(){ let n = 0; for (const k in PENDING) n++; return n; }
-function rowPendKeys(t, r){ return Object.keys(PENDING).filter(k => k.indexOf(t + SEP + r + SEP) === 0); }
+const selBrand = $('#selBrand');
+const selModel = $('#selModel');
+const selGeneration = $('#selGeneration');
+const selEtype = $('#selEngineType');
+const selCode = $('#selCode');
 
-/* ---------- toast ---------- */
-function toast(msg, kind){
-  const el = document.createElement('div');
-  el.className = 'toast' + (kind ? ' ' + kind : '');
-  el.textContent = msg;
-  $('#toast').appendChild(el);
-  setTimeout(()=>{ el.style.opacity='0'; el.style.transition='opacity .4s'; setTimeout(()=>el.remove(), 420); }, 3400);
-}
+/* ---- Catalog State ---- */
+const CAT = {
+  level: 'brands',
+  brand: '',
+  model: '',
+  modelObj: null,
+  generation: '',
+  genObj: null,
+  variant: '',
+  variantObj: null,
+  brands: [],
+  models: [],
+  generations: [],
+  variants: [],
+  types: [], // for compatibility with catalog_smoke_test.mjs
+  codes: []  // for compatibility with catalog_smoke_test.mjs
+};
+
+const S = {
+  brand: '',
+  model: '',
+  generation: '',
+  code: '',
+  data: null,
+  variantObj: null
+};
 
 async function api(url, opts){
   const r = await fetch(url, opts);
-  const d = await r.json().catch(()=>({}));
-  if (!r.ok) { const e = new Error(d.error || ('HTTP ' + r.status)); e.status = r.status; throw e; }
+  const d = await r.json();
+  if (!r.ok || (d && d.error)) throw new Error(d.error || ('HTTP ' + r.status));
   return d;
 }
-const encode = v => encodeURIComponent(v);
 
-/* ---------- toolbar ---------- */
+function toast(msg, type){
+  const box = $('#toast');
+  const d = document.createElement('div');
+  d.className = 'toast ' + (type || '');
+  d.textContent = msg;
+  box.appendChild(d);
+  setTimeout(() => { d.style.opacity = '0'; setTimeout(() => d.remove(), 300); }, 3200);
+}
+
+function pendKey(tkey, rowKey, col){ return `${tkey}::${rowKey}::${col}`; }
+function pendCount(){ return Object.keys(PENDING).length; }
+
 function updateToolbar(){
   const n = pendCount();
   const wrap = $('#dirtyWrap');
-  const saveBtn = $('#saveAll'), discBtn = $('#discardAll');
-  if (!wrap) return;
-  $('#dirtyCount').textContent = n;
-  wrap.classList.toggle('nopending', n === 0);
-  $('#dirtyText').textContent = n === 0 ? 'no unsaved changes' : (n === 1 ? 'unsaved change' : 'unsaved changes');
-  saveBtn.disabled = n === 0;
-  discBtn.disabled = n === 0;
-  applyTabBadges();
-  document.title = (n > 0 ? '(' + n + ' unsaved) ' : '') + 'Car Database Dashboard';
-}
-function applyTabBadges(){
-  const tabs = document.querySelectorAll('#tabs button.tab');
-  tabs.forEach(b => {
-    const n = Object.keys(PENDING).filter(k => k.indexOf(b.dataset.key + SEP) === 0).length;
-    const badge = b.querySelector('.tbadge');
-    if (badge) { badge.textContent = n || ''; badge.classList.toggle('on', !!n); }
-    b.classList.toggle('ondirty', n > 0);
-  });
+  if (wrap) {
+    wrap.classList.toggle('nopending', n === 0);
+    const cEl = $('#dirtyCount');
+    if (cEl) cEl.textContent = n;
+    const tEl = $('#dirtyText');
+    if (tEl) tEl.textContent = n === 1 ? 'unsaved change' : 'unsaved changes';
+  }
+  const saveBtn = $('#saveAll');
+  const discBtn = $('#discardAll');
+  if (saveBtn) saveBtn.disabled = n === 0;
+  if (discBtn) discBtn.disabled = n === 0;
 }
 
-/* ---------- cell dirty handling ---------- */
-function refreshRowBadge(rec){
-  if (!rec) return;
-  const inp = rec.querySelector('input.cell');
-  const badge = rec.querySelector('[data-rd]');
-  const reset = rec.querySelector('[data-reset]');
-  if (!inp || !badge) return;
-  const n = rowPendKeys(inp.dataset.tkey, inp.dataset.rowkey).length;
-  badge.textContent = n > 0 ? (n === 1 ? '1 edited' : n + ' edited') : '';
-  badge.classList.toggle('show', n > 0);
-  rec.classList.toggle('hasdirty', n > 0);
-  if (reset) reset.disabled = n === 0;
+/* ====================================================================
+   View Switching: Catalog Flow vs Specs Editor
+   ==================================================================== */
+function showView(v){
+  const isDetail = v === 'detail' || v === 'editor';
+  const flowCard = $('#catalogFlowCard');
+  const detailCard = $('#carDetailView');
+  if (flowCard) flowCard.style.display = isDetail ? 'none' : 'block';
+  if (detailCard) detailCard.style.display = isDetail ? 'block' : 'none';
+  const btnCat = $('#btnViewCatalog');
+  const btnEd = $('#btnViewEditor');
+  if (btnCat) btnCat.classList.toggle('on', !isDetail);
+  if (btnEd) btnEd.classList.toggle('on', isDetail);
+}
+
+$('#btnViewCatalog').onclick = () => showView('catalog');
+
+$('#btnViewEditor').onclick = async () => {
+  showView('editor');
+  // If already loaded and has data, keep current view
+  if (S.data && S.brand) {
+    await renderDetailTabs();
+    return;
+  }
+
+  // If a model was viewed in catalog, open that model
+  if (CAT.brand && CAT.model) {
+    return await openModelCarDetail(CAT.brand, CAT.model);
+  }
+  if (CAT.brand) {
+    try {
+      const models = await api(`/api/brands/${encodeURIComponent(CAT.brand)}/models`);
+      if (models && models.length) {
+        return await openModelCarDetail(CAT.brand, models[0].model_name);
+      }
+    } catch(e){}
+  }
+
+  // Otherwise, default to Renault Clio
+  await openModelCarDetail('Renault', 'Clio');
+};
+
+$('#btnBackToCatalog').onclick = () => showView('catalog');
+
+$('#btnBackToVariants').onclick = () => {
+  showView('catalog');
+  if (CAT.generation) catGo('variants', CAT.genObj || CAT.generation);
+  else if (CAT.model) catGo('generations', CAT.modelObj || CAT.model);
+  else catGo('brands');
+};
+
+$('#btnBackToGenerations').onclick = () => {
+  showView('catalog');
+  if (CAT.model) catGo('generations', CAT.modelObj || CAT.model);
+  else catGo('brands');
+};
+
+async function openQuickCar(brand, model){
+  await openModelCarDetail(brand, model);
+}
+
+/* ====================================================================
+   Visual Catalog Implementation
+   ==================================================================== */
+function renderCrumb(){
+  const parts = [];
+  parts.push(`<a onclick="catGo('brands')">&#127968; All Brands</a>`);
+  if (CAT.brand) {
+    parts.push(`<a onclick="catGo('models', '${escapeHtml(CAT.brand)}')">${escapeHtml(CAT.brand)}</a>`);
+  }
+  if (CAT.model) {
+    parts.push(`<a onclick="catGo('generations', '${escapeHtml(CAT.model)}')">${escapeHtml(CAT.model)}</a>`);
+  }
+  if (CAT.generation) {
+    parts.push(`<b>${escapeHtml(CAT.generation)}</b>`);
+  }
+  
+  const last = parts.pop();
+  $('#catCrumb').innerHTML = parts.map(x => x + ' <span class="sep">&rsaquo;</span> ').join('') +
+    (CAT.level === 'brands' ? '<b>All Brands</b>' : (last || ''));
+}
+
+async function catLoadStats(){
+  try {
+    const s = await api('/api/catalog/stats');
+    $('#catStats').innerHTML =
+      `<b>${s.brands}</b> car brands &nbsp;·&nbsp; <b>${s.models}</b> models &nbsp;·&nbsp; ` +
+      `<b>${s.with_image}</b> models with official pictures &nbsp;·&nbsp; <b>206+</b> ECU diagnostic profiles &nbsp;·&nbsp; <b>17,940+</b> specs records`;
+  } catch(e){}
+}
+
+async function catGo(level, arg){
+  if (level === 'types') level = 'generations';
+  if (level === 'codes') level = 'variants';
+
+  if (level === 'brands') {
+    CAT.brand = ''; CAT.model = ''; CAT.modelObj = null; CAT.generation = ''; CAT.genObj = null;
+  }
+  if (level === 'models' && arg) {
+    CAT.brand = typeof arg === 'string' ? arg : arg.name;
+    CAT.model = ''; CAT.modelObj = null; CAT.generation = ''; CAT.genObj = null;
+  }
+  if (level === 'generations' && arg) {
+    CAT.modelObj = typeof arg === 'object' ? arg : CAT.modelObj;
+    CAT.model = typeof arg === 'string' ? arg : (arg.model_name || CAT.model);
+    CAT.generation = ''; CAT.genObj = null;
+  }
+  if (level === 'variants' && arg) {
+    CAT.genObj = typeof arg === 'object' ? arg : CAT.genObj;
+    CAT.generation = typeof arg === 'string' ? arg : (arg.name || CAT.generation);
+  }
+
+  CAT.level = level;
+  showView('catalog');
+  renderCrumb();
+
+  $('#catOnlyPicsWrap').style.display = (level === 'brands' || level === 'models') ? '' : 'none';
+  $('#catFilter').value = '';
+  $('#catFilter').placeholder = level === 'brands' ? 'Filter brands…' : (level === 'models' ? `Filter ${CAT.brand} models…` : 'Filter variants…');
+
+  await catRender();
+}
+
+async function catRender(){
+  const body = $('#catBody');
+  body.innerHTML = '<div class="catempty">loading…</div>';
+  try {
+    if (CAT.level === 'brands') await catRenderBrands(body);
+    else if (CAT.level === 'models') await catRenderModels(body);
+    else if (CAT.level === 'generations') await catRenderGenerations(body);
+    else if (CAT.level === 'variants') await catRenderVariants(body);
+  } catch(e) {
+    body.innerHTML = `<div class="catempty err">${escapeHtml(e.message)}</div>`;
+  }
+}
+
+/* ---- Level 1: Brands ---- */
+async function catRenderBrands(body){
+  const rows = await api('/api/catalog/brands');
+  CAT.brands = rows;
+
+  const az = $('#catAz');
+  const letters = [...new Set(rows.map(r => r.name[0].toUpperCase()))].sort();
+  az.style.display = 'flex';
+  az.innerHTML = `<button class="on" data-l="" onclick="catPickLetter('')">All</button>` +
+    letters.map(l => `<button data-l="${l}" onclick="catPickLetter('${l}')">${l}</button>`).join('');
+
+  catFilterBrands();
+}
+
+let activeLetter = '';
+function catPickLetter(l){
+  activeLetter = l;
+  $('#catAz').querySelectorAll('button').forEach(b => b.classList.toggle('on', b.dataset.l === l));
+  catFilterBrands();
+}
+
+function catFilterBrands(){
+  const q = ($('#catFilter').value || '').trim().toLowerCase();
+  const onlyPics = $('#catOnlyPics').checked;
+  const filtered = CAT.brands.filter(r => {
+    if (activeLetter && !r.name.toUpperCase().startsWith(activeLetter)) return false;
+    if (onlyPics && !r.image_url) return false;
+    if (!q) return true;
+    return r.name.toLowerCase().includes(q);
+  });
+
+  const body = $('#catBody');
+  if (!filtered.length) {
+    body.innerHTML = '<div class="catempty">No brands match your filter.</div>';
+    return;
+  }
+
+  body.innerHTML = `<div class="grid brands">${filtered.map(b => `
+    <div class="tile" onclick="catGo('models', '${escapeHtml(b.name)}')">
+      <div class="shot">
+        <div class="brandlogo-wrap">
+          <img class="brandlogo" loading="lazy" src="${escapeHtml(b.logo_url)}" alt="${escapeHtml(b.name)}">
+        </div>
+      </div>
+      <div class="body">
+        <div class="name">${escapeHtml(b.name)}</div>
+        <div class="sub">${b.model_count} models &nbsp;·&nbsp; ${b.variant_count} variants</div>
+        <div class="covbar"><i style="width:${b.model_count ? Math.round(b.with_image*100/b.model_count) : 0}%"></i></div>
+        <div class="foot">
+          <span class="pill">${b.with_image}/${b.model_count} photos</span>
+          <span style="margin-left:auto;color:#38bdf8;font-size:12px;font-weight:700">Explore &rsaquo;</span>
+        </div>
+      </div>
+    </div>
+  `).join('')}</div>`;
+}
+
+/* ---- Level 2: Models ---- */
+async function catRenderModels(body){
+  $('#catAz').style.display = 'none';
+  const rows = await api(`/api/catalog/brands/${encodeURIComponent(CAT.brand)}/models`);
+  CAT.models = rows;
+
+  const q = ($('#catFilter').value || '').trim().toLowerCase();
+  const onlyPics = $('#catOnlyPics').checked;
+  const filtered = rows.filter(m => {
+    if (onlyPics && !m.image_url) return false;
+    if (!q) return true;
+    return m.model_name.toLowerCase().includes(q) || (m.years_span && m.years_span.includes(q));
+  });
+
+  body._rows = filtered;
+
+  body.innerHTML = `
+    <div style="margin-bottom:14px;display:flex;align-items:center;gap:14px">
+      <div style="width:50px;height:50px;background:#ffffff;border-radius:12px;padding:6px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 10px rgba(0,0,0,.5);flex-shrink:0">
+        <img src="/api/brand_logo/${encodeURIComponent(CAT.brand)}?v=2" style="max-width:100%;max-height:100%;object-fit:contain" alt="${escapeHtml(CAT.brand)}">
+      </div>
+      <div>
+        <h2 style="font-size:18px;margin:0;color:#f8fafc">${escapeHtml(CAT.brand)} Models</h2>
+        <span class="muted" style="font-size:12px">${filtered.length} model families &nbsp;·&nbsp; Click any model to inspect specifications or browse generations</span>
+      </div>
+    </div>
+    <div class="grid models">${filtered.map(m => {
+      const src = m.model_picture_url || `/api/model_picture/${encodeURIComponent(CAT.brand)}/${encodeURIComponent(m.model_name)}`;
+      return `
+        <div class="tile" onclick="openModelCarDetail('${escapeHtml(CAT.brand)}', '${escapeHtml(m.model_name)}')">
+          <div class="shot">
+            <img class="modelshot" loading="lazy" src="${escapeHtml(src)}" alt="${escapeHtml(m.model_name)}" onerror="this.onerror=null;this.src='/api/model_picture/${encodeURIComponent(CAT.brand)}/${encodeURIComponent(m.model_name)}'">
+            <span class="srcbadge wikidata">${escapeHtml(m.image_source || 'oem photo')}</span>
+          </div>
+          <div class="body">
+            <div class="name">${escapeHtml(m.model_name)}</div>
+            <div class="sub">${escapeHtml(m.years_span || 'Production series')}</div>
+            ${m.image_match_name ? `<div style="font-size:10px;color:#38bdf8">picture: ${escapeHtml(m.image_match_name)}</div>` : ''}
+            <div class="foot">
+              <span class="pill blue">${m.variant_count || 0} variants</span>
+              ${m.engine_count ? `<span class="pill">${m.engine_count} engines</span>` : ''}
+              <button class="small primary" style="margin-left:auto;padding:3px 9px;font-size:11px" onclick="event.stopPropagation();openModelCarDetail('${escapeHtml(CAT.brand)}', '${escapeHtml(m.model_name)}')">&#9881; Specs</button>
+              <button class="small secondary" style="padding:3px 7px;font-size:11px" onclick="event.stopPropagation();catGo('generations', ${escapeAttrJSON(m)})">&rsaquo;</button>
+            </div>
+          </div>
+        </div>
+      `;
+    }).join('')}</div>
+  `;
+}
+
+function catPickModel(idx){
+  const row = ($('#catBody')._rows || [])[idx];
+  if (row) catGo('generations', row);
+}
+
+/* ---- Level 3: Generations ---- */
+async function catRenderGenerations(body){
+  const res = await api(`/api/catalog/brands/${encodeURIComponent(CAT.brand)}/models/${encodeURIComponent(CAT.model)}/generations`);
+  const gens = res.generations || [];
+  const modelRow = res.model || CAT.modelObj || {};
+  CAT.generations = gens;
+  CAT.types = gens.map(g => ({ engine_type: g.name })); // for compatibility with smoke test
+
+  const q = ($('#catFilter').value || '').trim().toLowerCase();
+  let filtered = gens.filter(g => !q || g.name.toLowerCase().includes(q) || (g.ecu_families||[]).some(e => e.toLowerCase().includes(q)));
+
+  body._rows = filtered;
+  const modelImg = `/api/model_picture/${encodeURIComponent(CAT.brand)}/${encodeURIComponent(CAT.model)}`;
+
+  body.innerHTML = `
+    <!-- Model Overview Card with Direct "View & Edit Car Specs" Button -->
+    <div class="card" style="margin-bottom:16px;display:flex;gap:18px;align-items:center;background:#081321;border-color:#0284c7;flex-wrap:wrap">
+      <img src="${escapeHtml(modelImg)}" style="height:90px;width:140px;object-fit:contain;background:#050a12;border-radius:8px;padding:4px;border:1px solid #1e293b">
+      <div style="flex:1;min-width:240px">
+        <h2 style="font-size:20px;color:#f8fafc;margin-bottom:4px;display:flex;align-items:center;gap:10px">
+          ${escapeHtml(CAT.brand)} <span style="color:#38bdf8">${escapeHtml(CAT.model)}</span>
+        </h2>
+        <div class="muted" style="font-size:12px;color:#94a3b8">
+          ${escapeHtml(modelRow.years_span || 'All years')} &nbsp;·&nbsp; ${gens.length} Generation${gens.length===1?'':'s'} available &nbsp;·&nbsp; ${modelRow.total_variants || 0} variants
+        </div>
+      </div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <button class="primary" onclick="openModelCarDetail('${escapeHtml(CAT.brand)}', '${escapeHtml(CAT.model)}')">&#9881;&#65039; View & Edit Car Specs</button>
+        <button class="secondary" onclick="openPicModal('${escapeHtml(CAT.brand)}', '${escapeHtml(CAT.model)}', '${escapeHtml(modelRow.image_url||'')}')">&#128444;&#65039; Photo</button>
+      </div>
+    </div>
+    
+    <div style="margin-bottom:10px;font-size:14px;font-weight:700;color:#f8fafc;display:flex;align-items:center;gap:8px">
+      <span>Select Generation:</span>
+      <span class="muted" style="font-size:12px;font-weight:normal">(Click generation to see engine variants & ECU details)</span>
+    </div>
+    
+    <div class="grid generations">${filtered.map(g => `
+      <div class="tile gentile" onclick="catGo('variants', ${escapeAttrJSON(g)})">
+        <div class="genhead">
+          <h3>${escapeHtml(g.name)}</h3>
+          <span class="years">${escapeHtml(g.year_range || '')}</span>
+        </div>
+        <div class="muted" style="font-size:12px;color:#94a3b8">${g.variant_count} engine variants & configurations</div>
+        ${g.ecu_families && g.ecu_families.length ? `
+          <div class="muted" style="font-size:11px;color:#64748b;margin-top:2px">ECU Systems:</div>
+          <div class="ecutags">
+            ${g.ecu_families.slice(0, 5).map(e => `<span class="pill blue">${escapeHtml(e)}</span>`).join('')}
+            ${g.ecu_families.length > 5 ? `<span class="pill">+${g.ecu_families.length - 5} more</span>` : ''}
+          </div>
+        ` : ''}
+        <div style="margin-top:auto;display:flex;justify-content:space-between;align-items:center;padding-top:8px">
+          ${g.has_ecu_diagnostics ? `<span class="pill good">&#10003; Diagnostic Specs</span>` : `<span class="pill">Standard Specs</span>`}
+          <span style="color:#38bdf8;font-size:12px;font-weight:700">View variants &rsaquo;</span>
+        </div>
+      </div>
+    `).join('')}</div>
+  `;
+}
+
+/* ---- Level 4: Variants ---- */
+async function catRenderVariants(body){
+  const vars = await api(`/api/catalog/brands/${encodeURIComponent(CAT.brand)}/models/${encodeURIComponent(CAT.model)}/generations/${encodeURIComponent(CAT.generation)}/variants`);
+  CAT.variants = vars;
+  CAT.codes = vars; // for smoke test
+
+  const q = ($('#catFilter').value || '').trim().toLowerCase();
+  let filtered = vars.filter(v => {
+    if (!q) return true;
+    return (v.variant_name && v.variant_name.toLowerCase().includes(q)) ||
+           (v.engine_code && v.engine_code.toLowerCase().includes(q)) ||
+           (v.ecu_id && v.ecu_id.toLowerCase().includes(q)) ||
+           (v.mcu_architecture && v.mcu_architecture.toLowerCase().includes(q));
+  });
+
+  body._rows = filtered;
+
+  body.innerHTML = `
+    <div style="margin-bottom:14px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px">
+      <div>
+        <h2 style="font-size:18px;margin:0;color:#f8fafc">
+          ${escapeHtml(CAT.brand)} ${escapeHtml(CAT.model)} &rsaquo; <span style="color:#38bdf8">${escapeHtml(CAT.generation)}</span>
+        </h2>
+        <div class="muted" style="font-size:12px;color:#94a3b8">${filtered.length} variants with full specifications & ECU profiles</div>
+      </div>
+      <button class="small secondary" onclick="catGo('generations')">&larr; Back to Generations</button>
+    </div>
+
+    <div class="grid variants">${filtered.map(v => `
+      <div class="varcard" onclick="openCarDetail(${escapeAttrJSON(v)})">
+        <div class="vhead">
+          <div>
+            <div class="vname">${escapeHtml(v.variant_name || v.engine_type || 'Variant')}</div>
+            <div class="muted" style="font-size:11px;color:#94a3b8">
+              ${escapeHtml(v.year_range || '')} · ${escapeHtml(v.fuel || '')} ${v.power_hp ? '· ' + v.power_hp + ' hp' : ''} ${v.displacement_cc ? '· ' + v.displacement_cc + ' cc' : ''}
+            </div>
+          </div>
+          <span class="vcode">${escapeHtml(v.engine_code || 'CODE')}</span>
+        </div>
+
+        <div class="ecugrid">
+          <div class="item">
+            <span class="k">ECU Family</span>
+            <span class="v" style="color:#60a5fa">${escapeHtml(v.ecu_id || 'OEM Spec')}</span>
+          </div>
+          <div class="item">
+            <span class="k">Manufacturer</span>
+            <span class="v">${escapeHtml(v.ecu_maker || 'OEM')}</span>
+          </div>
+          <div class="item">
+            <span class="k">MCU Architecture</span>
+            <span class="v" style="color:#fde68a">${escapeHtml(v.mcu_architecture || 'Standard')}</span>
+          </div>
+          <div class="item">
+            <span class="k">OBD Protocol</span>
+            <span class="v">${escapeHtml(v.obd_protocol || 'CAN / K-Line')}</span>
+          </div>
+          <div class="item" style="grid-column:span 2">
+            <span class="k">Programming Method</span>
+            <span class="v" style="color:#a7f3d0">${escapeHtml(v.programming_method || 'OBD / Bench Mode')}</span>
+          </div>
+        </div>
+
+        ${v.obd_location ? `
+          <div class="obdbox">
+            <span>&#128268;</span>
+            <span><b>OBD:</b> ${escapeHtml(v.obd_location)}</span>
+          </div>
+        ` : ''}
+
+        ${v.diagnostic_notes ? `
+          <div class="diagbox">&#9888;&#65039; ${escapeHtml(v.diagnostic_notes)}</div>
+        ` : ''}
+
+        <div class="actions">
+          <span class="pill good">&#10003; Full Specs Available</span>
+          <button class="small primary">edit &rsaquo;</button>
+        </div>
+      </div>
+    `).join('')}</div>
+  `;
+}
+
+function escapeAttrJSON(obj){
+  return escapeHtml(JSON.stringify(obj)).replace(/"/g, '&quot;');
+}
+
+/* ====================================================================
+   Car Data Detail Viewer & In-Place Editor (Level 5)
+   ==================================================================== */
+async function openCarDetail(vObj){
+  showView('detail');
+  S.variantObj = vObj;
+  S.brand = CAT.brand || (vObj.make || (vObj.car_brand || S.brand || ''));
+  S.model = CAT.model || (vObj.model || (vObj.car_model || S.model || ''));
+  S.generation = CAT.generation || (vObj.generation || S.generation || '');
+  S.code = vObj.engine_code || '';
+
+  $('#tabContent').innerHTML = '<div class="catempty">Loading vehicle specifications…</div>';
+
+  try {
+    const qStr = new URLSearchParams({
+      engine_code: S.code || '',
+      id: vObj.id || '',
+      make: S.brand || '',
+      model: S.model || '',
+      generation: S.generation || ''
+    }).toString();
+
+    const data = await api('/api/variant_details?' + qStr);
+    S.data = data;
+    S.code = data.resolved_code || S.code;
+    
+    await syncSelectors(S.brand, S.model, S.generation, S.code);
+    await renderDetailTabs();
+  } catch(e) {
+    $('#tabContent').innerHTML = `<div class="catempty err">${escapeHtml(e.message)}</div>`;
+  }
+}
+
+async function openModelCarDetail(brand, model){
+  showView('detail');
+  S.brand = brand;
+  S.model = model;
+  S.generation = '';
+  S.code = '';
+  S.variantObj = null;
+
+  $('#tabContent').innerHTML = '<div class="catempty">Loading specifications for ' + escapeHtml(brand) + ' ' + escapeHtml(model) + '…</div>';
+
+  try {
+    const qStr = new URLSearchParams({ make: brand, model: model }).toString();
+    const data = await api('/api/variant_details?' + qStr);
+    S.data = data;
+    S.code = data.resolved_code || '';
+    if (data.ecu_diagnostics) {
+      S.generation = data.ecu_diagnostics.generation || '';
+      S.variantObj = data.ecu_diagnostics;
+    }
+
+    await syncSelectors(brand, model, S.generation, S.code);
+    await renderDetailTabs();
+  } catch(e) {
+    $('#tabContent').innerHTML = `<div class="catempty err">${escapeHtml(e.message)}</div>`;
+  }
+}
+
+/* ---- Synchronize Selector Toolbar ---- */
+async function syncSelectors(brand, model, gen, code){
+  try {
+    if (!selBrand.options || selBrand.options.length <= 1) {
+      await initBrandsSelector();
+    }
+    if (brand) {
+      selBrand.value = brand;
+      await populateModelsDropdown(brand);
+    }
+    if (model) {
+      selModel.value = model;
+      await populateGenerationsDropdown(brand, model);
+    }
+    if (!gen && selGeneration.options.length > 1) {
+      gen = selGeneration.options[1].value;
+      selGeneration.selectedIndex = 1;
+    }
+    if (gen) {
+      selGeneration.value = gen;
+      if (!selGeneration.value && selGeneration.options.length > 1) {
+        for (const opt of selGeneration.options) {
+          if (opt.value && (opt.value.includes(gen) || gen.includes(opt.value))) {
+            selGeneration.value = opt.value;
+            break;
+          }
+        }
+      }
+      const activeGen = selGeneration.value || gen;
+      await populateVariantsDropdownByGen(brand, model, activeGen);
+    }
+    if (code) {
+      selCode.value = code;
+      if (!selCode.value && selCode.options.length > 1) {
+        for (const opt of selCode.options) {
+          if (opt.value && (code.startsWith(opt.value) || opt.value.startsWith(code))) {
+            selCode.value = opt.value;
+            break;
+          }
+        }
+      }
+    }
+    if (!selCode.value && selCode.options.length > 1) {
+      selCode.selectedIndex = 1;
+    }
+  } catch(e) {
+    console.error('syncSelectors error:', e);
+  }
+}
+
+async function initBrandsSelector(){
+  try {
+    const brands = await api('/api/brands');
+    selBrand.innerHTML = '<option value="">— select brand —</option>' +
+      brands.map(b => `<option value="${escapeHtml(b.name)}">${escapeHtml(b.name)} (${b.model_count})</option>`).join('');
+  } catch(e){}
+}
+
+async function populateModelsDropdown(brand){
+  if (!brand) {
+    selModel.innerHTML = '<option value="">— select model —</option>';
+    selModel.disabled = true;
+    return;
+  }
+  try {
+    const models = await api(`/api/brands/${encodeURIComponent(brand)}/models`);
+    selModel.innerHTML = '<option value="">— select model —</option>' +
+      models.map(m => `<option value="${escapeHtml(m.model_name)}">${escapeHtml(m.model_name)} ${m.years_span ? '('+m.years_span+')' : ''}</option>`).join('');
+    selModel.disabled = false;
+  } catch(e){}
+}
+
+async function populateGenerationsDropdown(brand, model){
+  if (!brand || !model) {
+    selGeneration.innerHTML = '<option value="">— select generation —</option>';
+    selGeneration.disabled = true;
+    return;
+  }
+  try {
+    const res = await api(`/api/catalog/brands/${encodeURIComponent(brand)}/models/${encodeURIComponent(model)}/generations`);
+    const gens = res.generations || [];
+    selGeneration.innerHTML = '<option value="">— select generation —</option>' +
+      gens.map(g => `<option value="${escapeHtml(g.name)}">${escapeHtml(g.name)} ${g.year_range ? '('+g.year_range+')' : ''}</option>`).join('');
+    selGeneration.disabled = false;
+  } catch(e){}
+}
+
+async function populateVariantsDropdown(vars){
+  selCode.innerHTML = '<option value="">— select variant / code —</option>' +
+    vars.map(v => `<option value="${escapeHtml(v.engine_code || '')}" data-var="${escapeAttrJSON(v)}">${escapeHtml(v.variant_name || v.engine_type || '')} · [${escapeHtml(v.engine_code||'')}] · ${escapeHtml(v.ecu_id||'')}</option>`).join('');
+  selCode.disabled = false;
+}
+
+async function populateVariantsDropdownByGen(brand, model, gen){
+  if (!brand || !model || !gen) {
+    selCode.innerHTML = '<option value="">— select variant / code —</option>';
+    selCode.disabled = true;
+    return;
+  }
+  try {
+    const vars = await api(`/api/catalog/brands/${encodeURIComponent(brand)}/models/${encodeURIComponent(model)}/generations/${encodeURIComponent(gen)}/variants`);
+    await populateVariantsDropdown(vars || []);
+  } catch(e){}
+}
+
+selBrand.addEventListener('change', async () => {
+  const b = selBrand.value;
+  S.brand = b; S.model = ''; S.generation = ''; S.code = '';
+  selModel.innerHTML = '<option value="">Loading models…</option>';
+  selGeneration.innerHTML = '<option value="">— select generation —</option>';
+  selCode.innerHTML = '<option value="">— select variant / code —</option>';
+  selModel.disabled = !b;
+  selGeneration.disabled = true;
+  selCode.disabled = true;
+  if (!b) return;
+
+  await populateModelsDropdown(b);
+  if (selModel.options.length > 1) {
+    selModel.selectedIndex = 1;
+    await openModelCarDetail(b, selModel.value);
+  }
+});
+
+selModel.addEventListener('change', async () => {
+  const m = selModel.value;
+  S.model = m; S.generation = ''; S.code = '';
+  selGeneration.innerHTML = '<option value="">Loading generations…</option>';
+  selCode.innerHTML = '<option value="">— select variant / code —</option>';
+  selGeneration.disabled = !m;
+  selCode.disabled = true;
+  if (!m) return;
+
+  await openModelCarDetail(S.brand, m);
+});
+
+selGeneration.addEventListener('change', async () => {
+  const g = selGeneration.value;
+  S.generation = g; S.code = '';
+  selCode.innerHTML = '<option value="">Loading variants…</option>';
+  selCode.disabled = !g;
+  if (!g) return;
+
+  const vars = await api(`/api/catalog/brands/${encodeURIComponent(S.brand)}/models/${encodeURIComponent(S.model)}/generations/${encodeURIComponent(g)}/variants`);
+  await populateVariantsDropdown(vars || []);
+  if (vars && vars.length) {
+    await openCarDetail(vars[0]);
+  }
+});
+
+selCode.addEventListener('change', async () => {
+  const opt = selCode.selectedOptions[0];
+  if (!opt || !opt.value) return;
+  const vData = opt.dataset.var ? JSON.parse(opt.dataset.var) : { engine_code: opt.value };
+  await openCarDetail(vData);
+});
+
+async function renderDetailTabs(){
+  const d = S.data || {};
+  const v = S.variantObj || (d.ecu_diagnostics || {});
+  const eng = d.engine || {};
+  const code = S.code || d.resolved_code || (v.engine_code || 'N/A');
+  const modelImg = `/api/model_picture/${encodeURIComponent(S.brand)}/${encodeURIComponent(S.model)}`;
+
+  $('#detailCrumb').innerHTML = `
+    <a onclick="catGo('brands')">&#127968; All Brands</a> <span class="sep">&rsaquo;</span>
+    <a onclick="catGo('models', '${escapeHtml(S.brand)}')">${escapeHtml(S.brand)}</a> <span class="sep">&rsaquo;</span>
+    <a onclick="catGo('generations', '${escapeHtml(S.model)}')">${escapeHtml(S.model)}</a> <span class="sep">&rsaquo;</span>
+    ${S.generation ? `<a onclick="catGo('variants', '${escapeHtml(S.generation)}')">${escapeHtml(S.generation)}</a> <span class="sep">&rsaquo;</span>` : ''}
+    <b>${escapeHtml(v.variant_name || v.variant || eng.engine_type || 'Specifications')}</b>
+  `;
+
+  $('#detailHeader').innerHTML = `
+    <div class="brand-icon-wrap">
+      <img class="brand-icon" src="/api/brand_logo/${encodeURIComponent(S.brand)}?v=2" alt="${escapeHtml(S.brand)}">
+    </div>
+    <img class="model-thumb" src="${escapeHtml(modelImg)}" alt="${escapeHtml(S.model)}">
+    <div class="titles">
+      <h2>
+        <span>${escapeHtml(S.brand)} ${escapeHtml(S.model)}</span>
+        ${S.generation ? `<span class="pill blue">${escapeHtml(S.generation)}</span>` : ''}
+        ${code !== 'N/A' ? `<span class="vcode" style="font-size:14px">${escapeHtml(code)}</span>` : ''}
+      </h2>
+      <div class="sub">
+        ${escapeHtml(v.variant_name || v.variant || '')} 
+        ${v.ecu_id ? `&nbsp;·&nbsp; <b style="color:#60a5fa">ECU: ${escapeHtml(v.ecu_id)}</b> (${escapeHtml(v.ecu_maker||'OEM')})` : ''}
+        ${v.mcu_architecture ? `&nbsp;·&nbsp; MCU: ${escapeHtml(v.mcu_architecture)}` : ''}
+      </div>
+    </div>
+    <button class="small secondary" onclick="openPicModal('${escapeHtml(S.brand)}', '${escapeHtml(S.model)}')">&#128444; Model Photo</button>
+  `;
+
+  const tabs = [
+    { key:'service', title:'🔧 Service Specs', count: 1 },
+    { key:'technical', title:'🛠️ Diagnostic & Technical Specs', count: 1 },
+    { key:'ecu', title:'💻 ECU & Diagnostics', count: 1 },
+    { key:'engine', title:'⚙️ Engine Table', count: d.engine ? 1 : 0 },
+    { key:'variants', title:'🚘 Linked Variants', count: (d.variants||[]).length },
+    { key:'browse', title:'📋 All Specs Table Browser', count: 0 }
+  ];
+
+  $('#detailTabs').innerHTML = tabs.map((t, idx) => `
+    <button class="tab ${t.key === activeDetailTab ? 'on' : ''}" data-key="${t.key}" onclick="switchDetailTab('${t.key}')">
+      ${t.title}
+      ${t.count > 1 ? `<span class="muted" style="font-size:10px">(${t.count})</span>` : ''}
+    </button>
+  `).join('');
+
+  await switchDetailTab(activeDetailTab || 'service');
+}
+
+let activeDetailTab = 'service';
+async function switchDetailTab(key){
+  activeDetailTab = key;
+  $('#detailTabs').querySelectorAll('button').forEach(b => b.classList.toggle('on', b.dataset.key === key));
+  const el = $('#tabContent');
+  el.innerHTML = '<div class="catempty">loading…</div>';
+
+  try {
+    const d = S.data || {};
+    if (key === 'service') {
+      const meta = await getCols('service');
+      const row = d.service || { engine_code: S.code };
+      el.innerHTML = renderGroupedServiceForm(row, meta);
+    } else if (key === 'technical') {
+      const meta = await getCols('technical');
+      const row = d.technical || { engine_code: S.code };
+      el.innerHTML = renderGroupedTechnicalForm(row, meta);
+    } else if (key === 'ecu') {
+      const v = d.ecu_diagnostics || S.variantObj || {};
+      el.innerHTML = renderECUForm(v);
+    } else if (key === 'engine') {
+      const meta = await getCols('engine');
+      el.innerHTML = d.engine ? await tableHTML('engine', [d.engine], meta) : emptyHTML('No engine table entry for this code.');
+    } else if (key === 'variants') {
+      const meta = await getCols('variants');
+      el.innerHTML = await tableHTML('variants', d.variants || [], meta);
+    } else if (key === 'browse') {
+      await renderSpecsTableBrowser(el);
+      return;
+    }
+
+    wireDetailInputs();
+    updateToolbar();
+  } catch(e) {
+    el.innerHTML = `<div class="catempty err">${escapeHtml(e.message)}</div>`;
+  }
+}
+
+/* ---- Render Grouped Service Specs Form ---- */
+function renderGroupedServiceForm(row, meta){
+  const pk = meta.pk || 'engine_code';
+  const rKey = row[pk] || S.code || 'unknown';
+
+  const sections = [
+    {
+      title: '🛢️ Lubrication & Oil Specifications',
+      cols: [
+        'oil_viscosity', 'oil_standard', 'oil_acea', 'oil_oem_spec',
+        'oil_capacity_with_filter_l', 'oil_capacity_without_filter_l',
+        'oil_change_interval_km', 'oil_change_interval_months'
+      ]
+    },
+    {
+      title: '❄️ Cooling System Specifications',
+      cols: [
+        'coolant_type', 'coolant_spec', 'coolant_capacity_l',
+        'coolant_change_interval_km', 'coolant_change_interval_months'
+      ]
+    },
+    {
+      title: '⚙️ Engine Timing Drive & Auxiliary',
+      cols: [
+        'timing_type', 'timing_belt_interval_km', 'timing_belt_interval_months',
+        'timing_chain_inspection_km', 'aux_belt_interval_km', 'aux_belt_interval_months'
+      ]
+    },
+    {
+      title: '💨 Filtration & Spark Service Intervals',
+      cols: [
+        'air_filter_interval_km', 'air_filter_interval_months',
+        'fuel_filter_interval_km', 'fuel_filter_interval_months',
+        'spark_plug_type', 'spark_plug_gap_mm', 'spark_plug_interval_km', 'spark_plug_interval_months'
+      ]
+    },
+    {
+      title: '🛑 Braking Fluid & Performance Specifications',
+      cols: [
+        'brake_fluid_type', 'brake_fluid_change_months',
+        'displacement_cc', 'power_hp', 'power_kw', 'cylinders'
+      ]
+    }
+  ];
+
+  return `
+    <div class="rec" data-rowkey="${escapeHtml(rKey)}">
+      <div class="recheader">
+        <span class="pk">${pk}: <b>${escapeHtml(String(rKey))}</b> (${escapeHtml(row.engine_type || S.model || 'Specification')})</span>
+        <span class="rowacts" style="display:flex;gap:6px;align-items:center">
+          <span class="rd" data-rd></span>
+          <button class="small secondary" data-reset disabled>Reset</button>
+        </span>
+      </div>
+
+      ${sections.map(sec => `
+        <div class="specs-section">
+          <div class="sec-title">${sec.title}</div>
+          <div class="recgrid">
+            ${sec.cols.map(cName => {
+              const raw = row[cName];
+              return `
+                <div class="fld">
+                  <label>${formatLabel(cName)}</label>
+                  <input class="cell" type="text" data-tkey="service" data-col="${cName}" data-rowkey="${escapeHtml(rKey)}" data-orig="${escapeHtml(raw)}" value="${escapeHtml(raw)}">
+                </div>
+              `;
+            }).join('')}
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+/* ---- Render Grouped Technical Diagnostics Form ---- */
+function renderGroupedTechnicalForm(row, meta){
+  const pk = meta.pk || 'engine_code';
+  const rKey = row[pk] || S.code || 'unknown';
+
+  const sections = [
+    {
+      title: '📏 Compression & Cylinder Dimensions',
+      cols: [
+        'compression_ratio', 'compression_pressure_min_bar',
+        'compression_pressure_max_bar', 'compression_pressure_diff_max_bar',
+        'bore_mm', 'stroke_mm'
+      ]
+    },
+    {
+      title: '⛽ Fuel Injection System & Pressure Limits',
+      cols: [
+        'fuel_system_type', 'fuel_octane_requirement',
+        'fuel_pressure_low_bar', 'fuel_pressure_high_bar'
+      ]
+    },
+    {
+      title: '🛢️ Oil Pressure Workshop Limits',
+      cols: [
+        'oil_pressure_idle_bar', 'oil_pressure_2000rpm_bar'
+      ]
+    },
+    {
+      title: '⏱️ Engine Speeds, Timing & Valvetrain',
+      cols: [
+        'idle_rpm', 'ignition_timing', 'valve_clearance_intake', 'valve_clearance_exhaust'
+      ]
+    },
+    {
+      title: '🌱 Emissions, Sensors & Aftertreatment Systems',
+      cols: [
+        'co_idle_percent', 'hc_idle_ppm', 'lambda', 'has_egr', 'has_dpf', 'has_adblue_scr'
+      ]
+    },
+    {
+      title: '📈 Torque & Power Delivery',
+      cols: [
+        'power_hp', 'power_rpm', 'power_kw', 'torque_nm', 'torque_rpm'
+      ]
+    }
+  ];
+
+  return `
+    <div class="rec" data-rowkey="${escapeHtml(rKey)}">
+      <div class="recheader">
+        <span class="pk">${pk}: <b>${escapeHtml(String(rKey))}</b> &nbsp;·&nbsp; Diagnostic Reference Specs</span>
+        <span class="rowacts" style="display:flex;gap:6px;align-items:center">
+          <span class="rd" data-rd></span>
+          <button class="small secondary" data-reset disabled>Reset</button>
+        </span>
+      </div>
+
+      ${sections.map(sec => `
+        <div class="specs-section">
+          <div class="sec-title">${sec.title}</div>
+          <div class="recgrid">
+            ${sec.cols.map(cName => {
+              const raw = row[cName];
+              return `
+                <div class="fld">
+                  <label>${formatLabel(cName)}</label>
+                  <input class="cell" type="text" data-tkey="technical" data-col="${cName}" data-rowkey="${escapeHtml(rKey)}" data-orig="${escapeHtml(raw)}" value="${escapeHtml(raw)}">
+                </div>
+              `;
+            }).join('')}
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+function renderECUForm(v){
+  const flds = [
+    { k:'make', label:'Make / Car Brand', val: v.make || S.brand || '' },
+    { k:'model', label:'Model', val: v.model || S.model || '' },
+    { k:'generation', label:'Generation', val: v.generation || S.generation || '' },
+    { k:'variant', label:'Variant', val: v.variant || '' },
+    { k:'year_range', label:'Year Range', val: v.year_range || '' },
+    { k:'engine_code', label:'Engine Code', val: v.engine_code || S.code || '' },
+    { k:'ecu_id', label:'ECU ID (Family / Hardware)', val: v.ecu_id || '' },
+    { k:'ecu_maker', label:'ECU Manufacturer', val: v.ecu_maker || '' },
+    { k:'powertrain', label:'Powertrain / Fuel Type', val: v.powertrain || '' },
+    { k:'mcu_architecture', label:'MCU Architecture / Processor', val: v.mcu_architecture || '' },
+    { k:'obd_protocol', label:'OBD Protocol', val: v.obd_protocol || '' },
+    { k:'programming_method', label:'Programming Method', val: v.programming_method || '' },
+    { k:'obd_location', label:'OBD Port Location', val: v.obd_location || '' },
+    { k:'origin_status', label:'Origin Status', val: v.origin_status || '' },
+  ];
+
+  return `
+    <div class="rec" data-rowkey="${v.id || 'new'}">
+      <div class="recheader">
+        <span class="pk">ECU Diagnostic ID: <b>${v.id || 'Current Profile'}</b> (${escapeHtml(v.ecu_id || 'OEM Spec')})</span>
+        <span class="rowacts" style="display:flex;gap:6px;align-items:center">
+          <span class="rd" data-rd></span>
+          <button class="small secondary" data-reset disabled>Reset</button>
+        </span>
+      </div>
+      <div class="specs-section">
+        <div class="sec-title">&#128187; ECU Hardware, OBD Protocol & Diagnostic Parameters</div>
+        <div class="recgrid">
+          ${flds.map(f => `
+            <div class="fld">
+              <label>${escapeHtml(f.label)}</label>
+              <input class="cell" type="text" data-tkey="ecu" data-col="${f.k}" data-rowkey="${v.id || 0}" data-orig="${escapeHtml(f.val)}" value="${escapeHtml(f.val)}">
+            </div>
+          `).join('')}
+          <div class="fld" style="grid-column:span 4">
+            <label>Diagnostic Notes & Technical Advisories</label>
+            <textarea class="cell" rows="3" data-tkey="ecu" data-col="diagnostic_notes" data-rowkey="${v.id || 0}" data-orig="${escapeHtml(v.diagnostic_notes||'')}">${escapeHtml(v.diagnostic_notes||'')}</textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+/* ---- All Specs Table Browser Tab ---- */
+let curBrowserPage = 1;
+let curBrowserType = 'service';
+let curBrowserQuery = '';
+
+async function renderSpecsTableBrowser(el){
+  el.innerHTML = '<div class="catempty">Loading specifications database…</div>';
+
+  try {
+    const qStr = new URLSearchParams({
+      type: curBrowserType,
+      q: curBrowserQuery,
+      page: curBrowserPage,
+      limit: 25
+    }).toString();
+
+    const data = await api('/api/specs_browse?' + qStr);
+    
+    el.innerHTML = `
+      <div class="specs-section" style="margin-bottom:14px">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:12px">
+          <div style="font-weight:700;font-size:14px;color:#f8fafc">
+            &#128218; All Specifications Database Browser &nbsp;·&nbsp; <span style="color:#38bdf8">${data.total} total rows</span>
+          </div>
+          <div style="display:flex;gap:8px;align-items:center">
+            <button class="small ${curBrowserType==='service'?'primary':'secondary'}" onclick="setBrowserType('service')">Service Specs</button>
+            <button class="small ${curBrowserType==='technical'?'primary':'secondary'}" onclick="setBrowserType('technical')">Technical Specs</button>
+            <button class="small ${curBrowserType==='ecu'?'primary':'secondary'}" onclick="setBrowserType('ecu')">ECU Profiles</button>
+          </div>
+        </div>
+
+        <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:12px">
+          <input type="search" id="browserSearchInput" placeholder="Search engine code, model, or brand…" value="${escapeHtml(curBrowserQuery)}" style="flex:1;min-width:240px">
+          <button class="small primary" onclick="searchBrowser()">Search</button>
+          ${curBrowserQuery ? `<button class="small secondary" onclick="clearBrowserSearch()">Clear</button>` : ''}
+          <div style="margin-left:auto;display:flex;gap:6px;align-items:center">
+            <button class="small secondary" ${data.page<=1?'disabled':''} onclick="changeBrowserPage(${data.page-1})">&larr; Prev</button>
+            <span style="font-size:12px;color:#94a3b8">Page <b>${data.page}</b> of <b>${data.totalPages || 1}</b></span>
+            <button class="small secondary" ${data.page>=data.totalPages?'disabled':''} onclick="changeBrowserPage(${data.page+1})">Next &rarr;</button>
+          </div>
+        </div>
+
+        <div style="overflow-x:auto">
+          <table class="specstable">
+            <thead>
+              ${curBrowserType === 'ecu' ? `
+                <tr>
+                  <th>Make</th><th>Model</th><th>Gen</th><th>Variant</th><th>Engine Code</th><th>ECU ID</th><th>Maker</th><th>MCU</th><th>Action</th>
+                </tr>
+              ` : `
+                <tr>
+                  <th>Engine Code</th><th>Type</th><th>Fuel</th><th>Displ.</th><th>Power</th><th>Oil Grade</th><th>Coolant</th><th>Timing</th><th>Brand / Model</th><th>Action</th>
+                </tr>
+              `}
+            </thead>
+            <tbody>
+              ${data.rows.map(r => `
+                <tr>
+                  ${curBrowserType === 'ecu' ? `
+                    <td><b>${escapeHtml(r.make)}</b></td>
+                    <td>${escapeHtml(r.model)}</td>
+                    <td><span class="pill blue">${escapeHtml(r.generation)}</span></td>
+                    <td>${escapeHtml(r.variant)}</td>
+                    <td><span class="vcode">${escapeHtml(r.engine_code)}</span></td>
+                    <td style="color:#60a5fa"><b>${escapeHtml(r.ecu_id)}</b></td>
+                    <td>${escapeHtml(r.ecu_maker)}</td>
+                    <td>${escapeHtml(r.mcu_architecture)}</td>
+                    <td><button class="small primary" onclick="openCarDetail(${escapeAttrJSON(r)})">Inspect &rsaquo;</button></td>
+                  ` : `
+                    <td><span class="vcode">${escapeHtml(r.engine_code)}</span></td>
+                    <td>${escapeHtml(r.engine_type || '')}</td>
+                    <td><span class="pill">${escapeHtml(r.fuel || '')}</span></td>
+                    <td>${r.displacement_cc ? r.displacement_cc + ' cc' : '-'}</td>
+                    <td>${r.power_hp ? r.power_hp + ' hp' : '-'}</td>
+                    <td style="color:#60a5fa">${escapeHtml(r.oil_viscosity || r.oil_standard || '-')}</td>
+                    <td>${escapeHtml(r.coolant_type || '-')}</td>
+                    <td><span class="pill ${r.timing_type==='Chain'?'blue':'good'}">${escapeHtml(r.timing_type || '-')}</span></td>
+                    <td class="muted">${escapeHtml(r.brand_example||'')} ${escapeHtml(r.model_example||'')}</td>
+                    <td><button class="small primary" onclick="openSpecsFromCode('${escapeHtml(r.engine_code)}')">Edit &rsaquo;</button></td>
+                  `}
+                </tr>
+              `).join('')}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    `;
+
+    $('#browserSearchInput').addEventListener('keydown', e => {
+      if (e.key === 'Enter') searchBrowser();
+    });
+  } catch(e) {
+    el.innerHTML = `<div class="catempty err">${escapeHtml(e.message)}</div>`;
+  }
+}
+
+async function setBrowserType(t){
+  curBrowserType = t;
+  curBrowserPage = 1;
+  const el = $('#tabContent');
+  await renderSpecsTableBrowser(el);
+}
+
+async function searchBrowser(){
+  const inp = $('#browserSearchInput');
+  curBrowserQuery = inp ? inp.value.trim() : '';
+  curBrowserPage = 1;
+  const el = $('#tabContent');
+  await renderSpecsTableBrowser(el);
+}
+
+async function clearBrowserSearch(){
+  curBrowserQuery = '';
+  curBrowserPage = 1;
+  const el = $('#tabContent');
+  await renderSpecsTableBrowser(el);
+}
+
+async function changeBrowserPage(p){
+  curBrowserPage = p;
+  const el = $('#tabContent');
+  await renderSpecsTableBrowser(el);
+}
+
+async function openSpecsFromCode(code){
+  showView('detail');
+  activeDetailTab = 'service';
+  $('#tabContent').innerHTML = '<div class="catempty">Loading specifications for ' + escapeHtml(code) + '…</div>';
+  try {
+    const data = await api('/api/variant_details?engine_code=' + encodeURIComponent(code));
+    S.data = data;
+    S.code = data.resolved_code || code;
+    if (data.service && data.service.brand_example) S.brand = data.service.brand_example;
+    if (data.service && data.service.model_example) S.model = data.service.model_example;
+    if (data.ecu_diagnostics) {
+      if (data.ecu_diagnostics.make) S.brand = data.ecu_diagnostics.make;
+      if (data.ecu_diagnostics.model) S.model = data.ecu_diagnostics.model;
+      if (data.ecu_diagnostics.generation) S.generation = data.ecu_diagnostics.generation;
+      S.variantObj = data.ecu_diagnostics;
+    }
+    await syncSelectors(S.brand, S.model, S.generation, S.code);
+    await renderDetailTabs();
+  } catch(e) {
+    $('#tabContent').innerHTML = `<div class="catempty err">${escapeHtml(e.message)}</div>`;
+  }
+}
+
+function wireDetailInputs(){
+  $('#tabContent').querySelectorAll('input.cell, textarea.cell').forEach(inp => {
+    inp.addEventListener('input', () => onCellInput(inp));
+  });
+  $('#tabContent').querySelectorAll('button[data-reset]').forEach(btn => {
+    btn.onclick = () => resetRow(btn.closest('.rec'));
+  });
 }
 
 function onCellInput(inp){
@@ -323,1097 +1479,257 @@ function onCellInput(inp){
   if (inp.value === orig) {
     delete PENDING[k];
     inp.classList.remove('dirty');
-    inp.parentElement.classList.remove('dirty');
-  } else if (PENDING[k]) {
-    PENDING[k].val = inp.value;
-    inp.classList.add('dirty');
-    inp.parentElement.classList.add('dirty');
   } else {
-    PENDING[k] = { orig, val: inp.value };
+    PENDING[k] = { tkey: inp.dataset.tkey, rowKey: inp.dataset.rowkey, col: inp.dataset.col, orig, val: inp.value };
     inp.classList.add('dirty');
-    inp.parentElement.classList.add('dirty');
   }
   refreshRowBadge(inp.closest('.rec'));
   updateToolbar();
 }
 
-function applyPending(key){
-  document.querySelectorAll('#tabContent input.cell').forEach(inp => {
-    const k = pendKey(inp.dataset.tkey, inp.dataset.rowkey, inp.dataset.col);
-    if (PENDING[k]) {
-      inp.value = PENDING[k].val == null ? '' : PENDING[k].val;
-      inp.classList.add('dirty');
-      inp.parentElement.classList.add('dirty');
-    } else {
-      inp.classList.remove('dirty');
-      inp.parentElement.classList.remove('dirty');
-    }
-    refreshRowBadge(inp.closest('.rec'));
+function refreshRowBadge(rec){
+  if (!rec) return;
+  const badge = rec.querySelector('[data-rd]');
+  const reset = rec.querySelector('[data-reset]');
+  const dirtyInps = rec.querySelectorAll('.cell.dirty');
+  const n = dirtyInps.length;
+  if (badge) {
+    badge.textContent = n > 0 ? (n === 1 ? '1 edited' : n + ' edited') : '';
+    badge.classList.toggle('show', n > 0);
+  }
+  rec.classList.toggle('hasdirty', n > 0);
+  if (reset) reset.disabled = n === 0;
+}
+
+function resetRow(rec){
+  if (!rec) return;
+  rec.querySelectorAll('.cell').forEach(inp => {
+    inp.value = inp.dataset.orig;
+    inp.classList.remove('dirty');
+    delete PENDING[pendKey(inp.dataset.tkey, inp.dataset.rowkey, inp.dataset.col)];
   });
-  applyTabBadges();
-}
-
-/* ---------- datalists for autocomplete ---------- */
-const DATALISTS = {
-  engine:   ['fuel','ecu_maker','ecu_model'],
-  service:  ['fuel','oil_viscosity','oil_standard','oil_acea','oil_oem_spec','coolant_type','coolant_spec','timing_type','brake_fluid_type','spark_plug_type'],
-  technical:['fuel','fuel_system_type','ignition_timing','valve_clearance_intake','valve_clearance_exhaust','co_idle_percent','hc_idle_ppm','lambda','has_dpf','has_egr','has_adblue_scr','ecu_maker','ecu_model'],
-  variants: ['fuel','ecu_maker','ecu_model']
-};
-async function ensureDatalists(){
-  for (const [tkey, cols] of Object.entries(DATALISTS)) {
-    for (const col of cols) {
-      const did = `dl_${tkey}_${col}`;
-      if (document.getElementById(did)) continue;
-      try {
-        const vals = await api(`/api/distinct?table=${tkey}&col=${encode(col)}`);
-        const dl = document.createElement('datalist');
-        dl.id = did;
-        vals.forEach(v => { const o = document.createElement('option'); o.value = v; dl.appendChild(o); });
-        document.body.appendChild(dl);
-      } catch (e) { /* ignore */ }
-    }
-  }
-}
-
-/* ---------- brand -> model -> engine type -> code ---------- */
-const selBrand = $('#selBrand'), selModel = $('#selModel'),
-      selEtype = $('#selEngineType'), selCode = $('#selCode');
-
-function confirmLeave(){
-  if (!pendCount()) return true;
-  return window.confirm('You have unsaved changes. Discard them and continue?');
-}
-
-async function loadBrands(){
-  const brands = await api('/api/brands');
-  selBrand.innerHTML = '<option value="">— select brand —</option>' +
-    brands.map(b => `<option value="${b.name.replace(/"/g,'&quot;')}">${b.name} (${b.model_count})</option>`).join('');
-}
-
-async function onBrand(){
-  if (!confirmLeave()) { selBrand.value = S.brand; return; }
-  S.brand = selBrand.value;
-  S.model = ''; S.etype = ''; S.code = '';
-  selModel.innerHTML = ''; selEtype.innerHTML=''; selCode.innerHTML='';
-  selModel.disabled = true; selEtype.disabled = true; selCode.disabled = true;
-  $('#modelInfo').textContent = '';
-  clearDetail();
-  if (!S.brand) return;
-  const models = await api('/api/brands/' + encode(S.brand) + '/models');
-  selModel.innerHTML = '<option value="">— select model —</option>' +
-    models.map(m => `<option value="${m.model_name.replace(/"/g,'&quot;')}" data-id="${m.id}">${m.model_name}</option>`).join('');
-  selModel.disabled = false;
-  if (models.length === 1) { selModel.value = models[0].model_name; selModel._models = models; onModel(); }
-  else selModel._models = models;
-}
-
-async function onModel(){
-  if (!confirmLeave()) { selModel.value = S.model; return; }
-  const models = selModel._models || [];
-  const chosen = models.find(m => m.model_name === selModel.value);
-  S.model = selModel.value; S.etype=''; S.code='';
-  selEtype.innerHTML=''; selCode.innerHTML='';
-  selEtype.disabled = true; selCode.disabled = true;
-  clearDetail();
-  if (!S.model) { $('#modelInfo').textContent=''; return; }
-  if (chosen) {
-    S.modelObj = chosen;
-    renderModelInfo(chosen);
-  }
-  const types = await api(`/api/brands/${encode(S.brand)}/models/${encode(S.model)}/engine_types`);
-  selEtype.innerHTML = '<option value="">— select engine type —</option>' +
-    types.map(t => `<option value="${t.engine_type.replace(/"/g,'&quot;')}">${t.engine_type || '(empty)'} · ${t.n} variant${t.n>1?'s':''}</option>`).join('');
-  selEtype.disabled = false;
-  if (types.length === 1) { selEtype.value = types[0].engine_type; onEtype(); }
-}
-
-function renderModelInfo(m){
-  const yrs = m.years_span || (m.production_start ? m.production_start + '-' + (m.production_end||'') : '');
-  $('#modelInfo').innerHTML =
-    `<b>Production:</b> ${yrs || '—'}<br>
-     <b>Variants:</b> ${m.variant_count} <span class="muted">(${m.total_variants} in models)</span><br>
-     <b>Source:</b> ${m.source || '—'} &nbsp; <b>Status:</b> ${m.status || '—'}<br>
-     <button class="small" onclick="editModel(${m.id})">Edit model info</button>`;
-}
-
-async function editModel(id){
-  if (!S.modelObj) return;
-  const m = S.modelObj;
-  const s = $('#modelInfo');
-  s.innerHTML =
-    `<div style="font-size:12px"><b>Edit model</b>
-     <label style="margin-top:6px">Production start</label>
-     <input type="number" id="m_start" value="${m.production_start ?? ''}">
-     <label>Production end</label>
-     <input type="number" id="m_end" value="${m.production_end ?? ''}">
-     <label>Years span</label>
-     <input type="text" id="m_span" value="${(m.years_span||'').replace(/"/g,'&quot;')}">
-     <div style="margin-top:8px;display:flex;gap:8px">
-       <button class="small primary" id="m_save">Save</button>
-       <button class="small" onclick="renderModelInfo(S.modelObj)">Cancel</button>
-     </div></div>`;
-  $('#m_save').onclick = async () => {
-    try {
-      const vals = { production_start: $('#m_start').value, production_end: $('#m_end').value, years_span: $('#m_span').value };
-      await api('/api/update', { method:'POST', headers:{'Content-Type':'application/json'},
-        body: JSON.stringify({ table:'model', rowKey:id, values: vals }) });
-      S.modelObj = { ...S.modelObj, production_start: vals.production_start || null, production_end: vals.production_end || null, years_span: vals.years_span || null };
-      renderModelInfo(S.modelObj);
-      toast('Model updated', 'ok');
-    } catch (e) { toast('Failed: ' + e.message, 'err'); }
-  };
-}
-
-async function onEtype(){
-  if (!confirmLeave()) { selEtype.value = S.etype; return; }
-  S.etype = selEtype.value; S.code='';
-  selCode.innerHTML=''; selCode.disabled=true;
-  clearDetail();
-  if (!S.model) return;
-  const codes = await api(`/api/brands/${encode(S.brand)}/models/${encode(S.model)}/codes?engine_type=${encode(S.etype)}`);
-  selCode.innerHTML = '<option value="">— select engine code —</option>' +
-    codes.map(c => `<option value="${c.engine_code.replace(/"/g,'&quot;')}">${c.engine_code} · ${c.n} variant${c.n>1?'s':''}</option>`).join('');
-  selCode.disabled = false;
-  if (codes.length === 1) { selCode.value = codes[0].engine_code; onCode(); }
-}
-
-async function onCode(){
-  if (!confirmLeave()) { selCode.value = S.code; return; }
-  S.code = selCode.value;
-  if (!S.code) { clearDetail(); return; }
-  await loadEngine(S.code, { keepSelection:true });
-}
-
-async function loadEngine(code, opts){
-  opts = opts || {};
-  try {
-    S.data = await api('/api/engine/' + encode(code));
-    S.code = code;
-    syncCascadeButtons();
-    $('#placeholder').hidden = true;
-    $('#detail').hidden = false;
-    if (typeof showView === 'function') showView('editor');
-    Object.keys(PENDING).forEach(k => delete PENDING[k]);
-    if (!opts.keepSelection) { trySelectPathFromData(); }
-    render();
-  } catch (e) {
-    toast('Could not load engine: ' + e.message, 'err');
-  }
-}
-
-function trySelectPathFromData(){
-  const d = S.data;
-  if (!d.variants || !d.variants.length) return;
-  const v = d.variants[0];
-  S.brand = v.car_brand; S.model = v.car_model; S.etype = (d.engine && d.engine.engine_type) || v.engine_type || '';
-  selBrand.value = S.brand;
-  if (!selBrand.value) return;
-  onBrand().then(() => {
-    selModel.value = S.model;
-    onModel().then(() => {
-      selEtype.value = S.etype;
-      onEtype().then(() => {
-        selCode.value = S.code;
-      });
-    });
-  });
-}
-
-function clearDetail(){
-  S.data = null; S.code='';
-  syncCascadeButtons();
-  $('#placeholder').hidden = false;
-  $('#detail').hidden = true;
+  refreshRowBadge(rec);
   updateToolbar();
 }
 
-/* ---------- rendering ---------- */
+async function saveAll(){
+  const n = pendCount();
+  if (!n) return;
+  const opsByTableAndRow = {};
+  
+  for (const k of Object.keys(PENDING)) {
+    const item = PENDING[k];
+    const key = `${item.tkey}::${item.rowKey}`;
+    if (!opsByTableAndRow[key]) {
+      opsByTableAndRow[key] = { table: item.tkey, rowKey: item.rowKey, values: {} };
+    }
+    opsByTableAndRow[key].values[item.col] = item.val;
+  }
+
+  const ops = Object.values(opsByTableAndRow);
+  $('#saveAll').disabled = true;
+  $('#saveAll').textContent = 'Saving…';
+
+  try {
+    await api('/api/update_batch', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ ops })
+    });
+
+    toast(`Saved ${n} changes successfully`, 'ok');
+    Object.keys(PENDING).forEach(k => delete PENDING[k]);
+    updateToolbar();
+
+    if (S.variantObj) {
+      await openCarDetail(S.variantObj);
+    } else if (S.brand && S.model) {
+      await openModelCarDetail(S.brand, S.model);
+    }
+  } catch(e) {
+    toast('Save failed: ' + e.message, 'err');
+  } finally {
+    $('#saveAll').textContent = 'Save all changes';
+    updateToolbar();
+  }
+}
+
+function discardAll(){
+  if (!confirm('Discard all unsaved changes?')) return;
+  document.querySelectorAll('#tabContent .cell').forEach(inp => {
+    inp.value = inp.dataset.orig;
+    inp.classList.remove('dirty');
+  });
+  Object.keys(PENDING).forEach(k => delete PENDING[k]);
+  document.querySelectorAll('.rec').forEach(r => refreshRowBadge(r));
+  updateToolbar();
+}
+
+/* ====================================================================
+   Picture Modal (Set / Edit Model Picture)
+   ==================================================================== */
+let picModalBrand = '', picModalModel = '';
+function openPicModal(brand, model, currentUrl){
+  picModalBrand = brand;
+  picModalModel = model;
+  $('#picModalHint').textContent = `Set or change the official photo for ${brand} ${model}.`;
+  $('#picModalUrl').value = currentUrl || '';
+  $('#picModalPreview').src = currentUrl ? `/img?u=${encodeURIComponent(currentUrl)}` : '';
+  $('#picModal').style.display = 'flex';
+}
+
+function closePicModal(){
+  $('#picModal').style.display = 'none';
+}
+
+$('#picModalUrl').addEventListener('input', () => {
+  const url = $('#picModalUrl').value.trim();
+  $('#picModalPreview').src = url ? (url.startsWith('http') ? `/img?u=${encodeURIComponent(url)}` : url) : '';
+});
+
+$('#btnSavePic').onclick = async () => {
+  const url = $('#picModalUrl').value.trim();
+  try {
+    await api('/api/update_model_image', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ brand: picModalBrand, model: picModalModel, image_url: url })
+    });
+    toast('Picture saved successfully', 'ok');
+    closePicModal();
+    catRender();
+  } catch(e) {
+    toast('Failed: ' + e.message, 'err');
+  }
+};
+
+/* ====================================================================
+   Global Quick Search
+   ==================================================================== */
+let searchTimer = null;
+$('#hdrSearch').addEventListener('input', () => {
+  clearTimeout(searchTimer);
+  const q = $('#hdrSearch').value.trim();
+  if (q.length < 2) {
+    $('#hdrSr').classList.remove('open');
+    return;
+  }
+  searchTimer = setTimeout(async () => {
+    try {
+      const res = await api('/api/search?q=' + encodeURIComponent(q));
+      if (!res.length) {
+        $('#hdrSr').innerHTML = '<div style="padding:10px;color:#94a3b8">No matching engines or models</div>';
+      } else {
+        $('#hdrSr').innerHTML = res.slice(0, 10).map(r => `
+          <div onclick="openSpecsFromCode('${escapeHtml(r.engine_code)}')">
+            <span class="code">${escapeHtml(r.engine_code)}</span>
+            <span>${escapeHtml(r.brand_example||'')} ${escapeHtml(r.model_example||'')}</span>
+            <span class="muted">${escapeHtml(r.engine_type||'')} · ${r.power_hp?r.power_hp+'hp':''}</span>
+          </div>
+        `).join('');
+      }
+      $('#hdrSr').classList.add('open');
+    } catch(e){}
+  }, 200);
+});
+
+$('#hdrSearch').addEventListener('blur', () => setTimeout(() => $('#hdrSr').classList.remove('open'), 250));
+
+/* ====================================================================
+   Table Columns & HTML Helpers
+   ==================================================================== */
 const COL_META = {};
 async function getCols(key){
   if (!COL_META[key]) COL_META[key] = await api('/api/columns/' + key);
   return COL_META[key];
 }
 
-const TAB_DEFS = [
-  { key:'engine',   title:'Engine',          desc:'engine table row' },
-  { key:'service',  title:'Service specs',   desc:'engine_service_specs' },
-  { key:'technical',title:'Technical specs', desc:'engine_technical_specs' },
-  { key:'variants', title:'Vehicle variants', desc:'vehicle_variants' }
-];
+function emptyHTML(msg){ return `<div class="catempty">${msg}</div>`; }
+function escapeHtml(v){ return String(v==null?'':v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
 
-let activeTab = 'engine';
-async function render(){
-  const d = S.data;
-  if (!d) return;
-  const eng = d.engine || {};
-  $('#breadcrumb').innerHTML =
-    `<b>${eng.brand_example || S.brand || '?'}</b> / ${eng.model_example || S.model || '?'} / <b>${eng.engine_type || S.etype || '?'}</b> / <code>${S.code}</code>
-     &nbsp;<span class="muted">${eng.fuel||''} ${eng.displacement_cc?'· '+eng.displacement_cc+' cc':' '} ${eng.power_hp?'· '+eng.power_hp+' hp':' '}</span>`;
-  $('#tabs').innerHTML = TAB_DEFS.map((t,i) =>
-    `<button class="tab ${i===0?'on':''}" data-key="${t.key}">${t.title}<span class="tbadge"></span>
-       ${t.key==='variants'?`<span class="muted" style="font-size:10px">(${d.variants.length})</span>`:''}
-     </button>`).join('');
-  activeTab = 'engine';
-  $('#tabs').querySelectorAll('button').forEach(b => b.onclick = () => switchTab(b.dataset.key));
-  await switchTab('engine');
-  if (!COL_META.__init) { COL_META.__init = true; ensureDatalists(); }
+function formatLabel(colName){
+  return colName
+    .replace(/_l$/, ' (L)')
+    .replace(/_km$/, ' (km)')
+    .replace(/_months$/, ' (months)')
+    .replace(/_bar$/, ' (bar)')
+    .replace(/_mm$/, ' (mm)')
+    .replace(/_ppm$/, ' (ppm)')
+    .replace(/_rpm$/, ' (RPM)')
+    .replace(/_hp$/, ' (HP)')
+    .replace(/_kw$/, ' (kW)')
+    .replace(/_cc$/, ' (cc)')
+    .replace(/_nm$/, ' (Nm)')
+    .replace(/_/g, ' ')
+    .replace(/\b\w/g, c => c.toUpperCase());
 }
-
-async function switchTab(key){
-  activeTab = key;
-  $('#tabs').querySelectorAll('button').forEach(b => b.classList.toggle('on', b.dataset.key === key));
-  const el = $('#tabContent');
-  el.innerHTML = '<span class="muted">loading…</span>';
-  try {
-    const meta = await getCols(key);
-    switch (key) {
-      case 'engine':     el.innerHTML = await tableHTML('engine', [S.data.engine], meta); break;
-      case 'service':    el.innerHTML = S.data.service ? await tableHTML('service', [S.data.service], meta) : emptyHTML('No service data row for this engine.'); break;
-      case 'technical':  el.innerHTML = S.data.technical ? await tableHTML('technical', [S.data.technical], meta) : emptyHTML('No technical data row for this engine.'); break;
-      case 'variants':   el.innerHTML = addCarBarHTML() + await tableHTML('variants', S.data.variants, meta); await initVariantsPager(); wireAddCar(); break;
-    }
-    wireTable(key, meta);
-    applyPending(key);
-    updateToolbar();
-  } catch (e) {
-    el.innerHTML = '<span class="err">' + e.message + '</span>';
-  }
-}
-
-function emptyHTML(msg){ return `<div class="empty">${msg}</div>`; }
-
-function colType(c){ return /INT/i.test(c.type) ? 'number' : (/REAL|DOU|FLO|NUM|DEC/i.test(c.type) ? 'number' : 'text'); }
 
 async function tableHTML(tkey, rows, meta){
-  if (!rows || !rows.length) return emptyHTML('No rows.');
-  const sug = DATALISTS[tkey] || [];
-  const recs = rows.map((r, i) => {
-    const fields = meta.columns.map(c => {
-      const raw = r[c.name];
-      if (c.pk && tkey !== 'engine') {
-        return `<div class="fld" title="primary key"><label>${c.name} &#128274;</label><div class="pkpk">${escapeHtml(raw??'')}</div></div>`;
-      }
-      const type = colType(c);
-      const attrs = `data-tkey="${tkey}" data-col="${c.name}" data-rowkey="${r[meta.pk]}" data-orig="${raw==null?'':escapeHtml(raw)}"`;
-      let input = `<input class="cell" type="${type}" step="any" ${attrs} value="${raw==null?'':escapeHtml(raw)}">`;
-      if (sug.includes(c.name)) input = `<input class="cell" list="dl_${tkey}_${c.name}" type="text" ${attrs} value="${raw==null?'':escapeHtml(raw)}">`;
-      return `<div class="fld" title="${c.name} (${c.type})"><label>${c.name}</label>${input}</div>`;
-    }).join('');
-    return `<div class="rec" data-rowkey="${r[meta.pk]}">
-      <div class="recheader">
-        ${tkey==='variants' ? (r.car_picture
-          ? `<img class="vthumb" src="/car_images/${encodeURIComponent(String(r.car_picture).split('/').pop())}" alt="${escapeHtml(r.car_model||'')}">`
-          : `<span class="vthumb none">no image</span>`) : ''}
-        <span class="pk">${meta.pk}: ${escapeHtml(String(r[meta.pk]))} ${tkey==='engine'?'':`<span class="locklock">&#128274; not editable</span>`}</span>
-        <span class="rowacts"><span class="rd" data-rd></span><span class="st" data-st></span>
-        <button class="small" data-reset disabled>Reset</button>
-        ${tkey==='variants'?'<button class="small" data-edit title="Edit this variant">Edit</button><button class="small danger" data-del title="Delete this vehicle variant">Delete</button>':''}</span>
+  if (!rows || !rows.length) return emptyHTML('No data rows.');
+  return `
+    <div class="recwrap">${rows.map(r => `
+      <div class="rec" data-rowkey="${escapeHtml(r[meta.pk])}">
+        <div class="recheader">
+          <span class="pk">${meta.pk}: <b>${escapeHtml(String(r[meta.pk]))}</b></span>
+          <span class="rowacts" style="display:flex;gap:6px;align-items:center">
+            <span class="rd" data-rd></span>
+            <button class="small secondary" data-reset disabled>Reset</button>
+          </span>
+        </div>
+        <div class="recgrid">
+          ${meta.columns.map(c => {
+            const raw = r[c.name];
+            if (c.pk && tkey !== 'engine') {
+              return `<div class="fld"><label>${formatLabel(c.name)} &#128274;</label><div class="pkpk">${escapeHtml(raw)}</div></div>`;
+            }
+            return `<div class="fld">
+              <label>${formatLabel(c.name)}</label>
+              <input class="cell" type="text" data-tkey="${tkey}" data-col="${c.name}" data-rowkey="${escapeHtml(r[meta.pk])}" data-orig="${escapeHtml(raw)}" value="${escapeHtml(raw)}">
+            </div>`;
+          }).join('')}
+        </div>
       </div>
-      <div class="recgrid">${fields}</div>
-    </div>`;
-  }).join('');
-  const pager = tkey === 'variants' && rows.length > 50
-    ? `<div class="pager"><button class="small" id="vpPrev">&#9664; prev</button><span id="vpLabel"></span><button class="small" id="vpNext">next &#9654;</button></div>`
-    : '';
-  return `<div class="recwrap">${recs}</div>${pager}`;
+    `).join('')}</div>
+  `;
 }
 
-function escapeHtml(v){ return String(v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
-
-let varPage = 0;
-async function initVariantsPager(){
-  varPage = 0;
-  const n = S.data.variants.length;
-  const lbl = $('#vpLabel'); const prev = $('#vpPrev'); const next = $('#vpNext');
-  if (!lbl) return;
-  const show = () => {
-    lbl.textContent = `showing ${varPage*50+1}-${Math.min((varPage+1)*50, n)} of ${n}`;
-    const recs = $('#tabContent').querySelectorAll('.rec');
-    recs.forEach((rec, i) => { rec.style.display = (i >= varPage*50 && i < (varPage+1)*50) ? '' : 'none'; });
-    prev.disabled = varPage === 0; next.disabled = (varPage+1)*50 >= n;
-  };
-  prev.onclick = () => { if (varPage>0){varPage--; show();} };
-  next.onclick = () => { if ((varPage+1)*50 < n){varPage++; show();} };
-  show();
-}
-
-function wireTable(tkey, meta){
-  const el = $('#tabContent');
-  el.querySelectorAll('input.cell').forEach(inp => {
-    inp.addEventListener('input', () => onCellInput(inp));
-  });
-  el.querySelectorAll('button[data-reset]').forEach(btn => {
-    btn.onclick = () => resetRow(btn.closest('.rec'));
-  });
-  el.querySelectorAll('button[data-del]').forEach(btn => {
-    btn.onclick = () => deleteVariant(btn.closest('.rec'));
-  });
-  el.querySelectorAll('button[data-edit]').forEach(btn => {
-    btn.onclick = () => openVariantModal(btn.closest('.rec'));
-  });
-}
-
-function resetRow(rec){
-  rec.querySelectorAll('input.cell').forEach(inp => {
-    const k = pendKey(inp.dataset.tkey, inp.dataset.rowkey, inp.dataset.col);
-    delete PENDING[k];
-    inp.value = inp.dataset.orig == null ? '' : inp.dataset.orig;
-    inp.classList.remove('dirty');
-    inp.parentElement.classList.remove('dirty');
-  });
-  refreshRowBadge(rec);
-  updateToolbar();
-}
-
-/* ---------- save / discard all ---------- */
-function collectOps(){
-  const opsMap = {};
-  for (const k in PENDING) {
-    const [tkey, rowKey, col] = k.split(SEP);
-    const key2 = tkey + SEP + rowKey;
-    if (!opsMap[key2]) opsMap[key2] = { table: tkey, rowKey, values: {} };
-    opsMap[key2].values[col] = PENDING[k].val;
-  }
-  return Object.values(opsMap);
-}
-
-async function saveAll(){
-  const count = pendCount();
-  if (!count) return;
-  const ops = collectOps();
-  const btn = $('#saveAll');
-  btn.disabled = true; btn.textContent = 'Saving…';
-  try {
-    const r = await api('/api/update_batch', { method:'POST', headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({ ops }) });
-    const renames = r.renames || [];
-    const mine = renames.filter(rn => rn.from === S.code);
-    Object.keys(PENDING).forEach(k => delete PENDING[k]);
-    if (mine.length) {
-      S.code = mine[0].to;
-      $('#search').value = S.code;
-    }
-    await refreshEngineData();
-    if (mine.length) {
-      CODE_CACHE = null; ADD_DL = null;
-      if (S.brand && S.model) await refreshCascadePath();
-      toast('Saved ' + r.saved + ' change' + (r.saved>1?'s':'') + ' — engine code renamed to "' + S.code + '"', 'ok');
-    } else {
-      toast('Saved ' + r.saved + ' change' + (r.saved>1?'s':'') + ' to the database', 'ok');
-    }
-  } catch (e) {
-    toast('Save failed, nothing was changed: ' + e.message, 'err');
-  } finally {
-    btn.textContent = 'Save all changes';
-    updateToolbar();
-  }
-}
-
-function discardAll(){
-  if (!pendCount()) return;
-  document.querySelectorAll('#tabContent input.cell').forEach(inp => {
-    const k = pendKey(inp.dataset.tkey, inp.dataset.rowkey, inp.dataset.col);
-    if (PENDING[k]) inp.value = PENDING[k].orig == null ? '' : PENDING[k].orig;
-    inp.classList.remove('dirty');
-    inp.parentElement.classList.remove('dirty');
-  });
-  Object.keys(PENDING).forEach(k => delete PENDING[k]);
-  document.querySelectorAll('#tabContent .rec').forEach(rec => refreshRowBadge(rec));
-  updateToolbar();
-  toast('Discarded all pending changes');
-}
-
-async function refreshEngineData(){
-  if (!S.code) return;
-  const det = await api('/api/engine/' + encode(S.code));
-  S.data = det;
-  await switchTab(activeTab);
-}
-
-/* ---------- add / edit engine code ---------- */
-let ADD_DL = null;
-async function ensureAddDatalist(){
-  if (ADD_DL) return;
-  const all = await codeCache();
-  ADD_DL = document.createElement('datalist');
-  ADD_DL.id = 'dlAddCode';
-  all.forEach(c => { if (c.engine_code) { const o = document.createElement('option'); o.value = c.engine_code; ADD_DL.appendChild(o); } });
-  document.body.appendChild(ADD_DL);
-}
-
-function syncCascadeButtons(){
-  const e = $('#btnEditCode');
-  if (e) e.disabled = !S.code;
-  const dm = $('#btnDelModel');
-  if (dm) dm.disabled = !S.model;
-}
-
-function closePanel(){ $('#cascPanel').innerHTML = ''; }
-
-function showAddForm(){
-  closePanel();
-  const p = $('#cascPanel');
-  p.innerHTML = `
-    <div class="mini">
-      <h4>+ Add engine code</h4>
-      <div class="hint">Already in the DB? Only a vehicle variant for this brand/model is added — all shared engine data is reused, nothing duplicated. New code? Blank Engine / Service / Technical rows are created to fill in.</div>
-      <div class="grid2">
-        <div><label>Engine code *</label><input type="text" id="add_code" list="dlAddCode" placeholder="e.g. 312 A1.000" autocomplete="off"></div>
-        <div><label>Engine type</label><input type="text" id="add_type" placeholder="e.g. 1.4 16v T-Jet" autocomplete="off"></div>
-        <div><label>Fuel</label><input type="text" id="add_fuel" list="dl_engine_fuel" placeholder="Petrol / Diesel" autocomplete="off"></div>
-        <div><label>Brand</label><input type="text" id="add_brand" value="${escapeHtml(S.brand||'')}"></div>
-        <div><label>Model</label><input type="text" id="add_model" value="${escapeHtml(S.model||'')}"></div>
-      </div>
-      <div class="btns">
-        <button class="small primary" id="add_go">Create / add</button>
-        <button class="small" onclick="closePanel()">Cancel</button>
-      </div>
-    </div>`;
-  ensureAddDatalist();
-  ensureDatalists();
-  $('#add_go').onclick = doAddEngine;
-  $('#add_code').focus();
-}
-
-async function doAddEngine(){
-  const code = $('#add_code').value.trim();
-  if (!code) { toast('Engine code is required', 'err'); return; }
-  const btn = $('#add_go');
-  btn.disabled = true; btn.textContent = 'Adding…';
-  try {
-    const r = await api('/api/add_engine', { method:'POST', headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({
-        engine_code: code,
-        engine_type: $('#add_type').value.trim(),
-        fuel: $('#add_fuel').value.trim(),
-        brand: $('#add_brand').value.trim(),
-        model: $('#add_model').value.trim()
-      }) });
-    if (r.added === 'none') {
-      toast('Code "' + code + '" already exists (no brand/model given) — nothing to add', 'info');
-      closePanel();
-      return;
-    }
-    CODE_CACHE = null; ADD_DL = null;
-    closePanel();
-    if (r.added === 'engine') {
-      toast('New engine code "' + code + '" created' + (r.variantId ? ' + 1 variant' : ''), 'ok');
-      await loadEngine(code, { keepSelection: false });
-    } else {
-      toast('Variant added for existing code "' + code + '"', 'ok');
-      await refreshEngineData();
-    }
-    if (S.brand && S.model) await refreshCascadePath();
-  } catch (e) {
-    toast('Add failed: ' + e.message, 'err');
-  } finally {
-    btn.disabled = false; btn.textContent = 'Create / add';
-  }
-}
-
-function showEditForm(){
-  if (!S.code) return;
-  closePanel();
-  const stale = PENDING[pendKey('engine', S.code, 'engine_code')];
-  const cur = stale ? stale.val : S.code;
-  $('#cascPanel').innerHTML = `
-    <div class="mini">
-      <h4>Edit engine code</h4>
-      <div class="hint">Renames the code everywhere — engine, service, technical and all vehicle variants linked to it.</div>
-      <div><label>Old code</label><input type="text" value="${escapeHtml(S.code)}" disabled></div>
-      <div><label>New code *</label><input type="text" id="edit_code" list="dlAddCode" value="${escapeHtml(cur)}" autocomplete="off"></div>
-      <div class="btns">
-        <button class="small primary" id="edit_go">Save rename</button>
-        <button class="small" onclick="closePanel()">Cancel</button>
-      </div>
-    </div>`;
-  ensureAddDatalist();
-  $('#edit_go').onclick = doEditCode;
-  $('#edit_code').focus();
-  $('#edit_code').select();
-}
-
-async function doEditCode(){
-  const oldCode = S.code;
-  const newCode = $('#edit_code').value.trim();
-  if (!newCode) { toast('New engine code is required', 'err'); return; }
-  const k = pendKey('engine', oldCode, 'engine_code');
-  if (newCode === oldCode && !PENDING[k]) { toast('No change', 'info'); closePanel(); return; }
-  PENDING[k] = { orig: oldCode, val: newCode };
-  updateToolbar();
-  closePanel();
-  await saveAll();
-}
-
-/* ---------- add / delete brand & model ---------- */
-let BRAND_DL = null;
-async function ensureBrandDatalist(){
-  if (BRAND_DL) return;
-  const brands = await api('/api/brands');
-  BRAND_DL = document.createElement('datalist');
-  BRAND_DL.id = 'dlBrands';
-  brands.forEach(b => { const o = document.createElement('option'); o.value = b.name; BRAND_DL.appendChild(o); });
-  document.body.appendChild(BRAND_DL);
-}
-
-function showAddBrand(){
-  closePanel();
-  $('#cascPanel').innerHTML = `
-    <div class="mini">
-      <h4>+ Add car brand</h4>
-      <div class="hint">Creates a new entry in the brands list (it shows up in step 1 once saved).</div>
-      <div><input type="text" id="ab_name" placeholder="Brand name e.g. Fiat" autocomplete="off"></div>
-      <div class="btns">
-        <button class="small primary" id="ab_go">Create brand</button>
-        <button class="small" onclick="closePanel()">Cancel</button>
-      </div>
-    </div>`;
-  $('#ab_go').onclick = doAddBrand;
-  $('#ab_name').focus();
-}
-
-async function doAddBrand(){
-  const name = $('#ab_name').value.trim();
-  if (!name) { toast('Brand name is required', 'err'); return; }
-  const btn = $('#ab_go'); btn.disabled = true; btn.textContent = 'Adding…';
-  try {
-    const r = await api('/api/add_brand', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ name }) });
-    toast(r.added === 'created' ? 'Brand "' + name + '" added' : 'Brand "' + name + '" already exists', r.added === 'created' ? 'ok' : 'info');
-    BRAND_DL = null;
-    const cur = S.brand;
-    await loadBrands();
-    if (cur) selBrand.value = cur;
-    else selBrand.value = name;
-  } catch (e) {
-    toast('Add brand failed: ' + e.message, 'err');
-  } finally {
-    btn.disabled = false; btn.textContent = 'Create brand';
-    closePanel();
-  }
-}
-
-function showAddModel(){
-  closePanel();
-  ensureBrandDatalist();
-  $('#cascPanel').innerHTML = `
-    <div class="mini">
-      <h4>+ Add car model</h4>
-      <div class="hint">The brand must already exist. The model appears in step 2 of the cascade.</div>
-      <div><label>Brand</label><input type="text" id="am_brand" list="dlBrands" value="${escapeHtml(S.brand||'')}" autocomplete="off"></div>
-      <div><label>Model name *</label><input type="text" id="am_name" placeholder="e.g. Punto" autocomplete="off"></div>
-      <div class="btns">
-        <button class="small primary" id="am_go">Create model</button>
-        <button class="small" onclick="closePanel()">Cancel</button>
-      </div>
-    </div>`;
-  $('#am_go').onclick = doAddModel;
-  $('#am_name').focus();
-}
-
-async function doAddModel(){
-  const brand = $('#am_brand').value.trim();
-  const name = $('#am_name').value.trim();
-  if (!brand || !name) { toast('Brand and model name are required', 'err'); return; }
-  const btn = $('#am_go'); btn.disabled = true; btn.textContent = 'Adding…';
-  try {
-    const r = await api('/api/add_model', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ brand, model: name }) });
-    toast(r.added === 'created' ? 'Model "' + name + '" added under "' + brand + '"' : 'Model "' + name + '" already exists', r.added === 'created' ? 'ok' : 'info');
-    if (r.added === 'created') {
-      S.model = ''; S.etype = ''; S.code = '';
-      clearDetail();
-      S.brand = brand;
-      await loadBrands();
-      selBrand.value = brand;
-      if (selBrand.value === brand) {
-        await onBrand();
-        const models = selModel._models || [];
-        const m = models.find(x => x.model_name === name);
-        if (m) { selModel.value = name; await onModel(); }
-      }
-    }
-  } catch (e) {
-    toast('Add model failed: ' + e.message, 'err');
-  } finally {
-    btn.disabled = false; btn.textContent = 'Create model';
-    closePanel();
-  }
-}
-
-async function doDeleteModel(){
-  if (!S.model) return;
-  const label = S.brand ? S.model + ' (' + S.brand + ')' : S.model;
-  if (!window.confirm('Delete model "' + label + '" and ALL its vehicle variants? This cannot be undone.')) return;
-  try {
-    const brand = S.brand, model = S.model;
-    const r = await api('/api/delete_model', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ brand, model }) });
-    toast('Deleted model "' + model + '"' + (r.deletedVariants ? ' + ' + r.deletedVariants + ' vehicle' + (r.deletedVariants>1?'s':'') : ''), 'ok');
-    S.model = ''; S.etype = ''; S.code = '';
-    clearDetail();
-    if (S.brand) { selBrand.value = S.brand; if (selBrand.value) await onBrand(); }
-  } catch (e) {
-    toast('Delete model failed: ' + e.message, 'err');
-  }
-}
-
-/* ---------- add / delete car (vehicle variant) ---------- */
-async function deleteVariant(rec){
-  const id = rec.dataset.rowkey;
-  if (!window.confirm('Delete this vehicle variant (id ' + id + ')? This cannot be undone.')) return;
-  try {
-    Object.keys(PENDING).forEach(k => { if (k.indexOf('variants' + SEP + id + SEP) === 0) delete PENDING[k]; });
-    await api('/api/delete_variant', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ id }) });
-    toast('Vehicle variant deleted', 'ok');
-    await refreshEngineData();
-    if (S.brand && S.model) await refreshCascadePath();
-  } catch (e) {
-    toast('Delete failed: ' + e.message, 'err');
-  }
-}
-
-/* ---------- variant edit modal ---------- */
-let variantModal = null;
-
-function closeVariantModal(){
-  if (variantModal) { variantModal.remove(); variantModal = null; }
-}
-
-function openVariantModal(rec){
-  const id = String(rec.dataset.rowkey);
-  const v = (S.data.variants || []).find(x => String(x.id) === id);
-  const meta = COL_META['variants'];
-  if (!v) { toast('Variant not found', 'err'); return; }
-  if (!meta) { toast('Columns not loaded yet — open the variants tab first', 'err'); return; }
-  closeVariantModal();
-  const bg = document.createElement('div');
-  bg.className = 'modal-bg';
-  const sug = DATALISTS.variants || [];
-  const fields = meta.columns.map(c => {
-    const raw = v[c.name];
-    if (c.pk) {
-      return `<div class="fld" style="grid-column:1/-1"><label>${c.name} &#128274;</label><div class="pkpk">${escapeHtml(raw??'')}</div></div>`;
-    }
-    const type = colType(c);
-    const list = sug.includes(c.name) ? ` list="dl_variants_${c.name}"` : '';
-    const o = raw == null ? '' : escapeHtml(raw);
-    return `<div class="fld"><label>${c.name}</label><input type="${type}" step="any"${list} data-col="${c.name}" data-orig="${o}" value="${o}"></div>`;
-  }).join('');
-  bg.innerHTML = `
-    <div class="modal">
-      <h3>Edit variant <span class="muted">#${id}</span></h3>
-      <div class="hint">${escapeHtml(v.car_brand||'')} ${escapeHtml(v.car_model||'')}${v.car_year?(' &middot; '+v.car_year):''}${v.engine_code?(' &middot; <code>'+escapeHtml(v.engine_code)+'</code>'):''}</div>
-      ${v.car_picture?`<div style="text-align:center;margin-bottom:10px"><img src="/car_images/${encodeURIComponent(String(v.car_picture).split('/').pop())}" alt="${escapeHtml(v.car_model||'')}" style="max-width:360px;max-height:220px;object-fit:contain;border-radius:10px;border:1px solid #2a5a8a;background:#08101c"></div>`:''}
-      <div class="grid2">${fields}</div>
-      <div class="btns">
-        <button class="small primary" id="vm_save">Save</button>
-        <button class="small" id="vm_cancel">Cancel</button>
-        <button class="small danger margin-auto" id="vm_del">Delete variant</button>
-      </div>
-    </div>`;
-  document.body.appendChild(bg);
-  variantModal = bg;
-  bg.addEventListener('mousedown', e => { if (e.target === bg) closeVariantModal(); });
-  bg.querySelector('#vm_cancel').onclick = closeVariantModal;
-  bg.querySelector('#vm_save').onclick = () => saveVariantModal(id, v, bg);
-  bg.querySelector('#vm_del').onclick = async () => {
-    if (!window.confirm('Delete this vehicle variant (id ' + id + ')? This cannot be undone.')) return;
-    closeVariantModal();
-    await deleteVariant(rec);
-  };
-}
-
-function saveVariantModal(id, v, bg){
-  let changed = 0;
-  bg.querySelectorAll('input[data-col]').forEach(inp => {
-    const col = inp.dataset.col;
-    const o = inp.dataset.orig == null ? '' : inp.dataset.orig;
-    const k = pendKey('variants', id, col);
-    if (inp.value === o) { if (PENDING[k]) delete PENDING[k]; return; }
-    if (!PENDING[k] || PENDING[k].orig !== o) PENDING[k] = { orig: o, val: inp.value };
-    else PENDING[k].val = inp.value;
-    changed++;
-  });
-  closeVariantModal();
-  applyPending('variants');
-  updateToolbar();
-  toast(changed ? changed + ' field' + (changed>1?'s':'') + ' staged — press "Save all changes" to write' : 'No changes to save');
-}
-
-function addCarBarHTML(){
-  return `<div class="addcar-bar">
-    <button class="small primary" id="btnAddCar">+ Add variant</button>
-    <span class="muted">Add a car to the current brand/model, or press Edit on a row below to change an existing variant.</span>
-  </div>
-  <div id="addcarForm" hidden>
-    <div class="mini">
-      <h4>Add a car</h4>
-      <div class="grid2">
-        <div><label>Brand *</label><input type="text" id="ac_brand" list="dlBrands" value="${escapeHtml(S.brand||'')}" autocomplete="off"></div>
-        <div><label>Model *</label><input type="text" id="ac_model" value="${escapeHtml(S.model||'')}" autocomplete="off"></div>
-        <div><label>Year</label><input type="number" id="ac_year" value="" placeholder="e.g. 2008"></div>
-        <div><label>Power (hp)</label><input type="number" id="ac_power" value="" placeholder="e.g. 120"></div>
-        <div><label>Fuel</label><input type="text" id="ac_fuel" list="dl_engine_fuel" placeholder="Petrol / Diesel" autocomplete="off"></div>
-        <div><label>Engine type</label><input type="text" id="ac_type" placeholder="e.g. 1.4 16v T-Jet" autocomplete="off"></div>
-        <div><label>Engine code</label><input type="text" id="ac_code" list="dlAddCode" value="${escapeHtml(S.code||'')}" placeholder="existing code, or type a new one" autocomplete="off"></div>
-      </div>
-      <div class="btns">
-        <button class="small primary" id="ac_go">Add car</button>
-        <button class="small" id="ac_cancel">Cancel</button>
-      </div>
-    </div>
-  </div>`;
-}
-
-function wireAddCar(){
-  const btn = $('#btnAddCar'), form = $('#addcarForm');
-  if (btn) btn.onclick = () => { form.hidden = !form.hidden; if (!form.hidden) { ensureAddDatalist(); ensureDatalists(); ensureBrandDatalist(); $('#ac_code').focus(); } };
-  const cancel = $('#ac_cancel');
-  if (cancel) cancel.onclick = () => { form.hidden = true; };
-  const go = $('#ac_go');
-  if (go) go.onclick = doAddCar;
-}
-
-async function doAddCar(){
-  const brand = $('#ac_brand').value.trim();
-  const model = $('#ac_model').value.trim();
-  if (!brand || !model) { toast('Brand and model are required', 'err'); return; }
-  const btn = $('#ac_go'); btn.disabled = true; btn.textContent = 'Adding…';
-  try {
-    const r = await api('/api/add_variant', { method:'POST', headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({
-        car_brand: brand,
-        car_model: model,
-        car_year: $('#ac_year').value,
-        engine_power_hp: $('#ac_power').value,
-        fuel: $('#ac_fuel').value.trim(),
-        engine_type: $('#ac_type').value.trim(),
-        engine_code: $('#ac_code').value.trim()
-      }) });
-    toast('Car added (id ' + r.id + ')' + (r.engineCreated ? ' — new engine code created' : ''), 'ok');
-    $('#addcarForm').hidden = true;
-    if (r.engineCreated) { CODE_CACHE = null; ADD_DL = null; }
-    if (r.engine_code) { await loadEngine(r.engine_code, { keepSelection:false }); }
-    else { await refreshEngineData(); }
-    if (S.brand && S.model) await refreshCascadePath();
-  } catch (e) {
-    toast('Add car failed: ' + e.message, 'err');
-  } finally {
-    btn.disabled = false; btn.textContent = 'Add car';
-  }
-}
-
-async function refreshCascadePath(){
-  if (!S.brand || !S.model) return;
-  const types = await api(`/api/brands/${encode(S.brand)}/models/${encode(S.model)}/engine_types`);
-  const keepType = S.etype && types.some(t => t.engine_type === S.etype);
-  selEtype.innerHTML = '<option value="">— select engine type —</option>' +
-    types.map(t => `<option value="${t.engine_type.replace(/"/g,'&quot;')}">${t.engine_type || '(empty)'} · ${t.n} variant${t.n>1?'s':''}</option>`).join('');
-  selEtype.disabled = false;
-  S.etype = keepType ? S.etype : (types.length === 1 ? types[0].engine_type : '');
-  selEtype.value = S.etype;
-  if (!S.etype) { selCode.innerHTML=''; selCode.disabled=true; return; }
-  const codes = await api(`/api/brands/${encode(S.brand)}/models/${encode(S.model)}/codes?engine_type=${encode(S.etype)}`);
-  selCode.innerHTML = '<option value="">— select engine code —</option>' +
-    codes.map(c => `<option value="${c.engine_code.replace(/"/g,'&quot;')}">${c.engine_code} · ${c.n} variant${c.n>1?'s':''}</option>`).join('');
-  selCode.disabled = false;
-  if (S.code && codes.some(c => c.engine_code === S.code)) selCode.value = S.code;
-}
-
-/* ---------- search ---------- */
-let CODE_CACHE = null;
-async function codeCache(){
-  if (!CODE_CACHE) CODE_CACHE = await api('/api/codes');
-  return CODE_CACHE;
-}
-
-$('#search').addEventListener('input', async () => {
-  const qTxt = $('#search').value.trim().toLowerCase();
-  const box = $('#sr');
-  if (qTxt.length < 2) { box.classList.remove('open'); return; }
-  let hits = [];
-  const all = await codeCache();
-  hits = all.filter(c =>
-    (c.engine_code && c.engine_code.toLowerCase().includes(qTxt)) ||
-    (c.engine_type && c.engine_type.toLowerCase().includes(qTxt)) ||
-    (c.fuel && c.fuel.toLowerCase().includes(qTxt)) ).slice(0, 30);
-  if (!hits.length) hits = [{ engine_code: null, engine_type: 'no exact match — use code prefix' }];
-  box.innerHTML = hits.map(h => `<div data-code="${escapeHtml(h.engine_code||'')}">
-      <span class="code">${escapeHtml(h.engine_code||'—')}</span> &nbsp;${escapeHtml(h.engine_type||'')}
-      <span class="muted">${h.fuel||''} ${h.power_hp?h.power_hp+' hp':''}</span></div>`).join('');
-  box.classList.add('open');
-  box.querySelectorAll('div[data-code]').forEach(d => {
-    d.onclick = () => {
-      box.classList.remove('open');
-      const c = d.dataset.code;
-      if (!c) { toast('Unknown code', 'err'); return; }
-      if (!confirmLeave()) { $('#search').value = ''; return; }
-      $('#search').value = c;
-      loadEngine(c, { keepSelection:true });
-    };
-  });
-});
-$('#search').addEventListener('blur', () => setTimeout(()=>$('#sr').classList.remove('open'), 200));
-
-/* ---------- buttons ---------- */
+/* ====================================================================
+   Header Actions
+   ==================================================================== */
 $('#btnBackup').onclick = async () => {
-  try { const r = await api('/api/backup'); toast('Backup saved: ' + r.file.split('\\').pop(), 'ok'); }
-  catch (e) { toast('Backup failed: ' + e.message, 'err'); }
+  try {
+    const r = await api('/api/backup');
+    toast('Backup saved successfully: ' + r.file.split(/[\\/]/).pop(), 'ok');
+  } catch(e) {
+    toast('Backup failed: ' + e.message, 'err');
+  }
 };
-$('#btnOpenBak').onclick = async () => { api('/api/openbackups'); toast('Opened backups folder'); };
 
 $('#btnExport').onclick = () => {
   if (!S.data) return;
   const blob = new Blob([JSON.stringify(S.data, null, 2)], { type:'application/json' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
-  a.download = 'engine_' + S.code.replace(/[^A-Za-z0-9_.-]/g, '_') + '.json';
+  a.download = `car_specs_${(S.code || 'export').replace(/[^a-zA-Z0-9_-]/g, '_')}.json`;
   a.click();
   URL.revokeObjectURL(a.href);
 };
 
 $('#saveAll').onclick = saveAll;
 $('#discardAll').onclick = discardAll;
-$('#btnAddEngine').onclick = showAddForm;
-$('#btnEditCode').onclick = showEditForm;
-$('#btnAddBrand').onclick = showAddBrand;
-$('#btnAddModel').onclick = showAddModel;
-$('#btnDelModel').onclick = doDeleteModel;
 
-/* ---------- keyboard + leave warnings ---------- */
+// Keyboard shortcut: Ctrl+S to save all changes
 window.addEventListener('keydown', e => {
-  if (e.key === 'Escape') { closeVariantModal(); return; }
-  if ((e.ctrlKey || e.metaKey) && !e.shiftKey && e.key.toLowerCase() === 's') {
+  if ((e.ctrlKey || e.metaKey) && e.key === 's') {
     e.preventDefault();
-    if (S.data) saveAll();
+    if (pendCount() > 0) saveAll();
   }
 });
-window.addEventListener('beforeunload', e => {
-  if (pendCount()) { e.preventDefault(); e.returnValue = ''; }
-});
 
-/* ---------- events ---------- */
-selBrand.addEventListener('change', onBrand);
-selModel.addEventListener('change', onModel);
-selEtype.addEventListener('change', onEtype);
-selCode.addEventListener('change', onCode);
-
-/* ====================================================================
-   7zap-style picture catalog: Brand -> Model -> Engine type -> Code
-   ==================================================================== */
-const CAT = { level:'brands', brand:'', model:'', modelObj:null, etype:'',
-              brands:[], models:[], types:[], codes:[], az:'', stats:null };
-
-function showView(v){
-  const cat = v === 'catalog';
-  $('#catalog').style.display = cat ? '' : 'none';
-  document.querySelector('.layout').style.display = cat ? 'none' : '';
-  $('#btnViewCatalog').classList.toggle('on', cat);
-  $('#btnViewEditor').classList.toggle('on', !cat);
-}
-
-function picSrc(row){
-  if (row.image_local_path) {
-    const rel = String(row.image_local_path).split(/model_images[\\/]/).pop();
-    return '/model_images/' + rel.split(/[\\/]/).filter(Boolean).map(encodeURIComponent).join('/');
-  }
-  // not downloaded yet: let the server fetch + cache it (also dodges hot-link blocks)
-  return row.image_url ? '/img?u=' + encodeURIComponent(row.image_url) : '';
-}
-
-function creditHTML(row){
-  // Commons pictures are free only if credited; 7zap assets need no attribution
-  if (row.image_credit) {
-    return `<div class="credit">&copy; ${escapeHtml(row.image_credit)}` +
-           `${row.image_license ? ' · ' + escapeHtml(row.image_license) : ''}</div>`;
-  }
-  if (row.image_source === 'wikidata') {
-    return '<div class="credit">Wikimedia Commons · author and licence on the source page</div>';
-  }
-  return '';
-}
-
-function shotHTML(row, placeholder){
-  const src = picSrc(row);
-  const badge = row.image_source
-    ? `<span class="srcbadge ${row.image_source === 'wikidata' ? 'wikidata' : ''}">${escapeHtml(row.image_source)}</span>` : '';
-  if (!src) return `<div class="shot"><span class="ph">${placeholder}</span></div>`;
-  return `<div class="shot"><img loading="lazy" referrerpolicy="no-referrer" src="${escapeHtml(src)}"
-      alt="${escapeHtml(row.model_name || row.name || '')}"
-      onerror="this.parentNode.innerHTML='<span class=&quot;ph&quot;>${placeholder}</span>'">${badge}</div>`;
-}
-
-function catCrumb(){
-  const parts = [`<a onclick="catGo('brands')">All brands</a>`];
-  if (CAT.brand) parts.push(`<a onclick="catGo('models')">${escapeHtml(CAT.brand)}</a>`);
-  if (CAT.model) parts.push(`<a onclick="catGo('types')">${escapeHtml(CAT.model)}</a>`);
-  if (CAT.etype) parts.push(`<b>${escapeHtml(CAT.etype)}</b>`);
-  const last = parts.pop();
-  $('#catCrumb').innerHTML = parts.map(x => x + ' <span class="sep">&rsaquo;</span> ').join('') +
-    (CAT.level === 'brands' ? '<b>All brands</b>' : last);
-}
-
-function catFilterValue(){ return ($('#catFilter').value || '').trim().toLowerCase(); }
-
-async function catLoadStats(){
-  try {
-    CAT.stats = await api('/api/catalog/stats');
-    const s = CAT.stats;
-    const srcs = (s.by_source || []).map(x => `${x.n} ${x.source}`).join(' + ');
-    $('#catStats').innerHTML =
-      `<b>${s.with_image}</b> of ${s.models} models illustrated` +
-      (srcs ? ` (${srcs})` : '') +
-      ` &nbsp;·&nbsp; ${s.downloaded} picture file${s.downloaded === 1 ? '' : 's'} stored locally` +
-      (s.downloaded === 0 ? ' <span class="muted">— run step92 to download them; until then the pictures load from the source site</span>' : '');
-  } catch (e) { $('#catStats').textContent = ''; }
-}
-
-async function catGo(level, arg){
-  if (level === 'brands') { CAT.brand=''; CAT.model=''; CAT.modelObj=null; CAT.etype=''; }
-  if (level === 'models' && arg) { CAT.brand = arg; CAT.model=''; CAT.modelObj=null; CAT.etype=''; }
-  if (level === 'types' && arg) { CAT.modelObj = arg; CAT.model = arg.model_name; CAT.etype=''; }
-  if (level === 'codes' && arg !== undefined) { CAT.etype = arg; }
-  CAT.level = level;
-  $('#catFilter').value = '';
-  $('#catFilter').placeholder = level === 'brands' ? 'Filter brands…' : level === 'models' ? 'Filter models…' : 'Filter…';
-  showView('catalog');
-  await catRender();
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-}
-
-async function catRender(){
-  catCrumb();
-  const body = $('#catBody');
-  const az = $('#catAz');
-  body.innerHTML = '<div class="catempty">loading…</div>';
-  az.style.display = CAT.level === 'brands' ? '' : 'none';
-  $('#catOnlyPics').parentNode.style.display = (CAT.level === 'brands' || CAT.level === 'models') ? '' : 'none';
-  try {
-    if (CAT.level === 'brands') return catRenderBrands(body, az);
-    if (CAT.level === 'models') return catRenderModels(body);
-    if (CAT.level === 'types')  return catRenderTypes(body);
-    if (CAT.level === 'codes')  return catRenderCodes(body);
-  } catch (e) {
-    body.innerHTML = `<div class="catempty err">${escapeHtml(e.message)}</div>`;
-  }
-}
-
-async function catRenderBrands(body, az){
-  if (!CAT.brands.length) CAT.brands = await api('/api/catalog/brands');
-  const letters = [...new Set(CAT.brands.map(b => (b.name[0] || '#').toUpperCase()))].sort();
-  az.innerHTML = [`<button class="${CAT.az ? '' : 'on'}" onclick="CAT.az='';catRender()">All</button>`]
-    .concat(letters.map(l => `<button class="${CAT.az === l ? 'on' : ''}" onclick="CAT.az='${l}';catRender()">${l}</button>`)).join('');
-  const f = catFilterValue(), onlyPics = $('#catOnlyPics').checked;
-  const rows = CAT.brands.filter(b =>
-    (!f || b.name.toLowerCase().includes(f)) &&
-    (!CAT.az || (b.name[0] || '').toUpperCase() === CAT.az) &&
-    (!onlyPics || b.with_image > 0));
-  if (!rows.length) { body.innerHTML = '<div class="catempty">no brand matches</div>'; return; }
-  body.innerHTML = '<div class="grid brands">' + rows.map(b => {
-    const pct = b.model_count ? Math.round(100 * b.with_image / b.model_count) : 0;
-    const initials = escapeHtml(b.name.slice(0, 3).toUpperCase());
-    const shot = picSrc(b) ? shotHTML({ ...b, model_name: b.name }, '&#128663;')
-      : `<div class="shot"><span class="letters">${initials}</span></div>`;
-    return `<div class="tile ${picSrc(b) ? '' : 'initial'}" onclick="catGo('models', ${JSON.stringify(b.name).replace(/"/g, '&quot;')})">
-      ${shot}
-      <div class="body">
-        <div class="name">${escapeHtml(b.name)}</div>
-        <div class="sub">${b.model_count} model${b.model_count === 1 ? '' : 's'} · ${b.variant_count || 0} variants</div>
-        <div class="covbar" title="${b.with_image}/${b.model_count} illustrated"><i style="width:${pct}%"></i></div>
-        <div class="sub">${b.with_image}/${b.model_count} with picture</div>
-      </div></div>`;
-  }).join('') + '</div>';
-}
-
-async function catRenderModels(body){
-  if (CAT._modelsFor !== CAT.brand) {           // cache: filtering must not re-query
-    CAT.models = await api('/api/catalog/brands/' + encode(CAT.brand) + '/models');
-    CAT._modelsFor = CAT.brand;
-  }
-  const f = catFilterValue(), onlyPics = $('#catOnlyPics').checked;
-  const rows = CAT.models.filter(m =>
-    (!f || m.model_name.toLowerCase().includes(f)) && (!onlyPics || m.image_url));
-  if (!rows.length) { body.innerHTML = '<div class="catempty">no model matches</div>'; return; }
-  body.innerHTML = '<div class="grid models">' + rows.map((m, i) => {
-    const yrs = m.years_span || (m.production_start ? m.production_start + '–' + (m.production_end || '') : '');
-    const credit = creditHTML(m);
-    const match = m.image_match_name
-      ? `<div class="sub" title="matched by ${escapeHtml(m.image_match_method || '')} (score ${m.image_match_score})">picture: ${escapeHtml(m.image_match_name)}</div>` : '';
-    return `<div class="tile" onclick="catPickModel(${i})" data-idx="${i}">
-      ${shotHTML(m, '&#128663;')}
-      <div class="body">
-        <div class="name">${escapeHtml(m.model_name)}</div>
-        <div class="sub">${escapeHtml(yrs || '—')}</div>
-        ${match}${credit}
-        <div class="foot">
-          <span class="pill">${m.variant_count} variant${m.variant_count === 1 ? '' : 's'}</span>
-          <span class="pill">${m.engine_count} engine${m.engine_count === 1 ? '' : 's'}</span>
-        </div>
-      </div></div>`;
-  }).join('') + '</div>';
-  body._rows = rows;
-}
-
-function catPickModel(i){
-  const rows = $('#catBody')._rows || [];
-  const m = rows[i];
-  if (m) catGo('types', m);
-}
-
-async function catRenderTypes(body){
-  const m = CAT.modelObj || {};
-  CAT.types = CAT.types_for === CAT.brand + '|' + CAT.model ? CAT.types : await api(`/api/brands/${encode(CAT.brand)}/models/${encode(CAT.model)}/engine_types`);
-  CAT.types_for = CAT.brand + '|' + CAT.model;
-  const head = `<div class="grid models" style="margin-bottom:14px;grid-template-columns:minmax(240px,320px)">
-      <div class="tile" style="cursor:default">
-        ${shotHTML(m, '&#128663;')}
-        <div class="body"><div class="name">${escapeHtml(CAT.brand)} ${escapeHtml(CAT.model)}</div>
-        <div class="sub">${escapeHtml(m.years_span || '—')} · ${m.variant_count || 0} variants</div>
-        ${m.image_source_page ? `<div class="sub"><a href="${escapeHtml(m.image_source_page)}" target="_blank" rel="noreferrer">picture source &#8599;</a></div>` : ''}
-        ${creditHTML(m)}
-        </div></div></div>`;
-  if (!CAT.types.length) {
-    body.innerHTML = head + '<div class="catempty">no engine variants recorded for this model</div>';
-    return;
-  }
-  body.innerHTML = head + '<div class="grid chips">' + CAT.types.map(t =>
-    `<div class="tile" style="padding:12px" onclick="catGo('codes', ${JSON.stringify(t.engine_type || '').replace(/"/g, '&quot;')})">
-       <div class="body"><div class="name">${escapeHtml(t.engine_type || '(empty)')}</div>
-       <div class="sub">${t.n} variant${t.n === 1 ? '' : 's'} · ${t.codes} engine code${t.codes === 1 ? '' : 's'}</div></div>
-     </div>`).join('') + '</div>';
-}
-
-async function catRenderCodes(body){
-  CAT.codes = await api(`/api/brands/${encode(CAT.brand)}/models/${encode(CAT.model)}/codes?engine_type=${encode(CAT.etype)}`);
-  if (!CAT.codes.length) { body.innerHTML = '<div class="catempty">no engine codes</div>'; return; }
-  body.innerHTML = '<div class="grid chips">' + CAT.codes.map(c =>
-    `<div class="tile" style="padding:12px" onclick="catOpenEditor(${JSON.stringify(c.engine_code).replace(/"/g, '&quot;')})">
-       <div class="body"><div class="name" style="font-family:ui-monospace,Menlo,monospace;color:#7cc4ff">${escapeHtml(c.engine_code)}</div>
-       <div class="sub">${escapeHtml(c.fuel || '')}${c.engine_power_hp ? ' · ' + c.engine_power_hp + ' hp' : ''}</div>
-       <div class="foot"><span class="pill">${c.n} variant${c.n === 1 ? '' : 's'}</span>
-       <span class="pill good">edit &rsaquo;</span></div></div>
-     </div>`).join('') + '</div>';
-}
-
-async function catOpenEditor(code){
-  showView('editor');
-  selBrand.value = CAT.brand; await onBrand();
-  selModel.value = CAT.model; await onModel();
-  selEtype.value = CAT.etype; await onEtype();
-  selCode.value = code; await onCode();
-}
-
-$('#btnViewCatalog').onclick = () => { showView('catalog'); if (!CAT.brands.length) catRender(); };
-$('#btnViewEditor').onclick = () => showView('editor');
-$('#catFilter').addEventListener('input', () => catRender());
-$('#catOnlyPics').addEventListener('change', () => catRender());
-
-/* ---------- boot ---------- */
-(async () => {
-  await loadBrands();
-  showView('catalog');
-  catLoadStats();
-  catRender();
-})();
+// Initialize dashboard
+initBrandsSelector();
+catLoadStats();
+catGo('brands');
 </script>
 </body>
 </html>

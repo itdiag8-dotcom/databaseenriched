@@ -8,8 +8,14 @@
 // codes), so a broken selector or template shows up without a browser.
 import fs from 'node:fs';
 import vm from 'node:vm';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const html = fs.readFileSync('dashboard/index.html', 'utf8');
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const htmlPath = fs.existsSync(path.join(__dirname, 'index.html'))
+  ? path.join(__dirname, 'index.html')
+  : (fs.existsSync('dashboard/index.html') ? 'dashboard/index.html' : 'database_enriched/dashboard/index.html');
+const html = fs.readFileSync(htmlPath, 'utf8');
 const code = html.match(/<script>([\s\S]*)<\/script>/)[1];
 
 const made = new Map();
