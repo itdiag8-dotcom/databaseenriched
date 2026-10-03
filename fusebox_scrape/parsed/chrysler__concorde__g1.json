@@ -1,0 +1,330 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "concorde",
+ "brand_db": "Chrysler",
+ "model_db_name": "CONCORDE",
+ "model_id": 1225,
+ "generation_name": "1st generation (LH)",
+ "generation_code": "g1",
+ "year_start": 1993,
+ "year_end": 1997,
+ "trim_label": "",
+ "representative_year": 1996,
+ "source_url": "https://www.startmycar.com/chrysler/concorde/info/fusebox/1996",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-concorde-1996-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLM",
+     "20A",
+     "Fuses 8, 9"
+    ],
+    [
+     "2",
+     "Fuse FLM",
+     "20A",
+     "Fuses 4, 13"
+    ],
+    [
+     "3",
+     "Fuse FLM",
+     "30A",
+     "Headlamp switch, dimmer switch, headlamp delay relay, fuse L, circuit breaker 23"
+    ],
+    [
+     "4",
+     "Fuse FLM",
+     "30A",
+     "ABS main relay, ABS control module"
+    ],
+    [
+     "5",
+     "Fuse FLM",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "6",
+     "Fuse FLM",
+     "20A",
+     "Ignition switch, starter relay, fuel pump relay"
+    ],
+    [
+     "7",
+     "Fuse FLM",
+     "20A",
+     "PCM, automatic shutdown relay, transmission relay, TCM"
+    ],
+    [
+     "8",
+     "Fuse FLM",
+     "40A",
+     "ABS pump motor relay"
+    ],
+    [
+     "9",
+     "Fuse FLM",
+     "40A",
+     "Radiator fan relays, A/C compressor clutch relay"
+    ],
+    [
+     "10",
+     "Fuse FLM",
+     "30A",
+     "Intermittent wiper relay"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Daytime running lamp module"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Combination flasher (hazard warning light)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "High speed radiator fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Low speed radiator fan relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Automatic shutdown relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Transmission relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Wiper (high/low speed) relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Intermittent wiper relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "ABS main relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "ABS pump motor relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-concorde-1996-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "25A",
+     "Blower motor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Heated power mirrors"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Right & left turn signals"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Stoplights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Headlight delay sense"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Climate control, rear window defrost, backup lights, ABS module, DRL, speed proportional steering"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Airbag module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Horns, horn relay, cigarette lighter, radio amplifier"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Taillights, license & parking lights, illumination lights, radio"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Wiper motor relay, washer motor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Left high beam headlight"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Right high beam headlight, high beam indicator"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Body controller, door lock switches, radio memory, power mirrors, trunk release, keyless entry, message center, courtesy/reading/map/vanity/trunk lights"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Body controller, message center, speed control relay, power window switch, power mirrors, overhead console, keyless entry, sunroof control module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Left low beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Right low beam, foglights"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Auto trans controller, body controller, gear selector indicator"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Engine controller, fuel pump relay, ASD relay"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Airbag module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor, fan relays, purge solenoid, EGR solenoid, A/C relay, manifold solenoid"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MAXI",
+     "",
+     "Power window motors, power window switch lights"
+    ],
+    [
+     "CB2",
+     "Circuit breaker MAXI",
+     "",
+     "Power door lock motors, power seats, power antenna, sunroof control module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlamp delay relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Door unlock relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Door lock relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn relay"
+    ]
+   ]
+  }
+ ]
+}

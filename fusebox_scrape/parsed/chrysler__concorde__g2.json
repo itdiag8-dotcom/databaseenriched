@@ -1,0 +1,450 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "concorde",
+ "brand_db": "Chrysler",
+ "model_db_name": "CONCORDE",
+ "model_id": 1225,
+ "generation_name": "2nd generation (LH)",
+ "generation_code": "g2",
+ "year_start": 1997,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/chrysler/concorde/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-concorde-2004-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Transmission controller, gauges, Autostick"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Right high beam headlight"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left high beam headlight"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Radio, CD player"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Washer motor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Power outlet"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Tail, license, parking, illumination lights, instrument cluster"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Turn signal lights, turn signal/hazard indicator"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Right low beam"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "High beam relay, indicator, switch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Left low beam headlight"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay, powertrain control module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Cluster, day/night mirror, sunroof, overhead console, garage door opener, BCM"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Daytime running light module (Canada)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Fog light indicator"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "ABS control, backup lights, DRL, A/C heater control"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Power amplifier, horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Overhead console, garage door opener, trunk/overhead/rear reading/visor vanity lights, trunk release solenoid, power mirrors, power door locks, BCM, aspirator motor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Brake lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Leak detection pump, low/high rad relays, A/C clutch relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "30A",
+     "Blower motor, ATC power module"
+    ],
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Power window motors"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Power door lock motors, power seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Park lamp"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "High beam headlamp"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Door unlock"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beam headlamp"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Door lock"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Driver door unlock"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Horn"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-concorde-2004-genid-g2-1.webp",
+   "fuses": [
+    [
+     "A",
+     "Fuse FMX/JCase",
+     "50A",
+     "Rear window defogger relay, BCM, manual temperature control head"
+    ],
+    [
+     "B",
+     "Fuse FMX/JCase",
+     "30A",
+     "A/C compressor clutch relay, radiator fan relay (high speed)"
+    ],
+    [
+     "B",
+     "Fuse FMX/JCase",
+     "40A",
+     "A/C compressor clutch relay, radiator fan relay (high speed)"
+    ],
+    [
+     "C",
+     "Fuse FMX/JCase",
+     "30A",
+     "High beam headlamp relay (fuses 2,3,15,16)"
+    ],
+    [
+     "D",
+     "Fuse FMX/JCase",
+     "40A",
+     "Low beam headlamp relay (fuses 10,11,12), CB2, door lock/unlock relays"
+    ],
+    [
+     "E",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan relay (low speed)"
+    ],
+    [
+     "F",
+     "Fuse FMX/JCase",
+     "20A",
+     "Fuses Y, X / spare relay"
+    ],
+    [
+     "F",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuses Y, X / spare relay"
+    ],
+    [
+     "G",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter relay, fuel pump relay, ignition switch (fuses 1,4,5,6,13,14,21,22,V)"
+    ],
+    [
+     "H",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS"
+    ],
+    [
+     "I",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuses 19, 20"
+    ],
+    [
+     "J",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch (fuses 8,9,17,23,CB1)"
+    ],
+    [
+     "K",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "L",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fuses 7, 18"
+    ],
+    [
+     "M",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front wiper on/off and high/low relays, BCM"
+    ],
+    [
+     "N",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic shutdown relay, PCM"
+    ],
+    [
+     "O",
+     "Fuse ATO",
+     "20A",
+     "Combination flasher (hazard)"
+    ],
+    [
+     "P",
+     "Fuse ATO",
+     "30A",
+     "Export: headlamp washer relay, BCM"
+    ],
+    [
+     "Q",
+     "Fuse ATO",
+     "20A",
+     "Transmission control relay"
+    ],
+    [
+     "R",
+     "Fuse ATO",
+     "20A",
+     "Export: rear fog lamp relay"
+    ],
+    [
+     "S",
+     "Fuse ATO",
+     "20A",
+     "Fuel injector, ignition coil, capacitor, short runner valve solenoid (3.5L), manifold tuning valve"
+    ],
+    [
+     "T",
+     "Fuse ATO",
+     "20A",
+     "Powertrain control module"
+    ],
+    [
+     "V",
+     "Fuse MINI",
+     "10A",
+     "Starter relay, powertrain control module"
+    ],
+    [
+     "W",
+     "Fuse MINI",
+     "10A",
+     "Automatic shutdown relay"
+    ],
+    [
+     "X",
+     "Fuse MINI",
+     "20A",
+     "Spare relay"
+    ],
+    [
+     "Y",
+     "Fuse MINI",
+     "15A",
+     "Power outlet"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "High speed radiator fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Automatic shutdown relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low speed radiator fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlamp washer relay (export)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Wiper high/low relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear fog lamp relay (export)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Engine starter motor relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Transmission control relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Wiper on/off relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}

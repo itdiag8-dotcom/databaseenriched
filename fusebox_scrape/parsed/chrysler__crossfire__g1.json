@@ -1,0 +1,355 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "crossfire",
+ "brand_db": "Chrysler",
+ "model_db_name": "CROSSFIRE",
+ "model_id": 1229,
+ "generation_name": "1st generation (ZH)",
+ "generation_code": "g1",
+ "year_start": 2004,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/chrysler/crossfire/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Accessory Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-crossfire-2007-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Garage door opening signal, TPM and seat heater"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "5A",
+     "Occupant restraint controller passenger airbag off"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Safety restraint system indicator, passenger airbag off indicator"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "7.5A",
+     "Heated mirror"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Radio (Coupe)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "25A",
+     "Roof control module (Roadster)"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Exterior mirror adjustment, left and right (Coupe)"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "40A",
+     "Roof hydraulic unit (Roadster)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "Electronic transmission control (park/reversing lock) and BCM"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Radio"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Roof light, horn, anti-theft alarm, cargo lamp and tire pressure control"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Speed control"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Ignition coil 6 cyl."
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Heated washer nozzles"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Charge air cooler circulation pump"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic socket"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Residual engine heat utilization"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Spoiler motor"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "40A",
+     "Electronic stability program"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "40A",
+     "Electronic stability program"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "40A",
+     "Power window"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment right side"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment left side"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "15A",
+     "Sound booster (amplifier)"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Seat heater"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Pneumatic control unit, rear window defroster"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "15A",
+     "Radio (Roadster)"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "15A",
+     "Cigar lighter, glove compartment light"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "15A",
+     "Wiper, washer pump, headlight flasher"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "5A",
+     "Climate control"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "30A",
+     "Climate control (Roadster)"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "15A",
+     "RF remote control, hazard warning flasher, instrument cluster, climate control"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "30A",
+     "Climate control (Coupe)"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "5A",
+     "Exterior mirror adjustment (Roadster)"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "5A",
+     "Circulating air, instrument cluster, RF remote control, climate control"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relay Control Module Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-crossfire-2007-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Traction system"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "Engine control 2"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Engine control 1"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "Air pump"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-crossfire-2007-genid-g1-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "Brake lamp / speed control"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "7.5A",
+     "Right high beam, high beam indicator light"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Reverse/turn signal light"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "7.5A",
+     "Left high beam"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Right low beam"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "7.5A",
+     "Right parking/tail light side marker"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Left low beam"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Fog light"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "7.5A",
+     "Left parking/tail light side marker"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "7.5A",
+     "License plate / instrument cluster lighting / symbol lighting"
+    ]
+   ]
+  }
+ ]
+}
