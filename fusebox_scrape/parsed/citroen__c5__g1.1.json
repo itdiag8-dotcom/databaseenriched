@@ -1,0 +1,295 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c5",
+ "brand_db": "Citroen",
+ "model_db_name": "C5",
+ "model_id": 1275,
+ "generation_name": "1st generation 1st facelift (\"X4\")",
+ "generation_code": "g1.1",
+ "year_start": 2003,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/citroen/c5/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Lower Main Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c5-2005-genid-g1.1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Trunk light"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "Sunroof, front power window, 12V accessory socket in the trunk, trunk height control, front 12V accessory socket"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Diesel additive, driver's door module, alarm, front power window"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Steering wheel control, airbag ECU, under-hood fuse box"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning, radiotelephone, parking assist, instrument panel, telephone amplifier"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Fog lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "+ battery"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Indicator, alarm siren, navigation, air conditioning, radiotelephone"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Steering wheel angle sensor, automatic gearbox lever switch, diagnostic socket"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "Cigarette lighter, glove box lighting, dome lights, air conditioning controls lighting"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Rear power window"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Left rear stop light, 3rd brake light"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Central locking, superlocking"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Right rear brake light"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "ECU power supplies (ABS, engine, suspension), ESP/ASR"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Left front position light, left rear position light"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Right front position light, right rear position light"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Upper Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c5-2005-genid-g1.1-1.webp",
+   "fuses": [
+    [
+     "G29",
+     "Fuse ATO",
+     "30A",
+     "Front left heated seat"
+    ],
+    [
+     "G30",
+     "Fuse ATO",
+     "30A",
+     "Front right heated seat"
+    ],
+    [
+     "G31",
+     "Fuse ATO",
+     "30A",
+     "Front right power seat"
+    ],
+    [
+     "G32",
+     "Fuse ATO",
+     "30A",
+     "Front right power seat"
+    ],
+    [
+     "G33",
+     "Fuse ATO",
+     "30A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "G39",
+     "Fuse ATO",
+     "5A",
+     "Luggage compartment light"
+    ],
+    [
+     "G40",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c5-2005-genid-g1.1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Reverse lights"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Control units (ABS, suspension), ESP/ASR"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Control units (engine control, automatic gearbox)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Diesel particulate filter"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "Headlight washers"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Engine control relay"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Left dipped beam headlight"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Right dipped beam headlight"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Left main beam headlight"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Right main beam headlight"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Windscreen washer"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "30A",
+     "Engine control actuators (ignition coil, solenoid valve, oxygen sensor)"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "30A",
+     "Air pump"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "30A",
+     "Front windscreen wipers"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "40A",
+     "Air blower"
+    ]
+   ]
+  }
+ ]
+}
