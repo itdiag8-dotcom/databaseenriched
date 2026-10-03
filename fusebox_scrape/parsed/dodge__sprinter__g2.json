@@ -1,0 +1,979 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "sprinter",
+ "brand_db": "Dodge",
+ "model_db_name": "Sprinter",
+ "model_id": 1478,
+ "generation_name": "2nd generation (\"NCV3\")",
+ "generation_code": "g2",
+ "year_start": 2007,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/dodge/sprinter/info/fusebox/2008/2nd-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse Box and Relays Under the Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-sprinter-2008-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "25A",
+     "Steering column lock (ELV), electronic ignition and starter switch (EZS)"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Terminal 30z (petrol engines), electronic ignition and starter switch (EZS), instrument cluster"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "Light switch (LDS), center console switch box (OBF; terminal 30)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Engine control, terminal 87 (5) [vehicles with code MI6/XM0]"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "Steering column tube module (MRM)"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "Motor control, terminal 87 (2)"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "Engine control terminal 87 (3) [petrol]"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "25A",
+     "Engine control, terminal 87 (3) [diesel]"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "Engine control, terminal 87 (1) [vehicles with code MI6/XM0]"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Motor control terminal 87 (4)"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Terminal 15R"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Airbag terminal 15R"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Audio module, cigarette lighter, glove box lighting, bodybuilder tail lift, PND power socket (mobile navigation)"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "Light switch (LDS), instrument cluster, diagnostic socket, reversing warning lamp deactivation, anti-theft system with vehicle tracking, terminal 15"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Headlight range adjustment (LWR), front heating system"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Motor control terminal 87 (1)"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "7.5A",
+     "Terminal 15, brake light switch"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "7.5A",
+     "Interior lighting, terminal 30"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "25A",
+     "Terminal 30, right front power window, signal acquisition and actuation module"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "5A",
+     "Engine control unit, terminal 15"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "5A",
+     "ABS, ESP, terminal 15"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "20A",
+     "Starter, terminal 50"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "25A",
+     "Starter, terminal 50"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Engine control, terminal 87 [vehicles with code MI6/XM0]"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "10A",
+     "Engine components, terminal 15 [diesel], control unit [vehicles with NGT natural gas engine]"
+    ],
+    [
+     "25",
+     "Fuse MAXI",
+     "25A",
+     "Front panel socket"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "25A",
+     "Driver's door control unit"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic connector"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "25A",
+     "Brake system (valves)"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "40A",
+     "Brake system (booster pump)"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "7.5A",
+     "Motors terminal 87 (5) (7.5A: M272/OM651; 10A: OM642)"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "7.5A",
+     "Motors terminal 87 (6) (7.5A: OM651/M271/M272; 10A: OM642)"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "30A",
+     "Headlamp cleaner"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "15A",
+     "Anti-theft warning system (EDW), flashing beacon/SGU"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "10A",
+     "Additional turn signal module"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "15A",
+     "Radio receiver 1 DIN"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "20A",
+     "Radio receiver 2 DIN"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "7.5A",
+     "Mobile phone, tachograph, navigation system holder"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "Front passenger compartment fan, auxiliary heating system, fan stage 1"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "7.5A",
+     "Auxiliary heating timer, radio, electrical retrofit DIN socket, FleetBoard system, anti-theft device with vehicle tracking"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "30A",
+     "Seat heating"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "10A",
+     "Body electrical, third party"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "10A",
+     "Front air conditioning, CD changer, heating system, rear heating system"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "7.5A",
+     "Motion sensor, comfort light, satellite radio, reading light and cargo area light, luggage compartment light"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "7.5A",
+     "Rear air conditioner"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Front wiper relay, mode 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter relay, terminal 50"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Relay, terminal 15R"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Motor control relay, terminal 87"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Relay, terminal 15"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse Box Under the Left Front Seat",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-sprinter-2008-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Mirror adjustment, heated rear window relay"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "30A",
+     "Rear wiper"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Heater timer, reversing camera, neutral switch, electrical retrofit DIN socket (roof), FleetBoard system, anti-theft system with vehicle tracking, emergency exit lighting"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "7.5A",
+     "Tachograph, automatic speed control (ADR), power take-off, trailer coupling (AAG)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Transmission shift system (EGS) control unit, terminal 87"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Start function, ECO engine shutdown, hood switch"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "All wheel drive"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "AWD, ride height control (ENR), auxiliary oil pump"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "7.5A",
+     "Automatic transmission control lever module (EWM)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Automatic transmission control lever module (EWM)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Automatic transmission control lever module (EWM)"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "3-way tipping/tail lift, terminal 15, PARKTRONIC"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "SSU/roof fan"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "7.5A",
+     "A/C compressor clutch, switchable warning buzzer for reversing warning light"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "25A",
+     "Body equipment, terminal 30"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Body equipment, terminal 15"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Body equipment, terminal D+"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Additional turn signal module [before 03/07]"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "30A",
+     "Rear air conditioner"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump FSCM (fuel level control module)"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump relay without FSCM (vehicles with code MI6/XM0)"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Trailer socket"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "25A",
+     "Trailer coupler (AAG)"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "7.5A",
+     "Tire pressure monitoring system (RDK), Parktronic"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "25A",
+     "Control unit for parameterizable special module (PSM)"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "25A",
+     "Control unit for parameterizable special module (PSM)"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "5A",
+     "Ceiling control box (DBE)"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "Ceiling control box (DBE)"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "25A",
+     "Sliding/tilting sunroof, overhead control box (DBE)"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "ERA-GLONASS system"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "7.5A",
+     "Contour lights, number plate light, identification light"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window without EDW (anti-theft alarm system)"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "15A",
+     "Heated rear window with EDW (anti-theft alarm system)"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "15A",
+     "Heated rear window"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "Vehicle power socket"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Body electrical, third party"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "15A",
+     "Socket in rear compartment, left"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "15A",
+     "Driver's seat socket"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "Socket in the rear of the passenger compartment, right"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "25A",
+     "Auxiliary water heater"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "25A",
+     "Additional heater"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "20A",
+     "Additional air heater"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "Rear air conditioning [until 03/07]"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "7.5A",
+     "CNG, terminal 87"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "25A",
+     "Starter relay SRB (vehicles without back-up battery)"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "25A",
+     "Starter with support from on-board network due to additional battery"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "10A",
+     "Four wheel drive"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "30A",
+     "Four wheel drive"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "7.5A",
+     "Terminal 87 (7) gas fuel system, cars with natural gas engine NGT"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "30A",
+     "Air suspension (compressor), brake booster [North America]"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "All wheel drive (compressor)"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "15A",
+     "Additional heat exchanger fan"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "15A",
+     "Sliding door left, rear fan"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "30A",
+     "Sliding door left, rear fan"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "15A",
+     "Sliding door closing reinforcement, left"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "10A",
+     "Keyless entry"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "5A",
+     "SCR system - exhaust gas aftertreatment control relay"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "30A",
+     "Sliding door right, suspension unit (ENR)"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "15A",
+     "Sliding door closing reinforcement, right"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "30A",
+     "Left sliding door [until 03/07]"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "20A",
+     "SCR system - heating system 1, AdBlue reducing agent [diesel exhaust aftertreatment]"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "30A",
+     "Brake booster"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "5A",
+     "SCR system - heating system 2, AdBlue reducing agent [diesel exhaust aftertreatment]"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "15A",
+     "SCR system - control and heating system 3, AdBlue reducing agent [diesel exhaust aftertreatment]"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "5A",
+     "Collision Prevention Assist / FCW (forward collision warning)"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "5A",
+     "Lane change warning / BSM (blind spot monitor)"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "10A",
+     "Multifunction camera (MK) with high beam assist and lane departure warning"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "7.5A",
+     "Body electrical equipment (delivery operation), reinforced rear air conditioning"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "15A",
+     "Ceiling fan, siren"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "15A",
+     "Charging current from buffer battery [vehicles with buffer battery]"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "7.5A",
+     "SAM (signal acquisition and actuation module) buffer battery reference voltage"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "30A",
+     "Rear air conditioning system"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "10A",
+     "Electric step/sliding door, right"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "10A",
+     "Electric step/sliding door, left"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "5A",
+     "Electric step, control module and warning buzzer"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Relays Under the Seat",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-sprinter-2008-genid-g2-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter relay [right-hand drive vehicles]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Unload relay, terminal 15"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Relay, terminal 15, starter"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Secondary air injection relay / secondary air pump, SCR system relay [exhaust aftertreatment]"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fan relay, front, fan stage 1"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Unload relay, terminal 15R"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Starter relay, auxiliary battery; starter relay, left-hand drive vehicles"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Relay 1, heated rear window"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Heated rear window relay 2 with EDW; snow plow relay, low beam left"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Relay 1, left electric footrest; snow plow relay, right low beam"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Relay 2, left electric footrest; snow plow relay, high beam left"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Unload relay, terminal 15 (2); snow plow relay, right high beam"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Relay 1, heated windshield"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Relay, bodybuilder, terminal 15"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Relay, bodybuilder, terminal 61 (D+)"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Tail lift equipment relay; comfort lighting relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Headlight cleaner relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Beacon relay with siren"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "EDW relay, horn"
+    ],
+    [
+     "R21",
+     "Relay",
+     "",
+     "Loop/identifier relay (North America); license plate lamp relay (public service); fan relay, additional air heating, stage 1"
+    ],
+    [
+     "R22",
+     "Relay",
+     "",
+     "Fan relay, additional air heating, fan stage 2"
+    ],
+    [
+     "R23",
+     "Relay",
+     "",
+     "Beacon relay with siren; relay terminal 61 (D+), anti-theft device with vehicle tracking"
+    ],
+    [
+     "R24",
+     "Relay",
+     "",
+     "Relay 1, right electric footrest"
+    ],
+    [
+     "R25",
+     "Relay",
+     "",
+     "Relay 2, right electric footrest"
+    ],
+    [
+     "R26",
+     "Relay",
+     "",
+     "Reverse signal relay off; anti-theft device relay with vehicle tracking"
+    ]
+   ]
+  }
+ ]
+}
