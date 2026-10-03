@@ -1,0 +1,582 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "x4",
+ "brand_db": "BMW",
+ "model_db_name": "X4 \u2013 F26",
+ "model_id": 811,
+ "generation_name": "1st generation",
+ "generation_code": "F26",
+ "year_start": 2014,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/bmw/x4/info/fusebox/2018/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x4-2018-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "OBD"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control; telephone"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "Power windows with anti-trapping function"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "30A",
+     "Steering column module, HUD, electric mirrors, headlights/sensors, parking sensors / HomeLink, horn, door module, power windows, rear wiper relay, washer fluid heater, instrument cluster, air conditioning, windscreen washers, headlight washing system"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "30A",
+     "Power windows with anti-trapping function"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Head-Up Display (HUD), light module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Steering column module, HUD, main headlights / sensors, light module, HiFi amplifier, TV tuner, video module, interior lights, instrument cluster"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "40A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control, light module"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "Power windows with anti-trapping function"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "Power windows with anti-trapping function"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "Telephone"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Steering column function control module, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "HUD, HiFi amplifier, TV tuner, video module, heated seats, seat adjustment, air conditioning"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Electric mirrors, door module / automatic soft-close, power windows, seat adjustment"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC, steering column function control module, electric fan"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC, Dynamic Drive system"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "ABS, DSC, Digital Diesel Electronics (DDE), DME/IVM"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "30A",
+     "Windscreen washers, headlight washing system"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "Gear indicator, EDC, automatic transmission control, AWD, Dynamic Drive system"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "40A",
+     "Door module / automatic soft-close, START-STOP system"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "",
+     "Steering column function control module"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "30A",
+     "ABS, DSC, gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC, steering column module, HUD, HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "5A",
+     "HiFi amplifier, TV tuner, video module, heating / independent aux. heater, air conditioning"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Steering column module, HUD, parking sensors / HomeLink, Dynamic Drive system"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD), Dynamic Drive system"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "5A",
+     "Heating / independent aux. heater, interior lights"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "20A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "20A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "5A",
+     "Door module / automatic soft-close, START-STOP system"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "15A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "5A",
+     "Panoramic moonroof controls"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC, steering column function control module"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "20A",
+     "Panoramic moonroof controls, electric rear sunshade"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "10A",
+     "Gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "7.5A",
+     "Gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "20A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "7.5A",
+     "Gear indicator, EDC, automatic transmission control, AWD, light module, interior lights"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "10A",
+     "Seat adjustment"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlight washing system"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse box in glove compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x4-2018-genid-g1-1.webp",
+   "fuses": [
+    [
+     "100",
+     "Fuse ATO",
+     "20A",
+     "Trailer module, electric rear sunshade"
+    ],
+    [
+     "101",
+     "Fuse ATO",
+     "40A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "103",
+     "Fuse ATO",
+     "",
+     "START-STOP system"
+    ],
+    [
+     "107",
+     "Fuse MINI",
+     "10A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control, front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "108",
+     "Fuse MINI",
+     "5A",
+     "Boot lid (tailgate) lock / soft-close automatic for tailgate"
+    ],
+    [
+     "111",
+     "Fuse MINI",
+     "20A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "115",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC"
+    ],
+    [
+     "117",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD)"
+    ],
+    [
+     "118",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD), telephone"
+    ],
+    [
+     "120",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD), HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "121",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD), electric fan"
+    ],
+    [
+     "123",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD)"
+    ],
+    [
+     "129",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD)"
+    ],
+    [
+     "130",
+     "Fuse MINI",
+     "5A",
+     "Parking sensors / HomeLink (garage door opener)"
+    ],
+    [
+     "131",
+     "Fuse MINI",
+     "20A",
+     "Digital Motor Electronics (DME), Integrated Voltage Module (IVM)"
+    ],
+    [
+     "132",
+     "Fuse MINI",
+     "20A",
+     "Digital Motor Electronics (DME), Integrated Voltage Module (IVM)"
+    ],
+    [
+     "137",
+     "Fuse MINI",
+     "15A",
+     "Boot lid (tailgate) lock / soft-close automatic for tailgate"
+    ],
+    [
+     "139",
+     "Fuse MINI",
+     "5A",
+     "Fuel pump relay / fuel pump control, tyre pressure control (RDC)"
+    ],
+    [
+     "140",
+     "Fuse MINI",
+     "5A",
+     "Light module"
+    ],
+    [
+     "141",
+     "Fuse MINI",
+     "5A",
+     "Boot lid (tailgate) lock / soft-close automatic for tailgate"
+    ],
+    [
+     "143",
+     "Fuse MINI",
+     "15A",
+     "DME/IVM, front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "144",
+     "Fuse MINI",
+     "20A",
+     "Trailer module, front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "146",
+     "Fuse MINI",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "169",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC, Head-Up Display (HUD), parking brake"
+    ],
+    [
+     "170",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD), HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "171",
+     "Fuse MINI",
+     "",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "173",
+     "Fuse MINI",
+     "15A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "176",
+     "Fuse MINI",
+     "15A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "184",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump relay / fuel pump control"
+    ],
+    [
+     "186",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "187",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "188",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "189",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "190",
+     "Fuse ATO",
+     "30A",
+     "ABS, DSC, HUD, HiFi amplifier, TV tuner, video module, START-STOP system"
+    ],
+    [
+     "191",
+     "Fuse ATO",
+     "30A",
+     "HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "192",
+     "Fuse ATO",
+     "20A",
+     "HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "198",
+     "Fuse ATO",
+     "30A",
+     "ABS, DSC, parking brake"
+    ],
+    [
+     "199",
+     "Fuse ATO",
+     "30A",
+     "ABS, DSC, parking brake"
+    ],
+    [
+     "200",
+     "Fuse ATO",
+     "40A",
+     "Boot lid (tailgate) lock / soft-close automatic for tailgate"
+    ],
+    [
+     "203",
+     "Fuse ATO",
+     "30A",
+     "Rear window defroster (defogger)"
+    ]
+   ]
+  }
+ ]
+}
