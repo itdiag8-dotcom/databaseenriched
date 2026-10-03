@@ -1,0 +1,589 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "m3",
+ "brand_db": "BMW",
+ "model_db_name": "M3",
+ "model_id": 759,
+ "generation_name": "5th generation",
+ "generation_code": "F80",
+ "year_start": 2013,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/bmw/m3/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse box in the engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m3-2018-genid-g5-0.webp",
+   "fuses": [
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "OBD"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Parking sensors / HomeLink, interior lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "START-STOP system, DME/IVM"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Electric mirrors, door module / soft-close, power windows with anti-trap"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Digital Diesel Electronics (DDE), DME/IVM"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC, HUD, HiFi amp, TV tuner, video module, navigation"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Heated seats"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Seat adjustment"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Alarm, parking sensors / HomeLink, OBD, interior lights, sunroof, panorama glass, convertible top module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC, electric fan"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "Head-up display (HUD), seat adjustment"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Seatbelts, gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Seatbelts"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "40A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "40A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Main headlights / rain sensor / light sensor / ride height control"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Alarm, parking sensors / HomeLink, OBD, interior lights"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "5A",
+     "Cruise control"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "5A",
+     "Cruise control"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "5A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "5A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "Steering column function control module"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "5A",
+     "Light module"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "7.5A",
+     "Gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "5A",
+     "Steering column function control module"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "5A",
+     "Electric fan, A/C system, heating / independent aux. heater"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "40A",
+     "Main headlights / rain sensor / light sensor / ride height control"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "30A",
+     "ABS, DSC"
+    ],
+    [
+     "62",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts, sunroof, panorama glass, convertible top module"
+    ],
+    [
+     "63",
+     "Fuse ATO",
+     "30A",
+     "Gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "64",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "65",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "66",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighters, 12V sockets / glove box charging socket"
+    ],
+    [
+     "67",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "68",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "69",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighters, 12V sockets / glove box charging socket"
+    ],
+    [
+     "70",
+     "Fuse ATO",
+     "20A",
+     "Heating / independent aux. heater"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse box in the luggage compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m3-2018-genid-g5-1.webp",
+   "fuses": [
+    [
+     "100",
+     "Fuse MINI",
+     "15A",
+     "Main headlights / rain sensor / light sensor / ride height control"
+    ],
+    [
+     "103",
+     "Fuse MINI",
+     "5A",
+     "Alarm"
+    ],
+    [
+     "104",
+     "Fuse MINI",
+     "5A",
+     "Alarm, door module / automatic soft-close"
+    ],
+    [
+     "106",
+     "Fuse ATO",
+     "40A",
+     "Convertible top module / convertible relay"
+    ],
+    [
+     "107",
+     "Fuse ATO",
+     "40A",
+     "Tailgate lock / soft-close automatic"
+    ],
+    [
+     "113",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "114",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "116",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "117",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "120",
+     "Fuse MINI",
+     "5A",
+     "HUD, HiFi amp, TV tuner, video module, telephone"
+    ],
+    [
+     "121",
+     "Fuse ATO",
+     "20A",
+     "HUD, instrument cluster, HiFi amp, TV tuner, video module, navigation"
+    ],
+    [
+     "122",
+     "Fuse ATO",
+     "30A",
+     "HiFi amp, TV tuner, video module"
+    ],
+    [
+     "123",
+     "Fuse ATO",
+     "40A",
+     "HUD, HiFi amp, TV tuner, video module"
+    ],
+    [
+     "124",
+     "Fuse MINI",
+     "5A",
+     "Air suspension system"
+    ],
+    [
+     "125",
+     "Fuse MINI",
+     "5A",
+     "HUD, HiFi amp, TV tuner, video module, navigation"
+    ],
+    [
+     "126",
+     "Fuse MINI",
+     "10A",
+     "HUD, HiFi amp, TV tuner, video module, navigation"
+    ],
+    [
+     "127",
+     "Fuse MINI",
+     "5A",
+     "CD changer / CAN gateway module"
+    ],
+    [
+     "128",
+     "Fuse MINI",
+     "5A",
+     "HUD, HiFi amp, TV tuner, video module, navigation, telephone"
+    ],
+    [
+     "130",
+     "Fuse MINI",
+     "5A",
+     "Tailgate lock / soft-close automatic"
+    ],
+    [
+     "132",
+     "Fuse MINI",
+     "5A",
+     "Tire pressure control (RDC)"
+    ],
+    [
+     "137",
+     "Fuse ATO",
+     "20A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "139",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "140",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "141",
+     "Fuse ATO",
+     "20A",
+     "Heated seats, convertible top module / relay"
+    ],
+    [
+     "142",
+     "Fuse ATO",
+     "30A",
+     "HUD, HiFi amp, TV tuner, video module, navigation"
+    ],
+    [
+     "143",
+     "Fuse MINI",
+     "5A",
+     "Convertible top module / convertible relay"
+    ],
+    [
+     "144",
+     "Fuse MINI",
+     "10A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "145",
+     "Fuse MINI",
+     "15A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "146",
+     "Fuse MINI",
+     "5A",
+     "Parking sensors / HomeLink, DME/IVM"
+    ],
+    [
+     "147",
+     "Fuse MINI",
+     "5A",
+     "HUD, HiFi amp, TV tuner, video module, navigation"
+    ],
+    [
+     "148",
+     "Fuse MINI",
+     "5A",
+     "Air suspension system"
+    ],
+    [
+     "149",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel pump relay / fuel pump control"
+    ],
+    [
+     "150",
+     "Fuse MINI",
+     "5A",
+     "Door module / soft-close, fuel pump control, tailgate lock / soft-close"
+    ],
+    [
+     "151",
+     "Fuse MINI",
+     "5A",
+     "Fuel pump relay / fuel pump control"
+    ],
+    [
+     "152",
+     "Fuse MINI",
+     "5A",
+     "Seatbelts"
+    ],
+    [
+     "153",
+     "Fuse MINI",
+     "5A",
+     "Light module"
+    ],
+    [
+     "154",
+     "Fuse MINI",
+     "5A",
+     "Head-up display"
+    ],
+    [
+     "155",
+     "Fuse MINI",
+     "15A",
+     "HUD, instrument cluster, HiFi amp, TV tuner, video module, navigation"
+    ],
+    [
+     "159",
+     "Fuse MINI",
+     "5A",
+     "HUD, HiFi amp, TV tuner, video module, navigation"
+    ],
+    [
+     "160",
+     "Fuse ATO",
+     "20A",
+     "Air suspension system"
+    ],
+    [
+     "161",
+     "Fuse ATO",
+     "20A",
+     "Main headlights / rain sensor / light sensor / ride height control"
+    ],
+    [
+     "162",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighters, 12V sockets / glove box charging socket"
+    ],
+    [
+     "163",
+     "Fuse ATO",
+     "20A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "164",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "165",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump relay / fuel pump control"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse box in the luggage compartment (No.2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m3-2018-genid-g5-2.webp",
+   "fuses": [
+    [
+     "80",
+     "Fuse MINI",
+     "30A",
+     "Rear window defroster"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper relay"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "30A",
+     "Power windows with anti-trapping function"
+    ],
+    [
+     "84",
+     "Fuse MINI",
+     "30A",
+     "Power windows with anti-trapping function"
+    ],
+    [
+     "85",
+     "Fuse MINI",
+     "7.5A",
+     "Electric rear sunshade"
+    ]
+   ]
+  }
+ ]
+}
