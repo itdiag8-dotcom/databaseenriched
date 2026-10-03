@@ -1,0 +1,673 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "caprice",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Caprice",
+ "model_id": 6574,
+ "generation_name": "Caprice PPV",
+ "generation_code": "WM/WN/Zeta",
+ "year_start": 2006,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/chevrolet/caprice/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-caprice-2013-genid-g6-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Reverse lockout / TOSS / flex fuel sensor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "ECM 1 (V8) / odd coils (V6)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Emission 2"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "ECM 1 (V6) / odd injectors & coils (V8)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Even coils (V6) / even injectors & coils (V8)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Emission 1"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Theft horn"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Front washer (WSW)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "HVAC ignition"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Ignition engine / FSCM"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Ignition IP / body"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Airbags"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Left low beam (base)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Left low beam (HID)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Right low beam (base)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Right low beam (HID)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "Headlight wash"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Comm enable"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "HVAC battery"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Reverse light"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Fog lights (front)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "ABS valves"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "25A",
+     "Realtime damping"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Right parking light"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Left parking light"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "TCM"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Vaporiser control module (VCM)"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "20A",
+     "Brake vacuum pump"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defog"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "54",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 1"
+    ],
+    [
+     "56",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 2"
+    ],
+    [
+     "57",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "58",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower motor"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fan 1 engine cooling"
+    ],
+    [
+     "61",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fan 2 engine cooling"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front wiper high relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front wiper low relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Ignition main relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front windscreen wash relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Parking lights relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Headlight low beam relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlight high beam relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Comm enable relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "A/C clutch compressor relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Reverse lights relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Fog light front relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Headlight washer relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Rear defog relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Crank relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Engine cooling fan 1 relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Engine cooling fan 3 relay"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "Engine cooling fan 2 relay"
+    ],
+    [
+     "R21",
+     "Relay",
+     "",
+     "Vacuum pump relay (MY2010 & 2012)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-caprice-2013-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Airbags"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rear end release"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Rear end release"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Door locks"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Inadvertent power / LED dim"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Courtesy lights / right front turn light"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Right rear turn light / right side indicator"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "EDI"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Left front turn light / left side indicator"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "BCM logic"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Stop lights / parking assist"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Console lighting"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "2A",
+     "Ignition switch / theft deterrent"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Rear lighter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Console auxiliary power outlet"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "2A",
+     "Outside mirror / RPA option / OSRM"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Phone / key lock / ISRVM / rain sensor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Front lighter / front APO"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel illumination"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "2A",
+     "RAP control power window"
+    ],
+    [
+     "29",
+     "Circuit breaker ATO",
+     "",
+     "Power windows battery"
+    ],
+    [
+     "30",
+     "Circuit breaker ATO",
+     "",
+     "Power windows RAP"
+    ],
+    [
+     "31",
+     "Circuit breaker ATO",
+     "",
+     "Power seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "All door lock relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Passenger door unlock relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear end release relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Driver door unlock relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Accessory power relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fuel shut-off solenoid relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel shut-off solenoid relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-caprice-2013-genid-g6-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Rear seat entertainment"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Dealer options"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "25A",
+     "Radio & infotainment"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "IPC / RFA / DLC / lamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory power outlet"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Trailer"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Liftgate module logic"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Fuel shut-off solenoid"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "RVC sensor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "ECM battery"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Fuel system control module"
+    ]
+   ]
+  }
+ ]
+}
