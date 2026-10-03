@@ -304,12 +304,12 @@
     "x4-m",
     "z8"
    ]
-  }
+  },
+  "buick": 19
  },
  "in_progress": {},
  "queue_next_makes": [
   "arcfox",
-  "buick",
   "byd",
   "cadillac",
   "chery",
@@ -571,10 +571,11 @@
   "buick/rendezvous": "done",
   "buick/riviera": "done_no_db_model",
   "buick/roadmaster": "done",
-  "buick/terraza": "done"
+  "buick/terraza": "done",
+  "buick/verano": "done"
  },
- "last_updated": "2026-10-03T20:39:00.124258",
- "current_brand": "buick",
+ "last_updated": "2026-10-03T20:39:36.759338",
+ "current_brand": "byd",
  "audi_done_models": [
   "a1",
   "a2",
@@ -801,6 +802,7 @@
   "rendezvous",
   "riviera",
   "roadmaster",
-  "terraza"
+  "terraza",
+  "verano"
  ]
 }

@@ -1,0 +1,541 @@
+{
+ "make_slug": "buick",
+ "model_slug": "verano",
+ "brand_db": "Buick",
+ "model_db_name": "Verano",
+ "model_id": 988,
+ "generation_name": "1st generation",
+ "generation_code": "D1SB / Delta II",
+ "year_start": 2010,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/buick/verano/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-verano-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Engine control module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "O2 sensor / purge solenoid"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils / injectors"
+    ],
+    [
+     "6b",
+     "Fuse MINI",
+     "7.5A",
+     "Mirror defogger"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Powertrain cooling"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Mass airflow sensor / pre-O2 sensor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Battery potential signal"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Engine cooling fan (RPO LEA)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "ABS valve"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Run/crank"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Right high-beam headlamp"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Left high-beam headlamp"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "Door switch supply / left power window"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Canister vent"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Fuel system control module"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Front windshield washer"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "5A",
+     "Rear vision camera"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "7.5A",
+     "Interior rearview mirror"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition ECM / TCM"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster / fuel system control module / HVAC / run-crank"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter control"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front power window"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear power window"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear electrical center"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric parking brake"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS pump"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "40A",
+     "Engine cooling fan (RPO LEA)"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine cooling fan (RPO LEA)"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "60A",
+     "Engine cooling fan"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Engine control powertrain relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Engine cooling fan relay (RPO LEA)"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Engine cooling fan relay (RPO LEA)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Engine cooling fan relay (RPO LEA)"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "High-beam headlamps relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "EGR / coolant pump / AIR solenoid valve relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-verano-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Infotainment system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Information display / parking assist"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Interior fan"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "Driver power seat"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Diagnostic connector"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Central locking system / tailgate"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "A/C system"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "Infotainment system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Passenger power seat"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "2A",
+     "Ignition / electronic key system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Ignition / electronic key system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Trunk open relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power outlet relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Door security relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-verano-2017-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F03",
+     "Fuse MINI",
+     "5A",
+     "Rear parking assist"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "5A",
+     "Rear vision camera"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Heated steering wheel"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "25A",
+     "Sunroof"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "25A",
+     "Heated seats"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "5A",
+     "Side blind zone alert"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passive entry / passive start"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Run relay"
+    ]
+   ]
+  }
+ ]
+}
