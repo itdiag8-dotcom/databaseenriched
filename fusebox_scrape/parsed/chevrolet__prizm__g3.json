@@ -1,0 +1,500 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "prizm",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Prizm",
+ "model_id": 6683,
+ "trim_label": "",
+ "generation_name": "3rd generation (E110)",
+ "generation_code": "g3",
+ "year_start": 1998,
+ "year_end": 2002,
+ "representative_year": 2002,
+ "source_url": "https://www.startmycar.com/chevrolet/prizm/info/fusebox/2002",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-prizm-2002-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "20A",
+     "(HEAD LH) Left-hand headlight"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "20A",
+     "(HEAD RH) Right-hand headlight"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "50A",
+     "(AM1) Starter system"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "(AM2) Starter system"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "(HAZARD) Hazard light"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "EFI / F-HTR"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "(DOME) Dome light and interior light"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "5A",
+     "(ALT-S) Battery and charging system"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "(SPARE) Spare fuse"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "(SPARE) Spare fuse"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "(SPARE) Spare fuse"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "FAN I/LP"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "30A",
+     "(FAN) Electric cooling fan"
+    ],
+    [
+     "F17",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "(MAIN) Main fuse"
+    ],
+    [
+     "F18",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "(ALT) Battery and charging system"
+    ],
+    [
+     "F19",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(HEAD) Headlights"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(ST) Starter system"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "EFI / F-HTR"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(ENGINE MAIN) Engine control system"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(FAN NO.1) Electric cooling fan"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(HORN) Horn"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Panel (2nd version)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-prizm-2002-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "(ALT-S) Charging system"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(HEAD RH-UPR) Right headlight (DRL)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "(EFI) [4A-FE, 5A-FE, 7A-FE, 4E-FE]: Multiport fuel injection system"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "(F-HTR) [2C-E]: Multiport fuel injection system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn, anti-theft system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(HAZARD) Hazard warning light system, turn signals"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "(AM2) Starting system, fuses ST, IGN"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(HEAD LH-UPR) Left headlight (DRL)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(DOME) Audio, interior/personal/trunk lighting, clock, DRL, anti-theft system"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "50A",
+     "(AM1) Fuses: CIG, TURN, GAUGE, ECU-IG, WIP"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "(FAN) Cooling fan"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "(RDI) Cooling fan"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "(MAIN) Starting system, headlight fuses"
+    ],
+    [
+     "17",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "(ALT) Fuses: RDI, CDS, AM1, POWER, D/L, TAIL, OBD, FOG, ECU-B, STOP, DEF, HTR"
+    ],
+    [
+     "18",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "(ABS) ABS relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(ENGINE MAIN) Engine control unit"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(EFI) [4A-FE, 5A-FE, 7A-FE, 4E-FE]: Engine control unit"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(F-HTR) [2C-E]: Fuel heater"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(HEAD) Headlights"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(ST) Starter motor"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(FAN NO.1) Cooling fan"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-prizm-2002-genid-g3-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Brake lights, fuel injection, ABS, shift lock system"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(ECU-IG) Anti-lock braking system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "(STARTER) Starter motor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(LIGHTER) Cigarette lighter, clock, power mirrors, radio"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "(ECU-B) Diesel engine electronic control system"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(METER) Instrument cluster"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "(TURN) Turn signals, alarm"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "(IGNITION) Battery charging system, fuel injection system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(TAIL) Tail lights, license plate illumination, instrument panel, audio"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "(WIPER) Windshield wipers and washers"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "(DEFOG) Heated rear window"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(IDLE-UP) Idle-up system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "(DOOR) Central locking"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-prizm-2002-genid-g3-3.webp",
+   "fuses": [
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "(WIP) Windshield wiper and washer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(DEF I-UP / M-HTR) Rear window defogger, fuel injection, mirror defogger"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(ECU-IG) ABS, fuel injection system, electric fans"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "(IGN) Fuel injection, charging system, SRS, pretensioner, EGR"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop lights, high-mount stop light, ABS"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "(TAIL) Tail/parking lights, gauges, clock, cigarette lighter, audio, defogger, plate lights, A/C, hazard, central locking"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "(OBD)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "(ECU-B) SRS airbag, pretensioners, rear fog light"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "(ST) Starter motor, fuel injection system"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "(D/L) Central door locking"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "(FOG) Front fog light"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "(S-HTR)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "(CIG) Audio, clock, cigarette lighter, outer mirrors, SRS airbag"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "(DEF) Rear window defogger, DEF I/UP/M-HTR fuse"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "30A",
+     "(POWER) Power windows"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "(TURN) Turn signals, hazard lights, remote locking"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(GAUGE) Gauges, backup lights, audio, A/C, power windows, defogger, central locking"
+    ]
+   ]
+  }
+ ]
+}

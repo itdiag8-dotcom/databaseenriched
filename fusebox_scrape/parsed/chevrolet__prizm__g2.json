@@ -1,0 +1,343 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "prizm",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Prizm",
+ "model_id": 6683,
+ "trim_label": "",
+ "generation_name": "2nd generation (E100)",
+ "generation_code": "g2",
+ "year_start": 1993,
+ "year_end": 1997,
+ "representative_year": 1997,
+ "source_url": "https://www.startmycar.com/chevrolet/prizm/info/fusebox/1997",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Panel (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-prizm-1997-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "7.5A",
+     "(CHARGE) Battery charging system, charge indicator, automatic starting"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "7.5A",
+     "(FAN-I/UP) Pre-start engine heating system, automatic start-up"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "(DOME) Ceiling lamp, door warning lamps, tailgate lamp"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "(EFI) Electronic petrol injection system"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "(HAZ-HORN) Hazard warning signals, horn"
+    ],
+    [
+     "9",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(FAN) Engine cooling fan"
+    ],
+    [
+     "FLASHER1",
+     "Flasher",
+     "",
+     "(HORN) Signal relay"
+    ],
+    [
+     "FLASHER2",
+     "Flasher",
+     "",
+     "(FAN NO.1) Cooling fan relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(HEAD) Headlight relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(EFI)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(ENGINE MAIN)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Panel (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-prizm-1997-genid-g2-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "(HORN) Signal relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(FAN) Cooling fan relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(E/G-MAIN) Main relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(HEAD) Headlight relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(EFI) Motor relay"
+    ],
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "(DOME) Electric drive and interior lighting"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "(HAZ-HORN) Alarm, horn"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "7.5A",
+     "(FAN-I/UP) Increase in idle speed"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "7.5A",
+     "(ALT-S) Charging"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "7.5A",
+     "(SPARE) Spare"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "(SPARE) Spare"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "(SPARE) Spare"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "(HEAD RH) Right headlights"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "(HEAD LH) Left headlights"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "(EFI F-HTR) Fuel supply"
+    ],
+    [
+     "11",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(AM2) AM2 circuit of ignition switch (IG2, ST2)"
+    ],
+    [
+     "12",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(FAN) Radiator fan"
+    ],
+    [
+     "13",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "(AM1) AM1 circuit of ignition switch (ACC, IG1, ST1)"
+    ],
+    [
+     "13",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "(GLOW) Glow plugs [diesel]"
+    ],
+    [
+     "14",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "(ALT) Battery charging [gasoline]"
+    ],
+    [
+     "14",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "(AM1) AM1 (2E) [diesel]"
+    ],
+    [
+     "15",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "(ABS) ABS"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-prizm-1997-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "(IGN) Ignition"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "(STOP) Brake lights"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "(SEAT HTR) Seat heater"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "(CIG & RADIO) Cigarette lighter, radio, mirrors"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "(ECU-B) ABS, central lock power supply"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "(TURN) Direction indicators"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "(GAUGE) Gauges"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "(TAIL) Side/marker lights"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "(TAIL) Side/marker lights"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "7.5A",
+     "(DEF-I/UP) Idle-up when rear defogger on"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "(ECU-IG) Transmission electronics, ABS, shift lock (AT)"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "(WIPER) Wipers"
+    ],
+    [
+     "a",
+     "Fuse FMX/JCase",
+     "",
+     "(POWER) Power windows, sunroof, central locking"
+    ],
+    [
+     "b",
+     "Fuse FMX/JCase",
+     "",
+     "(FOG) Fog lights"
+    ],
+    [
+     "A",
+     "Relay",
+     "",
+     "(DEFOG) Rear window defogger"
+    ],
+    [
+     "B",
+     "Relay",
+     "",
+     "(TAIL) Side lights"
+    ],
+    [
+     "C",
+     "Relay",
+     "",
+     "(FLASHER) Turn signal flasher"
+    ]
+   ]
+  }
+ ]
+}
