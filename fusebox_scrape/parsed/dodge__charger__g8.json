@@ -1,0 +1,750 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "charger",
+ "brand_db": "Dodge",
+ "model_db_name": "Charger",
+ "model_id": 1432,
+ "generation_name": "Charger Daytona (\"LB\")",
+ "generation_code": "g8",
+ "year_start": 2024,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/dodge/charger/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Front Power Distribution Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-charger-2025-genid-g8-0.webp",
+   "fuses": [
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "30A",
+     "BSM #2 valves"
+    ],
+    [
+     "F14",
+     "Fuse FMM/MCase",
+     "50A",
+     "BSM motor"
+    ],
+    [
+     "F16",
+     "Fuse FMM/MCase",
+     "",
+     "Fuel pump motor 1"
+    ],
+    [
+     "F17",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electric oil pump, EDM front (800V/400V)"
+    ],
+    [
+     "F18",
+     "Fuse FMM/MCase",
+     "25A",
+     "Fuel pump motor 2"
+    ],
+    [
+     "F19",
+     "Fuse FMM/MCase",
+     "",
+     "BSM valve"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "10A",
+     "Power control relay coil"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "10A",
+     "Auxiliary heater pump"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "Electric A/C compressor (non-BEV) / electric A/C compressor (BEV) / electric expansion valve (EEXV)"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "20A",
+     "SLM feed left"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "10A",
+     "Coolant proportioning valve, HTL & LTR bypass valve"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "10A",
+     "Keyless ignition node module, radio frequency hub (RFHM) / electric park brake (EPB) switch"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "5A",
+     "Electric coolant heater"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "",
+     "Power electronics coolant pump (BEV)"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "",
+     "Battery coolant pump (BEV)"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "10A",
+     "Electric power steering (EPS) #1"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "20A",
+     "EPS #2 / brake system module (BSM) #2 / ESCL / air suspension module / switchable engine mounts #1 & #2"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "10A",
+     "ECM / TCM / HVAC blower relay coil / BSM #1 / ELSD / SLM module"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "10A",
+     "Long range radar front"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "20A",
+     "ADCM (BEV)"
+    ],
+    [
+     "F46",
+     "Fuse MICRO2",
+     "10A",
+     "Damping control module"
+    ],
+    [
+     "F49",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front windshield defrost"
+    ],
+    [
+     "F50",
+     "Fuse FMM/MCase",
+     "40A",
+     "HVAC blower"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "10A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "20A",
+     "Radio (CMCM)"
+    ],
+    [
+     "F54",
+     "Fuse MICRO2",
+     "20A",
+     "SLM feed right"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "10A",
+     "Diagnostics port"
+    ],
+    [
+     "F59",
+     "Fuse MICRO2",
+     "15A",
+     "Police spot lamp left"
+    ],
+    [
+     "F60",
+     "Fuse MICRO2",
+     "15A",
+     "LTR coolant pump (gas) / driver motor power inverter (DMPI) feed (BEV) / PECP-2"
+    ],
+    [
+     "F60",
+     "Fuse MICRO2",
+     "20A",
+     "LTR coolant pump (gas) / driver motor power inverter (DMPI) feed (BEV) / PECP-2"
+    ],
+    [
+     "F61",
+     "Fuse MICRO2",
+     "5A",
+     "Mid range radar rear L&R, mid range radar front L&R"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "30A",
+     "Air suspension module valves"
+    ],
+    [
+     "F63",
+     "Fuse MICRO2",
+     "10A",
+     "Steering column control module"
+    ],
+    [
+     "F64",
+     "Fuse MICRO2",
+     "10A",
+     "Outside heat exchanger expansion valve module"
+    ],
+    [
+     "F65",
+     "Fuse MICRO2",
+     "7.5A",
+     "Heated washer nozzle"
+    ],
+    [
+     "F66",
+     "Fuse MICRO2",
+     "15A",
+     "Active sway bar system (ASBS) / electronic steering column lock (ESCL) / grill/badge lamp"
+    ],
+    [
+     "F67",
+     "Fuse MICRO2",
+     "15A",
+     "Instrument panel cluster (IPC)"
+    ],
+    [
+     "F68",
+     "Fuse MICRO2",
+     "20A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "F69",
+     "Fuse MICRO2",
+     "10A",
+     "DCSD module, hands-free liftgate module / UCI+USB port / rain-light sensor / coolant valve / map tracking module / active grill shutter"
+    ],
+    [
+     "F72",
+     "Fuse MICRO2",
+     "10A",
+     "ADCAM"
+    ],
+    [
+     "F73",
+     "Fuse MICRO2",
+     "15A",
+     "Police spot lamp right"
+    ],
+    [
+     "F74",
+     "Fuse MICRO2",
+     "15A",
+     "Surge solenoid, oil level sensor, make-up air valve solenoid, OBD bypass solenoid, O2 heaters #1-#4"
+    ],
+    [
+     "F75",
+     "Fuse MICRO2",
+     "25A",
+     "ECM / short runner valve actuator"
+    ],
+    [
+     "F76",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel injectors, ignition coils / ignition coil capacitors / ISCM module / coil-on-plug x6"
+    ],
+    [
+     "F78",
+     "Fuse FMM/MCase",
+     "50A",
+     "Air suspension module"
+    ],
+    [
+     "F79",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defroster (EBL)"
+    ],
+    [
+     "F80",
+     "Fuse FMM/MCase",
+     "40A",
+     "BCM feed 4"
+    ],
+    [
+     "F81",
+     "Fuse FMM/MCase",
+     "20A",
+     "ECM module (gas)"
+    ],
+    [
+     "F82",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "F83",
+     "Fuse FMM/MCase",
+     "50A",
+     "BCM feed 1"
+    ],
+    [
+     "F84",
+     "Fuse FMM/MCase",
+     "30A",
+     "Drivetrain control module (DTCM)"
+    ],
+    [
+     "F85",
+     "Fuse FMM/MCase",
+     "50A",
+     "BSM pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear Power Distribution Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-charger-2025-genid-g8-1.webp",
+   "fuses": [
+    [
+     "F11",
+     "Fuse FMM/MCase",
+     "50A",
+     "BCM feed #2"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "5A",
+     "Intelligent battery sensor (IBS)"
+    ],
+    [
+     "F14",
+     "Fuse FMM/MCase",
+     "20A",
+     "Door mux module - passenger rear or smart motor"
+    ],
+    [
+     "F15A",
+     "Fuse MICRO3",
+     "10A",
+     "Intelligent event-based lighting module / animation lighting taillamp / occupant restraint controller (ORC)"
+    ],
+    [
+     "F15B",
+     "Fuse MICRO3",
+     "10A",
+     "Intelligent event-based lighting module / animation lighting taillamp / occupant restraint controller (ORC)"
+    ],
+    [
+     "F16",
+     "Fuse FMM/MCase",
+     "10A",
+     "IDCM 800V / IDCM 400V"
+    ],
+    [
+     "F18",
+     "Fuse FMM/MCase",
+     "20A",
+     "400V (BEV): electric oil pump - EDM rear"
+    ],
+    [
+     "F19A",
+     "Fuse MICRO3",
+     "10A",
+     "EVCU-2 feed #2 (BEV), rear window switches / HVAC control front / ICS switch bank / upper switch bank / DTV (Japan) / overhead console sunshade"
+    ],
+    [
+     "F19B",
+     "Fuse MICRO3",
+     "10A",
+     "EVCU-2 feed #2 (BEV), rear window switches / HVAC control front / ICS switch bank / upper switch bank / DTV (Japan) / overhead console sunshade"
+    ],
+    [
+     "F20A",
+     "Fuse MICRO3",
+     "10A",
+     "Electric drive motor feed #1/#2 front (BEV)"
+    ],
+    [
+     "F20B",
+     "Fuse MICRO3",
+     "10A",
+     "Electric drive motor feed #1/#2 front (BEV)"
+    ],
+    [
+     "F21A",
+     "Fuse MICRO3",
+     "10A",
+     "Electric drive motor feed #1 rear, HVIL main/redundant power feed"
+    ],
+    [
+     "F21B",
+     "Fuse MICRO3",
+     "10A",
+     "Electric drive motor feed #1 rear, HVIL main/redundant power feed"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "10A",
+     "CVPAM module / CVADAS"
+    ],
+    [
+     "F26",
+     "Fuse FMM/MCase",
+     "20A",
+     "Electric drive motor feed #2 - rear (BEV only)"
+    ],
+    [
+     "F29A",
+     "Fuse MICRO3",
+     "15A",
+     "IPC / DTCM / DASM / EVCU-2 / HVAC control front / front axle disconnect / wheel end disconnect (400 BEV only)"
+    ],
+    [
+     "F29B",
+     "Fuse MICRO3",
+     "15A",
+     "IPC / DTCM / DASM / EVCU-2 / HVAC control front / front axle disconnect / wheel end disconnect (400 BEV only)"
+    ],
+    [
+     "F30",
+     "Fuse FMM/MCase",
+     "30A",
+     "Memory module / power seat - passenger front"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "30A",
+     "Electronic limited slip differential (ELSD) rear #1"
+    ],
+    [
+     "F36A",
+     "Fuse MICRO3",
+     "10A",
+     "L2: driver alert lighting module (DALM) / ADAS E-stop; BEV: EVCU-2 / E-stop, quiet vehicle pedestrian module (QVPM)"
+    ],
+    [
+     "F36B",
+     "Fuse MICRO3",
+     "10A",
+     "L2: driver alert lighting module (DALM) / ADAS E-stop; BEV: EVCU-2 / E-stop, quiet vehicle pedestrian module (QVPM)"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow electric brake - aftermarket"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "10A",
+     "Automatic gearbox shifter module (AGSM)"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "20A",
+     "Seat heater module front (passenger)"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "30A",
+     "Audio amplifier module #1A"
+    ],
+    [
+     "F41",
+     "Fuse FMM/MCase",
+     "30A",
+     "Door mux module - driver"
+    ],
+    [
+     "F43",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier - sound generator #1A"
+    ],
+    [
+     "F44A",
+     "Fuse MICRO3",
+     "20A",
+     "12V power outlet - cargo area (ign) / console bin"
+    ],
+    [
+     "F44B",
+     "Fuse MICRO3",
+     "20A",
+     "12V power outlet - cargo area (ign) / console bin"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "15A",
+     "Wireless charging pad front console / ICS switch bank rear (front console)"
+    ],
+    [
+     "F46",
+     "Fuse FMM/MCase",
+     "30A",
+     "Memory module / power seat - driver front"
+    ],
+    [
+     "F47",
+     "Fuse FMM/MCase",
+     "20A",
+     "EVCU-2 feed #3"
+    ],
+    [
+     "F48",
+     "Fuse FMM/MCase",
+     "30A",
+     "Door mux module - passenger"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier - sound generator #1B"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant restraint controller (ORC)"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "10A",
+     "Charge port indicator (CPIM) / electric A/C compressor (IOD) / battery charge indicator"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "10A",
+     "Animation lighting rear left"
+    ],
+    [
+     "F53",
+     "Fuse FMM/MCase",
+     "20A",
+     "EVCU-2 feed #4"
+    ],
+    [
+     "F54",
+     "Fuse FMM/MCase",
+     "20A",
+     "Door mux module - driver rear or smart motor"
+    ],
+    [
+     "F55",
+     "Fuse FMM/MCase",
+     "25A",
+     "Trailer tow module #2"
+    ],
+    [
+     "F56",
+     "Fuse FMM/MCase",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "F57",
+     "Fuse MICRO2",
+     "20A",
+     "Haptic lane feedback module / occupant classification module / trailer tow module / headlight leveling / security gateway / parktronics"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "15A",
+     "Battery pack control module (BPCM)"
+    ],
+    [
+     "F59",
+     "Fuse MICRO2",
+     "15A",
+     "Telematics box module / vehicle theft module / gateway security module / alarm siren / ultrasonic alarm module"
+    ],
+    [
+     "F61",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow receptacle assembly B+"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "20A",
+     "Seat heater module front (driver)"
+    ],
+    [
+     "F63",
+     "Fuse FMM/MCase",
+     "25A",
+     "Trailer tow module #1"
+    ],
+    [
+     "F64",
+     "Fuse MICRO2",
+     "5A",
+     "NFC door handle #2"
+    ],
+    [
+     "F68",
+     "Fuse MICRO2",
+     "15A",
+     "Inside rearview mirror / dual-pane sunroof / DTV (China/Japan) / console USB port"
+    ],
+    [
+     "F69",
+     "Fuse MICRO2",
+     "15A",
+     "Lumbar support driver & passenger switch"
+    ],
+    [
+     "F70",
+     "Fuse MICRO2",
+     "10A",
+     "EVCU-2 feed #1"
+    ],
+    [
+     "F71",
+     "Fuse MICRO2",
+     "15A",
+     "Battery pack control module (BPCM)"
+    ],
+    [
+     "F72",
+     "Fuse MICRO2",
+     "10A",
+     "Heated seat switch - rear right & rear left"
+    ],
+    [
+     "F73",
+     "Fuse MICRO2",
+     "15A",
+     "Console USB port / CVPM module / night vision module / driver monitoring system module (DMSM)"
+    ],
+    [
+     "F74",
+     "Fuse MICRO2",
+     "30A",
+     "Audio amplifier module #1B"
+    ],
+    [
+     "F75",
+     "Fuse MICRO2",
+     "5A",
+     "NFC door handle #3"
+    ],
+    [
+     "F76",
+     "Fuse MICRO2",
+     "5A",
+     "NFC door handle #4"
+    ],
+    [
+     "F77",
+     "Fuse MICRO2",
+     "20A",
+     "CRSM module (heated seat rear right)"
+    ],
+    [
+     "F78",
+     "Fuse FMM/MCase",
+     "40A",
+     "BCM feed #3"
+    ],
+    [
+     "F80",
+     "Fuse MICRO2",
+     "10A",
+     "APM - 800V"
+    ],
+    [
+     "F81",
+     "Fuse MICRO2",
+     "15A",
+     "Front passenger display module / dual USB port front IP / rear window switches / HVAC control front / upper switch bank"
+    ],
+    [
+     "F82",
+     "Fuse MICRO2",
+     "15A",
+     "Comfort steering wheel surface module"
+    ],
+    [
+     "F84",
+     "Fuse MICRO2",
+     "15A",
+     "Mid range sensor rear left/right"
+    ],
+    [
+     "F85",
+     "Fuse MICRO2",
+     "15A",
+     "UWB sensors (1-7)"
+    ],
+    [
+     "F86",
+     "Fuse MICRO2",
+     "5A",
+     "NFC door handle #1"
+    ],
+    [
+     "F88",
+     "Fuse FMM/MCase",
+     "30A",
+     "SPAAK module"
+    ]
+   ]
+  }
+ ]
+}

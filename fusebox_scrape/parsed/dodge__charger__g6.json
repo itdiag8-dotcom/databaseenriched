@@ -1,0 +1,246 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "charger",
+ "brand_db": "Dodge",
+ "model_db_name": "Charger",
+ "model_id": 1432,
+ "generation_name": "6th generation (\"LX\")",
+ "generation_code": "g6",
+ "year_start": 2005,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/dodge/charger/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Integrated Power Module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-charger-2010-genid-g6-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Washer motor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "25A",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Ignition run / start"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "25A",
+     "Alternator"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "Ignition coils / injectors"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Starter"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS valves"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS pump motor"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "Radiator fan"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear Power Distribution Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-charger-2010-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition off draw (IOD) - service replacement is 60A yellow cartridge fuse"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Integrated power module (IPM)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Integrated power module (IPM)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated seats [if equipped]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Sub amp [if equipped]"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic link connector (DLC) / wireless control module (WCM) / wireless ignition node (WIN)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "A/C heater control / cluster / security module [if equipped]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Cluster"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Selectable power outlet"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Occupant restraint controller (ORC)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Ignition run"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Cluster / ESP / PCM stop light switch"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Door modules / power mirrors / steering control module (SCM)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Antenna module [if equipped] / power mirrors"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "25A",
+     "Hands-free phone / video monitor [if equipped] / radio"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Transmission"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Cargo light / satellite receiver (SDARS) video / vehicle information module [if equipped]"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors [if equipped]"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "5A",
+     "Auto inside rearview mirror / heated seats [if equipped] / switch bank"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front blower motor"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window defroster"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "20A",
+     "Amplifier [if equipped] / sunroof [if equipped]"
+    ]
+   ]
+  }
+ ]
+}
