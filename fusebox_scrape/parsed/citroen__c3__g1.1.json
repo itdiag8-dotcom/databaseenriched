@@ -1,0 +1,265 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c3",
+ "brand_db": "Citroen",
+ "model_db_name": "C3",
+ "model_id": 1267,
+ "generation_name": "1st generation 1st facelift (\"FC\", \"FN\")",
+ "generation_code": "g1.1",
+ "year_start": 2005,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/citroen/c3/info/fusebox/2012/1st-gen-1st-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2012-genid-g1.1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic socket power supply / towing"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Information display, trunk lighting, steering wheel controls, car radio, clock"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Automatic gearbox diagnostics"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Coolant level, automatic gearbox and radio"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Alarm (optional), driving school accessories"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "30A",
+     "Rear power window operation"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "30A",
+     "Front power window operation"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Steering wheel controls, airbags, rain sensor, engine service box"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Instrument panel, information display, air conditioning system, car radio"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "30A",
+     "Central locking control"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Right brake light"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Left brake light, third brake light"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter, courtesy light, glove box light, electric mirror adjustment, radio pre-installation, license plate light"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse box in the engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2012-genid-g1.1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Speed sensor, reverse light"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Canister solenoid valve, fuel pump, cold start relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ABS module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "ECU (engine control module)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Starter motor relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Injection module, engine control relay (main relay), fan relays"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Left low beam"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Right low beam"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Right high beam"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Acoustic warnings / horn"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Front and rear windshield wiper motor, washer"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "Fuel injectors, canister valve, ignition coil, lambda sensor"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "High and low speed control of the front windshield wiper motor"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "40A",
+     "Cabin fan / air blower"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Maxi fuses in the engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2012-genid-g1.1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "20A",
+     "Engine cooling system electric fan"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "60A",
+     "ABS"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "30A",
+     "ABS"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "70A",
+     "BSI (ECU controlling various vehicle systems)"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "70A",
+     "BSI (ECU controlling various vehicle systems)"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "F8",
+     "Fuse MAXI",
+     "20A",
+     "Pre-arrangement / short circuit with MF7"
+    ]
+   ]
+  }
+ ]
+}

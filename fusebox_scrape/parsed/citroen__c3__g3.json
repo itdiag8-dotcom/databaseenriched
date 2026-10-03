@@ -1,0 +1,385 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c3",
+ "brand_db": "Citroen",
+ "model_db_name": "C3",
+ "model_id": 1267,
+ "generation_name": "3rd generation (\"B618\", \"SX\", \"SY\")",
+ "generation_code": "g3",
+ "year_start": 2016,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/citroen/c3/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Upper fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2020-genid-g3-0.webp",
+   "fuses": [
+    [
+     "30",
+     "Fuse ATO",
+     "30A",
+     "Rear window with defogging/demisting function"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "10A",
+     "Mirrors with defogging/demisting function"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "40A",
+     "Front electric windows"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "40A",
+     "Rear electric windows"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "30A",
+     "Heated front seats"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Lower fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2020-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Electrochrome interior mirror, heated rear window, particulate filter pump (diesel), parking assist, power steering, LPG system, clutch pedal switch, exterior mirror adjustment"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Windscreen and rear window washer pump [Gnd]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Windscreen and rear window washer pump [+]"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Rear window wiper"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "5A",
+     "Front dome light"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Locking/unlocking of the doors and fuel filler flap [+]"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "30A",
+     "Locking/unlocking of the doors and fuel filler flap [Gnd]"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "3A",
+     "Steering wheel controls"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning, gear selector position indicator [automatic gearbox]"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel, driving school module"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "3A",
+     "Automatic gearbox gear selector, brake pedal switch, Stop & Start system"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "5A",
+     "Alarm, telematics box"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Rain and light sensor, air conditioning, front camera"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Telematics radio"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "5A",
+     "Airbag control unit"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "5A",
+     "Parking assist, rear camera, telematics display"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "5A",
+     "Seat belt unfastened warning light display"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "3A",
+     "START/STOP switch or button"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "5A",
+     "Headlight height adjustment, diagnostic socket, additional heating [depending on equipment]"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "5A",
+     "Front map reading light"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Radio (accessory)"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "Front 12V socket"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2020-genid-g3-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MIDI",
+     "40A",
+     "Diesel preheating unit"
+    ],
+    [
+     "F2",
+     "Fuse MIDI",
+     "80A",
+     "Additional heating [depending on equipment]"
+    ],
+    [
+     "F3",
+     "Fuse MIDI",
+     "80A",
+     "Power steering"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "60A",
+     "ABS/ESP"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "50A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "30A",
+     "ABS/ESP"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "70A",
+     "Built-in systems interface (BSI)"
+    ],
+    [
+     "F8",
+     "Fuse MAXI",
+     "60A",
+     "Motor fan assembly"
+    ],
+    [
+     "F9",
+     "Fuse MAXI",
+     "80A",
+     "Built-in systems interface (BSI)"
+    ],
+    [
+     "F10",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioning"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "30A",
+     "Starter motor [depending on engine]"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "40A",
+     "Starter motor box [if Stop & Start and depending on engine]"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "40A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "40A",
+     "Trailer hitch preparation"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "15A",
+     "Automatic gearbox or LPG system"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "25A",
+     "Built-in systems interface (BSI)"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "30A",
+     "Diesel anti-pollution system (AdBlue)"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "30A",
+     "Engine control"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front windshield wiper"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Engine control"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Engine control"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Engine control"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "Engine control"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "5A",
+     "Engine control"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "5A",
+     "Engine control"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "5A",
+     "Battery state of charge unit [depending on engine]"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "20A",
+     "Front fog light"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "5A",
+     "Engine control"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ]
+   ]
+  }
+ ]
+}

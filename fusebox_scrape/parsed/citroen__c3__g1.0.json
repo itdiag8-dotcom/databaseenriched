@@ -1,0 +1,295 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c3",
+ "brand_db": "Citroen",
+ "model_db_name": "C3",
+ "model_id": 1267,
+ "generation_name": "1st generation pre-facelift (\"FC\", \"FN\")",
+ "generation_code": "g1.0",
+ "year_start": 2002,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/citroen/c3/info/fusebox/2005/1st-gen-pre-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box A",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2005-genid-g1.0-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Diesel engine preheating unit, diesel water sensor, speed sensor, reverse lights, ECU (automatic/SensoDrive transmission)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Fuel module (fuel pump)"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "ECUs (ABS system, ESP system)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "ECU (fuel injection, power steering), sensors (coolant level, cruise control, brake lights, clutch), SensoDrive/automatic transmission relays, auxiliary heating unit"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "Engine control relay, fuel injection ECU"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Left low beam headlamp"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Right low beam headlamp"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Left high beam headlamp"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Right high beam headlamp"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Washers"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "15A",
+     "Engine control devices (ignition coil, solenoid valve, oxygen sensor, fuel injection), fuel sump, diesel fuel heater"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "30A",
+     "Air pump"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "30A",
+     "Electric fan"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "40A",
+     "Electric fan"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box B",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2005-genid-g1.0-1.webp",
+   "fuses": [
+    [
+     "MF1",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan motor"
+    ],
+    [
+     "MF2",
+     "Fuse MAXI",
+     "30A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "MF3",
+     "Fuse MAXI",
+     "30A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "MF3",
+     "Fuse MAXI",
+     "50A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "MF4",
+     "Fuse MAXI",
+     "60A",
+     "Multifunctional control unit 1"
+    ],
+    [
+     "MF5",
+     "Fuse MAXI",
+     "70A",
+     "Multifunctional control unit 1"
+    ],
+    [
+     "MF6",
+     "Fuse MAXI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "MF6",
+     "Fuse MAXI",
+     "40A",
+     "Heated seats"
+    ],
+    [
+     "MF6",
+     "Fuse MAXI",
+     "50A",
+     "Heated seats"
+    ],
+    [
+     "MF7",
+     "Fuse MAXI",
+     "30A",
+     "Ignition lock"
+    ],
+    [
+     "MF8",
+     "Fuse MAXI",
+     "80A",
+     "Power steering"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2005-genid-g1.0-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic socket power supply circuit, trailer + navigation system"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Automatic transmission ECU, steering column switch, clock, display, navigation system, anti-theft alarm unit, car radio"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Anti-theft alarm siren"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic connector, flywheel angular position sensor"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Rain sensor, light sensor, anti-theft alarm system unit"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "40A",
+     "Electric heated rear window, electric heated exterior mirrors"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "30A",
+     "Power sliding sunroof, front door power windows"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Paddle shifters, airbag ECU, engine compartment fuse box"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Instrument cluster, display, navigation system, air conditioning, parking sensors, car radio"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "30A",
+     "Central locking system, super locking system"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Rear right brake light"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Rear left brake light, additional brake light"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "20A",
+     "12V socket, cigarette lighter, interior lampshades, power outside mirrors, car radio wiring, sun visor mirror light, license plate lamp"
+    ]
+   ]
+  }
+ ]
+}

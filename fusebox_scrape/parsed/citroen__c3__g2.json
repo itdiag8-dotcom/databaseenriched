@@ -1,0 +1,313 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c3",
+ "brand_db": "Citroen",
+ "model_db_name": "C3",
+ "model_id": 1267,
+ "generation_name": "2nd generation (A51)",
+ "generation_code": "g2",
+ "year_start": 2010,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/citroen/c3/info/fusebox/2016/2nd-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses in the Dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2016-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Rain/light sensor, trailer service box, driving school module"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Main brake contactor, engine service box, piloted manual gearbox lever"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel controls"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Parking assistance calculator, airbag calculator, dashboard, automatic air conditioning, USB box, Hi-Fi amplifier, rearview camera"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning, clutch contactor, electrochromic mirror, particle filter pump [diesel], diagnostic socket, air flow meter [diesel]"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Anti-theft, diagnostic socket, automatic gearbox calculator"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Multifunction screen, car radio, radionavigator, dashboard with clock, alarm, 12V socket, portable navigator support power supply, lock"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Multifunction screen, car radio, radionavigator, dashboard with clock, alarm, 12V socket, portable navigator support power supply"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "30A",
+     "Lock"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "30A",
+     "Window lift plate, passenger window lift control, front window lift motor"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "30A",
+     "Rear window lift motor and driver window lift motor"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Airbag and pyrotechnic pretensioner calculator"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "Ceiling light, glove compartment light, side reading lights"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "40A",
+     "Rear window and exterior mirror defrost"
+    ],
+    [
+     "SH",
+     "Fuse ATO Shunt",
+     "",
+     "PARK shunt"
+    ],
+    [
+     "FH36",
+     "Fuse",
+     "5A",
+     "Trailer service box"
+    ],
+    [
+     "FH38",
+     "Fuse",
+     "20A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "FH39",
+     "Fuse",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "FH40",
+     "Fuse",
+     "40A",
+     "Trailer service box"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuses in the engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2016-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit power supply, fan group control relay, main multifunction engine control relay, injection pump [diesel]"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Windshield/rear window washer"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Daytime running lights, LED daytime running lights"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Diesel heater, particulate filter additive pump [diesel], air flow meter [diesel], EGR solenoid valve [diesel], fuel pump [1.1i and 1.4i], blow-by heater and solenoid valves [VTi]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESP control unit, secondary stop switch"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Electric power steering, automatic gearbox"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "25A",
+     "Starter motor control"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Switching and protection box [diesel]"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Diesel heater, blow-by heater, fuel pump [VTi], injectors and ignition coils [gasoline], controlled thermostat and canister purge solenoid valve"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "40A",
+     "Air conditioning blower"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "30A",
+     "Reduced/high speed windshield wiper"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "40A",
+     "Intelligent service box power supply (+ after contact)"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Valvetronic power supply [VTi]"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Right high beam light"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Left high beam light"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Left low beam light"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Right low beam light"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensors and solenoid valves [VTi], solenoid valves [diesel], EGR solenoid valve [diesel]"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Pumps, controlled thermostat [VTi], water sensor in diesel"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "Fan group control power supply, ABS/ESP"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Maxi fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-2016-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "60A",
+     "Fan motor assembly"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "30A",
+     "ABS/ESP pump"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "30A",
+     "ABS/ESP solenoid valves"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "60A",
+     "Intelligent service box supply"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "60A",
+     "Intelligent service box supply"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "80A",
+     "Passenger compartment fuse box"
+    ]
+   ]
+  }
+ ]
+}
