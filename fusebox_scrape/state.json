@@ -312,11 +312,11 @@
   "chevrolet": true,
   "chrysler": "done",
   "citroen": "all 44 models processed (post-2000 rule applied from jumpy onward)",
-  "cupra": "all 6 models no_data"
+  "cupra": "all 6 models no_data",
+  "dacia": "all 5 models processed"
  },
  "in_progress": null,
  "queue_next_makes": [
-  "dacia",
   "daewoo",
   "daihatsu",
   "dodge",
@@ -779,10 +779,12 @@
   "cupra/terramar": "no_data",
   "dacia/lodgy": "done",
   "dacia/duster": "done",
-  "dacia/logan": "done"
+  "dacia/logan": "done",
+  "dacia/sandero": "done",
+  "dacia/supernova": "no_data"
  },
- "last_updated": "2026-10-03T23:33:33.734276",
- "current_brand": "dacia",
+ "last_updated": "2026-10-03T23:34:39.463881",
+ "current_brand": "daewoo",
  "audi_done_models": [
   "a1",
   "a2",
