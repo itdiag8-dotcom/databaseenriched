@@ -1,0 +1,495 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "vectra",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Vectra",
+ "model_id": 1212,
+ "generation_name": "2nd generation (Vectra B)",
+ "generation_code": "g2",
+ "year_start": 1996,
+ "year_end": 2001,
+ "trim_label": "",
+ "representative_year": 1999,
+ "source_url": "https://www.startmycar.com/chevrolet/vectra/info/fusebox/1999",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-vectra-1999-genid-g2-0.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Jumper (license plate light)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamp high beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear wiper motor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Heated mirror relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear fog lamp relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Turn signal interrupter relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Windshield wiper motor relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Heater blower motor relay (with A/C)"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Heater blower motor relay (with A/C)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Multifunctional control unit"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "30A",
+     "Heater / air conditioner"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "10A",
+     "Headlight range control, right headlight low beam"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "15A",
+     "Headlight range control, right headlight low beam"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "10A",
+     "Front right / rear right side lamps"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "10A",
+     "Right headlamp high beam"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "30A",
+     "Headlight washers"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "20A",
+     "Buzzer"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "30A",
+     "Central locking"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "20A",
+     "Fog lights"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "5A",
+     "Interior lamps"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "10A",
+     "Rear fog lamp"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "10A",
+     "License plate lamp"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "10A",
+     "Audio system"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "10A",
+     "Audio system, central locking, alarm, automatic transmission selector lock valve (P)"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "20A",
+     "Air conditioning, audio system, multifunction display, cooling fan motor, alarm, instrument cluster indicators"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "10A",
+     "Left headlight low beam, headlight range control"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "15A",
+     "Left headlight low beam, headlight range control"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "10A",
+     "Front left / rear left side lamps"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "10A",
+     "Left headlamp high beam"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "20A",
+     "Coolant heater (diesel)"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "10A",
+     "Power door mirrors, power windows, dipped headlights, turn signals/hazard lights, interior light, instrument cluster, reversing lights, sunroof"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "30A",
+     "Hatch"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster illumination"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "F33",
+     "Fuse ATO",
+     "30A",
+     "Trailer electrical connector"
+    ],
+    [
+     "F34",
+     "Fuse ATO",
+     "10A",
+     "CD changer audio system"
+    ],
+    [
+     "F35",
+     "Fuse ATO",
+     "10A",
+     "ABS, automatic transmission control, traction control (TCS)"
+    ],
+    [
+     "F36",
+     "Fuse ATO",
+     "20A",
+     "Air conditioning, seat heaters"
+    ],
+    [
+     "F37",
+     "Fuse ATO",
+     "10A",
+     "Cigarette lighter"
+    ],
+    [
+     "F38",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning, cruise control, multifunction display, cooling fan motor, brake lights"
+    ],
+    [
+     "F39",
+     "Fuse ATO",
+     "10A",
+     "Automatic transmission"
+    ],
+    [
+     "F40",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning, cooling fan motor"
+    ],
+    [
+     "F41",
+     "Fuse ATO",
+     "10A",
+     "Heated door mirrors"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Box 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-vectra-1999-genid-g2-1.webp",
+   "fuses": [
+    [
+     "10",
+     "Relay",
+     "",
+     "Secondary air injection pump relay"
+    ],
+    [
+     "11a",
+     "Relay",
+     "",
+     "Engine control fuse (F59)"
+    ],
+    [
+     "11b",
+     "Relay",
+     "",
+     "Fuel heater fuse (F56)"
+    ],
+    [
+     "12",
+     "Relay",
+     "",
+     "Fuel heater relay"
+    ],
+    [
+     "13",
+     "Relay",
+     "",
+     "Headlight washer delay relay"
+    ],
+    [
+     "16",
+     "Relay",
+     "",
+     "Glow plug control unit relay"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Glow plug control unit relay"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Glow plug control unit relay"
+    ],
+    [
+     "19",
+     "Relay",
+     "",
+     "Glow plug control unit relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Box 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-vectra-1999-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Relay",
+     "",
+     "A/C compressor electromagnetic clutch relay"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Cooling fan timer"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment Box 3 (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-vectra-1999-genid-g2-3.webp",
+   "fuses": [
+    [
+     "7",
+     "Relay",
+     "",
+     "Cooling"
+    ],
+    [
+     "8",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "9a",
+     "Relay",
+     "",
+     "Cooling fan fuse"
+    ],
+    [
+     "9b",
+     "Relay",
+     "",
+     "Cooling fan fuse"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine Compartment Box 3 (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-vectra-1999-genid-g2-4.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "",
+     "Cooling fan motor"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "",
+     "Compressor"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "",
+     "Cooling fan motor"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "",
+     "Cooling fan motor"
+    ]
+   ]
+  }
+ ]
+}

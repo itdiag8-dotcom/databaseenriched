@@ -1,0 +1,517 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "vectra",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Vectra",
+ "model_id": 1212,
+ "generation_name": "3rd generation (Vectra C)",
+ "generation_code": "g3",
+ "year_start": 2002,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/chevrolet/vectra/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-vectra-2004-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Infotainment system, radio transport fuse"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Interior fan, heating, air conditioning system"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Door module control unit"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Brake light"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Body module control unit"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Passenger door module control unit"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Central control unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Steering column module control unit"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Diagnostic terminal"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Battery overload protection"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Battery overload protection"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Door module control unit"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Instruments, information display"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition terminal 15, air conditioning"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Yaw rate sensor (ESP Plus)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Infotainment system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Cigarette lighter"
+    ],
+    [
+     "23",
+     "Fuse MAXI",
+     "30A",
+     "Interior fan, air conditioning"
+    ],
+    [
+     "23",
+     "Fuse MAXI",
+     "40A",
+     "Electronic climate control"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Heating, air conditioning system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Instruments, information display"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Luggage Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-vectra-2004-genid-g3-1.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Electric seat adjustment, driver's seat"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "40A",
+     "Electric seat adjustment, passenger seat"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "Electric window operation, rear right"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Electric window operation, rear left"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Seat heating, rear right"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Horn, alarm system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "Battery voltage"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Seat heating, rear left"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Towing equipment"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Heated seats, seat lift control, front left"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Seat heating, front right"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Accessory socket"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "Tailgate lock, Estate"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Terminal 30, Twin Audio"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Tank flap locking"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Ultrasonic sensor, alarm system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Electrically operated tailgate"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "Glass breakage sensor (alarm system)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "Battery voltage"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Electronic chassis"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "Terminal 15 (ignition switch), Twin Audio"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Seat occupancy recognition, tire pressure monitoring, rain sensor, A/C"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Parking distance sensors"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-vectra-2004-genid-g3-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Engine management, transmission control"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning (AC) - MTC/ATC"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Headlamp washer"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "ESP, TCS, multifunction control module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Headlights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Power steering, windshield washer jet heaters"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "ESP, TCS, multifunction control module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Headlamp washer"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "ABS"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Headlight leveling - without gas discharge headlights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary heater"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Battery voltage - terminal 30"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "30A",
+     "Battery voltage - terminal 30"
+    ],
+    [
+     "28",
+     "Fuse MAXI",
+     "60A",
+     "Trunk/tailgate lid opening-closing control module"
+    ],
+    [
+     "29",
+     "Fuse MAXI",
+     "40A",
+     "ABS"
+    ],
+    [
+     "30",
+     "Fuse MAXI",
+     "60A",
+     "Trunk/tailgate lid opening-closing control module"
+    ],
+    [
+     "32",
+     "Fuse MAXI",
+     "40A",
+     "ABS"
+    ],
+    [
+     "34",
+     "Fuse MAXI",
+     "60A",
+     "Trunk/tailgate lid opening-closing control module"
+    ],
+    [
+     "35",
+     "Fuse MAXI",
+     "30A",
+     "Engine coolant fan motor"
+    ],
+    [
+     "36",
+     "Fuse MAXI",
+     "40A",
+     "Engine coolant blower motor"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Engine control relay (EC)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Wiper motor relay (ON/OFF)"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Ignition main circuits relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Ignition main circuits relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlight washer relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "AC compressor clutch relay"
+    ]
+   ]
+  }
+ ]
+}
