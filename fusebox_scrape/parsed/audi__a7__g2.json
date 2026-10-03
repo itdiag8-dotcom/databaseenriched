@@ -1,0 +1,787 @@
+{
+ "make_slug": "audi",
+ "model_slug": "a7",
+ "brand_db": "Audi",
+ "model_db_name": "A7 4K8",
+ "model_id": 294,
+ "generation_name": "2nd generation",
+ "generation_code": "C8 / Typ 4K",
+ "year_start": 2018,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/audi/a7/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Cockpit fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a7-2021-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse ATO",
+     "",
+     "Steering column adjustment"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "",
+     "CD/DVD player"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "",
+     "Steering column electronics"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "",
+     "Light switch, switch panels"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "",
+     "Volume control"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "",
+     "Front MMI display"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "",
+     "Steering wheel heating"
+    ],
+    [
+     "G2",
+     "Fuse ATO",
+     "",
+     "MMI Infotainment system control module"
+    ],
+    [
+     "G3",
+     "Fuse ATO",
+     "",
+     "Audi music interface, USB connection"
+    ],
+    [
+     "G4",
+     "Fuse ATO",
+     "",
+     "Head-up display"
+    ],
+    [
+     "G5",
+     "Fuse ATO",
+     "",
+     "Climate control system, fragrance system, ionizer"
+    ],
+    [
+     "G9",
+     "Fuse ATO",
+     "",
+     "Steering column lock"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Footwell fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a7-2021-genid-g2-1.webp",
+   "fuses": [
+    [
+     "A1",
+     "Fuse MINI",
+     "",
+     "Catalytic converter heating"
+    ],
+    [
+     "A2",
+     "Fuse MINI",
+     "",
+     "Engine components"
+    ],
+    [
+     "A3",
+     "Fuse MINI",
+     "",
+     "Engine components"
+    ],
+    [
+     "A4",
+     "Fuse MINI",
+     "",
+     "Engine components"
+    ],
+    [
+     "A5",
+     "Fuse MINI",
+     "",
+     "Brake light sensor"
+    ],
+    [
+     "A6",
+     "Fuse MINI",
+     "",
+     "Engine components"
+    ],
+    [
+     "A7",
+     "Fuse MINI",
+     "",
+     "Engine components"
+    ],
+    [
+     "A8",
+     "Fuse MINI",
+     "",
+     "Engine components"
+    ],
+    [
+     "A9",
+     "Fuse MINI",
+     "",
+     "Engine components, 48 V water pump, 48 V drivetrain generator"
+    ],
+    [
+     "A10",
+     "Fuse MINI",
+     "",
+     "Oil pressure sensor, oil temperature sensor"
+    ],
+    [
+     "A11",
+     "Fuse MINI",
+     "",
+     "Engine components, 48 V water pump, 48 V / 12 V drivetrain generators"
+    ],
+    [
+     "A12",
+     "Fuse MINI",
+     "",
+     "Engine components"
+    ],
+    [
+     "A13",
+     "Fuse MINI",
+     "",
+     "Radiator fan"
+    ],
+    [
+     "A14",
+     "Fuse ATO",
+     "",
+     "Engine control module, fuel injectors"
+    ],
+    [
+     "A15",
+     "Fuse ATO",
+     "",
+     "Engine sensors, ignition coils, oxygen sensors"
+    ],
+    [
+     "A16",
+     "Fuse ATO",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "B1",
+     "Fuse MINI",
+     "",
+     "Anti-theft alarm system"
+    ],
+    [
+     "B2",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "B3",
+     "Fuse MINI",
+     "",
+     "Left front lumbar support"
+    ],
+    [
+     "B5",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "B6",
+     "Fuse MINI",
+     "",
+     "Parking brake"
+    ],
+    [
+     "B7",
+     "Fuse MINI",
+     "",
+     "Gateway control module (diagnosis)"
+    ],
+    [
+     "B8",
+     "Fuse MINI",
+     "",
+     "Roof electronics control module"
+    ],
+    [
+     "B9",
+     "Fuse MINI",
+     "",
+     "Driver assist systems control module"
+    ],
+    [
+     "B10",
+     "Fuse MINI",
+     "",
+     "Airbag control module"
+    ],
+    [
+     "B11",
+     "Fuse MINI",
+     "",
+     "Electronic Stabilization Control (ESC), Anti-Lock Braking System (ABS)"
+    ],
+    [
+     "B12",
+     "Fuse MINI",
+     "",
+     "Diagnostic connector, light/rain sensor"
+    ],
+    [
+     "B13",
+     "Fuse MINI",
+     "",
+     "Climate control system"
+    ],
+    [
+     "B14",
+     "Fuse ATO",
+     "",
+     "Right front door control module"
+    ],
+    [
+     "B15",
+     "Fuse ATO",
+     "",
+     "Climate control system, body electronics"
+    ],
+    [
+     "B16",
+     "Fuse ATO",
+     "",
+     "Auxiliary battery control module, brake system pressure reservoir"
+    ],
+    [
+     "C1",
+     "Fuse ATO",
+     "",
+     "Engine ignition coils"
+    ],
+    [
+     "C3",
+     "Fuse ATO",
+     "",
+     "High-voltage heating, compressor"
+    ],
+    [
+     "C5",
+     "Fuse ATO",
+     "",
+     "Engine mount"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "",
+     "Automatic transmission"
+    ],
+    [
+     "C7",
+     "Fuse ATO",
+     "",
+     "Instrument panel"
+    ],
+    [
+     "C8",
+     "Fuse ATO",
+     "",
+     "Climate control system blower"
+    ],
+    [
+     "C9",
+     "Fuse ATO",
+     "",
+     "Windshield wiper control module"
+    ],
+    [
+     "C10",
+     "Fuse ATO",
+     "",
+     "Dynamic steering"
+    ],
+    [
+     "C11",
+     "Fuse ATO",
+     "",
+     "Engine start"
+    ],
+    [
+     "C12",
+     "Fuse ATO",
+     "",
+     "Automatic transmission fluid pump"
+    ],
+    [
+     "D1",
+     "Fuse ATO",
+     "",
+     "Front seat heating"
+    ],
+    [
+     "D2",
+     "Fuse ATO",
+     "",
+     "Windshield wipers"
+    ],
+    [
+     "D3",
+     "Fuse ATO",
+     "",
+     "Left headlight electronics"
+    ],
+    [
+     "D4",
+     "Fuse ATO",
+     "",
+     "Panoramic glass roof"
+    ],
+    [
+     "D5",
+     "Fuse ATO",
+     "",
+     "Left front door control module"
+    ],
+    [
+     "D6",
+     "Fuse ATO",
+     "",
+     "Sockets"
+    ],
+    [
+     "D7",
+     "Fuse ATO",
+     "",
+     "Right rear door control module"
+    ],
+    [
+     "D8",
+     "Fuse ATO",
+     "",
+     "All-wheel drive control module (quattro)"
+    ],
+    [
+     "D9",
+     "Fuse ATO",
+     "",
+     "Right headlight electronics"
+    ],
+    [
+     "D10",
+     "Fuse ATO",
+     "",
+     "Windshield washer system/headlight washer system"
+    ],
+    [
+     "D11",
+     "Fuse ATO",
+     "",
+     "Left rear door control module"
+    ],
+    [
+     "D12",
+     "Fuse ATO",
+     "",
+     "Parking heater"
+    ],
+    [
+     "E1",
+     "Fuse MINI",
+     "",
+     "Seat ventilation, seat electronics, rearview mirror, rear climate control panel, diagnostic connection, traffic information antenna (TMC)"
+    ],
+    [
+     "E2",
+     "Fuse MINI",
+     "",
+     "Vehicle electrical system control module, gateway control module"
+    ],
+    [
+     "E3",
+     "Fuse MINI",
+     "",
+     "Sound actuator/exhaust sound tuning"
+    ],
+    [
+     "E4",
+     "Fuse MINI",
+     "",
+     "Transmission heating valve"
+    ],
+    [
+     "E5",
+     "Fuse MINI",
+     "",
+     "Starter"
+    ],
+    [
+     "E7",
+     "Fuse MINI",
+     "",
+     "Active accelerator pedal"
+    ],
+    [
+     "E8",
+     "Fuse MINI",
+     "",
+     "Night vision assist"
+    ],
+    [
+     "E9",
+     "Fuse MINI",
+     "",
+     "Adaptive cruise assist"
+    ],
+    [
+     "E11",
+     "Fuse MINI",
+     "",
+     "Intersection assistant, driver assist systems, traffic jam pilot"
+    ],
+    [
+     "E12",
+     "Fuse MINI",
+     "",
+     "Exterior sound generator"
+    ],
+    [
+     "E15",
+     "Fuse ATO",
+     "",
+     "USB connection"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a7-2021-genid-g2-2.webp",
+   "fuses": [
+    [
+     "A1",
+     "Fuse ATO",
+     "",
+     "Thermal management"
+    ],
+    [
+     "A3",
+     "Fuse ATO",
+     "",
+     "Passenger's side rear safety belt tensioner"
+    ],
+    [
+     "A4",
+     "Fuse ATO",
+     "",
+     "Driver's side rear safety belt tensioner"
+    ],
+    [
+     "A5",
+     "Fuse ATO",
+     "",
+     "Air suspension"
+    ],
+    [
+     "A6",
+     "Fuse ATO",
+     "",
+     "Automatic transmission"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "",
+     "Rear sliding sunroof, rear spoiler"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "",
+     "Rear seat heating"
+    ],
+    [
+     "A9",
+     "Fuse ATO",
+     "",
+     "Central locking, left tail light"
+    ],
+    [
+     "A10",
+     "Fuse ATO",
+     "",
+     "Left front safety belt tensioner"
+    ],
+    [
+     "A11",
+     "Fuse ATO",
+     "",
+     "Luggage compartment lid central locking, fuel filler door, luggage compartment cover"
+    ],
+    [
+     "A12",
+     "Fuse ATO",
+     "",
+     "Luggage compartment lid"
+    ],
+    [
+     "B1",
+     "Fuse MINI",
+     "",
+     "Suspension stabilization control module"
+    ],
+    [
+     "B2",
+     "Fuse MINI",
+     "",
+     "Service disconnect switch (high-voltage battery emergency cut-off)"
+    ],
+    [
+     "B4",
+     "Fuse MINI",
+     "",
+     "Electric drive system, power electronics"
+    ],
+    [
+     "B5",
+     "Fuse MINI",
+     "",
+     "Brake system, brake booster"
+    ],
+    [
+     "B6",
+     "Fuse MINI",
+     "",
+     "High-voltage battery coolant pump"
+    ],
+    [
+     "B7",
+     "Fuse MINI",
+     "",
+     "Auxiliary climate control"
+    ],
+    [
+     "B8",
+     "Fuse MINI",
+     "",
+     "Climate control system compressor"
+    ],
+    [
+     "B9",
+     "Fuse MINI",
+     "",
+     "Auxiliary battery control module"
+    ],
+    [
+     "B10",
+     "Fuse MINI",
+     "",
+     "High-voltage battery"
+    ],
+    [
+     "B11",
+     "Fuse MINI",
+     "",
+     "High-voltage charger"
+    ],
+    [
+     "B14",
+     "Fuse ATO",
+     "",
+     "Thermal management, coolant pumps"
+    ],
+    [
+     "B15",
+     "Fuse ATO",
+     "",
+     "Thermomanagement control module"
+    ],
+    [
+     "C1",
+     "Fuse MINI",
+     "",
+     "Driver assist systems control module"
+    ],
+    [
+     "C2",
+     "Fuse MINI",
+     "",
+     "Audi phone box"
+    ],
+    [
+     "C3",
+     "Fuse MINI",
+     "",
+     "Front seat electronics, right lumbar support"
+    ],
+    [
+     "C4",
+     "Fuse MINI",
+     "",
+     "Side assist"
+    ],
+    [
+     "C5",
+     "Fuse MINI",
+     "",
+     "Rear climate control panel, Infotainment system control panel"
+    ],
+    [
+     "C6",
+     "Fuse MINI",
+     "",
+     "Tire pressure monitoring system"
+    ],
+    [
+     "C7",
+     "Fuse MINI",
+     "",
+     "Emergency call system"
+    ],
+    [
+     "C8",
+     "Fuse MINI",
+     "",
+     "Parking heater, radio receiver, fuel tank monitoring"
+    ],
+    [
+     "C9",
+     "Fuse MINI",
+     "",
+     "Automatic transmission selector lever"
+    ],
+    [
+     "C10",
+     "Fuse MINI",
+     "",
+     "TV tuner, data exchange control module"
+    ],
+    [
+     "C11",
+     "Fuse MINI",
+     "",
+     "Vehicle opening/start (NFC)"
+    ],
+    [
+     "C12",
+     "Fuse MINI",
+     "",
+     "Garage door opener"
+    ],
+    [
+     "C13",
+     "Fuse MINI",
+     "",
+     "Rearview camera, peripheral cameras"
+    ],
+    [
+     "C14",
+     "Fuse ATO",
+     "",
+     "Convenience system control module, right tail light"
+    ],
+    [
+     "C16",
+     "Fuse ATO",
+     "",
+     "Right front safety belt tensioner"
+    ],
+    [
+     "E2",
+     "Fuse ATO",
+     "",
+     "Exterior antenna"
+    ],
+    [
+     "E3",
+     "Fuse ATO",
+     "",
+     "Exhaust treatment, sound actuator"
+    ],
+    [
+     "E4",
+     "Fuse ATO",
+     "",
+     "Rear climate control system control panel"
+    ],
+    [
+     "E5",
+     "Fuse ATO",
+     "",
+     "Right trailer hitch light"
+    ],
+    [
+     "E7",
+     "Fuse ATO",
+     "",
+     "Trailer hitch"
+    ],
+    [
+     "E8",
+     "Fuse ATO",
+     "",
+     "Left trailer hitch light"
+    ],
+    [
+     "E9",
+     "Fuse ATO",
+     "",
+     "Trailer hitch socket, high-voltage battery"
+    ],
+    [
+     "E10",
+     "Fuse ATO",
+     "",
+     "All wheel drive control module, sport differential"
+    ],
+    [
+     "E11",
+     "Fuse ATO",
+     "",
+     "Exhaust treatment"
+    ],
+    [
+     "E12",
+     "Fuse ATO",
+     "",
+     "48 V drivetrain generator"
+    ]
+   ]
+  }
+ ]
+}
