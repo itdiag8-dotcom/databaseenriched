@@ -440,9 +440,12 @@
   "bmw/7-series": "done",
   "bmw/8-series": "done",
   "bmw/activehybrid-3": "done",
-  "bmw/activehybrid-5": "done"
+  "bmw/activehybrid-5": "done",
+  "bmw/i3": "done",
+  "bmw/i4": "done",
+  "bmw/alpina": "no_data"
  },
- "last_updated": "2026-10-03T19:55:54.392179",
+ "last_updated": "2026-10-03T19:57:18.355601",
  "current_brand": "bmw",
  "audi_done_models": [
   "a1",
@@ -514,7 +517,8 @@
   "audi/s1",
   "audi/s8",
   "audi/sq8",
-  "audi/tt-rs"
+  "audi/tt-rs",
+  "bmw/alpina"
  ],
  "brand_aliases": {
   "lynk-co": "Lynk & Co",
@@ -593,6 +597,8 @@
   "7-series",
   "8-series",
   "activehybrid-3",
-  "activehybrid-5"
+  "activehybrid-5",
+  "i3",
+  "i4"
  ]
 }

@@ -1,0 +1,674 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "i4",
+ "brand_db": "BMW",
+ "model_db_name": "i4",
+ "model_id": 730,
+ "generation_name": "1st generation",
+ "generation_code": "G26",
+ "year_start": 2021,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/bmw/i4/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-i4-2025-genid-g1-0.webp",
+   "fuses": [
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Power window actuator, driver's door with control electronics"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Front passenger window with control electronics"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Driver's side rear power window with control electronics"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "30A",
+     "Passenger side rear power window with control electronics"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Left reversible electromotive automatic reel (seat belt)"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Roof function center"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "40A",
+     "Body Domain Controller"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "40A",
+     "Dynamic Stability Control (DSC)"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "20A",
+     "Electronic transmission control, transfer case"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Media system"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Center console control panel, parking"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Battery"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Roof function center (map lamp, interior lighting, ambient lighting)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "5A",
+     "Central lock"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "5A",
+     "Driver's outer door handle electronic module"
+    ],
+    [
+     "39",
+     "Fuse MAXI",
+     "60A",
+     "Body Domain Controller"
+    ],
+    [
+     "40",
+     "Fuse MAXI",
+     "40A",
+     "Fan motor with output stage"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter, thermoelectric cup holder"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "20A",
+     "Engine management"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "10A",
+     "Electric steering column adjustment"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "30A",
+     "Heated seats"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "20A",
+     "Seat heating electronics"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "Trailer module"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "20A",
+     "Autonomous additional heater"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "30A",
+     "Seat module (with seat module), seat adjustment switch block (without seat module)"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "30A",
+     "Seat module (with seat module), seat adjustment switch block (without seat module)"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "10A",
+     "Electric steering column adjustment"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "5A",
+     "Electrochromic interior rear view mirror"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Driver assistance"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "5A",
+     "Rear door trim/pocket/handle illumination (driver's side), rear left speaker illumination, additional water pump (diesel)"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary battery, instrument panel speaker light, air freshener, CD drive, ionizer, 48V starter-alternator"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "5A",
+     "Glove box light switch, driver camera system, 48V power control unit (PCU48), 48V battery"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "5A",
+     "Driver's seat back width/lumbar valve blocks, seat adjustment switch block (driver), footwell taillight, seat back panel backlight, USB charging port, front left seat inflation module"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "5A",
+     "Front passenger's backrest width/lumbar valve blocks, seat adjustment switch block (passenger), rear footwell lighting, backrest rear panel lighting, USB charging connector 2, front right seat inflation module"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel lighting (upper/lower, center and sides), front left/right footwell lighting"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "5A",
+     "Driver's door switch boxes, door interior handle/trim/pocket lighting, front left midrange and tweeter illumination"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "5A",
+     "Passenger's exterior mirror, door switch box, door handle/trim/pocket lighting, front right midrange and tweeter illumination"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "5A",
+     "Radiator shutters (upper, lower)"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "5A",
+     "Rear switchboard, electric fan shutdown relay, electric fan"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "5A",
+     "Surround camera (with surround camera), rear view camera"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "7.5A",
+     "Engine management"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "10A",
+     "USB socket"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "10A",
+     "Crash safety module"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "5A",
+     "Driver assistance"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "BDC (Body Domain Controller) electronic control unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-i4-2025-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Steering column switch box, front center air vent, audio control panel, lighting control unit, head unit"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "7.5A",
+     "Diagnostic socket, electronic ride height control, vertical dynamics platform"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "Heating/air conditioning system, tailgate function module, rain/light/sun/condensation sensor"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Outer door handle electronic modules (passenger side, rear doors), power control unit, telematics unit"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Lock relay, unlock relay (doors, fuel cap)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Driver's door lock relay, lockout relay (door locks, fuel door central lock actuator)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Driver side fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-i4-2025-genid-g1-2.webp",
+   "fuses": [
+    [
+     "102",
+     "Fuse ATO",
+     "7.5A",
+     "Electronics, engine management"
+    ],
+    [
+     "107",
+     "Fuse MINI",
+     "10A",
+     "[Hybrid]: pressurized fuel tank control module"
+    ],
+    [
+     "117",
+     "Fuse ATO",
+     "30A",
+     "[Hybrid]: automatic transmission, transfer case"
+    ],
+    [
+     "118",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary electric heater, front midrange speaker lighting"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Terminal 30B relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-i4-2025-genid-g1-3.webp",
+   "fuses": [
+    [
+     "203",
+     "Fuse MINI",
+     "7.5A",
+     "DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ],
+    [
+     "204",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, driving assistance"
+    ],
+    [
+     "206",
+     "Fuse MINI",
+     "5A",
+     "Fuel pump, DME/IVM"
+    ],
+    [
+     "209",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance; gear indicator / DSC / SMG; DME/IVM"
+    ],
+    [
+     "210",
+     "Fuse MINI",
+     "5A",
+     "Steering column function control module"
+    ],
+    [
+     "212",
+     "Fuse MINI",
+     "15A",
+     "Head-Up Display (HUD), infotainment"
+    ],
+    [
+     "214",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD), infotainment, USB"
+    ],
+    [
+     "215",
+     "Fuse MINI",
+     "5A",
+     "Sound system, infotainment"
+    ],
+    [
+     "216",
+     "Fuse MINI",
+     "5A",
+     "Infotainment"
+    ],
+    [
+     "217",
+     "Fuse ATO",
+     "40A",
+     "Sound system, infotainment"
+    ],
+    [
+     "218",
+     "Fuse ATO",
+     "20A",
+     "Infotainment"
+    ],
+    [
+     "220",
+     "Fuse ATO",
+     "20A",
+     "Infotainment"
+    ],
+    [
+     "225",
+     "Fuse ATO",
+     "30A",
+     "Tailgate"
+    ],
+    [
+     "226",
+     "Fuse ATO",
+     "40A",
+     "Tailgate"
+    ],
+    [
+     "227",
+     "Fuse ATO",
+     "40A",
+     "DME/IVM"
+    ],
+    [
+     "229",
+     "Fuse ATO",
+     "40A",
+     "DME/IVM"
+    ],
+    [
+     "230",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "231",
+     "Fuse ATO",
+     "30A",
+     "Rear window defroster (defogger)"
+    ],
+    [
+     "232",
+     "Fuse ATO",
+     "40A",
+     "Rear window defroster (defogger)"
+    ],
+    [
+     "240",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "244",
+     "Fuse MINI",
+     "4A",
+     "Alarm, fuel pump, door module / automatic soft-close, hybrid system"
+    ],
+    [
+     "250",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "251",
+     "Fuse MINI",
+     "20A",
+     "Front and rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "252",
+     "Fuse MINI",
+     "5A",
+     "Hybrid system"
+    ],
+    [
+     "253",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "254",
+     "Fuse MINI",
+     "5A",
+     "Tailgate"
+    ],
+    [
+     "255",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "256",
+     "Fuse MINI",
+     "7.5A",
+     "Seatbelts"
+    ],
+    [
+     "257",
+     "Fuse MINI",
+     "5A",
+     "Seatbelts"
+    ],
+    [
+     "258",
+     "Fuse MINI",
+     "5A",
+     "Convertible top module / convertible relay"
+    ],
+    [
+     "259",
+     "Fuse MINI",
+     "15A",
+     "DME/IVM"
+    ],
+    [
+     "260",
+     "Fuse MINI",
+     "5A",
+     "Electric fan, DME/IVM"
+    ],
+    [
+     "262",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system"
+    ],
+    [
+     "264",
+     "Fuse MINI",
+     "10A",
+     "Tailgate"
+    ],
+    [
+     "265",
+     "Fuse ATO",
+     "30A",
+     "DME/IVM"
+    ],
+    [
+     "266",
+     "Fuse ATO",
+     "40A",
+     "Convertible top module / convertible relay"
+    ],
+    [
+     "268",
+     "Fuse ATO",
+     "40A",
+     "Convertible top module / convertible relay"
+    ],
+    [
+     "271",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "273",
+     "Fuse ATO",
+     "20A",
+     "Front and rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "278",
+     "Fuse MINI",
+     "5A",
+     "Hybrid system"
+    ],
+    [
+     "280",
+     "Fuse MINI",
+     "5A",
+     "Hybrid system"
+    ],
+    [
+     "281",
+     "Fuse MINI",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "284",
+     "Fuse MINI",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "289",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "291",
+     "Fuse ATO",
+     "30A",
+     "Gear indicator / DSC \u2013 Dynamic Stability Control / SMG"
+    ],
+    [
+     "296",
+     "Fuse ATO",
+     "30A",
+     "Trailer module"
+    ]
+   ]
+  }
+ ]
+}
