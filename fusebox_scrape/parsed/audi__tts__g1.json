@@ -1,0 +1,143 @@
+{
+ "make_slug": "audi",
+ "model_slug": "tts",
+ "brand_db": "Audi",
+ "model_db_name": "TTS",
+ "model_id": 450,
+ "generation_name": "Mk2",
+ "generation_code": "Type 8J",
+ "year_start": 2008,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/audi/tts/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-tts-2008-genid-g1-0.webp",
+   "fuses": [
+    [
+     "A5",
+     "Fuse ATO",
+     "5A",
+     "Alarm horn / anti-theft alarm sensor"
+    ],
+    [
+     "A6",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer system pump"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "15A",
+     "Fuel pressure regulating valve"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "30A",
+     "Wiper motor control unit"
+    ],
+    [
+     "A9",
+     "Fuse ATO",
+     "25A",
+     "Front left seat heating / front right seat heating"
+    ],
+    [
+     "A10",
+     "Fuse ATO",
+     "10A",
+     "Driver/front passenger seat lumbar support longitudinal adjustment motors"
+    ],
+    [
+     "A12",
+     "Fuse ATO",
+     "40A",
+     "Fresh air blower control unit / fresh air blower"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "5A",
+     "Engine components current supply relay"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "10A",
+     "Lambda probe / lambda probe after catalytic converter"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "20A",
+     "Ignition coils -N..-"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "25A",
+     "Engine control unit"
+    ],
+    [
+     "B10",
+     "Fuse ATO",
+     "10A",
+     "Continued coolant circulation pump / relay"
+    ],
+    [
+     "B11",
+     "Fuse ATO",
+     "5A",
+     "Clutch position sender"
+    ],
+    [
+     "B12",
+     "Fuse ATO",
+     "10A",
+     "Canister solenoid valve 1 / charge pressure control solenoid valve / turbo air recirculation valve"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlight washer system relay"
+    ],
+    [
+     "R2.1",
+     "Relay",
+     "",
+     "Continued coolant circulation relay"
+    ],
+    [
+     "R2.2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Secondary air pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Motronic current supply relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Engine components current supply relay"
+    ]
+   ]
+  }
+ ]
+}
