@@ -1,0 +1,770 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "silverado-1500",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Silverado 1500",
+ "model_id": 5682,
+ "generation_name": "1st generation (GMT800)",
+ "generation_code": "g1",
+ "year_start": 1998,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/chevrolet/silverado-1500/info/fusebox/2007/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-silverado-2007-genid-g1-0.webp",
+   "fuses": [
+    [
+     "GLOW PLUG",
+     "Fuse FMX/JCase",
+     "",
+     "Diesel glow plugs and intake air heater"
+    ],
+    [
+     "STUD #1",
+     "Fuse FMX/JCase",
+     "",
+     "Auxiliary power [single battery and diesels only]"
+    ],
+    [
+     "MBEC",
+     "Fuse FMX/JCase",
+     "50A",
+     "Mid bussed electrical center power feed, front seats, right doors"
+    ],
+    [
+     "BLWR",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front climate control fan"
+    ],
+    [
+     "LBEC",
+     "Fuse FMX/JCase",
+     "50A",
+     "Left bussed electrical center, door modules, door locks, auxiliary power outlets"
+    ],
+    [
+     "STUD #2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Accessory power / trailer wiring brake feed"
+    ],
+    [
+     "ABS",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brakes"
+    ],
+    [
+     "VSES/ECAS",
+     "Fuse FMX/JCase",
+     "40A",
+     "Vehicle stability"
+    ],
+    [
+     "IGN A",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition power"
+    ],
+    [
+     "IGN B",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition power"
+    ],
+    [
+     "LBEC 1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Left bussed electrical center, left doors, truck body controller, flasher module"
+    ],
+    [
+     "TRL PARK",
+     "Fuse MINI",
+     "15A",
+     "Parking lamps trailer wiring"
+    ],
+    [
+     "RR PARK",
+     "Fuse MINI",
+     "10A",
+     "Right rear parking and sidemarker lamps"
+    ],
+    [
+     "LR PARK",
+     "Fuse MINI",
+     "10A",
+     "Left rear parking and sidemarker lamps"
+    ],
+    [
+     "PARK LP",
+     "Relay",
+     "",
+     "Parking lamps relay"
+    ],
+    [
+     "STRTR",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "INTPARK",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ],
+    [
+     "STOP LP",
+     "Fuse MINI",
+     "25A",
+     "Stoplamps"
+    ],
+    [
+     "TBC BATT",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller battery feed"
+    ],
+    [
+     "SEO B2",
+     "Fuse MINI",
+     "30A",
+     "Off-road lamps"
+    ],
+    [
+     "AUX PWR",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power outlet - console"
+    ],
+    [
+     "PCM 1",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "ETC/ECM",
+     "Fuse MINI",
+     "15A",
+     "Electronic throttle control, electronic brake controller, fan clutch (diesel)"
+    ],
+    [
+     "IGN E",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, turn signal/hazard switch, A/C relay, starter relay"
+    ],
+    [
+     "RTD",
+     "Fuse MINI",
+     "30A",
+     "Ride control"
+    ],
+    [
+     "TRL B/U",
+     "Fuse MINI",
+     "10A",
+     "Backup lamps trailer wiring"
+    ],
+    [
+     "F/PMP",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "B/U LP",
+     "Fuse MINI",
+     "20A",
+     "Back-up lamps, automatic transmission shift lock control"
+    ],
+    [
+     "RR DEFOG",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "HDLP-HI",
+     "Relay",
+     "",
+     "Headlamp high beam relay"
+    ],
+    [
+     "AIRBAG",
+     "Fuse MINI",
+     "15A",
+     "Supplemental inflatable restraint system"
+    ],
+    [
+     "FRT PARK",
+     "Fuse MINI",
+     "10A",
+     "Front parking lamps, sidemarker lamps"
+    ],
+    [
+     "DRL RL",
+     "Relay",
+     "",
+     "Daytime running lamps relay"
+    ],
+    [
+     "SEO IGN",
+     "Fuse MINI",
+     "10A",
+     "Rear defog relay"
+    ],
+    [
+     "TBC IGN1",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller ignition"
+    ],
+    [
+     "HI HDLP-LT",
+     "Fuse MINI",
+     "10A",
+     "High beam headlamp - left"
+    ],
+    [
+     "DRL",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lamps"
+    ],
+    [
+     "RVC",
+     "Fuse MINI",
+     "10A",
+     "Regulated voltage control"
+    ],
+    [
+     "IPC/DIC",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster / driver information center"
+    ],
+    [
+     "HVAC/ECAS",
+     "Fuse MINI",
+     "10A",
+     "Climate control controller"
+    ],
+    [
+     "CIG LTR",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "HI HDLP-RT",
+     "Fuse MINI",
+     "10A",
+     "High beam headlamp - right"
+    ],
+    [
+     "HDLP-LOW",
+     "Relay",
+     "",
+     "Headlamp low beam relay"
+    ],
+    [
+     "A/C COMP RL",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "A/C COMP",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "TCMB",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module"
+    ],
+    [
+     "RADIO",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "SEO B1",
+     "Fuse MINI",
+     "15A",
+     "Mid bussed electrical center, rear heated seats, universal home remote"
+    ],
+    [
+     "LO HDLP-LT",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low beam - left"
+    ],
+    [
+     "BTSI",
+     "Fuse MINI",
+     "10A",
+     "Brake transmission shift interlock system"
+    ],
+    [
+     "CRNK",
+     "Fuse MINI",
+     "10A",
+     "Starting system"
+    ],
+    [
+     "LO HDLP-RT",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low beam - right"
+    ],
+    [
+     "FOG LP RL",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "FOG LP",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "HORN RL",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "W/S WASH RL",
+     "Relay",
+     "",
+     "Windshield washer pump relay"
+    ],
+    [
+     "W/S WASH",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer pump"
+    ],
+    [
+     "INFO",
+     "Fuse MINI",
+     "15A",
+     "OnStar / rear seat entertainment"
+    ],
+    [
+     "RADIO AMP",
+     "Fuse MINI",
+     "30A",
+     "Radio amplifier"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "*1",
+     "Fuse MINI",
+     "15A",
+     "INJ 2 - Fuel injection rail 2 [gas]"
+    ],
+    [
+     "*1",
+     "Fuse MINI",
+     "25A",
+     "ECM [diesel]"
+    ],
+    [
+     "*2",
+     "Fuse MINI",
+     "15A",
+     "INJ 1 - Fuel injection rail 1 [gas]"
+    ],
+    [
+     "*2",
+     "Fuse MINI",
+     "15A",
+     "Actuator [diesel]"
+    ],
+    [
+     "*3",
+     "Fuse MINI",
+     "15A",
+     "O2A - Oxygen sensors [gas]"
+    ],
+    [
+     "*3",
+     "Fuse MINI",
+     "15A",
+     "Fuel heater [diesel]"
+    ],
+    [
+     "*4",
+     "Fuse MINI",
+     "15A",
+     "O2B - Oxygen sensors [gas]"
+    ],
+    [
+     "*4",
+     "Fuse MINI",
+     "15A",
+     "ECM 1 - Engine control module 1 [diesel]"
+    ],
+    [
+     "*5",
+     "Relay",
+     "",
+     "IGN 1 [gas]"
+    ],
+    [
+     "*5",
+     "Relay",
+     "",
+     "ECM [diesel]"
+    ],
+    [
+     "*6",
+     "Fuse MINI",
+     "20A",
+     "PCMB - Powertrain control module B [gas]"
+    ],
+    [
+     "*6",
+     "Fuse MINI",
+     "20A",
+     "ECMB - Engine control module B [diesel]"
+    ],
+    [
+     "*7",
+     "Fuse MINI",
+     "15A",
+     "SBA - Supplemental brake assist [gas]"
+    ],
+    [
+     "*7",
+     "Fuse MINI",
+     "15A",
+     "EV FAN - Electronic viscous fan [diesel]"
+    ],
+    [
+     "*8",
+     "Fuse MINI",
+     "30A",
+     "Sunroof [H2]"
+    ],
+    [
+     "*8",
+     "Fuse MINI",
+     "30A",
+     "RR HVAC - Rear climate control [gas except H2]"
+    ],
+    [
+     "*9",
+     "Fuse MINI",
+     "25A",
+     "Sunroof [gas except H2]"
+    ],
+    [
+     "CUST FEED",
+     "Fuse FMX/JCase",
+     "",
+     "Gasoline accessory power"
+    ],
+    [
+     "HYBRID",
+     "Fuse FMX/JCase",
+     "",
+     "Hybrid"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-silverado-2007-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Special equipment option accessory"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Windshield wipers"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller accessory"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Ignition, heated seats"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Four-wheel drive system auxiliary battery"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Climate control system"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Climate control system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Cruise control, power take off (PTO)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "TCM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Vehicle stoplamps, brake module, electronic throttle control module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Driver door module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Tire pressure monitoring system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Vehicle and trailer high mounted stoplamp"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Left turn signal/stop trailer"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Right turn signal/stop trailer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Left turn signals and sidemarkers"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Right turn signals and sidemarkers"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power socket"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Truck body controller"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Truck body controller"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Power door lock system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "Flasher module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Truck body controller"
+    ],
+    [
+     "CB 1",
+     "Circuit breaker ATO",
+     "",
+     "Left power windows circuit breaker"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power door lock relay (lock function)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power door lock relay (unlock function)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power door lock relay (driver door unlock function)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Center Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-silverado-2007-genid-g1-2.webp",
+   "fuses": [
+    [
+     "SEO",
+     "Relay",
+     "",
+     "Special equipment option"
+    ],
+    [
+     "TRAILER",
+     "Relay",
+     "",
+     "Trailer brake wiring"
+    ],
+    [
+     "SL RIDE",
+     "Relay",
+     "",
+     "Ride control harness connection"
+    ],
+    [
+     "DEFOG",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "CB SEAT",
+     "Circuit breaker ATO",
+     "",
+     "Driver and passenger seat module circuit breaker"
+    ],
+    [
+     "CB RT DOOR",
+     "Circuit breaker ATO",
+     "",
+     "Right power windows circuit breaker"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Auxiliary Electric Cooling Fan Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-silverado-2007-genid-g1-3.webp",
+   "fuses": [
+    [
+     "COOL/FAN",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan relay 1 fuse"
+    ],
+    [
+     "COOL/FAN",
+     "Fuse MINI",
+     "",
+     "Cooling fan relay 3 fuse"
+    ],
+    [
+     "COOL/FAN",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan relay 2 fuse"
+    ],
+    [
+     "COOL/FAN 1",
+     "Relay",
+     "",
+     "Cooling fan relay 1"
+    ],
+    [
+     "COOL/FAN 3",
+     "Relay",
+     "",
+     "Cooling fan relay 3"
+    ],
+    [
+     "COOL/FAN 2",
+     "Relay",
+     "",
+     "Cooling fan relay 2"
+    ]
+   ]
+  }
+ ]
+}
