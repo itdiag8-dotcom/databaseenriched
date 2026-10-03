@@ -1,0 +1,185 @@
+{
+ "make_slug": "byd",
+ "model_slug": "f0",
+ "brand_db": "BYD",
+ "model_db_name": "F0 Hatchback",
+ "model_id": 5980,
+ "generation_name": "1st generation",
+ "generation_code": "F1",
+ "year_start": 2013,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/byd/f0/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-byd-f0-2014-genid-g1-0.webp",
+   "fuses": [
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Oil pump"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Transmission control unit (TCU-2)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Right-hand headlight"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Left-hand headlight"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Headlights (HEAD RL)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Headlights (HEAD LL)"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Headlights main"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Transmission control unit (TCU-1)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Starter system (AM2)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Body control module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Multiport fuel injection system (EFI main)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Dome light and interior light"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Hazard light"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric cooling fan"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "25A",
+     "Anti-lock braking system"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock braking system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlights main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "EFI main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Front fog lights relay"
+    ]
+   ]
+  }
+ ]
+}
