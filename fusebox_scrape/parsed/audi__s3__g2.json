@@ -1,0 +1,733 @@
+{
+ "make_slug": "audi",
+ "model_slug": "s3",
+ "brand_db": "Audi",
+ "model_db_name": "S3 8P",
+ "model_id": 399,
+ "generation_name": "2nd generation",
+ "generation_code": "8P",
+ "year_start": 2006,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/audi/s3/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Box (Left)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-s3-2011-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Headlight beam adjustment (manual/auto), AFS control module, engine components, light switch illumination, diagnosis socket"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission, gateway, electro-mechanical steering, shift gate, engine relay, fuel tank CU, engine CU, ABS/ESP/ASR"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "A/C sensors, ESP/ASR button, tire pressure display, oil level sensor, back-up light switch, seat heating, parking aid, seat occupancy (USA), garage door opener, mirror dimming, headlight assistant, heated washer nozzles, A/C control module"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "AFS headlights (left side)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "AFS headlights (right side)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Control unit in dash panel insert"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Navigation system, radio system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Digital radio, cell phone, TV equipment"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Automatic mirror dimming, headlight assistant"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Central locking (front doors)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Central locking (rear doors)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "ESP control module, shift gate automatic transmission"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Interior lights, reading lights"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic connector, rain sensor, A/C control module, tire pressure monitor control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Anti-theft alarm warning system"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Diagnose starter"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "All wheel drive"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "40A",
+     "Blower fan"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "30A",
+     "Driver's side power window, front"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "20A",
+     "Power outlet front"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "20A",
+     "Power outlet in luggage compartment"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "15A",
+     "Fuel tank control module, fuel pump"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "Power window, rear"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer system pump"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "20A",
+     "Sliding/pop-up roof"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "10A",
+     "Lumbar support"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "20A",
+     "Heated seats, front"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "30A",
+     "Passenger side power window, front"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "5A",
+     "Special function interface"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "40A",
+     "Starter"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "5A",
+     "Cell phone package (VDA interface)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box (left side), Low switch box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-s3-2011-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "40A",
+     "Terminal 30"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Engine components"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Battery voltage"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "ESP valves, ABS valves"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Steering wheel electronics"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Engine control module, main relay"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "Gateway (CAN data transfer control module)"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Ignition coils, engine components [diesel engine]"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Preheating control module/engine component, tank diagnosis, oxygen sensor"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Body control module (right)"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "Audio amplifier"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Front windshield wiper system"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Water pump, volume regulator valve"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "Oxygen sensor, vacuum pump"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "5A",
+     "Clutch pedal switch, brake light switch"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "5A",
+     "Engine components, water pump"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "10A",
+     "Engine components, water pump"
+    ],
+    [
+     "25",
+     "Fuse MAXI",
+     "40A",
+     "Pump (ESP/ABS), ABS valve"
+    ],
+    [
+     "26",
+     "Fuse MAXI",
+     "30A",
+     "Body control module (left)"
+    ],
+    [
+     "27",
+     "Fuse MAXI",
+     "40A",
+     "Secondary air pump, preheating control module"
+    ],
+    [
+     "29",
+     "Fuse MAXI",
+     "50A",
+     "Fuse assignment in left-side instrument panel [special equipment]"
+    ],
+    [
+     "30",
+     "Fuse MAXI",
+     "50A",
+     "Power supply relay terminal 15"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Motronic supply relay [petrol codes] / terminal 30 supply relay [diesel codes] / Simos supply relay [BSE/BSF/CCSA/CMXA]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Wiring bridges / glow period CU [diesel] / secondary air pump relay / engine component supply relay / additional coolant pump relay [by engine code]"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Box (left side), High switch box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-s3-2011-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "30A",
+     "Onboard power supply CU: right parking/high beam/low beam/turn signal/fog lights"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "20A",
+     "ABS control unit (MK60 ESP valves)"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "40A",
+     "Voltage stabilizer / supply for fuses SC7-SC11 [start/stop] or SC7-SC10 [without]"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "5A",
+     "On-board power supply control unit"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "15A",
+     "High and low frequency sound signals"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "15A",
+     "Fuel pressure regulating valve [BPY/BWA/BHZ/BZC/CDLC]"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump, injectors cylinders 1-6, fuel pressure regulating valve [by engine code]"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump control unit [CEPA/CEPB]"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "10A",
+     "Boost pressure valve, canister valve 1, charge air recirculation valve [BPY/BWA/BHZ/CDLA/CDLC/BZC]"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "15A",
+     "Boost pressure valve, charcoal filter valve 1, air recirculation valve, fuel metering valve, exhaust flap valve 1 [CEPA/CEPB]"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "10A",
+     "Fuel system diagnostic pump [petrol codes] / air flow meter [BUB/CBRA]"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "10A",
+     "Lambda probe heating elements 1+2 [by engine code]"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "10A",
+     "Lambda probe heating elements 1+2 after catalytic converter [by engine code]"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "15A",
+     "Mechatronics for dual clutch gearbox"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "10A",
+     "After-run coolant bleeding pump / coolant circuit solenoid valve [CEPA/CEPB]"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "5A",
+     "Steering column control unit"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "30A",
+     "Amplifier / amplifier with bass speaker in luggage compartment; voltage stabilizer [start/stop]"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "10A",
+     "Engine control units / Motronic power supply relay [except CEPA/CEPB]"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "5A",
+     "Engine CU / Motronic supply relay / control relay [CEPA/CEPB]"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "5A",
+     "Exhaust flap valve [BHZ/CDLA/CDLC/BZC]"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heating element [CEPA/CEPB]"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heating element 1 after catalytic converter [CEPA/CEPB]"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "25A",
+     "Engine control units [BUB/BHZ/BWA/BPY/CDLA/CDLC]"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "15A",
+     "Engine control units [BUB/BHZ/BWA/BPY/CDLA/CDLC/CBRA/BZC]"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "5A",
+     "After-run coolant circulation relay / secondary air pump relay [by engine code]"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "15A",
+     "Auxiliary coolant pump relay, exhaust gas temp sensor 1, camshaft timing valves, intake manifold flap valve, oil pressure reducing valve [CEPA/CEPB]"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "20A",
+     "Additional heater control unit [until November 2010]"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "30A",
+     "Additional heater control unit [from November 2010]"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor control unit"
+    ],
+    [
+     "F38",
+     "Fuse ATO",
+     "10A",
+     "Radiator fan CU, canister valve 1, secondary air injection valves 1+2, camshaft timing valves, fuel diagnostic pump [by engine code]"
+    ],
+    [
+     "F39",
+     "Fuse ATO",
+     "5A",
+     "Clutch pedal position sensor / brake light switch / brake pedal switch"
+    ],
+    [
+     "F40",
+     "Fuse ATO",
+     "20A",
+     "Ignition coils 1-4 with output stages [BPY/BWA/BHZ/CDLA/CDLC/BZC]"
+    ],
+    [
+     "F40",
+     "Fuse ATO",
+     "15A",
+     "Engine control unit [CEPA/CEPB]"
+    ],
+    [
+     "F42",
+     "Fuse ATO",
+     "5A",
+     "Engine component supply relay [by engine code]"
+    ],
+    [
+     "F43",
+     "Fuse ATO",
+     "30A",
+     "Ignition coils 1-6 with output stages [BUB/CBRA/CEPA/CEPB]"
+    ],
+    [
+     "F47",
+     "Fuse MAXI",
+     "30A",
+     "Onboard power supply CU: left parking/high beam/low beam/indicator/fog lights"
+    ],
+    [
+     "F48",
+     "Fuse MAXI",
+     "40A",
+     "ABS control unit (MK60 ESP pump / MK70 ABS pump and valves)"
+    ],
+    [
+     "F51",
+     "Fuse MAXI",
+     "40A",
+     "Secondary air pump motor [BUB/CBRA]"
+    ],
+    [
+     "F52",
+     "Fuse MAXI",
+     "50A",
+     "Relay 2 terminal 15; supply for fuses SC1-SC6, SC19, SC20, SC29-SC31, SC40-SC42, SC46, SC47, SC49"
+    ],
+    [
+     "F53",
+     "Fuse MAXI",
+     "50A",
+     "Positive connection 4 (30) in main harness; supply for fuses SC32-SC37, SC39, SC44, SC45, SC48, S131 [battery location variants]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Motronic system power supply relay [by engine code]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "After-run coolant circulation relay / additional coolant pump relay [by engine code]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay [BUB/BMJ/CBRA] / engine component supply relay [other codes]"
+    ],
+    [
+     "SA1",
+     "Fuse MIDI",
+     "150A",
+     "Alternator (70-120 A)"
+    ],
+    [
+     "SA1",
+     "Fuse MIDI",
+     "200A",
+     "Generator (140 A)"
+    ],
+    [
+     "SA2",
+     "Fuse MIDI",
+     "80A",
+     "Power steering control unit"
+    ],
+    [
+     "SA3",
+     "Fuse MIDI",
+     "50A",
+     "Radiator fan control unit"
+    ],
+    [
+     "SA4",
+     "Fuse MIDI",
+     "80A",
+     "Fuse supply: SC12-SC17, SC19/SC22-SC28, SC38, SC43 [by engine code and date]"
+    ],
+    [
+     "SA5",
+     "Fuse MIDI",
+     "80A",
+     "Fuse supply: SC12-SC17, SC22-SC28, SC38, SC43 [by engine code and date]"
+    ],
+    [
+     "SA6",
+     "Fuse MIDI",
+     "",
+     "Fuse supply: SC12-SC17, SC19, SC44, SC45 [until Nov 2005] / SC44, SC45 [since Nov 2005]"
+    ],
+    [
+     "SA7",
+     "Fuse MIDI",
+     "50A",
+     "Ambulance/police vehicle option"
+    ],
+    [
+     "SA7",
+     "Fuse MIDI",
+     "80A",
+     "Police car option [until May 2009]"
+    ],
+    [
+     "SA7",
+     "Fuse MIDI",
+     "30A",
+     "Electronic damper control unit [since May 2008]"
+    ]
+   ]
+  }
+ ]
+}
