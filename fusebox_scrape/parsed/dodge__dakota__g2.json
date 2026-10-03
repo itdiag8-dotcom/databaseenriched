@@ -1,0 +1,390 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "dakota",
+ "brand_db": "Dodge",
+ "model_db_name": "Dakota",
+ "model_id": 1439,
+ "generation_name": "2nd generation (\"AN\")",
+ "generation_code": "g2",
+ "year_start": 1997,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/dodge/dakota/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-dakota-2004-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "Combination flasher"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "20A",
+     "Fuel pump relay, powertrain control module"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "20A",
+     "Central timer module"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger relay"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Stop lamp switch"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric brake (trailer tow)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Passenger compartment fuses 1, 2, 3, 4, 13"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "50A",
+     "Ignition switch (passenger compartment fuses 21, 24-27)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch (passenger compartment fuses 17-19)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic shut down relay (PCM, capacitor, ignition coil, fuel injector)"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "Central timer module"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch (blower motor)"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "50A",
+     "Power seat switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan relay"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "Starter relay"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "50A",
+     "Ignition switch (passenger compartment fuses 5, 28)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Transfer case control module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow connector"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Center power outlet"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch (passenger compartment fuses 8, 10-12, 14, 20)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Transmission control relay (transmission range sensor, solenoid/pressure switch assembly, PCM)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Fog lamp relay (fog lamp, headlamp switch, central timer module)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Trailer tow connector"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Oxygen sensor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Automatic shut down relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "EBL relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Oxygen sensor relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Transmission control relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Wiper relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-dakota-2004-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Immobilizer module, instrument cluster, dome lamp, glove box lamp, driver door module, DLC, overhead console, cargo lamp"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Radio (2002-2004)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Park lamp relay (park/turn lamps, side markers, license lamp, tail lamps, central timer module)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Front wiper relay, central timer module, multi-function switch, wiper motor"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, PCM, transmission control module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, A/C heater control, radio, transfer case selector switch, overhead console, cigar lighter illumination"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "PCM, fuel pump relay, radiator fan relay, immobilizer module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch relay, auto day/night mirror, overhead console, central timer module, transfer case selector switch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Starter relay, powertrain control module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Amplifier (2002-2004)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Amplifier (2000-2001)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Power mirror"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter / power outlet"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Combination flasher"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module, passenger airbag on/off switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Rear window defogger relay"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Heating and air conditioning control"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Back-up lamp, transmission solenoid/TRS assembly, back-up lamp switch, passenger door power lock switch, trailer tow connector"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "28",
+     "Circuit breaker ATO",
+     "",
+     "Driver door module (power window)"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,407 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "dakota",
+ "brand_db": "Dodge",
+ "model_db_name": "Dakota",
+ "model_id": 1439,
+ "generation_name": "3rd generation (\"ND\")",
+ "generation_code": "g3",
+ "year_start": 2005,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/dodge/dakota/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-dakota-2011-genid-g3-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric brake"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "Power seat"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Ignition off draw, instrument cluster, radio"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "PCM / fuel / radiator / A/C coils"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster / mirror / 4x4"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "2A",
+     "Run/start ignition switch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow left stop/turn"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow right stop/turn"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Ignition off draw #2"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "Powertrain control module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Antilock brakes feed (valves)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Rear center brake lamp"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Instrument cluster / door locks / brake transmission shift interlock"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "Audio amp"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Power outlet (switchable)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Fog lamps"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Powertrain control module B+"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Instrument cluster illumination"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Ignition run/start feed"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Power mirror"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Body control module 4 (wipers)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "30A",
+     "Ignition run / A/C / windows"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module 1 (exterior lights #1)"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic shutdown"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module 2 (exterior lights #2)"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "40A",
+     "Climate control system blower motor"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition run feeds"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "25A",
+     "Body control module 5 (transfer case)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Left park lamps"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Right park lamps"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow park lamps"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Airbag system #2"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "20A",
+     "Sunroof / sound box"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow B+"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "40A",
+     "Antilock brakes module (pump)"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "40A",
+     "Park lamps"
+    ],
+    [
+     "53",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "10A",
+     "Heated seats"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "20A",
+     "Airbag system #2"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "Climate control system module"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "10A",
+     "Antilock brakes module"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "20A",
+     "Body control module 3 (reverse lamps)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Right trailer tow relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Left trailer tow relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Transmission control relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Park lamp relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Ignition RUN relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Wiper motor high/low relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Wiper motor on/off relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Automatic shutdown relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ]
+   ]
+  }
+ ]
+}
