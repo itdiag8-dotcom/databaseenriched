@@ -1,0 +1,1015 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "trailblazer-ext",
+ "brand_db": "Chevrolet",
+ "model_db_name": "TrailBlazer EXT",
+ "model_id": null,
+ "generation_name": "1st generation (GMT370)",
+ "generation_code": "g1",
+ "year_start": 2002,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/chevrolet/trailblazer-ext/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block (EXT)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trailblazer-ext-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "30A",
+     "Liftgate module 2"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamps"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller 3"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller 2"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Driver door module"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Passenger door module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "30A",
+     "Rear climate controls"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Left rear parking lamps"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Vehicle center high-mounted stop lamp"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Right rear parking lamps"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Liftgate module / driver seat module"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Vent window"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Lock"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "OnStar overhead battery, OnStar system"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Rainsense wipers"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "3A",
+     "Truck body controller accessory"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "Front wipers"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller 5"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Vehicle stop"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Heat ventilation air conditioning B"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Front parking lamps"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Left turn signal"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Heat ventilation air conditioning 1"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller 4"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Trailer park"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Right turn signal"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "30A",
+     "Heat ventilation air conditioning"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power 1"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "Ignition 0"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "15A",
+     "Four-wheel drive"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "3A",
+     "Truck body controller ignition"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "10A",
+     "Brakes"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "3A",
+     "Truck body controller run"
+    ],
+    [
+     "F50",
+     "Circuit breaker ATO",
+     "",
+     "Right door control module"
+    ],
+    [
+     "F51",
+     "Circuit breaker ATO",
+     "",
+     "Left door control module"
+    ],
+    [
+     "F52",
+     "Circuit breaker ATO",
+     "",
+     "Power seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Locks"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Unlock"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Retained accessory power"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear fog lamps"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block [L6]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trailblazer-ext-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Electrically-controlled air suspension"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Passenger side high-beam headlamp"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Passenger side low-beam headlamp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Back-up trailer lamps"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Driver side high-beam headlamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Driver side low-beam headlamp"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Rear window washer, headlamp washer"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "25A",
+     "Automatic transfer case"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Powertrain control module B"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "Stoplamp"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Electric adjustable pedal"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller, ignition 1"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Crank"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "Trailer electric brake"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Cooling fan"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Ignition E"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Electronic throttle control"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, driver information center"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Automatic shift lock control system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Engine 1"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Backup"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module 1"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brakes (ABS)"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition A"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition B"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Passenger side trailer turn"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "Driver side trailer turn"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "25A",
+     "Hazard flashers"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Headlamp driver module"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Air injection reactor (AIR) solenoid"
+    ],
+    [
+     "56",
+     "Fuse FMX/JCase",
+     "",
+     "Air injection reactor (AIR) pump"
+    ],
+    [
+     "58",
+     "Fuse FMX/JCase",
+     "",
+     "Vehicle stability enhancement system (StabiliTrak)"
+    ],
+    [
+     "48",
+     "Fuse MEGA",
+     "125A",
+     "Instrument panel battery"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "Rear window washer"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "41",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Windshield washer"
+    ],
+    [
+     "43",
+     "Relay",
+     "",
+     "High-beam headlamp"
+    ],
+    [
+     "44",
+     "Relay",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "45",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "46",
+     "Relay",
+     "",
+     "Headlamp driver module"
+    ],
+    [
+     "47",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "49",
+     "Relay",
+     "",
+     "Electric adjustable pedal"
+    ],
+    [
+     "55",
+     "Relay",
+     "",
+     "Air injection reactor (AIR) solenoid"
+    ],
+    [
+     "57",
+     "Relay",
+     "",
+     "Powertrain"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Block [V8]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trailblazer-ext-2006-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MEGA",
+     "",
+     "Instrument panel battery"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Trailer"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Anti-lock brakes (ABS)"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "",
+     "Ignition A"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "",
+     "Blower motor"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Ignition B"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Passenger side low-beam headlamp"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Passenger side high-beam headlamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Electrically-controlled air suspension"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Driver side low-beam headlamp"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Driver side high-beam headlamp"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Back-up trailer lamps"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Rear window washer, headlamp washer"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Body controller 1"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Automatic transfer case"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Windshield washer"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Driver side trailer turn"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Powertrain control module B"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Passenger side trailer turn"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Stop lamp"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Electric adjustable pedal"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Crank"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Headlamp driver module"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Hazard flashers"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Truck body controller, ignition 1"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Airbag"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Ignition E"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Backup"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "Powertrain control module 1"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Trailer electric brake"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster, driver information center"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Powertrain control module"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Transmission"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "Automatic shift lock control system"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Ignition coils"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Oxygen sensor bank B"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "Injector bank B"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Engine 1"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Electronic throttle control"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Oxygen sensor bank A"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "",
+     "Injector bank A"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Windshield washer"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High-beam headlamp"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Rear window washer"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlamp driver module"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Electric adjustable pedal"
+    ]
+   ]
+  }
+ ]
+}
