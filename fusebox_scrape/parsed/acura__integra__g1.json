@@ -1,0 +1,39 @@
+{
+ "make_slug":"acura","model_slug":"integra","brand_db":"Acura","model_db_name":"Integra","model_id":39,
+ "generation_name":"1st generation","generation_code":"DA1, DA2, DA3, DA4","year_start":1987,"year_end":1989,
+ "trim_label":null,"representative_year":1989,
+ "source_url":"https://www.startmycar.com/acura/integra/info/fusebox/1989",
+ "boxes":[
+  {"index":0,"name":"Passenger Compartment","image_url":"https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-acura-integra-1989-genid-g1-0.webp","fuses":[
+   ["1","Fuse FLF/PAL 293","40A","Power Window Relay"],
+   ["2","Fuse FLF/PAL 293","30A","Rear Window Defogger Relay"],
+   ["3","Fuse ATO","15A","Condenser Fan Relay"],
+   ["4","Fuse ATO","15A","Coolant Fan Relay"],
+   ["5","Fuse ATO","15A","Left Retractor Relay"],
+   ["6","Fuse ATO","15A","Right Retractor Relay"],
+   ["7","Fuse ATO","7.5A","Electronic Fuel Injection, Brake Warning"],
+   ["8","Fuse ATO","20A","Power Door Locks, Sun Roof Motor"],
+   ["14","Fuse ATO","7.5A","Radiator Fan Relay"],
+   ["15","Fuse ATO","10A","Rear Window Defogger, Blower, Heater Controls, Air Conditioner, Power Door Mirror"],
+   ["16","Fuse ATO","7.5A","Radio"],
+   ["17","Fuse ATO","15A","Power Windows (Left Front)"],
+   ["18","Fuse ATO","15A","Power Windows (Right Front)"],
+   ["19","Fuse ATO","15A","Power Windows (Left Rear)"],
+   ["20","Fuse ATO","15A","Power Windows (Right Rear)"],
+   ["21","Fuse ATO","7.5A","Headlight Retractor Control Unit"],
+   ["22","Fuse ATO","15A","Wiper/Washer, Rear Wiper/Washer, Power Window Relay, Sun Roof Relay"],
+   ["23","Fuse ATO","10A","Turn Signal & Hazard Lights, Integrated Control Unit, Back-Up Lights, Clock, Shift Indicator Panel, Warning Indicators, Gauges"],
+   ["24","Fuse ATO","15A","Headlight Retractors, Alternator, Electronic Fuel Injection, Charging System, Cruise Control, Warning Indicators"],
+   ["25","Fuse ATO","10A","Headlights (Low Beam), Headlight Retractors"],
+   ["26","Fuse ATO","10A","Headlights (Low Beam)"],
+   ["27","Fuse ATO","10A","Headlights (High Beam)"],
+   ["28","Fuse ATO","10A","Headlights (High Beam)"],
+   ["29","Fuse ATO","20A","Brakelights, Horn"],
+   ["30","Fuse ATO","7.5A","Headlight Retractor Switch, Retractor Relays"],
+   ["31","Fuse ATO","15A","Interior Light, Trunk Light, Integrated Control Unit, Cigarette Lighter, Radio, Clock"],
+   ["32","Fuse ATO","15A","Park & Side Marker Lights, Tail & License Lights, Dash & Console Lights, Integrated Control Unit"],
+   ["R1","Relay","","Wiper Timer"],
+   ["R2","Relay","","Turn Signal/Hazard Flasher"]
+  ]}
+ ]
+}

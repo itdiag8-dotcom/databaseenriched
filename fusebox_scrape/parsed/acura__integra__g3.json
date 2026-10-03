@@ -1,0 +1,57 @@
+{
+ "make_slug":"acura","model_slug":"integra","brand_db":"Acura","model_db_name":"Integra","model_id":39,
+ "generation_name":"3rd generation","generation_code":"DB7, DB8, DC2, DC4","year_start":1993,"year_end":1997,
+ "trim_label":null,"representative_year":1997,
+ "source_url":"https://www.startmycar.com/acura/integra/info/fusebox/1997",
+ "boxes":[
+  {"index":0,"name":"Passenger compartment","image_url":"https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-acura-integra-1997-genid-g3-0.webp","fuses":[
+   ["2","Fuse ATO","15A","PGM-FI, Alternator, Cruise Control, Gauge Assembly, SRS Control Unit, Vehicle Speed Sensor (VSS)"],
+   ["6","Fuse ATO","15A","Stereo Radio/Cassette or CD Player, Cigarette Lighter, Option Connector \"E\""],
+   ["7","Fuse ATO","10A","Auxiliary Light Relay"],
+   ["8","Fuse ATO","10A","Left Low Beam Headlight"],
+   ["9","Fuse ATO","10A","Left High Beam Headlight, High Beam Indicator Light, Daytime Running Lights Resistor"],
+   ["10","Fuse ATO","10A","Right Low Beam Headlight, Auxiliary Light Switch (del Sol)"],
+   ["11","Fuse ATO","10A","Right High Beam Headlight, Daytime Running Lights Resistor"],
+   ["13","Fuse ATO","10A","Dash Lights, Dimming Signal, Parking Lights, Tail Lights, License Plate Lights, Console Lights, Option Connector \"D\""],
+   ["14","Fuse ATO","20A","Left Front Power Window Switch/Motor, Power Window Control Unit / Right Front Power Window Motor"],
+   ["15","Fuse ATO","7.5A","PGM-FI, Integrated Control Unit, Engine Control Module (ECM)"],
+   ["16","Fuse ATO","20A","Left Rear Power Window Motor, Power Window Control Unit"],
+   ["17","Fuse ATO","10A","Daytime Running Lights Control Unit, Option Connector \"B\""],
+   ["18","Fuse ATO","20A","Power Door Lock Control Unit"],
+   ["19","Fuse ATO","7.5A","Daytime Running Lights Control Unit, Option Connector \"C\""],
+   ["20","Fuse ATO","20A","Right Front Power Window Motor, Power Window Control Unit / Left Front Power Window Motor"],
+   ["21","Fuse ATO","10A","Clock, Gauge Assembly, Hazard Switch, Back-Up Lights, Interlock System, Integrated Control Unit, Roof Unlatched Indicator (del Sol), Shift Lock Solenoid, A/T Gear Position Switch, Master Switch (del Sol)"],
+   ["22","Fuse ATO","20A","Right Rear Power Window Motor"],
+   ["23","Fuse ATO","20A","Moon Roof Open/Close Relays, Windshield Washer Motor, Rear Window Washer Motor, Integrated Control Unit, Windshield Wiper Motor, Rear Window Wiper Motor, Power Window Relay"],
+   ["24","Fuse ATO","7.5A","Integrated Control Unit, Dome Light, Trunk/Cargo Area Light, Data Link Connector (DLC), Option Connector \"A\""],
+   ["25","Fuse ATO","7.5A","Power Mirrors, Anti-Lock Brake System, Air Delivery, Blower Motor Relay, Rear Window Defogger Relay, Radiator Fan Relay, Condenser Fan Relay"],
+   ["27","Fuse ATO","15A","PGM-FI, Alternator, Cruise Control, Gauge Assembly, Electrical Load Detection (ELD) Unit, Vehicle Speed Sensor (VSS)"],
+   ["28","Fuse ATO","30A","Moon Roof Motor"],
+   ["R1","Relay","","Power Window"],
+   ["R2","Relay","","Turn Signal Hazard"]
+  ]},
+  {"index":1,"name":"Engine Compartment Fuse Box","image_url":"https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-acura-integra-1997-genid-g3-1.webp","fuses":[
+   ["1","Fuse FLB/PAL 295","100A","Power distribution"],
+   ["2","Fuse ATO","20A","Horn system, Brake system, Key interlock solenoid (A/T)"],
+   ["3","Fuse ATO","10A","Turn signal/hazard relay"],
+   ["4","Fuse FLB/PAL 295","50A","Combination light switch, No.17 (10A) fuse"],
+   ["5","Fuse FLB/PAL 295","50A","Ignition switch (BAT)"],
+   ["6","Fuse FLB/PAL 295","40A","Blower motor"],
+   ["7","Fuse FLB/PAL 295","50A","Fuses No.1 (30A), 3 (7.5A), 4 (20A), 5 (20A), 7 (20A), 8 (20A)"],
+   ["8","Fuse ATO","20A","Condenser fan motor, A/C compressor clutch"],
+   ["9","Fuse ATO","15A","PGM-FI main relay"],
+   ["10","Fuse ATO","7.5A","ECM, TCM, Clock, Stereo radio/cassette player, Maintenance reminder unit"],
+   ["11","Fuse ATO","20A","Radiator fan motor"],
+   ["13","Fuse FLB/PAL 295","30A","Rear window defogger, Noise condenser"],
+   ["R1","Relay","","Radiator Fan Relay"],
+   ["R2","Relay","","Blower Motor Relay"]
+  ]},
+  {"index":2,"name":"ABS Fuse Box","image_url":"https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-acura-integra-1997-genid-g3-2.webp","fuses":[
+   ["1","Fuse MIDI","40A","(ABS MOTOR) ABS pump motor relay, ABS unit (10A) fuse"],
+   ["2","Fuse ATO","20A","(ABS B1) Right/left ABS front solenoids"],
+   ["3","Fuse ATO","15A","(ABS B2) ABS control unit, ABS rear solenoid"],
+   ["5","Fuse ATO","10A","(ABS UNIT) ABS control unit"],
+   ["R1","Relay","","ABS Pump Motor Relay"]
+  ]}
+ ]
+}
