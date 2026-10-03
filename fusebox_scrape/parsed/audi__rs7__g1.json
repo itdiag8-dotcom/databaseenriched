@@ -1,0 +1,438 @@
+{
+ "make_slug": "audi",
+ "model_slug": "rs7",
+ "brand_db": "Audi",
+ "model_db_name": "RS7 4G8",
+ "model_id": 389,
+ "generation_name": "1st generation",
+ "generation_code": "C7 / Typ 4G8",
+ "year_start": 2014,
+ "year_end": 2015,
+ "trim_label": "Facelift",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/audi/rs7/info/fusebox/2015/ver-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse block A -SA-",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs7-2015-genid-g1-ver-facelift-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Oil level and temperature sensor"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Fuel metering valves 1+2"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Engine cooling thermostat / camshaft adjusters / secondary air system / canister valve / turbo bypass valves / coolant pumps [engines CTGB, CTGE, CWUB, CWUC]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Boost pressure limitation solenoid valve / intake camshaft adjuster valves 1+2 / exhaust camshaft adjuster valves 1+2"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Voltage stabilizer / engine control unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Lambda probe heating elements 1+2 [engines CEUC, CEUD, CRDA, CRDB, CTGE, CWUA, CWUB]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Radiator fan control units 1+2"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Automatic transmission control unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Transmission oil cooling valve"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "30A",
+     "Ignition coils 1-8 with output stage"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heating elements 1+2 [engines CTGB, CTGE, CWUB, CWUC]"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "25A",
+     "Engine control unit [engines CEUC, CEUD, CRDA, CRDB, CTGE, CWUA, CWUB]"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "15A",
+     "Engine cooling thermostat / camshaft adjusters / secondary air system / coolant pumps [engines CEUC, CEUD, CRDA, CRDB, CTGE, CWUA, CWUB]"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "25A",
+     "Engine control unit [engines CTGB, CTGE, CWUB, CWUC]"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heating elements 1+2 after catalytic converter"
+    ],
+    [
+     "C",
+     "Fuse MAXI",
+     "50A",
+     "Secondary air injection pump fuse"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Secondary air pump relay"
+    ],
+    [
+     "R2.1",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R2.2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Engine component supply relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Additional coolant pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse box B -SB-",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs7-2015-genid-g1-ver-facelift-1.webp",
+   "fuses": [
+    [
+     "ST1-1",
+     "Fuse MINI",
+     "5A",
+     "ASR/ESP deactivation button, parking brake button, trailer detector CU, heater relays, headlight range CU, power steering CU, seat heating CU, air filtration CU"
+    ],
+    [
+     "ST1-2",
+     "Fuse MINI",
+     "5A",
+     "Air quality sensor, refrigerant pressure/temperature sender, toll sensor [Korea], humidity sensor, auto-dimming mirror relay, diagnostic socket"
+    ],
+    [
+     "ST1-4",
+     "Fuse MINI",
+     "5A",
+     "Onboard power supply CU / park assist CU / parking aid CU"
+    ],
+    [
+     "ST1-5",
+     "Fuse MINI",
+     "5A",
+     "ABS CU / sensor electronics CU / active steering CU"
+    ],
+    [
+     "ST1-6",
+     "Fuse MINI",
+     "10A",
+     "Front right headlight [LED headlights only]"
+    ],
+    [
+     "ST1-7",
+     "Fuse MINI",
+     "10A",
+     "Adaptive cruise control control units 1+2"
+    ],
+    [
+     "ST1-8",
+     "Fuse MINI",
+     "5A",
+     "Airbag CU / seat occupied recognition CU"
+    ],
+    [
+     "ST1-9",
+     "Fuse MINI",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "ST1-10",
+     "Fuse MINI",
+     "5A",
+     "Garage door opener CU / night vision CU / symposer CU / reversing camera CU [until March 2015]"
+    ],
+    [
+     "ST1-10",
+     "Fuse MINI",
+     "7.5A",
+     "Garage door opener CU / night vision CU / symposer CU / reversing camera CU [since April 2015]"
+    ],
+    [
+     "ST1-11",
+     "Fuse MINI",
+     "10A",
+     "Image processing control unit / camera control unit"
+    ],
+    [
+     "ST1-12",
+     "Fuse MINI",
+     "10A",
+     "Front left headlight [LED headlights only]"
+    ],
+    [
+     "ST1-13",
+     "Fuse MINI",
+     "5A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "ST1-14",
+     "Fuse ATO",
+     "30A",
+     "To fuse box F"
+    ],
+    [
+     "ST1-15",
+     "Fuse ATO",
+     "15A",
+     "Fuses 3, 12 and 13 in fuse box A"
+    ],
+    [
+     "ST1-16",
+     "Fuse ATO",
+     "40A",
+     "Starter relays 1+2"
+    ],
+    [
+     "ST2-1",
+     "Fuse MINI",
+     "5A",
+     "Connector for external audio devices"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "5A",
+     "Mobile phone amplifier / phone holder"
+    ],
+    [
+     "ST2-3",
+     "Fuse MINI",
+     "7.5A",
+     "Front passenger anatomical seat control unit"
+    ],
+    [
+     "ST2-5",
+     "Fuse MINI",
+     "5A",
+     "Sensor electronics control unit"
+    ],
+    [
+     "ST2-6",
+     "Fuse MINI",
+     "5A",
+     "Anti-theft alarm sensor / alarm siren / interior monitoring sensor / tilt sensor"
+    ],
+    [
+     "ST2-7",
+     "Fuse MINI",
+     "5A",
+     "Parking brake button / terminal 15 power supply relay"
+    ],
+    [
+     "ST2-8",
+     "Fuse MINI",
+     "5A",
+     "Roof electrical system control unit"
+    ],
+    [
+     "ST2-9",
+     "Fuse MINI",
+     "5A",
+     "Rain and light sensor"
+    ],
+    [
+     "ST2-10",
+     "Fuse MINI",
+     "5A",
+     "Driver's seat lumbar support adjustment switch"
+    ],
+    [
+     "ST2-11",
+     "Fuse MINI",
+     "7.5A",
+     "Driver's anatomical seat control unit"
+    ],
+    [
+     "ST2-12",
+     "Fuse MINI",
+     "10A",
+     "ABS control unit"
+    ],
+    [
+     "ST2-13",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "ST2-14",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST2-15",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST2-16",
+     "Fuse ATO",
+     "35A",
+     "Active steering control unit"
+    ],
+    [
+     "ST3-1",
+     "Fuse ATO",
+     "5A",
+     "Clutch pedal position sensor"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "5A",
+     "Fuel pump control unit / fuel pump relay"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "5A",
+     "Brake light switch / brake pedal position sensor"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "7.5A",
+     "Exhaust flap units 1+2"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "30A",
+     "Rear left door control unit"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "30A",
+     "Driver's door control unit"
+    ],
+    [
+     "ST3-7",
+     "Fuse ATO",
+     "20A",
+     "ABS control unit"
+    ],
+    [
+     "ST3-8",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor control unit"
+    ],
+    [
+     "ST3-9",
+     "Fuse ATO",
+     "35A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "20A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST3-12",
+     "Fuse ATO",
+     "20A",
+     "Sliding sunroof control unit / drive motor"
+    ]
+   ]
+  }
+ ]
+}
