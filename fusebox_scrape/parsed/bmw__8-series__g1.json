@@ -1,0 +1,371 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "8-series",
+ "brand_db": "BMW",
+ "model_db_name": "8 Series \u2013 E31",
+ "model_id": 713,
+ "generation_name": "1st generation",
+ "generation_code": "E31",
+ "year_start": 1990,
+ "year_end": 1999,
+ "trim_label": "",
+ "representative_year": 1994,
+ "source_url": "https://www.startmycar.com/bmw/8-series/info/fusebox/1994",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Front power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-8-series-1994-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "7.5A",
+     "Immobiliser, park ventilation, instrument cluster, IHKA (A/C unit), wiper relays, aux water pump, start, EML"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "7.5A",
+     "Light switch"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "7.5A",
+     "Light switch, lamp control module, brake lights"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "7.5A",
+     "Light switch, ignition switch"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "10A",
+     "Light switch"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "15A",
+     "Hazard lights, crash module"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "30A",
+     "Right pop-up headlight motor"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "7.5A",
+     "Lamp control module, cruise control, brake light switch, diagnostic connector pin 4, EML, EGS, ABS, ASC+T"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "20A",
+     "Lamp control module, wiper pressure control, horn relay, phone"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "7.5A",
+     "Left low beam headlamp"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "7.5A",
+     "Right low beam headlamp"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "15A",
+     "Immobiliser relay (early prod.), mirror motors/switch, washer heaters, cruise control, transmission range switch, start, EGS, EKM"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "7.5A",
+     "Left high beam headlamp"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "7.5A",
+     "Right high beam headlamp"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "10A",
+     "Washer pump relays (normal and intensive), wiper motor, general module (ZKE)"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "20A",
+     "Seat heaters, seat/mirror memory"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "7.5A",
+     "Body electronics module, unloader relay term 61, transmission range switch, reversing lights, anti-theft module, instrument cluster, charging system, start, EGS, ASC+T, MID"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "7.5A",
+     "Seat/mirror memory module, steering column memory, anti-theft module, sunblind, phone, shifter illumination, makeup lights, radio, remote locking, body electronics module, EGS, EKM"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Left pop-up headlight motor"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "7.5A",
+     "IHKA (A/C unit), final stage (sword), rear defogger/antenna"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "30A",
+     "Wiper relays (to motors)"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump (cyl 1-6 on V12), DME"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump for cyl 7-12 on V12, DME"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "30A",
+     "A/C relay, aux fan relays, DME (840Ci)"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "15A",
+     "FTP lights"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "30A",
+     "Headlight washers module"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "15A",
+     "Lambda sensor heaters, diagnostic connector (16), alternator pin 1 (early), Servotronic steering, DME, charging system"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "7.5A",
+     "Relay supply: compressor, aux fan high/low speed, aux water pump, general module, air conditioning, lock-sensor module, compressor cut-off, EDC III, ZKE"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "5A",
+     "EWS II transmitter module, instrument cluster, seat occupancy detector (mat)"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "5A",
+     "SRS system control module"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "5A",
+     "ASC+T, SRS module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "A/C blower, via F21, F19"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Unloader relay, terminal R, power to F15, F18"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter, immobilisation relay (early production)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper relay III, controlled via A5 relay module"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Wiper relay II, controlled via A5 relay module"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Wiper relay I, controlled via A5 relay module"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Auxiliary fan (high speed)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Wiper pressure control"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlight cleaning system"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "High-beam lights relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Servotronic steering"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Jumper for horn and telephone"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Auxiliary fan (normal speed)"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Crash control module"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Pop-up headlights"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "FTP light strip flashers (main beams in UK)"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Hazard flasher relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Unloader relay terminal 15, power to F12, F16, F17, F49"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Unloader relay, terminal 61, rear defogger, DWA"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "Compressor cut-off relay (early prod. only)"
+    ],
+    [
+     "R22",
+     "Relay",
+     "",
+     "Compressor control relay, supplies S96 refrigerant double pressure switch"
+    ],
+    [
+     "R23",
+     "Relay",
+     "",
+     "Intensive wash relay (F15)"
+    ],
+    [
+     "R24",
+     "Relay",
+     "",
+     "Washer pump relay (F15)"
+    ],
+    [
+     "R25",
+     "Relay",
+     "",
+     "Auxiliary water pump relay"
+    ],
+    [
+     "R26",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "R27",
+     "Relay",
+     "",
+     "Horn relay, power from F9"
+    ]
+   ]
+  }
+ ]
+}
