@@ -1,0 +1,378 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "ram-2500",
+ "brand_db": "Dodge",
+ "model_db_name": "Ram 2500",
+ "model_id": 1465,
+ "generation_name": "2nd generation (\"BE\")",
+ "generation_code": "g2",
+ "year_start": 1994,
+ "year_end": 2002,
+ "trim_label": "",
+ "representative_year": 2002,
+ "source_url": "https://www.startmycar.com/dodge/ram-2500/info/fusebox/2002/2nd-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-ram-2500-2002-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Heated seat relay, central timer module"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Blower motor relay, A/C heater temperature select, blend door actuator, heated seat switches, heated mirror switch"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Controller antilock brake (ABS)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Radio choke relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Radio, cluster, A/C heater control, cup holder lamp, ash receiver lamp, heated seat switches"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "Intermittent wiper switch, central timer module, windshield washer pump, wiper motor, wiper motor relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Park/neutral position switch (A/T), back-up lamp switch (M/T), daytime running lamp module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module, fuel pump relay (gasoline), engine control module (diesel)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Combination flasher"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Automatic day/night mirror, overhead console, central timer module, EVAP/purge solenoid, fuel heater relay (diesel), A/C compressor clutch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Power mirror switch, dome lamp, cargo lamp, data link connector, radio, glove box lamp, overhead console, underhood lamp, visor/vanity lamps"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Driver/passenger door window & lock switches, central timer module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Cluster"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Cluster"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module, passenger airbag on/off switch"
+    ],
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Driver/passenger door window & lock switches"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Driver/passenger power seat switches"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Combination flasher"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Heated seat"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-ram-2500-2002-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Junction block (passenger compartment fuses 1, 4, 12, 13, 14, 21)"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "20A",
+     "[Gasoline]: PCM, fuel pump relay; [Diesel]: engine control module, PCM, fuel pump relay"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "20A",
+     "Junction block (passenger compartment combination flasher)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Stop lamp switch, electric brake provision, center high mounted stop lamp, turn signal/hazard switch"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic shutdown relay, injectors, ignition coil, capacitor, oxygen sensors, oxygen sensor downstream relay, PCM"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fuel heater relay"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer tow connector, electric brake provision, trailer tow relay"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter motor relay"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "Ignition switch"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Controller antilock brake (ABS)"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor relay"
+    ],
+    [
+     "26",
+     "Fuse FLD/PAL 283",
+     "140A",
+     "Generator"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Right outboard headlamp"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Left outboard headlamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Left headlamp, right headlamp, quad high beam relay"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Headlamp switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Security relay, daytime running lamp module, fog lamp relay, headlamp beam select switch, outboard headlamps"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Horn relay, central timer module, clockspring"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Transmission control relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Quad high beam"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Oxygen sensor - rear"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Wiper motor"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Security"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "ASD"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Transmission control"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Fuel heater"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Blower motor"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Trailer tow"
+    ]
+   ]
+  }
+ ]
+}
