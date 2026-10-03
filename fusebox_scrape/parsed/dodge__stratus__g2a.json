@@ -1,0 +1,378 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "stratus",
+ "brand_db": "Dodge",
+ "model_db_name": "Stratus",
+ "model_id": 1481,
+ "generation_name": "Sedan (\"JR\")",
+ "generation_code": "g2a",
+ "year_start": 2001,
+ "year_end": 2006,
+ "trim_label": "Sedan",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/dodge/stratus/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuses (Power Distribution Center)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-stratus-2006-genid-g2a-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch (passenger compartment fuses 1, 4, 16, 19)"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter / power outlet"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp washer relay [export]"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Headlamp delay relay, multi-function switch, passenger compartment fuses 9, 10, 18"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger relay"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Air pump motor relay [2.4L PZEV]"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Starter relay, fuel pump relay, ignition switch (clutch interlock [M/T], TCM [A/T], body control module, fuses 14/15/17, engine fuse 23)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Transmission control relay, transmission control module, transmission solenoid/pressure switch assembly"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch (passenger fuse 11), Sentry Key immobilizer module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Stop lamp switch, passenger fuse 5, rear fog lamp relay"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "A/C compressor clutch relay, radiator fan low/high speed relays"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "20A",
+     "Heated seat relay (driver/passenger heated seat module)"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic shutdown relay (fuses 24, 25), powertrain control module"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Passenger compartment fuses 7, 8"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power top up/down relays [convertible]"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front wiper on/off relay (front wiper high/low relay)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Seat belt control module [convertible]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Multi-function switch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "ABS"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Sentry Key immobilizer, leak detection pump [USA], PCM, fuel pump relay, A/C clutch relay, radiator fan relays"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Sentry Key immobilizer, leak detection pump [USA], PCM, fuel pump relay, A/C clutch relay, radiator fan relays"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors, ignition coil, noise suppressor, manifold tuning valve [2.7L]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Generator, EGR solenoid, oxygen sensor, PCV heater [2.7L]"
+    ],
+    [
+     "26",
+     "Relay",
+     "",
+     "Transmission control"
+    ],
+    [
+     "27",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "29",
+     "Relay",
+     "",
+     "Front wiper (high/low)"
+    ],
+    [
+     "30",
+     "Relay",
+     "",
+     "Front wiper (on/off)"
+    ],
+    [
+     "31",
+     "Relay",
+     "",
+     "Rear fog lamp [export]"
+    ],
+    [
+     "32",
+     "Relay",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "Heated seats"
+    ],
+    [
+     "34",
+     "Relay",
+     "",
+     "Radiator fan (low speed)"
+    ],
+    [
+     "35",
+     "Relay",
+     "",
+     "Radiator fan (high speed)"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Automatic shutdown"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Headlamp washer"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-stratus-2006-genid-g2a-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "30A",
+     "Blower motor (MTC), blower motor power module (ATC)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "High beam right headlamp (USA), daytime running lamp module (USA), right lavalier module (export)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "High beam left headlamp (USA), left lavalier module (export)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "ABS, back-up lamp switch (M/T), transmission range sensor (A/T), DRL module, door lock/power mirror switches, brake transmission shift interlock, ATC head, compass/mini-trip computer"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Data link connector, dome lamp, power mirror switch, door/cylinder lock switches (VTSS), body control module, glove box lamp, radio, ATC head, trunk lamp, courtesy/map/vanity lamps, power antenna [export]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror, A/C heater control"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Multi-function switch (headlamp switch, headlamp leveling [export], BCM, park/turn signal lamps, tail/stop/side marker lamps, license lamp), instrument cluster"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Horn relay, audio amplifier"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Power door lock motors (body control module)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Daytime running lamp module, multi-function switch [export]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "TCM, BCM, Autostick switch, heated seat switch [export], instrument cluster, A/C heater control, data link connector"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Low beam, DRL module, left headlamp (USA), left lavalier module (export)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Low beam, multi-function switch (fog lamp, instrument cluster), right headlamp (USA), right lavalier module (export)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Multi-function switch, front wiper high/low relay, rear window defogger relay, body control module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Occupant restraint controller (airbag control module)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Occupant restraint controller, left/right side impact airbag control modules"
+    ],
+    [
+     "18",
+     "Circuit breaker ATO",
+     "",
+     "Power seat switch"
+    ],
+    [
+     "19",
+     "Circuit breaker ATO",
+     "",
+     "Power window switch, sunroof control module, window drop relay [convertible]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlamp delay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,324 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "stratus",
+ "brand_db": "Dodge",
+ "model_db_name": "Stratus",
+ "model_id": 1481,
+ "generation_name": "1st generation (\"JA\")",
+ "generation_code": "g1",
+ "year_start": 1995,
+ "year_end": 2000,
+ "trim_label": "",
+ "representative_year": 2000,
+ "source_url": "https://www.startmycar.com/dodge/stratus/info/fusebox/2000",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-stratus-2000-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch (instrument panel fuses 1, 4, 16, 19)"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "A/C compressor clutch relay, radiator fan high/low speed relays"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "Rear window defogger relay"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "40A",
+     "Headlamp switch, headlamp delay relay (BCM, instrument panel fuses 12, 13), instrument panel fuses 9, 10, 18"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "40A",
+     "Intermittent wiper relay (wiper high/low relay)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "20A",
+     "Seat belt control module [convertible]"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "Instrument panel fuses 7, 8"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "40A",
+     "Power top up/down relays [convertible]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay, powertrain control module, ABS"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch relay, radiator fan relays, fuel pump module, instrument cluster, Sentry Key immobilizer, brake shift interlock solenoid"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Starter relay, fuel pump relay, ignition switch (BCM, clutch interlock [M/T], TCM [EATX], panel fuses 14/15/17, engine fuses 9/10)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch (instrument panel fuse 11)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Combination flasher, Sentry Key immobilizer module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Automatic shutdown relay (fuel injectors, ignition coil pack [2.0L/2.4L], noise suppressor, generator, upstream oxygen sensor, distributor [2.5L], EGR solenoid), PCM"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Stop lamp switch, instrument panel fuse 5"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Transmission control module, transmission control relay"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor downstream"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power top [convertible]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Intermittent wiper"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Wiper (high/low)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Transmission control"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-stratus-2000-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (high beam), daytime running lamp module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "[Convertible]: Right headlamp (high beam), daytime running lamp module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (high beam)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "[Convertible]: Left headlamp (high beam)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Back-up lamp (switch [M/T], transmission range sensor [A/T]), power top relay [convertible], DRL module, door lock/power mirror switches, auto day/night mirror"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Dome lamp, data link connector, power antenna, map/trunk lamps, BCM, radio, glove box lamp, vanity lamps, garage door opener, illuminated entry relay, courtesy lamp, sunroof control module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror, A/C heater control"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Instrument cluster, headlamp switch"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter / power outlet, horn relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Body control module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Rear fog lamp switch, daytime running lamp module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "BCM, instrument cluster, Autostick switch, transmission control module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (low beam), daytime running lamp module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Right headlamp (low beam), front fog lamp switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Combination flasher, seat belt control module [convertible], intermittent wiper relay, wiper high/low relay, rear defogger relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "18",
+     "Circuit breaker ATO",
+     "",
+     "Power seat switch, decklid release relay"
+    ],
+    [
+     "19",
+     "Circuit breaker ATO",
+     "",
+     "Power window, master power window switch, window timer module, sunroof control module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlamp delay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ]
+   ]
+  }
+ ]
+}
