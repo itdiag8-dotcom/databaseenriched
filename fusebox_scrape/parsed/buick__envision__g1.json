@@ -1,0 +1,715 @@
+{
+ "make_slug": "buick",
+ "model_slug": "envision",
+ "brand_db": "Buick",
+ "model_db_name": "Envision",
+ "model_id": 949,
+ "generation_name": "1st generation",
+ "generation_code": "D2UB",
+ "year_start": 2014,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/buick/envision/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-envision-2020-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 1"
+    ],
+    [
+     "F02",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 2"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "",
+     "Canister purge"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "",
+     "FlexFuel / aero shutter motor"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "",
+     "A/C"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Heated seats"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Engine coolant pump"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "O2 sensor"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Ignition coils"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC transformer"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "",
+     "Liftgate"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "",
+     "ABS"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Washer pump"
+    ],
+    [
+     "F24",
+     "Fuse FMX/JCase",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "",
+     "Transmission oil pump"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "ABS"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Mirror defogger"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Various low current functions"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "",
+     "Automatic headlamp leveling"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "",
+     "Transmission oil pump"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "",
+     "Passenger ventilated seat"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "",
+     "Headlamp position"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "Interior rearview mirror"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "",
+     "Driver ventilated seat"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "",
+     "Right low-beam headlamp"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "",
+     "Engine control module / transmission control module"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "",
+     "Left low-beam headlamp"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Engine control module relay"
+    ],
+    [
+     "K04",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "K05",
+     "Relay",
+     "",
+     "Start solenoid relay"
+    ],
+    [
+     "K08",
+     "Relay",
+     "",
+     "Transmission oil pump relay"
+    ],
+    [
+     "K09",
+     "Relay",
+     "",
+     "Front wiper speed relay"
+    ],
+    [
+     "K11",
+     "Relay",
+     "",
+     "Headlamp washers relay"
+    ],
+    [
+     "K12",
+     "Relay",
+     "",
+     "High-beam headlamps relay"
+    ],
+    [
+     "K13",
+     "Relay",
+     "",
+     "Low-beam headlamps relay"
+    ],
+    [
+     "K14",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "K15",
+     "Relay",
+     "",
+     "Rear window / mirror defogger relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-envision-2020-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "",
+     "Front HVAC blower"
+    ],
+    [
+     "F3",
+     "Circuit breaker",
+     "",
+     "Power seat"
+    ],
+    [
+     "F4",
+     "Circuit breaker",
+     "",
+     "Lighter (China only)"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "",
+     "Front power windows"
+    ],
+    [
+     "F8",
+     "Circuit breaker",
+     "",
+     "Mid accessory power outlet"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "",
+     "Rear power"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Outside rearview mirror"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Data link connector"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Sensing diagnostic module"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "HVAC"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Liftgate release"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Passive entry / passive start"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Occupant sensor"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Column lock assembly"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "USB"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Rear HVAC blower"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "Universal remote system"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Park assist"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Display"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-envision-2020-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "",
+     "DC-AC"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Memory seat module"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Central gateway module"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Rear accessory power outlet"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Rear heated seat"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Logistics relay"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Rear HVAC"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Power liftgate HF sensor"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Side blind zone alert"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Left parking lamp"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Right parking lamp"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Rear drive control module"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Lumbar seat"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Rear heated seat"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "",
+     "Rear drive control module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Trailer left turn signal lamp"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Trailer right turn signal lamp"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "Parking lamps relay"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Run relay"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Logistics relay"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "DC-AC relay"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "Parking lamps relay"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Trailer right turn signal lamp relay"
+    ],
+    [
+     "K9",
+     "Relay",
+     "",
+     "Trailer left turn signal lamp relay"
+    ]
+   ]
+  }
+ ]
+}

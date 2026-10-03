@@ -1,0 +1,492 @@
+{
+ "make_slug": "buick",
+ "model_slug": "envision",
+ "brand_db": "Buick",
+ "model_db_name": "Envision",
+ "model_id": 949,
+ "generation_name": "Envision S",
+ "generation_code": "E2UB/E2SB",
+ "year_start": 2020,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/buick/envision/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-envision-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMM/MCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "F02",
+     "Fuse MICRO2",
+     "20A",
+     "Accessory power 3"
+    ],
+    [
+     "F03",
+     "Fuse MICRO2",
+     "10A",
+     "Heated steering wheel module"
+    ],
+    [
+     "F04",
+     "Fuse MICRO2",
+     "20A",
+     "Exterior lighting module 2"
+    ],
+    [
+     "F07",
+     "Fuse MICRO2",
+     "2A",
+     "Steering wheel controls"
+    ],
+    [
+     "F08",
+     "Fuse MICRO2",
+     "15A",
+     "Auxiliary audio/video"
+    ],
+    [
+     "F09",
+     "Fuse MICRO3",
+     "10A",
+     "ESM / body control module 1"
+    ],
+    [
+     "F10",
+     "Fuse MICRO3",
+     "10A",
+     "Tail lamps LH/TH"
+    ],
+    [
+     "F11",
+     "Fuse MICRO3",
+     "10A",
+     "VCD / head-up display"
+    ],
+    [
+     "F13",
+     "Fuse MICRO3",
+     "10A",
+     "Diagnostic link connector / wireless charger module"
+    ],
+    [
+     "F14",
+     "Fuse MICRO3",
+     "10A",
+     "Headlamp"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module / transmission control module"
+    ],
+    [
+     "F16",
+     "Fuse FMM/MCase",
+     "15A",
+     "Power outlet"
+    ],
+    [
+     "F17",
+     "Fuse MICRO3",
+     "10A",
+     "Safety 1 & 2"
+    ],
+    [
+     "F18",
+     "Fuse MICRO3",
+     "10A",
+     "EBCM RC"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "10A",
+     "Microbas RC"
+    ],
+    [
+     "F20",
+     "Fuse MICRO3",
+     "5A",
+     "Telematics control platform / central gateway module"
+    ],
+    [
+     "F21",
+     "Fuse MICRO3",
+     "15A",
+     "VCU battery"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "10A",
+     "Sensing diagnostic module"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "10A",
+     "Overhead console"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "10A",
+     "HVAC & auxiliary USB"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "20A",
+     "Exterior lighting module 1"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "10A",
+     "HVAC display"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "20A",
+     "Exterior lighting module 6"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "10A",
+     "Blind spot module"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "20A",
+     "Body control module 3"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "10A",
+     "SDM & automatic occupancy sensor"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "20A",
+     "Audio amplifier (UQG)"
+    ],
+    [
+     "F35",
+     "Fuse FMM/MCase",
+     "40A",
+     "Audio amplifier (UQS)"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "40A",
+     "DC/DC 2"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "20A",
+     "DC/AC inverter"
+    ],
+    [
+     "F39",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module 4"
+    ],
+    [
+     "F40",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module 2"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MINI",
+     "",
+     "Power outlet aux DC row 1"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "K04",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-envision-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse ATO",
+     "",
+     "Aeroshutter"
+    ],
+    [
+     "F07",
+     "Fuse MICRO2",
+     "",
+     "Engine control module main"
+    ],
+    [
+     "F08",
+     "Fuse MICRO2",
+     "",
+     "ECM powertrain ignition 2"
+    ],
+    [
+     "F09",
+     "Fuse ATO",
+     "",
+     "ECM & ignition coil"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "",
+     "WRAF / step cam / APMB / EVAP"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "",
+     "ECM V battery"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "",
+     "A/C control"
+    ],
+    [
+     "F19",
+     "Fuse FMM/MCase",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "",
+     "Coolant water pump"
+    ],
+    [
+     "F25",
+     "Fuse FMM/MCase",
+     "",
+     "Starter motor"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting module 7"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "",
+     "Left headlamp"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting battery 3"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting battery 5"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "",
+     "Right headlamp"
+    ],
+    [
+     "F40",
+     "Fuse ATO",
+     "",
+     "Door panel switch"
+    ],
+    [
+     "F41",
+     "Fuse ATO",
+     "",
+     "Memory seat module driver/passenger"
+    ],
+    [
+     "F42",
+     "Fuse ATO",
+     "",
+     "HFRC"
+    ],
+    [
+     "F43",
+     "Fuse ATO",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "F44",
+     "Fuse ATO",
+     "",
+     "Automatic lighting / RFR"
+    ],
+    [
+     "F45",
+     "Fuse ATO",
+     "",
+     "Rear seat"
+    ],
+    [
+     "F46",
+     "Fuse ATO",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "F47",
+     "Fuse ATO",
+     "",
+     "Rear drive control module 2"
+    ],
+    [
+     "F48",
+     "Fuse FMM/MCase",
+     "",
+     "DC-DC"
+    ],
+    [
+     "F50",
+     "Fuse FMM/MCase",
+     "",
+     "Left window lifter motor"
+    ],
+    [
+     "F51",
+     "Fuse FMM/MCase",
+     "",
+     "Rear drive control module 1"
+    ],
+    [
+     "F52",
+     "Fuse FMM/MCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "F54",
+     "Fuse FMM/MCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "",
+     "Trailer parking lamps"
+    ],
+    [
+     "F59",
+     "Fuse FMM/MCase",
+     "",
+     "Electronic brake control module 1"
+    ],
+    [
+     "F60",
+     "Fuse MICRO2",
+     "",
+     "Horn"
+    ],
+    [
+     "F61",
+     "Fuse FMM/MCase",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "F62",
+     "Fuse FMM/MCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F63",
+     "Fuse FMM/MCase",
+     "",
+     "Power tailgate"
+    ],
+    [
+     "F64",
+     "Fuse FMM/MCase",
+     "",
+     "Right window lifter motor"
+    ],
+    [
+     "F66",
+     "Fuse FMM/MCase",
+     "",
+     "Sunroof motor"
+    ],
+    [
+     "F70",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F71",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting module 4"
+    ],
+    [
+     "F72",
+     "Fuse MICRO2",
+     "",
+     "Fuel tank zone module"
+    ],
+    [
+     "F78",
+     "Fuse ATO",
+     "",
+     "Trailer stop/turn right/left"
+    ],
+    [
+     "F79",
+     "Fuse MICRO2",
+     "",
+     "Transmission control module"
+    ]
+   ]
+  }
+ ]
+}
