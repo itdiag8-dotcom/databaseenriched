@@ -776,9 +776,10 @@
   "cupra/formentor": "no_data",
   "cupra/leon": "no_data",
   "cupra/tavascan": "no_data",
-  "cupra/terramar": "no_data"
+  "cupra/terramar": "no_data",
+  "dacia/lodgy": "done"
  },
- "last_updated": "2026-10-03T23:30:25.419993",
+ "last_updated": "2026-10-03T23:31:07.277345",
  "current_brand": "dacia",
  "audi_done_models": [
   "a1",
@@ -1518,5 +1519,12 @@
   "leon",
   "tavascan",
   "terramar"
+ ],
+ "dacia_model_slugs": [
+  "duster",
+  "lodgy",
+  "logan",
+  "sandero",
+  "supernova"
  ]
 }
