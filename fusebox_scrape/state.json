@@ -316,11 +316,11 @@
   "dacia": "all 5 models processed",
   "daewoo": "all 5 models done",
   "daihatsu": "terios/sirion/charade done; cuore pre-2000; copen no_data",
-  "dodge": true
+  "dodge": true,
+  "ds": true
  },
  "in_progress": null,
  "queue_next_makes": [
-  "ds",
   "ferrari",
   "fiat",
   "ford",
@@ -822,10 +822,11 @@
   "ds/ds3": "done",
   "ds/ds3-cabrio": "done",
   "ds/ds4": "done",
-  "ds/ds5": "no_data"
+  "ds/ds5": "no_data",
+  "ds/ds7": "done"
  },
- "last_updated": "2026-10-03T23:57:54.535461",
- "current_brand": "ds",
+ "last_updated": "2026-10-03T23:58:46.897855",
+ "current_brand": "ferrari",
  "audi_done_models": [
   "a1",
   "a2",

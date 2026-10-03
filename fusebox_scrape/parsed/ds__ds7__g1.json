@@ -1,0 +1,553 @@
+{
+ "make_slug": "ds",
+ "model_slug": "ds7",
+ "brand_db": "DS",
+ "model_db_name": "AUTOMOBILES DS 7",
+ "model_id": 1499,
+ "generation_name": "1st generation (\"X74\")",
+ "generation_code": "g1",
+ "year_start": 2018,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/ds/ds7/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ds-ds7-2022-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioner fan"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "60A",
+     "ABS/ESP computer"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "50A",
+     "Interior fuse box 3"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "40A",
+     "ABS/ESP computer"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "50A",
+     "Intelligent switch unit (right turn signals, front right side marker, right brake lights, left reverse lights, right fog lights); 20A heated windshield"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "60A",
+     "Two-speed cooling fan control unit (GMV); 20A automatic gearbox computer (thermal)"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "20A",
+     "Intelligent switch box"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Engine control fuel pump"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Piloted lift pump, intake/exhaust solenoid valves, piloted thermostat, oil pump solenoid valve, intake air flow meter, oxygen sensors"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Engine computer, diesel flow control pump solenoid, turbo pressure control solenoid, purge heater, adjustable intake/exhaust solenoid valves, oxygen sensors"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Engine computer"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "5A",
+     "Instruments, GMV relay, electric water cooling turbo, intelligent service unit"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "Intelligent switch box"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Battery charge level block"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lights (10A)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Heated windshield / front left fog lamp"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "GMP relay diagnostics, BFRM, BSI1, engine computer, lower NOx sensor, injectors"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Engine computer / charge pump, ignition coils"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "25A",
+     "Reserve - taxi"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "40A",
+     "Starter/generator"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "30A",
+     "Trailer power supply"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "",
+     "Interior fuse box 3"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "20A",
+     "Fog lights"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "25A",
+     "Intelligent switching unit (right low beam, right reversing lights, left fog lights, left rear parking lights, third brake light)"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "30A",
+     "Urea pump power supply and urea tube heating resistor, NOx sensor, engine computer"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windshield wiper"
+    ],
+    [
+     "F30",
+     "Fuse MIDI",
+     "80A",
+     "Pre-heating block"
+    ],
+    [
+     "F31",
+     "Fuse MIDI",
+     "80A",
+     "Switching and protection unit"
+    ],
+    [
+     "F32",
+     "Fuse MIDI",
+     "80A",
+     "Power steering; left low beam, static turning lights, side indicators, left turn signals, side lights, left brake lights, license plate lamps"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine control computer / Euro6 diesel (SCR module power supply)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Air conditioning compressor / heated windshield"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter / thermal preconditioning"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fog lights / daytime running lights"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Air conditioner fan"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ds-ds7-2022-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Electrochrome rearview mirror, rear screen demisting, diesel particle filter, parking sensors, power steering, LPG system, clutch pedal switch, door mirror adjustment"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Trailer position control module"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Window washer (front/rear)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Window washer (front/rear)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Rear socket / USB"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "",
+     "Door lock / rear door lock"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "",
+     "Door lock / rear door lock"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Steering column electrical system / steering wheel controls"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Trailer power supply"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Instrument panel"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Automatic gearbox speed selector, brake pedal switch, Stop & Start system"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Climate control system"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Alarm, telematic unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Infotainment system / rain and light sensor, air conditioning, front camera"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Stop-Start system / diagnostic connector module / brake system"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Infotainment system"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Alarm (siren), additional heating/ventilation remote control receiver"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Alarm"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Electronic stability control"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Airbag"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Parking sensors, rear camera, telematic screen"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Seat belt reminder"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Camera / rain sensor / automatic lighting control"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "",
+     "START/STOP switch or button, anti-theft alarm"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Heated rear window / heated windshield / wireless smartphone charger"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Light switch / diagnostic connector module"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "Lighting"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Front socket"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Additional Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ds-ds7-2022-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMX/JCase",
+     "",
+     "Heater / rear window defroster"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "",
+     "Heated exterior side mirrors"
+    ],
+    [
+     "F03",
+     "Fuse ATO",
+     "",
+     "Electric windows - front"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "",
+     "Folding side mirrors / adjustable outside mirrors"
+    ],
+    [
+     "F05",
+     "Fuse ATO",
+     "",
+     "Power windows - rear"
+    ],
+    [
+     "F06",
+     "Fuse ATO",
+     "",
+     "12V socket in boot"
+    ],
+    [
+     "F07",
+     "Fuse ATO",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "F08",
+     "Fuse ATO",
+     "",
+     "Audio amplifier"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Panoramic roof"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Front seat massage function"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "",
+     "Sunroof"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Seat heating relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear window defroster / heater relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power window relay"
+    ]
+   ]
+  }
+ ]
+}
