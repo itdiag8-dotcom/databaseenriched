@@ -220,6 +220,27 @@
     "virage"
    ],
    "status": "DONE"
+  },
+  "audi": {
+   "status": "DONE",
+   "note": "53 models processed; 38 with data, 15 no_data",
+   "no_data_on_site": [
+    "a7-e",
+    "a8-e",
+    "allroad",
+    "fox",
+    "q5-e",
+    "q5-hybrid",
+    "q6-e-tron",
+    "q8-e-tron",
+    "rs-e-tron",
+    "rs-q8",
+    "rs2-avant",
+    "s1",
+    "s8",
+    "sq8",
+    "tt-rs"
+   ]
   }
  },
  "in_progress": {},
@@ -360,7 +381,7 @@
   ]
  },
  "last_updated": "2026-10-03",
- "current_brand": "audi",
+ "current_brand": "austin",
  "audi_done_models": [
   "a1",
   "a2",
@@ -413,7 +434,8 @@
   "sq7",
   "sq8",
   "tt",
-  "tt-rs"
+  "tt-rs",
+  "tts"
  ],
  "no_data": [
   "audi/a7-e",
