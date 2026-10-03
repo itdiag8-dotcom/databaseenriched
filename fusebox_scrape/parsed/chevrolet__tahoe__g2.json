@@ -1,0 +1,686 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "tahoe",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Tahoe",
+ "model_id": 1201,
+ "generation_name": "2nd generation (GMT820)",
+ "generation_code": "g2",
+ "year_start": 2000,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/chevrolet/tahoe/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tahoe-2005-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Rear window wiper switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Special equipment option accessory"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Windshield wipers"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Truck body controller accessory"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Ignition, heated seats"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Four-wheel drive system, auxiliary battery"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Climate control system"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Inside rearview mirror, climate control system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Cruise control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Anti-lock brake system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "PCM, TCM"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Truck body controller"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Vehicle and trailer high mounted stoplamp"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Left turn signal / stop trailer"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Left turn signals and sidemarkers"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Vehicle stoplamps, brake module, electronic throttle control module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Right turn signal / stop trailer"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Right turn signals and sidemarkers"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Driver door module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Rear cargo area power outlets"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Power door lock system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Rear electronic climate control, liftgate"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Truck body controller"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Flasher module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Truck body controller"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Truck body controller"
+    ],
+    [
+     "28",
+     "Circuit breaker MAXI",
+     "",
+     "Left power window circuit breaker"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power door lock relay (lock function)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power door lock relay (unlock function)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear fog lamp (export only)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Power door lock relay (driver's door unlock function)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Center Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tahoe-2005-genid-g2-1.webp",
+   "fuses": [
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Driver and passenger seat module circuit breaker"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Right power window circuit breaker"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tahoe-2005-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Auxiliary power [single battery and diesels only] / dual battery (TP2)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Mid bussed electrical center power feed, front seats, right doors"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "Front climate control fan"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "Left bussed electrical center, door modules, door locks, auxiliary power outlets rear cargo area and instrument panel"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Accessory power / trailer wiring brake feed"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "",
+     "Anti-lock brakes"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "",
+     "Vehicle stability"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "",
+     "Ignition power"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "",
+     "Ignition power"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Left bussed electrical center, left doors, truck body controller, flasher module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Parking lamps trailer wiring"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Right rear parking and sidemarker lamps"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Left rear parking and sidemarker lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Interior lamps"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Stoplamps"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Truck body controller battery feed"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Off-road lamps"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid / Quadrasteer module power"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Rear climate control"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet - console"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Powertrain control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Electronic throttle control, electronic brake controller"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster, A/C relay, turn signal/hazard switch, starter relay"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Ride control"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Backup lamps trailer wiring"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Powertrain control module, fuel pump"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Back-up lamps, automatic transmission shift lock control system"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Supplemental inflatable restraint system"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Front parking lamps, sidemarker lamps"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Rear defog relay"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Truck body controller ignition"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "High beam headlamp - left"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster / driver information center"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Climate control controller"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "High beam headlamp - right"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Rear wiper/washer"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "Audio system"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Mid bussed electrical center, HomeLink, rear heated seats"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Headlamp low beam - left"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Brake transmission shift interlock system"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Starting system"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "",
+     "Headlamp low beam - right"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "",
+     "Windshield and rear window washer pump"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "",
+     "OnStar / rear seat entertainment"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "",
+     "Radio amplifier"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "",
+     "Electric adjustable pedals"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "",
+     "All-wheel drive module"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "",
+     "Supplemental brake assist"
+    ],
+    [
+     "65",
+     "Fuse MIDI",
+     "",
+     "Gasoline accessory power"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Parking lamps relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlamp high beam relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Daytime running lamps relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlamp low beam relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Windshield and rear window washer pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Auxiliary Electric Cooling Fan Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tahoe-2005-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan fuse"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Cooling fan relay fuse"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan relay 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay 3"
+    ]
+   ]
+  }
+ ]
+}
