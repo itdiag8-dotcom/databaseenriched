@@ -1,0 +1,246 @@
+{
+ "make_slug": "daihatsu",
+ "model_slug": "terios",
+ "brand_db": "Daihatsu",
+ "model_db_name": "TERIOS (J2_)",
+ "model_id": 4816,
+ "generation_name": "2nd generation (\"J200\", \"J210\", \"J211\")",
+ "generation_code": "g2",
+ "year_start": 2007,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/daihatsu/terios/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Main fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daihatsu-terios-2017-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electrical system"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper/washer"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "(AC. AIRE TRAS) Rear air conditioning system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "IG1 backup"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "ECU IG1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "(ACC) Accessory circuits"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(CIG) Cigar lighter / power outlet"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(D L) Power door lock system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "(ST) Starter system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "ECU IG2"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse and relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daihatsu-terios-2017-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(ECU B) Engine control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "(ABS 2) Anti-lock braking system"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(TAIL) Tail lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "(DOME) Dome light and interior light"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(BACKUP) Backup lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(MGC) A/C magnetic clutch"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(EFI) Multiport fuel injection system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "(FOG LAMP RIGHT) Right-hand front fog light"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "(FOG LAMP LEFT) Left-hand front fog light"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(HEADLAMP LOW RIGHT) Right-hand headlight low beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(HEADLAMP LOW LEFT) Left-hand headlight low beam"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(HEADLAMP HIGH RIGHT) Right-hand headlight high beam"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(HEADLAMP HIGH LEFT) Left-hand headlight high beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(SEAT HEATER) Seat heater"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "(HEATER) Air conditioning system"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "(POWER WINDOWS) Power windows"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "(RAD) Audio system"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "(AM 2) Starter system"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS 1) Anti-lock braking system"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "50A",
+     "(AM 1) Starter system"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "(EPS) Electric power steering"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IGNITION) Ignition"
+    ]
+   ]
+  }
+ ]
+}

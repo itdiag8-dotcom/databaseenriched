@@ -314,11 +314,11 @@
   "citroen": "all 44 models processed (post-2000 rule applied from jumpy onward)",
   "cupra": "all 6 models no_data",
   "dacia": "all 5 models processed",
-  "daewoo": "all 5 models done"
+  "daewoo": "all 5 models done",
+  "daihatsu": "terios/sirion/charade done; cuore pre-2000; copen no_data"
  },
  "in_progress": null,
  "queue_next_makes": [
-  "daihatsu",
   "dodge",
   "ds",
   "ferrari",
@@ -786,10 +786,15 @@
   "daewoo/lanos": "done",
   "daewoo/nubira": "done",
   "daewoo/kalos": "done",
-  "daewoo/tacuma": "done"
+  "daewoo/tacuma": "done",
+  "daihatsu/terios": "done",
+  "daihatsu/sirion": "done",
+  "daihatsu/charade": "done",
+  "daihatsu/cuore": "skipped_pre2000",
+  "daihatsu/copen": "no_data"
  },
- "last_updated": "2026-10-03T23:38:00.419313",
- "current_brand": "daihatsu",
+ "last_updated": "2026-10-03T23:39:46.556208",
+ "current_brand": "dodge",
  "audi_done_models": [
   "a1",
   "a2",
