@@ -553,9 +553,10 @@
   "bmw/z3-m": "done",
   "bmw/z4": "done",
   "bmw/z4-m": "done",
-  "bmw/z8": "no_data"
+  "bmw/z8": "no_data",
+  "buick/cascada": "done"
  },
- "last_updated": "2026-10-03T20:23:58.841082",
+ "last_updated": "2026-10-03T20:24:46.836158",
  "current_brand": "buick",
  "audi_done_models": [
   "a1",
@@ -743,5 +744,29 @@
   "z4",
   "z4-m",
   "z8"
+ ],
+ "buick_model_slugs": [
+  "cascada",
+  "century",
+  "enclave",
+  "encore",
+  "encore-gx",
+  "envision",
+  "envista",
+  "lacrosse",
+  "lesabre",
+  "lucerne",
+  "park-avenue",
+  "rainier",
+  "reatta",
+  "regal",
+  "rendezvous",
+  "riviera",
+  "roadmaster",
+  "terraza",
+  "verano"
+ ],
+ "buick_done_models": [
+  "cascada"
  ]
 }
