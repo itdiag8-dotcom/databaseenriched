@@ -1,0 +1,284 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "dispatch",
+ "brand_db": "Citroen",
+ "model_db_name": "Dispatch",
+ "model_id": null,
+ "generation_name": "Other versions",
+ "generation_code": "other-2011",
+ "year_start": 2011,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/citroen/dispatch/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-dispatch-2011-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Airbag control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Steering wheel angle sensor, diagnostic socket, ESP sensor, manual ventilation, clutch switch, headlight height, particulate filter pump"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "Electric mirrors, passenger window motor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "Front power window supply"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Ceiling lights and glove box light"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Multifunction display, anti-theft alarm siren, car radio, CD changer, radiotelephone, trailer service box (aftermarket), bodybuilder transformer box"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Cargo area accessory socket"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Rear seat adjuster, steering wheel controls, instrument panel"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic socket, anti-theft switch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Hands-free kit, airbag control unit, parking assist control unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Engine service box, trailer service box"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Rain sensor, automatic air conditioning, instrument panel"
+    ],
+    [
+     "15",
+     "Fuse MAXI",
+     "30A",
+     "Locking/unlocking/deadlocking of openings"
+    ],
+    [
+     "17",
+     "Fuse",
+     "40A",
+     "Heated rear window, heated mirrors"
+    ],
+    [
+     "17",
+     "Fuse",
+     "10A",
+     "Heated mirrors only"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Battery module fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-dispatch-2011-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Heated seats"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "40A",
+     "Trailer service box (post-equipment) / bodybuilder transformer box (cab floor)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "50A",
+     "Trailer service box (post-equipment) / bodybuilder transformer box (cab floor)"
+    ],
+    [
+     "36",
+     "Fuse",
+     "15A",
+     "Swing door locks"
+    ],
+    [
+     "37",
+     "Fuse",
+     "10A",
+     "Swing door locks"
+    ],
+    [
+     "38",
+     "Fuse",
+     "20A",
+     "Swing door rear window wiper"
+    ],
+    [
+     "40",
+     "Fuse",
+     "5A",
+     "Folding mirrors"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-dispatch-2011-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit, fuel and air supply devices, fan unit"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Front and rear windshield washer pump"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer pump"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Fuel supply device"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Power steering, secondary brake pedal switch"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Braking system (ABS/ESP)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Starter control"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Main brake pedal switch"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Fuel and air supply devices, anti-pollution devices"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "40A",
+     "Front ventilation"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "30A",
+     "Front windshield wipers"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "40A",
+     "Built-in systems interface"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Power and auxiliary services fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-dispatch-2011-3.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Contact relay and optional generator"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "12V trailer power supply"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Permanent power supply for converters"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights"
+    ]
+   ]
+  }
+ ]
+}
