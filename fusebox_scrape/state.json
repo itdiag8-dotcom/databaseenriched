@@ -203,20 +203,15 @@
         "zdx"
       ],
       "scraped": [
-        "mdx g4 (2024)",
-        "mdx g3 (2020)",
-        "mdx g2 (2013)",
-        "mdx g1 (2006)",
-        "tl g4 (2014)",
-        "tl g3 (2008)",
-        "tl g2 (2003)",
-        "tl g1 (1998)",
-        "rdx g3 (2025)"
+        "mdx g1-g4",
+        "tl g1-g4",
+        "rdx g1-g3",
+        "tsx g1-g2",
+        "tlx g1-g2",
+        "ilx g1"
       ],
       "todo": [
-        "rdx g2 (TB3/TB4 2013-2018) rep 2018 -> /acura/rdx/info/fusebox/2018",
-        "rdx g1 (TB1/TB2 2007-2012) rep -> /acura/rdx/info/fusebox/2012/1st-gen",
-        "tsx, tlx, ilx, integra, cl, rl, rlx, rsx, zdx, nsx, legend, ilx-hybrid, mdx-sport-hybrid, rlx-sport-hybrid (fetch /info/fusebox index for each first)"
+        "integra, cl, rl, rlx, rsx, zdx, nsx, legend, ilx-hybrid, mdx-sport-hybrid, rlx-sport-hybrid (fetch /info/fusebox index for each first)"
       ],
       "status": "IN_PROGRESS"
     }
