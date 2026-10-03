@@ -1,0 +1,817 @@
+{
+ "make_slug": "audi",
+ "model_slug": "q5",
+ "brand_db": "Audi",
+ "model_db_name": "Q5 FY",
+ "model_id": 334,
+ "generation_name": "2nd generation",
+ "generation_code": "Typ 80A / Typ FY",
+ "year_start": 2018,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/audi/q5/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's/front left passenger's footwell (4-cylinder petrol engine)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-q5-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "A4",
+     "Fuse MINI",
+     "5A",
+     "Fuel tank shut-off valve / coolant circulation pump"
+    ],
+    [
+     "A4",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel tank shut-off valve / coolant circulation pump"
+    ],
+    [
+     "A5",
+     "Fuse MINI",
+     "5A",
+     "Brake light switch"
+    ],
+    [
+     "A6",
+     "Fuse MINI",
+     "15A",
+     "Valve lift control actuators 1-8"
+    ],
+    [
+     "A7",
+     "Fuse MINI",
+     "15A",
+     "Lambda probe 1 heating element after catalytic converter"
+    ],
+    [
+     "A8",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel tank leak diagnostic module, electrohydraulic engine mount valves, after-run coolant pump, radiator shutter actuator"
+    ],
+    [
+     "A9",
+     "Fuse MINI",
+     "5A",
+     "Engine electronics power supply relay"
+    ],
+    [
+     "A10",
+     "Fuse MINI",
+     "5A",
+     "Oil level and temperature sensor"
+    ],
+    [
+     "A11",
+     "Fuse MINI",
+     "5A",
+     "Starter-generator [optional] / clutch pedal position sensor"
+    ],
+    [
+     "A12",
+     "Fuse MINI",
+     "10A",
+     "Valve lift actuators 1-8, canister valve 1, camshaft adjustment valves, turbo wastegate valve, inlet flaps valve, oil pressure valve, piston cooling valve"
+    ],
+    [
+     "A13",
+     "Fuse MINI",
+     "5A",
+     "Radiator fan control units 1+2"
+    ],
+    [
+     "A14",
+     "Fuse ATO",
+     "15A",
+     "Engine control unit / injectors 2 cylinders 1-4"
+    ],
+    [
+     "A15",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe 1 heating elements before/after catalytic converter"
+    ],
+    [
+     "A16",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump control unit"
+    ],
+    [
+     "B1",
+     "Fuse MINI",
+     "5A",
+     "Alarm sensor / alarm siren"
+    ],
+    [
+     "B2",
+     "Fuse MINI",
+     "5A",
+     "Main relay / engine control unit"
+    ],
+    [
+     "B3",
+     "Fuse MINI",
+     "7.5A",
+     "Front left lumbar support switch, seat+steering column memory control unit, anatomical driver seat control unit, lumbar supports [LHD/RHD], driver's seat adjustment control unit"
+    ],
+    [
+     "B4",
+     "Fuse MINI",
+     "7.5A",
+     "Selector"
+    ],
+    [
+     "B5",
+     "Fuse MINI",
+     "15A",
+     "On-board power supply control unit: high/low tone signals"
+    ],
+    [
+     "B6",
+     "Fuse MINI",
+     "5A",
+     "Electromechanical parking brake button"
+    ],
+    [
+     "B7",
+     "Fuse MINI",
+     "10A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "B8",
+     "Fuse MINI",
+     "5A",
+     "Roof electrical system control unit / front roof module"
+    ],
+    [
+     "B9",
+     "Fuse MINI",
+     "5A",
+     "Emergency call module and communication unit control unit"
+    ],
+    [
+     "B10",
+     "Fuse MINI",
+     "5A",
+     "Airbag control unit"
+    ],
+    [
+     "B11",
+     "Fuse MINI",
+     "5A",
+     "ABS control unit"
+    ],
+    [
+     "B12",
+     "Fuse MINI",
+     "10A",
+     "Rain and light sensor / light sensor / diagnostic socket"
+    ],
+    [
+     "B13",
+     "Fuse MINI",
+     "20A",
+     "A/C compressor electromagnetic clutch / regulating valve"
+    ],
+    [
+     "B14",
+     "Fuse ATO",
+     "20A",
+     "Driver [RHD] / front passenger [LHD] door control unit"
+    ],
+    [
+     "B15",
+     "Fuse ATO",
+     "20A",
+     "Rear interior light / front ceiling module"
+    ],
+    [
+     "B16",
+     "Fuse ATO",
+     "30A",
+     "Brake system receiver [hybrid]"
+    ],
+    [
+     "C1",
+     "Fuse ATO",
+     "30A",
+     "Front/rear seat heating elements"
+    ],
+    [
+     "C2",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor control unit"
+    ],
+    [
+     "C3",
+     "Fuse ATO",
+     "30A",
+     "Headlight front left"
+    ],
+    [
+     "C4",
+     "Fuse ATO",
+     "30A",
+     "Sliding sunroof control unit"
+    ],
+    [
+     "C5",
+     "Fuse ATO",
+     "20A",
+     "Driver [LHD] / front passenger [RHD] door control unit"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter / 12V sockets 1-4"
+    ],
+    [
+     "C7",
+     "Fuse ATO",
+     "20A",
+     "Rear door control unit driver side [RHD] / front passenger side [LHD]"
+    ],
+    [
+     "C8",
+     "Fuse ATO",
+     "15A",
+     "All-wheel drive control unit"
+    ],
+    [
+     "C9",
+     "Fuse ATO",
+     "30A",
+     "Headlight front right"
+    ],
+    [
+     "C10",
+     "Fuse ATO",
+     "35A",
+     "Windscreen/headlight washer pumps, washer nozzle heating resistors"
+    ],
+    [
+     "C11",
+     "Fuse ATO",
+     "20A",
+     "Rear door control unit driver side [LHD] / front passenger side [RHD]"
+    ],
+    [
+     "C12",
+     "Fuse ATO",
+     "30A",
+     "Additional heater control unit"
+    ],
+    [
+     "D1",
+     "Fuse MINI",
+     "5A",
+     "Rear A/C panel, windscreen heating relays, seat+steering memory control unit, high beam assist, diagnostic socket"
+    ],
+    [
+     "D2",
+     "Fuse MINI",
+     "10A",
+     "Parking assistant (PDC)"
+    ],
+    [
+     "D3",
+     "Fuse MINI",
+     "5A",
+     "Symposer control unit"
+    ],
+    [
+     "D3",
+     "Fuse MINI",
+     "7.5A",
+     "Engine noise generation control unit"
+    ],
+    [
+     "D3",
+     "Fuse MINI",
+     "15A",
+     "Symposer / engine noise generation control units"
+    ],
+    [
+     "D4",
+     "Fuse MINI",
+     "5A",
+     "Clutch pedal position sensor"
+    ],
+    [
+     "D5",
+     "Fuse MINI",
+     "5A",
+     "Electric drive control unit / starter relays 1+2"
+    ],
+    [
+     "D7",
+     "Fuse MINI",
+     "5A",
+     "USB 1 charging socket"
+    ],
+    [
+     "D8",
+     "Fuse MINI",
+     "5A",
+     "Garage door opener control panel"
+    ],
+    [
+     "D9",
+     "Fuse MINI",
+     "10A",
+     "Adaptive cruise control control units 1+2"
+    ],
+    [
+     "D10",
+     "Fuse MINI",
+     "10A",
+     "Accelerator pedal module / A-pillar connection point [hybrid]"
+    ],
+    [
+     "D11",
+     "Fuse MINI",
+     "7.5A",
+     "Front camera for driver assistance systems"
+    ],
+    [
+     "D12",
+     "Fuse MINI",
+     "10A",
+     "Headlight front right"
+    ],
+    [
+     "D13",
+     "Fuse MINI",
+     "10A",
+     "Headlight front left"
+    ],
+    [
+     "D14",
+     "Fuse ATO",
+     "5A",
+     "Transmission oil cooling valve, training vehicle relay, special-vehicle connection points, alarm system control unit, special signals panel, portable radio charger"
+    ],
+    [
+     "D15",
+     "Fuse ATO",
+     "5A",
+     "Anti-theft alarm and hands-free system control unit [special vehicle]"
+    ],
+    [
+     "D16",
+     "Fuse ATO",
+     "10A",
+     "Rear left/right operating, display and information panel control units"
+    ],
+    [
+     "E1",
+     "Fuse ATO",
+     "20A",
+     "Ignition coils 1-4 [2.0 petrol] / coils 5+6 [3.0 petrol]"
+    ],
+    [
+     "E5",
+     "Fuse ATO",
+     "25A",
+     "Headlight front left [8IY equipment]"
+    ],
+    [
+     "E6",
+     "Fuse ATO",
+     "15A",
+     "Electric pump 2 KP"
+    ],
+    [
+     "E7",
+     "Fuse ATO",
+     "40A",
+     "Power supply for fuse box C"
+    ],
+    [
+     "E8",
+     "Fuse ATO",
+     "30A",
+     "Supply air fan control unit"
+    ],
+    [
+     "E9",
+     "Fuse ATO",
+     "25A",
+     "Headlight front right [8IY equipment]"
+    ],
+    [
+     "E10",
+     "Fuse ATO",
+     "40A",
+     "Active steering control unit"
+    ],
+    [
+     "E11",
+     "Fuse ATO",
+     "15A",
+     "Thermal management system control unit [hybrid]"
+    ],
+    [
+     "E11",
+     "Fuse ATO",
+     "35A",
+     "Starter relays 1+2 / starter fuse (50)"
+    ],
+    [
+     "E12",
+     "Fuse ATO",
+     "15A",
+     "Electric pump 3 CP [hybrid]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Engine electronics power supply relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power supply relay terminal 15"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver's side of the cockpit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-q5-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Chip card reader control unit / Android OS control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Head-up display control unit (on windscreen)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "External audio devices connector / USB splitter"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Front A/C control and display unit / heater control unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Electric steering column lock control unit"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Front control, display and information unit display [optional]"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Front control, display and information unit display [optional]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Driver's side volume control / multimedia system control panel"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Light switch / control panel 1 drive and comfort functions"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "1A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "Electronic information system control unit 1 [acoustic systems 9VS/8RF]"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Electronic information system control unit 1 [8RM acoustic system]"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "25A",
+     "Electrically adjustable steering column control unit"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Steering column electronics control unit / steering wheel heating element"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Left side of the luggage compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-q5-2024-genid-g2-2.webp",
+   "fuses": [
+    [
+     "A1",
+     "Fuse ATO",
+     "7.5A",
+     "Refrigerant pressure/temperature sensor; [hybrid] HV PTC heater control unit, coolant pump relay, refrigerant expansion valve 2, refrigerant shut-off valves 2-5"
+    ],
+    [
+     "A2",
+     "Fuse ATO",
+     "35A",
+     "Right windscreen heating relay: windscreen heating element"
+    ],
+    [
+     "A3",
+     "Fuse ATO",
+     "35A",
+     "Left windscreen heating relay: windscreen heating element"
+    ],
+    [
+     "A5",
+     "Fuse ATO",
+     "15A",
+     "Chassis control unit"
+    ],
+    [
+     "A6",
+     "Fuse ATO",
+     "15A",
+     "Automatic transmission control unit"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "30A",
+     "Rear window heating relay: antenna filter, suppression capacitor, rear window heating element"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "30A",
+     "Rear air conditioning control and display panel"
+    ],
+    [
+     "A9",
+     "Fuse ATO",
+     "20A",
+     "Central convenience control unit: left tail light"
+    ],
+    [
+     "A10",
+     "Fuse ATO",
+     "25A",
+     "Front left seat belt tensioner control unit"
+    ],
+    [
+     "A11",
+     "Fuse ATO",
+     "20A",
+     "Central convenience control unit: rear roller blind, soft closing, luggage lid lock, fuel filler flap release, keyless entry"
+    ],
+    [
+     "A12",
+     "Fuse ATO",
+     "30A",
+     "Rear lid control unit"
+    ],
+    [
+     "B2",
+     "Fuse MINI",
+     "7.5A",
+     "HV system service connector: hybrid drive battery module [hybrid]"
+    ],
+    [
+     "B3",
+     "Fuse MINI",
+     "10A",
+     "HV battery coolant pump relay/pump [hybrid]"
+    ],
+    [
+     "B4",
+     "Fuse MINI",
+     "7.5A",
+     "Electric drive control electronics [hybrid]"
+    ],
+    [
+     "B5",
+     "Fuse MINI",
+     "5A",
+     "Brake booster [hybrid]"
+    ],
+    [
+     "B8",
+     "Fuse MINI",
+     "5A",
+     "A/C compressor control unit [hybrid]"
+    ],
+    [
+     "B9",
+     "Fuse MINI",
+     "5A",
+     "Remote A/C relay: rear A/C panel, front seat fans [hybrid]"
+    ],
+    [
+     "B10",
+     "Fuse MINI",
+     "5A",
+     "Hybrid drive battery module [hybrid]"
+    ],
+    [
+     "B11",
+     "Fuse MINI",
+     "7.5A",
+     "Charger 1 high-voltage battery [hybrid]"
+    ],
+    [
+     "B14",
+     "Fuse ATO",
+     "20A",
+     "Thermal management coolant pumps 1, 2, 4 [hybrid]"
+    ],
+    [
+     "C1",
+     "Fuse MINI",
+     "10A",
+     "Special vehicle connection points / roof antenna"
+    ],
+    [
+     "C2",
+     "Fuse MINI",
+     "7.5A",
+     "Charger 1 mobile devices / phone amplifier / phone holder"
+    ],
+    [
+     "C3",
+     "Fuse MINI",
+     "7.5A",
+     "Lumbar support adjustment motors/switch (driver or front passenger, LHD/RHD) / anatomical front passenger seat control unit"
+    ],
+    [
+     "C4",
+     "Fuse MINI",
+     "5A",
+     "Lane change assist control units 1+2"
+    ],
+    [
+     "C5",
+     "Fuse MINI",
+     "10A",
+     "Rear left/right operating, display and information panel control units"
+    ],
+    [
+     "C7",
+     "Fuse MINI",
+     "5A",
+     "RFID control unit / short range communication control unit 2"
+    ],
+    [
+     "C8",
+     "Fuse MINI",
+     "5A",
+     "Fuel tank leak diagnostic control unit / auxiliary heater radio receiver"
+    ],
+    [
+     "C9",
+     "Fuse MINI",
+     "10A",
+     "Drink holder with heater and cooler"
+    ],
+    [
+     "C10",
+     "Fuse MINI",
+     "5A",
+     "TV tuner"
+    ],
+    [
+     "C11",
+     "Fuse MINI",
+     "10A",
+     "Second battery / 48V battery / special vehicles control unit"
+    ],
+    [
+     "C12",
+     "Fuse MINI",
+     "5A",
+     "Garage door opener control unit"
+    ],
+    [
+     "C13",
+     "Fuse MINI",
+     "5A",
+     "Reversing camera / surround view camera control units"
+    ],
+    [
+     "C14",
+     "Fuse ATO",
+     "20A",
+     "Central convenience control unit: right rear light"
+    ],
+    [
+     "C15",
+     "Fuse ATO",
+     "20A",
+     "Multifunction unit control unit"
+    ],
+    [
+     "C16",
+     "Fuse ATO",
+     "25A",
+     "Front right seat belt tensioner control unit"
+    ],
+    [
+     "E2",
+     "Fuse ATO",
+     "30A",
+     "Digital sound system control unit"
+    ],
+    [
+     "E3",
+     "Fuse ATO",
+     "30A",
+     "Reducing agent dosing control unit / tank heater (circuit 1)"
+    ],
+    [
+     "E5",
+     "Fuse ATO",
+     "25A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "E7",
+     "Fuse ATO",
+     "20A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "E8",
+     "Fuse ATO",
+     "25A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "E9",
+     "Fuse ATO",
+     "20A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "E10",
+     "Fuse ATO",
+     "40A",
+     "Differential lock control unit"
+    ],
+    [
+     "E11",
+     "Fuse ATO",
+     "25A",
+     "Reducing agent dosing control unit / line heating element (circuit 2)"
+    ]
+   ]
+  }
+ ]
+}
