@@ -1,0 +1,299 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "viper",
+ "brand_db": "Dodge",
+ "model_db_name": "Viper",
+ "model_id": 1483,
+ "generation_name": "4th generation (\"ZB II\")",
+ "generation_code": "g4",
+ "year_start": 2008,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/dodge/viper/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-viper-2010-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brakes (ABS) pump feed / starter"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module (BCM) - battery feed"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch run/accessory feed - windows"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body control module (BCM) - battery feed"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Anti-lock brakes (ABS) module"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "20A",
+     "Wiper switch"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch run/accessory feed"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "Wiper switch"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Headlights"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Left HID headlight"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch run feed"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "Left HID headlight"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Auto shutdown relay (ASD)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Right HID headlight"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Right HID headlight"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Hazard flasher"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Auto shutdown relay (ASD)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "Rear window defogger (EBL)"
+    ],
+    [
+     "16, 17",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Ignition off draw (IOD)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning (A/C) clutch relay"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Stop light switch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "Fuel pump / powertrain control module (PCM)"
+    ],
+    [
+     "23, 24",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "25-29",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "30-34",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "35-39",
+     "Relay",
+     "",
+     "ASD relay"
+    ],
+    [
+     "40-44",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "45-49",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "50-54",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "55-59",
+     "Relay",
+     "",
+     "Downstream O2 relay"
+    ],
+    [
+     "60, 61",
+     "Fuse MINI",
+     "15A",
+     "Ignition run/start relay feed"
+    ],
+    [
+     "62, 63",
+     "Fuse MINI",
+     "15A",
+     "Gauges"
+    ],
+    [
+     "64, 65",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "66, 67",
+     "Fuse MINI",
+     "20A",
+     "Wiper"
+    ],
+    [
+     "68, 69",
+     "Fuse MINI",
+     "20A",
+     "Left HID headlamp"
+    ],
+    [
+     "70, 71",
+     "Fuse MINI",
+     "20A",
+     "Right HID headlamp"
+    ],
+    [
+     "72-76",
+     "Relay",
+     "",
+     "Run/acc relay"
+    ],
+    [
+     "82-86",
+     "Relay",
+     "",
+     "EBL relay"
+    ],
+    [
+     "87-91",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}

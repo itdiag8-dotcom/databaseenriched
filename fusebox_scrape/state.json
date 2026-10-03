@@ -315,11 +315,11 @@
   "cupra": "all 6 models no_data",
   "dacia": "all 5 models processed",
   "daewoo": "all 5 models done",
-  "daihatsu": "terios/sirion/charade done; cuore pre-2000; copen no_data"
+  "daihatsu": "terios/sirion/charade done; cuore pre-2000; copen no_data",
+  "dodge": true
  },
  "in_progress": null,
  "queue_next_makes": [
-  "dodge",
   "ds",
   "ferrari",
   "fiat",
@@ -817,10 +817,11 @@
   "dodge/ram-van-1500": "done",
   "dodge/sprinter": "done",
   "dodge/shadow": "no_data",
-  "dodge/stratus": "done"
+  "dodge/stratus": "done",
+  "dodge/viper": "done"
  },
- "last_updated": "2026-10-03T23:56:01.844091",
- "current_brand": "dodge",
+ "last_updated": "2026-10-03T23:56:39.321988",
+ "current_brand": "ds",
  "audi_done_models": [
   "a1",
   "a2",
