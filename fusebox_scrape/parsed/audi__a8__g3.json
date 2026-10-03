@@ -1,0 +1,877 @@
+{
+ "make_slug": "audi",
+ "model_slug": "a8",
+ "brand_db": "Audi",
+ "model_db_name": "A8 D4",
+ "model_id": 301,
+ "generation_name": "3rd generation",
+ "generation_code": "D4 / Typ 4H",
+ "year_start": 2010,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/audi/a8/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses (SA) on fuse holder A [petrol engine]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-2017-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "[CEJA] Air mass meters 1+2"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "30A",
+     "Ignition coils 1-4 with output stage; coils 5-8 [CEJA/CDRA/CEUA/CGTA]; coils 9-12 [CEJA]"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "[CGWA/CGXC/CMDA/CGXB, CHJA] Ignition coils 1-4 with output stage"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "[CEJA/CDRA/CEUA/CGTA] Fuel metering valves 1+2 / [CHJA] fuel pressure regulating valve, refrigerant circulation valve"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "Fuel metering valve [CGWA/CGXC/CMDA/CGXB]"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Radiator fan control units 1+2, radiator fans 1+2, fuel pump relay, fuel pump control unit"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Brake light switch / exhaust gas flap control units 1+2 [CEUA/CGTA, CHJA]"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Camshaft control valves 1+2, exhaust camshaft valves [CDRA/CEUA/CGTA], charge pressure valve, [CHJA] intake manifold flap, secondary air valves, engine/gearbox mounting valves, charcoal filter valve, oil pressure valve, turbo recirculation valve, secondary air pump relay, camshaft actuator 1, water/coolant pumps"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Camshaft control valves 1+2, exhaust camshaft valves [CEJA/CDRA/CEUA/CGTA], intake manifold flap valve [CGWA/CGXC/CMDA/CGXB], continued coolant circulation pump [CEJA]"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "Oil level and oil temperature sender"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Engine control unit"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Lambda probes 1+2 (3+4 [CEJA]) / lambda probe after catalytic converter [CHJA]"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Secondary air pump relay+motor, charcoal filter valve, secondary air inlet valves, oil pressure valve, gearbox oil cooling valve, engine/gearbox mounting valves, cooling thermostat, intake manifold valves, exhaust flap valves, charge air cooling pump, coolant pumps, turbo recirculation valves, piston cooling valve [per engine codes]"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Brake pedal position sender [CHJA]"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Lambda probes 1+2 (3+4 [CEJA]) after catalytic converter"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "Low-temperature circuit coolant pump [CHJA]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Not assigned"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Motronic current supply relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Engine components current supply relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Secondary air pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Glow period control unit 2 [8-cyl diesel]"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Secondary air pump relay 2 [12-cyl petrol]"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuses (SF) on fuse holder F",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-2017-genid-g3-1.webp",
+   "fuses": [
+    [
+     "A1",
+     "Fuse MINI",
+     "5A",
+     "TCS/ESP button, headlight range control unit, onboard supply control unit, diagnostic connector"
+    ],
+    [
+     "A2",
+     "Fuse MINI",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "A3",
+     "Fuse MINI",
+     "5A",
+     "Adaptive suspension control unit"
+    ],
+    [
+     "A4",
+     "Fuse MINI",
+     "5A",
+     "Parking aid control unit"
+    ],
+    [
+     "A5",
+     "Fuse MINI",
+     "5A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "A6",
+     "Fuse MINI",
+     "5A",
+     "Control unit for sensor electronics"
+    ],
+    [
+     "A7",
+     "Fuse MINI",
+     "5A",
+     "Front passenger airbag deactivated warning lamp, airbag control unit, seat occupied recognition control unit"
+    ],
+    [
+     "A8",
+     "Fuse MINI",
+     "5A",
+     "Garage door opener units, night vision system, air quality improvement system, washer jet heaters, all-wheel drive control unit"
+    ],
+    [
+     "A9",
+     "Fuse MINI",
+     "5A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "A10",
+     "Fuse MINI",
+     "5A",
+     "Auto-hold button, trailer detector, cool box, seat heating control unit, auto-dimming mirror + relay"
+    ],
+    [
+     "A11",
+     "Fuse MINI",
+     "5A",
+     "Active steering control unit"
+    ],
+    [
+     "A12",
+     "Fuse MINI",
+     "5A",
+     "Selector lever sensors control unit"
+    ],
+    [
+     "A13",
+     "Fuse MINI",
+     "5A",
+     "Lane change assist control units 1+2"
+    ],
+    [
+     "A14",
+     "Fuse ATO",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "A15",
+     "Fuse ATO",
+     "40A",
+     "Starter motor relays 1+2"
+    ],
+    [
+     "A16",
+     "Fuse ATO",
+     "5A",
+     "Headlight range control unit / left headlight power output module"
+    ],
+    [
+     "A16",
+     "Fuse ATO",
+     "10A",
+     "Headlight range control unit / left headlight power output module"
+    ],
+    [
+     "B1",
+     "Fuse ATO",
+     "25A",
+     "Front left belt tensioner control unit"
+    ],
+    [
+     "B2",
+     "Fuse ATO",
+     "25A",
+     "Front right belt tensioner control unit"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "5A",
+     "Engine control unit [CDTA, CDTB, CLAB, CEJA]"
+    ],
+    [
+     "B4",
+     "Fuse ATO",
+     "7.5A",
+     "Voltage stabilizer"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "7.5A",
+     "Image processing control unit / camera control unit"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "10A",
+     "Right headlight power output module"
+    ],
+    [
+     "B7",
+     "Fuse ATO",
+     "5A",
+     "ABS control unit / electric A/C compressor [HV models]"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "7.5A",
+     "Crankcase breather heaters 1+2, voltage stabiliser [V6 diesel], power unit mounting control unit [CEUA/CGTA], structure-borne sound control unit, emergency-off relay [HV]"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "10A",
+     "Adaptive cruise control units 1+2 / vehicle battery [HV models]"
+    ],
+    [
+     "B10",
+     "Fuse ATO",
+     "5A",
+     "Automatic gearbox control unit / electric drive power+control electronics [HV]"
+    ],
+    [
+     "B11",
+     "Fuse ATO",
+     "5A",
+     "Air quality sensor, refrigerant pressure/temperature sender, humidity sender"
+    ],
+    [
+     "B12",
+     "Fuse ATO",
+     "5A",
+     "Chip card reader/taxi meter [hire cars], special signals operating unit / signal system control unit [authority vehicles]"
+    ],
+    [
+     "C1",
+     "Fuse MINI",
+     "5A",
+     "Electromechanical parking brake button"
+    ],
+    [
+     "C2",
+     "Fuse MINI",
+     "5A",
+     "Control unit for sensor electronics"
+    ],
+    [
+     "C3",
+     "Fuse MINI",
+     "7.5A",
+     "Rear right door control unit [to May 2011]"
+    ],
+    [
+     "C4",
+     "Fuse MINI",
+     "5A",
+     "Fuel tank leak diagnosis control unit / fuel tank pressure sensor"
+    ],
+    [
+     "C5",
+     "Fuse MINI",
+     "15A",
+     "Climatronic control unit"
+    ],
+    [
+     "C6",
+     "Fuse MINI",
+     "10A",
+     "Rear Climatronic operating and display unit"
+    ],
+    [
+     "C7",
+     "Fuse MINI",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "C8",
+     "Fuse MINI",
+     "15A",
+     "Cool box"
+    ],
+    [
+     "C9",
+     "Fuse MINI",
+     "5A",
+     "12-pin connector interface for special functions"
+    ],
+    [
+     "C10",
+     "Fuse MINI",
+     "5A",
+     "Telephone bracket, mobile phone aerial amplifier, chip card reader control unit"
+    ],
+    [
+     "C11",
+     "Fuse MINI",
+     "15A",
+     "Power unit mounting control unit [CEUA, CGTA]"
+    ],
+    [
+     "C12",
+     "Fuse MINI",
+     "10A",
+     "Selector lever sensors control unit"
+    ],
+    [
+     "C13",
+     "Fuse MINI",
+     "10A",
+     "Convenience system central control unit 2"
+    ],
+    [
+     "C14",
+     "Fuse ATO",
+     "20A",
+     "Convenience system central control unit"
+    ],
+    [
+     "C15",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump relay / fuel pump control unit"
+    ],
+    [
+     "C16",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "D2",
+     "Fuse ATO",
+     "20A",
+     "12V socket"
+    ],
+    [
+     "D3",
+     "Fuse ATO",
+     "20A",
+     "Rear cigarette lighter / 12V sockets 2+3"
+    ],
+    [
+     "D4",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter / DC-AC converter 12V-230V"
+    ],
+    [
+     "D5",
+     "Fuse ATO",
+     "15A",
+     "Adaptive suspension control unit"
+    ],
+    [
+     "D6",
+     "Fuse ATO",
+     "15A",
+     "DC/AC converter with socket, 12V-230V"
+    ],
+    [
+     "D7",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "D8",
+     "Fuse ATO",
+     "25A",
+     "Seat heating control unit, rear Climatronic unit, heated rear seat switches"
+    ],
+    [
+     "D9",
+     "Fuse ATO",
+     "20A",
+     "Convenience system central control unit"
+    ],
+    [
+     "D10",
+     "Fuse ATO",
+     "20A",
+     "Rear fresh air blower control unit / rear fresh air blower"
+    ],
+    [
+     "D11",
+     "Fuse ATO",
+     "20A",
+     "Convenience system central control unit"
+    ],
+    [
+     "D12",
+     "Fuse ATO",
+     "30A",
+     "Rear lid control unit"
+    ],
+    [
+     "E1",
+     "Fuse ATO",
+     "5A",
+     "Rest seat remote control, rear left/right seat adjustment operating units"
+    ],
+    [
+     "E2",
+     "Fuse ATO",
+     "35A",
+     "Fan authorization relay [HV models]"
+    ],
+    [
+     "E3",
+     "Fuse ATO",
+     "7.5A",
+     "Rear left multicontour seat control unit"
+    ],
+    [
+     "E4",
+     "Fuse ATO",
+     "30A",
+     "Trailer detector control unit / trailer socket"
+    ],
+    [
+     "E5",
+     "Fuse ATO",
+     "25A",
+     "Trailer detector control unit / trailer socket"
+    ],
+    [
+     "E6",
+     "Fuse ATO",
+     "30A",
+     "Rear left seat adjustment control unit"
+    ],
+    [
+     "E7",
+     "Fuse ATO",
+     "30A",
+     "Rear right seat adjustment control unit"
+    ],
+    [
+     "E8",
+     "Fuse ATO",
+     "25A",
+     "Trailer detector control unit / trailer socket"
+    ],
+    [
+     "E9",
+     "Fuse ATO",
+     "15A",
+     "Trailer detector control unit / trailer socket"
+    ],
+    [
+     "E10",
+     "Fuse ATO",
+     "7.5A",
+     "Rear right multicontour seat control unit"
+    ],
+    [
+     "E11",
+     "Fuse ATO",
+     "15A",
+     "Vehicle battery [HV models]"
+    ],
+    [
+     "F1",
+     "Fuse ATO",
+     "30A",
+     "Digital sound package control unit / voltage stabiliser / radio"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "30A",
+     "Digital sound package control unit 2"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "10A",
+     "Multimedia operating unit 2, voltage stabiliser, information electronics 2, multimedia displays 1+2"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "5A",
+     "Tire pressure monitor control unit [HV models]"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "5A",
+     "Automatic anti-dazzle interior mirror relay"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "5A",
+     "DVD changer"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "5A",
+     "TV tuner / digital TV tuner"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "7.5A",
+     "Multimedia system operating unit / information electronics control unit 1"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "5A",
+     "Dash panel insert control unit / analogue clock"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "5A",
+     "Front information display and operating unit"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "7.5A",
+     "Radio"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "5A",
+     "Reversing camera / overhead view camera control units"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Adaptive suspension compressor relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Automatic anti-dazzle interior mirror relay [V6 TDI]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fan authorisation relay [HV models]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5.1",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R5.2",
+     "Relay",
+     "",
+     "Starter motor relay 2"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Terminal 15 voltage supply relay"
+    ],
+    [
+     "R7.1",
+     "Relay",
+     "",
+     "Relay for power sockets"
+    ],
+    [
+     "R7.2",
+     "Relay",
+     "",
+     "Relay for power sockets"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuses (SC) on fuse holder C",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-2017-genid-g3-2.webp",
+   "fuses": [
+    [
+     "ST2-1",
+     "Fuse MINI",
+     "5A",
+     "Lighting switch"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "5A",
+     "Entry and start authorisation switch"
+    ],
+    [
+     "ST2-3",
+     "Fuse MINI",
+     "7.5A",
+     "Rear left door control unit [to May 2011]"
+    ],
+    [
+     "ST2-4",
+     "Fuse MINI",
+     "5A",
+     "Head-up display control unit"
+    ],
+    [
+     "ST2-5",
+     "Fuse MINI",
+     "15A",
+     "Horn relay / high tone horn / low tone horn"
+    ],
+    [
+     "ST2-6",
+     "Fuse MINI",
+     "7.5A",
+     "Roof electronics control unit"
+    ],
+    [
+     "ST2-8",
+     "Fuse MINI",
+     "5A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "ST2-8",
+     "Fuse MINI",
+     "10A",
+     "[Models with heated steering wheel only]"
+    ],
+    [
+     "ST2-9",
+     "Fuse MINI",
+     "5A",
+     "Electric drive power and control electronics [HV models]"
+    ],
+    [
+     "ST2-10",
+     "Fuse MINI",
+     "5A",
+     "Electronic steering column lock control unit"
+    ],
+    [
+     "ST2-11",
+     "Fuse MINI",
+     "7.5A",
+     "Driver door control unit [to May 2011]"
+    ],
+    [
+     "ST2-12",
+     "Fuse MINI",
+     "10A",
+     "Rain and light sensor / diagnostic connector"
+    ],
+    [
+     "ST2-13",
+     "Fuse MINI",
+     "5A",
+     "Remote control receiver for auxiliary heater"
+    ],
+    [
+     "ST2-14",
+     "Fuse ATO",
+     "25A",
+     "Electrically adjustable steering column control unit + adjustment motors"
+    ],
+    [
+     "ST2-15",
+     "Fuse ATO",
+     "20A",
+     "Onboard supply control unit"
+    ],
+    [
+     "ST2-16",
+     "Fuse ATO",
+     "15A",
+     "Brake servo relay / vacuum pump for brakes"
+    ],
+    [
+     "ST3-1",
+     "Fuse ATO",
+     "30A",
+     "Onboard supply control unit"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "30A",
+     "Wiper motor control unit"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "30A",
+     "Onboard supply control unit"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "20A",
+     "Sliding sunroof control unit / motor"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "30A",
+     "Driver door control unit / driver side window regulator motor"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "15A",
+     "Front left multicontour seat control unit"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "7.5A",
+     "[From June 2011]"
+    ],
+    [
+     "ST3-7",
+     "Fuse ATO",
+     "20A",
+     "Rear sliding sunroof control unit / motor"
+    ],
+    [
+     "ST3-8",
+     "Fuse ATO",
+     "35A",
+     "Active steering control unit"
+    ],
+    [
+     "ST3-9",
+     "Fuse ATO",
+     "30A",
+     "Onboard supply control unit"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "35A",
+     "Onboard supply control unit"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "30A",
+     "Rear left door control unit / rear left window regulator motor"
+    ],
+    [
+     "ST3-12",
+     "Fuse ATO",
+     "40A",
+     "Sunroof roller blind control units 1+2 / motor"
+    ]
+   ]
+  }
+ ]
+}

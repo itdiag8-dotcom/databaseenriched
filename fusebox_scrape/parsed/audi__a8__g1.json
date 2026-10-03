@@ -1,0 +1,671 @@
+{
+ "make_slug": "audi",
+ "model_slug": "a8",
+ "brand_db": "Audi",
+ "model_db_name": "A8 D2",
+ "model_id": 299,
+ "generation_name": "1st generation",
+ "generation_code": "D2 / Typ 4D",
+ "year_start": 1994,
+ "year_end": 2002,
+ "trim_label": "",
+ "representative_year": 1999,
+ "source_url": "https://www.startmycar.com/audi/a8/info/fusebox/1999",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-1999-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Lamp control module, left parking light, left front side marker light, instrument cluster combination processor"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "5A",
+     "Lamp control module, right parking light, right front side marker, tail lights, licence plate lights, instrument cluster combination processor"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Right headlamp (low beam), lamp control module"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Left headlamp (low beam), headlight aiming system, lamp control module"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Left headlamp (high beam), front/rear foglight control module"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Right headlamp (high beam), high beam indicator light"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Emergency flasher switch"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "Data link connector, selector lever light relay"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "25A",
+     "Windshield wiper washer switch, wiper washer intermittent relay"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Outside mirrors"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "A/C control head, cigarette lighter, fog light relay, glove box light, instrument cluster, tail lights, ashtray lights, transmission range switch, console/storage illumination, interior lights system, light switch"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "Coolant fan control relays (1st-3rd speed), air quality sensor ('98-'03)"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "Fog light switch, rear fog light switch, fog light control module"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger switch, mirror defogger"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Emergency flasher switch"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "Stop lamp switch, vacuum pump valve, transmission control module"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "5A",
+     "Washer nozzle heaters"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "15A",
+     "Data link connector, instrument cluster, lamp control module, steering wheel control module, radio, headlight beam adjustment, parking aid, tire pressure monitoring, warning lamps"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Telephone transceiver"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster combination processor"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "A/C control head, interior temperature sensor, instrument cluster, solar cell separation relay, steering wheel control module"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "10A",
+     "Multifunction transmission range switch, shift lock solenoid"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "15A",
+     "Coolant pump, heat regulating valves"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "10A",
+     "Steering wheel control module"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "20A",
+     "Heated oxygen sensors before TWC, EVAP leak detection pump, mass air flow sensor"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "15A",
+     "Heated oxygen sensors after TWC"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "5A",
+     "ABS control module"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "10A",
+     "ABS control module, anti-slip control switch (FWD), brake vacuum vent valve, ASR/ESP switch, stop lamp switch (quattro)"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "10A",
+     "Front interior light, rear reading lights, central locking/alarm/interior light delay module, power trunk release, power rear sunshade, misc interior lights"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "10A",
+     "Power window control modules, mirror adjustment/fold-away, memory switches, heated seat switches"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "10A",
+     "[1999] Luggage compartment release switch, make-up mirror lights, entry/floor light relay, interior monitoring, mirror memory, rear fog light switch"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "10A",
+     "Central locking/alarm/interior light delay module, rear window shade switch, auto-dimming mirror, garage door module, interior light relay"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "15A",
+     "Central locking/alarm/interior light delay module, interior monitoring sensors, driver's side interior lock switch"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "20A",
+     "Power sunroof control module"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "15A",
+     "Window lockout switch, heated door lock control modules, cigarette lighter"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "20A",
+     "Steering column/belt height control module, steering column adjustment switch"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "20A",
+     "Front heated seat switch, rear window shade control module"
+    ],
+    [
+     "51",
+     "Fuse MAXI",
+     "60A",
+     "Cooling fan"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment relay box No. 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-1999-genid-g1-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Load reduction (J59)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn (J4)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlight washer system (J39)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starting interlock (J207) / starter inhibitor and reversing light (J226)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Automatic intermittent wiper/washer (J31)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump (J17)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment relay box No. 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-1999-genid-g1-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Mirror fold (J351)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C clutch (J44)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Solar cell separation (J309), selector lever light (J307), selector lever illumination diode (J443)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Servotronic control module (J236)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Interior and map/reading light (J91), selector lever lock control unit (J221)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Wiper/washer intermittent (J31), fog light (J5)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(R7+R12) Front/rear fog light control module (J512), daytime running lights change-over (J89), starting interlock"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Auxiliary heater (J8)"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Bulb monitoring device (J123)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Entry & floor light (J348)"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Wiper/washer intermittent (J31), solar cell isolation (J309)"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(R7+R12) Front/rear fog light control module (J512), fresh air blower (J13)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Automatic sliding sunroof close (J356)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger compartment relay box No. 3",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-1999-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Circuit breaker MAXI",
+     "",
+     "Power seat (No. 2)"
+    ],
+    [
+     "2",
+     "Circuit breaker MAXI",
+     "",
+     "Power seat (memory) (No. 1), starting interlock (J207)"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Blower fan"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Entry and footwell lighting (J348)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "-"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Daytime running lights (J90)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Driving lights (Litronic) (J336)"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Passenger compartment relay box No. 4",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-1999-genid-g1-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Circuit breaker MAXI",
+     "",
+     "Power window (rear)"
+    ],
+    [
+     "2",
+     "Circuit breaker MAXI",
+     "",
+     "Power window (front)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Hazard warning light (J2), turn signal (J1)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(R2+R5) Multi-function steering wheel (J453), 2nd speed coolant fan control (J101), electric windows and sliding sunroof (J139)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "ABS return flow pump (J105), horn (J4), 2nd speed coolant fan control (J101)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Automatic window closing (J261)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(R2+R5) Multi-function steering wheel (J453), coolant fan control relay 1st speed (J26), electric windows and sliding sunroof (J139)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "ABS solenoid valve (J106), load reduction (J59), coolant fan control relay 1st speed (J26)"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-1999-genid-g1-5.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Heated seats, rear seat regulating switches"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "25A",
+     "ABS valves"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Radio, amplifier, rear woofers, power antenna"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Telephone"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Telephone"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Power seat"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Trailer tow"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "25A",
+     "ABS valve"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Radio"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Radio"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "Power seat"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "50A",
+     "ABS control module"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "60A",
+     "ABS control module"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "60A",
+     "Auxiliary heater"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "60A",
+     "Second battery"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(4+9) Battery isolation (J7)"
+    ]
+   ]
+  },
+  {
+   "index": 6,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a8-1999-genid-g1-6.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "EVAP canister purge regulator valve, intake change-over valve, fuel injector air control valve, EVAP leak detection pump"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "ECM & fuel injectors"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "ECM & fuel injectors"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "EVAP purge valve, intake manifold tuning valves 1+2, fuel injector air control valve, EVAP leak detection pump, secondary air injection, electrohydraulic engine mounts, MAF sensor, camshaft adjustment valves"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "ECM & ignition coil terminal No. 15"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "ECM"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Immobilizer (J341)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Engine control module (J271), secondary air injection pump (J299)"
+    ]
+   ]
+  }
+ ]
+}
