@@ -1,0 +1,138 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "tracker",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Tracker",
+ "model_id": 1204,
+ "generation_name": "1st generation (ET, TA)",
+ "generation_code": "g1",
+ "year_start": 1989,
+ "year_end": 1998,
+ "trim_label": "",
+ "representative_year": 1998,
+ "source_url": "https://www.startmycar.com/chevrolet/tracker/info/fusebox/1998",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tracker-1998-genid-g1-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Dome lamp, sidemarker lamps, parking lamps, license plate lamp, instrument panel illumination"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Stoplamps, horn"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Hazard lamps"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Door lock (option)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Lighter, radio"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Ignition system warning and indicator lights, gages, four-wheel drive system (option)"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Turn signal flasher, back-up lamps"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Wiper/washer"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Rear defogger"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "25A",
+     "Heater"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Main Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tracker-1998-genid-g1-1.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "All electrical load"
+    ],
+    [
+     "6",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "Anti-lock brake system"
+    ],
+    [
+     "7",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Ignition, lighter, radio, wiper/washer, rear defogger, turn signals, back-up lamps, heater"
+    ],
+    [
+     "8",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Taillamps, dome lamps, stop lamps, horn, hazard lamps"
+    ],
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Left side headlamp"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "Right side headlamp"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Fuel injection system"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Air conditioning"
+    ]
+   ]
+  }
+ ]
+}

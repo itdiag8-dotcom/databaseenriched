@@ -1,0 +1,186 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "tracker",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Tracker",
+ "model_id": 1204,
+ "generation_name": "2nd generation (FT, GT)",
+ "generation_code": "g2",
+ "year_start": 1999,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/chevrolet/tracker/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tracker-2004-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Dome light, radio memory"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "License plate light, clearance/marker lights, instrument panel illumination, warning tone"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights, turn signal"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Oxygen sensor heater, cruise control, ignition coil, meter, G sensor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, radio, power mirror"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Door locks"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Brake light, horn, center high-mounted stop lamp, cruise control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Rear window defogger, DRL, heater, air conditioning"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Turn signal, back-up light, hazard lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Windshield wiper/washer, rear window wiper/washer"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Tail relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tracker-2004-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Accessory power outlet"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "Electronic fuel injection system"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Right headlamp"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Left headlamp, high-beam indicator"
+    ],
+    [
+     "5",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Heater"
+    ],
+    [
+     "6",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Hazard lamps, rear combination lamps, dome light, horn"
+    ],
+    [
+     "7",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Cigar lighter, radio, ignition, meter, wiper, washer, rear defroster, turn signals, back-up lamps"
+    ],
+    [
+     "8",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "Anti-lock brake system"
+    ],
+    [
+     "9",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "All electrical loads"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Shift lock relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay [2.5L engine only]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air conditioning compressor relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Air conditioning condenser fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ]
+   ]
+  }
+ ]
+}

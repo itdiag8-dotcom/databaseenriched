@@ -1,0 +1,426 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "tracker",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Tracker",
+ "model_id": 1204,
+ "generation_name": "4th generation (GEM, 9BUB, 9JC)",
+ "generation_code": "g4",
+ "year_start": 2019,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/chevrolet/tracker/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tracker-2024-genid-g4-0.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse MICRO2",
+     "5A",
+     "Battery current sensor"
+    ],
+    [
+     "F03",
+     "Fuse MICRO2",
+     "5A",
+     "Canister vent solenoid"
+    ],
+    [
+     "F06",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS pump"
+    ],
+    [
+     "F07",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS valve"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "5A",
+     "Rear view camera"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "5A",
+     "Instrument cluster / forward collision alert (if equipped)"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "10A",
+     "Headlight leveling"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "25A",
+     "Fuel system control module (if equipped)"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump (if equipped)"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module - ignition"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "5A",
+     "Airbag system"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "F31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "60A",
+     "Fan - high speed"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "15A",
+     "Fog light (if equipped)"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "15A",
+     "A/C compressor / fan intermediate speed control / injection system sensors"
+    ],
+    [
+     "F46",
+     "Fuse MICRO2",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module - main"
+    ],
+    [
+     "F48",
+     "Fuse MICRO2",
+     "10A",
+     "Fan relay"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "15A",
+     "Water pump"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "F51",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fan - low speed"
+    ],
+    [
+     "F53",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fan - intermediate speed"
+    ],
+    [
+     "F54",
+     "Fuse MICRO2",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "Run / Start"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "K08",
+     "Relay",
+     "",
+     "Fan - high speed"
+    ],
+    [
+     "K09",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Fan - low speed"
+    ],
+    [
+     "K11",
+     "Relay",
+     "",
+     "Fan - medium speed"
+    ],
+    [
+     "K12",
+     "Relay",
+     "",
+     "Engine control module - main"
+    ],
+    [
+     "K13",
+     "Relay",
+     "",
+     "A/C compressor clutch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-tracker-2024-genid-g4-1.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse FMM/MCase",
+     "40A",
+     "Automatic air conditioning fan"
+    ],
+    [
+     "F4",
+     "Fuse FMM/MCase",
+     "40A",
+     "OnStar / IPC / display / radio / USB / UPA / SBSA / APA / ECC / CCP / LPM / BCM1"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Manual air conditioning fan"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "2A",
+     "Ignition switch"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "10A",
+     "Rain sensor"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "20A",
+     "Rear window wiper"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "5A",
+     "Exterior rearview mirrors"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag module"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "7.5A",
+     "Diagnostic link connector"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "10A",
+     "Sun visor / glove box / automatic transmission shifter illumination [if equipped]"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "20A",
+     "Auxiliary power outlets [if equipped]"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "5A",
+     "Wireless charger / rear USB"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "10A",
+     "HVAC controls"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "20A",
+     "Windshield washer"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "5A",
+     "OnStar"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "10A",
+     "Gauges / instrument cluster"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "15A",
+     "Front USB / radio"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "10A",
+     "Side blind spot alert / parking assist system"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "10A",
+     "HVAC control"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "2A",
+     "Steering wheel switches"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "RAP ACC"
+    ]
+   ]
+  }
+ ]
+}
