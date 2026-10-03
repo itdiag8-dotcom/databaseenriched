@@ -1,0 +1,360 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "magnum",
+ "brand_db": "Dodge",
+ "model_db_name": "Magnum",
+ "model_id": 1453,
+ "generation_name": "2nd generation (\"LX\")",
+ "generation_code": "g2",
+ "year_start": 2004,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/dodge/magnum/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Rear Power Distribution Center Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-magnum-2008-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition off draw"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated seat / steering column"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic temperature control (ATC) blower motor"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "Audio amplifier"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Power antenna / garage door opener / ignition delay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Radio/navigation"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Transmission"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Analog clock / garage door opener"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Power mirror"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Climate control module / headlamp leveling / rear park assist / tire pressure monitoring [if equipped]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Sentry Key / remote keyless entry / cluster"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Brake light (5.7L)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Power outlet trunk [if equipped]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Selectable power outlet"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper [if equipped]"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Ignition start/run - start"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Console power outlet"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamp [if equipped]"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Steering column module / power mirrors [if equipped]"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "Sentry Key / remote keyless entry / PCM ignition feed"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Curtain airbag [if equipped]"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Airbag / occupant classification module"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MAXI",
+     "",
+     "Memory module / door locks"
+    ],
+    [
+     "CB2",
+     "Circuit breaker MAXI",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "CB3",
+     "Circuit breaker MAXI",
+     "",
+     "Door module run/acc/delay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Front Power Distribution Center Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-magnum-2008-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Left high beam headlight"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Right high beam headlight"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Adjustable pedal"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "Headlamp washer [if equipped]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Front control module (FCM)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Fog lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Park lamp"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Non-ABS brakes"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Starter"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Auto shutdown / powertrain control module (PCM)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "25A",
+     "Powertrain control module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Injectors, ignition coils"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Antilock brake system (ABS) valves"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Windshield wiper/washer"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "50A",
+     "Radiator fan"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "Starter"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS pump motor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan high/low"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "50A",
+     "High intensity lighting"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Lighting left high beam / right low beam"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "20A",
+     "Transmission"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "Lighting left low beam / right high beam"
+    ]
+   ]
+  }
+ ]
+}
