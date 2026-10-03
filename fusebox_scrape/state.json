@@ -306,12 +306,12 @@
    ]
   },
   "buick": 19,
-  "byd": 1
+  "byd": 1,
+  "cadillac": "done"
  },
- "in_progress": {},
+ "in_progress": null,
  "queue_next_makes": [
   "arcfox",
-  "cadillac",
   "chery",
   "chevrolet",
   "chrysler",
@@ -624,10 +624,11 @@
   "cadillac/xlr": "done",
   "cadillac/xt4": "done",
   "cadillac/xt5": "done",
-  "cadillac/xt6": "done"
+  "cadillac/xt6": "done",
+  "cadillac/xts": "done"
  },
- "last_updated": "2026-10-03T21:15:51.182148",
- "current_brand": "cadillac",
+ "last_updated": "2026-10-03T21:16:32.431336",
+ "current_brand": null,
  "audi_done_models": [
   "a1",
   "a2",
@@ -1001,6 +1002,7 @@
   "xlr",
   "xt4",
   "xt5",
-  "xt6"
+  "xt6",
+  "xts"
  ]
 }
