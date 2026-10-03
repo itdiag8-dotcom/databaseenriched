@@ -1,0 +1,270 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "200",
+ "brand_db": "Chrysler",
+ "model_db_name": "200",
+ "model_id": 1217,
+ "generation_name": "1st generation (JS)",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/chrysler/200/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Integrated Power Module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-200-2013-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power top module [if equipped]"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Brake vacuum pump"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Center high mounted stop light (CHMSL) / brake switch"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow [if equipped]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Power mirror switch / climate controls"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Ignition off draw (IOD) sense 1"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Ignition off draw (IOD) sense 2"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery feed - power seats [if equipped]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel / power locks / interior lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Selectable power outlet (inside center armrest)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     ""
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Ignition / cigar lighter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Sunroof [if equipped]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Wireless control module (WCM) / clock / steering control module (SCM)"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Auto shutdown (ASD) relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Audio amplifier [if equipped]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Siren [if equipped]"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - climate controls / hot cupholder [if equipped]"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Auto shutdown (ASD) relay 3"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "Sunroof [if equipped]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - heated mirrors [if equipped]"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Auto shutdown (ASD) relay 2"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - occupant classification module (OCM) / occupant restraint controller (ORC)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - occupant classification module (OCM) / occupant restraint controller (ORC)"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "",
+     "Hot car (no fuse required)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Ignition run - heated seats [if equipped]"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auto shutdown (ASD) relay 1"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Switch bank / diagnostic link connector / powertrain control module (PCM)"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS module / electronic stability control (ESC) module [if equipped]"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS module / electronic stability control (ESC) module [if equipped]"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger door module (PDM) / driver door module (DDM)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "25A",
+     "Power top module [if equipped]"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relay fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-200-2013-genid-g1-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "ASD / Main"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Radiator fan low / high"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Radiator fan medium / high"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Radiator fan series / parallel"
+    ]
+   ]
+  }
+ ]
+}

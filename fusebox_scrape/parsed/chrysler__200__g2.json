@@ -1,0 +1,456 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "200",
+ "brand_db": "Chrysler",
+ "model_db_name": "200",
+ "model_id": 1217,
+ "generation_name": "2nd generation (UF)",
+ "generation_code": "g2",
+ "year_start": 2014,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/chrysler/200/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Center (Fuses)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-200-2017-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F08",
+     "Fuse MICRO2",
+     "25A",
+     "Engine control module (ECM) / fuel injectors"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "20A",
+     "Power transfer unit (PTU) [if equipped]"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "20A",
+     "Brake vacuum pump [if equipped]"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "10A",
+     "ECM/VSM [engine stop/start only]"
+    ],
+    [
+     "F14",
+     "Fuse MICRO3",
+     "10A",
+     "Drivetrain control module (DTCM) / PTU / RDM / brake system module / brake pedal switch / EPB"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coil"
+    ],
+    [
+     "F19",
+     "Fuse FMM/MCase",
+     "40A",
+     "Starter solenoid"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "5A",
+     "Radiator fan enable"
+    ],
+    [
+     "F23",
+     "Fuse MAXI",
+     "70A",
+     "Body controller module (BCM) - feed 2"
+    ],
+    [
+     "F23",
+     "Fuse MAXI",
+     "50A",
+     "Voltage stability module (VSM) #2 [with engine stop/start]"
+    ],
+    [
+     "F25B",
+     "Fuse MICRO3",
+     "20A",
+     "Front washer pump [with engine stop/start]"
+    ],
+    [
+     "F28",
+     "Fuse MICRO3",
+     "15A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "F30",
+     "Fuse MICRO3",
+     "10A",
+     "ECM / EPS / fuel pump relay feed"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "50A",
+     "Radiator fan PWM controller"
+    ],
+    [
+     "F39",
+     "Fuse FMM/MCase",
+     "40A",
+     "HVAC blower motor"
+    ],
+    [
+     "F41",
+     "Fuse FMX/JCase",
+     "50A",
+     "Voltage stability module (VSM) #1 [with engine stop/start]"
+    ],
+    [
+     "F41",
+     "Fuse FMX/JCase",
+     "60A",
+     "Body controller module (BCM) - feed 1"
+    ],
+    [
+     "F43",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump motor"
+    ],
+    [
+     "F45",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger door module (PDM) [if equipped]"
+    ],
+    [
+     "F46",
+     "Fuse FMM/MCase",
+     "25A",
+     "Sunroof [if equipped]"
+    ],
+    [
+     "F48",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver door module (DDM)"
+    ],
+    [
+     "F49",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power inverter (115V AC) [if equipped]"
+    ],
+    [
+     "F50",
+     "Fuse FMM/MCase",
+     "30A",
+     "Windshield wiper smart motor (WWSM)"
+    ],
+    [
+     "F53",
+     "Fuse FMM/MCase",
+     "30A",
+     "Brake system module BSM & valves"
+    ],
+    [
+     "F54",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body controller module (BCM) - feed 3"
+    ],
+    [
+     "F55",
+     "Fuse MICRO3",
+     "10A",
+     "Blind spot sensors / compass / rearview camera [if equipped]"
+    ],
+    [
+     "F56",
+     "Fuse MICRO3",
+     "15A",
+     "Ignition node module (IGNM) / RF hub"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "10A",
+     "Occupant classification module / VSM #2 [with engine stop/start]"
+    ],
+    [
+     "F59",
+     "Fuse FMM/MCase",
+     "30A",
+     "Drivetrain control module (DTCM)"
+    ],
+    [
+     "F60",
+     "Fuse MICRO2",
+     "20A",
+     "Power outlet - center console"
+    ],
+    [
+     "F63",
+     "Fuse MICRO2",
+     "20A",
+     "Front heated seats [if equipped]"
+    ],
+    [
+     "F64",
+     "Fuse MICRO2",
+     "20A",
+     "Heated steering wheel [if equipped]"
+    ],
+    [
+     "F65",
+     "Fuse MICRO2",
+     "10A",
+     "In-vehicle temperature/humidity sensor / DASM / park assist [with engine stop/start]"
+    ],
+    [
+     "F66",
+     "Fuse MICRO2",
+     "15A",
+     "Instrument panel cluster (IPC) / electronic climate control HVAC"
+    ],
+    [
+     "F67",
+     "Fuse MICRO2",
+     "10A",
+     "In-vehicle temperature/humidity sensor / DASM / park assist [if equipped]"
+    ],
+    [
+     "F69",
+     "Fuse MICRO3",
+     "10A",
+     "Gear shift module (GSM) / active grill shutter / EPB switch"
+    ],
+    [
+     "F70",
+     "Fuse MICRO2",
+     "5A",
+     "Intelligent battery sensor (IBS) [with engine stop/start]"
+    ],
+    [
+     "F71",
+     "Fuse MICRO2",
+     "20A",
+     "HID headlamp right [with engine stop/start]"
+    ],
+    [
+     "F72",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirrors [if equipped]"
+    ],
+    [
+     "F74",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defroster/defogger"
+    ],
+    [
+     "F75",
+     "Fuse MICRO2",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "F76",
+     "Fuse MICRO2",
+     "10A",
+     "Driver's window switch [if equipped]"
+    ],
+    [
+     "F77",
+     "Fuse MICRO3",
+     "10A",
+     "UCI port / brake pedal switch"
+    ],
+    [
+     "F78",
+     "Fuse MICRO3",
+     "10A",
+     "Diagnostic port / steering column control module (SCCM)"
+    ],
+    [
+     "F79",
+     "Fuse MICRO3",
+     "10A",
+     "Integrated center stack (ICS) / switch bank / IPC / EPB switch"
+    ],
+    [
+     "F80",
+     "Fuse MICRO2",
+     "20A",
+     "Radio"
+    ],
+    [
+     "F83",
+     "Fuse FMM/MCase",
+     "20A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "F84",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electric park brake (EPB) - left"
+    ],
+    [
+     "F86",
+     "Fuse MICRO2",
+     "20A",
+     "Horns [with engine stop/start]"
+    ],
+    [
+     "F87A",
+     "Fuse MICRO2",
+     "20A",
+     "HID headlamp left [with engine stop/start]"
+    ],
+    [
+     "F88",
+     "Fuse MICRO2",
+     "10A",
+     "Collision mitigation module / electrochromatic mirror / haptic lane feedback / humidity sensor [if equipped]"
+    ],
+    [
+     "F93",
+     "Fuse FMM/MCase",
+     "40A",
+     "Brake system module (BSM) - pump motor [if equipped]"
+    ],
+    [
+     "F94",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electric park brake (EPB) - right"
+    ],
+    [
+     "F95",
+     "Fuse MICRO3",
+     "10A",
+     "Electrochromatic mirror / rain sensor / passenger window switch / power outlet console illumination / sunroof [if equipped]"
+    ],
+    [
+     "F96",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant restraint controller (ORC) (airbag)"
+    ],
+    [
+     "F97",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant restraint controller (ORC) (airbag)"
+    ],
+    [
+     "F98",
+     "Fuse MICRO2",
+     "25A",
+     "Audio amplifier [if equipped]"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-200-2017-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Low beam left"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Interior lighting"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Intrusion module / siren"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "7.5A",
+     "Aux switch bank module (ASBM)"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "All doors lock/unlock"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Washer pump front"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Horns"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "7.5A",
+     "Lumbar support"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "10A",
+     "Driver window switch / power mirrors [if equipped]"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "7.5A",
+     "UCI port (USB & AUX)"
+    ],
+    [
+     "F89",
+     "Fuse MINI",
+     "5A",
+     "Trunk lamp"
+    ],
+    [
+     "F91",
+     "Fuse MINI",
+     "5A",
+     "Fog lamp front left"
+    ],
+    [
+     "F92",
+     "Fuse MINI",
+     "5A",
+     "Fog lamp front right"
+    ]
+   ]
+  }
+ ]
+}
