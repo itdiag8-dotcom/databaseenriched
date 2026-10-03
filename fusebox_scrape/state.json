@@ -605,9 +605,11 @@
   "byd/yuan-plus": "no_data",
   "byd/yuan-pro": "no_data",
   "cadillac/allante": "done",
-  "cadillac/ats": "done"
+  "cadillac/ats": "done",
+  "cadillac/celestiq": "no_data",
+  "cadillac/ct4": "done"
  },
- "last_updated": "2026-10-03T20:43:05.539164",
+ "last_updated": "2026-10-03T20:43:40.230226",
  "current_brand": "cadillac",
  "audi_done_models": [
   "a1",
@@ -714,7 +716,8 @@
   "byd/song-pro",
   "byd/tang",
   "byd/yuan-plus",
-  "byd/yuan-pro"
+  "byd/yuan-pro",
+  "cadillac/celestiq"
  ],
  "brand_aliases": {
   "lynk-co": "Lynk & Co",
@@ -960,6 +963,8 @@
  ],
  "cadillac_done_models": [
   "allante",
-  "ats"
+  "ats",
+  "celestiq",
+  "ct4"
  ]
 }
