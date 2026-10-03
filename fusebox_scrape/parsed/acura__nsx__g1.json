@@ -1,0 +1,355 @@
+{
+ "make_slug": "acura",
+ "model_slug": "nsx",
+ "brand_db": "Acura",
+ "model_db_name": "NSX",
+ "model_id": 42,
+ "generation_name": "1st generation",
+ "generation_code": "NA1, NA2",
+ "year_start": 1990,
+ "year_end": 1994,
+ "trim_label": null,
+ "representative_year": 1994,
+ "source_url": "https://www.startmycar.com/acura/nsx/info/fusebox/1994",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-acura-nsx-1994-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Power window control unit, Master power window switch"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Passenger's power window switch, master power window switch"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "Speakers"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Left headlight, Retractable headlight control unit"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Right headlight, Retractable headlight control unit, High beam indicator light"
+    ],
+    [
+     "6",
+     "Fuse FLD/PAL 283",
+     "40A",
+     "Wiper/washer"
+    ],
+    [
+     "7",
+     "Fuse FLD/PAL 283",
+     "50A",
+     "Power unit (EPS)"
+    ],
+    [
+     "8",
+     "Fuse FLD/PAL 283",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "9",
+     "Fuse FLD/PAL 283",
+     "50A",
+     "Ignition switch (BAT-A)"
+    ],
+    [
+     "10",
+     "Fuse FLD/PAL 283",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "30A",
+     "Radiator fan motor"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "ABS control unit"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Right headlight retractor relay, Retractor switch"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Left headlight retractor relay"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "20A",
+     "ABS control unit, TCS control unit"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "7.5A",
+     "ECM, TCM, Stereo radio/cassette player, Clock, EPS control unit, Automatic climate control unit"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Integrated control unit, Power antenna, Entry light timer system, Ceiling, courtesy and trunk lights"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Power door locks, Trunk release, Keyless entry (option)"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "Daytime running lights (Canada)"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "Horns, Brake lights, Security indicator light, Integrated control unit, Key interlock switch"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "Hazard warning lights, Turn signal/hazard relay"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "15A",
+     "Left taillights"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Left condenser fan motor"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "10A",
+     "Right condenser fan motor"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "Dash and console lights, Parking lights"
+    ],
+    [
+     "U5",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "U6",
+     "Relay",
+     "",
+     "Tail lights relay"
+    ],
+    [
+     "U8",
+     "Relay",
+     "",
+     "ALB motor relay"
+    ],
+    [
+     "U9",
+     "Relay",
+     "",
+     "Dimmer relay"
+    ],
+    [
+     "U10",
+     "Relay",
+     "",
+     "Lighting relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Main fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-acura-nsx-1994-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Engine compartment fan motor"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "Passenger's power seat recline motor"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Driver's power seat recline motor"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Passenger's power seat slide motor"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Driver's power seat slide motor"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Security control unit, Alternator (voltage regulator), PGM-FI main relay"
+    ],
+    [
+     "8",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "Power distribution (main fuse)"
+    ],
+    [
+     "9",
+     "Fuse FLD/PAL 283",
+     "30A",
+     "PGM-FI main relay, Ignition coils, Noise condenser"
+    ],
+    [
+     "10",
+     "Fuse FLD/PAL 283",
+     "40A",
+     "Rear window defogger relay (contacts)"
+    ],
+    [
+     "11",
+     "Fuse FLD/PAL 283",
+     "30A",
+     "Ignition switch (BAT-B)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "TCS control unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter, Cellular phone (option)"
+    ],
+    [
+     "U1",
+     "Fuse MINI",
+     "",
+     "Option connector C912 (under-dash fuse)"
+    ],
+    [
+     "U3",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Dash fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-acura-nsx-1994-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "SRS unit"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "SRS unit, PGM-FI main relay, TCM, Charging system, Heated oxygen sensors, Vehicle speed sensor (VSS), Control box"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "7.5A",
+     "Daytime running lights control unit"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "ABS, Blower controls, Fans and compressor controls, Air delivery, Power mirrors, Rear window defogger, Option connector C911"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Integrated control unit, Back-up lights, Shift lock solenoid, Gauges, Indicators, TCS switch, Turn signal lights, EPS control unit, Fuel pump relay, TCS control unit, TCS fail-safe relay, Clock, Security control unit, Cruise control unit"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "7.5A",
+     "Windshield wiper/washer switch, Washer motor"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "7.5A",
+     "PGM-FI main relay, ECM, Brake system indicator light"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Radio, Cigarette lighter relay, Option connector C913"
+    ]
+   ]
+  }
+ ]
+}
