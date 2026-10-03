@@ -1,0 +1,492 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "x5",
+ "brand_db": "BMW",
+ "model_db_name": "X5 \u2013 E53",
+ "model_id": 816,
+ "generation_name": "1st generation",
+ "generation_code": "E53",
+ "year_start": 1999,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/bmw/x5/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x5-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "72",
+     "Fuse ATO",
+     "30A",
+     "Audio system, navigation control unit, GPS receiver, audio amplifier, video module, Multi-Information Display (MID), CD changer, on-board monitor"
+    ],
+    [
+     "73",
+     "Fuse ATO",
+     "7.5A",
+     "Unloader relay terminal R"
+    ],
+    [
+     "74",
+     "Fuse ATO",
+     "10A",
+     "Telephone (transceiver/charging electronics, compensator, voice input, interface, eject box, telematics)"
+    ],
+    [
+     "75",
+     "Fuse ATO",
+     "5A",
+     "Multi-Information Display (MID), CD changer, navigation control unit, on-board monitor, video module"
+    ],
+    [
+     "77",
+     "Fuse ATO",
+     "30A",
+     "Luggage compartment backrest adjustment switches (left/right), rear compartment backrest relay"
+    ],
+    [
+     "78",
+     "Fuse ATO",
+     "20A",
+     "Trailer socket"
+    ],
+    [
+     "79",
+     "Fuse ATO",
+     "7.5A",
+     "Air suspension control unit"
+    ],
+    [
+     "80",
+     "Fuse ATO",
+     "20A",
+     "Unloader relay terminal 15"
+    ],
+    [
+     "81",
+     "Fuse ATO",
+     "20A",
+     "Rear intermittent wiper/washer control unit"
+    ],
+    [
+     "82",
+     "Fuse ATO",
+     "30A",
+     "Rear lid motor relay, bottom tailgate motor relay"
+    ],
+    [
+     "83",
+     "Fuse ATO",
+     "20A",
+     "Luggage compartment sockets 1 & 2"
+    ],
+    [
+     "84",
+     "Fuse ATO",
+     "7.5A",
+     "Rear lid motor relay, bottom tailgate switch, bottom tailgate motor relay"
+    ],
+    [
+     "85",
+     "Fuse ATO",
+     "30A",
+     "Rear defogger relay"
+    ],
+    [
+     "86",
+     "Fuse ATO",
+     "5A",
+     "Antenna amplifier, independent heating receiver"
+    ],
+    [
+     "87",
+     "Fuse ATO",
+     "30A",
+     "Air suspension compressor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Unloader relay terminal 15"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Unloader relay terminal R"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear lid motor"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear compartment backrest"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Bottom tailgate motor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x5-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster, Integrated Electronic Control Unit (IKE)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "5A",
+     "Light module"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "7.5A",
+     "Ignition switch"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "Unloader relay terminal 15, rear seat heaters"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "7.5A",
+     "Oil level sensor, alternator, diagnostic connector, gearbox oil temperature sensor, AGS transmission control unit, ignition coils, transmission control (engine variant dependent)"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Tyre pressure monitoring (RDC), electrochromic interior rear view mirror, parking aid control unit (PDC), adaptive headlight"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "Unloader relay terminal R, audio system, navigation, on-board monitor, telephone"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "Airbag indicator (from 09.2005)"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "Light module, brake light switch, coil spring (steering wheel)"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Electronic immobilizer control unit (EWS)"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "Steering angle sensor, gear indicator light"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "Anti-theft horn (DWA) (up to 08.2005), electrochromic interior rear view mirror, tilt sensor, interior protection control unit, siren and tilt alarm sensor (from 09.2005)"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "General module, diagnostic connector OBD II"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Up to 02.2004: tyre pressure monitoring (RDC)"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "7.5A",
+     "From 03.2004: adaptive headlight"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "5A",
+     "Ignition switch, Digital Motor Electronics (DME) module, Integrated Electronic Control Unit (IKE)"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "5A",
+     "Entry light module"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Driver's door module"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Front passenger's seat adjustment switch, lumbar support switch"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "5A",
+     "Integrated supply module (IVM), Digital Motor Electronics (DME) module"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Passenger's door module"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "25A",
+     "Front cigar lighter, rear cigar lighter, radar warner socket"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Closed-circuit current cutout relay"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "20A",
+     "General module"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer module"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "10A",
+     "Coil spring (steering wheel)"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "5A",
+     "DME module / Digital Diesel Electronics control unit, diagnostic connector OBD II"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "5A",
+     "Switching centre, closed-circuit current cutout relay"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "5A",
+     "Cigar lighter relay"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "7.5A",
+     "Heating and A/C control module, rear defogger relay"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "5A",
+     "Charge socket"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "5A",
+     "Switching centre"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "5A",
+     "Electronic immobilizer control unit (EWS), clutch switch module (manual transmission)"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "30A",
+     "Wiper relay"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "5A",
+     "General module, rear intermittent wiper/washer control unit, rain sensor"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "5A",
+     "Driver's/passenger's make-up mirror light"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster, Integrated Electronic Control Unit (IKE)"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "5A",
+     "Airbag diagnostic module, passenger's seat occupancy detection, seat belt buckle switches (USA)"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster, Integrated Electronic Control Unit (IKE)"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "7.5A",
+     "Transfer box control unit"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump relay 1"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "7.5A",
+     "Heating and A/C control module"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "10A",
+     "ABS/DSC control unit, steering angle sensor, fuel tank leak diagnostic module, secondary air pump relay, E-box fan, RPM rate sensor (engine variant dependent)"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "15A",
+     "Diagnostic connector (20-pin)"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "25A",
+     "Switching centre"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "15A",
+     "AGS transmission control unit / transmission control"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "30A",
+     "ABS/DSC control unit"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "15A",
+     "Air suspension control unit"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "20A",
+     "Sunroof module / panorama glass roof"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "20A",
+     "Independent park/auxiliary heating"
+    ],
+    [
+     "60",
+     "Fuse ATO",
+     "30A",
+     "General module (rear power window, power door locks, power mirror)"
+    ],
+    [
+     "61",
+     "Fuse MAXI",
+     "50A",
+     "Light module"
+    ],
+    [
+     "62",
+     "Fuse MAXI",
+     "50A",
+     "Secondary air pump relay"
+    ],
+    [
+     "63",
+     "Fuse MAXI",
+     "50A",
+     "ABS/DSC control unit"
+    ],
+    [
+     "64",
+     "Fuse MAXI",
+     "50A",
+     "Output stage (heater/A/C)"
+    ]
+   ]
+  }
+ ]
+}

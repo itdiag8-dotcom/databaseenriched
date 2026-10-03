@@ -463,9 +463,11 @@
   "bmw/x2": "done",
   "bmw/x3": "done",
   "bmw/x3-m": "done",
-  "bmw/x4": "done"
+  "bmw/x4": "done",
+  "bmw/x5": "done",
+  "bmw/x4-m": "no_data"
  },
- "last_updated": "2026-10-03T20:10:51.772251",
+ "last_updated": "2026-10-03T20:14:09.804257",
  "current_brand": "bmw",
  "audi_done_models": [
   "a1",
@@ -540,7 +542,8 @@
   "audi/tt-rs",
   "bmw/alpina",
   "bmw/i5",
-  "bmw/m760"
+  "bmw/m760",
+  "bmw/x4-m"
  ],
  "brand_aliases": {
   "lynk-co": "Lynk & Co",
@@ -639,6 +642,7 @@
   "x2",
   "x3",
   "x3-m",
-  "x4"
+  "x4",
+  "x5"
  ]
 }
