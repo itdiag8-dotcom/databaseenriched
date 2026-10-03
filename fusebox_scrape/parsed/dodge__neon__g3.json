@@ -1,0 +1,133 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "neon",
+ "brand_db": "Dodge",
+ "model_db_name": "Neon",
+ "model_id": 1458,
+ "generation_name": "3rd generation (\"Type 356\")",
+ "generation_code": "g3",
+ "year_start": 2017,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/dodge/neon/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-neon-2020-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Two-tone horn"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "5A",
+     "Active grille shutter"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "10A",
+     "Driver's seat lumbar adjustment"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "7.5A",
+     "Heated electric mirrors"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Dashboard Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-neon-2020-genid-g3-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Uconnect system power supply, climate control, EOBD system, USB/AUX port and steering wheel controls"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Dead lock device / door unlocking / central locking / electric tailgate unlocking"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "Front power window (passenger side)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "Front power window (driver side)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "Rear right power window"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "25A",
+     "Rear left power window"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage Compartment Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-neon-2020-genid-g3-2.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Rear 12V power socket"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Driver's seat lumbar adjustment"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Front passenger's seat heater"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Driver's seat heater"
+    ]
+   ]
+  }
+ ]
+}
