@@ -1,0 +1,673 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "traverse",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Traverse",
+ "model_id": 1206,
+ "generation_name": "3rd generation",
+ "generation_code": "g3",
+ "year_start": 2024,
+ "year_end": 2026,
+ "trim_label": "All-new",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/chevrolet/traverse/info/fusebox/2024/3rd-gen_trims-all-new",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-traverse-2024-genid-g3-trims-all__new-0.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse FMM/MCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "",
+     "Headlamp right"
+    ],
+    [
+     "F7",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F9",
+     "Fuse FMM/MCase",
+     "",
+     "Rear defog"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting module 4"
+    ],
+    [
+     "F11",
+     "Fuse MICRO2",
+     "",
+     "Headlamp left"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "",
+     "Horn"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper control"
+    ],
+    [
+     "F17",
+     "Relay",
+     "",
+     "Relay coil ground"
+    ],
+    [
+     "F18",
+     "Fuse FMM/MCase",
+     "",
+     "DC-DC battery 1"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting module 7"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting module 5"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "",
+     "Wiper de-ice"
+    ],
+    [
+     "F24",
+     "Fuse FMM/MCase",
+     "",
+     "Electronic brake control module 1"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting module 3"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "",
+     "Trailer lamp turn left"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "",
+     "Trailer lamp turn right"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "",
+     "Wash"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "",
+     "Aero shutter"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "",
+     "Power control module"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "",
+     "Power control module"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "",
+     "Starter motor"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "",
+     "A/C clutch (gas)"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "",
+     "Solenoid turbo bypass"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "",
+     "Coil odd"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "",
+     "B721_B70_M674"
+    ],
+    [
+     "F50",
+     "Fuse FMM/MCase",
+     "",
+     "Electronic phaser"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "",
+     "Power control module 2"
+    ],
+    [
+     "F54",
+     "Fuse MICRO2",
+     "",
+     "Air pump"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "F57",
+     "Relay",
+     "",
+     "Water pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-traverse-2024-genid-g3-trims-all__new-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "",
+     "Blower motor"
+    ],
+    [
+     "F2",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting module 1"
+    ],
+    [
+     "F3",
+     "Fuse MICRO2",
+     "",
+     "Steering column lock"
+    ],
+    [
+     "F4",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting module 2"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "",
+     "OnStar hands-free calling"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Steering wheel control"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "",
+     "Telematics"
+    ],
+    [
+     "F9",
+     "Fuse MICRO3",
+     "",
+     "Body control module battery 1 and shifter"
+    ],
+    [
+     "F10",
+     "Fuse MICRO3",
+     "",
+     "Universal garage door opener / spare"
+    ],
+    [
+     "F11",
+     "Fuse MICRO3",
+     "",
+     "HVAC and traction power inverter module"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "",
+     "Steering column lock"
+    ],
+    [
+     "F13",
+     "Fuse MICRO3",
+     "",
+     "Central gateway module and data link connector"
+    ],
+    [
+     "F14",
+     "Fuse MICRO3",
+     "",
+     "Electronic brake control module and power control module"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "",
+     "Auxiliary display"
+    ],
+    [
+     "F16",
+     "Fuse FMM/MCase",
+     "",
+     "Auxiliary power outlet rear cargo"
+    ],
+    [
+     "F17",
+     "Fuse MICRO3",
+     "",
+     "Sensing diagnostic module / automatic occupant sensor"
+    ],
+    [
+     "F18",
+     "Fuse MICRO3",
+     "",
+     "Seat fan control / headlamp co-driver and driver"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "",
+     "Exterior lighting module ride control"
+    ],
+    [
+     "F20",
+     "Fuse MICRO3",
+     "",
+     "Virtual key module / spare"
+    ],
+    [
+     "F21",
+     "Fuse MICRO3",
+     "",
+     "Virtual cockpit unit battery 1 and 2"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "",
+     "Sensing data module"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "",
+     "Wireless charging module"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "High voltage power outlet"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "",
+     "Aux"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "",
+     "Long range radar"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "",
+     "Short range radar"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "",
+     "Heated steering wheel module"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "",
+     "Column position module"
+    ],
+    [
+     "F35",
+     "Fuse FMM/MCase",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "",
+     "DC/DC battery 2"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "",
+     "Amplifier 2"
+    ],
+    [
+     "F39",
+     "Fuse FMM/MCase",
+     "",
+     "Exterior lighting module 6"
+    ],
+    [
+     "F40",
+     "Fuse FMM/MCase",
+     "",
+     "DC-AC inverter"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-traverse-2024-genid-g3-trims-all__new-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "",
+     "Rear blower"
+    ],
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "",
+     "Door switch panel co-driver"
+    ],
+    [
+     "F3",
+     "Fuse FMM/MCase",
+     "",
+     "Tailgate"
+    ],
+    [
+     "F4",
+     "Fuse FMM/MCase",
+     "",
+     "Trailer battery 1"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "AWD control processor 2"
+    ],
+    [
+     "F6",
+     "Fuse FMM/MCase",
+     "",
+     "Power fold seat left rear"
+    ],
+    [
+     "F7",
+     "Fuse FMM/MCase",
+     "",
+     "Door switch panel"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Right lamps"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Exterior lighting module 2"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Left lamps"
+    ],
+    [
+     "F14",
+     "Fuse FMM/MCase",
+     "",
+     "Seat power driver"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Memory seat module driver"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Motor power fold third seat row 2"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Front"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Seat back panel co-driver"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Motor power fold third seat row 2 F"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Remote function actuator"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Canister"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Universal park assist"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Right door control module"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "",
+     "Side blind zone assist"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Trailer park lamp"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Front camera module"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "Second row battery 1"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Second row battery 2"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "",
+     "Trailer back up"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "",
+     "Door switch panel"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "",
+     "Power fold seat switch row 3"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "Out of park disable"
+    ],
+    [
+     "F45",
+     "Fuse FMM/MCase",
+     "",
+     "Trailer brake"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "",
+     "AWD control processor 3"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "",
+     "Fuel tank zone module"
+    ],
+    [
+     "F48",
+     "Fuse FMM/MCase",
+     "",
+     "Seat power passenger"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "",
+     "Exterior lighting module 1"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "",
+     "Front battery 2"
+    ],
+    [
+     "F54",
+     "Fuse FMM/MCase",
+     "",
+     "Second row right-hand fold"
+    ],
+    [
+     "F55",
+     "Fuse FMM/MCase",
+     "",
+     "Third row"
+    ],
+    [
+     "F56",
+     "Fuse FMM/MCase",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F57",
+     "Fuse FMM/MCase",
+     "",
+     "Right door control module"
+    ]
+   ]
+  }
+ ]
+}

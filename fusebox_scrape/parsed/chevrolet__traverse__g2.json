@@ -1,0 +1,733 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "traverse",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Traverse",
+ "model_id": 1206,
+ "generation_name": "2nd generation (C1XX)",
+ "generation_code": "g2",
+ "year_start": 2018,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/chevrolet/traverse/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-traverse-2023-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system pump"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 1"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC transformer 1"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC transformer 2"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "",
+     "Starter 2"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "",
+     "Electronic brake control module"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "",
+     "Parking/trailer lamps"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "",
+     "Right trailer stoplamp/turn lamp"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "Steering column lock"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "",
+     "Left trailer stoplamp/turn lamp"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "",
+     "Washer pump"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "",
+     "Left low-beam headlamp"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "",
+     "Horn"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "",
+     "Right low-beam headlamp"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "",
+     "Automatic headlamp leveling motor"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "",
+     "Left rear bus electrical center / ignition"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "",
+     "HVAC"
+    ],
+    [
+     "F43",
+     "Fuse MICRO2",
+     "",
+     "Head-up display / reflective light auxiliary display"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "",
+     "Communication gateway module / run-crank"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "",
+     "Interior rearview mirror"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "",
+     "Fuel tank zone module / shifter interface board / run-crank"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "F57",
+     "Fuse MICRO2",
+     "",
+     "Engine control module / ignition"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "",
+     "Transmission control module / ignition"
+    ],
+    [
+     "F59",
+     "Fuse MICRO2",
+     "",
+     "Engine control module battery"
+    ],
+    [
+     "F60",
+     "Fuse MICRO2",
+     "",
+     "Engine control module - even"
+    ],
+    [
+     "F61",
+     "Fuse MICRO2",
+     "",
+     "O2 sensor 1 / air flow"
+    ],
+    [
+     "F63",
+     "Fuse MICRO2",
+     "",
+     "O2 sensor 2 / canister / engine oil / turbo"
+    ],
+    [
+     "F64",
+     "Fuse MICRO2",
+     "",
+     "Aeroshutter"
+    ],
+    [
+     "F65",
+     "Fuse MICRO2",
+     "",
+     "Engine control module powertrain 1"
+    ],
+    [
+     "F66",
+     "Fuse MICRO2",
+     "",
+     "Engine control module powertrain 2"
+    ],
+    [
+     "F67",
+     "Fuse MICRO2",
+     "",
+     "Engine control module - odd"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "",
+     "Folding seats switch"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "",
+     "Coolant pump"
+    ],
+    [
+     "F55",
+     "Fuse MICRO2",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "Starter 1"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Run/Crank"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Folding seats"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Starter 2"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-traverse-2023-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MICRO2",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F2",
+     "Fuse MICRO2",
+     "",
+     "Diagnostic link"
+    ],
+    [
+     "F3",
+     "Fuse MICRO2",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "F4",
+     "Fuse MICRO2",
+     "",
+     "Rear USB port"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "",
+     "Rear sunshade / PRNDL"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "",
+     "HVAC"
+    ],
+    [
+     "F7",
+     "Fuse MICRO2",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "",
+     "Adaptive front lighting system"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "",
+     "Right front heated seat"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "",
+     "Airbag"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "",
+     "Left front heated seat"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "",
+     "Communication gateway module"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "",
+     "Instrument cluster / head-up display"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "",
+     "Wireless charger module"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "",
+     "Infotainment"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "",
+     "PRNDL"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "Park assist / shifter interface board"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "",
+     "Communications integration module"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "",
+     "Video"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "",
+     "Radio / HVAC display"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "",
+     "Radio"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls"
+    ],
+    [
+     "F31",
+     "Fuse FMX/JCase",
+     "",
+     "Front blower"
+    ],
+    [
+     "F32",
+     "Fuse FMM/MCase",
+     "",
+     "DC-AC inverter"
+    ],
+    [
+     "F33",
+     "Fuse FMM/MCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "F34",
+     "Fuse FMM/MCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "Feed / body control module 4"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "",
+     "Power outlet / wireless charger / accessory"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F42",
+     "Circuit breaker MINI",
+     "",
+     "Auxiliary power outlet (CB) / lighter (mini fuse)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-traverse-2023-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer"
+    ],
+    [
+     "F3",
+     "Fuse FMM/MCase",
+     "",
+     "Folding seats"
+    ],
+    [
+     "F4",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear blower"
+    ],
+    [
+     "F5",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear drive control"
+    ],
+    [
+     "F7",
+     "Fuse FMM/MCase",
+     "30A",
+     "Right window"
+    ],
+    [
+     "F8",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "F9",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left window"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Trailer reverse"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "USB port / third row seats"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Air quality sensor"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Ventilated seats / massage"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Lumbar"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "30A",
+     "Trailer brake lamps"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Massage"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Passive entry / passive start"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Canister vent"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "USB port / second row seats"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Liftgate module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "20A",
+     "Fuel system control module / fuel tank zone module"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Window module"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "15A",
+     "Rear closure"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "20A",
+     "Memory seat module"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "5A",
+     "Automatic occupancy sensor"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "30A",
+     "Liftgate motor"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "15A",
+     "Rear heated seats"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "10A",
+     "Semi-active dampening system module"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "10A",
+     "External object calculating remote system / side blind zone alert"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "5A",
+     "Universal remote system / overhead console / humidity/rain sensor"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "5A",
+     "Hands-free closure release"
+    ],
+    [
+     "CB3",
+     "Circuit breaker",
+     "",
+     "Rear auxiliary power outlet"
+    ]
+   ]
+  }
+ ]
+}
