@@ -1,0 +1,403 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "dart",
+ "brand_db": "Dodge",
+ "model_db_name": "Dart",
+ "model_id": 1442,
+ "generation_name": "6th generation (\"PF\", \"Compact US Wide\")",
+ "generation_code": "g6",
+ "year_start": 2012,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/dodge/dart/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-dart-2018-genid-g6-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "70A",
+     "Body control module #1"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "60A",
+     "Body control module #2"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "30A",
+     "Output for starter relay #1"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "40A",
+     "ESC pump motor"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "40A",
+     "Transmission control module #1"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "Body control module #3"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "40A",
+     "EBL relay coil, blower motor relay coil"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "5A",
+     "Radiator fan"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "ORC"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Run/start, engine control module"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module #2"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module #3"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Engine control module, ignition coils"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Brake system module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Engine control module"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Rear defroster (EBL)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Occupant restraint controller"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "25A",
+     "Brake system module"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "Engine control module, fuel injectors"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "20A",
+     "Power outlet (console)"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "60A",
+     "Interior PDC battery feed, power seats"
+    ],
+    [
+     "F82",
+     "Fuse MAXI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "40A",
+     "HVAC blower motor"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "10A",
+     "Sunroof, LRSM, power outlet (console), UCI/AUX port, cigar lighter"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "10A",
+     "Wastegate, purge solenoid, OBD vent valve, oxygen sensor heaters"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "10A",
+     "Heated outside mirrors"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-dart-2018-genid-g6-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Front heated seats [if equipped]"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats, heated steering wheel [if equipped]"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Park assist module, rear camera, blind spot sensors, compass [if equipped]"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Instrument cluster"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "HVAC, humidity sensor, in-vehicle temperature sensor, inside mirror assembly"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Steering column control module, switch bank"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic port"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Universal garage door opener, EOM"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "5A",
+     "Run/accessory relay"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "5A",
+     "Transmission control module #4"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "5A",
+     "Stop lamp switch"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Pneumatic lumbar support"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Body Control Module (BCM) Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-dart-2018-genid-g6-2.webp",
+   "fuses": [
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Left headlamp"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Interior lighting / decklid / liftgate release"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "25A",
+     "Window motor - driver"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "25A",
+     "Window motor - passenger"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Intrusion module"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Door locks"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "5A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "7.5A",
+     "Stop lamp switch"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "7.5A",
+     "Pneumatic lumbar support"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "7.5A",
+     "CD / hands-free module (Bluetooth) / radio display"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "7.5A",
+     "Driver window switch / power mirrors"
+    ],
+    [
+     "F89",
+     "Fuse MINI",
+     "5A",
+     "Trunk lamp"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "7.5A",
+     "Front fog lamp - right"
+    ],
+    [
+     "F91",
+     "Fuse MINI",
+     "7.5A",
+     "Front fog lamp - left"
+    ],
+    [
+     "F92",
+     "Fuse MINI",
+     "7.5A",
+     "High beams (shutters)"
+    ],
+    [
+     "F93",
+     "Fuse MINI",
+     "15A",
+     "Right headlamp"
+    ]
+   ]
+  }
+ ]
+}
