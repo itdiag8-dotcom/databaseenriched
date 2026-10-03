@@ -1,0 +1,500 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "volt",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Volt",
+ "model_id": 1215,
+ "generation_name": "1st generation",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/chevrolet/volt/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-volt-2015-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Engine control module - switched power"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Emissions"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Ignition coils / injectors"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Air conditioning control module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Traction power inverter module - battery"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Cabin heater pump and valve"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Traction power inverter module and transmission control module - battery"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Engine control module - battery"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Run/crank - SDM, instrument cluster, passenger airbag display, auto-dimming mirror"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Run/crank for vehicle integration control module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Vehicle integration control module - battery"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Power electronics coolant pump"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Cabin heater control module"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "High voltage battery coolant pump"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "High voltage battery control module"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Front windshield washer"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "Run/crank - rear vision camera, accessory power module"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Run/crank for ABS / high voltage battery"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Engine control module / transmission control module - run/crank"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Traction power inverter module - run/crank"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Run/crank - fuel system control module, A/C control module, on-board charger"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "",
+     "AIR solenoid [PZEV only]"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "",
+     "Power window - front"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system electronic control unit"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "",
+     "AIR pump [PZEV only]"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system motor"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan - right"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "",
+     "Front wipers"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "",
+     "Charger"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan - left"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "AIR pump [PZEV only]"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Run/Crank"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "AIR solenoid [PZEV only]"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block (Left Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-volt-2015-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Power outlet - top of IP storage bin"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Infotainment display"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "HVAC / integrated center stack switches"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Airbag (sensing diagnostic module / passenger sensing module)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Data link connector, left (primary)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Body control module 1 / keyless entry / power moding / CHMSL / license plate lamps / left DRL / left parking lamps / hatch release & washer pump relay control"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Body control module 4 / left headlamp"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Power outlet (inside/rear of floor console)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Retained accessory power relay for power outlets"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Block (Right Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-volt-2015-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Steering wheel switch backlighting"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Body control module 3 / right headlamp"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Body control module 2 / hatch lamp / right DRL / shifter lock / switch backlighting"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Body control module 6 / map lights / courtesy lights / backup lamp"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Body control module 7 / left front turn signal / right rear stop-turn signal / child security lock relay"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Body control module 8 / locks"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Data link connector, right (secondary)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Universal garage door opener [if equipped]"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "",
+     "Blower motor"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Child lockout relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-volt-2015-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Fuel system control module"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Passive start / passive entry module"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Heated seats [if equipped]"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Driver door switches (mirror / charge port door release / refuel request / driver window)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Fuel (diurnal valve and EVAP leak check module)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Accessory power module cooling fan"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Amplifier [if equipped]"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control / parking assist [if equipped]"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "",
+     "Rear power windows"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "",
+     "Electric parking brake"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "",
+     "Rear defog"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Hatch release"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear defog"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Hatch release"
+    ],
+    [
+     "R7/R8",
+     "Relay",
+     "",
+     "Horn"
+    ]
+   ]
+  }
+ ]
+}
