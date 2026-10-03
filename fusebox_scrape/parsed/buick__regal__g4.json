@@ -1,0 +1,444 @@
+{
+ "make_slug": "buick",
+ "model_slug": "regal",
+ "brand_db": "Buick",
+ "model_db_name": "Regal",
+ "model_id": 968,
+ "generation_name": "4th generation",
+ "generation_code": "W-body",
+ "year_start": 1997,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/buick/regal/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-regal-2004-genid-g4-0.webp",
+   "fuses": [
+    [
+     "TIRE RESET",
+     "Circuit breaker ATO",
+     "",
+     "Tire inflation monitor reset button"
+    ],
+    [
+     "PWR/WNDW PWR S/ROOF",
+     "Circuit breaker ATO",
+     "",
+     "Power windows, power sunroof"
+    ],
+    [
+     "R/DEFOG",
+     "Circuit breaker ATO",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "PWR SEAT",
+     "Circuit breaker ATO",
+     "",
+     "Power seat"
+    ],
+    [
+     "PRK/LCK",
+     "Fuse MINI",
+     "",
+     "Ignition key solenoid"
+    ],
+    [
+     "PCM, BCM, U/H",
+     "Fuse MINI",
+     "",
+     "Ignition signal (run/start), PCM, BCM, underhood relay"
+    ],
+    [
+     "RADIO PREM. SOUND",
+     "Fuse MINI",
+     "",
+     "Remote radio premium sound"
+    ],
+    [
+     "PWR MIR",
+     "Fuse MINI",
+     "",
+     "Power mirrors"
+    ],
+    [
+     "INT/ILLUM",
+     "Fuse MINI",
+     "",
+     "Panel dimming"
+    ],
+    [
+     "IGN 0",
+     "Fuse MINI",
+     "",
+     "Ignition signal (run/unlock/start), cluster, PCM, BCM"
+    ],
+    [
+     "ACCY PWR BUS",
+     "Fuse MINI",
+     "",
+     "Interior lamps"
+    ],
+    [
+     "DR/LCK",
+     "Fuse MINI",
+     "",
+     "Door locks"
+    ],
+    [
+     "R/LAMPS",
+     "Fuse MINI",
+     "",
+     "Taillamps, license plate lamps"
+    ],
+    [
+     "CRUISE",
+     "Fuse MINI",
+     "",
+     "Cruise control"
+    ],
+    [
+     "CLSTR",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster"
+    ],
+    [
+     "LTR",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "STOP LAMPS",
+     "Fuse MINI",
+     "",
+     "Stoplamps"
+    ],
+    [
+     "ONSTAR",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "PRK/LGHT",
+     "Fuse MINI",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "CRNK SIG",
+     "Fuse MINI",
+     "",
+     "Crank signal, BCM, cluster, PCM"
+    ],
+    [
+     "HVAC",
+     "Fuse MINI",
+     "",
+     "Ignition signal, HVAC control head"
+    ],
+    [
+     "BTSI",
+     "Fuse MINI",
+     "",
+     "Shifter lock solenoid"
+    ],
+    [
+     "AIR BAG",
+     "Fuse MINI",
+     "",
+     "Air bag"
+    ],
+    [
+     "BCM PWR",
+     "Fuse MINI",
+     "",
+     "Body control module"
+    ],
+    [
+     "HAZRD",
+     "Fuse MINI",
+     "",
+     "Hazard warning flashers"
+    ],
+    [
+     "LH HTD SEAT",
+     "Fuse MINI",
+     "",
+     "Driver's heated seat"
+    ],
+    [
+     "BCM ACCY",
+     "Fuse MINI",
+     "",
+     "Ignition signal (accessory/run), BCM"
+    ],
+    [
+     "LOW BLWER",
+     "Fuse MINI",
+     "",
+     "Low blower"
+    ],
+    [
+     "ABS",
+     "Fuse MINI",
+     "",
+     "Anti-lock brakes"
+    ],
+    [
+     "TRN SIG",
+     "Fuse MINI",
+     "",
+     "Turn signals, cornering lamps"
+    ],
+    [
+     "RADIO, HVAC, RFA, CLSTR",
+     "Fuse MINI",
+     "",
+     "Radio, HVAC head, remote keyless entry, cluster"
+    ],
+    [
+     "HI BLWR",
+     "Fuse MINI",
+     "",
+     "High blower"
+    ],
+    [
+     "RH HTD SEAT",
+     "Fuse MINI",
+     "",
+     "Passenger's heated seat"
+    ],
+    [
+     "STR/WHL CNTRL",
+     "Fuse MINI",
+     "",
+     "Audio steering wheel controls"
+    ],
+    [
+     "WPR",
+     "Fuse MINI",
+     "",
+     "Windshield wipers"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Underhood fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-regal-2004-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "",
+     "Anti-lock brake system"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "",
+     "Power seats, rear defogger, heated seats"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "",
+     "High blower, hazard flasher, stoplamps, power mirror, door locks"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "",
+     "Ignition switch, BTSI, stoplamps, ABS, turn signals, cluster, air bag, DRL module"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "",
+     "RAP, remote keyless entry, data link, HVAC head, cluster, radio, lighter"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "",
+     "Ignition switch, wipers, radio, steering wheel controls, BCM, power windows, sunroof, HVAC, DRL, defogger relay"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Generator"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Electronic ignition"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Transaxle"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Fuel injector"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Oxygen sensor"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Engine emissions"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Right headlamp"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Rear compartment release"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Left headlamp"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "Cooling fan 2 relay"
+    ],
+    [
+     "10",
+     "Relay",
+     "",
+     "Cooling fan 3 relay"
+    ],
+    [
+     "11",
+     "Relay",
+     "",
+     "Starter solenoid relay"
+    ],
+    [
+     "12",
+     "Relay",
+     "",
+     "Cooling fan 1 relay"
+    ],
+    [
+     "13",
+     "Relay",
+     "",
+     "Ignition main relay"
+    ],
+    [
+     "14",
+     "Relay",
+     "",
+     "Air pump relay (optional)"
+    ],
+    [
+     "16",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "19",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "SYMBOL",
+     "Diode MINI",
+     "",
+     "A/C compressor clutch diode"
+    ]
+   ]
+  }
+ ]
+}

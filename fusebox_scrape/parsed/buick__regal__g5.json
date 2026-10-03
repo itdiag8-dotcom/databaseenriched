@@ -1,0 +1,606 @@
+{
+ "make_slug": "buick",
+ "model_slug": "regal",
+ "brand_db": "Buick",
+ "model_db_name": "Regal",
+ "model_id": 968,
+ "generation_name": "5th generation",
+ "generation_code": "Epsilon II",
+ "year_start": 2011,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/buick/regal/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-regal-2017-genid-g5-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Vacuum pump"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passive entry / passive start"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "Transmission auxiliary pump (eAssist only)"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear power windows"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS valve"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front power windows"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power outlets"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS pump"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric parking brake"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "",
+     "Secondary air induction (eAssist only)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Ignition / TCM / ECM"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "BPIM (eAssist only)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Fuel injection / ignition system"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Engine control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "O2 sensor"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel system control module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Trunk release"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "MGU coolant pump (eAssist only)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "Heated steering wheel"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "BPIM (eAssist only)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Obstacle detection"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Driver seat lumbar"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Passenger seat lumbar"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Body control module 6"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "25A",
+     "Heated front seats"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "25A",
+     "Sunroof"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "30A",
+     "Infotainment system"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "7.5A",
+     "Heated mirrors"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Canister vent solenoid"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "HVAC pump (eAssist only)"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "SAI check valve (eAssist only)"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "Fuel system control module"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "5A",
+     "Right low-beam headlamp / DRL"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "5A",
+     "Malfunction indicator lamp"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "10A",
+     "Interior rearview mirror"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "5A",
+     "Rear vision camera"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "7.5A",
+     "Power windows / mirrors"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "10A",
+     "Terminal 87 / main relay"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "10A",
+     "O2 sensor"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "15A",
+     "Right low-beam HID headlamp"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "15A",
+     "Left low-beam HID headlamp"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "10A",
+     "Adaptive cruise"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "10A",
+     "Right high-beam headlamp"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "10A",
+     "Left high-beam headlamp"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "15A",
+     "AWD"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "A/C control relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front wiper relay (step 2)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front wiper relay (step 1)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Right low-beam headlamp / DRL relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Transmission auxiliary pump relay (eAssist only)"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "HID headlamps / left low-beam / DRL relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Auxiliary heater pump relay (eAssist only)"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Secondary AIR pump relay (eAssist only)"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Window / mirror defogger relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-regal-2017-genid-g5-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Suspension control module / universal garage door opener / ESC"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Body control module 1"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Body control module 5"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Radio displays / parking assist / infotainment / tunnel control module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel power outlet"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Console power outlet"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Body control module 3"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Body control module 4"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module 8"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front HVAC blower"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "Right front seat"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Left front seat"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Diagnostic link connector"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Steering wheel controls"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "HVAC controller"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "Service fuse / logistics relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Memory seats"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Automatic occupant sensing"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "2A",
+     "Discrete logic ignition switch / passive entry / passive start"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Body control module 6"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Body control module 2"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "OnStar"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,618 @@
+{
+ "make_slug": "buick",
+ "model_slug": "regal",
+ "brand_db": "Buick",
+ "model_db_name": "Regal",
+ "model_id": 968,
+ "generation_name": "6th generation",
+ "generation_code": "E2XX",
+ "year_start": 2018,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/buick/regal/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-regal-2019-genid-g6-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "ABS pump"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Rear closure"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Memory control module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Heated windshield"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Seat lumbar"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC converter 1"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "",
+     "Front wipers"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "18",
+     "Fuse FMM/MCase",
+     "",
+     "Sunshade"
+    ],
+    [
+     "19",
+     "Fuse FMM/MCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Auto headlamp leveling"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Transmission control module / ignition"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Instrument panel / ignition"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Rear vision camera / ventilation"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "",
+     "Malfunction indicator lamp / shift solenoid"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Canister vent / video processing module"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "",
+     "Rear heated seats"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "",
+     "All wheel drive damping control"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Fuel module"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Steering column lock"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Headlamp leveling"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Engine control module / ignition"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan / DC-DC converter 2"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "",
+     "Rear drive control module"
+    ],
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "",
+     "Starter"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "",
+     "Left LED lamps"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "",
+     "A/C HEV"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "",
+     "Right LED lamp / right high-beam headlamps"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamps"
+    ],
+    [
+     "72",
+     "Fuse FMX/JCase",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "",
+     "Powertrain - off engine"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "",
+     "Washer pump"
+    ],
+    [
+     "81",
+     "Fuse ATO",
+     "",
+     "Transmission module / engine control module"
+    ],
+    [
+     "83",
+     "Fuse ATO",
+     "",
+     "Ignition coils"
+    ],
+    [
+     "84",
+     "Fuse ATO",
+     "",
+     "Coil"
+    ],
+    [
+     "85",
+     "Fuse FMX/JCase",
+     "",
+     "Shunt 60A"
+    ],
+    [
+     "87",
+     "Fuse FMX/JCase",
+     "",
+     "SAI fuel heater"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "",
+     "Aeroshutter"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "",
+     "TPIM motor generator / TPIM"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "",
+     "Keyless entry control module"
+    ],
+    [
+     "95",
+     "Fuse MINI",
+     "",
+     "Water charge air coolant pump"
+    ],
+    [
+     "96",
+     "Fuse FMM/MCase",
+     "",
+     "Fuel heater"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Front wiper control relay"
+    ],
+    [
+     "31",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Front wiper speed relay"
+    ],
+    [
+     "64",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "66",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "71",
+     "Relay",
+     "",
+     "Right LED high beam relay"
+    ],
+    [
+     "73",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "80",
+     "Relay",
+     "",
+     "Starter pinion relay"
+    ],
+    [
+     "90",
+     "Relay",
+     "",
+     "Water charge air coolant pump relay"
+    ],
+    [
+     "98",
+     "Relay",
+     "",
+     "Fuel heater relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-regal-2019-genid-g6-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "",
+     "Left window"
+    ],
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "",
+     "Right window"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "",
+     "HVAC blower"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "",
+     "Battery 2"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "",
+     "Electric steering column"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "",
+     "Battery 3"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "",
+     "Engine control module / battery"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "",
+     "Body control module 2 on/off"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "",
+     "Transmission control module on/off"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "",
+     "Battery 7"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "",
+     "Battery 1"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "",
+     "Battery 4"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "",
+     "Battery 6"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "",
+     "Airbag sensing diagnostic module / passenger sensing module"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "Diagnostic link"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "AC-DC inverter"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "",
+     "Overhead console"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Steering wheel control"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "",
+     "HVAC"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "",
+     "Center gateway module"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "",
+     "Integrated chassis control module"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "",
+     "Charger"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "",
+     "Auxiliary power outlet / cigar lighter"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "",
+     "OnStar"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "",
+     "Monitor"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "",
+     "Object detection"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "",
+     "Body control module 1 on/off"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "",
+     "Radio"
+    ],
+    [
+     "F43",
+     "Circuit breaker MINI",
+     "",
+     "Rear accessory power outlet"
+    ],
+    [
+     "F44",
+     "Circuit breaker MINI",
+     "",
+     "Front accessory power outlet"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Logistics relay"
+    ]
+   ]
+  }
+ ]
+}

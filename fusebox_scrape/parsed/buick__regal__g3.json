@@ -1,0 +1,349 @@
+{
+ "make_slug": "buick",
+ "model_slug": "regal",
+ "brand_db": "Buick",
+ "model_db_name": "Regal",
+ "model_id": 968,
+ "generation_name": "3rd generation",
+ "generation_code": "GM10 / W-body",
+ "year_start": 1989,
+ "year_end": 1996,
+ "trim_label": "",
+ "representative_year": 1996,
+ "source_url": "https://www.startmycar.com/buick/regal/info/fusebox/1996",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-regal-1996-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Instrument panel cigarette lighter"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "DRL module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "HVAC 2 - HVAC control assembly, solenoid box"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Hazard flasher"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Power accessory 2 - sunroof control unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Lock control - door lock relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "I/P electronics battery feed - chime, EBCM, theft-deterrent, radio, amplifier, trip computer"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Starter relay"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Anti-theft - theft-deterrent module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "ABS - EBCM, ABS relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "HVAC blower motor relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "HVAC 1 - air temp valve motor, trip computer, DRL module, HVAC control, cruise switch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Rear defog - HVAC control assembly defogger switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Power accessory 1 - antenna relay, power mirror switch, door lock/handle switches, trunk lamp"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Air bag system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Stoplamps - TCC/brake switch"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Cruise control"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Courtesy lamps - vanity mirrors, I/P lamps, dome and reading lamps"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Wiper switch"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Turn signal flasher"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Power locks - door lock relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Auxiliary power"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Radio, steering wheel radio switches"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "I/P electronics ignition feed - headlamp switch, cruise cut-out, air bag, cluster, chime, DRL"
+    ],
+    [
+     "C",
+     "Circuit breaker ATO",
+     "",
+     "Power windows"
+    ],
+    [
+     "D",
+     "Circuit breaker ATO",
+     "",
+     "Power seats"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Underhood electrical center - passenger's side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-regal-1996-genid-g3-1.webp",
+   "fuses": [
+    [
+     "R/CMPT REL",
+     "Fuse MINI",
+     "",
+     "Remote trunk release"
+    ],
+    [
+     "ECM BAT",
+     "Fuse MINI",
+     "",
+     "PCM, fuel pump, fuel pump relay, fan control 1 relay"
+    ],
+    [
+     "A/C CONT",
+     "Fuse MINI",
+     "",
+     "A/C compressor relay (VIN M only)"
+    ],
+    [
+     "TCC",
+     "Fuse MINI",
+     "",
+     "Automatic transaxle, transaxle range switch"
+    ],
+    [
+     "F/INJN",
+     "Fuse MINI",
+     "",
+     "Fuel injectors"
+    ],
+    [
+     "ECM IGN",
+     "Fuse MINI",
+     "",
+     "PCM, EGR, CCP, MAF sensor, oxygen sensor, fan 2 relay"
+    ],
+    [
+     "ELEK IGN",
+     "Fuse MINI",
+     "",
+     "Electronic ignition control module"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "",
+     "I/P fuse block"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "",
+     "Fan control 1 relay"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "",
+     "Passenger underhood center and I/P fuses 5, 14, 23, 32"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "",
+     "Fan control 2 relay, I/P fuse 16, power seat breaker D"
+    ],
+    [
+     "14",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "16",
+     "Relay",
+     "",
+     "Fan control 2 relay - secondary cooling fan"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Fan control 1 relay - primary cooling fan"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Ignition relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Underhood electrical center - driver's side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-regal-1996-genid-g3-2.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Headlamp switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Horn relay, underhood lamp"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Anti-lock brake system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "EVO steering"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "",
+     "IGN SW2 - power windows, breaker D, TCC and ENG EMIS fuses"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "",
+     "IGN SW1 - radio, wiper, HVAC, ABS, turn signal, injection and ignition fuses"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "",
+     "Headlamps - circuit breaker to headlamp switch"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "",
+     "ABS relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "ABS relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ]
+   ]
+  }
+ ]
+}
