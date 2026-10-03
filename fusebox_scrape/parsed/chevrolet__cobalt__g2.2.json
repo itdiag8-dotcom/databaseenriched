@@ -1,0 +1,426 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "cobalt",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Cobalt",
+ "model_id": 1118,
+ "generation_name": "2nd generation 2nd facelift",
+ "generation_code": "GSV / Gamma II",
+ "year_start": 2020,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/chevrolet/cobalt/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cobalt-2023-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Exterior rearview mirrors"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "ABS module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Voltage regulator"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Headlight leveling/rearview camera"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Cold start fuel pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Engine control module / automatic transmission module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Radiator fan relay / air conditioning relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Front washer"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Cold start fuel pump"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Engine control module / mass air flow sensor"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Engine control module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Ignition and injection control"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "High beam (left side)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "High beam (right side)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Front fog light"
+    ],
+    [
+     "JCF1",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS module"
+    ],
+    [
+     "JCF2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "JCF3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heating, ventilation and air conditioning control relay"
+    ],
+    [
+     "JCF4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Airbag / instrument panel / clutch pedal / headlight adjustment"
+    ],
+    [
+     "JCF8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan"
+    ],
+    [
+     "JCF11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Engine sensor power relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cobalt-2023-1.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "25A",
+     "Front power windows with comfort module [if equipped]"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Hazard indicator / rear defogger indicator / brake light / high-mount stop light / license plate light / washer relay / ignition relay / engine control ignition signal / trunk lid lock relay / brake system / A/C indicator"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Door lock system indicator (alarm) / rear defogger relay / accessory relay"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "30A",
+     "Left low beam / right tail light / left brake light / left turn signal / right front position light / left tail light / fog light"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "30A",
+     "Right low beam / left tail light / right brake light / right turn signal / cargo light / left front position light / right tail light"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "25A",
+     "HVAC indicator / HVAC module relay control"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel lighting / right rear turn signal / AT selector backlight / reverse light"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Left rear turn signal / courtesy light / AT shift lock"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "30A",
+     "Door and fuel filler flap locking system"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "25A",
+     "Rear power windows with comfort module [if equipped]"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Trunk lid locking system"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Airbag system"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Data link connector (DLC)"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "2A",
+     "Ignition switch"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "HVAC module"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Power window switch with remote closing on all four doors [if equipped]"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "OnStar"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Central Gateway Module (CGM)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Radio (accessory / Double Din / My Link 1)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Radio (My Link 2)"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor / automatic lighting sensor [if equipped]"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Parking sensor"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Airbag system"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "7.5A",
+     "Clutch pedal"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "HVAC module"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls lighting"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "12V power outlet / cigarette lighter"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "Radio accessory"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Trunk lid locking system relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "HVAC module relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Accessory radio / 12V power outlet / cigarette lighter relay"
+    ]
+   ]
+  }
+ ]
+}
