@@ -1,0 +1,347 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "ram-3500",
+ "brand_db": "Dodge",
+ "model_db_name": "Ram 3500",
+ "model_id": 1466,
+ "generation_name": "4th generation (\"DJ\")",
+ "generation_code": "g4",
+ "year_start": 2009,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/dodge/ram-3500/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Totally Integrated Power Module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-ram-3500-2010-genid-g4-0.webp",
+   "fuses": [
+    [
+     "J01",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery - PreSafe #1"
+    ],
+    [
+     "J02",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery - trailer tow main"
+    ],
+    [
+     "J03",
+     "Fuse FMX/JCase",
+     "25A",
+     "Battery - passenger door node"
+    ],
+    [
+     "J04",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery - ABS pump"
+    ],
+    [
+     "J05",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery - ABS valve"
+    ],
+    [
+     "J06",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery - headlamp wash / MTV / CM2200 / electric vacuum pump"
+    ],
+    [
+     "J07",
+     "Fuse FMX/JCase",
+     "25A",
+     "Battery - driver door node"
+    ],
+    [
+     "J08",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery - DTCM / axle locks"
+    ],
+    [
+     "J09",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery - PLG / electric brake"
+    ],
+    [
+     "J10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery - L/bar / off-road"
+    ],
+    [
+     "J11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery - sway / Thatcham / rear doors"
+    ],
+    [
+     "J12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter solenoid"
+    ],
+    [
+     "J13",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery - radiator fan #1/#2 / SSR"
+    ],
+    [
+     "J14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery - folding seat / PZEV"
+    ],
+    [
+     "J15",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery - IOD main"
+    ],
+    [
+     "J16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front HVAC motor"
+    ],
+    [
+     "M17",
+     "Fuse MINI",
+     "25A",
+     "Battery - sunroof / skylight"
+    ],
+    [
+     "M18",
+     "Fuse MINI",
+     "25A",
+     "TCM / transmission range"
+    ],
+    [
+     "M19",
+     "Fuse MINI",
+     "5A",
+     "Ignition run/acc - sunroof / window switch illumination"
+    ],
+    [
+     "M20",
+     "Fuse MINI",
+     "25A",
+     "Front wiper"
+    ],
+    [
+     "M21",
+     "Fuse MINI",
+     "25A",
+     "Door locks"
+    ],
+    [
+     "M22",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "M23",
+     "Fuse MINI",
+     "20A",
+     "Battery - trailer light / PreSafe #2"
+    ],
+    [
+     "M24",
+     "Fuse MINI",
+     "20A",
+     "Battery - trailer tow BUX / HGM"
+    ],
+    [
+     "M25",
+     "Fuse MINI",
+     "10A",
+     "Battery - J1962 diagnostic / mirrors"
+    ],
+    [
+     "M26",
+     "Fuse MINI",
+     "10A",
+     "Battery - ignition switch, WIN, PASS"
+    ],
+    [
+     "M27",
+     "Fuse MINI",
+     "15A",
+     "Battery - CHMSL / brake switch"
+    ],
+    [
+     "M28",
+     "Fuse MINI",
+     "10A",
+     "Battery - Corax TPM / PEM / HVAC heater pump"
+    ],
+    [
+     "M29",
+     "Fuse MINI",
+     "15A",
+     "Battery - folding mirror"
+    ],
+    [
+     "M30",
+     "Fuse MINI",
+     "25A",
+     "Battery - inverter"
+    ],
+    [
+     "M31",
+     "Fuse MINI",
+     "20A",
+     "Battery - power outlet #1"
+    ],
+    [
+     "M32",
+     "Fuse MINI",
+     "20A",
+     "Front/rear washer"
+    ],
+    [
+     "M33",
+     "Fuse MINI",
+     "15A",
+     "Battery - NGC / EATX / PCM"
+    ],
+    [
+     "M34",
+     "Fuse MINI",
+     "15A",
+     "Battery - CCN / interior light / SCM / switch bank"
+    ],
+    [
+     "M35",
+     "Fuse MINI",
+     "20A",
+     "Ignition run - front seat / vent"
+    ],
+    [
+     "M36",
+     "Fuse MINI",
+     "20A",
+     "Ignition run - rear seat / steering wheel"
+    ],
+    [
+     "M37",
+     "Fuse MINI",
+     "10A",
+     "Horn #1"
+    ],
+    [
+     "M38",
+     "Fuse MINI",
+     "20A",
+     "IOD - CCN / interior modules"
+    ],
+    [
+     "M39",
+     "Fuse MINI",
+     "30A",
+     "IOD - amplifier / radio"
+    ],
+    [
+     "M40",
+     "Fuse MINI",
+     "25A",
+     "Rear wiper"
+    ],
+    [
+     "M41",
+     "Fuse MINI",
+     "15A",
+     "IOD - SDARS / VES 2-3 / DVD / HFM / UGDO / vanity lamp"
+    ],
+    [
+     "M42",
+     "Fuse MINI",
+     "10A",
+     "IOD - HVAC, underhood lamp"
+    ],
+    [
+     "M43",
+     "Fuse MINI",
+     "10A",
+     "Horn #2"
+    ],
+    [
+     "M44",
+     "Fuse MINI",
+     "10A",
+     "Ignition run/start - ORC / OCM"
+    ],
+    [
+     "M45",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - ORC / trailer tow (BUX) sense"
+    ],
+    [
+     "M46",
+     "Fuse MINI",
+     "20A",
+     "Ignition run - trailer tow (BUX)"
+    ],
+    [
+     "M47",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - headlamp wash / HVAC / park assist / IR sensor"
+    ],
+    [
+     "M48",
+     "Fuse MINI",
+     "20A",
+     "Ignition run/acc - power outlet #2"
+    ],
+    [
+     "M49",
+     "Fuse MINI",
+     "20A",
+     "Ignition run/acc/battery - power outlet #3"
+    ],
+    [
+     "M50",
+     "Fuse MINI",
+     "25A",
+     "ASD #1, #2"
+    ],
+    [
+     "M51",
+     "Fuse MINI",
+     "20A",
+     "ASD #3"
+    ],
+    [
+     "M52",
+     "Fuse MINI",
+     "10A",
+     "Ignition run/start - sway / t-case / DTCM / FAD"
+    ],
+    [
+     "M53",
+     "Fuse MINI",
+     "15A",
+     "Ignition run/start - MFSW / CCN / SCM / TPM / rearview"
+    ],
+    [
+     "M54",
+     "Fuse MINI",
+     "20A",
+     "IOD - spare"
+    ]
+   ]
+  }
+ ]
+}
