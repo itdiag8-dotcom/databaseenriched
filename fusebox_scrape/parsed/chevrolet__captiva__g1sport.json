@@ -1,0 +1,636 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "captiva",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Captiva",
+ "model_id": 1108,
+ "generation_name": "1st generation (Captiva Sport)",
+ "generation_code": "L07",
+ "year_start": 2007,
+ "year_end": 2014,
+ "trim_label": "Sport",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/chevrolet/captiva/info/fusebox/2014/trims-sport",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-captiva-2014-genid-opel__antara_g1-trims-sport-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "",
+     "Pulse width modulation fan"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Ignition coil B"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Ignition coil A"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Engine control module/powertrain"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 3"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "",
+     "Instrument panel fuse block main feed 3"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "",
+     "Fuel pump / vacuum pump"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Miscellaneous engine sensors"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Antilock brake system"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Body control module"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Stoplamps"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Front wiper motor"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Heater, ventilation and air conditioning system"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "",
+     "Rear wiper motor"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Parking lamps (left)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Trailer parking lamps"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Parking lamps (right)"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Low-beam headlamp (right)"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Low-beam headlamp (left)"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "Instrument panel fuse block main feed 2"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Parking lamps (right) [Europe park lamps]"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Heated washer fluid/heated mirrors"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "High-beam headlamp (right)"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "High-beam headlamp (left)"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F36",
+     "Fuse FMX/JCase",
+     "",
+     "Electric parking brake"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "",
+     "ABS"
+    ],
+    [
+     "F38",
+     "Fuse FMX/JCase",
+     "",
+     "Instrument panel fuse block main feed 1"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump/vacuum pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan 3"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Wiper control"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Wiper speed"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Low-beam headlamps"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Stoplamps"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-captiva-2014-genid-opel__antara_g1-trims-sport-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Fuel system control module vent solenoid"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Fuel door lock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Driver door lock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Trailer"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet jack"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Heated seat power"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Body control module (parking/turn signal)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "Passenger power window"
+    ],
+    [
+     "11",
+     "Relay",
+     "",
+     "Accessory/run accessory power"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Body control module (stoplamp)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Body control module (courtesy)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "",
+     "Driver power window"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Cigarette and auxiliary power outlet"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "",
+     "Sunroof battery"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet jack rear cargo"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Run crank"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Body control module (turn signal)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Run"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Front washer"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Liftgate"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Heating mat switch"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Fuel system control module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "All-wheel drive/ventilation"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Power battery key on run"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Inside rearview mirror/remote compass module"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Body control module (dimmer)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Logistic mode"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "",
+     "Heating, ventilation and air conditioning blower"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Safety diagnosis module (ignition 1)"
+    ],
+    [
+     "41",
+     "Diode MINI",
+     "",
+     "Power diode"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Body control module (battery voltage)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Trailer battery"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "SiriusXM satellite radio [if equipped]/HVAC/data link connection"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Power moding"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Speed sensitive power steering"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "Export body control module"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Body control module (interior light)"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Safety diagnosis module (battery)"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Communications integration module"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Outside rearview mirror"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Key capture"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "Steering wheel switch"
+    ]
+   ]
+  }
+ ]
+}

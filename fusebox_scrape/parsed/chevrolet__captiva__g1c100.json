@@ -1,0 +1,697 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "captiva",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Captiva",
+ "model_id": 1108,
+ "generation_name": "C100/C140",
+ "generation_code": "C100/C140",
+ "year_start": 2006,
+ "year_end": 2018,
+ "trim_label": "1st Facelift",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/chevrolet/captiva/info/fusebox/2015/ver-1st_facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-captiva-2015-genid-g1-ver-1st%2520facelift-0.webp",
+   "fuses": [
+    [
+     "ABS",
+     "Fuse MINI",
+     "",
+     "Anti-lock brake system"
+    ],
+    [
+     "A/C",
+     "Fuse MINI",
+     "",
+     "Heating, ventilation and air conditioning system"
+    ],
+    [
+     "AUX PUMP",
+     "Fuse MINI",
+     "",
+     "Auxiliary pump"
+    ],
+    [
+     "BATT1",
+     "Fuse FMX/JCase",
+     "",
+     "Instrument panel fuse box main power 1"
+    ],
+    [
+     "BATT2",
+     "Fuse FMX/JCase",
+     "",
+     "Instrument panel fuse box main power 2"
+    ],
+    [
+     "BATT3",
+     "Fuse FMX/JCase",
+     "",
+     "Instrument panel fuse box main power 3"
+    ],
+    [
+     "BCM",
+     "Fuse MINI",
+     "",
+     "Body control module"
+    ],
+    [
+     "ECM",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "ECM PWR TRN",
+     "Fuse MINI",
+     "",
+     "Engine control module/powertrain"
+    ],
+    [
+     "ENG SNSR",
+     "Fuse MINI",
+     "",
+     "Various engine sensors"
+    ],
+    [
+     "EPB",
+     "Fuse FMX/JCase",
+     "",
+     "Electric parking brake"
+    ],
+    [
+     "FAN 1",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "FRT WPR",
+     "Fuse MINI",
+     "",
+     "Windshield wiper motor"
+    ],
+    [
+     "FUEL/VAC",
+     "Fuse FMX/JCase",
+     "",
+     "Fuel pump/vacuum pump"
+    ],
+    [
+     "HDLP WASHER",
+     "Fuse MINI",
+     "",
+     "Headlight washer"
+    ],
+    [
+     "HI BEAM LH",
+     "Fuse MINI",
+     "",
+     "High beam headlight (left)"
+    ],
+    [
+     "HI BEAM RH",
+     "Fuse MINI",
+     "",
+     "High beam headlight (right)"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "HTD WASH/MIR",
+     "Fuse MINI",
+     "",
+     "Heated washer fluid/heated mirrors"
+    ],
+    [
+     "IGN COIL A",
+     "Fuse MINI",
+     "",
+     "Ignition coil A"
+    ],
+    [
+     "IGN COIL B",
+     "Fuse MINI",
+     "",
+     "Ignition coil B"
+    ],
+    [
+     "LO BEAM LH",
+     "Fuse MINI",
+     "",
+     "Low beam headlight (left)"
+    ],
+    [
+     "LO BEAM RH",
+     "Fuse MINI",
+     "",
+     "Low beam headlight (right)"
+    ],
+    [
+     "PRK LP LH",
+     "Fuse MINI",
+     "",
+     "Parking lights (left)"
+    ],
+    [
+     "PRK LP RH",
+     "Fuse MINI",
+     "",
+     "Parking lights (right)"
+    ],
+    [
+     "PRK LP RH/TAILGATE",
+     "Fuse MINI",
+     "",
+     "Parking lights (right)/tailgate"
+    ],
+    [
+     "PWM FAN",
+     "Fuse MINI",
+     "",
+     "Pulse width modulation fan"
+    ],
+    [
+     "REAR DEFOG",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defroster"
+    ],
+    [
+     "REAR WPR",
+     "Fuse FMX/JCase",
+     "",
+     "Rear wiper motor"
+    ],
+    [
+     "STOP LAMP",
+     "Fuse MINI",
+     "",
+     "Brake lights"
+    ],
+    [
+     "STRTR",
+     "Fuse FMX/JCase",
+     "",
+     "Starter motor"
+    ],
+    [
+     "TCM",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "TRLR PRK LP",
+     "Fuse MINI",
+     "",
+     "Trailer parking lights"
+    ],
+    [
+     "AUX PUMP RLY",
+     "Relay",
+     "",
+     "Auxiliary pump relay"
+    ],
+    [
+     "FUEL/VAC PUMP RLY",
+     "Relay",
+     "",
+     "Fuel pump/vacuum pump relay"
+    ],
+    [
+     "HDLP WSHR RLY",
+     "Relay",
+     "",
+     "Headlight washer relay"
+    ],
+    [
+     "HI BEAM RLY",
+     "Relay",
+     "",
+     "High beam headlights relay"
+    ],
+    [
+     "LO BEAM RLY",
+     "Relay",
+     "",
+     "Low beam headlights relay"
+    ],
+    [
+     "PWR/TRN RLY",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "REAR DEFOG RLY",
+     "Relay",
+     "",
+     "Rear window defroster relay"
+    ],
+    [
+     "STOP LAMP RLY",
+     "Relay",
+     "",
+     "Brake lights relay"
+    ],
+    [
+     "STRTR RLY",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "WPR CNTRL RLY",
+     "Relay",
+     "",
+     "Windshield wiper control relay"
+    ],
+    [
+     "WPR SPD RLY",
+     "Relay",
+     "",
+     "Windshield wiper speed relay"
+    ],
+    [
+     "ABS RLY",
+     "Relay",
+     "",
+     "Anti-lock brake system relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Box (Diesel Only)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-captiva-2015-genid-g1-ver-1st%2520facelift-1.webp",
+   "fuses": [
+    [
+     "B+",
+     "Battery terminal",
+     "",
+     "B+ battery terminal"
+    ],
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "(PTC 3) Additional heater"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "(PTC 2) Additional heater"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "(PTC 1) Additional heater"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "(F/F HTR) Fuel filter heater"
+    ],
+    [
+     "F5",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "(GPCU) Glow plug control"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PTC 3 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PTC 2 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PTC 1 relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel filter heater relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-captiva-2015-genid-g1-ver-1st%2520facelift-2.webp",
+   "fuses": [
+    [
+     "SCRPM",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "APO JACK (CONSOLE)",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet"
+    ],
+    [
+     "APO JACK (REAR CARGO)",
+     "Fuse MINI",
+     "",
+     "Luggage compartment auxiliary power outlet"
+    ],
+    [
+     "AUDIO/KEY CAPTURE",
+     "Fuse MINI",
+     "",
+     "Audio system / key capture"
+    ],
+    [
+     "AWD/VENT",
+     "Fuse MINI",
+     "",
+     "All-wheel drive / ventilation"
+    ],
+    [
+     "BCM (CTSY)",
+     "Fuse MINI",
+     "",
+     "Body control module (courtesy)"
+    ],
+    [
+     "BCM (DIMMER)",
+     "Fuse MINI",
+     "",
+     "Body control module (dimmer)"
+    ],
+    [
+     "BCM (INT LIGHT) TRLR FOG",
+     "Fuse MINI",
+     "",
+     "Body control module (interior light), trailer fog lights"
+    ],
+    [
+     "BCM (PRK/TRN)",
+     "Fuse MINI",
+     "",
+     "Body control module (parking light / turn signal)"
+    ],
+    [
+     "BCM (STOP)",
+     "Fuse MINI",
+     "",
+     "Body control module (brake light)"
+    ],
+    [
+     "BCM (TRN SIG)",
+     "Fuse MINI",
+     "",
+     "Body control module (turn signal)"
+    ],
+    [
+     "BCM (VBATT)",
+     "Fuse MINI",
+     "",
+     "Body control module (battery voltage)"
+    ],
+    [
+     "CIGAR",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "CLSTR",
+     "Fuse MINI",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "DC/DC CONV",
+     "Fuse FMX/JCase",
+     "",
+     "DC/DC converter"
+    ],
+    [
+     "DRL",
+     "Fuse MINI",
+     "",
+     "Daytime running lights"
+    ],
+    [
+     "DR/LCK",
+     "Fuse MINI",
+     "",
+     "Driver door lock"
+    ],
+    [
+     "DRVR PWR SEAT",
+     "Fuse FMX/JCase",
+     "",
+     "Power driver seat"
+    ],
+    [
+     "DRV PWR WNDW",
+     "Fuse FMX/JCase",
+     "",
+     "Power driver window"
+    ],
+    [
+     "F/DOOR LOCK",
+     "Fuse MINI",
+     "",
+     "Fuel filler door lock"
+    ],
+    [
+     "FRT WSR",
+     "Fuse MINI",
+     "",
+     "Windshield washer"
+    ],
+    [
+     "FSCM",
+     "Fuse MINI",
+     "",
+     "Fuel system control module"
+    ],
+    [
+     "FSCM/VENT SOL",
+     "Fuse MINI",
+     "",
+     "Vent solenoid / fuel system control module"
+    ],
+    [
+     "HEATING MAT SW",
+     "Fuse MINI",
+     "",
+     "Heated mat switch"
+    ],
+    [
+     "HTD SEAT PWR/REAR A/C",
+     "Fuse MINI",
+     "",
+     "Heated seats power / rear air conditioning"
+    ],
+    [
+     "HVAC BLWR",
+     "Fuse FMX/JCase",
+     "",
+     "Heating, ventilation and air conditioning blower"
+    ],
+    [
+     "IPC",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster"
+    ],
+    [
+     "ISRVM/RCM",
+     "Fuse MINI",
+     "",
+     "Interior rearview mirror / remote compass module"
+    ],
+    [
+     "L/GATE",
+     "Fuse MINI",
+     "",
+     "Tailgate"
+    ],
+    [
+     "LOGISTIC MODE",
+     "Fuse MINI",
+     "",
+     "Logistics mode"
+    ],
+    [
+     "OSRVM",
+     "Fuse MINI",
+     "",
+     "Exterior rearview mirror"
+    ],
+    [
+     "PA KS",
+     "Fuse MINI",
+     "",
+     "PA KS"
+    ],
+    [
+     "PASS PWR WNDW",
+     "Fuse FMX/JCase",
+     "",
+     "Power passenger window"
+    ],
+    [
+     "PWR DIODE",
+     "Fuse MINI",
+     "",
+     "Power diode"
+    ],
+    [
+     "PWR/MODING",
+     "Fuse MINI",
+     "",
+     "Power moding"
+    ],
+    [
+     "RR FOG",
+     "Fuse MINI",
+     "",
+     "Rear fog / rear defroster"
+    ],
+    [
+     "RR HEAT SEAT",
+     "Fuse MINI",
+     "",
+     "Rear heated seat"
+    ],
+    [
+     "RUN 2",
+     "Fuse MINI",
+     "",
+     "Key-to-battery in Run position"
+    ],
+    [
+     "RUN/CRNK",
+     "Fuse MINI",
+     "",
+     "Run / start"
+    ],
+    [
+     "RVS/HVAC/DLO",
+     "Fuse MINI",
+     "",
+     "RVS / HVAC / data link connection"
+    ],
+    [
+     "SDM (BATT)",
+     "Fuse MINI",
+     "",
+     "Sensing and diagnostic module (battery)"
+    ],
+    [
+     "SDM (IGN 1)",
+     "Fuse MINI",
+     "",
+     "Sensing and diagnostic module (ignition 1)"
+    ],
+    [
+     "AUX",
+     "Fuse MINI",
+     "",
+     "Auxiliary"
+    ],
+    [
+     "S/ROOF",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "S/ROOF BATT",
+     "Fuse FMX/JCase",
+     "",
+     "Sunroof battery"
+    ],
+    [
+     "SSPS",
+     "Fuse MINI",
+     "",
+     "Speed-sensitive power steering"
+    ],
+    [
+     "STR/WHL SW",
+     "Fuse MINI",
+     "",
+     "Steering wheel switch"
+    ],
+    [
+     "TRLR",
+     "Fuse MINI",
+     "",
+     "Trailer"
+    ],
+    [
+     "TRLR BATT",
+     "Fuse MINI",
+     "",
+     "Trailer battery"
+    ],
+    [
+     "XBCM",
+     "Fuse MINI",
+     "",
+     "Export body control module"
+    ],
+    [
+     "ACC/RAP RLY",
+     "Relay",
+     "",
+     "Accessory power in accessory / run mode"
+    ],
+    [
+     "CIGAR APO JACK RLY",
+     "Relay",
+     "",
+     "Auxiliary power outlet and cigarette lighter relay"
+    ],
+    [
+     "RUN/CRNK RLY",
+     "Relay",
+     "",
+     "Run / start relay"
+    ],
+    [
+     "RUN RLY",
+     "Relay",
+     "",
+     "Run relay"
+    ],
+    [
+     "RVC",
+     "Fuse MINI",
+     "",
+     "RVC"
+    ]
+   ]
+  }
+ ]
+}
