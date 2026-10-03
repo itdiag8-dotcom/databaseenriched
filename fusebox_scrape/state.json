@@ -640,9 +640,11 @@
   "chevrolet/blazer": "done",
   "chevrolet/bolt-euv": "done",
   "chevrolet/bolt-ev": "done",
-  "chevrolet/ck": "done"
+  "chevrolet/ck": "done",
+  "chevrolet/ck-1500": "done_no_db_model",
+  "chevrolet/calibra": "no_data"
  },
- "last_updated": "2026-10-03T21:28:37.430715",
+ "last_updated": "2026-10-03T21:28:57.688468",
  "current_brand": "chevrolet",
  "audi_done_models": [
   "a1",
@@ -754,7 +756,8 @@
   "cadillac/elr",
   "cadillac/escalade-hybrid",
   "chery/beat",
-  "chevrolet/beretta"
+  "chevrolet/beretta",
+  "chevrolet/calibra"
  ],
  "brand_aliases": {
   "lynk-co": "Lynk & Co",
@@ -1191,6 +1194,8 @@
   "blazer",
   "bolt-euv",
   "bolt-ev",
-  "ck"
+  "ck",
+  "ck-1500",
+  "calibra"
  ]
 }
