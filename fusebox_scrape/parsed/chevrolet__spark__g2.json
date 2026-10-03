@@ -1,0 +1,342 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "spark",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Spark",
+ "model_id": 1192,
+ "trim_label": "",
+ "generation_name": "Generation M200/M250 (M200, M250)",
+ "generation_code": "g2",
+ "year_start": 2006,
+ "year_end": 2014,
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/chevrolet/spark/info/fusebox/2014/m200m250",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-spark-2014-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "EBCM"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "EFI system, ECM, injectors, rough road sensor, EEGR, HO2S, CMP sensor, canister purge solenoid"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Headlamp high relay"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "TCM, ECM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Cooling fan low relay"
+    ],
+    [
+     "14",
+     "Relay",
+     "",
+     "Cooling fan low speed relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Front fog lamp relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Horn, horn relay"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "19",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "21",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan high relay"
+    ],
+    [
+     "23",
+     "Relay",
+     "",
+     "Cooling fan high speed relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp, audio, hazard/defog/AC switches, gear lever illumination, cluster, headlamp leveling, DRL module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "DRL module, tail lamp, position lamp and HLLD"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low, ECM, rear fog lamp relay, DRL module, headlamp leveling switch"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "I/P fuse block (F1-F5)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Hazard switch"
+    ],
+    [
+     "30",
+     "Relay",
+     "",
+     "Illumination relay"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Defog relay"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-spark-2014-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "DRL relay, DRL module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "DLC, cluster, tell tale box, immobilizer"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Audio, battery saver, room lamp, tailgate lamp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "CDL relay, central door locking switch, anti-theft control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Wiper switch, rear wiper motor, defog relay, defroster switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Wiper switch, wiper relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "TR switch (A/T), reverse lamp switch (M/T)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Blower switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Cluster, tell tale box, stop lamp, battery saver, anti-theft, O/D switch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "SDM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "Power window switches"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Hazard switch, over speed buzzer relay, DRL module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Engine fuse block"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Electric OSRVM"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear fog lamp relay / Over speed warning buzzer"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "DRL relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Defog relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Blinker unit"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Battery saver"
+    ]
+   ]
+  }
+ ]
+}

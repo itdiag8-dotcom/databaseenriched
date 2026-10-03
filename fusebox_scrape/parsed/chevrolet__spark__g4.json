@@ -1,0 +1,642 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "spark",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Spark",
+ "model_id": 1192,
+ "generation_name": "Generation M400 (M400)",
+ "generation_code": "g4",
+ "year_start": 2015,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/chevrolet/spark/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-spark-2022-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Liftgate latch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Transmission output speed sensor"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Outside mirror heater"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Continuously variable transmission control module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Mass airflow sensor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "ABS valve"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Rear vision camera"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Engine control module / Transmission control module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Fuel injection control module / Starter motor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Fuel pump motor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Engine control module 1"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Engine control module 2"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Injector / Ignition"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "A/C system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Intelligent battery sensor"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Cooling fan - low"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Virtual key pass system sensor"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Outside mirror motor control"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "ECM/TCM battery"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Automatic occupant sensing"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Headlamp leveling motor"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Air quality ionizer"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Left cornering lamp"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Washer motor"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Right cornering lamp"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "Virtual key pass system sensor"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 2"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "",
+     "In-panel bussed electrical center"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "",
+     "Automated manual transmission"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 1"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "",
+     "ABS pump"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan - high"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "",
+     "Front wiper motor"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "",
+     "Accessory/Retained"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump motor"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter 2"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "A/C system"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan - low"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan - high"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Run/Crank"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Starter 1"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-spark-2022-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "OnStar"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "HVAC control module/ECC"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel cluster"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Body control module 1 (CVT stop and start)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "SBSA / Rear parking assist"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Data link connector"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Electric steering column lock"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Sensing and diagnostic module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "DC-DC converter"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Air quality ionizer"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic toll collection system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Linear power module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Passive entry / passive start"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "2A",
+     "Discrete logic ignition switch (non-CVT stop and start)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Forward collision alert"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel cluster"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Reflected LED alert display"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Headlamp leveling switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Automated manual transmission module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power outlet"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "Sunroof"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Central gateway module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "30A",
+     "Body control module 8"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Body control module 7"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Body control module 6"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Body control module 5"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Body control module 4"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Body control module 3"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Body control module 2 (non-CVT stop and start)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Body control module 1 (non-CVT stop and start)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "2A",
+     "Discrete logic ignition switch (CVT stop and start)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls backlighting"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Front heated seats"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "HVAC module"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Heated steering wheel"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Body control module 2 (CVT stop and start)"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "25A",
+     "Front power window"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "25A",
+     "Rear power window"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "30A",
+     "DC DC converter / Logistics"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver express power window"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Logistics relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory / Retained accessory power relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Interruptible retained accessory power relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Run"
+    ]
+   ]
+  }
+ ]
+}

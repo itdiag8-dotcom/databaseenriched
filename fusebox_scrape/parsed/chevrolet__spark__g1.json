@@ -1,0 +1,481 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "spark",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Spark",
+ "model_id": 1192,
+ "trim_label": "",
+ "generation_name": "Generation M100/M150 (M100, M150)",
+ "generation_code": "g1",
+ "year_start": 1999,
+ "year_end": 2005,
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/chevrolet/spark/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-spark-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "25A",
+     "Power windows"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Turn signal"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Stop light"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Audio system"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Wipers"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Reverse light"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Power mirror"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Interior light"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Hazard light"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Starter motor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Box (Ver.1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-spark-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "(ECM) Engine control unit"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "(TCU) Transmission control unit"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "A/C blower motor"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Heated glass"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Right tail lamp"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Left tail lamp"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Headlamps"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "(ECM) Engine control unit"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Auto clutch"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Auto clutch"
+    ],
+    [
+     "20",
+     "Fuse MAXI",
+     "50A",
+     "ABS"
+    ],
+    [
+     "21",
+     "Fuse MAXI",
+     "40A",
+     "IP fuse box"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heater / A/C relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "H/pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay / airbag"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Tail lamps relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "A/C relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Fuse Box (Ver.2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-spark-2005-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Fuel pump"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "ECM"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "TCU"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Blower motor"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Heated glass"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Right tail light"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Left tail light"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "30A",
+     "Cooling fan (high)"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Cooling fan (low)"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Headlights"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "ECM"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "20",
+     "Fuse MAXI",
+     "50A",
+     "ABS"
+    ],
+    [
+     "21",
+     "Fuse MAXI",
+     "40A",
+     "Dashboard fuse box"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay (high)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front fog light relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan relay (low)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Tail light relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlight relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ]
+   ]
+  }
+ ]
+}
