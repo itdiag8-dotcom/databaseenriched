@@ -1,0 +1,474 @@
+{
+ "make_slug": "buick",
+ "model_slug": "terraza",
+ "brand_db": "Buick",
+ "model_db_name": "Terraza",
+ "model_id": 984,
+ "generation_name": "1st generation",
+ "generation_code": "GMT201 / U",
+ "year_start": 2005,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/buick/terraza/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-terraza-2007-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Trunk, door locks"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Electronic level control"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Radio amplifier"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "OnStar"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Keyless entry module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Cluster, HVAC"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "2A",
+     "Cruise switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel illumination"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Power mirror"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Stoplamp, turn lamps"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "Electronic level control"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Center high-mounted stoplamp, back-up lamps"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Canister ventilation"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Park lamps"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Power sliding door"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "Left power sliding door"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "Right power sliding door"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "Park lamps relay"
+    ],
+    [
+     "29",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "30",
+     "Relay",
+     "",
+     "Rear defog relay"
+    ],
+    [
+     "31",
+     "Circuit breaker ATO",
+     "",
+     "Power seats"
+    ],
+    [
+     "32",
+     "Circuit breaker ATO",
+     "",
+     "Power window"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Underhood fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-terraza-2007-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module, electronic throttle control"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Electronic ignition"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Climate control, rear park assist, cruise control"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "25A",
+     "Auxiliary power"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "25A",
+     "Rear blower"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "PCM ignition"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Fuel injector"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Electronic throttle control"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Front windshield washer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "25A",
+     "Front blower"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Transmission solenoid"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Engine sensor, evaporator"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Emission, all-wheel drive"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "AC/DC inverter"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "25A",
+     "Front windshield wiper"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fan 1"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter solenoid"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS motor"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fan 2"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower high"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery main 3"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery main 2"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "",
+     "Battery main 1"
+    ],
+    [
+     "Diode 1",
+     "Diode MINI",
+     "",
+     "Diode"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fan 1 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Crank relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Ignition main relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fan 2 relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Wiper 2 relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Wiper 1 relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Fan 3 relay"
+    ]
+   ]
+  }
+ ]
+}
