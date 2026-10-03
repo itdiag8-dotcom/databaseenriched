@@ -309,7 +309,7 @@
   "byd": 1,
   "cadillac": "done"
  },
- "in_progress": null,
+ "in_progress": "chery",
  "queue_next_makes": [
   "arcfox",
   "chery",
@@ -625,10 +625,13 @@
   "cadillac/xt4": "done",
   "cadillac/xt5": "done",
   "cadillac/xt6": "done",
-  "cadillac/xts": "done"
+  "cadillac/xts": "done",
+  "chery/beat": "no_data",
+  "chery/j1": "done",
+  "chery/j11": "done"
  },
- "last_updated": "2026-10-03T21:16:32.431336",
- "current_brand": null,
+ "last_updated": "2026-10-03T21:17:53.358127",
+ "current_brand": "chery",
  "audi_done_models": [
   "a1",
   "a2",
@@ -737,7 +740,8 @@
   "byd/yuan-pro",
   "cadillac/celestiq",
   "cadillac/elr",
-  "cadillac/escalade-hybrid"
+  "cadillac/escalade-hybrid",
+  "chery/beat"
  ],
  "brand_aliases": {
   "lynk-co": "Lynk & Co",
@@ -1004,5 +1008,18 @@
   "xt5",
   "xt6",
   "xts"
+ ],
+ "chery_model_slugs": [
+  "beat",
+  "j1",
+  "j11",
+  "j3",
+  "qq",
+  "x1"
+ ],
+ "chery_done_models": [
+  "beat",
+  "j1",
+  "j11"
  ]
 }

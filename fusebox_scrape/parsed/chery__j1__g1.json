@@ -1,0 +1,692 @@
+{
+ "make_slug": "chery",
+ "model_slug": "j1",
+ "brand_db": "Chery",
+ "model_db_name": "A1",
+ "model_id": 5812,
+ "generation_name": "1st generation",
+ "generation_code": "S12",
+ "year_start": 2011,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/chery/j1/info/fusebox/2012",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-j1-2012-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main fuse"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module (BCM)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan high speed"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS brakes 2"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS brakes 1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Radiator fan low speed"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Main computer (ECU)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Main relay"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Diagnosis"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Sensors"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Illumination right"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Illumination left"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Front high beam right"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Front high beam left"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Front low beam right"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Front low beam left"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Light switch"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Air conditioning"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "High beam headlamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beam headlamp relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Radiator fan high speed"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Radiator fan low speed"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-j1-2012-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "High-speed fan"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "BCM"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "A/C"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electrical instrument"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Low-speed fan"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "ECU"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Primary relay"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Compressor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Right position lamp"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Left position lamp"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Compressor"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Electric fuel pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fan high-speed relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fan low-speed relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-j1-2012-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Cluster"
+    ],
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Cluster"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rearview mirrors"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Blower/AC"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Front wiper"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Start"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Brake"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Audio"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Cabin light"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Alarm switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Combination lamp switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Combination lamp switch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Defogger"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Intermittent wiper"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Low beam lights"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Instrument Panel (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-j1-2012-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Combined instruments"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rearview mirror, brake switch, BCM"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ABS control"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer, rear wiper power, sunroof control"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Steering power supply, AC relay coil"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Front windshield wiper"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Radio/player control"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Start"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic access"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Brake light"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Audio device"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Horn, fog light"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Clearance lamp, dome light"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Alarm switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Lamp switch, instrument"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Sunroof power supply"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Rear defogger"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Steering relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay"
+    ]
+   ]
+  }
+ ]
+}
