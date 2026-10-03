@@ -1,0 +1,474 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "impala",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Impala",
+ "model_id": 1148,
+ "generation_name": "9th generation (W-body)",
+ "generation_code": "g9",
+ "year_start": 2006,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/chevrolet/impala/info/fusebox/2016/9th-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-impala-2016-genid-g9-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Circuit breaker MAXI",
+     "",
+     "Power seats"
+    ],
+    [
+     "F2",
+     "Circuit breaker MAXI",
+     "",
+     "Power window"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Retained accessory power"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "25A",
+     "Door locks"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary outlets"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "25A",
+     "Amplifier"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "XM Radio"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Canister"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "2A",
+     "Power mirrors"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Airbags"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Trunk"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Trunk relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-impala-2016-genid-g9-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Body control module"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Center high-mounted stoplamp, back-up lamps"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Display"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Interior lamps, instrument panel dimmer"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Power drop, crank"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Airbag display"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "OnStar"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Electronic throttle control, engine control module"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Ignition 1"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Emissions 1"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Injector 2"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Emissions 2"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "AIR (air injection reactor) solenoid"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Vacuum pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Engine control module, transmission control module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Transmission"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "Wiper"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Right spot"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Left spot"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "25A",
+     "Auxiliary power"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "Fuel system control module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Regulated voltage control sensor"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "20A",
+     "Audio system"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "Passenger side turn signal"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "Driver side turn signal"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "Driver's side parking lamp"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side parking lamp"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "10A",
+     "Driver side low-beam"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "Passenger side low-beam"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "10A",
+     "Driver side high-beam"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "Passenger side high-beam"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "",
+     "Headlamp module"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps 2"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "15A",
+     "Windshield wiper"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps (if equipped)"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps 1"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "10A",
+     "Engine control module, ignition"
+    ],
+    [
+     "F59",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery 4"
+    ],
+    [
+     "F60",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 1"
+    ],
+    [
+     "F61",
+     "Fuse FMX/JCase",
+     "60A",
+     "Antilock brake system motor 2"
+    ],
+    [
+     "F62",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F63",
+     "Fuse FMX/JCase",
+     "60A",
+     "Air pump"
+    ],
+    [
+     "F64",
+     "Fuse FMX/JCase",
+     "60A",
+     "Antilock brake system motor 1"
+    ],
+    [
+     "F65",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery 3"
+    ],
+    [
+     "F66",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 2"
+    ],
+    [
+     "F67",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 1"
+    ],
+    [
+     "F68",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 2"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan 3"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ]
+   ]
+  }
+ ]
+}
