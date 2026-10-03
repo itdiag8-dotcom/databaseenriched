@@ -1,0 +1,385 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "berlingo",
+ "brand_db": "Citroen",
+ "model_db_name": "Berlingo",
+ "model_id": 1263,
+ "generation_name": "1st generation pre-facelift (M49)",
+ "generation_code": "g1.0",
+ "year_start": 1996,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/citroen/berlingo/info/fusebox/2008/1st-gen-pre-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2008-genid-g1.0-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO Shunt",
+     "",
+     "Front pretensioner and airbag"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "5A",
+     "Dashboard, diagnostic socket"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "5A",
+     "BSI"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "10A",
+     "Stop contact"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "5A",
+     "Dashboard clock, multifunction LED, code control"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "10A",
+     "Fan motor relay group, water temperature box, double injection relay, injection calculator"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "10A",
+     "Front and rear ceiling lights, car radio, multifunction screen"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "5A",
+     "BSI"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "20A",
+     "Rear wiper motor"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "5A",
+     "Car radio, climate control panel, cigarette lighter, interior lighting, multifunction screen"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "5A",
+     "Rear fog lights"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "15A",
+     "Heated seat relay"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer relay"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "20A",
+     "12-volt socket"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "30A",
+     "Booster relay"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "5A",
+     "Front left and rear right position lights"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "5A",
+     "Front right and rear left position lights, license plate lighting"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "10A",
+     "Multifunction screen, passenger mirror control"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "F23B",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "5A",
+     "Wiper switch, headlight washers"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "BSI Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2008-genid-g1.0-1.webp",
+   "fuses": [
+    [
+     "A",
+     "Fuse ATO",
+     "20A",
+     "Central locking, trunk opening"
+    ],
+    [
+     "B",
+     "Fuse ATO",
+     "25A",
+     "Windshield wipers"
+    ],
+    [
+     "C",
+     "Fuse ATO",
+     "30A",
+     "Rear heated window, heated mirror"
+    ],
+    [
+     "D",
+     "Fuse ATO",
+     "15A",
+     "Rear window wiper, cooling"
+    ],
+    [
+     "E",
+     "Fuse ATO",
+     "30A",
+     "Front power windows, sunroof"
+    ],
+    [
+     "F",
+     "Fuse ATO",
+     "15A",
+     "Dashboard display"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2008-genid-g1.0-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "5A",
+     "Exhaust probe"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "15A",
+     "Reverse lights, water level preheating box, GMV"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "5A",
+     "Injection calculator"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "10A",
+     "Right front fog light"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "10A",
+     "Left front fog light"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "5A",
+     "Throttle body heater (ES)"
+    ],
+    [
+     "F9",
+     "Fuse ATO Shunt",
+     "",
+     "Double injection relay"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "15A",
+     "Glow plug"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "20A",
+     "Glow plug relay"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "5A",
+     "Additional heating relay"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "10A",
+     "ABS calculator"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "10A",
+     "Left high beam light"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "10A",
+     "Right high beam light"
+    ],
+    [
+     "F18",
+     "Fuse MAXI",
+     "30A",
+     "Coolant heater"
+    ],
+    [
+     "F19",
+     "Fuse MAXI",
+     "40A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "F20",
+     "Fuse MAXI",
+     "20A",
+     "Seat heating"
+    ],
+    [
+     "F21",
+     "Fuse ATO Shunt",
+     "",
+     "Double injection relay"
+    ],
+    [
+     "F24",
+     "Fuse MAXI",
+     "50A",
+     "Ignition lock"
+    ],
+    [
+     "F25",
+     "Fuse MAXI",
+     "40A",
+     "Headlight switch"
+    ],
+    [
+     "F26",
+     "Fuse MAXI",
+     "50A",
+     "Multifunction control unit 1"
+    ],
+    [
+     "F27",
+     "Fuse MAXI",
+     "70A",
+     "Interior mounting block"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "20A",
+     "Additional heater burner"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "20A",
+     "BSI"
+    ],
+    [
+     "F31",
+     "Fuse MAXI",
+     "50A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "F32",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan motor (high speed)"
+    ],
+    [
+     "F33",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan motor (low speed)"
+    ],
+    [
+     "F34",
+     "Fuse MAXI",
+     "70A",
+     "Multifunction control unit 1"
+    ]
+   ]
+  }
+ ]
+}

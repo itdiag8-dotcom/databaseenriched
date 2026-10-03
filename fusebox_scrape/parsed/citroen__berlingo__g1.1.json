@@ -1,0 +1,522 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "berlingo",
+ "brand_db": "Citroen",
+ "model_db_name": "Berlingo",
+ "model_id": 1263,
+ "generation_name": "1st generation 1st facelift (M59)",
+ "generation_code": "g1.1",
+ "year_start": 2002,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/citroen/berlingo/info/fusebox/2012/1st-gen-1st-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2012-genid-g1.1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper (with swing doors), 12V socket (Modutop)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Car radio instrument cluster, display, COM2000"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Security alarm siren"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic connector"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Alarm system"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "30A",
+     "Seat heating system, electric fan Modutop"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "40A",
+     "Electric rear window heating element, electrically heated exterior mirrors"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "30A",
+     "Power sunroof, power windows"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "VAN COM2000"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "VAN network instrument cluster, car radio, display"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "30A",
+     "Power door locks"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Rear right brake light"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Rear left brake light"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter, 12V socket, power outside mirrors, interior lamps, map reading light"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment (Additional elements on the side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2012-genid-g1.1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Multiplex system"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Windows / sunroof"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning compressor"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "Heated mirrors"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "Wipers"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Central locking system"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2012-genid-g1.1-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Dipped beam relay OR side beam relay (with daylight system)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Dipped beam"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heated seats"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlight washer"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment (Type 1-A)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2012-genid-g1.1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Reverse light switch, vehicle speed sensor, clutch pedal position switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump with fuel level sensor, adsorber purge solenoid"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ABS control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit, cooling fan low speed relay, brake pedal switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer pump"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit, cooling fan low speed relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Left headlight"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Right headlight"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Left headlight"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right headlight"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Washer pump"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "Ignition coil, oxygen sensors, injectors"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Air pump"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "Wipers"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "40A",
+     "Blower"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine compartment (Type 1 - Additional elements on the side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2012-genid-g1.1-4.webp",
+   "fuses": [
+    [
+     "MF1",
+     "Fuse MAXI",
+     "80A",
+     "Cooling fan"
+    ],
+    [
+     "MF1",
+     "Fuse MAXI",
+     "20A",
+     "Cooling fan"
+    ],
+    [
+     "MF2",
+     "Fuse MAXI",
+     "80A",
+     "ABS module"
+    ],
+    [
+     "MF2",
+     "Fuse MAXI",
+     "20A",
+     "ABS module"
+    ],
+    [
+     "MF4",
+     "Fuse MAXI",
+     "80A",
+     "Interior fuse box"
+    ],
+    [
+     "MF4",
+     "Fuse MAXI",
+     "20A",
+     "Interior fuse box"
+    ],
+    [
+     "MF7",
+     "Fuse MAXI",
+     "80A",
+     "Ignition switch"
+    ],
+    [
+     "MF7",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Engine compartment (Type 2-A)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2012-genid-g1.1-5.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp, preheater unit, clutch release contact"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ABS ECU"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Engine ECU"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Engine ECU, fan relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Left low beam headlamp"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Right low beam headlamp"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Left high beam headlamp"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right high beam headlamp"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Windscreen washer"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "Engine sensors"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Air pump"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "40A",
+     "Electric fan of the climate control system"
+    ]
+   ]
+  },
+  {
+   "index": 6,
+   "name": "Engine compartment (Type 2 - Additional elements on the side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2012-genid-g1.1-6.webp",
+   "fuses": [
+    [
+     "MF1",
+     "Fuse MAXI",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "MF2",
+     "Fuse MAXI",
+     "",
+     "ESP/ABS control unit (hydraulic unit)"
+    ],
+    [
+     "MF4",
+     "Fuse MAXI",
+     "",
+     "BSI"
+    ],
+    [
+     "MF7",
+     "Fuse MAXI",
+     "",
+     "Ignition switch"
+    ]
+   ]
+  },
+  {
+   "index": 7,
+   "name": "Individual relays",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-berlingo-2012-genid-g1.1-7.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "ABS/ESP"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air pump relay"
+    ]
+   ]
+  }
+ ]
+}
