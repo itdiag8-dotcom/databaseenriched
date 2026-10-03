@@ -1,0 +1,522 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "trax",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Trax",
+ "model_id": 1208,
+ "generation_name": "2nd generation (9BQC)",
+ "generation_code": "g2",
+ "year_start": 2023,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/chevrolet/trax/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trax-2025-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MICRO2",
+     "10A",
+     "Liftgate release"
+    ],
+    [
+     "F02",
+     "Fuse MICRO2",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "F05",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defog"
+    ],
+    [
+     "F06",
+     "Fuse MICRO2",
+     "7.5A",
+     "Heated outside rearview mirrors"
+    ],
+    [
+     "F07",
+     "Fuse FMM/MCase",
+     "40A",
+     "Cooling fan mid"
+    ],
+    [
+     "F11",
+     "Fuse MICRO2",
+     "15A",
+     "ECM PT 1"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "15A",
+     "Engine component"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "15A",
+     "Engine component 1"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "25A",
+     "ECM PT 2"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "15A",
+     "ECM battery"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "10A",
+     "Auxiliary water pump"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "10A",
+     "CAC shutter"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "20A",
+     "TCM battery"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "10A",
+     "ESCL run/crank"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "7.5A",
+     "ECM TCM run/crank"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "60A",
+     "EBCM 2"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp leveling"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "5A",
+     "Cluster"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "15A",
+     "Wash pump"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "10A",
+     "Canister vent solenoid"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "20A",
+     "Rear wiper park"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "10A",
+     "Vent seat"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "10A",
+     "ISRVM/RLAD"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "F60",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power window left"
+    ],
+    [
+     "F61",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power window right"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "10A",
+     "Lumbar"
+    ],
+    [
+     "F08",
+     "Fuse MICRO2",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F03",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "5A",
+     "Regulated voltage control"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "10A",
+     "PEPS"
+    ],
+    [
+     "F22",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "15A",
+     "Heated seat 1"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "15A",
+     "Heated seat 2"
+    ],
+    [
+     "F26",
+     "Fuse FMM/MCase",
+     "40A",
+     "Cooling fan low"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel tank zone module"
+    ],
+    [
+     "F39",
+     "Fuse FMM/MCase",
+     "60A",
+     "Cooling fan high"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "Starter solenoid relay"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "K04",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trax-2025-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "5A",
+     "OnStar"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "",
+     "Sunshade motor"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "20A",
+     "Body control module 3"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "20A",
+     "Body control module 7"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "20A",
+     "Body control module 6"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "10A",
+     "HVAC module 1"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "5A",
+     "Central gateway module"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel module"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "Virtual cockpit display / instrument panel display / HVAC display"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Radio / virtual cockpit unit module"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Side blind zone alert module / camera module / ultrasonic park assist module"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "HVAC module ignition"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Wireless charger module / remote electronic PRNDL display"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Body control module 2"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Body control module 1"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls backlighting"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls switch"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Body control module 5"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "7.5A",
+     "Data link connector"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Sensing diagnostic module"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "2A",
+     "Discrete logic ignition switch"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Power tailgate module 1"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Logistic"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module 8"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC to DC converter 2"
+    ],
+    [
+     "F30",
+     "Fuse FMX/JCase",
+     "",
+     "Power tailgate module 2 (motor)"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "7.5A",
+     "OSRVM / ETC / rain light humidity sensor"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Headlamp low beam left"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "20A",
+     "Body control module 4"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low beam right"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "",
+     "Seat position switch driver"
+    ],
+    [
+     "F38",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC to DC converter 1"
+    ],
+    [
+     "F39",
+     "Fuse FMX/JCase",
+     "30A",
+     "ACC/RAP relay / RUN relay"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor control module"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary audio/video jack / front USB"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "",
+     "Auxiliary rear USB power outlet"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "ACC/RAP relay"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "RUN relay"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Logistics relay"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MINI",
+     "",
+     "Auxiliary DC power outlet"
+    ]
+   ]
+  }
+ ]
+}

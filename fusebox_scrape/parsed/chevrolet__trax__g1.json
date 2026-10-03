@@ -1,0 +1,512 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "trax",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Trax",
+ "model_id": 1208,
+ "generation_name": "1st generation (U200)",
+ "generation_code": "g1",
+ "year_start": 2013,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/chevrolet/trax/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trax-2022-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Exterior rearview mirror switch / driver side power window / rain sensor"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Electronic brake control module valve"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Automatic occupancy sensing module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Rear vision camera"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Power lumbar switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Exterior rearview mirror heater"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Fuel system control module battery"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Heated seat module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Fuel system control module RC"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Engine control module RC / transmission control module RC"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Fan relay (auxiliary BEC)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Ignition coil"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Washer pump"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "EMS Var 1"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Ignition 3"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Engine control module powertrain / ignition 1 / ignition 2"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "EMS Var 2"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Engine control module battery"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "JCF1",
+     "Fuse FMX/JCase",
+     "",
+     "Electronic brake control module pump"
+    ],
+    [
+     "JCF2",
+     "Fuse FMX/JCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "JCF3",
+     "Fuse FMX/JCase",
+     "",
+     "Blower"
+    ],
+    [
+     "JCF4",
+     "Fuse FMX/JCase",
+     "",
+     "IEC RC"
+    ],
+    [
+     "JCF8",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan low-mid"
+    ],
+    [
+     "JCF9",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan high"
+    ],
+    [
+     "JCF11",
+     "Fuse FMX/JCase",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Run/Crank"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan mid"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan high"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan low"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Auxiliary Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trax-2022-genid-g1-1.webp",
+   "fuses": [
+    [
+     "02",
+     "Relay",
+     "",
+     "Cooling fan control 1"
+    ],
+    [
+     "03",
+     "Relay",
+     "",
+     "Cooling fan control 2"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trax-2022-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Body control module 5"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Discrete logic ignition switch"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Sensing diagnostic module battery"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Data link connector"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "HVAC module / ICS"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Liftgate relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Central gateway module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Park assist module / side blind zone alert"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Body control module / regulated voltage control"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Clock spring"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "A/C / accessory power outlet"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet / DC front"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "OnStar module"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Instrument cluster module battery"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Silver box audio module / navigation"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Passive entry / passive start"
+    ],
+    [
+     "S/B01",
+     "Fuse FMX/JCase",
+     "",
+     "HVAC auxiliary heater 1"
+    ],
+    [
+     "S/B02",
+     "Fuse FMX/JCase",
+     "",
+     "HVAC auxiliary heater 2"
+    ],
+    [
+     "S/B03",
+     "Fuse FMX/JCase",
+     "",
+     "Front power windows"
+    ],
+    [
+     "S/B04",
+     "Fuse FMX/JCase",
+     "",
+     "Rear power windows"
+    ],
+    [
+     "S/B05",
+     "Fuse FMX/JCase",
+     "",
+     "Logistic mode relay"
+    ],
+    [
+     "S/B06",
+     "Fuse FMX/JCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Accessory / retained accessory power"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Liftgate"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Logistic mode"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trax-2022-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Rear drive control module"
+    ],
+    [
+     "S/B03",
+     "Fuse FMX/JCase",
+     "",
+     "DC/AC inverter module"
+    ]
+   ]
+  }
+ ]
+}
