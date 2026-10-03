@@ -1,0 +1,655 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "cts",
+ "brand_db": "Cadillac",
+ "model_db_name": "Cts",
+ "model_id": 1012,
+ "generation_name": "1st generation",
+ "generation_code": "GMX320",
+ "year_start": 2002,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/cadillac/cts/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-cts-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "R9",
+     "Relay",
+     "",
+     "Low speed fan motor"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "High speed fan motor"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Wipe-wash, PRNDL, accessory power outlets"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Series/parallel fan"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Low-beam HID headlamps"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlamp washer motor"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front blower"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Powertrain/ECM"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Compressor clutch"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Ignition switch (ON)"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "60A",
+     "RRPDB (passenger's side rear power distribution box)"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "60A",
+     "RRPDB (passenger's side rear power distribution box)"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "60A",
+     "LRPDB (driver's side rear power distribution box)"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "60A",
+     "LRPDB (driver's side rear power distribution box)"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "30A",
+     "High cooling fan motor"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Low cooling fan motor"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "40A",
+     "PWM fan motor assembly"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "50A",
+     "Anti-lock brake system"
+    ],
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side taillamp, front sidemarker and parking lamp"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Dual horn assembly"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Driver's side high-beam headlamp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Driver's side low-beam headlamp"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Passenger's side low-beam headlamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side high-beam headlamp"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Manual transmission output speed sensor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "ECM, TCM, PASS-Key III+ module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Driver's side taillamp, front sidemarker and parking lamp"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Rear license plate assembly, dash integration module (DIM)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "DIM, ALDL (assembly line data link)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Turn signal/hazard flasher module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Electronic control module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Steering wheel control pad, headlamp switch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Clutch switches, jumper to start relay coil (automatic)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Heated washer nozzles"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensors, CAM phaser, canister purge"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "TCM, ECM, instrument panel cluster"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Front bank ignition modules, mass airflow sensor"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Electronic PRNDL (export)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch (power to IGN-3 and CRANK)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "DIM (dash integration module)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "TCM, ECM, IPC, PASS-Key III+ module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper module assembly"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Odd ignition coils, fuel injectors"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Compressor clutch"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Windshield wiper/washer switch"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "30A",
+     "Center console accessory power outlet"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensors, LRPDB (pusher cooling fan relay)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel accessory power outlet"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Climate control"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Even injection coils"
+    ],
+    [
+     "51",
+     "Circuit breaker ATO",
+     "",
+     "Headlamp washer motor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear Underseat Fuse Block (Driver's Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-cts-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "AUDIO",
+     "Fuse MINI",
+     "",
+     "Radio, OnStar module"
+    ],
+    [
+     "REAR DR MOD",
+     "Fuse MINI",
+     "",
+     "Rear door modules"
+    ],
+    [
+     "DRIVER DR MOD",
+     "Fuse MINI",
+     "",
+     "Driver's door module"
+    ],
+    [
+     "BAS",
+     "Fuse MINI",
+     "",
+     "Taillamps, CHMSL, flasher module, ABS module, trailer lamps"
+    ],
+    [
+     "HDLP LEVELING",
+     "Fuse MINI",
+     "",
+     "Headlamp leveling system chassis sensors (export)"
+    ],
+    [
+     "CCP",
+     "Fuse MINI",
+     "",
+     "Climate control panel"
+    ],
+    [
+     "IGN 3",
+     "Fuse MINI",
+     "",
+     "Heated seat modules, air inlet motor, shifter assembly"
+    ],
+    [
+     "L FRT HTD SEAT MOD",
+     "Fuse MINI",
+     "",
+     "Driver's heated seat module"
+    ],
+    [
+     "MEM/ADAPT SEAT",
+     "Fuse MINI",
+     "",
+     "Driver's power seat switch, memory seat module"
+    ],
+    [
+     "TRUNK DR RELEASE",
+     "Fuse MINI",
+     "",
+     "Trunk release motor"
+    ],
+    [
+     "REVERSE LAMP",
+     "Fuse MINI",
+     "",
+     "Inside rearview mirror, license plate lamp"
+    ],
+    [
+     "POSITION LAMP",
+     "Fuse MINI",
+     "",
+     "Taillamp assemblies, front position lamps"
+    ],
+    [
+     "AMP",
+     "Fuse FMX/JCase",
+     "",
+     "Audio amplifier"
+    ],
+    [
+     "PUSHER FAN",
+     "Fuse FMX/JCase",
+     "",
+     "Pusher fan (export)"
+    ],
+    [
+     "BAS RELAY",
+     "Relay",
+     "",
+     "Brake apply sensor"
+    ],
+    [
+     "PUSHER FAN RLY",
+     "Relay",
+     "",
+     "Pusher fan (export)"
+    ],
+    [
+     "L POSITION RELAY",
+     "Relay",
+     "",
+     "Driver's side position lamp"
+    ],
+    [
+     "TRK DR REL SOL RELAY",
+     "Relay",
+     "",
+     "Trunk release motor"
+    ],
+    [
+     "REV LAMP RELAY",
+     "Relay",
+     "",
+     "Inside rearview mirror, license plate lamp"
+    ],
+    [
+     "R POSITION RELAY",
+     "Relay",
+     "",
+     "Passenger's side position lamp"
+    ],
+    [
+     "IGN 3 RELAY",
+     "Relay",
+     "",
+     "Heated seat modules, air inlet motor, shifter assembly"
+    ],
+    [
+     "STANDING LAMP RLY",
+     "Relay",
+     "",
+     "Control for position lamp relays"
+    ],
+    [
+     "SEAT C/B",
+     "Circuit breaker",
+     "",
+     "Power seat switches, memory seat module"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Underseat Fuse Block (Passenger's Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-cts-2006-genid-g1-2.webp",
+   "fuses": [
+    [
+     "TRUNK DIODE",
+     "Fuse MINI",
+     "",
+     "Trunk lamp"
+    ],
+    [
+     "POWER SOUNDER",
+     "Fuse MINI",
+     "",
+     "Power sounder, inclination sensor"
+    ],
+    [
+     "CANISTER VENT",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "FUEL PUMP MTR",
+     "Fuse MINI",
+     "",
+     "Fuel pump motor"
+    ],
+    [
+     "R FRT HTD SEAT MOD",
+     "Fuse MINI",
+     "",
+     "Passenger's side heated seat module"
+    ],
+    [
+     "AIR BAG",
+     "Fuse MINI",
+     "",
+     "SDM (sensing diagnostic module)"
+    ],
+    [
+     "RIM",
+     "Fuse MINI",
+     "",
+     "Inside rearview mirror, power sounder, RIM"
+    ],
+    [
+     "ABS",
+     "Fuse MINI",
+     "",
+     "Anti-lock brake system"
+    ],
+    [
+     "INTERIOR LAMP",
+     "Fuse MINI",
+     "",
+     "Hush panel lamps, puddle lamps, overhead courtesy lamp"
+    ],
+    [
+     "PSGR DR MOD",
+     "Fuse MINI",
+     "",
+     "Right front passenger door module"
+    ],
+    [
+     "RIM/IGN SW",
+     "Fuse MINI",
+     "",
+     "Rear integration module, ignition switch, key lock cylinder"
+    ],
+    [
+     "REAR FOG LAMP",
+     "Fuse MINI",
+     "",
+     "Rear fog lamp (export)"
+    ],
+    [
+     "TV/VICS",
+     "Fuse MINI",
+     "",
+     "TV tuner (export), VICS module"
+    ],
+    [
+     "REAR DEFOG",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger element"
+    ],
+    [
+     "SUNROOF MOD",
+     "Fuse FMX/JCase",
+     "",
+     "Power sunroof module"
+    ],
+    [
+     "REAR DEFOG RELAY",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "REAR FOG LAMP RLY",
+     "Relay",
+     "",
+     "Rear fog lamps (export)"
+    ],
+    [
+     "FUEL PUMP MOTOR RLY",
+     "Relay",
+     "",
+     "Fuel pump motor"
+    ],
+    [
+     "INT LAMP RELAY",
+     "Relay",
+     "",
+     "Hush panel lamps, puddle lamps, overhead courtesy lamp"
+    ],
+    [
+     "IGN 1 RELAY",
+     "Relay",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "DR MOD PWR C/B",
+     "Circuit breaker",
+     "",
+     "Door modules"
+    ]
+   ]
+  }
+ ]
+}
