@@ -1,0 +1,509 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "durango",
+ "brand_db": "Dodge",
+ "model_db_name": "Durango",
+ "model_id": 1445,
+ "generation_name": "3rd generation (\"WD\")",
+ "generation_code": "g3",
+ "year_start": 2010,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/dodge/durango/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-durango-2024-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "60A",
+     "Radiator fan"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "60A",
+     "ESP pump (non-SRT)"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Air suspension compressor"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump (SRT)"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Diesel fuel heater / vacuum pump"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "CBC #2 / exterior lighting"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow brake"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "40A",
+     "CBC #3 / power locks"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower motor"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "40A",
+     "CBC #4 / exterior lighting"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "40A",
+     "LTR engine cooling"
+    ],
+    [
+     "F17",
+     "Fuse FMM/MCase",
+     "30A",
+     "Headlamp washers"
+    ],
+    [
+     "F19",
+     "Fuse FMM/MCase",
+     "20A",
+     "Headrest solenoid"
+    ],
+    [
+     "F20",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "F22",
+     "Fuse FMM/MCase",
+     "20A",
+     "ECM / PCM"
+    ],
+    [
+     "F23",
+     "Fuse FMM/MCase",
+     "30A",
+     "CBC #1 / interior lighting"
+    ],
+    [
+     "F24",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver door module"
+    ],
+    [
+     "F25",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "F26",
+     "Fuse FMM/MCase",
+     "30A",
+     "ESP/ECU valves"
+    ],
+    [
+     "F28",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trailer tow back-up"
+    ],
+    [
+     "F29",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trailer tow park"
+    ],
+    [
+     "F30",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow power"
+    ],
+    [
+     "F32",
+     "Fuse FMM/MCase",
+     "30A",
+     "DTCM"
+    ],
+    [
+     "F34",
+     "Fuse FMM/MCase",
+     "30A",
+     "ELSD"
+    ],
+    [
+     "F35",
+     "Fuse FMM/MCase",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "30A",
+     "EBL (rear defroster)"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "25A",
+     "HVAC rear blower motor"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power inverter"
+    ],
+    [
+     "F39",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power liftgate"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "10A",
+     "DRL / headlamp leveling"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "10A",
+     "Diagnostic port"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "5A",
+     "Cyber security module"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "10A",
+     "ICS/HVAC"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "20A",
+     "Air suspension module / ELSD"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "15A",
+     "KIN/RF hub / ESCL"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "20A",
+     "Trailer tow left turn/stop"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "15A",
+     "PCM"
+    ],
+    [
+     "F57",
+     "Fuse MICRO2",
+     "20A",
+     "NOx sensors / PM sensors / fuel heater"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "15A",
+     "HID headlamp left"
+    ],
+    [
+     "F59",
+     "Fuse MICRO2",
+     "10A",
+     "SCR pump relay"
+    ],
+    [
+     "F60",
+     "Fuse MICRO2",
+     "15A",
+     "TCM"
+    ],
+    [
+     "F61",
+     "Fuse MICRO2",
+     "10A",
+     "PM sensor"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "F63",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coils / ignition coil capacitors"
+    ],
+    [
+     "F64",
+     "Fuse MICRO2",
+     "25A",
+     "Fuel injectors / ECM"
+    ],
+    [
+     "F66",
+     "Fuse MICRO2",
+     "10A",
+     "Sunroof / LRSM RVM / DSRC / USB port / DTV / wireless charging pad"
+    ],
+    [
+     "F67",
+     "Fuse MICRO2",
+     "15A",
+     "CDM / UCI port / USB port"
+    ],
+    [
+     "F68",
+     "Fuse MICRO2",
+     "20A",
+     "Rear wiper motor"
+    ],
+    [
+     "F69",
+     "Fuse MICRO2",
+     "15A",
+     "Spot light feed"
+    ],
+    [
+     "F70",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump motor"
+    ],
+    [
+     "F71",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier / ANCM"
+    ],
+    [
+     "F72",
+     "Fuse MICRO2",
+     "10A",
+     "ECM / PCM"
+    ],
+    [
+     "F73",
+     "Fuse MICRO2",
+     "15A",
+     "HID headlamp right"
+    ],
+    [
+     "F75",
+     "Fuse MICRO2",
+     "10A",
+     "Dual battery control"
+    ],
+    [
+     "F76",
+     "Fuse MICRO2",
+     "10A",
+     "ESP"
+    ],
+    [
+     "F77",
+     "Fuse MICRO2",
+     "10A",
+     "DTCM/ELSD"
+    ],
+    [
+     "F78",
+     "Fuse MICRO2",
+     "10A",
+     "ECM/PCM / EPS"
+    ],
+    [
+     "F80",
+     "Fuse MICRO2",
+     "10A",
+     "Universal garage door opener"
+    ],
+    [
+     "F81",
+     "Fuse MICRO2",
+     "20A",
+     "Trailer tow right turn/stop"
+    ],
+    [
+     "F82",
+     "Fuse MICRO2",
+     "10A",
+     "SCCM / cruise control / DTV"
+    ],
+    [
+     "F83",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel door"
+    ],
+    [
+     "F84",
+     "Fuse MICRO2",
+     "15A",
+     "Cluster"
+    ],
+    [
+     "F85",
+     "Fuse MICRO2",
+     "10A",
+     "ORC (airbag)"
+    ],
+    [
+     "F86",
+     "Fuse MICRO2",
+     "10A",
+     "ORC (airbag)"
+    ],
+    [
+     "F87",
+     "Fuse MICRO2",
+     "10A",
+     "Air suspension module"
+    ],
+    [
+     "F88",
+     "Fuse MICRO2",
+     "15A",
+     "Cluster / CSG / ITBM"
+    ],
+    [
+     "F90/91",
+     "Fuse MICRO2",
+     "20A",
+     "Power outlet cargo area"
+    ],
+    [
+     "F92",
+     "Fuse MICRO2",
+     "10A",
+     "Rear console lamp / rear power outlet"
+    ],
+    [
+     "F93",
+     "Fuse MICRO2",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "F94",
+     "Fuse MICRO2",
+     "10A",
+     "SBW / T-case switch"
+    ],
+    [
+     "F95",
+     "Fuse MICRO2",
+     "10A",
+     "Rear camera / blind spot sensor"
+    ],
+    [
+     "F96",
+     "Fuse MICRO2",
+     "10A",
+     "Rear seat heater switch"
+    ],
+    [
+     "F97",
+     "Fuse MICRO2",
+     "20A",
+     "Rear heated seats / heated steering wheel"
+    ],
+    [
+     "F98",
+     "Fuse MICRO2",
+     "20A",
+     "Front heated seats / vented seats"
+    ],
+    [
+     "F99",
+     "Fuse MICRO2",
+     "10A",
+     "HVAC / dash / HIFM / parktronics"
+    ],
+    [
+     "F100",
+     "Fuse MICRO2",
+     "10A",
+     "Active damping"
+    ],
+    [
+     "F101",
+     "Fuse MICRO2",
+     "15A",
+     "In-car temperature sensor / humidity sensor"
+    ],
+    [
+     "F103",
+     "Fuse MICRO2",
+     "10A",
+     "PTC / rear HVAC"
+    ],
+    [
+     "F104",
+     "Fuse MICRO2",
+     "20A",
+     "Power outlet IP / console / TMK"
+    ]
+   ]
+  }
+ ]
+}
