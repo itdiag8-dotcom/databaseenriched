@@ -1,0 +1,295 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c3-picasso",
+ "brand_db": "Citroen",
+ "model_db_name": "C3 Picasso",
+ "model_id": 1268,
+ "generation_name": "generation 1A (A58)",
+ "generation_code": "g1a",
+ "year_start": 2009,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/citroen/c3-picasso/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Dashboard fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-picasso-2010-genid-g1a-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Rain/sunshine sensor, trailer relay unit"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Main stop switch, engine relay unit"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel controls"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Parking assistance control unit, seat belt warning lamp, airbag control unit, instrument panel, air conditioning, USB box"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Steering wheel angle sensor, air conditioning, clutch switch, particle filter pump, diagnostic socket, airflow meter"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Ignition, diagnostic socket"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Audio system (aftermarket), 12V socket"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Multifunction screen, audio system, navigation radio"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "30A",
+     "Locking"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "30A",
+     "Electric window switch panel, passenger's electric window control, front electric window motor"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "30A",
+     "Rear electric window motor and driver's electric window motor"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Airbags and pretensioners control unit"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "Courtesy and front map reading lamps, glove box lighting, torch, rear reading lamps"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "40A",
+     "Rear screen and door mirrors demist/defrost"
+    ],
+    [
+     "SH",
+     "Fuse ATO Shunt",
+     "",
+     "PARC shunt"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-picasso-2010-genid-g1a-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit supply, cooling fan unit control, multifunction engine control main relay"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Front/rear wash-wipe"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Daytime running lamps"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Diesel heater (diesel engine), fuel pump (petrol engine)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESP control unit, ABS/ESP cut-off relay, secondary stop switch"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Electric power steering"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "25A",
+     "Starter motor control"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Switching and protection unit (diesel)"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Diesel engine injection pump valve, injectors and ignition coils (petrol engine)"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "40A",
+     "Air conditioning fan"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wipers slow/fast speed"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "40A",
+     "Built-in systems interface supply (ignition positive)"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Valvetronic supply (petrol)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Right-hand main beam headlamp"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Left-hand main beam headlamp"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Left-hand dipped beam headlamp"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Right-hand dipped beam headlamp"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Multifunction engine management supply (petrol), air cooling electrovalves (diesel)"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Multifunction engine management supply (petrol), turbo pressure regulation electrovalve (diesel), coolant level sensor (diesel)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "Fan assembly control supply, APC, ABS/ESP relays"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "MAXI Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c3-picasso-2010-genid-g1a-2.webp",
+   "fuses": [
+    [
+     "MF1",
+     "Fuse MAXI",
+     "60A",
+     "Cooling fan assembly"
+    ],
+    [
+     "MF2",
+     "Fuse MAXI",
+     "30A",
+     "ABS/ESP control unit"
+    ],
+    [
+     "MF3",
+     "Fuse MAXI",
+     "30A",
+     "ABS/ESP control unit"
+    ],
+    [
+     "MF4",
+     "Fuse MAXI",
+     "60A",
+     "Built-in Systems Interface (BSI) supply"
+    ],
+    [
+     "MF5",
+     "Fuse MAXI",
+     "60A",
+     "Built-in Systems Interface (BSI) supply"
+    ],
+    [
+     "MF7",
+     "Fuse MAXI",
+     "",
+     "Passenger compartment fusebox"
+    ]
+   ]
+  }
+ ]
+}
