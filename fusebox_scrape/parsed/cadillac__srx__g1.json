@@ -1,0 +1,649 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "srx",
+ "brand_db": "Cadillac",
+ "model_db_name": "SRX",
+ "model_id": 1037,
+ "generation_name": "1st generation",
+ "generation_code": "GMT265",
+ "year_start": 2004,
+ "year_end": 2009,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/cadillac/srx/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-srx-2008-genid-g1-0.webp",
+   "fuses": [
+    [
+     "FAN 2 R",
+     "Relay",
+     "",
+     "Right side engine cooling fan motors"
+    ],
+    [
+     "FAN S/P R",
+     "Relay",
+     "",
+     "Series/parallel engine cooling fan"
+    ],
+    [
+     "FRT WASH R",
+     "Relay",
+     "",
+     "Front washer pump"
+    ],
+    [
+     "FAN 1 R",
+     "Relay",
+     "",
+     "Left side engine cooling fan motors"
+    ],
+    [
+     "FOG LAMP R",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "IGN R",
+     "Relay",
+     "",
+     "Ignition switch (ON)"
+    ],
+    [
+     "STRTR R",
+     "Relay",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "PWR/TRN R",
+     "Relay",
+     "",
+     "Powertrain/engine control module"
+    ],
+    [
+     "HI BEAM R",
+     "Relay",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "WPR R",
+     "Relay",
+     "",
+     "Windshield wiper on/off"
+    ],
+    [
+     "WPR HI",
+     "Relay",
+     "",
+     "Windshield wiper low/high"
+    ],
+    [
+     "HDLP WASH R",
+     "Relay",
+     "",
+     "Headlamp washer pump"
+    ],
+    [
+     "LO BEAM",
+     "Relay",
+     "",
+     "Low-beam headlamps (w/o HID/HID)"
+    ],
+    [
+     "REAR WASH R",
+     "Relay",
+     "",
+     "Rear washer pump"
+    ],
+    [
+     "HORN R",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "A/C CMPRSR CLTCH",
+     "Relay",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "FUEL PUMP R",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "ACCY R",
+     "Relay",
+     "",
+     "Accessory power (rear wipers, inside rearview mirror)"
+    ],
+    [
+     "FAN 2",
+     "Fuse FMX/JCase",
+     "",
+     "Right cooling fan motor"
+    ],
+    [
+     "FAN 1",
+     "Fuse FMX/JCase",
+     "",
+     "Left cooling fan motor"
+    ],
+    [
+     "BLWR",
+     "Fuse FMX/JCase",
+     "",
+     "Front blower motor assembly"
+    ],
+    [
+     "STRTR",
+     "Fuse FMX/JCase",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "LPDB 2",
+     "Fuse FMX/JCase",
+     "",
+     "Left side rear power distribution box"
+    ],
+    [
+     "ABS MOTOR",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system module"
+    ],
+    [
+     "LPDB 1",
+     "Fuse FMX/JCase",
+     "",
+     "Left side rear power distribution box"
+    ],
+    [
+     "RPDB 1",
+     "Fuse FMX/JCase",
+     "",
+     "Right side rear power distribution box"
+    ],
+    [
+     "RPDB 2",
+     "Fuse FMX/JCase",
+     "",
+     "Right side rear power distribution box"
+    ],
+    [
+     "FRT WASH",
+     "Fuse MINI",
+     "",
+     "Front washer pump"
+    ],
+    [
+     "AIRBAG",
+     "Fuse MINI",
+     "",
+     "SDM, occupant sensor display, instrument cluster"
+    ],
+    [
+     "ABS IGN",
+     "Fuse MINI",
+     "",
+     "ABS ignition, variable effort steering"
+    ],
+    [
+     "IGN SW",
+     "Fuse MINI",
+     "",
+     "Ignition switch, immobilizer module"
+    ],
+    [
+     "ECM/TCM IGN",
+     "Fuse MINI",
+     "",
+     "ECM/TCM ignition power, MAF sensor (V6)"
+    ],
+    [
+     "MISC IGN",
+     "Fuse MINI",
+     "",
+     "Air quality sensor"
+    ],
+    [
+     "EMIS 1",
+     "Fuse MINI",
+     "",
+     "Pre O2 sensors, cam phasor, canister purge, intake manifold tuning valve (V6)"
+    ],
+    [
+     "DISPLY",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster, climate control module, DLC"
+    ],
+    [
+     "BCM 2",
+     "Fuse MINI",
+     "",
+     "LED instrument panel dimming, overhead lamps, vanity lamps"
+    ],
+    [
+     "EVEN COILS",
+     "Fuse MINI",
+     "",
+     "Even ignition coils, even fuel injectors"
+    ],
+    [
+     "BCM 6",
+     "Fuse MINI",
+     "",
+     "Right side rear stoplamp, turn lamps, key capture solenoid"
+    ],
+    [
+     "RDO",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "ODD COILS",
+     "Fuse MINI",
+     "",
+     "Odd ignition coils, odd fuel injectors"
+    ],
+    [
+     "BCM 1",
+     "Fuse MINI",
+     "",
+     "Body control module power"
+    ],
+    [
+     "LT HI BEAM",
+     "Fuse MINI",
+     "",
+     "Left side high-beam headlamp"
+    ],
+    [
+     "BCM 7/CLOCK",
+     "Fuse MINI",
+     "",
+     "Switch dimming, analog clock"
+    ],
+    [
+     "EMIS 2",
+     "Fuse MINI",
+     "",
+     "Cooling fan relays, A/C clutch relay, post O2 sensors, MAF (V8), canister purge (V8)"
+    ],
+    [
+     "ECM BATT",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "RT HI BEAM",
+     "Fuse MINI",
+     "",
+     "Right side high-beam headlamp"
+    ],
+    [
+     "RVC SNSR",
+     "Fuse MINI",
+     "",
+     "Battery regulated voltage control sense"
+    ],
+    [
+     "FOG LAMP",
+     "Fuse MINI",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "ECM 1",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "BCM 5",
+     "Fuse MINI",
+     "",
+     "Left side front turn lamps, rear stoplamps, turn lamps"
+    ],
+    [
+     "WPR",
+     "Fuse MINI",
+     "",
+     "Windshield wiper motor"
+    ],
+    [
+     "BCM 4",
+     "Fuse MINI",
+     "",
+     "Center high-mounted stoplamp, back-up lamps"
+    ],
+    [
+     "CIG",
+     "Fuse MINI",
+     "",
+     "Instrument panel accessory power outlet (cigarette lighter)"
+    ],
+    [
+     "RT LO BEAM",
+     "Fuse MINI",
+     "",
+     "Right side low-beam headlamp"
+    ],
+    [
+     "AUX OUTLET",
+     "Fuse MINI",
+     "",
+     "Center console accessory power outlet"
+    ],
+    [
+     "LT LO BEAM",
+     "Fuse MINI",
+     "",
+     "Left side low-beam headlamp"
+    ],
+    [
+     "TCM BATT",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "ACCY WPR",
+     "Fuse MINI",
+     "",
+     "Rear wiper motor and switch, inside rearview mirror"
+    ],
+    [
+     "REAR WASH",
+     "Fuse MINI",
+     "",
+     "Rear washer pump"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "",
+     "Horn assembly"
+    ],
+    [
+     "A/C CLTCH",
+     "Fuse MINI",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "FUEL PUMP",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "HDLP WASH",
+     "Circuit breaker",
+     "",
+     "Headlamp washer pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear Underseat Fuse Block (Left Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-srx-2008-genid-g1-1.webp",
+   "fuses": [
+    [
+     "ELC R",
+     "Relay",
+     "",
+     "Electronic level control compressor motor"
+    ],
+    [
+     "LH/POS/PRK LAMP",
+     "Relay",
+     "",
+     "Front and rear park lamps"
+    ],
+    [
+     "STR/WHL/CNTRL",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls"
+    ],
+    [
+     "RSA/RSE",
+     "Fuse MINI",
+     "",
+     "Rear seat entertainment, rear seat audio"
+    ],
+    [
+     "ONSTAR TV/XM",
+     "Fuse MINI",
+     "",
+     "OnStar module, XM radio"
+    ],
+    [
+     "3RD ROW SW/RFA",
+     "Fuse MINI",
+     "",
+     "Flip fold seat switches, remote keyless entry module"
+    ],
+    [
+     "AMP",
+     "Fuse MINI",
+     "",
+     "Audio amplifier"
+    ],
+    [
+     "REAR SEAT MDL",
+     "Fuse MINI",
+     "",
+     "Rear seat module, flip/fold motors"
+    ],
+    [
+     "DRIVER DR MDL",
+     "Fuse MINI",
+     "",
+     "Driver door module (locks, mirror, window switches)"
+    ],
+    [
+     "MRK LAMP",
+     "Fuse MINI",
+     "",
+     "License lamps"
+    ],
+    [
+     "LH/PRK POS LAMPS",
+     "Fuse MINI",
+     "",
+     "Left taillamp, left front park lamps, sidemarker lamps"
+    ],
+    [
+     "RH/PRK LAMPS",
+     "Fuse MINI",
+     "",
+     "Right taillamp, right front park lamps, sidemarker lamps"
+    ],
+    [
+     "TRLR PRK LAMPS",
+     "Fuse MINI",
+     "",
+     "Trailer park lamps"
+    ],
+    [
+     "MSM/RPA",
+     "Fuse MINI",
+     "",
+     "Memory seat module, ultrasonic rear parking assist module"
+    ],
+    [
+     "AUX PWR OUTLET",
+     "Fuse MINI",
+     "",
+     "Rear auxiliary power outlet"
+    ],
+    [
+     "PRK LAMP LH/POS RLY",
+     "Fuse MINI",
+     "",
+     "Parking lamp relay"
+    ],
+    [
+     "ELC",
+     "Fuse FMX/JCase",
+     "",
+     "Electronic level control compressor"
+    ],
+    [
+     "PWR WNDWS",
+     "Circuit breaker",
+     "",
+     "Power window motors"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Underseat Fuse Block (Right Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-srx-2008-genid-g1-2.webp",
+   "fuses": [
+    [
+     "REAR DEFOG R",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "UNLCK",
+     "Relay",
+     "",
+     "Rear door locks (unlock)"
+    ],
+    [
+     "LCK",
+     "Relay",
+     "",
+     "Rear door locks (lock)"
+    ],
+    [
+     "RUN RLY",
+     "Relay",
+     "",
+     "Rear A/C blower motor, climate control ignition, heated steering wheel"
+    ],
+    [
+     "WPR ISRVM VICS",
+     "Fuse MINI",
+     "",
+     "Rear wiper switch, inside rearview mirror"
+    ],
+    [
+     "THEFT UGDO",
+     "Fuse MINI",
+     "",
+     "Garage door opener"
+    ],
+    [
+     "CNSTR/VENT",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "PWER L/GATE",
+     "Fuse MINI",
+     "",
+     "Power liftgate module"
+    ],
+    [
+     "REAR DEFOG",
+     "Fuse MINI",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "BCM 3",
+     "Fuse MINI",
+     "",
+     "Hush panel lamps, overhead courtesy lamp, right front turn lamp"
+    ],
+    [
+     "REAR A/C",
+     "Fuse MINI",
+     "",
+     "Rear air conditioning system"
+    ],
+    [
+     "RUN",
+     "Fuse MINI",
+     "",
+     "Climate control module"
+    ],
+    [
+     "HDD/STR/WHL",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "DR/LCK",
+     "Fuse MINI",
+     "",
+     "Rear door locks"
+    ],
+    [
+     "PDM",
+     "Fuse MINI",
+     "",
+     "Passenger door module (locks, mirror, window switches)"
+    ],
+    [
+     "AIRBAG",
+     "Fuse MINI",
+     "",
+     "SDM, occupant sensor, roll-over sensor"
+    ],
+    [
+     "MRTD",
+     "Fuse MINI",
+     "",
+     "Suspension module"
+    ],
+    [
+     "ELC",
+     "Fuse MINI",
+     "",
+     "ELC exhaust solenoid, ELC relay"
+    ],
+    [
+     "S/ROOF/MDL",
+     "Fuse FMX/JCase",
+     "",
+     "Power sunroof module"
+    ],
+    [
+     "PWR LIFT GATE",
+     "Fuse FMX/JCase",
+     "",
+     "Power liftgate motors"
+    ],
+    [
+     "PWR/SEATS",
+     "Circuit breaker",
+     "",
+     "Power seat motors"
+    ]
+   ]
+  }
+ ]
+}

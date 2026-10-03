@@ -1,0 +1,757 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "srx",
+ "brand_db": "Cadillac",
+ "model_db_name": "SRX",
+ "model_id": 1037,
+ "generation_name": "2nd generation",
+ "generation_code": "GMT267",
+ "year_start": 2010,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/cadillac/srx/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-srx-2016-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system pump"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "Rear electrical center 1"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Rear electrical center 2"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "Wiper"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Engine control module battery"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Transmission control module battery"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Engine control module run/crank"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Post-catalytic converter O2 sensor"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Pre-catalytic converter O2 sensor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Engine control module powertrain"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Fuel injectors even"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Fuel injectors odd"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Washer"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Transmission control module run/crank"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Rear electrical center run/crank"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Instrument cluster/malfunction indicator lamp/ignition"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Air quality sensor"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Switch back light"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Battery sense (regulated voltage control)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Adaptive forward lighting"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "Electronic brake control module"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Low-beam headlamp right"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Low-beam headlamp left"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Fuel system control module"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Headlamp level"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "",
+     "Sensing diagnostic module ignition"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "High-beam headlamp right"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "",
+     "High-beam headlamp left"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "",
+     "Ignition steering column lock"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "",
+     "Trailer right stoplamp"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "",
+     "Trailer left stoplamp"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Wiper control"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Wiper speed"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Cooling fan 3"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Low beam/HID"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Vacuum pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-srx-2016-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Display"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Universal handsfree phone"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet instrument panel/console"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet floor console"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "OnStar system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Rain sensor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Electronic steering column lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Sensing and diagnostic module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Data link connector"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Steering wheel switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Amplifier/radio"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Heating ventilation and air conditioning"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "",
+     "Front blower"
+    ],
+    [
+     "CB 1",
+     "Circuit breaker MINI",
+     "",
+     "Heated driver seat"
+    ],
+    [
+     "CB 2",
+     "Circuit breaker MINI",
+     "",
+     "Heated passenger seat"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Logistics relay/shunt"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Retained accessory power/accessory relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-srx-2016-genid-g2-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Power window"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "Rear defog"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "Right window"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Park brake module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Automatic occupant sensing module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Ignition/theft 1"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Passenger door window switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Liftgate"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Trailer park lamps"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Rear drive module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Rear parking assist module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Shunt"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Trailer export"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Infotainment"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Security"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Liftgate module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Ignition/theft 2"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "External object calculating module/side blind zone alert"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Heated mirror"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Mirror window module"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Vehicle information communications system (export)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Liftgate module logic"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Rear vision camera"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Front ventilated seats"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Trailer module"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "Semi active damping system module"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Rear heated seats"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Body control module theft"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Trailer 2"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Universal garage door opener"
+    ],
+    [
+     "CB 1",
+     "Circuit breaker MINI",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "CB 2",
+     "Circuit breaker MINI",
+     "",
+     "Passenger/driver power seats"
+    ],
+    [
+     "CB 3",
+     "Circuit breaker MINI",
+     "",
+     "Trailer module"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Wiper control"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Run relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Logistic relay (export)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ]
+   ]
+  }
+ ]
+}
