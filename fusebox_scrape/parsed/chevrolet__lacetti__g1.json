@@ -1,0 +1,396 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "lacetti",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Lacetti",
+ "model_id": 1151,
+ "generation_name": "1st generation (J200)",
+ "generation_code": "g1",
+ "year_start": 2004,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/chevrolet/lacetti/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-lacetti-2007-genid-g1-0.webp",
+   "fuses": [
+    [
+     "AIRBAG",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "WPR",
+     "Fuse MINI",
+     "25A",
+     "Wiper"
+    ],
+    [
+     "RADIO/CLK",
+     "Fuse MINI",
+     "10A",
+     "Radio/clock"
+    ],
+    [
+     "ECM",
+     "Fuse MINI",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "AIRBAG2",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "AUX LTR",
+     "Fuse MINI",
+     "15A",
+     "Extra jack"
+    ],
+    [
+     "TRN SIG LAMPS",
+     "Fuse MINI",
+     "15A",
+     "Turn signal lamps"
+    ],
+    [
+     "ABS",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "LTR",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "CLSTR BTSI",
+     "Fuse MINI",
+     "10A",
+     "Cluster, brake transmission shift interlock (BTSI) solenoid"
+    ],
+    [
+     "RKE",
+     "Fuse MINI",
+     "10A",
+     "Remote keyless entry"
+    ],
+    [
+     "BCK/UP",
+     "Fuse MINI",
+     "10A",
+     "Back-up"
+    ],
+    [
+     "TCM",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "ENG FUSE BOX DRL",
+     "Fuse MINI",
+     "10A",
+     "Engine fuse box, daytime running lamps"
+    ],
+    [
+     "HAZRD LAMPS",
+     "Fuse MINI",
+     "15A",
+     "Hazard lamps"
+    ],
+    [
+     "A/C CLK",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning switch, clock"
+    ],
+    [
+     "HVAC",
+     "Fuse MINI",
+     "20A",
+     "Heating, ventilation and air conditioning"
+    ],
+    [
+     "RKE2",
+     "Fuse MINI",
+     "15A",
+     "Remote keyless entry / anti-theft system (if equipped)"
+    ],
+    [
+     "RADIO",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "S/ROOF",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "DLC",
+     "Fuse MINI",
+     "10A",
+     "Data link connector"
+    ],
+    [
+     "SPARE",
+     "Fuse MINI",
+     "10A",
+     "Spare"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-lacetti-2007-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery power"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brake system"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "HVAC blower"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 2"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 1"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "Headlamps"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "DIS"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Instrument panel fuse"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Headlamp high-beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Stoplamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Door lock"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Front fog"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "License plate lamp, parking lamp left"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Injector"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "EVAP canister purge solenoid, heated oxygen sensor, cooling fan relay, CMP sensor"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low-beam left"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cooling fan low"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "Defog"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan high"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power window"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Illumination circuit, parking lamp right"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low-beam right"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Illumination relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front fog"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Power window"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan low"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Defog"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Cooling fan high"
+    ]
+   ]
+  }
+ ]
+}
