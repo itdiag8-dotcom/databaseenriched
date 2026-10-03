@@ -1,0 +1,379 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c4-cactus",
+ "brand_db": "Citroen",
+ "model_db_name": "C4 Cactus",
+ "model_id": 1271,
+ "generation_name": "1st generation",
+ "generation_code": "g1",
+ "year_start": 2014,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/citroen/c4-cactus/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Dashboard right hand fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-cactus-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "25A",
+     "Heated rear screen"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "30A",
+     "Front electric windows"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "20A",
+     "Trailer interface unit"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "25A",
+     "Trailer interface unit"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-cactus-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioning"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "",
+     "Stop & Start"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "30A",
+     "Passenger compartment fusebox"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "70A",
+     "Passenger compartment fusebox"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "70A",
+     "Built-in Systems Interface (BSI)"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "60A",
+     "Cooling fan assembly"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "80A",
+     "Built-in Systems Interface (BSI)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Engine management, petrol pump"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Engine management"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Engine management"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Engine management"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "5A",
+     "Cooling fan assembly"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "Built-in Systems Interface (BSI)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Battery charge unit (non Stop & Start engine)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "Stop & Start"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "5A",
+     "Built-in Systems Interface (BSI)"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Right hand main beam headlamp"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Left hand main beam headlamp"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "40A",
+     "Electronic gearbox"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "40A",
+     "ABS, ESC"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "20A",
+     "ABS, ESC"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "30A",
+     "Passenger compartment fusebox"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "15A",
+     "Electronic gearbox"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "25A",
+     "Built-in Systems Interface (BSI)"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "30A",
+     "Diesel emissions control system (AdBlue)"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windscreen wipers"
+    ],
+    [
+     "F30",
+     "Fuse MIDI",
+     "80A",
+     "Preheater control unit"
+    ],
+    [
+     "F31",
+     "Fuse MIDI",
+     "100A",
+     "Additional heater (diesel)"
+    ],
+    [
+     "F32",
+     "Fuse MIDI",
+     "80A",
+     "Electric power steering"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Dashboard left hand fusebox",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-cactus-2017-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Brake pedal (switch 2), Stop & Start"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Headlamp beam height adjuster, additional heater (diesel), parking sensors, diagnostic socket, door mirrors, Grip Control"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Diesel additive pump, electric power steering, clutch pedal switch"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Rain and sunshine sensor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Brake pedal (switch 1), diagnostic socket"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Top of steering column contacts with steering mounted controls"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Emergency call / assistance call"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Stop & Start, ABS, ESC"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Parking sensors, reversing camera"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Electronic gearbox, switch panel, air conditioning, touch screen tablet"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "12 Volt socket"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Seat belt unfastened warning"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Airbags"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Locks"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Courtesy lamp, map reading lamp"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Front and rear screenwash"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,336 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c4-cactus",
+ "brand_db": "Citroen",
+ "model_db_name": "C4 Cactus",
+ "model_id": 1271,
+ "generation_name": "Other versions",
+ "generation_code": "other-2020",
+ "year_start": 2018,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/citroen/c4-cactus/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses in the dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-cactus-2020-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Interior rearview mirror and electric power steering"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Rearview camera"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Front windshield washer [Gnd]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Front windshield washer [+]"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "12V socket"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Door locks [+]"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "30A",
+     "Door locks [Gnd]"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "3A",
+     "Steering wheel controls"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "3A",
+     "Third brake light"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "5A",
+     "Engine ECU power supply"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Touch screen and climate control"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "7.5A",
+     "Brake light switch and diagnostic socket"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "Hands-free starting system"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "3A",
+     "Steering angle sensor and ESP"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "3A",
+     "Rain and light sensor"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "3A",
+     "Start/Stop button and anti-theft"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "Automatic gearbox lever"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "5A",
+     "Exterior mirror control"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "5A",
+     "Headlight height adjustment control and diagnostic socket"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "5A",
+     "Front and rear map reading light and glove box light"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "Front 12V socket"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuses in the engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-cactus-2020-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "20A",
+     "Relay R2 power supply"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "60A",
+     "ESP"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "30A",
+     "Electric sunroof"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "50A",
+     "Passenger compartment fuse box power supply [BSI]"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "60A",
+     "Electric fan"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "60A",
+     "Passenger compartment fuse box power supply [BSI]"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Engine ECU and fuel pump"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Engine ECU and canister solenoid valve"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Engine ECU"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Engine ECU"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "5A",
+     "Electric fan / ethanol sensor [THP engine]"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Battery charge sensor"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Left headlight"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Right headlight"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "30A",
+     "Front power windows"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "40A",
+     "ESP"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "40A",
+     "Rear power windows"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "5A",
+     "Alarm"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "20A",
+     "Automatic transmission"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "25A",
+     "Passenger compartment fuse box power supply [BSI]"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "20A",
+     "Windshield wiper"
+    ],
+    [
+     "F30",
+     "Fuse MIDI",
+     "80A",
+     "Electric power steering"
+    ]
+   ]
+  }
+ ]
+}
