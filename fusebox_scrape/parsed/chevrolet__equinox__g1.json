@@ -1,0 +1,522 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "equinox",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Equinox",
+ "model_id": 1133,
+ "generation_name": "1st generation (GMT191)",
+ "generation_code": "g1",
+ "year_start": 2004,
+ "year_end": 2009,
+ "trim_label": "",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/chevrolet/equinox/info/fusebox/2009",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-equinox-2009-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Sunroof, inside rear view mirror, compass"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Rear seat entertainment"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Liftgate"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Airbags"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Heated seats"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Driver's side turn signal"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Door locks"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Automatic occupant sensing module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Power mirrors"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Passenger's side turn signal"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Steering wheel illumination"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Infotainment"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Climate control system, remote function actuator"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Cluster"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Body control module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Communications integration module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Center high-mounted stoplamp, dimmer"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Interior lights"
+    ],
+    [
+     "CB 1",
+     "Circuit breaker ATO",
+     "",
+     "Power windows"
+    ],
+    [
+     "CB 2",
+     "Circuit breaker ATO",
+     "",
+     "Power seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-equinox-2009-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 2"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 3"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 1"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "Rear HVAC"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "25A",
+     "Sunroof"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "25A",
+     "Anti-lock brake system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Driver's side low-beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamp 2"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side high-beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side park lamp"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Driver's side park lamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Electronic throttle control, engine control module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Emission device 1"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Even coils, injectors"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Odd coils, injectors"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Emission device 2"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module, ignition"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Transmission"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Mass airflow sensor"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Airbag display"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Stoplamp"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side low-beam"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Driver's side high-beam"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 2"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 1"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Engine control module, battery"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module battery"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Trailer park lamp"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "25A",
+     "Front wiper"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Driver's side trailer stoplamp, turn signal"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "All-wheel drive"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Regulated voltage control"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side trailer stoplamp, turn signal"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Front, rear washer"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system motor"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "40A",
+     "Climate control system"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "56",
+     "Fuse MIDI",
+     "80A",
+     "Electric power steering"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition main"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Air conditioning compressor clutch"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Crank"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fan 3"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fan 1"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fan 2"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Passenger's side trailer stoplamp, turn signal"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Driver's side trailer stoplamp, turn signal"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Fuel pump"
+    ]
+   ]
+  }
+ ]
+}

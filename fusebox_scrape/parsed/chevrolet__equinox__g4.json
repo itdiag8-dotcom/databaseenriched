@@ -1,0 +1,558 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "equinox",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Equinox",
+ "model_id": 1133,
+ "generation_name": "4th generation",
+ "generation_code": "g4",
+ "year_start": 2025,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/chevrolet/equinox/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-equinox-2025-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "",
+     "STRTR MTR - Starter motor"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "",
+     "ELM 5 - Electric lighting module 5"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "",
+     "FTZM - Fuel tank zone module"
+    ],
+    [
+     "9-Y",
+     "Fuse MICRO3",
+     "",
+     "HSM_FT_BAT2"
+    ],
+    [
+     "9-Z",
+     "Fuse MICRO3",
+     "",
+     "HSM_FT_BAT1"
+    ],
+    [
+     "10-Y",
+     "Fuse MICRO3",
+     "",
+     "HSM_RR_2"
+    ],
+    [
+     "10-Z",
+     "Fuse MICRO3",
+     "",
+     "HSM_RR_1"
+    ],
+    [
+     "11-Y",
+     "Fuse MICRO3",
+     "",
+     "MSG_RT"
+    ],
+    [
+     "11-Z",
+     "Fuse MICRO3",
+     "",
+     "MSG_LT"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "",
+     "Rear defog"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "",
+     "HFRC - Hands free rear closure"
+    ],
+    [
+     "15",
+     "Fuse FMM/MCase",
+     "",
+     "Power seat driver"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "",
+     "Window left"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "",
+     "Power seat co-driver"
+    ],
+    [
+     "18",
+     "Fuse FMM/MCase",
+     "",
+     "DC-DC converter"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "",
+     "ECM PTIGN"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "",
+     "ECM PTIGN2"
+    ],
+    [
+     "21-Y",
+     "Fuse MICRO3",
+     "",
+     "OFF ENG1"
+    ],
+    [
+     "21-Z",
+     "Fuse MICRO3",
+     "",
+     "OFF ENG2"
+    ],
+    [
+     "22-Y",
+     "Fuse MICRO3",
+     "",
+     "DPWR2"
+    ],
+    [
+     "22-Z",
+     "Fuse MICRO3",
+     "",
+     "Coil odd"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "",
+     "ECM BAT - Electronic control module battery"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "",
+     "A/C control"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "",
+     "MGU - Motor generator unit"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "",
+     "PCM BAT - Propulsion control module battery"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "",
+     "TCM - Telematics control module"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "",
+     "TAOPM"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "",
+     "TCM BAT - Telematics control module battery"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "",
+     "Trailer stop/turn left"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "",
+     "ACM - Air conditioning module"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "",
+     "EBCM BAT1 - Electronic brake control module battery 1"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "",
+     "Front and rear wash"
+    ],
+    [
+     "40-Y",
+     "Fuse MICRO3",
+     "",
+     "CWP"
+    ],
+    [
+     "40-Z",
+     "Fuse MICRO3",
+     "",
+     "APMB"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "",
+     "BSM"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "",
+     "Remote function receiver"
+    ],
+    [
+     "47",
+     "Fuse FMM/MCase",
+     "",
+     "Trailer connector"
+    ],
+    [
+     "48",
+     "Fuse FMM/MCase",
+     "",
+     "Window right"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "",
+     "Power tailgate"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "",
+     "Sunroof"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "52",
+     "Fuse FMM/MCase",
+     "",
+     "Driver smart actuator module"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "",
+     "Horn"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "",
+     "Trailer backup"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "",
+     "Trailer park lamp"
+    ],
+    [
+     "56",
+     "Fuse MICRO2",
+     "",
+     "CVS"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "",
+     "ELM 4 - Electric lighting module 4"
+    ],
+    [
+     "59-Y",
+     "Fuse MICRO3",
+     "",
+     "DSP DR"
+    ],
+    [
+     "59-Z",
+     "Fuse MICRO3",
+     "",
+     "DSP CO"
+    ],
+    [
+     "60",
+     "Fuse MICRO2",
+     "",
+     "Wiper deice"
+    ],
+    [
+     "61",
+     "Fuse MICRO2",
+     "",
+     "Trailer stop/turn right"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-equinox-2025-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "",
+     "Blower"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "",
+     "ELM 6 - Electric lighting module 6"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "",
+     "HDLP_RT - Headlamp right"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "",
+     "ELM 2 - Electric lighting module 2"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "",
+     "BCM 2 - Body control module 2"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "",
+     "BCM 1 - Body control module 1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "SWC - Steering wheel controls"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "",
+     "OnStar"
+    ],
+    [
+     "9",
+     "Fuse MICRO3",
+     "",
+     "SWBK/ETRS"
+    ],
+    [
+     "10",
+     "Fuse MICRO3",
+     "",
+     "VCD_IPD1/VCD_IPD2"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "",
+     "HVAC_D_OHC_UGDO"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "",
+     "WCM/HSWM - Wireless charging module/heated steering wheel module"
+    ],
+    [
+     "14",
+     "Fuse MICRO3",
+     "",
+     "RC_MISC_3"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "",
+     "48V_IGN"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "",
+     "APO_CARGO - Auxiliary power outlet cargo"
+    ],
+    [
+     "17",
+     "Fuse MICRO3",
+     "",
+     "SDM/CO_AOS/SAFETY1_2"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "",
+     "RC_MISC_1/RC_MISC_2"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "",
+     "SDM_RC - Sensing diagnostic module RC"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "",
+     "DLC/CGM - Data link connector/central gateway module"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "",
+     "VCU_JACK1/VCU_JACK2"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "",
+     "ECM_TCM_IGN"
+    ],
+    [
+     "23",
+     "Fuse FMM/MCase",
+     "",
+     "APO_USB - Auxiliary power outlet USB"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "",
+     "VKM_VKS - Virtual key module/virtual key sensor"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "",
+     "ELM 1 - Electric lighting module 1"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "",
+     "ILSS_ETC - Indicator light and solar sensor/electronic throttle control"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "",
+     "ELM 7 - Electric lighting module 7"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "",
+     "HDLP_LT - Headlamp left"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "",
+     "BCM 3 - Body control module 3"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "",
+     "SAFETY 2"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "",
+     "ELM 3 - Electric lighting module 3"
+    ],
+    [
+     "35",
+     "Fuse FMM/MCase",
+     "",
+     "AMP - Amplifier"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "",
+     "DC/DC 2 - Direct current converter 2"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "",
+     "IEC_BATT - Internal electrical center battery"
+    ],
+    [
+     "39",
+     "Fuse FMM/MCase",
+     "",
+     "BCM 4 - Body control module 4"
+    ],
+    [
+     "40",
+     "Fuse FMM/MCase",
+     "",
+     "VCU_2 - Virtual cockpit unit 2"
+    ]
+   ]
+  }
+ ]
+}
