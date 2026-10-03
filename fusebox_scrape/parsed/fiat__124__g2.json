@@ -1,0 +1,306 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "124",
+ "brand_db": "Fiat",
+ "model_db_name": "124 Spider",
+ "model_id": 1644,
+ "generation_name": "124 Spider (\"Type 348\")",
+ "generation_code": "g2",
+ "year_start": 2017,
+ "year_end": 2020,
+ "trim_label": "Spider",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/fiat/124/info/fusebox/2020/trims-spider",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse Block (Engine Compartment)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-124-2020-genid-g2-trims-spider-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "5A",
+     "(ENG IG3) Engine control systems"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "5A",
+     "(ENG IG2) Engine control systems"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "7.5A",
+     "(HORN2) Horn"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "15A",
+     "(C/U IG1) Protection of various circuits"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "7.5A",
+     "(ENG IG1) Engine control system"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "15A",
+     "(INTERIOR) Overhead light"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO2) Audio system"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "(METER1) Instrument cluster"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "7.5A",
+     "(SRS1) Airbag"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "(RADIO) Audio system"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "(ENGINE3) Engine control system"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "(ENGINE1) Engine control system"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "(ENGINE2) Engine control system"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "25A",
+     "(AUDIO1) Audio system"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "(A/C MAG) Air conditioner"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "(AT PUMP H/L HI) Transmission control system"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "(AT) Transmission control system"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "25A",
+     "(D LOCK) Power door locks"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "(H/L RH) Headlight right"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "7.5A",
+     "(ENG +B2) Engine control system"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "(TAIL) Taillights / number plate lights / position lights"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "25A",
+     "(ROOM) Overhead light"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "(H/CLEAN) Headlight washer"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "(STOP) Stop lights / rear fog light"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "20A",
+     "(H/L LH) Headlight left"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "30A",
+     "(ABS/DSC S) ABS/DSC system"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Hazard warning flashers / direction indicators"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "(FUEL PUMP) Fuel system"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "5A",
+     "(ENG +B3) Engine control system"
+    ],
+    [
+     "F36",
+     "Fuse FMX/JCase",
+     "20A",
+     "(WIPER) Windshield wipers"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "50A",
+     "(CABIN +B) Protection of various circuits"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "50A",
+     "(ABS/DSC M) ABS/DSC system"
+    ],
+    [
+     "F41",
+     "Fuse FMX/JCase",
+     "20A",
+     "(EVVT A/R PUMP) Engine control system"
+    ],
+    [
+     "F44",
+     "Fuse FMX/JCase",
+     "40A",
+     "(FAN2) Cooling fan"
+    ],
+    [
+     "F45",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ENG.MAIN) Engine control system"
+    ],
+    [
+     "F46",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "(EPS) Power steering system"
+    ],
+    [
+     "F47",
+     "Fuse FMX/JCase",
+     "30A",
+     "(DEFOG) Rear window defogger"
+    ],
+    [
+     "F48",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IG2) Protection of various circuits"
+    ],
+    [
+     "F50",
+     "Fuse FMX/JCase",
+     "40A",
+     "(HEATER) Air conditioner"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse Block Interior",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-124-2020-genid-g2-trims-spider-1.webp",
+   "fuses": [
+    [
+     "F05",
+     "Fuse MINI",
+     "15A",
+     "(F.OUTLET) Accessory sockets"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "7.5A",
+     "(AT IND) AT shift indicator"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "7.5A",
+     "(MIRROR) Power control mirror"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "(F.WASHER) Windshield washer"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "(P.WINDOW) Power windows"
+    ]
+   ]
+  }
+ ]
+}
