@@ -1,0 +1,679 @@
+{
+ "make_slug": "buick",
+ "model_slug": "enclave",
+ "brand_db": "Buick",
+ "model_db_name": "Enclave",
+ "model_id": 945,
+ "generation_name": "1st generation",
+ "generation_code": "Lambda",
+ "year_start": 2007,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/buick/enclave/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-enclave-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "A/C CLTCH",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "ABS MTR",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "AFS",
+     "Fuse MINI",
+     "15A",
+     "Adaptive forward lighting system"
+    ],
+    [
+     "AIRBAG",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "AUX POWER",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power"
+    ],
+    [
+     "AUX VAC PUMP",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary vacuum pump"
+    ],
+    [
+     "AWD",
+     "Fuse MINI",
+     "15A",
+     "AWD system"
+    ],
+    [
+     "BATT 1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery 1"
+    ],
+    [
+     "BATT 2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery 2"
+    ],
+    [
+     "BATT 3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery 3"
+    ],
+    [
+     "CIGAR LIGHTER",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "ECM 1",
+     "Fuse MINI",
+     "20A",
+     "Engine control module 1"
+    ],
+    [
+     "ECM/FPM IGN",
+     "Fuse MINI",
+     "10A",
+     "Engine control module / fuel pump"
+    ],
+    [
+     "EMISSION1",
+     "Fuse MINI",
+     "15A",
+     "Emission 1"
+    ],
+    [
+     "EMISSION2",
+     "Fuse MINI",
+     "15A",
+     "Emission 2"
+    ],
+    [
+     "EVEN COILS",
+     "Fuse MINI",
+     "15A",
+     "Injector coils - even"
+    ],
+    [
+     "FAN 1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 1"
+    ],
+    [
+     "FAN 2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 2"
+    ],
+    [
+     "HDLP WASH/TRLR BRK",
+     "Fuse MINI",
+     "30A",
+     "Headlamp washer (China) / trailer brake"
+    ],
+    [
+     "FPM",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump power module"
+    ],
+    [
+     "FOG LAMP",
+     "Fuse MINI",
+     "",
+     "Fog lamps (GMC)"
+    ],
+    [
+     "HTD STR WHL",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "HTD MIR",
+     "Fuse MINI",
+     "10A",
+     "Heated exterior rearview mirror"
+    ],
+    [
+     "HUMIDITY/MAF",
+     "Fuse MINI",
+     "15A",
+     "Humidity sensor / mass airflow sensor"
+    ],
+    [
+     "HVAC BLWR",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower"
+    ],
+    [
+     "LT HI BEAM",
+     "Fuse MINI",
+     "10A",
+     "Left high-beam headlamp"
+    ],
+    [
+     "LT LO BEAM",
+     "Fuse MINI",
+     "20A",
+     "Left low-beam headlamp"
+    ],
+    [
+     "LT PRK",
+     "Fuse MINI",
+     "10A",
+     "Left parking lamp"
+    ],
+    [
+     "LT TRLR STOP/TRN",
+     "Fuse MINI",
+     "10A",
+     "Left trailer stoplamp / turn signal lamp"
+    ],
+    [
+     "ODD COILS",
+     "Fuse MINI",
+     "15A",
+     "Injector coils - odd"
+    ],
+    [
+     "PWR L/GATE",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power liftgate"
+    ],
+    [
+     "PWR OUTLET",
+     "Fuse MINI",
+     "25A",
+     "Power outlet"
+    ],
+    [
+     "RR APO",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory power outlet"
+    ],
+    [
+     "RR DEFOG",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "RR HVAC",
+     "Fuse MINI",
+     "30A",
+     "Rear climate control system"
+    ],
+    [
+     "RT HI BEAM",
+     "Fuse MINI",
+     "10A",
+     "Right high-beam headlamp"
+    ],
+    [
+     "RT LO BEAM",
+     "Fuse MINI",
+     "20A",
+     "Right low-beam headlamp"
+    ],
+    [
+     "RT PRK",
+     "Fuse MINI",
+     "10A",
+     "Right parking lamp"
+    ],
+    [
+     "RT TRLR STOP/TRN",
+     "Relay",
+     "",
+     "Right trailer stoplamp / turn signal lamp relay"
+    ],
+    [
+     "RVC SNSR",
+     "Fuse MINI",
+     "10A",
+     "Regulated voltage control sensor"
+    ],
+    [
+     "S/ROOF/SUNSHADE",
+     "Fuse FMX/JCase",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "SERVICE",
+     "Fuse MINI",
+     "",
+     "Service repair"
+    ],
+    [
+     "STOP LAMPS",
+     "Fuse MINI",
+     "",
+     "Stop lamps (China only)"
+    ],
+    [
+     "STRTR",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "TCM",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "TRANS",
+     "Fuse MINI",
+     "10A",
+     "Transmission"
+    ],
+    [
+     "TRLR BCK/UP",
+     "Fuse MINI",
+     "10A",
+     "Trailer reverse lamps"
+    ],
+    [
+     "TRLR BRK",
+     "Fuse MINI",
+     "",
+     "Trailer brake"
+    ],
+    [
+     "TRLR PWR",
+     "Fuse MINI",
+     "30A",
+     "Trailer power"
+    ],
+    [
+     "WPR/WSW",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper / washer"
+    ],
+    [
+     "A/C CMPRSR CLTCH",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R AUX VAC PUMP",
+     "Relay",
+     "",
+     "Auxiliary vacuum pump relay"
+    ],
+    [
+     "CRNK",
+     "Relay",
+     "",
+     "Switched power relay"
+    ],
+    [
+     "R FAN 1",
+     "Relay",
+     "",
+     "Cooling fan 1 relay"
+    ],
+    [
+     "FAN 1 R",
+     "Relay",
+     "",
+     "Cooling fan 2 relay"
+    ],
+    [
+     "R FAN 3",
+     "Relay",
+     "",
+     "Cooling fan 3 relay"
+    ],
+    [
+     "FOG LAMP R",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "HI BEAM",
+     "Relay",
+     "",
+     "High-beam headlamps relay"
+    ],
+    [
+     "HID/LO BEAM",
+     "Relay",
+     "",
+     "HID low-beam headlamps relay"
+    ],
+    [
+     "R HORN",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "IGN",
+     "Relay",
+     "",
+     "Ignition main relay"
+    ],
+    [
+     "R LT TRLR STOP/TRN",
+     "Relay",
+     "",
+     "Trailer left stoplamp / turn signal lamp relay"
+    ],
+    [
+     "PRK LAMP",
+     "Relay",
+     "",
+     "Parking lamp relay"
+    ],
+    [
+     "PWR/TRN",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "R DEFOG",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R TRLR BCK/UP",
+     "Relay",
+     "",
+     "Trailer reverse lamps relay"
+    ],
+    [
+     "WPR",
+     "Relay",
+     "",
+     "Windshield wiper relay"
+    ],
+    [
+     "WPR HI",
+     "Relay",
+     "",
+     "Windshield wiper high-speed relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block - fuse side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-enclave-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "REAR FOG",
+     "Fuse MINI",
+     "",
+     "Rear fog lamp (Buick China)"
+    ],
+    [
+     "AIRBAG",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "AMP",
+     "Fuse MINI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "BCK UP/STOP",
+     "Fuse MINI",
+     "15A",
+     "Reverse lamps / stoplamps"
+    ],
+    [
+     "BCM",
+     "Fuse MINI",
+     "10A",
+     "Body control module"
+    ],
+    [
+     "CNSTR VENT",
+     "Fuse MINI",
+     "10A",
+     "Canister vent"
+    ],
+    [
+     "CTSY",
+     "Fuse MINI",
+     "15A",
+     "Courtesy lamps"
+    ],
+    [
+     "DR LCK",
+     "Fuse MINI",
+     "25A",
+     "Door locks"
+    ],
+    [
+     "DSPLY",
+     "Fuse MINI",
+     "10A",
+     "Display"
+    ],
+    [
+     "FRT WSW",
+     "Fuse MINI",
+     "10A",
+     "Front windshield washer"
+    ],
+    [
+     "HTD/COOL SEAT",
+     "Fuse MINI",
+     "30A",
+     "Heated / cooled seats"
+    ],
+    [
+     "HVAC",
+     "Fuse MINI",
+     "15A",
+     "HVAC"
+    ],
+    [
+     "INADV PWR INT LAMPS",
+     "Fuse MINI",
+     "10A",
+     "Inadvertent power / interior lamps"
+    ],
+    [
+     "INFOTMNT/MSM",
+     "Fuse MINI",
+     "10A",
+     "Infotainment / memory seat module"
+    ],
+    [
+     "LT TRN SIG",
+     "Fuse MINI",
+     "15A",
+     "Left turn signal lamp"
+    ],
+    [
+     "OBS DET/URS",
+     "Fuse MINI",
+     "10A",
+     "Rear park assist / side blind zone alert / forward collision alert / universal remote system"
+    ],
+    [
+     "PDM",
+     "Fuse MINI",
+     "15A",
+     "Power mirrors / liftgate release"
+    ],
+    [
+     "PWR MODE",
+     "Fuse MINI",
+     "2A",
+     "Power mode"
+    ],
+    [
+     "PWR MIR",
+     "Fuse MINI",
+     "2A",
+     "Power mirrors"
+    ],
+    [
+     "RDO",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "REAR WPR",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "RT TRN SIG",
+     "Fuse MINI",
+     "15A",
+     "Right turn signal lamp"
+    ],
+    [
+     "STR WHL ILLUM",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel illumination"
+    ],
+    [
+     "USB CHRG",
+     "Fuse MINI",
+     "10A",
+     "USB charging"
+    ],
+    [
+     "DRL/LO BEAM2",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps relay / low-beam headlamp relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument panel fuse block - relay side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-enclave-2017-genid-g1-2.webp",
+   "fuses": [
+    [
+     "CB1",
+     "Circuit breaker",
+     "",
+     "Left power seat"
+    ],
+    [
+     "CB2",
+     "Circuit breaker",
+     "",
+     "Right power seat"
+    ],
+    [
+     "CB3",
+     "Circuit breaker",
+     "",
+     "Power windows"
+    ],
+    [
+     "CB4",
+     "Circuit breaker",
+     "",
+     "Power steering column"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power lock relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power unlock relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Left unlock relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear fog lamps relay (China)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Liftgate relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear window washer relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Daytime running lamp relay (if equipped)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Daytime running lamps / low-beam headlamps relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Front windshield washer relay"
+    ]
+   ]
+  }
+ ]
+}
