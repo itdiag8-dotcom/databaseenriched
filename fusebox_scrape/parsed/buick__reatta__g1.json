@@ -1,0 +1,264 @@
+{
+ "make_slug": "buick",
+ "model_slug": "reatta",
+ "brand_db": "Buick",
+ "model_db_name": null,
+ "model_id": null,
+ "generation_name": "1st generation",
+ "generation_code": "E-body",
+ "year_start": 1988,
+ "year_end": 1991,
+ "trim_label": "",
+ "representative_year": 1990,
+ "source_url": "https://www.startmycar.com/buick/reatta/info/fusebox/1990",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-reatta-1990-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Ignition"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Courtesy lights, trunk lights, console panel lights"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Antenna"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Lighter"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Power supply to electronics"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Stoplights, hazard lights"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Torque converter"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "3A",
+     "Cruise control"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "HVAC/climate control"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "Taillights, parking lights"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Radio"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "25A",
+     "Wiper"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Trunk release, fuel door release"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "25A",
+     "Accessory"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "3A",
+     "Accessory"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "3A",
+     "Crank/starter"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "25A",
+     "Trunk pull-down/fuel door release"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Automatic level control"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "Climate control"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "5A",
+     "Coolant fan"
+    ],
+    [
+     "21",
+     "Circuit breaker ATO",
+     "",
+     "Low beam"
+    ],
+    [
+     "22",
+     "Circuit breaker ATO",
+     "",
+     "High beam"
+    ],
+    [
+     "23",
+     "Circuit breaker ATO",
+     "",
+     "Power seats, door locks"
+    ],
+    [
+     "24",
+     "Circuit breaker ATO",
+     "",
+     "Horn, defogger"
+    ],
+    [
+     "25",
+     "Circuit breaker ATO",
+     "",
+     "Windows"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relay block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-reatta-1990-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "25A",
+     "Defogger"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "Remote keyless entry"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "10A",
+     "ECM ignition"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "10A",
+     "ECM solenoid"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "15A",
+     "Injector / fuel pump"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "15A",
+     "CCCI"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Courtesy lamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Defogger relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Hi-low beam relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Park lamps relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Retained accessory power - accessory 1 relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Retained accessory power - ignition 3 (accessory 2) relay"
+    ]
+   ]
+  }
+ ]
+}
