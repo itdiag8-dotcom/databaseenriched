@@ -1,0 +1,631 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "xsara-picasso",
+ "brand_db": "Citroen",
+ "model_db_name": "Xsara Picasso",
+ "model_id": 1288,
+ "generation_name": "Other versions",
+ "generation_code": "other-2001",
+ "year_start": 2001,
+ "year_end": 2001,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/citroen/xsara-picasso/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-xsara-picasso-2001-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "",
+     "Front and side airbags, seat belt pretensioners"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Clutch pedal switch"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "+ after ignition switch, multiplex system (BSI)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Power to engine stop valve (2.0 HDi)"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Continuous power supply for hazard warning lights"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "Multiplex continuous power supply (BSI)"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Coolant temperature sensor, interior headlights, instrument cluster"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "Luggage compartment lighting"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Navigation"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Power supply of additional socket and trailer electrical equipment"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "20A",
+     "Rear door windows"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "40A",
+     "Protection block"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Protection block [Diesel]"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Car radio"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "5A",
+     "[Diesel]"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "5A",
+     "Rear fog lights"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Ceiling lighting, glove compartment lighting"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "5A",
+     "Electrically operated mirrors"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "5A",
+     "Continuous power to additional equipment and multiplex system (BSI)"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Continuous power to additional equipment and multiplex system (BSI) [Diesel]"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "10A",
+     "Left high beam headlamp"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Right high beam headlamp"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "10A",
+     "Left low beam headlamp"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "10A",
+     "Right low beam headlamp"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "10A",
+     "Headlight range control"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "5A",
+     "Headlight range control [Diesel]"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "10A",
+     "License plate light, front left and rear right side light"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "10A",
+     "Front right and rear left side light"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "15A",
+     "Air conditioning system"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "5A",
+     "Push button switch"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "40A",
+     "Air conditioning fan"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "15A",
+     "Powering the multiplex system"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "30A",
+     "Sunroof, front and rear door windows"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "15A",
+     "Air conditioning compressor, rear window wiper"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window and exterior mirrors"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "25A",
+     "Windshield wiper"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "20A",
+     "Central locking system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-xsara-picasso-2001-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "70A",
+     "BB power supply CM (intelligent service module), windscreen wiper, heated rear window, lock"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "70A",
+     "Fan group (P)"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "60A",
+     "Fan group (P)"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "60A",
+     "Wheel anti-lock (A)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Buzzer"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "30A",
+     "Low beam headlamp relay (P)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "Fan low speed relay (TU5JP/L3) with cooling system"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "70A",
+     "Passenger compartment fuse module 28 (A)"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "50A",
+     "Power supply CM (intelligent service module), direction indicators, power window, sunroof, +VAN, rear wiper, cooling compressor"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "40A",
+     "Light control (A)"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "70A",
+     "Anti-theft alarm contact (+AA, +CC, +D) (A)"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "40A",
+     "Anti-theft alarm contact (+KK) (A)"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Diagnostic socket, computer power supply (TU5JP)"
+    ],
+    [
+     "16",
+     "Fuse MAXI",
+     "40A",
+     "Passenger compartment fuse module 28 (A)"
+    ],
+    [
+     "17",
+     "Fuse MAXI",
+     "30A",
+     "Auxiliary heating system nozzle (A)"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "+CC fan relay (all types except TU5JP/L3 and EW7J4)"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "25A",
+     "Direction indicators"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "15A",
+     "+CC wheel anti-lock computer"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "5A",
+     "Engine control computer (A), preheating module, flow meter, protection blocking module 3 relays"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump (via dual relay)"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "40A",
+     "+BB two-position relay (P)"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "30A",
+     "Two-position relay (P)"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "5A",
+     "Carburetor heating resistance or damper module (via dual relay) (TU5JP/L3)"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "",
+     "+BB air pump (EW7) (A), auxiliary heating warning lamp (DW10)"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Right fog lamp (P)"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "10A",
+     "Left fog lamp (P)"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "10A",
+     "+CC vehicle speed sensor, reversing light contact, protection blocking"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "15A",
+     "Fluid temperature module (TU5JP), diagnostic socket, fuel heating system, engine coolant level sensor contact (DW10TD)"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "5A",
+     "Oxygen probe (via double relay), tank cleaning solenoid valve (petrol), EGR solenoid valve, diesel fuel pump solenoid valve"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-xsara-picasso-2001-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "70A",
+     "Multifunction control module 1"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan motor (low speed)"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan motor (high speed)"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "50A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Low beam headlight relay"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "Cooling fan motor relay"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "70A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "50A",
+     "Multifunction control module 1"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "40A",
+     "Headlight switch"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "50A",
+     "Ignition switch"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Data link connector (DLC)"
+    ],
+    [
+     "15",
+     "Fuse MAXI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "16",
+     "Fuse MAXI",
+     "40A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "17",
+     "Fuse MAXI",
+     "30A",
+     "Coolant heater"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "5A",
+     "Cooling fan motor relay"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "Turn signal indicators"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "5A",
+     "Engine management system"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "Engine management system"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Engine management system"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "20A",
+     "Relay module"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "40A",
+     "Coolant heater"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "5A",
+     "Right fog light"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "5A",
+     "Left fog light"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "5A",
+     "Vehicle speed sensor (VSS), reverse lights"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "10A",
+     "Low coolant temperature sensor, data link connector (DLC), fuel heater"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "15A",
+     "Engine management system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Auxiliary heater relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beam headlight relay"
+    ]
+   ]
+  }
+ ]
+}

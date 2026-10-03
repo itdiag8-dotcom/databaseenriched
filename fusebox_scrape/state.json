@@ -310,12 +310,12 @@
   "cadillac": "done",
   "chery": "done",
   "chevrolet": true,
-  "chrysler": "done"
+  "chrysler": "done",
+  "citroen": "all 44 models processed (post-2000 rule applied from jumpy onward)"
  },
- "in_progress": "citroen",
+ "in_progress": null,
  "queue_next_makes": [
   "arcfox",
-  "citroen",
   "cupra",
   "dacia",
   "daewoo",
@@ -770,10 +770,11 @@
   "citroen/spacetourer": "done",
   "citroen/xantia": "skipped_pre2000",
   "citroen/xm": "done",
-  "citroen/xsara": "done"
+  "citroen/xsara": "done",
+  "citroen/xsara-picasso": "done"
  },
- "last_updated": "2026-10-03T23:28:45.285376",
- "current_brand": "citroen",
+ "last_updated": "2026-10-03T23:29:47.917129",
+ "current_brand": "cupra",
  "audi_done_models": [
   "a1",
   "a2",
