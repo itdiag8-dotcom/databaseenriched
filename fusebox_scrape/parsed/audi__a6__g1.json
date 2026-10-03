@@ -1,0 +1,428 @@
+{
+ "make_slug": "audi",
+ "model_slug": "a6",
+ "brand_db": "Audi",
+ "model_db_name": "A6 C4",
+ "model_id": 287,
+ "generation_name": "1st generation",
+ "generation_code": "C4 / Typ 4A",
+ "year_start": 1994,
+ "year_end": 1997,
+ "trim_label": "",
+ "representative_year": 1997,
+ "source_url": "https://www.startmycar.com/audi/a6/info/fusebox/1997",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a6-1997-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Right high beam headlamp and high beam warning lamp"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Left high beam headlamp"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Right dipped beam headlamp"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Left dipped beam headlamp"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Right side light"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Left side marker light"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "License plate, glove compartment, engine compartment, temperature control panel, ashtray and dashboard lamps"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Clock, map reading lamps, trunk lighting, lighter, interior lighting, visor lamps, on-board computer, mirror adjusters, programmable seat adjusters"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Warning lamp"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "30A",
+     "Heater fan, air conditioner"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window and rear-view mirrors"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "25A",
+     "Windshield wipers, direction indicators, cooling fan, sprinkler heaters, gearbox oil temperature sensor"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Reversing lights, glass washers, cruise control, differential lock, multifunction sensor, speedometer sensor, water filter, automatic transmission"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel, rear-view mirrors, on-board computer"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump, heating valve"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "25A",
+     "Diagnostic system, sound signal, fan relay"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "5A",
+     "Cruise control system, automatic transmission"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "15A",
+     "ABS"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a6-1997-genid-g1-1.webp",
+   "fuses": [
+    [
+     "A1",
+     "Circuit breaker ATO",
+     "",
+     "Automatic closing of windows"
+    ],
+    [
+     "A2",
+     "Circuit breaker ATO",
+     "",
+     "Central locking"
+    ],
+    [
+     "A3",
+     "Circuit breaker ATO",
+     "",
+     "Window lifters"
+    ],
+    [
+     "A4",
+     "Circuit breaker ATO",
+     "",
+     "Radio"
+    ],
+    [
+     "A5",
+     "Circuit breaker ATO",
+     "",
+     "Seat heating"
+    ],
+    [
+     "B1",
+     "Circuit breaker ATO",
+     "",
+     "Seat adjustment memory"
+    ],
+    [
+     "B2",
+     "Circuit breaker ATO",
+     "",
+     "Electric seat"
+    ],
+    [
+     "B3",
+     "Circuit breaker ATO",
+     "",
+     "Heated door lock cylinders"
+    ],
+    [
+     "B4",
+     "Circuit breaker ATO",
+     "",
+     "Not used"
+    ],
+    [
+     "B5",
+     "Circuit breaker ATO",
+     "",
+     "Sunroof"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan control relay (engine not running)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Engine cooling fan relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Relay for switching on the 3rd fan speed"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Not used"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Relay for intensive glass washer system"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Daytime running light relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Gear selector lamp relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Relay for turning on the air conditioner module"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Rear window wiper and washer relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Not used"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Loudspeaker power relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Lamp health control unit"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Lamp health control unit"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Servotronic power steering control unit"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Additional mounting box - No. 5A",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a6-1997-genid-g1-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power window control unit"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power window control unit"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Electric control unit for rear-view mirrors / automatic closing of windows"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Electric control unit for rear-view mirror / ABS combi"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Shift lock control module"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Automatic transmission"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan fuse / electronic damping control module (fuse)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan (fuse)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Connecting box 3 - No. 9",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a6-1997-genid-g1-3.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Not used"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Airbag warning lamp relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Not used"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Not used"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Auxiliary air pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Not used"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Not used"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Exhaust manifold auxiliary air pump fuse"
+    ]
+   ]
+  }
+ ]
+}
