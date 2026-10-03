@@ -1,0 +1,669 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "relay",
+ "brand_db": "Citroen",
+ "model_db_name": "Jumper",
+ "model_id": 1282,
+ "generation_name": "Mk2 (\"X250\", \"X290\")",
+ "generation_code": "g2",
+ "year_start": 2007,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/citroen/relay/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-relay-2023-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "ABS/ESP system power supply unit"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "50A",
+     "ECU for diesel engine preheating"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "30A",
+     "Ignition lock contact"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "20A",
+     "Programmable heating burner"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "20A",
+     "Relay for programmable heating system controls"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "50A",
+     "Relay for programmable heating system controls"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan (high speed)"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "60A",
+     "Cooling fan (high speed)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan (low speed)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "50A",
+     "Cooling fan (low speed)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "60A",
+     "Cooling fan (low speed)"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioner"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Sound signal (horn)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "ECU and relay for diesel preheating system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "High beam headlamp, right"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "High beam headlamp, left"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Engine ECU"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Engine ECU"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Engine ECU"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioner compressor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Headlight washer pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump power supply circuit"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Engine ECU"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Power supply circuit for ABS/ESP valves"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Mirror control unit"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-relay-2023-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "ABS pump power supply"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "50A",
+     "ECU for diesel engine preheating"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "30A",
+     "Ignition switch contact, starter"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "20A",
+     "Heating of diesel fuel"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "20A",
+     "Interior ventilation with additional programmable heating (+battery)"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "50A",
+     "Interior ventilation with additional programmable heating (+battery)"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "40A",
+     "Interior fan, max speed (+battery)"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "60A",
+     "Interior fan, max speed (+battery)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "40A",
+     "Interior fan, min speed (+battery)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "50A",
+     "Interior fan, min speed (+battery)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "60A",
+     "Interior fan, min speed (+battery)"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "Interior fan (+key)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Rear 12V socket (+battery)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Sound signal (horn)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Front 12V socket (+battery)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter (+battery)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Engine processor (+battery)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioner compressor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Windscreen / headlight washer pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump power supply circuit"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "ABS solenoid valves"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Additional control panel; folding outside rearview mirrors (+key)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Heated exterior mirrors"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-relay-2023-genid-g2-2.webp",
+   "fuses": [
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Low beam headlamp, right"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Low beam headlamp, left"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Engine compartment processor relay, instrument panel processor relay (+key)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lighting (+battery)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "Battery monitoring sensor on stop-start version (+battery)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Minibus interior lighting, hazard lights"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Car radio, A/C control, burglar alarm, chronotachograph, battery switch processor, additional heating programmer (+battery)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Brake light switch, third brake light, instrument panel (+key)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Microprocessor and ABS sensor, ASR sensor, CDS sensor, brake light switch"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper (+key)"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "Driver's side window regulator"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "Passenger side window lifter"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "5A",
+     "Parking aid processor, car radio, steering wheel switches, center and side control panels, additional control panel, battery breaker processor (+key)"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag and pretensioner processor"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "5A",
+     "Chronotachograph, power steering processor, air conditioning, reversing lights, water-in-diesel filter sensor, flow sensor (+key)"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "7.5A",
+     "High beam headlamp, left"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "7.5A",
+     "High beam headlamp, right"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "7.5A",
+     "Fog lamp left"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "7.5A",
+     "Fog lamp right"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger compartment fuse box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-relay-2023-genid-g2-3.webp",
+   "fuses": [
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Low beam headlamp, right"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Left low beam headlamp, headlight range control"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "Relay power"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Minibus interior lighting, hazard signals"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Rear 12V electrical outlet"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "Reversing lights, diesel water sensor"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Control unit for unlocking/locking door locks"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Central locking (+battery)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Brake light switch, third brake light, instrument cluster"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Brake light switch, third brake light, instrument cluster"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Electrical relays"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Car radio, diagnostic socket, alarm siren, programmable heating controls, A/C control panel, chronotachograph (+battery)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Heating: rear window (left side), rearview mirror (driver's side)"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Heating: rear window (right side), rearview mirror (passenger side)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "7.5A",
+     "Microprocessor and ABS sensor, ESP sensor, brake light switch, ESR sensor, DSC sensor"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper motor"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, front 12V electrical outlet"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "7.5A",
+     "Power window & mirror switch (driver side), power window passenger side"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "Driver's side power window motor"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "Passenger side power window motor"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "7.5A",
+     "Rain/light sensor, car radio, driver's side power window motor, burglar alarm, controls"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "7.5A",
+     "ECU for airbags and pretensioners"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "7.5A",
+     "Chronotachograph, speed controller, A/C control panel"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "7.5A",
+     "Interior electrical relay"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster, rear fog lights"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Box next to the passenger seat",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-relay-2023-genid-g2-4.webp",
+   "fuses": [
+    [
+     "55",
+     "Fuse MINI",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "12V electrical outlet for rear passengers"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "10A",
+     "Additional heating under the seat"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "15A",
+     "Heated rear left glass"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "15A",
+     "Heated rear right glass"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "10A",
+     "Control of additional heating for rear passengers"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "30A",
+     "Fan for additional heating system for rear passengers"
+    ]
+   ]
+  }
+ ]
+}
