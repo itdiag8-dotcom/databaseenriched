@@ -1,0 +1,354 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "kalos",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Kalos",
+ "model_id": 1150,
+ "generation_name": "1st generation (T200/T250)",
+ "generation_code": "g1",
+ "year_start": 2004,
+ "year_end": 2007,
+ "trim_label": "Hatchback",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/chevrolet/kalos/info/fusebox/2007/ver-hatchback",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-kalos-2007-genid-g1-ver-hatchback-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary cigarette lighter"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Audio, clock"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Turn signal"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, clock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM), transmission control module (TCM)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Alternator"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Airbag 1"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Airbag 2"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Horn, rear fog lamps"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Instrument panel cluster, hazard flasher"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Door lock, remote keyless entry"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM), transaxle control module (TCM)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Wiper, washer"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Engine fuse"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "HVAC blower"
+    ],
+    [
+     "21",
+     "Diode MINI",
+     "",
+     "Anti-lock brake system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Clock, audio"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-kalos-2007-genid-g1-ver-hatchback-1.webp",
+   "fuses": [
+    [
+     "HI BEAM RT",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side headlamp high"
+    ],
+    [
+     "DIODE (FOG)",
+     "Fuse MINI",
+     "",
+     "Fog lamp diode"
+    ],
+    [
+     "HI BEAM LT",
+     "Fuse MINI",
+     "10A",
+     "Driver's side headlamp high"
+    ],
+    [
+     "LOW BEAM RT",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side headlamp low"
+    ],
+    [
+     "ILLUM RT",
+     "Fuse MINI",
+     "10A",
+     "Parking lamp right side, illumination circuit"
+    ],
+    [
+     "LOW BEAM LT",
+     "Fuse MINI",
+     "10A",
+     "Driver's side headlamp low"
+    ],
+    [
+     "ILLUM LT",
+     "Fuse MINI",
+     "10A",
+     "Driver's side parking lamp, license plate lamp"
+    ],
+    [
+     "INT LTS",
+     "Fuse MINI",
+     "10A",
+     "Room lamp"
+    ],
+    [
+     "DEFOG",
+     "Fuse MINI",
+     "30A",
+     "Defogger"
+    ],
+    [
+     "S/ROOF",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "ILLUM LAMPS",
+     "Fuse MINI",
+     "20A",
+     "Illumination relay"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "HEAD LAMPS",
+     "Fuse MINI",
+     "25A",
+     "Headlamps"
+    ],
+    [
+     "FUEL",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "A/C",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "FOG LAMPS",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "HVAC BLOWER",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heating, ventilation, air conditioning blower"
+    ],
+    [
+     "ABS",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brake system"
+    ],
+    [
+     "I/P FUSE BATT.",
+     "Fuse FMX/JCase",
+     "30A",
+     "Instrument panel fuse box"
+    ],
+    [
+     "COOL FAN",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan"
+    ],
+    [
+     "IGN 2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 2"
+    ],
+    [
+     "IGN 1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 1"
+    ],
+    [
+     "PWR WNDW",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "COOL FAN LOW",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "HEAD LAMPS HI",
+     "Relay",
+     "",
+     "Headlamp"
+    ],
+    [
+     "HEAD LAMPS LOW",
+     "Relay",
+     "",
+     "Headlamp"
+    ],
+    [
+     "PWR WNDW_R",
+     "Relay",
+     "",
+     "Power window"
+    ],
+    [
+     "FRT FOG",
+     "Relay",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "COOL FN CNTRL",
+     "Relay",
+     "",
+     "Cooling fan control"
+    ],
+    [
+     "FUEL PUMP",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "A/C COMPRSR",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "COOL FAN HI",
+     "Relay",
+     "",
+     "Cooling fan high"
+    ],
+    [
+     "ILLUM LAMPS_R",
+     "Relay",
+     "",
+     "Illumination lamps"
+    ]
+   ]
+  }
+ ]
+}
