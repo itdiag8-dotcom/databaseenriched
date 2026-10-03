@@ -1,0 +1,492 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "cavalier",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Cavalier",
+ "model_id": 1110,
+ "generation_name": "5th generation",
+ "generation_code": "GEM",
+ "year_start": 2016,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/chevrolet/cavalier/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cavalier-2019-genid-g5-0.webp",
+   "fuses": [
+    [
+     "02",
+     "Fuse MINI",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "03",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning compressor clutch"
+    ],
+    [
+     "05",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan"
+    ],
+    [
+     "06",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "07",
+     "Fuse MINI",
+     "20A",
+     "Right low beam headlight"
+    ],
+    [
+     "08",
+     "Fuse MINI",
+     "20A",
+     "Left low beam headlight"
+    ],
+    [
+     "09",
+     "Fuse MINI",
+     "30A",
+     "Starter motor 2"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Cooling fan"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Engine control"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensors"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Fuel injection/ignition"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Ignition power 1"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter motor 1"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Trunk light"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "Body control module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Ignition power"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "25A",
+     "Body control module"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "60A",
+     "Passenger compartment fuse block power supply"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric vacuum pump"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Ignition power 2"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "60A",
+     "Passenger compartment fuse block power supply"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fan motor"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock braking system (ABS) motor"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "2A",
+     "Current sensor"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "25A",
+     "ABS valve"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "25A",
+     "Body control module"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Front wiper"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "High beam regulation"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "Starter motor 2"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Starter motor 1"
+    ],
+    [
+     "K05",
+     "Relay",
+     "",
+     "Air conditioning compressor clutch"
+    ],
+    [
+     "K06",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "K07",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "K08",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "K09",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "K11",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "K12",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "K13",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "K14",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "K15",
+     "Relay",
+     "",
+     "High beam control"
+    ],
+    [
+     "K16",
+     "Relay",
+     "",
+     "Electric vacuum pump"
+    ],
+    [
+     "K17",
+     "Relay",
+     "",
+     "Front washer control"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cavalier-2019-genid-g5-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Body control module"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Center column display"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Radio module"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Instrument panel"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "A/C module"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Washer fluid control"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Exterior rearview mirror heating"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Body control module"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Safety diagnostic module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Diagnostic port"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Exterior rearview mirror adjustment"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Reverse assistance"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Rear view camera"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "DC voltage stabilization module"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Instrument panel"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Headlight leveling"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "",
+     "Rear windshield defroster"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "",
+     "Front power window"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "",
+     "Rear power window"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Front washer control"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "ACC power supply activation"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "ACC power supply activation"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Air conditioning control"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "Air conditioning fan"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Power windows"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Rear windshield defroster"
+    ]
+   ]
+  }
+ ]
+}

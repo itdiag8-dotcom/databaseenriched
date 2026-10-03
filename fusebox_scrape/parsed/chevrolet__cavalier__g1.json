@@ -1,0 +1,107 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "cavalier",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Cavalier",
+ "model_id": 1110,
+ "generation_name": "1st generation",
+ "generation_code": "J-body",
+ "year_start": 1982,
+ "year_end": 1990,
+ "trim_label": "M\u00e9xico",
+ "representative_year": 1990,
+ "source_url": "https://www.startmycar.com/chevrolet/cavalier/info/fusebox/1990/mexico",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cavalier-1990-country-m%25C3%25A9xico-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "(ECM) Engine control unit"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "S/LP stop lamps"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Turn signals, back-up lights"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "(RDO 1) Radio and audio system"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Tail lights"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "25A",
+     "(HTR - A/C) Heater and air conditioning system"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Gauges, buzzers, indicators, defogger, trunk release"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "25A",
+     "Windshield wipers"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "Courtesy lights, cigarette lighter"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel lights"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "(RDO 2) Radio and audio system"
+    ],
+    [
+     "15",
+     "Circuit breaker MAXI",
+     "",
+     "Electrical accessories"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "(F/P) Fuel pump"
+    ]
+   ]
+  }
+ ]
+}

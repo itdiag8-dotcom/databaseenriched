@@ -1,0 +1,324 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "cavalier",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Cavalier",
+ "model_id": 1110,
+ "generation_name": "3rd generation",
+ "generation_code": "J-body",
+ "year_start": 1995,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/chevrolet/cavalier/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cavalier-2005-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Turn signals, back-up lamps"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Engine relays"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Body control module, instrument panel cluster"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Ignition module"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump, fuel injectors"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Cruise control module/switch"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake (ignition)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Accessory power outlet"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Remote keyless entry system"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Power mirror/diagnostic link connector"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Left headlamp"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Radio, interior lamps, OnStar"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Right headlamps"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "Exterior lamps"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Fog lamps"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Stop lamps, hazard lamps"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Power door locks"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor heater"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Climate control system"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Body control module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "20A",
+     "Audio amplifier"
+    ],
+    [
+     "F36",
+     "Fuse ATO",
+     "25A",
+     "Power windows, sunroof (circuit breaker)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Daytime running lamps"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cavalier-2005-genid-g3-1.webp",
+   "fuses": [
+    [
+     "IGN",
+     "Fuse MAXI",
+     "60A",
+     "Ignition switch circuits"
+    ],
+    [
+     "BATT 1",
+     "Fuse MAXI",
+     "40A",
+     "Exterior lamps, power outlet, horn, audio amplifier"
+    ],
+    [
+     "BATT 2",
+     "Fuse MAXI",
+     "40A",
+     "Rear defogger, starter, power locks, stoplamps"
+    ],
+    [
+     "ABS",
+     "Fuse MAXI",
+     "50A",
+     "Anti-lock brake system"
+    ],
+    [
+     "COOLING FAN",
+     "Fuse MAXI",
+     "30A",
+     "Engine cooling fan"
+    ],
+    [
+     "BLO",
+     "Fuse MINI",
+     "30A",
+     "Heater and A/C blower"
+    ],
+    [
+     "PCM",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "A/C",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "ABS/EVO",
+     "Fuse MINI",
+     "",
+     "ABS/EVO"
+    ],
+    [
+     "GEN",
+     "Fuse MINI",
+     "",
+     "GEN"
+    ],
+    [
+     "A/C RELAY",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "FUEL PUMP RELAY",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "ABS RELAY",
+     "Relay",
+     "",
+     "ABS relay"
+    ],
+    [
+     "HEATER BLOWER RELAY",
+     "Relay",
+     "",
+     "Heater and A/C blower relay"
+    ],
+    [
+     "COOLING FAN RELAY",
+     "Relay",
+     "",
+     "Engine cooling fan relay"
+    ],
+    [
+     "TACH",
+     "Fuse MINI",
+     "",
+     "TACH"
+    ],
+    [
+     "CRANK",
+     "Fuse MINI",
+     "10A",
+     "Starter"
+    ],
+    [
+     "CRANK RELAY",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "PCM/HVAC",
+     "Fuse MAXI",
+     "50A",
+     "Powertrain control module, heater and A/C blower"
+    ]
+   ]
+  }
+ ]
+}

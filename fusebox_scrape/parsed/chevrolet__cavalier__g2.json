@@ -1,0 +1,137 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "cavalier",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Cavalier",
+ "model_id": 1110,
+ "generation_name": "2nd generation",
+ "generation_code": "J-body",
+ "year_start": 1988,
+ "year_end": 1994,
+ "trim_label": "",
+ "representative_year": 1994,
+ "source_url": "https://www.startmycar.com/chevrolet/cavalier/info/fusebox/1994",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cavalier-1994-genid-g2-0.webp",
+   "fuses": [
+    [
+     "INST LPS",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel lamps"
+    ],
+    [
+     "ECM",
+     "Fuse ATO",
+     "10A",
+     "Electronic control module, fuel injectors"
+    ],
+    [
+     "DR UNLK",
+     "Fuse ATO",
+     "10A",
+     "Automatic door unlock (remove to disable)"
+    ],
+    [
+     "CIG LTR",
+     "Fuse ATO",
+     "15A",
+     "Cigarette lighter, glove box light"
+    ],
+    [
+     "RADIO 2",
+     "Fuse ATO",
+     "10A",
+     "Radio power"
+    ],
+    [
+     "GAUGES",
+     "Fuse ATO",
+     "10A",
+     "Gauges, audio warning system, cluster telltales, TCC, rear defogger relay, brake transaxle shift interlock, multiport fuel injection"
+    ],
+    [
+     "PK/TURN",
+     "Fuse ATO",
+     "15A",
+     "Park and turn lamps"
+    ],
+    [
+     "HTR-A/C",
+     "Fuse ATO",
+     "25A",
+     "Heater and A/C power, daytime running lights (Canada), anti-lock brakes"
+    ],
+    [
+     "WIPER",
+     "Fuse ATO",
+     "25A",
+     "Windshield wipers"
+    ],
+    [
+     "F/P",
+     "Fuse ATO",
+     "10A",
+     "Fuel pump"
+    ],
+    [
+     "RADIO 1",
+     "Fuse ATO",
+     "10A",
+     "Radio memory, digital clock"
+    ],
+    [
+     "CTSY",
+     "Fuse ATO",
+     "15A",
+     "Interior lights, horn, power locks, audible warning system, remote liftgate release, check oil light"
+    ],
+    [
+     "WINDOW",
+     "Circuit breaker ATO",
+     "",
+     "Power window (circuit breaker)"
+    ],
+    [
+     "CRUISE",
+     "Fuse ATO",
+     "10A",
+     "Cruise control"
+    ],
+    [
+     "TURN-B/U",
+     "Fuse ATO",
+     "15A",
+     "Turn signal, back-up lamps"
+    ],
+    [
+     "S/LP",
+     "Fuse ATO",
+     "20A",
+     "Stop lamps, hazard flashers"
+    ],
+    [
+     "FTP",
+     "Fuse ATO",
+     "20A",
+     "Flash-to-pass / headlights"
+    ],
+    [
+     "ACC",
+     "Circuit breaker ATO",
+     "",
+     "Power locks, rear window defogger (circuit breaker)"
+    ],
+    [
+     "HDLP",
+     "Circuit breaker ATO",
+     "",
+     "Headlamp (circuit breaker)"
+    ]
+   ]
+  }
+ ]
+}
