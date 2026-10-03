@@ -1,0 +1,482 @@
+{
+ "make_slug": "chery",
+ "model_slug": "j3",
+ "brand_db": "Chery",
+ "model_db_name": "A3 Hatchback",
+ "model_id": 4912,
+ "generation_name": "1st generation",
+ "generation_code": "M11",
+ "year_start": 2012,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/chery/j3/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment (Upper Fuse Box)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-j3-2014-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Buzzer, headlight range control, position/plate/fog/tail lights, indicators, reversing light, interior lighting, horns, mirrors, parking alarm, door locks, power windows, heated rear window/mirrors, trunk lock, wiper/washer, audio"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Headlight range control, parking lights, plate light, fog lights, interior lighting, electric power steering"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Electrical socket"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "To front fuse and relay box"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Headlight range control, windshield wiper and washer"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic connector, fuel supply system, immobilizer"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "A/C, brakes, buzzer, parking/plate/fog lights, indicators, fuel supply, instrument panel, interior lighting, parking alarm, door locks"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Stop lights, brake system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Trunk lid lock"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Diagnostic connector, fuel supply system, immobilizer"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Engine management system (EMS), brake system"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Buzzer, lights, indicators, horns, mirrors, parking alarm, door locks, power windows, heated rear window, trunk lock, wiper/washer, brakes, instrument panel, battery charging"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "SRS module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment (Lower Fuse Box)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-j3-2014-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "25A",
+     "Electric windows"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left marker lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Control panel lighting"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Right marker lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Door lock control system"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper and washer"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Interior lighting"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Sound signals"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "Heated rear window and outside rear-view mirrors"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Direction indicators and hazard warning lights"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-j3-2014-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS module"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS module"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition lock"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Dashboard"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Seat adjustment"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "5A",
+     "Engine management system (EMS)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "5A",
+     "Speed sensor"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "SRS module"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamp, battery charging system"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Ignition module"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "5A",
+     "ABS module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Heated washer nozzles"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Air conditioner compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "30A",
+     "Power sunroof"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Transmission"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Seat heating"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "5A",
+     "ABS system"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic EMS"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Front oxygen sensor"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Rear oxygen sensor"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "20A",
+     "Camshaft position sensor, evaporative emission system"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "30A",
+     "Air conditioning fan"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "High beam right headlight"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Low beam left headlight"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "Low beam right headlight"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "High beam left headlight"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Engine management system (EMS) relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Air conditioning fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Ignition lock relay (ON position)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "ACC circuit relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "ACC1 circuit relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Low beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment No. 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-j3-2014-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse",
+     "",
+     "Cabin fuse box"
+    ],
+    [
+     "2",
+     "Fuse",
+     "",
+     "Battery charging system and engine starting"
+    ],
+    [
+     "3",
+     "Fuse",
+     "",
+     "Buzzer, parking alarm system, power windows, fog lights and lamp"
+    ],
+    [
+     "4",
+     "Fuse",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "5",
+     "Fuse",
+     "",
+     "Engine compartment electrical equipment"
+    ],
+    [
+     "6",
+     "Fuse",
+     "",
+     "Buzzer, clearance lights, plate light, indicators, interior lighting, mirrors, heated rear window, power windows, washer, lock"
+    ]
+   ]
+  }
+ ]
+}

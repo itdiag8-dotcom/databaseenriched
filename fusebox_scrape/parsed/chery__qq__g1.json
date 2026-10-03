@@ -1,0 +1,354 @@
+{
+ "make_slug": "chery",
+ "model_slug": "qq",
+ "brand_db": "Chery",
+ "model_db_name": "Qq",
+ "model_id": 1077,
+ "generation_name": "QQ3",
+ "generation_code": "S11",
+ "year_start": 2005,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/chery/qq/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-qq-2018-genid-g1-0.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "High beam lamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beam lamp relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fan low relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fan high relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Right high beam lamp"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Left high beam lamp"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Right low beam lamp"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Left low beam lamp"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "O2 sensor/ignition coil/injector/purge valve"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "ECU"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "ECU 30+"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Blower"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "25A",
+     "ABS"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Memory fuse"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "25A",
+     "Defogger"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "ABS 15+"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "ECU/TCU 15+"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "5A",
+     "Backup lamp switch"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "30A",
+     "BCM"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "30A",
+     "IP box"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fan high"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "30A",
+     "Fan low"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Alternator, speed sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-qq-2018-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Headlight"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "BCM module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Front wiper"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Air conditioner switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Electrical power supply"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Brake switch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Audio equipment"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "BCM unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Speaker power supply"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Position light"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Headlight adjustment switch"
+    ],
+    [
+     "OTHER",
+     "Other",
+     "",
+     "Rear defrost, rear fog light"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Flasher"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Daytime running lights"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Set light"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Wiper"
+    ]
+   ]
+  }
+ ]
+}
