@@ -1,0 +1,553 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c5-aircross",
+ "brand_db": "Citroen",
+ "model_db_name": "CITROEN C5 Aircross",
+ "model_id": 1310,
+ "generation_name": "1st generation (\"C84\")",
+ "generation_code": "g1",
+ "year_start": 2019,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/citroen/c5-aircross/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c5-aircross-2023-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioner fan"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "60A",
+     "ABS/ESP computer"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "",
+     "Interior fuse box 3"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "40A",
+     "ABS/ESP computer"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "50A",
+     "Intelligent Switch Unit (right turn signals, front right side marker lights, right brake lights, left reverse lights, right fog lights); 20A heated windshield"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "",
+     "Two-speed cooling fan control unit (GMV); 20A automatic gearbox computer (thermal)"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "70A",
+     "Intelligent Switch Box"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Engine control, fuel pump"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Piloted lift pump, intake/exhaust solenoid valves, piloted thermostat, oil pump solenoid valve, intake air flow meter, oxygen sensors"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Engine computer, diesel flow control pump solenoid, turbocharger pressure control solenoid valve, thermostat, purge heater, adjustable intake/exhaust solenoid valves, oxygen sensors"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Engine computer"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "5A",
+     "Instruments, GMV relay, DMTC, electric water cooling (turbo), Intelligent Service Unit"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "Intelligent Switch Box"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Battery charge level block"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lights (10A)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Heated windshield / front left foglamp"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "5A",
+     "GMP relay diagnostics, BFRM, BSI1, engine computer, lower NOx sensor, injectors"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Right headlights high beam"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Left headlights high beam"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Engine computer, charge pump, ignition coils"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "40A",
+     "Reserve - Taxi"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "40A",
+     "Starter/generator"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "40A",
+     "Trailer power supply"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "20A",
+     "Interior fuse box 3"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "25A",
+     "Fog lights"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "25A",
+     "Intelligent Switching Unit (right low beam, right reversing lights, left fog lights, left rear parking lights, third brake light)"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "30A",
+     "Urea pump power supply and urea tube heating resistor, NOx sensor, engine computer"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windshield wiper"
+    ],
+    [
+     "F30",
+     "Fuse MIDI",
+     "80A",
+     "Pre-heating block"
+    ],
+    [
+     "F31",
+     "Fuse MIDI",
+     "80A",
+     "Switching and protection unit"
+    ],
+    [
+     "F32",
+     "Fuse MIDI",
+     "80A",
+     "Power steering; left low beam, static turning lights, side indicator lights, left turn signals, front left/rear right side lights, left brake lights, license plate lamps"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine control computer / Euro6 diesel (SCR module power supply)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Air conditioning compressor / heated windshield"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter / thermal preconditioning"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fog lights / daytime running lights"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Air conditioner fan"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c5-aircross-2023-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Electrochrome rear view mirror, rear screen demisting, diesel particle filter, parking sensors, power steering, LPG system, clutch pedal switch, door mirror adjustment"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Trailer position control module"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Signal / horn"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Window washer (front/rear)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Window washer (front/rear)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Rear socket / USB"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "",
+     "Door lock / rear door lock"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "",
+     "Door lock / rear door lock"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Steering column electrical system / steering wheel controls"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Trailer power supply"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Instrument panel"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Automatic gearbox speed selector, brake pedal switch, Stop & Start system"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Climate control system"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Alarm, telematic unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Infotainment system; rain and light sensor, air conditioning, front camera"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Stop-Start system, diagnostic connector module, brake system"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Infotainment system"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Alarm (siren), additional heating/ventilation remote control receiver"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Alarm"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Electronic stability control"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Airbag"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Parking sensors, rear camera, telematic screen"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Seat belt reminder"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Camera, rain sensor, automatic lighting control"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "",
+     "START/STOP switch or button, anti-theft alarm"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Heated rear window / heated windshield / wireless smartphone charger"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Light switch / diagnostic connector module"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "Lighting"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter / front socket"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter / front socket"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Additional Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c5-aircross-2023-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMX/JCase",
+     "",
+     "Heater / rear window defroster"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "10A",
+     "Heated door mirrors"
+    ],
+    [
+     "F03",
+     "Fuse ATO",
+     "40A",
+     "Rear one-touch electric windows"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "",
+     "Folding side mirrors / adjustable outside mirrors"
+    ],
+    [
+     "F05",
+     "Fuse ATO",
+     "40A",
+     "Front one-touch electric windows"
+    ],
+    [
+     "F06",
+     "Fuse ATO",
+     "15A",
+     "12V socket in boot"
+    ],
+    [
+     "F07",
+     "Fuse ATO",
+     "30A",
+     "Front heated seats"
+    ],
+    [
+     "F08",
+     "Fuse ATO",
+     "",
+     "Audio amplifier"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "30A",
+     "Panoramic opening sunroof"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Front seat massage function"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "",
+     "Sunroof"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Seat heating relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window defroster / heater relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power window relay"
+    ]
+   ]
+  }
+ ]
+}
