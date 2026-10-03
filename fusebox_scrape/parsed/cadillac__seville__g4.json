@@ -1,0 +1,511 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "seville",
+ "brand_db": "Cadillac",
+ "model_db_name": "Seville",
+ "model_id": 1035,
+ "generation_name": "4th generation",
+ "generation_code": "K-body",
+ "year_start": 1992,
+ "year_end": 1997,
+ "trim_label": "",
+ "representative_year": 1996,
+ "source_url": "https://www.startmycar.com/cadillac/seville/info/fusebox/1996",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-seville-1996-genid-g4-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "INT LPS - Trunk/courtesy/vanity/glove box lamps, garage door opener, courtesy lamp relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "CIG LTR1 - Front cigarette lighter, rear lighter"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "CIG LTR2 - Right and left rear cigarette lighters"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "L HDLP LO - Left low-beam headlamp"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "R HDLP LO - Right low-beam headlamp, headlamp switch LED"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "L HDLP HI - Left high-beam headlamp"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "R HDLP HI - Right high-beam headlamp"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "SENSE - Heated windshield control"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "HDLPS - Headlamp switch and relays, high/low beam control"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "HAZARD - Flasher module, turn/hazard module, turn and back-up lamps"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "STOP - Stoplamp switch, CHMSL, ABS controller, cruise control, rear stoplamps"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "MIRROR - Inadvertent power relay, outside mirror, DLC, flash-to-pass module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "FOG/DRL - DRL relay, fog lamp relay, headlamp switch, front fog lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "IGN 0 (ENG) - Powertrain control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "CRANK - Sensing and diagnostic module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "ABS - ABS/ASR-5 controller"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "IGN 1 - Rear ignition-1/fog lamp/rear lamp/controlled power back-up/DRL relays"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "WIPERS - Accessory relay, wiper switch, cluster, wiper motor and pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "OXY SEN2 - Rear O2 sensors"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "OXY SEN1 - Front O2 sensors"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "FUEL PUMP - Oil pressure indicator, PCM, fuel pump relay, fuel pump"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "INJ - Injectors 2, 3, 5, 8"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "INJ - Injectors 1, 4, 6, 7"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "CRUISE - Cruise control, PNP switch, back-up lamps, electrochromatic mirror, BTSI"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "DISTR - Electronic ignition control"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "PCM (IGN) - Powertrain control module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "ECS - Shift solenoids, MAF, canister purge, PCM, EGR, PS switch, front ignition-1 relay"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "PCM (BAT) - PCM"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "A/C COMP - A/C compressor relay, cooling fan relays 1-3, compressor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "MaxiFuse/Relay Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-seville-1996-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "60A",
+     "BODY 1 - RTD/convenience/BATT/headlamp wash/antenna fuses, park lamp relay"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "60A",
+     "BODY 2 - Defog relay, pull-down/heated seat/ELC/rear defog/heated mirror fuses"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "50A",
+     "BODY 3 - Controlled power relays, PZM/radio/cluster/amp/comfort fuses"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "50A",
+     "INADVERT - Inadvertent power relay, blower motor, interior lamps/lighter fuses"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "60A",
+     "LAMPS - High/low beam and headlamp relays, lighting fuses, stop fuse"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "50A",
+     "IGN 1 - Rear ignition-1 relay, wiper/relay ignition-1/SIR fuses"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "",
+     "WINDOWS - Delayed accessory bus relay"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "",
+     "SEATS - Horn relay, lumbar relays, memory seat module, power seat switches"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "30A",
+     "BATT 3 - Ignition 0 fuses, RTD, ABS, turn fuse, console"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "30A",
+     "BATT 2 - Starter enable relay, crank/injector/ECS/PCM/DIS/ignition-1/ACC fuses"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "40A",
+     "IGN 1 - Front ignition-1 relay, O2 sensor/fuel/cruise fuses"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "50A",
+     "BATT 1 - Starter relay, PCM fuse, A/C compressor fuse"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "50A",
+     "BRAKES - ABS brake modulator"
+    ],
+    [
+     "14",
+     "Fuse MAXI",
+     "50A",
+     "COOL FNS - Cooling fan relays 1-3"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "DRL - Daytime running lights"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Accessory circuits"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Hi/lo beam"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamps"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Inadvertent power relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "IGN 1 relay - Ignition"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Starter"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-seville-1996-genid-g4-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "RLY IGN1 - SDM, cluster, cruise, brake switch, PZM, fuel level sensor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "SIR - SDM"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "RTD"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "IGN 0-BODY - PRNDL, heated windshield, PZM, cluster, ACM, HVAC, rear defog/ELC relays"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "TURN - Cornering lamps, flasher module, turn/hazard switch, turn signal lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "CONSOLE - Phone docking station, washer board, heated seat switches, rear zone blower"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "COMFORT - CD player, RFA, controlled power relay, ACM, PZM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "AMP - Bose relays, door speakers"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "PZM"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "RADIO/PHONE - Radio, RIM, phone, DAB/trunk/fuel door release/high beam relays"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "CLUSTER - Steering wheel controls, cluster"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "ACC - PZM, electrochromic mirror, rain sensor, accessory relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "RR DEFOG - Rear defog"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "HTD MIR - Outside heated mirrors"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "HTD SEAT R - Passenger heated seat relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "HTD SEAT L - Driver heated seat relay"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "PULL DOWN - Trunk pull-down motor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "ELC - ELC relay and motor"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "ANTENNA - Power mast antenna"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "HDLP WASH - Headlamp wash relay and motor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "CONVENC - Trunk/fuel door release, door lock/unlock relays and motors"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "BATT - Seat lumbar switches, memory seat module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "RTD module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "RT PARK - Park lamps, right sidemarkers, headlamp switch, rear fog relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "LT PARK - Left sidemarkers, parking lamps, license lamp, underhood lamp"
+    ]
+   ]
+  }
+ ]
+}
