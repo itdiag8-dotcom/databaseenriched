@@ -1,0 +1,427 @@
+{
+ "make_slug": "audi",
+ "model_slug": "a4",
+ "brand_db": "Audi",
+ "model_db_name": "A4 B7",
+ "model_id": 259,
+ "generation_name": "B7",
+ "generation_code": "Typ 8E/8H",
+ "year_start": 2005,
+ "year_end": 2008,
+ "trim_label": "b7",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/audi/a4/info/fusebox/2008/b7",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a4-2008-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Climatronic control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Footwell lights (front left/right, rear left/right)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Left/right washer jet heater elements"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Radiator fan control unit, radiator fan control unit 2"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Rear roller blind switch, function selection switch 2, Tiptronic switch, oil level/temperature sender, rear roller blind control unit, navigation system with CD drive control unit, parking aid control unit"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "High pressure sender, air quality sensor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Traction control system switch, clutch pedal switch, brake pedal switch, ABS control unit"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Telephone transmitter and receiver unit, aerial amplifier for mobile telephone"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Brake servo relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Headlight range control (regulator, control unit, power output module right headlight, left/right range control motors)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Airbag control unit, seat occupied recognition control unit, front passenger airbag deactivated warning lamp"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "16-pin black diagnostic connector"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Brake light switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Control unit in dash panel insert, navigation system with CD drive control unit"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Garage door operating unit, garage door operation control unit"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Rain and light detector sensor, parking aid control unit, tire pressure monitor control unit"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Left dynamic cornering light control motor"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Left/right fog light bulbs"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Driver door control unit, front passenger door control unit"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Rear left/right door control units"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "20A",
+     "Convenience system central control unit"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "Fresh air blower control unit"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window relay"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "30A",
+     "Trailer detector control unit"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "20A",
+     "Fuel system pressurisation pump, fuel pump control unit"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "Fuel system pressurisation pump, fuel pump control unit [engine code BNS only]"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "20A",
+     "Sliding sunroof adjustment control unit"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "15A",
+     "Reversing light switch, air mass meter, light detector sensor, automatic gearbox control unit, selector lever lock solenoid, 16-pin black diagnostic connector, auto-dimming interior mirror"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "15A",
+     "Trailer socket"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "20A",
+     "12 V socket"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "20A",
+     "Socket"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "30A",
+     "Onboard power supply control unit, rear window wiper motor"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "Onboard power supply control unit, headlight washer system pump"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "15A",
+     "Interior monitor send and receive module 1, alarm horn, convenience system central control unit"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "20A",
+     "Navigation system with CD drive control unit, radio/navigation display control unit, radio connector III, radio, amplifier, satellite radio"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "25A",
+     "Treble tone horn, bass tone horn, dual tone horn relay"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "30A",
+     "Auxiliary heater control unit, remote control receiver for auxiliary heating"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "25A",
+     "ABS control unit"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "15A",
+     "Air mass meter, exhaust gas recirculation potentiometer/valve, Simos control unit supply relay, engine control unit, engine component current supply relay"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "35A",
+     "Climatronic control unit"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relay Panels",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a4-2008-genid-g3-1.webp",
+   "fuses": [
+    [
+     "B",
+     "Fuse MAXI",
+     "",
+     "Optional equipment: vermin repellent"
+    ],
+    [
+     "E",
+     "Fuse MAXI",
+     "",
+     "S51 Fuse (driving school vehicle) [engine codes BBK, BHF, BNS only]"
+    ],
+    [
+     "F",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan single fuse [engine codes BBK, BHF, BNS only]"
+    ],
+    [
+     "F",
+     "Fuse MAXI",
+     "60A",
+     "Radiator fan single fuse [engine codes BKN, ASB, BPP, BSG, BTP only]"
+    ],
+    [
+     "G",
+     "Fuse MAXI",
+     "30A",
+     "Radiator fan run-on fuse [engine codes BBK, BHF, BNS only]"
+    ],
+    [
+     "G",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan run-on fuse [engine codes BKN, ASB, BPP, BSG, BTP only]"
+    ],
+    [
+     "G",
+     "Fuse MAXI",
+     "60A",
+     "Radiator fan single fuse [not for engine codes BKN, ASB, BPP, BSG, BTP, BBK, BHF]"
+    ],
+    [
+     "H",
+     "Fuse MAXI",
+     "40A",
+     "ABS control unit fuse 1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Engine power reduction 1 [driving school vehicle]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Engine power reduction 2 [driving school vehicle], alarm on and hands-free system control unit [taxi]"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Relay panel (9-position)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a4-2008-genid-g3-2.webp",
+   "fuses": [
+    [
+     "A",
+     "Circuit breaker ATO",
+     "",
+     "Rear roller blind thermal fuse (right)"
+    ],
+    [
+     "B",
+     "Circuit breaker ATO",
+     "",
+     "Rear roller blind thermal fuse (left); socket 1 fuse [driving school vehicle]"
+    ],
+    [
+     "D",
+     "Fuse ATO",
+     "30A",
+     "Window regulator single fuse 2"
+    ],
+    [
+     "E",
+     "Circuit breaker ATO",
+     "",
+     "Driver seat adjustment thermal fuse 2"
+    ],
+    [
+     "F",
+     "Fuse ATO",
+     "30A",
+     "Window regulator single fuse"
+    ],
+    [
+     "G",
+     "Circuit breaker ATO",
+     "",
+     "Trailer towing attachment thermal fuse"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Servotronic control module"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter 2 (engine codes AUK, BKH, BNS)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter (engine codes AUK, BKH, BNS)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Heated rear window"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "X-contact relief"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Dual tone horn"
+    ]
+   ]
+  }
+ ]
+}
