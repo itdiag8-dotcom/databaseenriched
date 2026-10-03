@@ -1,0 +1,523 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "malibu-maxx",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Malibu Maxx",
+ "model_id": 1158,
+ "generation_name": "1st generation (GMX380)",
+ "generation_code": "g1",
+ "year_start": 2004,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/chevrolet/malibu-maxx/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-maxx-2004-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "2A",
+     "Power mirrors"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "2A",
+     "Electric power steering"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "2A",
+     "Cruise control, electronic range select"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, theft deterrent system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "OnStar system"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Airbag system"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Climate control system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Adjustable throttle and brake pedal"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Windshield wiper/washer switch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "2A",
+     "Ignition switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Audio system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Overhead lighting, trunk/cargo lighting"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Climate control system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Climate control system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Automatic door lock system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Sunroof, heated seats, auto-dimming rearview mirror"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Airbag system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Climate control system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-maxx-2004-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Electronic throttle control"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Ignition module"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Transmission"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Fuel injectors"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Emission 1"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp low-beam"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Front fog lamps"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp low-beam"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp high-beam"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp high-beam"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "",
+     "Brake lamp diagnostic"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module (batt)"
+    ],
+    [
+     "F33",
+     "Diode",
+     "",
+     "Windshield wiper"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module (IGN 1)"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "30A",
+     "IBCM (R/C)"
+    ],
+    [
+     "F38",
+     "Fuse FMX/JCase",
+     "30A",
+     "IBCM 1"
+    ],
+    [
+     "F39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Run relay"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 2"
+    ],
+    [
+     "F41",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 1"
+    ],
+    [
+     "F43",
+     "Fuse FMX/JCase",
+     "50A",
+     "IBCM 2"
+    ],
+    [
+     "F44",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brake system"
+    ],
+    [
+     "F45",
+     "Fuse FMX/JCase",
+     "60A",
+     "RBEC 2"
+    ],
+    [
+     "F46",
+     "Fuse FMX/JCase",
+     "60A",
+     "RBEC 1"
+    ],
+    [
+     "F48",
+     "Fuse MEGA",
+     "80A",
+     "Electric power steering"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan mode"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Run/crank ignition"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Low-beam headlamps"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Windshield wiper 1"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Windshield wiper 2"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-maxx-2004-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Parklamps"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamps"
+    ],
+    [
+     "F10",
+     "Diode MINI",
+     "",
+     "Cargo lamps"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter, auxiliary power outlet"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Remote keyless entry, XM satellite radio, rear seat entertainment, Homelink"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power 2"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Sunroof controls"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Driver door key lock cylinder (resistor)"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Heated seat controls"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Trunk"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror controls"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Emission"
+    ],
+    [
+     "F32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver seat controls"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Parklamps"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Back-up lamps"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Trunk"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Fuel pump"
+    ]
+   ]
+  }
+ ]
+}

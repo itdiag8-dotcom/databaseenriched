@@ -1,0 +1,595 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "malibu-hybrid",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Malibu Hybrid",
+ "model_id": null,
+ "generation_name": "1st generation (GMX386)",
+ "generation_code": "g1",
+ "year_start": 2008,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/chevrolet/malibu-hybrid/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-hybrid-2011-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner clutch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Electronic throttle control"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module ignition 1"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Mass airflow sensor [LY7]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Emission"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp low-beam"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp low-beam"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp high-beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp high-beam"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Engine control module BATT"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Antilock brake system (IGN 1)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Engine control module IGN 1"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 1"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 2"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Run relay, HVAC blower"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module 1"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module run/crank"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "60A",
+     "Rear electrical center 1"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "60A",
+     "Rear electrical center 2"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "60A",
+     "Antilock brake system"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module 2"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "41",
+     "Battery terminal",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module battery"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Ignition module [LE9 & LE5], injectors, ignition coils odd [LY7]"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Injectors [LE9 & LE5], injectors, ignition coils even [LY7]"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Post-cat O2 sensor heaters [LY7]"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Center high-mounted stoplamp"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "20A",
+     "Driver power window"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "5A",
+     "Regulated voltage control"
+    ],
+    [
+     "55",
+     "Fuse FMX/JCase",
+     "30A",
+     "DC/AC inverter"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "30A",
+     "Antilock brake system BATT"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "20A",
+     "AIR solenoid"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "29",
+     "Relay",
+     "",
+     "Cooling fan series/parallel"
+    ],
+    [
+     "30",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "31",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "32",
+     "Relay",
+     "",
+     "Run/crank, ignition"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "34",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "35",
+     "Relay",
+     "",
+     "High beam"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "Low-beam headlamp"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "Windshield wiper 1"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "Windshield wiper 2"
+    ],
+    [
+     "48",
+     "Relay",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "49",
+     "Relay",
+     "",
+     "Stoplamps"
+    ],
+    [
+     "53",
+     "Relay",
+     "",
+     "AIR solenoid"
+    ],
+    [
+     "27",
+     "Diode MINI",
+     "",
+     "Wiper"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-hybrid-2011-genid-g1-1.webp",
+   "fuses": [
+    [
+     "POWER MIRRORS",
+     "Fuse MINI",
+     "",
+     "Power mirrors"
+    ],
+    [
+     "EPS",
+     "Fuse MINI",
+     "",
+     "Electronic power steering"
+    ],
+    [
+     "RUN/CRANK",
+     "Fuse MINI",
+     "",
+     "Cruise control switch, passenger airbag status indicator"
+    ],
+    [
+     "HVAC BLOWER HIGH",
+     "Relay",
+     "",
+     "HVAC blower - high speed relay"
+    ],
+    [
+     "CLUSTER/THEFT",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster, theft deterrent system"
+    ],
+    [
+     "ONSTAR",
+     "Fuse MINI",
+     "",
+     "OnStar [if equipped]"
+    ],
+    [
+     "AIRBAG (IGN)",
+     "Fuse MINI",
+     "",
+     "Airbag (ignition)"
+    ],
+    [
+     "HVAC CTRL (BATT)",
+     "Fuse MINI",
+     "",
+     "HVAC control / diagnostic link connector (battery)"
+    ],
+    [
+     "WIPER SW",
+     "Fuse MINI",
+     "",
+     "Windshield wiper/washer switch"
+    ],
+    [
+     "IGN SENSOR",
+     "Fuse MINI",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "STR/WHL ILLUM",
+     "Fuse MINI",
+     "",
+     "Steering wheel illumination"
+    ],
+    [
+     "RADIO",
+     "Fuse MINI",
+     "",
+     "Audio system"
+    ],
+    [
+     "INTERIOR LIGHTS",
+     "Fuse MINI",
+     "",
+     "Interior lamps"
+    ],
+    [
+     "POWER WINDOWS",
+     "Fuse FMX/JCase",
+     "",
+     "Power windows"
+    ],
+    [
+     "HVAC CTRL (IGN)",
+     "Fuse MINI",
+     "",
+     "HVAC control (ignition)"
+    ],
+    [
+     "HVAC BLOWER",
+     "Fuse MINI",
+     "",
+     "HVAC blower switch"
+    ],
+    [
+     "DOOR LOCK",
+     "Fuse MINI",
+     "",
+     "Door locks"
+    ],
+    [
+     "ROOF/HEAT SEAT",
+     "Fuse MINI",
+     "",
+     "Sunroof, heated seat"
+    ],
+    [
+     "AIRBAG (BATT)",
+     "Fuse MINI",
+     "",
+     "Airbag (battery)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-malibu-hybrid-2011-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Park lamps, instrument panel dimming"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamps"
+    ],
+    [
+     "F10",
+     "Diode MINI",
+     "",
+     "Cargo lamp"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power outlets"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Remote keyless entry system, XM satellite radio [if equipped]"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Sunroof controls"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "25A",
+     "Audio amplifier"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Heated seat controls"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Trunk release"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "30A",
+     "Rear defog"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Emission 2, canister vent solenoid"
+    ],
+    [
+     "F31",
+     "Fuse FMX/JCase",
+     "",
+     "Passenger seat controls"
+    ],
+    [
+     "F32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver seat controls"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Park lamps"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Back-up lamps"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Trunk release"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Fuel pump"
+    ]
+   ]
+  }
+ ]
+}
