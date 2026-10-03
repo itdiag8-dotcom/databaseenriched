@@ -1,0 +1,570 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "cruze",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Cruze",
+ "model_id": 1128,
+ "generation_name": "G2 (J400)",
+ "generation_code": "g2",
+ "year_start": 2014,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/chevrolet/cruze/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cruze-2019-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "Diesel fuel heating"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Windshield wiper"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "",
+     "DC/AC converter"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "",
+     "ABS system"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "Transmission"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "O2 sensor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Fuel injection"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Fuel injection"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "SCR module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Diesel NOx/coolant motor"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Windshield washer/rear windows"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Anti-theft warning horn"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Trunk power outlet"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "O2 sensor"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "AIR solenoid"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Engine/transmission control module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Switchable water pump/water in fuel sensor"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Manual headlamp leveling"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Interior rearview mirror/rear vision camera/trailer"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Steering column lock"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Mirror defogger"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "Display LED/DC-DC converter/FPPM/electrical heater/A/C module"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Aero shutter/fuel flex"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "A/C"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Heated seats"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "",
+     "CGM"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "",
+     "Diesel NOx/CVT8 transmission"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine functions"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Transmission"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Diesel fuel heating/secondary air induction"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Mirror defogger/rear window defogger/anti-theft warning sensor"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "A/C control"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Right low-beam headlamp/right daytime running lamp"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Diesel NOx"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Left daytime running lamp/left low-beam headlamp"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Fuel pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-cruze-2019-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "",
+     "Blower"
+    ],
+    [
+     "F3",
+     "Circuit breaker",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "F4",
+     "Circuit breaker",
+     "",
+     "Front power outlet"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "",
+     "Front power windows"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "",
+     "ABS valves"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "CGM"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "",
+     "Rear power windows"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Heated front seats"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Exterior mirrors/lane keep assist/high-beam headlamp auto control"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Data link connector"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Airbag"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "A/C"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Trunk release"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Passive entry/passive start"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "AOS (automatic occupant sensing) system"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Steering wheel illumination switch"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "",
+     "USB charge"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Shift lever illumination"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Virtual key system"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "DC AC converter"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Park assist/side blind zone alert/infotainment/USB"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Display/cluster"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ]
+   ]
+  }
+ ]
+}
