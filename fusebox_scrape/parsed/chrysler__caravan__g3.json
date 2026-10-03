@@ -1,0 +1,390 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "caravan",
+ "brand_db": "Chrysler",
+ "model_db_name": "CARAVAN",
+ "model_id": 6254,
+ "generation_name": "3rd generation",
+ "generation_code": "dodge__caravan_g3",
+ "year_start": 1996,
+ "year_end": 2000,
+ "trim_label": "",
+ "representative_year": 2000,
+ "source_url": "https://www.startmycar.com/chrysler/caravan/info/fusebox/2000",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-caravan-2000-genid-dodge__caravan_g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Transmission control module, transmission control relay [gasoline]"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "[Gasoline] Automatic shutdown relay (PCM, heated oxygen sensors, generator, ignition coil, fuel injector)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "[Diesel] Diesel power relay (ECM, EGR solenoid, generator, fuel pump module, A/C clutch relay, glow plug relays, radiator fan relays)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter / accessory relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay, PCM [gasoline] - fuel heater relay [diesel]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Reading lamps, visor/vanity lamps, power mirror switch, glove box lamp, Sentry Key module (export), garage door opener, courtesy lamp relay, power mirror fold/unfold relays (export)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Left headlamp (low beam)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Right headlamp (low beam), headlamp switch, headlamp leveling motors"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "25A",
+     "ABS"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Stop lamp switch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Combination flasher / DRL module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Memory seat/mirror module, BCM, instrument cluster, message center, remote keyless entry module, data link connector, radio, ignition switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (high beam)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (high beam), headlamp switch, headlamp leveling motors"
+    ],
+    [
+     "101",
+     "Fuse FMX/JCase",
+     "40A",
+     "Park lamp relay (passenger compartment fuses 1,3,4,5)"
+    ],
+    [
+     "102",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "103",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch (passenger compartment fuses 11,12), power seat circuit breaker, fuse 15"
+    ],
+    [
+     "104",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter relay, ignition switch (BCM, passenger compartment fuses 6,8,9,10,13,19,20,21)"
+    ],
+    [
+     "105",
+     "Fuse FMX/JCase",
+     "40A",
+     "Diesel: radiator fan relay #3"
+    ],
+    [
+     "106",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan relay [gasoline], radiator fan relay #2 [diesel]"
+    ],
+    [
+     "107",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower motor relay"
+    ],
+    [
+     "108",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger relay, passenger compartment fuse 7"
+    ],
+    [
+     "109",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper on relay (BCM, wiper high/low relay)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Transmission control relay [gasoline]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cigar lighter/accessory relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front blower motor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Wiper on relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Wiper high/low relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Diesel power relay [diesel], automatic shutdown relay [gasoline]"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fuel heater relay [diesel], fuel pump relay [gasoline]"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Park lamp relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Low beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-caravan-2000-genid-dodge__caravan_g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Body control module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, BCM, transmission control module, brake shift interlock solenoid"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Right front park/turn signal lamp (trailer), right rear lamp assembly, trailer tow connector, passenger fuse 1"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Left/right fog lamp"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Washer module (export), headlamp switch (export), left front park/turn signal lamp (trailer), license lamp, left rear lamp assembly"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "BCM, A/C heater control, message center, auto day/night mirror, compass/mini-trip computer, rear wiper motor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror, driver/passenger power mirror"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Premium: radio, speaker relay (choke radio)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Electric wiper de-icer"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Electric wiper de-icer (1998-1999)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Starter relay, transmission control module, clutch interlock switch (manual transmission)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Rear A/C heater control"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Heated seat switches, combination flasher/DRL module, ABS, front blower motor relay, rear window defogger relay, backup lamp, auto day/night mirror"
+    ],
+    [
+     "13",
+     "Other",
+     "",
+     "[Gasoline]: fuel pump relay, PCM, Sentry Key module (export), EVAP leak detection pump, A/C clutch relay, torque converter clutch solenoid, EGR solenoid"
+    ],
+    [
+     "13",
+     "Other",
+     "",
+     "[Diesel]: fuel heater relay, ECM, A/C clutch relay, vehicle speed sensor, Sentry Key module (export)"
+    ],
+    [
+     "15",
+     "Other",
+     "",
+     "Driver door unlock relay, door unlock/lock relays, washer module (export)"
+    ],
+    [
+     "19",
+     "Other",
+     "",
+     "Cigar lighter/accessory relay, washer module (export), front/rear washer motors, front wiper switch"
+    ],
+    [
+     "20",
+     "Other",
+     "",
+     "Driver/passenger power window switch"
+    ],
+    [
+     "21",
+     "Other",
+     "",
+     "Driver power window switch"
+    ]
+   ]
+  }
+ ]
+}
