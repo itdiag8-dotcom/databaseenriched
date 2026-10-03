@@ -1,0 +1,684 @@
+{
+ "make_slug": "buick",
+ "model_slug": "lacrosse",
+ "brand_db": "Buick",
+ "model_db_name": "LaCrosse",
+ "model_id": 960,
+ "generation_name": "3rd generation",
+ "generation_code": "E2XX/P2XX",
+ "year_start": 2016,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/buick/lacrosse/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-lacrosse-2017-genid-g3-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "ABS pump"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "AC-DC inverter"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Rear closure"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Left corner lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Power windows / rearview mirror / power seats"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Engine boost"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Semi-active damping system"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC battery 1"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Passive entry / passive start"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "",
+     "Front wipers"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "18",
+     "Fuse FMM/MCase",
+     "",
+     "ABS valve"
+    ],
+    [
+     "19",
+     "Fuse FMM/MCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Right corner lamp"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Auto headlamp leveling"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Transmission control module / ignition"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Instrument panel / ignition"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Electronic precision shift / ignition"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Rear vision camera / ventilation"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "",
+     "Malfunction indicator lamp / shift solenoid"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "",
+     "Rear heated seat / vehicle body safety module / energy storage system fan"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Fuel module"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Steering column lock"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Headlamp leveling / rear seat ventilation"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Engine control module / ignition"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "",
+     "Engine boost / left cooling fan"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC battery 2 / AWD"
+    ],
+    [
+     "57",
+     "Fuse FMX/JCase",
+     "",
+     "Transmission auxiliary pump"
+    ],
+    [
+     "58",
+     "Fuse FMX/JCase",
+     "",
+     "TRCM"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "",
+     "A/C HEV"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "",
+     "Right HID low-beam headlamp"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "",
+     "Left HID low-beam headlamp"
+    ],
+    [
+     "72",
+     "Fuse FMX/JCase",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "",
+     "Starter motor"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "",
+     "Powertrain - off engine"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "",
+     "Washer pump"
+    ],
+    [
+     "81",
+     "Fuse ATO",
+     "",
+     "Transmission control module / engine control module"
+    ],
+    [
+     "83",
+     "Fuse ATO",
+     "",
+     "Ignition coils"
+    ],
+    [
+     "84",
+     "Fuse ATO",
+     "",
+     "Powertrain - on engine"
+    ],
+    [
+     "85",
+     "Fuse FMX/JCase",
+     "",
+     "Engine control module switch 2"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "",
+     "Engine control module switch 1"
+    ],
+    [
+     "87",
+     "Fuse FMX/JCase",
+     "",
+     "SAI reaction pump"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "",
+     "Aeroshutter"
+    ],
+    [
+     "89",
+     "Fuse FMM/MCase",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "",
+     "TPIM motor generator unit pump"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "",
+     "Headlamp leveling"
+    ],
+    [
+     "95",
+     "Fuse MINI",
+     "",
+     "SAI reaction solenoid"
+    ],
+    [
+     "96",
+     "Fuse FMM/MCase",
+     "",
+     "Fuel heater"
+    ],
+    [
+     "99",
+     "Fuse MINI",
+     "",
+     "Coolant pump"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "AC-DC inverter relay"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Front wiper control relay"
+    ],
+    [
+     "31",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Front wiper speed relay"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Transmission auxiliary pump relay"
+    ],
+    [
+     "64",
+     "Relay",
+     "",
+     "A/C control relay"
+    ],
+    [
+     "66",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "71",
+     "Relay",
+     "",
+     "HID low-beam headlamps relay"
+    ],
+    [
+     "73",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "80",
+     "Relay",
+     "",
+     "Starter pinion relay"
+    ],
+    [
+     "90",
+     "Relay",
+     "",
+     "SAI reaction solenoid relay"
+    ],
+    [
+     "94",
+     "Relay",
+     "",
+     "Headlamp washer relay"
+    ],
+    [
+     "98",
+     "Relay",
+     "",
+     "SAI reaction pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-lacrosse-2017-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left window"
+    ],
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "30A",
+     "Right window"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "",
+     "Battery 2"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "25A",
+     "Electric steering column"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "15A",
+     "Battery 3"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "5A",
+     "Engine control module / battery"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 2 on/off"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "20A",
+     "Transmission control module on/off"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "15A",
+     "Battery 7"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "",
+     "Battery 1"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "15A",
+     "Battery 4"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "15A",
+     "Battery 6"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "10A",
+     "Sensing and diagnostic module"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "7.5A",
+     "Diagnostic link"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "AC-DC inverter"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "20A",
+     "Body control module 8"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "10A",
+     "Overhead console"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel control"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "10A",
+     "HVAC"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "5A",
+     "Center gateway module"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "7.5A",
+     "Integrated chassis control module"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "5A",
+     "Charger"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "20A",
+     "Auxiliary power outlet / cigar lighter"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "5A",
+     "OnStar"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "5A",
+     "Monitor"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "10A",
+     "Object detection"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "10A",
+     "Body control module 1 on/off"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F43",
+     "Circuit breaker MINI",
+     "",
+     "Circuit breaker 1"
+    ],
+    [
+     "F44",
+     "Circuit breaker MINI",
+     "",
+     "Circuit breaker 2"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Logistics relay"
+    ]
+   ]
+  }
+ ]
+}

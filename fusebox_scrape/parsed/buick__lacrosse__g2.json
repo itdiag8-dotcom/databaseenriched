@@ -1,0 +1,636 @@
+{
+ "make_slug": "buick",
+ "model_slug": "lacrosse",
+ "brand_db": "Buick",
+ "model_db_name": "LaCrosse",
+ "model_id": 960,
+ "generation_name": "2nd generation",
+ "generation_code": "",
+ "year_start": 2010,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/buick/lacrosse/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-lacrosse-2013-0.webp",
+   "fuses": [
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Wiper"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "",
+     "Rear power windows"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "",
+     "Sunroof"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "",
+     "Front power windows"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "",
+     "Rear heated seats"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system pump"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "",
+     "Electric park brake"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "",
+     "Brake vacuum pump"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan K2"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "",
+     "Transmission auxiliary oil pump (eAssist)"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan K1"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "",
+     "AIR pump"
+    ],
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Transmission control module battery"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Engine control module battery"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Engine control module run/crank"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Ignition coils even (V6) / all ignition coils (4-cyl)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Ignition coils odd (V6)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Engine control module switched battery"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "V6: post-cat O2 sensor heater, MAF sensor, flex fuel sensor, secondary air induction solenoid"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Run/crank: transmission control module, fuel system / chassis control module (eAssist)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Cabin heater coolant pump (eAssist)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Motor generator unit coolant pump (eAssist)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Run/crank for eAssist power inverter module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Airbag module run/crank"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Sunshade module / air purification / vented seats"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel (non-eAssist)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Variable effort steering or eAssist power inverter module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Power lumbar left"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Power lumbar right or power pack cooling fan (eAssist)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "All wheel drive / electronic suspension control"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Antilock brake system valves"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Adaptive forward lighting motors battery"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Right high beam"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Left high beam"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "O2 sensor heaters / canister purge solenoid"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Right HID headlamp"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "Left HID headlamp"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Cluster run/crank"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Run/crank: inside mirror, rear vision camera, air quality sensor, aero shutter motor"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Run/crank: HVAC, headlamp switch"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "",
+     "Outside rearview mirror / garage door opener / front window switches"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "Windshield washer"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "",
+     "Heated mirror"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "",
+     "Adaptive forward lighting module battery"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "",
+     "AIR solenoid (eAssist)"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "",
+     "Fuel system control module"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control sensor"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "",
+     "Parking assist / side blind zone / lane departure warning / rain sensor"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "",
+     "Passive entry / passive start"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Engine control module relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "AIR pump relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper speed relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Wiper control relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cabin heater coolant pump relay (eAssist)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Headlamp low beam relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Transmission auxiliary oil pump relay (eAssist)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-lacrosse-2013-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls backlight"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Body control module 5"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "OnStar / universal handsfree phone"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Power outlet 1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Power outlet 2"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "",
+     "Front HVAC blower"
+    ],
+    [
+     "12",
+     "Circuit breaker",
+     "",
+     "Passenger seat"
+    ],
+    [
+     "13",
+     "Circuit breaker",
+     "",
+     "Driver seat"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Diagnostic link connector"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Airbag / automatic occupant sensing"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Trunk"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "HVAC controller"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Pre-fuse for fuses 4 and 5"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Infotainment / center stack displays, head-up display, device interface module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Rear seat entertainment display / rear seat audio"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Discrete logic ignition switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Rear HVAC blower"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "AC/DC inverter"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Trunk relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power outlet relay"
+    ]
+   ]
+  }
+ ]
+}
