@@ -1,0 +1,571 @@
+{
+ "make_slug": "audi",
+ "model_slug": "tt",
+ "brand_db": "Audi",
+ "model_db_name": "TT 8J",
+ "model_id": 441,
+ "generation_name": "2nd generation",
+ "generation_code": "Typ 8J",
+ "year_start": 2006,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/audi/tt/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-tt-2014-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay / fuel pump CU / engine CU / passenger airbag off lamp / light switch illumination / diagnostic socket connector"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "ABS control unit / brake light switch"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Left headlight power module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Oil level/temperature sender / TPMS buttons+CU 2 / ASR-ESP button / headlight range CU / high-pressure sender / reversing light switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Headlight range control servomotors left+right, headlight range CU [manual mode]"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Headlight range control unit, right headlight power module [automatic mode]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Power steering CU / data bus diagnostic interface / selector lever sensors CU / DSG mechatronic unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Parking aid CU / electrochromic mirror / garage door opener CU / washer nozzle heaters / on-board supply CU / washer pump relay / convertible wind deflector CU"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "All-wheel drive control unit"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "All-wheel drive control unit [engines CDLB, CDLA]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Electronic damping control unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Airbag CU / seat occupied CU [US trim]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Air mass meter [engines BWA, BPY, CDMA, CDLA, CDLB]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Air mass meter, structure-borne noise CU, crankcase ventilation heater [engines CBBB, CFGB]"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Front passenger door CU / driver door CU"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "16-pin diagnostic connector"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "DSG mechatronic unit [DQ500 7-speed S tronic]"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "DSG mechatronic unit [DQ200 7-speed S tronic]"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "On-board power supply CU / front interior light / rain and light sensor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Rain and light sensor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Climatronic control unit"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "TPMS control units [US trim] / selector lever sensors CU [DQ200 S tronic]"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Convertible wind deflector control unit [Roadster]"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "20A",
+     "High tone horn / low tone horn"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "15A",
+     "Mechatronic unit DSG gearbox"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Mechatronic unit DSG gearbox [DQ200 7-speed S tronic]"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "Rear window heating element"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Rear window heating element [Roadster]"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Driver's door window lift motor"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "30A",
+     "Front passenger door window lift motor"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "15A",
+     "Windscreen washer pump"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "40A",
+     "Starter / power supply relay terminal 50"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "5A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "5A",
+     "Control unit for instrument cluster"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "15A",
+     "Navigation system CU with CD drive / radio / radio navigation display CU"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "20A",
+     "Navigation/radio control unit [Japan trim]"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "30A",
+     "Digital audio package control unit"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "10A",
+     "Engine CU / Motronic supply relay / terminal 30 supply relay [CBBB, CFGB] / fuel pump relay [CEPA, CEPB, CRRA]"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "20A",
+     "Socket relay / cigarette lighter / 12 V socket [US trim]"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "5A",
+     "Satellite radio [US trim] / telephone transceiver / mobile phone amplifier"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "7.5A",
+     "TV tuner / mobile phone installation kit"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "5A",
+     "Mobile phone installation kit"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-tt-2014-genid-g2-1.webp",
+   "fuses": [
+    [
+     "A5",
+     "Fuse ATO",
+     "5A",
+     "Autonomous siren / anti-theft alarm sensor"
+    ],
+    [
+     "A6",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer pump"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "15A",
+     "Fuel pressure regulator [BWA, BPY, CDMA, CDLB, CDLA] / control relay [CBBB, CFGB]"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "20A",
+     "Fuel pressure regulator [CDAA, CCZA, CCTA], engine component supply relay [CESA, CETA]"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "10A",
+     "Control relay [CEPA, CEPB, CRRA; from June 2011, 2.0L diesel+petrol]"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor control unit"
+    ],
+    [
+     "A9",
+     "Fuse ATO",
+     "25A",
+     "Heated front left seat / heated front right seat"
+    ],
+    [
+     "A10",
+     "Fuse ATO",
+     "10A",
+     "Driver/front passenger seat lumbar support adjustment motors"
+    ],
+    [
+     "A12",
+     "Fuse ATO",
+     "40A",
+     "Supply air fan control unit / supply air fan"
+    ],
+    [
+     "B1",
+     "Fuse ATO",
+     "15A",
+     "Exhaust gas valve 1 [CEPA, CEPB, CRRA]"
+    ],
+    [
+     "B2",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump control unit [CEPA, CEPB, CRRA]"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "5A",
+     "Engine component supply relay [petrol] / glow plug CU, fuel pump relays [CBBB, CFGB]"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "10A",
+     "Lambda probe [CEPA, CEPB, CRRA]"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "10A",
+     "Lambda probes before/after catalytic converter [per engine]"
+    ],
+    [
+     "B7",
+     "Fuse ATO",
+     "10A",
+     "Boost pressure valve, EGR cooler valve, radiator fan CU, fuel system diagnostic pump, intake manifold flap valve [per engine]"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "20A",
+     "Ignition coils -N..- [petrol engines]"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "5A",
+     "High/low power heating relays [CBBB, CFGB]"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "15A",
+     "Engine control unit [CDAA, CCZA, CCTA, CESA, CETA]"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "25A",
+     "Engine control unit [BWA, BPY, CDMA, CDLA, CDLB]"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "30A",
+     "Engine control unit [CBBB, CFGB]"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "25A",
+     "Engine control unit [CEPA, CEPB, CRRA]"
+    ],
+    [
+     "B10",
+     "Fuse ATO",
+     "10A",
+     "Continued coolant circulation pump/relay, EGR radiator pump, coolant circuit valve, additional coolant pump relay [per engine]"
+    ],
+    [
+     "B11",
+     "Fuse ATO",
+     "5A",
+     "Clutch pedal position sensor"
+    ],
+    [
+     "B12",
+     "Fuse ATO",
+     "10A",
+     "Engine component supply relay, canister valve, boost pressure valve, camshaft timing valve, wastegate valve, fuel pressure/metering valves, intake flap valve, oil pressure valve, secondary air valve [per engine]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Secondary air pump relay"
+    ],
+    [
+     "R2.1",
+     "Relay",
+     "",
+     "After-run coolant bleeding relay"
+    ],
+    [
+     "R2.1",
+     "Relay",
+     "",
+     "Additional coolant pump relay [CEPA, CEPB, CRRA]"
+    ],
+    [
+     "R2.2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R2.2",
+     "Relay",
+     "",
+     "Additional fuel pump relay - TDI"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low power heating relay - PTC heater (TDI)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay [CEPA, CEPB, CRRA since May 2012]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Motronic power supply relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Power supply relay terminal 30 - TDI"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Electric fuel pump relay 2 [BUB, CBRA]"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Engine electronics power supply relay [petrol engines]"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Glow plug control unit - TDI"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-tt-2014-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "On-board power supply control unit, voltage difference"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "40A",
+     "On-board power supply control unit"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "Convertible top drive CU / hydraulic pump [Roadster]"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Parking aid CU / interface for special functions"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump control unit / fuel pump [per engine]"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "40A",
+     "On-board power supply control unit"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "ABS control unit, ABS valves"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "30A",
+     "Electronic damping control unit"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "On-board power supply control unit"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "25A",
+     "Convertible roof drive control unit [Roadster]"
+    ]
+   ]
+  }
+ ]
+}
