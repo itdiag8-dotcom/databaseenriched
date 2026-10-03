@@ -311,12 +311,11 @@
   "chery": "done",
   "chevrolet": true,
   "chrysler": "done",
-  "citroen": "all 44 models processed (post-2000 rule applied from jumpy onward)"
+  "citroen": "all 44 models processed (post-2000 rule applied from jumpy onward)",
+  "cupra": "all 6 models no_data"
  },
  "in_progress": null,
  "queue_next_makes": [
-  "arcfox",
-  "cupra",
   "dacia",
   "daewoo",
   "daihatsu",
@@ -771,10 +770,16 @@
   "citroen/xantia": "skipped_pre2000",
   "citroen/xm": "done",
   "citroen/xsara": "done",
-  "citroen/xsara-picasso": "done"
+  "citroen/xsara-picasso": "done",
+  "cupra/ateca": "no_data",
+  "cupra/born": "no_data",
+  "cupra/formentor": "no_data",
+  "cupra/leon": "no_data",
+  "cupra/tavascan": "no_data",
+  "cupra/terramar": "no_data"
  },
- "last_updated": "2026-10-03T23:29:47.917129",
- "current_brand": "cupra",
+ "last_updated": "2026-10-03T23:30:25.419993",
+ "current_brand": "dacia",
  "audi_done_models": [
   "a1",
   "a2",
@@ -1505,5 +1510,13 @@
   "xm": 1334,
   "xsara": 1287,
   "xsara-picasso": 1288
- }
+ },
+ "cupra_model_slugs": [
+  "ateca",
+  "born",
+  "formentor",
+  "leon",
+  "tavascan",
+  "terramar"
+ ]
 }
