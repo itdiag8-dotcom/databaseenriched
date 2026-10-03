@@ -1,0 +1,576 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "x2",
+ "brand_db": "BMW",
+ "model_db_name": "X2 \u2013 F39",
+ "model_id": 800,
+ "generation_name": "1st generation",
+ "generation_code": "F39",
+ "year_start": 2017,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/bmw/x2/info/fusebox/2023/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box No.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x2-2023-genid-g1-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Body Domain Controller"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "40A",
+     "Fan output stage"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "50A",
+     "Body Domain Controller"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "PHEV: convenience charging electronics"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "30A",
+     "Rear door function module"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Optional extra system"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Remote control electronics for seat back release"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Front passenger side seat adjustment switch block"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Trunk/tailgate lock"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "20A",
+     "Right headlight"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "Left headlight"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "40A",
+     "Rear door function module"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "30A",
+     "Driver's seat heating electronics (basic), driver's seat module (high)"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "Front passenger seat heating electronics"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "30A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Petrol: coolant pump 2 in low-temperature coolant circuit"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "30A",
+     "Longitudinal torque distribution, transmission oil pump (PHEV)"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "20A",
+     "Socket under armrest, rear socket, luggage compartment socket"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "30A",
+     "Roof function centre"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "20A",
+     "Right headlight"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "30A",
+     "Without electromechanical parking brake: Dynamic Stability Control (DSC)"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "40A",
+     "With electromechanical parking brake: Dynamic Stability Control (DSC)"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "5A",
+     "Natural vacuum leak detection"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "20A",
+     "Left headlight"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "30A",
+     "Selective Catalytic Reduction (SCR) control unit"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "20A",
+     "Head unit (radio or navigation system)"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "5A",
+     "Front interior lighting, rain-light-solar-condensation sensor, vanity mirror lighting, decor strip lighting, interior trim lighting, door trim lighting"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "20A",
+     "Trailer socket"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "20A",
+     "Front cigarette lighter (12V socket), socket under glove box"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "20A",
+     "Electric fuel pump control electronics"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "10A",
+     "Driver's seat backrest adjustment valve block, driver lumbar support valve block, backrest width adjustment switch"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "7.5A",
+     "Petrol (TU): turbocharger coolant pump"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "10A",
+     "Front passenger backrest adjustment valve block, passenger lumbar support valve block, backrest width adjustment switch"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "10A",
+     "Nitrogen oxide sensor after SCR catalytic converter"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "15A",
+     "Selective Catalytic Reduction (SCR) control unit"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "5A",
+     "Bi-stable relay"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "5A",
+     "Bi-stable relay"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "5A",
+     "Electrochromic interior rear view mirror"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "Automatic tailgate release"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "5A",
+     "Parking brake button"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "5A",
+     "Siren with tilt alarm sensor"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "5A",
+     "Roof function centre"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "Dynamic Stability Control (DSC)"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "5A",
+     "Remote control receiver"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "5A",
+     "Electric exhaust flap, electric auxiliary heater control electronics 2"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "5A",
+     "Radiator shutter actuator, environmental catalyst sensor (except PHEV)"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "5A",
+     "Base plate fan"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "5A",
+     "Electrochromic interior rear view mirror"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "5A",
+     "Automatic recirculated air control (AUC) sensor"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "5A",
+     "Electromechanical power steering"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "4A",
+     "Reversing camera, parking assistant"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "5A",
+     "Longitudinal torque distribution, vehicle sound generators 1 & 2 (PHEV)"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "10A",
+     "Steering column switch cluster"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "5A",
+     "Camera-based driver assistance system"
+    ],
+    [
+     "80",
+     "Fuse MINI",
+     "5A",
+     "Additional optional system"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "5A",
+     "Outside mirror (front passenger)"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "5A",
+     "Touchbox, controller (CON), USB hub, USB charging socket 3"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "5A",
+     "Outside mirror (switch block, driver's door)"
+    ],
+    [
+     "84",
+     "Fuse MINI",
+     "5A",
+     "Luggage compartment light, glove box light, rear lid interior button"
+    ],
+    [
+     "85",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "5A",
+     "Electric fan cut-out relay"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "5A",
+     "Fan >400W: built-in power module"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "5A",
+     "Base plate, wireless charging oddments tray, aerial amplifier"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "5A",
+     "Front interior lighting"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "15A",
+     "Electronic transmission control"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "5A",
+     "Selector lever (gear selector switch)"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "7.5A",
+     "Digital Motor Electronics"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "5A",
+     "Manual transmission: clutch module"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "5A",
+     "Twin-clutch gearbox: control unit, relay"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary control unit"
+    ],
+    [
+     "96",
+     "Fuse MINI",
+     "5A",
+     "PHEV: high-voltage battery unit"
+    ],
+    [
+     "97",
+     "Fuse MINI",
+     "5A",
+     "ID reader, Car Sharing Module (CSM)"
+    ],
+    [
+     "99",
+     "Fuse MINI",
+     "7.5A",
+     "USB charging socket 4"
+    ],
+    [
+     "100",
+     "Fuse MINI",
+     "5A",
+     "PHEV: safety battery terminal gas generator"
+    ],
+    [
+     "101",
+     "Fuse MINI",
+     "5A",
+     "PHEV: electric A/C compressor, electric auxiliary heater"
+    ],
+    [
+     "102",
+     "Fuse MINI",
+     "10A",
+     "PHEV: electric-machine electronics"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box No.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x2-2023-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Electric windows (passenger)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Electric windows (driver's side, rear)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Door lock (front passenger)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "Electric windows (driver)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "Electric windows (passenger side, rear)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Door lock (driver)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Lighting control panel, steering column switch cluster, driver assistance control panel with hazard warning light switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Diagnostic connector"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Heating/air conditioning system, rear door function module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Contactless tailgate opening electronics, telematic communication unit, outer door handle electronic modules (driver/passenger)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ]
+   ]
+  }
+ ]
+}
