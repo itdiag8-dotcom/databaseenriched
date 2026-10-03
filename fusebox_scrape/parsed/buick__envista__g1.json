@@ -1,0 +1,504 @@
+{
+ "make_slug": "buick",
+ "model_slug": "envista",
+ "brand_db": "Buick",
+ "model_db_name": "Envista",
+ "model_id": 950,
+ "generation_name": "1st generation",
+ "generation_code": "9BUC",
+ "year_start": 2024,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/buick/envista/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-envista-2025-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MICRO2",
+     "",
+     "Liftgate release"
+    ],
+    [
+     "F02",
+     "Fuse MICRO2",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "F03",
+     "Fuse",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "F05",
+     "Fuse FMM/MCase",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "F06",
+     "Fuse MICRO2",
+     "",
+     "Heated outside rearview mirror"
+    ],
+    [
+     "F07",
+     "Fuse FMM/MCase",
+     "",
+     "Cooling fan mid"
+    ],
+    [
+     "F08",
+     "Fuse MICRO",
+     "",
+     "Horn"
+    ],
+    [
+     "F11",
+     "Fuse MICRO2",
+     "",
+     "ECM powertrain 1"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "",
+     "Ignition coil"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "",
+     "Engine component 2"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "",
+     "Engine component 1"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "",
+     "ECM powertrain 2"
+    ],
+    [
+     "F18",
+     "Fuse",
+     "",
+     "Rear vision camera"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "",
+     "ECM battery"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "",
+     "Auxiliary water pump"
+    ],
+    [
+     "F21",
+     "Fuse",
+     "",
+     "Passive entry / passive start"
+    ],
+    [
+     "F22",
+     "Fuse",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F24",
+     "Fuse",
+     "",
+     "Heated seat 1"
+    ],
+    [
+     "F25",
+     "Fuse",
+     "",
+     "Heated seat 2"
+    ],
+    [
+     "F26",
+     "Fuse",
+     "",
+     "Cooling fan low"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "",
+     "Charge air cooler shutter"
+    ],
+    [
+     "F31",
+     "Fuse",
+     "",
+     "Fuel tank zone module"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "",
+     "Transmission control module battery"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "",
+     "Steering column lock run/crank"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "",
+     "ECM/TCM run/crank"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "",
+     "Electronic brake control module 2"
+    ],
+    [
+     "F39",
+     "Fuse",
+     "",
+     "Cooling fan high"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "",
+     "Headlamp leveling"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "",
+     "Washer pump"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper park"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "",
+     "Ventilated seats"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "",
+     "Interior rearview mirror / RLAD"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F60",
+     "Fuse FMM/MCase",
+     "",
+     "Power window left"
+    ],
+    [
+     "F61",
+     "Fuse FMM/MCase",
+     "",
+     "Power window right"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "",
+     "Lumbar"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "Starter solenoid relay"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "K04",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-envista-2025-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "",
+     "Sunshade motor"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "",
+     "HVAC module 1"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "",
+     "Central gateway module"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel module"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "",
+     "Virtual cockpit display / instrument panel display / HVAC display"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Virtual cockpit unit module"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Side blind zone alert / camera / ultrasonic park assist modules"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "HVAC module ignition"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Wireless charger module / remote electronic PRNDL display"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls switch"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Body control module 5"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Data link connector"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Sensing and diagnostic module"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Power tailgate module 1"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC converter 2"
+    ],
+    [
+     "F30",
+     "Fuse FMX/JCase",
+     "",
+     "Power tailgate module 2 (motor)"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "OSRVM / ETC / rain-light-humidity sensor"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Left low-beam headlamp"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Right headlamp"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "",
+     "Driver seat position switch"
+    ],
+    [
+     "F38",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC converter 1"
+    ],
+    [
+     "F39",
+     "Fuse FMX/JCase",
+     "",
+     "ACC/RAP relay / RUN relay"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "",
+     "Blower motor control module"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "",
+     "Auxiliary audio/video jack / front USB"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "",
+     "Auxiliary rear USB power outlet"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "Retained accessory power / ACC relay"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "Run relay"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Logistic relay"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MINI",
+     "",
+     "Auxiliary DC power outlet"
+    ]
+   ]
+  }
+ ]
+}
