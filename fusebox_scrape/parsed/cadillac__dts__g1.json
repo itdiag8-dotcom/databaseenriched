@@ -1,0 +1,660 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "dts",
+ "brand_db": "Cadillac",
+ "model_db_name": "DTS",
+ "model_id": 1019,
+ "generation_name": "1st generation",
+ "generation_code": "GMX272",
+ "year_start": 2005,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/cadillac/dts/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-dts-2011-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Engine control module (ECM), crank"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors odd"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors even"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Air injection reactor (AIR) solenoid"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Emission device"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Transmission, ignition 1"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "ECM, powertrain control module (PCM)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Climate control system, instrument panel cluster ignition 1"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Airbag system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Fog lamps"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Right high-beam headlamp"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Left high-beam headlamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Left low-beam headlamp"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Right low-beam headlamp"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer pump motor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Left front cornering lamp"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Right front cornering lamp"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "50A",
+     "Air pump"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "50A",
+     "Antilock brake system (ABS)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS motor"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 2"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan 1"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "60A",
+     "Windshield washer heater"
+    ],
+    [
+     "29",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "30",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "31",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "32",
+     "Relay",
+     "",
+     "Cooling fan 3"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "34",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "35",
+     "Relay",
+     "",
+     "Air injection reactor (AIR) solenoid"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Air pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear Underseat Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-dts-2011-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Left park lamp"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Run 3 - rear blower"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Right park lamp"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "ECM/TCM"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Memory module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Right park lamp (optional)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel illumination"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Front heated/cooled seat module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Run 2 - heated/cooled seats"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seat module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "RPA module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "PASS-Key III system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Unlock/lock module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "Magnetic ride control"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "Sunroof"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Body control module (BCM) dim"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Body control module (BCM)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Run 1 - heated steering wheel"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Driver door module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Rear lumbar"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Electronic leveling control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Body control module (left turn signal)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter, auxiliary power outlet"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Navigation (optional)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Retained accessory power 1 (RAP)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Passenger door module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Sensing and diagnostic module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Accessory power outlets"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "BCM (inadvertent)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Retained accessory power 2 (RAP)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Canister vent solenoid"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "BCM (courtesy)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Body control module (right turn signal)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Trunk release"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "30A",
+     "Amplifier, radio"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "BCM (CHMSL)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Body control module"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Stoplamp (optional)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "OnStar module (if equipped)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Body modules"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Door unlatch (optional)"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic leveling control compressor"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower (optional)"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower (optional)"
+    ],
+    [
+     "50",
+     "Other",
+     "",
+     "Terminating resistor"
+    ],
+    [
+     "51",
+     "Relay",
+     "",
+     "Front blower (optional)"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "53",
+     "Relay",
+     "",
+     "Electronic leveling control compressor"
+    ],
+    [
+     "58",
+     "Relay",
+     "",
+     "Park lamps"
+    ],
+    [
+     "59",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "60",
+     "Relay",
+     "",
+     "License plate lamp (optional)"
+    ],
+    [
+     "61",
+     "Relay",
+     "",
+     "Right park lamp (optional)"
+    ],
+    [
+     "62",
+     "Relay",
+     "",
+     "Unlock"
+    ],
+    [
+     "63",
+     "Relay",
+     "",
+     "Lock"
+    ],
+    [
+     "64",
+     "Relay",
+     "",
+     "Run"
+    ],
+    [
+     "66",
+     "Relay",
+     "",
+     "Door unlatch (optional)"
+    ],
+    [
+     "67",
+     "Relay",
+     "",
+     "Trunk release"
+    ],
+    [
+     "68",
+     "Relay",
+     "",
+     "Stoplamp (optional)"
+    ],
+    [
+     "69",
+     "Relay",
+     "",
+     "Overhead lamps (optional)"
+    ],
+    [
+     "70",
+     "Relay",
+     "",
+     "Retained accessory power (RAP)"
+    ],
+    [
+     "54",
+     "Circuit breaker",
+     "",
+     "Right front seat"
+    ],
+    [
+     "55",
+     "Circuit breaker",
+     "",
+     "Left front power seat"
+    ],
+    [
+     "56",
+     "Circuit breaker",
+     "",
+     "Power windows"
+    ],
+    [
+     "57",
+     "Circuit breaker",
+     "",
+     "Power tilt steering wheel"
+    ]
+   ]
+  }
+ ]
+}
