@@ -1,0 +1,410 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "city-express",
+ "brand_db": "Chevrolet",
+ "model_db_name": "City Express",
+ "model_id": 1116,
+ "generation_name": "1st generation",
+ "generation_code": "",
+ "year_start": 2015,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/chevrolet/city-express/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-city-express-2018-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "(BLOWER) AC blower motor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "(BLOWER) AC blower motor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(AIR COND) Air conditioning"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(AIR COND) Air conditioning"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "(BLOWER) AC blower motor"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "(FR POWER OUTLET) Auxiliary power outlet"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "RR power"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(CIGAR LIGHTER) Cigar lighter / power outlet"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(STOP LAMP) Stop lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "(ELEC PARTS1) Protects several circuits"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(STOP LAMP) Stop lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Passive entry"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(ELEC PARTS2) Protects several circuits"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(ELEC PARTS1) Protects several circuits"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(ELEC IG) Protects several circuits"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(AIR BAG) Airbag"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(METER) Instrument cluster"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(WASHER MOTOR) Windshield washer"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Audio mirror"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(HEATER MIRROR) Mirror heater"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-city-express-2018-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "ECM relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Parking, license plate and tail lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Headlamp (high RH)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Headlamp (high LH)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Headlamp (low LH)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Headlamp (low RH)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "A/T control system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "REV lamp IGN"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "ABS control"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Ignition system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Fuel injector"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Throttle control motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay 1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay 2"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Ignition relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Box 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-city-express-2018-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Unspecified"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Daytime light relay 1"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Charging system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Horn relay"
+    ],
+    [
+     "5",
+     "Fuse MPF",
+     "",
+     "Electronically controlled power steering control unit"
+    ],
+    [
+     "7",
+     "Fuse MPF",
+     "",
+     "ABS solenoid"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "BCM power window relay"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "10",
+     "Fuse MPF",
+     "",
+     "Starting system"
+    ],
+    [
+     "11",
+     "Fuse MPF",
+     "",
+     "Engine cooling fan system"
+    ],
+    [
+     "12",
+     "Fuse MPF",
+     "",
+     "Engine cooling fan system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "CVT system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Unspecified"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Unspecified"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Horn relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment Relay Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-city-express-2018-genid-g1-3.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "(DTRL) Daytime light relay 2"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(DTRL) Daytime light relay 1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(RAD FAN HI) Engine cooling fan system (HI)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(RAD FAN LO) Engine cooling fan system (LO)"
+    ]
+   ]
+  }
+ ]
+}
