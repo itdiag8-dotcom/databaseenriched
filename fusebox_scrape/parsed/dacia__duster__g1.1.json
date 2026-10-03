@@ -1,0 +1,571 @@
+{
+ "make_slug": "dacia",
+ "model_slug": "duster",
+ "brand_db": "Dacia",
+ "model_db_name": "Duster",
+ "model_id": 1363,
+ "generation_name": "G1 1st facelift (\"H79\", \"HS\")",
+ "generation_code": "g1.1",
+ "year_start": 2013,
+ "year_end": 2022,
+ "trim_label": "1st facelift",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/dacia/duster/info/fusebox/2022/1st-gen-1st-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-duster-2022-genid-g1.1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Power window front door"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "High beam left headlight"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "High beam right headlight"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Low beam left headlight"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Low beam right headlight"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Rear lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Front parking lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Power window rear door"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Rear fog lamp"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Sound signal (horn)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Automatic door lock"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "ABS-ESC systems, brake light switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Ceiling lighting, luggage compartment lighting, glove compartment lighting"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Windshield wiper"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Multimedia system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "Fluorescent lamps"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Stop light"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Injection system, instrument panel, central electronic switching unit in cabin"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Four-wheel drive (4WD), reverse gear"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Power steering"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "Cruise control/limiter, rear window relay, seat belt warning, parking distance control, additional cabin heating relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "UCH (passenger compartment central electronic switching unit)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "UCH (passenger compartment central electronic switching unit)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Direction indicators"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Steering column switches"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Sound signal (horn)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "25A",
+     "Steering column switches"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Radio, A/C control panel, interior ventilation, rear accessories connector"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic connector and audio system connector"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Heated rearview mirror"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Electric exterior mirrors"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "Passenger compartment central electronic switching unit, starter"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "40A",
+     "Passenger compartment ventilation"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "25A",
+     "Electrical equipment control unit, left and right headlight blocks"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "All-wheel drive transmission (4WD)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Additional electrical equipment control unit"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Rear accessories connector (socket)"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "5A",
+     "Electrical equipment control unit"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "Relay A - rear power window lock"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Air conditioner electric fan"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Additional socket in luggage compartment"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-duster-2022-genid-g1.1-1.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump and ignition coil circuits; main relay K5 of engine management system"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "15A",
+     "A/C compressor electromagnetic clutch circuit"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "40A",
+     "Power circuits: cooling fan low speed relay"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "60A",
+     "Circuits protected by fuses F9, F10, F28, F29, F30, F31, F32, F36 of interior fuse box"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "60A",
+     "Circuits protected by fuses F13-F20, F24, F26, F27, F37, F38, F39 of interior fuse box"
+    ],
+    [
+     "F8",
+     "Fuse MAXI",
+     "60A",
+     "Circuits protected by fuses F1-F5, F11, F12 of interior fuse box"
+    ],
+    [
+     "F9",
+     "Fuse MAXI",
+     "25A",
+     "Live circuits in position S and A of ignition key"
+    ],
+    [
+     "F10",
+     "Fuse MAXI",
+     "80A",
+     "Power circuits of passenger compartment electric heater relay"
+    ],
+    [
+     "F11",
+     "Fuse MAXI",
+     "50A",
+     "ABS control unit circuits"
+    ],
+    [
+     "F12",
+     "Fuse MAXI",
+     "25A",
+     "ABS control unit circuits"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "High speed cooling fan"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Air conditioner"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Low speed cooling fan"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Fuel pump and ignition coils"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Main relay of engine control system"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Heater fan"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-duster-2022-genid-g1.1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Fog lights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Electrical control unit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window, heated outside mirrors"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "25A",
+     "Stability control unit"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "40A",
+     "Stability control unit"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "60A",
+     "Fuse circuits P11, P24-P27, P34, P39, P41"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "60A",
+     "Ignition switch (lock), fuse circuits P28, P31, P38, P43, P46, P47"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "50A",
+     "Stability control unit"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "80A",
+     "Luggage compartment socket"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "40A",
+     "Heated windshield 1"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "40A",
+     "Heated windscreen 2"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "Starter"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "25A",
+     "Electronic engine management system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "A/C compressor clutch relay, A/C compressor clutch"
+    ],
+    [
+     "16",
+     "Fuse MAXI",
+     "50A",
+     "Electric cooling fan"
+    ],
+    [
+     "17",
+     "Fuse MAXI",
+     "40A",
+     "Automatic gearbox control unit"
+    ],
+    [
+     "18",
+     "Fuse MAXI",
+     "80A",
+     "Electric power steering pump"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "15A",
+     "Oxygen sensors, canister purge valve, camshaft position sensor, phase change valve"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Alarm horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter relay 1"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Main relay of engine management system"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Air conditioning compressor clutch relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Heated windshield relay 2 / electric cooling fan relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Heated windshield relay 1"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Starter relay 2"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,592 @@
+{
+ "make_slug": "dacia",
+ "model_slug": "duster",
+ "brand_db": "Dacia",
+ "model_db_name": "Duster",
+ "model_id": 1363,
+ "generation_name": "G1 pre-facelift (\"H79\", \"HS\")",
+ "generation_code": "g1.0",
+ "year_start": 2010,
+ "year_end": 2014,
+ "trim_label": "pre-facelift",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/dacia/duster/info/fusebox/2014/1st-gen-pre-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-duster-2014-genid-g1.0-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Windshield cleaner, wiper switch, rear door glass heating relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, fuel pump relay, engine ECU, seat belt warning and airbag deactivation unit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Brake light switch"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic connector, immobilizer antenna unit, AT control selector, body electrical control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Automatic transmission, starter relay, electronic transmission control unit"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, low beam left headlight"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Low beam right headlight"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, left headlamp high beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Rear door window regulator motors"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Front door window regulator motors"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "ABS ECU, acceleration sensors, steering angle sensor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Electric heating of front seats"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Left front and rear position lamps"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Right front/rear marker lights, glove box and instrument lighting, hazard switch, HVAC control unit, audio system, cigarette lighter, central lock switch, window switches, transmission mode switch, license plate lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Rear fog lamp"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Electric heating of exterior mirrors"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Electric steering pump"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Gas (LPG) fuel supply system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "SRS system"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper motor, sound alarm, TDC sensor, reverse light switch (MT)"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "Interior electrical control unit (energy-saving mode)"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "15A",
+     "Intermittent wiper, turn signal switch, hazard switch, central locking unit, buzzer, diagnostic connector (pin 16)"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "20A",
+     "Central lock"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "15A",
+     "Fog lamps, fog lamp relays"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "30A",
+     "Heated rear door glass"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "15A",
+     "Reverse gear solenoid clutch"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "30A",
+     "HVAC and ventilation system electric motor"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "5A",
+     "Electric exterior rear view mirrors"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "10A",
+     "HVAC electric motor relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-duster-2014-genid-g1.0-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "25A",
+     "ABS ECU fuse (without ESP) - ABS ECU and ESP (with ESP)"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "50A",
+     "ABS ECU fuse (without ESP) - ABS ECU and ESP (with ESP)"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Cold air electric fan relay"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "70A",
+     "Preheating unit supply circuit fuse (257)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan power (A/C version) via high/low speed fan relays and fan resistor; A/C clutch power via clutch relay"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "80A",
+     "Power steering electric pump supply circuit fuse (186)"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "60A",
+     "Outdoor light switch power circuit fuse (209), interior fuse box (1016)"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "60A",
+     "Ignition lock fuse (104), outdoor light switch (209)"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "25A",
+     "Fuse F34 power supply in interior fuse box (4x4 version)"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "80A",
+     "Additional interior heater power fuse via heater relays 1 and 2"
+    ],
+    [
+     "13",
+     "Relay",
+     "",
+     "Diesel engine injection system ECU power relay"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "30A",
+     "Cooling fan power (standard version) via low speed fan relay on relay board"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "Cylinder 5 injector shut-off solenoid, vehicle speed sensor, fuel water sensor, camshaft position sensor, mass air flow sensor"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Injection system ECU relay power circuit fuse (983)"
+    ],
+    [
+     "18",
+     "Diode MINI",
+     "",
+     "A/C compressor electromagnetic clutch diode"
+    ],
+    [
+     "19",
+     "Relay",
+     "",
+     "Low speed electric fan relay"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Air conditioning switch relay"
+    ],
+    [
+     "21",
+     "Relay",
+     "",
+     "Electric fan high speed relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Relays For Additional Interior Heater",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-duster-2014-genid-g1.0-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Relay for additional interior heater 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Relay for additional interior heater 2"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear Window Heating Relay",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-duster-2014-genid-g1.0-3.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear window heating relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine Compartment [K4M690-K4M694]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-duster-2014-genid-g1.0-4.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse ATO",
+     "25A",
+     "Injection lock relay control/power, fuel pump relay power (relay board)"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "30A",
+     "Standard heating version: cooling fan power via low-speed fan relay"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "40A",
+     "A/C version: cooling fan power via high/low speed fan relays and resistor; A/C clutch power"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "60A",
+     "Single lever power, fuses F29 and F36 in passenger compartment fuse box"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "60A",
+     "Ignition switch, single lever, fuse F23 in passenger compartment fuse box"
+    ],
+    [
+     "F8",
+     "Fuse MAXI",
+     "25A",
+     "Fuse F34 power in passenger compartment fuse box (4x4 version)"
+    ],
+    [
+     "F10",
+     "Fuse MAXI",
+     "20A",
+     "Additional fuel pump"
+    ],
+    [
+     "F11",
+     "Fuse MAXI",
+     "50A",
+     "ABS ECU (versions without ESP)"
+    ],
+    [
+     "F12",
+     "Fuse MAXI",
+     "25A",
+     "ABS ECU (versions without ESP)"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "High-speed fan assembly"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Low-speed fan assembly"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Injection lock"
+    ],
+    [
+     "K6",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "Front fog lights"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Cold air blower"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Engine Compartment [F4R400-F4R402-F4R403-F4R404-F4R405-F4R408]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dacia-duster-2014-genid-g1.0-5.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "15A",
+     "Automatic transmission ECU (119), 4-speed AT on F4R403/F4R405 engines"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "25A",
+     "Injection lock relay control/power, fuel pump relay power (relay board)"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "15A",
+     "A/C version: A/C clutch power via clutch relay"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "40A",
+     "A/C version: cooling fan power via high/low speed fan relays and resistor"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "60A",
+     "Ignition switch, single lever, fuse F23 in passenger compartment fuse box"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "60A",
+     "Single lever power, fuses F29 and F36 in passenger compartment fuse box"
+    ],
+    [
+     "F8",
+     "Fuse MAXI",
+     "25A",
+     "Fuse F34 power in passenger compartment fuse box (4x4 version)"
+    ],
+    [
+     "F10",
+     "Fuse MAXI",
+     "20A",
+     "Additional fuel pump"
+    ],
+    [
+     "F11",
+     "Fuse MAXI",
+     "50A",
+     "ABS ECU (versions without ESP)"
+    ],
+    [
+     "F12",
+     "Fuse MAXI",
+     "25A",
+     "ABS ECU (versions without ESP)"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "High-speed fan assembly"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Low-speed fan assembly"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Injection lock"
+    ],
+    [
+     "K6",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "Front fog lights"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Cold air blower"
+    ]
+   ]
+  }
+ ]
+}
