@@ -1,0 +1,681 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "xsara",
+ "brand_db": "Citroen",
+ "model_db_name": "Xsara",
+ "model_id": 1287,
+ "generation_name": "1st generation (\"N0\", \"N1\", \"N2\")",
+ "generation_code": "g1",
+ "year_start": 1998,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/citroen/xsara/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-xsara-2004-genid-g1-0.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Low beam relay"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "25A",
+     "Fuel heater"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "Alarm siren"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "High beam"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Stop signal"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "BSI"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Anti-lock braking system"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "5A",
+     "Preheating, double relay, cooling fan relay, diesel fuel heater, turbo coolant level, vehicle speed sensor, engine control unit, flow meter, diesel pollution sensor"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Double relay"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "20A",
+     "Double relay, automatic transmission control unit"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "Oxygen sensor, EGR, diesel injection pump, EGR solenoid"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "30A",
+     "Air pump, additional heater"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "20A",
+     "Front fog lights, dashboard warning lamp"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "15A",
+     "Diesel heater, automatic transmission, back-up lamps"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "5A",
+     "Automatic transmission control unit"
+    ],
+    [
+     "MF1",
+     "Fuse MAXI",
+     "50A",
+     "BSI"
+    ],
+    [
+     "MF4",
+     "Fuse MAXI",
+     "50A",
+     "Anti-lock braking system"
+    ],
+    [
+     "MF8",
+     "Fuse MAXI",
+     "70A",
+     "Fuse box No. 1 in the passenger compartment"
+    ],
+    [
+     "MF9",
+     "Fuse MAXI",
+     "50A",
+     "BSI"
+    ],
+    [
+     "MF10",
+     "Fuse MAXI",
+     "40A",
+     "Relay of auxiliary heater"
+    ],
+    [
+     "MF11",
+     "Fuse MAXI",
+     "30A",
+     "Fuse box No. 1 in the passenger compartment"
+    ],
+    [
+     "MF12",
+     "Fuse MAXI",
+     "50A",
+     "Ignition switch"
+    ],
+    [
+     "MF15",
+     "Fuse MAXI",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Air pump relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear fog lamps"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlight washer pump"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Diagnostic system / automatic transmission"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-xsara-2004-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Automatic transmission control system, cooling fan motor relay, reversing lights"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "15A",
+     "Coolant heater, fuel pump"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Automatic transmission control system, engine management system"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-theft system horn (if installed), automatic transmission control system, engine control system"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Headlight washer pump"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "ABS, cooling fan motor relay, engine management system"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Left headlight, dipped beam"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "15A",
+     "Right headlight, dipped beam"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "Left headlight, high beam"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "Right headlight, high beam"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "15A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Rear window washer pump motor"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Exhaust air pump"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "40A",
+     "Heater / air conditioner"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box (Type 3)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-xsara-2004-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Automatic transmission control system, cooling fan motor relay, reversing lights"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "15A",
+     "Coolant heater, fuel pump"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Automatic transmission control system, engine management system"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-theft system horn (if installed), automatic transmission control system, engine control system"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Headlight washer pump"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "ABS, cooling fan motor relay, engine management system"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Left headlight, dipped beam"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "15A",
+     "Right headlight, dipped beam"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "Left headlight, high beam"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "Right headlight, high beam"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "15A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Rear window washer pump motor"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Exhaust air pump"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "40A",
+     "Heater / air conditioner"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment (additional elements on the side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-xsara-2004-genid-g1-3.webp",
+   "fuses": [
+    [
+     "MF1",
+     "Fuse MAXI",
+     "50A",
+     "Cooling fan motor relay"
+    ],
+    [
+     "MF2",
+     "Fuse MAXI",
+     "50A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "MF3",
+     "Fuse MAXI",
+     "30A",
+     "Coolant heater"
+    ],
+    [
+     "MF4",
+     "Fuse MAXI",
+     "50A",
+     "Multifunctional control unit 1"
+    ],
+    [
+     "MF5",
+     "Fuse MAXI",
+     "50A",
+     "ABS, multifunction control unit 1"
+    ],
+    [
+     "MF6",
+     "Fuse MAXI",
+     "30A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "MF7",
+     "Fuse MAXI",
+     "50A",
+     "Ignition lock"
+    ],
+    [
+     "MF8",
+     "Fuse MAXI",
+     "70A",
+     "Passenger compartment fuse box"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Passenger Compartment Fuse Box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-xsara-2004-genid-g1-4.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse ATO",
+     "5A",
+     "Air conditioning system"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "5A",
+     "Diagnostic connector (DLC), instrument cluster"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "5A",
+     "Multifunction control unit 1, ignition control"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "",
+     "Automatic transmission"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "",
+     "Interior lamps"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "10A",
+     "Navigation control unit, low beam relay, radio, warning system, anti-theft system (if equipped), audio system"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "5A",
+     "Navigation control unit, low beam relay, radio, warning system, anti-theft system (if equipped), audio system"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "5A",
+     "Diagnostic connector, clock, multifunction display, alarm, steering column electrical control unit"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "5A",
+     "Multifunctional control unit 1"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "10A",
+     "Radio, horn, special equipment, navigation system, trailer electrical connector"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "20A",
+     "Car PC, horn, trailer connector, emergency alarm, headlight washers, special equipment, radio, security alarm relay, headlight washer relay, low beams"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "5A",
+     "Front left parking light, rear right parking light"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "5A",
+     "Rear left light bulb, license plate light, front right light bulb"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "20A",
+     "Daytime running light system"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Power windows, front"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "20A",
+     "Seat heater"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "15A",
+     "Battery / multifunction control unit 1"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "30A",
+     "Battery / multifunction control unit 1"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "5A",
+     "Lighting system, steering wheel sensor, clock, heated rear windshield, rear window lock, security alarm, multifunction display, 12V outlet, parking aid, cigarette lighter, AT lever, air conditioning"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "10A",
+     "Fog lights and switch, rear fog lights, instrument panel, brake light switch, clutch pedal position sensor"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "5A",
+     "Coolant heater, engine management system, fuel filter water sensor, vehicle speed sensor"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "10A",
+     "Left dipped beam, headlight adjustment"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "10A",
+     "Headlight switch, low beam right, instrument panel warning lamp"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "5A",
+     "Rain sensor, interior lighting, glove box light, courtesy lights, vanity mirror light (passenger side)"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "20A",
+     "Accessory connector, cigarette lighter"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "5A",
+     "Clock, interior mirror"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "20A",
+     "Front and rear wiper switch"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "5A",
+     "Multifunctional control unit 1"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "15A",
+     "Power seat, driver side"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "20A",
+     "Accessory connector, cigarette lighter"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "15A",
+     "Audio system"
+    ]
+   ]
+  }
+ ]
+}
