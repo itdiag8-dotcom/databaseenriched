@@ -1,0 +1,402 @@
+{
+ "make_slug": "daewoo",
+ "model_slug": "nubira",
+ "brand_db": "Daewoo",
+ "model_db_name": "Nubira",
+ "model_id": 1410,
+ "generation_name": "1st generation (\"J100\", \"J150\")",
+ "generation_code": "g1",
+ "year_start": 1997,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/daewoo/nubira/info/fusebox/2004/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-nubira-2004-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Control unit, audio, clock, ignition key sensor"
+    ],
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Control unit, audio, clock, ignition key sensor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Electronic anti-theft device, cruise control, diagnostics"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Hazard warning, immobilizer"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Wiper system, daytime running light system (DRL)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "25A",
+     "Wiper system, daytime running light system (DRL)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel, ABS, buzzer, transfer switch, automatic temperature control unit (ATC), rear fog lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning, heated rear windshield"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter, interior lighting, heated seats"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Audio system, clock, transmission lock switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Automatic temperature control unit (ATC), clock, security system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Interior lighting, turn signals, hazard warning lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Electronic anti-theft device, wiper system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Security system, speed sensor"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "DLC, reverse, cruise control, air conditioning"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Airbags, heated rear windshield, ignition relay 2"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "ABS, ESP"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-nubira-2004-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "30A",
+     "Main fuse for fuses 1-5"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "30A",
+     "Air blower motor"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "20A",
+     "Cooling fan, first speed"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "60A",
+     "ABS, ESP"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "30A",
+     "Ignition switch 2"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "30A",
+     "Ignition lock 1"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "20A",
+     "Power windows"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "20A",
+     "Cooling fan, second speed"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Alarm"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Heated rear windshield"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "DIS"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Injection system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Right outside light(s)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Left outside light(s)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Electronic control unit"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Stop lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Electric seat"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Central locking"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Antenna"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Power mirrors"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "25A",
+     "Headlights"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Horn (signal)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlights relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front fog lights relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan first speed relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Taillights relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan second speed relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Ignition switch 2 relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Heated rear windshield relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Ignition lock 1 relay"
+    ]
+   ]
+  }
+ ]
+}

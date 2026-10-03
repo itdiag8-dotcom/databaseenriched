@@ -1,0 +1,667 @@
+{
+ "make_slug": "daewoo",
+ "model_slug": "tacuma",
+ "brand_db": "Daewoo",
+ "model_db_name": "Tacuma",
+ "model_id": 1417,
+ "generation_name": "1st generation (\"U100\")",
+ "generation_code": "g1",
+ "year_start": 2001,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/daewoo/tacuma/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-tacuma-2008-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(HL HI RH) Right-hand headlight high beam"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(HL HI LH) Left-hand headlight high beam"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(HL LO RH) Right-hand headlight low beam"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(HL LO LH) Left-hand headlight low beam"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(ILL RH) Illumination right"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "(ILL LH) Illumination left"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Anti-theft siren"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(FRT FOG) Front fog lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Heating mat (heated seats)"
+    ],
+    [
+     "11",
+     "Diode MINI",
+     "",
+     "Diode"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(SOCKET) Cigar lighter / power outlet"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(MIR. HEAT) Mirror heater"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(EMS 2) Engine management system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(EMS 1) Engine management system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(A/C COMP) Air conditioning compressor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(FUEL PUMP) Fuel pump"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "(MAIN) Main fuse"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "(ENGINE MAIN) Engine control system"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "(BLOWER MTR) A/C blower motor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "(RAD FAN HI) Radiator fan high speed"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 2) Ignition"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 1) Ignition"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "20A",
+     "(HEAD LAMP) Headlights"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "50A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "(RAD FAN LOW) Radiator fan low speed"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ELEC WINDOW) Power windows"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "(RR DEFOG) Rear window defogger"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "20A",
+     "(ILL LAMP) Illumination"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Parking/illumination lamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan low-speed relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "HVAC blower motor relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Cooling fan high-speed relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Engine control module (ECM) relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (Ver. 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-tacuma-2008-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "RH headlamp high beam"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "LH headlamp high beam"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "RH headlamp low beam"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "LH headlamp low beam"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Right-hand parking and tail lamps"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Left-hand tail lamps"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Anti-theft alarm siren"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Warning chime(s)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Seat heater (heated seats)"
+    ],
+    [
+     "11",
+     "Diode MINI",
+     "",
+     "Engine management system diode"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Accessory power outlet"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Heated power mirrors"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Engine management system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Engine management system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Engine management system"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "Instrument panel fuse/relay block"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "HVAC blower motor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan motor"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main ignition circuits"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch circuits"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "20A",
+     "Lighting system"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "50A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan motor"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "20A",
+     "Instrument cluster illumination"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Parking/illumination lamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan low-speed relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "HVAC blower motor relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Cooling fan high-speed relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Engine control module (ECM) relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-tacuma-2008-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "(SUN ROOF) Sunroof"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "(STOP LP) Stop lights"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(ROOM LP) Interior lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(ALDL) Assembly line data link connector"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(DR LOCK) Power door lock system"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Hazard lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(TCM) Transmission control unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "(AUDIO) Audio system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(ELEC MIRR) Power control mirror"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "(WIPER) Wipers"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(EMS) Engine management system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(BACK-UP) Backup lights"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(ECM) Engine control unit"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(CLUSTER) Instrument cluster"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(RLY IGN) Ignition relay"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "(HEATER) Air conditioning system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(AIR BAG) Airbag"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(TURN SIG) Turn signal"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(CRUISE) Cruise control"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) Audio system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(CIGAR) Cigar lighter / power outlet"
+    ]
+   ]
+  }
+ ]
+}

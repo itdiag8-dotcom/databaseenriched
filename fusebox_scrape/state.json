@@ -313,11 +313,11 @@
   "chrysler": "done",
   "citroen": "all 44 models processed (post-2000 rule applied from jumpy onward)",
   "cupra": "all 6 models no_data",
-  "dacia": "all 5 models processed"
+  "dacia": "all 5 models processed",
+  "daewoo": "all 5 models done"
  },
  "in_progress": null,
  "queue_next_makes": [
-  "daewoo",
   "daihatsu",
   "dodge",
   "ds",
@@ -783,10 +783,13 @@
   "dacia/sandero": "done",
   "dacia/supernova": "no_data",
   "daewoo/matiz": "done",
-  "daewoo/lanos": "done"
+  "daewoo/lanos": "done",
+  "daewoo/nubira": "done",
+  "daewoo/kalos": "done",
+  "daewoo/tacuma": "done"
  },
- "last_updated": "2026-10-03T23:36:19.960135",
- "current_brand": "daewoo",
+ "last_updated": "2026-10-03T23:38:00.419313",
+ "current_brand": "daihatsu",
  "audi_done_models": [
   "a1",
   "a2",
