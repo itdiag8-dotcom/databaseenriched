@@ -1,0 +1,829 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "5-series",
+ "brand_db": "BMW",
+ "model_db_name": "5 Series \u2013 E34",
+ "model_id": 615,
+ "generation_name": "3rd generation",
+ "generation_code": "E34",
+ "year_start": 1988,
+ "year_end": 1996,
+ "trim_label": "",
+ "representative_year": 1996,
+ "source_url": "https://www.startmycar.com/bmw/5-series/info/fusebox/1996/3rd-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box (Low version)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-5-series-1996-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Brake light switch, brake control circuit, Tempomat control unit and switch"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "7.5A",
+     "Lighting module (relay for low and high beam headlights)"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "7.5A",
+     "Lighting module (fog light relays, turn signal switch, high beam warning switch)"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "7.5A",
+     "Lighting module (parking and side light, left)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Lighting module (parking/side light right, license plate lights), cigarette lighter light, radio, engine compartment lighting, hazard warning switch"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "7.5A",
+     "Alarm"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "7.5A",
+     "Right and left fog lights"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Horns, A/C compressor control unit, A/C auxiliary water pump"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "7.5A",
+     "Left low beam headlamp"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "7.5A",
+     "Right low beam headlamp"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Heated washer nozzles, reversing light switch, mirror adjustment switch"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "7.5A",
+     "Left high beam headlamp"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "7.5A",
+     "Right high beam headlamp"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "7.5A",
+     "Wiper switch relay, lighting module RA 15"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Heated front seat, lumbar support drive"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument cluster (warning lamps, main module), on-board computer, gear indicator"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Infrared module, seat adjustment drive, belt ejector, central locking, radio, cordless telephone"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Heater blower"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument cluster, on-board computer, digital clock timer"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Interior lighting, glove compartment, trunk, battery connector"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper motor (modes 1 and 2), brush pressure regulator (high-pressure cleaning system)"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "7.5A",
+     "Fuel pump"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "15A",
+     "Washer pump, wiper/washer control unit, wiper motor relay"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "Additional fan (speeds 1 and 2)"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Cigarette lighter"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "30A",
+     "Heater solenoid valve, Hi-Fi audio system with power amplifier"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "Servotronic system"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "7.5A",
+     "Rear window heater relay, A/C compressor control unit, auxiliary fan relay, ABS control unit"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Removing voltage from terminal R"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Heater fan / parking heater"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Intensive cleaning / washer pump"
+    ],
+    [
+     "K6",
+     "Relay",
+     "",
+     "SRA (headlight washer) module"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Auxiliary water pump relay"
+    ],
+    [
+     "K9",
+     "Relay",
+     "",
+     "Removing voltage from terminal 15"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Overload protection of the ABS/ASC system"
+    ],
+    [
+     "K16",
+     "Relay",
+     "",
+     "Alarm breaker relay 30/30"
+    ],
+    [
+     "K18",
+     "Relay",
+     "",
+     "Air conditioning decoupling, Motronic"
+    ],
+    [
+     "K19",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "K21",
+     "Relay",
+     "",
+     "Auxiliary fan 1st speed"
+    ],
+    [
+     "K22",
+     "Relay",
+     "",
+     "Auxiliary fan 2nd speed"
+    ],
+    [
+     "K40",
+     "Relay",
+     "",
+     "Low beam headlight relay"
+    ],
+    [
+     "K41",
+     "Relay",
+     "",
+     "High beam headlight relay"
+    ],
+    [
+     "K42",
+     "Relay",
+     "",
+     "Fog lights relay"
+    ],
+    [
+     "K43",
+     "Relay",
+     "",
+     "Fog lights relay"
+    ],
+    [
+     "U4",
+     "Relay",
+     "",
+     "Anti-theft alarm sensor 30/30"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (High version)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-5-series-1996-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Brake light switch, brake control circuit, ABS, tachometer, lighting module, Tempomat"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "7.5A",
+     "Exterior light switch (terminal 56), headlamp high beam module"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "7.5A",
+     "Fog lamp switch, lighting module (fog light relay), turn signal switch, high beam warning switch"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "7.5A",
+     "Lighting module (parking and side light, left)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Lighting module (parking/side light right, license plate lights), interior mirror shading, lighting for cigarette lighter, cassette box, mirror, seat heater and lumbar support switches"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "7.5A",
+     "Direction indicators and hazard warning lights"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "7.5A",
+     "Right and left fog lights"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Horn relay, A/C compressor control unit, A/C auxiliary water pump"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "7.5A",
+     "Left low beam headlamp"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "7.5A",
+     "Right low beam headlamp"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Heated washer nozzles, reversing light switch, door mirror adjustment switch"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "7.5A",
+     "Left high beam headlamp"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "7.5A",
+     "Right high beam headlamp"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "7.5A",
+     "Wiper relay, on-board computer, parking heater"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Heated front seat, lumbar support drive"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument cluster (warning lamps, main module), on-board computer, gear indicator"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Radio receiver (aerial amplifier), infrared module, seat adjustment drive, cordless telephone"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Heater fan"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument cluster, on-board computer, timer, parking heater, heater"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Interior lighting, trunk, glove box, battery charge connector"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper pressure regulator, windshield wiper system"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "7.5A",
+     "Fuel pump"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "15A",
+     "Interior temperature control system"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "Additional fan (speeds 1 and 2)"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Cigarette lighter"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "30A",
+     "Heater solenoid valve, Hi-Fi audio system with power amplifier"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "Servotronic system"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "7.5A",
+     "A/C compressor control unit, auxiliary fan relay, ABS control unit"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "Jumper plug for horn/phone"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Unloader relay (terminal R)"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Compressor control relay"
+    ],
+    [
+     "K6",
+     "Relay",
+     "",
+     "Washer pump relay"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "ABS relay (ex. 1994\u201395)"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Unloader relay (terminal 61)"
+    ],
+    [
+     "K9",
+     "Relay",
+     "",
+     "Unloader relay (terminal 15)"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Auxiliary water pump relay"
+    ],
+    [
+     "K11",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "K12",
+     "Relay",
+     "",
+     "Hazard flasher relay"
+    ],
+    [
+     "K13",
+     "Other",
+     "",
+     "Check control module"
+    ],
+    [
+     "K14",
+     "Relay",
+     "",
+     "Crash control module"
+    ],
+    [
+     "K15",
+     "Other",
+     "",
+     "Lamp control module"
+    ],
+    [
+     "K31",
+     "Relay",
+     "",
+     "Cigarette lighter switch-on relay (contacts 30 and 87)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box (Type 3)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-5-series-1996-genid-g3-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Brake lights, Tempomat, anti-theft system DWA IV, on-board computer BC IV, electronic transmission control (EGS/AGS), ABS/ASC 5 slip control, ZKE wiper/washer, instrument cluster/check control, multi-function clock, lamp monitor (LKM)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "7.5A",
+     "Crash control module, DME M3.3 (8-cyl M60), light switch, lamp monitor (LKM), headlights/fog lights, turn/hazard lights"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "7.5A",
+     "Central body electronics (ZKE), ZKE headlight washer (SRA), light switch, lamp monitor (LKM), headlights/fog lights, turn/hazard lights"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "7.5A",
+     "ZKE, SRA headlight washer, light switch, lamp monitor (LKM), park/tail/underhood lights"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Interior accessories, ZKE, SRA, light switch, LKM, headlights/fog lights, park/tail/underhood lights, license plate/luggage lights"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Crash control module, turn/hazard lights"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Lamp monitor (LKM), headlights/fog lights"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Integrated climate regulation with filter (IHKR/F3), auxiliary fan, horn"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "7.5A",
+     "Crash control module, lamp monitor (LKM), headlights/fog lights"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "7.5A",
+     "Crash control module, lamp monitor (LKM), headlights/fog lights"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "DME M3.3/M3.3.1 engine control, AGS transmission control, ASC 5 slip control, power mirrors/seats, seat/mirror memory, washer jet heaters, back-up lights"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "7.5A",
+     "Crash control module, LKM, headlights/fog lights, turn/hazard lights"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "7.5A",
+     "Crash control module, LKM, headlights/fog lights, turn/hazard lights"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "7.5A",
+     "Brake lights, drive-away protection EWS I, LKM, park/tail/underhood lights, license plate/luggage lights"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Remotely controlled locking system, seat/mirror memory system, heated seats"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "7.5A",
+     "Tempomat, DWA IV, BC IV, remote locking, DME M3.3/M3.3.1, charging system, start, E-box fan, EGS/AGS transmission, ABS/ASC 5, EDC III+ shock absorber control, ZKE (door lock heating, power windows, sunroof), EWS II, SRA, instrument cluster/check control"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "ZKE interior lights, interior accessories, radio/HiFi, cellular telephone, Alpine anti-theft, remote locking, power mirrors, seat/mirror memory, rear window wiper/washer"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Park ventilation, integrated climate regulation with filter (IHKR/F3)"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "15A",
+     "Park ventilation / IHKR-F3 climate regulation, BC IV, EWS II, instrument cluster/check control, multi-function clock, park/tail/underhood lights"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "ZKE interior lights, interior accessories, Alpine anti-theft, DWA IV, license plate/luggage lights"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "ZKE headlight washer (SRA)"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "15A",
+     "Engine control system DME M3.3 (8-cyl M60) / DME M3.3.1 (6-cyl M50)"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "10A",
+     "Central body electronics (ZKE), ZKE wiper/washer control"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "Auxiliary fan"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Interior accessories"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "7.5A",
+     "Integrated climate regulation with filter (IHKR/F3)"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "Charging system, E-box fan"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "7.5A",
+     "IHKR/F3 climate regulation, auxiliary fan, instrument cluster/check control"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "Jumper plug for horn/telephone"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Unloader relay, terminal R"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Compressor control relay"
+    ],
+    [
+     "K6",
+     "Relay",
+     "",
+     "Washer pump relay"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Unloader relay, terminal 61"
+    ],
+    [
+     "K9",
+     "Relay",
+     "",
+     "Unloader relay, terminal 15"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Auxiliary water pump relay"
+    ],
+    [
+     "K11",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "K12",
+     "Relay",
+     "",
+     "Hazard flasher relay"
+    ],
+    [
+     "K14",
+     "Relay",
+     "",
+     "Crash control module"
+    ],
+    [
+     "K31",
+     "Other",
+     "",
+     "Fuses"
+    ]
+   ]
+  }
+ ]
+}
