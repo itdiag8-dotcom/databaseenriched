@@ -1,0 +1,656 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "xm",
+ "brand_db": "BMW",
+ "model_db_name": "XM",
+ "model_id": 829,
+ "generation_name": "1st generation",
+ "generation_code": "G09",
+ "year_start": 2023,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/bmw/xm/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-xm-2024-genid-g1-0.webp",
+   "fuses": [
+    [
+     "203",
+     "Fuse MINI",
+     "7.5A",
+     "DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ],
+    [
+     "204",
+     "Fuse MINI",
+     "5A",
+     "Air conditioner system, driving assistance"
+    ],
+    [
+     "207",
+     "Fuse MINI",
+     "15A",
+     "Alarm/auto dim, driving assistance"
+    ],
+    [
+     "208",
+     "Fuse MINI",
+     "5A",
+     "Steering column function control module"
+    ],
+    [
+     "209",
+     "Fuse MINI",
+     "5A",
+     "DSC (Dynamic Stability Control), Dynamic Drive"
+    ],
+    [
+     "211",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "212",
+     "Fuse MINI",
+     "15A",
+     "Sound system"
+    ],
+    [
+     "213",
+     "Fuse MINI",
+     "15A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "214",
+     "Fuse MINI",
+     "5A",
+     "Sound system, infotainment"
+    ],
+    [
+     "215",
+     "Fuse MINI",
+     "5A",
+     "Sound system, alarm/auto dim, driving assistance"
+    ],
+    [
+     "220",
+     "Fuse ATO",
+     "30A",
+     "Sound system, infotainment"
+    ],
+    [
+     "224",
+     "Fuse ATO",
+     "20A",
+     "Air suspension, Dynamic Drive"
+    ],
+    [
+     "226",
+     "Fuse ATO",
+     "40A",
+     "Trunk"
+    ],
+    [
+     "227",
+     "Fuse ATO",
+     "30A",
+     "DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ],
+    [
+     "228",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "230",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "231",
+     "Fuse ATO",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "232",
+     "Fuse ATO",
+     "40A",
+     "Rear defogger"
+    ],
+    [
+     "233",
+     "Fuse ATO",
+     "20A",
+     "Air conditioner system, blower"
+    ],
+    [
+     "240",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "242",
+     "Fuse MINI",
+     "5A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "244",
+     "Fuse MINI",
+     "5A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "247",
+     "Fuse MINI",
+     "15A",
+     "Air conditioner system, luggage"
+    ],
+    [
+     "249",
+     "Fuse MINI",
+     "10A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "250",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "251",
+     "Fuse MINI",
+     "10A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "252",
+     "Fuse MINI",
+     "5A",
+     "Hybrid system"
+    ],
+    [
+     "253",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioner system, heated seats, seat controls"
+    ],
+    [
+     "254",
+     "Fuse MINI",
+     "5A",
+     "Trunk, interior lights"
+    ],
+    [
+     "255",
+     "Fuse MINI",
+     "5A",
+     "Air conditioner system, seat controls, electric rear sunshade, interior lights"
+    ],
+    [
+     "256",
+     "Fuse MINI",
+     "10A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "257",
+     "Fuse MINI",
+     "5A",
+     "Seatbelts, electric rear sunshade, interior lights"
+    ],
+    [
+     "258",
+     "Fuse MINI",
+     "10A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "259",
+     "Fuse MINI",
+     "15A",
+     "DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ],
+    [
+     "260",
+     "Fuse MINI",
+     "10A",
+     "Driving assistance"
+    ],
+    [
+     "262",
+     "Fuse MINI",
+     "5A",
+     "Air suspension, Head-Up Display, infotainment, interior lights"
+    ],
+    [
+     "264",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "265",
+     "Fuse ATO",
+     "30A",
+     "Gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "266",
+     "Fuse ATO",
+     "20A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "267",
+     "Fuse ATO",
+     "30A",
+     "DSC (Dynamic Stability Control), trailer module, low beams/running lights"
+    ],
+    [
+     "269",
+     "Fuse ATO",
+     "30A",
+     "Seat controls"
+    ],
+    [
+     "271",
+     "Fuse ATO",
+     "30A",
+     "Heated seats, seat controls"
+    ],
+    [
+     "274",
+     "Fuse ATO",
+     "30A",
+     "Heated seats"
+    ],
+    [
+     "279",
+     "Fuse MINI",
+     "5A",
+     "Dynamic Drive, trunk"
+    ],
+    [
+     "280",
+     "Fuse MINI",
+     "7.5A",
+     "Hybrid system"
+    ],
+    [
+     "289",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse panel 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-xm-2024-genid-g1-1.webp",
+   "fuses": [
+    [
+     "105",
+     "Fuse MINI",
+     "7.5A",
+     "Hybrid system, battery/alternator"
+    ],
+    [
+     "106",
+     "Fuse MINI",
+     "5A",
+     "Hybrid system, battery/alternator"
+    ],
+    [
+     "110",
+     "Fuse MINI",
+     "5A",
+     "Heating / independent aux. heater, hybrid system"
+    ],
+    [
+     "113",
+     "Fuse MINI",
+     "7.5A",
+     "Hybrid system"
+    ],
+    [
+     "117",
+     "Fuse ATO",
+     "30A",
+     "Hybrid system, gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "118",
+     "Fuse MINI",
+     "",
+     "Hybrid system"
+    ],
+    [
+     "119",
+     "Fuse MINI",
+     "7.5A",
+     "Hybrid system, DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior fuse panel 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-xm-2024-genid-g1-2.webp",
+   "fuses": [
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Electric rear sunshade"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Electric rear sunshade"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Electric rear sunshade"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "30A",
+     "Electric rear sunshade"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Convertible roof"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "20A",
+     "Power trunk lid opener"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Alarm/auto dim"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Parking brake"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Instrument cluster"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Alarm/auto dim, convertible roof, interior lights"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner system, blower"
+    ],
+    [
+     "39",
+     "Fuse MAXI",
+     "60A",
+     "Low beams/running lights"
+    ],
+    [
+     "40",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioner system, blower"
+    ],
+    [
+     "41",
+     "Fuse MAXI",
+     "50A",
+     "DSC (Dynamic Stability Control), parking brake"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "20A",
+     "Seat heater"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "15A",
+     "Steering column function control module"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "15A",
+     "Air conditioner system"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "20A",
+     "Dynamic Drive, gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "20A",
+     "Seat heater"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "Seat controls"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "20A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "30A",
+     "Seat controls"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "10A",
+     "Seat heater"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "10A",
+     "Seat heater"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "7.5A",
+     "HomeLink (garage door opener), low beams/running lights, rearview mirror"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "5A",
+     "48V system, auto START-STOP"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "10A",
+     "Head-Up Display, infotainment, interior lights"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "5A",
+     "Air conditioner system, alarm/auto dim, driving assistance, interior lights"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "10A",
+     "Seat controls, interior lights"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "Seat controls, interior lights"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "5A",
+     "Seat controls, interior lights, side view mirror"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "5A",
+     "Seat controls, interior lights, side view mirror"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "5A",
+     "Temperature control"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "5A",
+     "Temperature control, DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "7.5A",
+     "48V system, auto START-STOP"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "10A",
+     "Head-Up Display, infotainment"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "10A",
+     "Steering column function control module"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "10A",
+     "Seatbelts"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "15A",
+     "Air conditioner system"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Body Domain Controller fuse box (BCP)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-xm-2024-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Infotainment, steering column function control module, low beams/running lights"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "7.5A",
+     "OBD (On-Board Diagnostics), air suspension, Dynamic Drive"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioner system, trunk"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Dynamic Drive, door module / automatic soft-close"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Door module / automatic soft-close"
+    ]
+   ]
+  }
+ ]
+}
