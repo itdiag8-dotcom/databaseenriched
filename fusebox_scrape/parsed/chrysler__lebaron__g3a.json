@@ -1,0 +1,391 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "lebaron",
+ "brand_db": "Chrysler",
+ "model_db_name": "LeBaron",
+ "model_id": null,
+ "generation_name": "Generation 3A (J-body)",
+ "generation_code": "g3a",
+ "year_start": 1990,
+ "year_end": 1995,
+ "trim_label": "",
+ "representative_year": 1993,
+ "source_url": "https://www.startmycar.com/chrysler/lebaron/info/fusebox/1993/3a-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-lebaron-1993-genid-g3a-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Windshield wipers"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Door & courtesy lights, cargo/glove box/vanity lights, EVIC, radio memory, cluster, power mirrors, security alarm"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Right high beam headlight"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Left high beam headlight"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Right low beam headlight"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Left low beam headlight"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "2A",
+     "Speed control"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Mechanical or electronic cluster, body computer, message center, airbag, security alarm"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Radio speaker amplifier"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Power antenna, speaker amplifiers, cigarette lighter, airbag, security alarm, message center"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "License lights, parking lights, taillights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Foglights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Body computer"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Front & rear turn signals, side marker lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Backup & airbag lights, DRL, electronic automatic transaxle, rear window defogger, overhead console"
+    ],
+    [
+     "26",
+     "Circuit breaker ATO",
+     "",
+     "Power seats, horn, power door locks, power top"
+    ],
+    [
+     "27",
+     "Circuit breaker ATO",
+     "",
+     "Power windows"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "A/C & heater blower motors"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-lebaron-1993-genid-g3a-1.webp",
+   "fuses": [
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Turn signal & cancellation and hazard switch"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "Radiator fan relay"
+    ],
+    [
+     "48",
+     "Fuse MAXI",
+     "40A",
+     "ABS pump motor relay, ABS system relay"
+    ],
+    [
+     "50",
+     "Fuse MAXI",
+     "60A",
+     "Alternator"
+    ],
+    [
+     "51",
+     "Fuse MAXI",
+     "50A",
+     "Ignition switch"
+    ],
+    [
+     "52",
+     "Fuse MAXI",
+     "30A",
+     "Fan control relay"
+    ],
+    [
+     "53",
+     "Fuse MAXI",
+     "30A",
+     "Rear window defogger, underhood light & switch, fuse 26"
+    ],
+    [
+     "54",
+     "Fuse MAXI",
+     "30A",
+     "Auto shutdown relay, SBEC pin 3"
+    ],
+    [
+     "55",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch, starter relay"
+    ],
+    [
+     "56",
+     "Fuse MAXI",
+     "40A",
+     "Fuses 9, 10, 11, 12"
+    ],
+    [
+     "57",
+     "Fuse MAXI",
+     "40A",
+     "Headlight motor relay, low beam relay, DRL module ('94-'95), fuses 3, 21, 22"
+    ],
+    [
+     "58",
+     "Fuse MAXI",
+     "60A",
+     "Alternator"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlight open/close #1 / windshield washer relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlight open/close #2 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlight motor / fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Auto shutdown / injectors, ignition coil relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "U2",
+     "Fuse MINI",
+     "20A",
+     "Starter relay, auto shutdown relay, fuel pump relay, PCM"
+    ],
+    [
+     "U3",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "U4",
+     "Fuse MINI",
+     "20A",
+     "Fuse 26"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Relay Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-lebaron-1993-genid-g3a-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power antenna & speakers relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn / parking light relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Auto door unlock / power door lock relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Auto door lock relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Parking lights relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Timer relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Right rear turn/stop light relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Left rear turn/stop light relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Diode package"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Right front turn light / turn signal/hazard relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Left front turn light relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Fog lights relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Windshield washer / horn relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Right cornering light relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Left cornering light relay"
+    ]
+   ]
+  }
+ ]
+}

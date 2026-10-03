@@ -1,0 +1,143 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "lebaron",
+ "brand_db": "Chrysler",
+ "model_db_name": "LeBaron",
+ "model_id": null,
+ "generation_name": "2nd generation (K-body)",
+ "generation_code": "g2",
+ "year_start": 1986,
+ "year_end": 1988,
+ "trim_label": "",
+ "representative_year": 1988,
+ "source_url": "https://www.startmycar.com/chrysler/lebaron/info/fusebox/1988",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-lebaron-1988-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Hazard flashers"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Back-up lights, cornering lights, trip navigator, fan relay coil, A/C fan & clutch relay coil, overhead console, ATC control, transmission pressure switch, convertible top relay coil, airbag module, rear window defroster, auto load leveling"
+    ],
+    [
+     "3",
+     "Circuit breaker ATO",
+     "",
+     "Power window motors, convertible power top"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "A/C blower motor, heater blower, ATC power module"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Park & taillights, license & side marker lights, display intensity, rear A/C unit light, taillight outage"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Stoplights & stoplight outage, illuminated entry, dome & map light, trunk/cargo & underhood lights, ignition switch time delay relay, power mirrors, vanity mirrors, consoles, chimes"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Horn, horn relay, cigarette lighter, glove box & key-in lights, radio & clock memory, navigator/traveler, electronic cluster, power antenna, airbag module, chime, speaker amplifier, voice alert, trip computer, clock"
+    ],
+    [
+     "8",
+     "Circuit breaker ATO",
+     "",
+     "Power seat motors, power door lock motors, concealed headlight motors"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Radio & clock power"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "Turn signal lights, heated rear window relay, console bin light, A/C clutch, idle-up [2.2L with A/C], A/C fan relay coil, premium speakers, illuminated entry, convertible top relay"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "Front windshield wipers & washers, intermittent wiper module"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "4A",
+     "Cluster, A/C & heater control, heated rear window, ashtray, console radio, navigator/traveler, rear heater switch, trip computer switch, clock & radio display dimming, message center illumination"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "Fuel gauge, BRAKE / CHECK ENGINE warning lights, seat belt chimes, speed control, temperature gauge, illuminated entry, airbag module, cluster PCB gauges, voice alert, fuel pacer"
+    ],
+    [
+     "14",
+     "Circuit breaker ATO",
+     "",
+     "Electric deck lid release, rear washer/wiper & liftgate solenoid relay"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "20A",
+     "Dome & map light, trunk/cargo light, key light time delay, power mirrors, load leveling solenoid, illuminated entry"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Right & left spotlight"
+    ],
+    [
+     "Flasher1",
+     "Flasher",
+     "",
+     "Turn signal flasher"
+    ],
+    [
+     "Flasher2",
+     "Flasher",
+     "",
+     "Time delay flasher"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlight outage sensor"
+    ]
+   ]
+  }
+ ]
+}
