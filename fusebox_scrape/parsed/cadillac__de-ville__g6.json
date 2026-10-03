@@ -1,0 +1,343 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "de-ville",
+ "brand_db": "Cadillac",
+ "model_db_name": "DeVille",
+ "model_id": 1018,
+ "generation_name": "6th generation",
+ "generation_code": null,
+ "year_start": 1985,
+ "year_end": 1993,
+ "trim_label": "",
+ "representative_year": 1993,
+ "source_url": "https://www.startmycar.com/cadillac/de-ville/info/fusebox/1993",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-de-ville-1993-genid-g6-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic energy reserve module"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "High/low speed coolant fan"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "Power antenna relay, front cigar lighter, info center, glove box light, chime module, radio"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Day/night mirror, door lock module, BCM, ride module, DERM, fuel tank unit, cluster, seats, keyless entry, theft deterrent"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "A/C compressor relay, BCM, climate control, cruise switch, height sensor, fuel data center, heated windshield module, cluster, defogger relay"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "Electronic compressor, electronic height sensor, electronic relay"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Power control module, PASS key decoder module, starter enable relay"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "Trunk lid release switch, fuel door release switch"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Electronic brake control module, brake pressure module, main relay"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Brake light switch, hazard flasher"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "DERM dual sensor"
+    ],
+    [
+     "15",
+     "Circuit breaker MAXI",
+     "",
+     "Astro roof control module, express down window module, power window switches and lockout relay"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Radio, body computer module"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "20A",
+     "Vacuum pump"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Instrument cluster, light switch, twilight sentinel, DRL module"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "20A",
+     "Neutral safety backup switch, turn flasher, turn and hazard switch"
+    ],
+    [
+     "20",
+     "Circuit breaker MAXI",
+     "",
+     "Door lock relay, recliner/seat switches, rear defogger, keyless entry, automatic door locks"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "25A",
+     "Wiper, washer switch"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "15A",
+     "Dome/map lights, garage door opener, door lock lights, courtesy reading lights, trunk light"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "10A",
+     "Ashtray light, BCM, engine compartment light, panel backlights, radio display dimming"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relay panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-de-ville-1993-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "25A",
+     "(Horn/trunk pull-on) horn relay, pull down unit"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "(Door lock) door lock switches, mirror control, rear cigar lighters, keyless entry, trunk release, courtesy lights"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "(Heated mirror) heated mirror"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "(A/C programmer) A/C programmer"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "(ERLS) A/C compressor control relay, VCC brake switch, EGR solenoid, canister purge, PS pressure switch"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "(Fuel pump) fuel pump relay, engine oil pressure switch"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "(Injector) fuel injectors 2, 3, 5, 8"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "(Injector) fuel injectors 1, 4, 6, 7"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Antenna relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Bose relay (if equipped)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Defogger relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Window lockout relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Retained accessory power relay 2"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Electronic level control (ELC)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Retained accessory power relay 1"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Maxi Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-de-ville-1993-genid-g6-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MAXI",
+     "60A",
+     "(IGN SW) retained accessory power, ignition switch"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "30A",
+     "(BLWR) electronic climate control, power module blower control module"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "20A",
+     "(ECM) BCM, ECM, PASS key decoder module"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "20A",
+     "(Bose) Bose radio relay if equipped"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "50A",
+     "(PWR LK SEATS RR DEF) power to CB 24"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "40A",
+     "(Horn) power to fuses 1 and 2"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "20A",
+     "(HTD W/S) heated windshield if equipped"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "40A",
+     "(ABS PMP) ABS pump relay"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "30A",
+     "(ABS MAIN) main relay"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "40A",
+     "(ELC) power to fuses 11 and 12"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "40A",
+     "(COOL FAN) coolant fan relays"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "60A",
+     "(MISC LTS) power for fuses 13, 14, 15"
+    ],
+    [
+     "14",
+     "Fuse MAXI",
+     "30A",
+     "(HDLPS) headlight switch"
+    ],
+    [
+     "15",
+     "Fuse MAXI",
+     "60A",
+     "(IGN) theft deterrent, ignition switch"
+    ]
+   ]
+  }
+ ]
+}
