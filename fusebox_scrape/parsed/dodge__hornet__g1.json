@@ -1,0 +1,723 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "hornet",
+ "brand_db": "Dodge",
+ "model_db_name": "Hornet",
+ "model_id": 1449,
+ "generation_name": "1st generation",
+ "generation_code": "g1",
+ "year_start": 2023,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/dodge/hornet/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-hornet-2024-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F31",
+     "Fuse MINI",
+     "7.5A",
+     "HVAC relay coil & power outlet / seat relay coil"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "20A",
+     "Front passenger window lifter"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "Front driver window lifter"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "HVAC/VTA / external mirror / ceiling light / CVPM / radio module / USB/AUX / DCSD / electric steering lock"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Brake switch / DASM / IPC"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Door lock & unlock / liftgate release"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "7.5A",
+     "Brake system module, electric power steering"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Bi-directional washer pump"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "20A",
+     "Rear left window lifter"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Rear right window lifter"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "7.5A",
+     "Park assist, blind spot, voltage stabilizer, humidity sensor, electronic steering lock, temp sensor, mirror, heated seats, rain/light sensor, start-stop switch"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "7.5A",
+     "Occupant restraint controller"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic climate control, occupant classification, rearview camera, headlamp leveling, terrain select, heated rear window, trailer tow, haptic lane module"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "7.5A",
+     "HCP / reverse gear / A/C compressor / HVAC / defrosting / headlamp leveling / LDW / alarm module / passenger airbag / trailer tow module / AFLM / air quality sensor / ASBM"
+    ],
+    [
+     "F94",
+     "Fuse MINI",
+     "15A",
+     "Power outlet"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box [Gasoline]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-hornet-2024-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "70A",
+     "BCM1"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "70A",
+     "BCM2 / RDU"
+    ],
+    [
+     "F03",
+     "Fuse FMX/JCase",
+     "20A",
+     "BCM3"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "40A",
+     "BCM valves"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "40A",
+     "PTC 1"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "20A",
+     "Front wiper motor"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "20A",
+     "DTCM"
+    ],
+    [
+     "F08",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power supply F24-F87-Fxx"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "7.5A",
+     "ECM T09"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "5A",
+     "Engine secondary loads"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "LTR"
+    ],
+    [
+     "F15",
+     "Fuse MAXI",
+     "40A",
+     "BSM pump"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "ECM/TCM/AGSM"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Engine primary loads"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "5A",
+     "IGNM"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "A/C compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Rear cargo outlet"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "ECM"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "USB / aux outlet"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "DTCM"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "AWD DTCM"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "30A",
+     "Brake booster vacuum pump"
+    ],
+    [
+     "F82",
+     "Fuse FMX/JCase",
+     "40A",
+     "External oil pump (if equipped, 2024)"
+    ],
+    [
+     "F83",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC fan"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "7.5A",
+     "Radiator fan enable"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "5A",
+     "AGSM"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "7.5A",
+     "Heated mirrors & washer nozzle"
+    ],
+    [
+     "F89",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window defrost"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "5A",
+     "Intelligent battery sensor"
+    ],
+    [
+     "U1",
+     "Relay",
+     "",
+     "Aux 1 / DTCM relay"
+    ],
+    [
+     "U3",
+     "Relay",
+     "",
+     "Engine main relay"
+    ],
+    [
+     "U4",
+     "Relay",
+     "",
+     "Rear window defrost / heated mirrors relay"
+    ],
+    [
+     "U6",
+     "Relay",
+     "",
+     "Radiator fan enable relay"
+    ],
+    [
+     "U7",
+     "Relay",
+     "",
+     "Brake booster vacuum pump relay"
+    ],
+    [
+     "U9",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "U10",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "U11",
+     "Relay",
+     "",
+     "HVAC fan relay"
+    ],
+    [
+     "U12",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "U14",
+     "Relay",
+     "",
+     "Rear cargo power outlet relay"
+    ],
+    [
+     "U16",
+     "Relay",
+     "",
+     "Starter relay R1"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Box [Hybrid]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-hornet-2024-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "70A",
+     "BCM1"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "70A",
+     "BCM2 / RDU"
+    ],
+    [
+     "F03",
+     "Fuse FMX/JCase",
+     "20A",
+     "BCM3"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "40A",
+     "BCM valves"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "40A",
+     "PTC 1"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "20A",
+     "Front wiper motor"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "50A",
+     "AUX 1 RDU"
+    ],
+    [
+     "F08",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power supply F24-F87-Fxx"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "7.5A",
+     "ECM T09"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "5A",
+     "Engine secondary loads"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "LTR"
+    ],
+    [
+     "F15",
+     "Fuse MAXI",
+     "70A",
+     "BSM pump"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "ECM 1/TCM/AGSM"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Engine primary loads"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "5A",
+     "IGNM (if equipped)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "A/C compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Rear cargo outlet"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Engine primary loads"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "USB / aux outlet"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "TCM"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "40A",
+     "AUX 2 RDU"
+    ],
+    [
+     "F82",
+     "Fuse FMX/JCase",
+     "40A",
+     "External oil pump (AT, if equipped)"
+    ],
+    [
+     "F83",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC fan"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "7.5A",
+     "Radiator fan enable"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "5A",
+     "AGSM"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "7.5A",
+     "Heated mirrors & washer nozzle"
+    ],
+    [
+     "F89",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window defrost"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "5A",
+     "Intelligent battery sensor"
+    ],
+    [
+     "Fxx",
+     "Fuse MINI",
+     "25A",
+     "PIM"
+    ],
+    [
+     "U1",
+     "Relay",
+     "",
+     "Aux 1 relay"
+    ],
+    [
+     "U3",
+     "Relay",
+     "",
+     "Engine main relay"
+    ],
+    [
+     "U4",
+     "Relay",
+     "",
+     "Rear window defrost / heated mirrors relay"
+    ],
+    [
+     "U6",
+     "Relay",
+     "",
+     "Radiator fan enable relay"
+    ],
+    [
+     "U7",
+     "Relay",
+     "",
+     "Brake booster vacuum pump relay"
+    ],
+    [
+     "U8",
+     "Relay",
+     "",
+     "External oil pump relay"
+    ],
+    [
+     "U9",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "U10",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "U11",
+     "Relay",
+     "",
+     "HVAC fan relay"
+    ],
+    [
+     "U12",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "U14",
+     "Relay",
+     "",
+     "Rear cargo power outlet relay"
+    ],
+    [
+     "U16",
+     "Relay",
+     "",
+     "Starter relay R1"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear Cargo Fuse Box (Holder 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-hornet-2024-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "30A",
+     "Power liftgate module (PLGM)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Driver and passenger ventilated seats (HMSM)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "25A",
+     "Heating and memory driver seat module 1"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Heating and memory driver seat module 2"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "7.5A",
+     "Driver and passenger lumbar regulator (without HMSM)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Passenger seat switch (HMSM)"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Rear Cargo Fuse Box (Holder 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-hornet-2024-genid-g1-4.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "30A",
+     "Amplifier (Maxi fuse holder on rear cargo fuse/relay unit bracket, if equipped)"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Hands-free power liftgate (HFRM)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "7.5A",
+     "Damping control module"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "5A",
+     "Changeover valve feed (ELCM)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "7.5A",
+     "Damping control module"
+    ]
+   ]
+  }
+ ]
+}
