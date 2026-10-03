@@ -1,0 +1,247 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "allante",
+ "brand_db": "Cadillac",
+ "model_db_name": "Allante",
+ "model_id": null,
+ "generation_name": "1st generation",
+ "generation_code": "V-body",
+ "year_start": 1989,
+ "year_end": 1992,
+ "trim_label": "",
+ "representative_year": 1992,
+ "source_url": "https://www.startmycar.com/cadillac/allante/info/fusebox/1992",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Main fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-allante-1992-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "3A",
+     "Instrument panel cluster, cruise control switch"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "5A",
+     "Climate control/driver info center, heater and A/C programmer, low coolant module"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "3A",
+     "Rear defogger, body computer module, cooling fan system"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "7.5A",
+     "Fuel injectors 1, 4, 6, 7"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "7.5A",
+     "Fuel injectors 2, 3, 5, 8"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "25A",
+     "Windshield wiper system"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Telephone transceiver, target light, radio control head, radio receiver"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Brake switch, central power supply"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Panel lighting, RAP relays 1-2, radio, transceiver, chime, BCM"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "30A",
+     "Speed dependent dampening controller, A/C low pressure switch, headlight washer module"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "3A",
+     "Diagnostic/energy reserve module (SIR), BCM"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "SIR DERM, dual sensors"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Viscous converter clutch brake switch, automatic transaxle, canister purge solenoid"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Engine control module, PASS key decoder module"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "DERM, indicator lamps, chime, redundant relays, theft deterrent, fuel gauge, BCM"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "15A",
+     "Trunk release, console light"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Radio control head, cluster, climate control/driver info center, outside mirrors"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Cigar lighter, fuel door release"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Outside mirror defoggers"
+    ],
+    [
+     "21",
+     "Circuit breaker ATO",
+     "",
+     "Power windows, trunk lid release, console light"
+    ],
+    [
+     "22",
+     "Circuit breaker ATO",
+     "",
+     "Power door locks, left seat memory module, power seats"
+    ],
+    [
+     "24",
+     "Circuit breaker ATO",
+     "",
+     "Hard top/soft top pull-down unit, rear defogger, mirror defoggers"
+    ],
+    [
+     "25",
+     "Circuit breaker ATO",
+     "",
+     "Engine/trunk/courtesy/glove box lights, power door locks"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Maxi fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-allante-1992-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "20A",
+     "Electronic brake and traction control module, brake over-voltage protection"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "20A",
+     "Brake switch, central power supply, switch pods, RAP relays, radio, chime, BCM"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "20A",
+     "Engine control module, PASS key decoder module"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "40A",
+     "A/C blower, trunk lid pull-down unit"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "20A",
+     "Lighting modules 6, 7, 13, RH exterior lights"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "60A",
+     "Interior lights, lighting modules 2-5, 9, 10, redundant relays, LH exterior lights"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "20A",
+     "Delco Bose speakers, power antenna"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-allante-1992-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Lighting modules 4-5, back-up lights, interior lights, high mount stop light"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Lighting modules 2-3, left taillight redundant relay, LH taillights"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "Lighting modules 9-10, left headlight redundant relay, low beams, LH front lights"
+    ]
+   ]
+  }
+ ]
+}
