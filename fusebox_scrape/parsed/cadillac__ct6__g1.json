@@ -1,0 +1,1396 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "ct6",
+ "brand_db": "Cadillac",
+ "model_db_name": "CT6",
+ "model_id": 1011,
+ "generation_name": "1st generation",
+ "generation_code": null,
+ "year_start": 2016,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/cadillac/ct6/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-ct6-2019-0.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse MICRO2",
+     "15A",
+     "Transfer case control/transmission control module ignition"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter pinion"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Horn"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "10A",
+     "High-beam headlamps left/right"
+    ],
+    [
+     "14",
+     "Relay",
+     "",
+     "Air conditioning control"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "16",
+     "Relay",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "10A",
+     "Right cornering LED"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "High-beam headlamp"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "20A",
+     "Transmission auxiliary oil pump cooling"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "15A",
+     "Cabin heater pump"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Cabin heater pump"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "Engine control module ignition"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "15A",
+     "Steering column lock ignition"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "15A",
+     "Rear heated seats ignition"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "15A",
+     "Front heated seats ignition"
+    ],
+    [
+     "31",
+     "Fuse MICRO3",
+     "15A",
+     "Headlamp/daytime running lamps/right headlamp"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "25A",
+     "Engine control"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "25A",
+     "Engine control module ignition 1"
+    ],
+    [
+     "37",
+     "Fuse MICRO3",
+     "15A",
+     "Coolant pump/ignition coils odd"
+    ],
+    [
+     "38",
+     "Fuse MICRO3",
+     "15A",
+     "Ignition coils even/non walk 2"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "15A",
+     "Non walk"
+    ],
+    [
+     "40",
+     "Fuse MICRO3",
+     "10A",
+     "Electric brake control module/instrument cluster/central gateway module ignition"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel tank zone module/ignition"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel/reflective light aux display/HVAC ign/AOS display"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "10A",
+     "Aeroshutter"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "20A",
+     "Washer"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "10A",
+     "Front short range radar sensors"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "10A",
+     "Left cornering LED"
+    ],
+    [
+     "50",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "51",
+     "Relay",
+     "",
+     "Wiper speed"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "Wiper control"
+    ],
+    [
+     "53",
+     "Relay",
+     "",
+     "Headlamp control"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "60A",
+     "Antilock brake system pump/electric brake control module 1"
+    ],
+    [
+     "61",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "62",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp leveling"
+    ],
+    [
+     "66",
+     "Fuse FMX/JCase",
+     "40A",
+     "Transfer case control module"
+    ],
+    [
+     "71",
+     "Fuse MICRO2",
+     "30A",
+     "Antilock brake system valve"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver Side Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-ct6-2019-1.webp",
+   "fuses": [
+    [
+     "F5",
+     "Fuse MICRO3",
+     "",
+     "High-beam headlamps left/right"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F9",
+     "Fuse MICRO3",
+     "",
+     "Instrument cluster/EBCM 1/central gateway module ignition"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Transmission control/transfer case control module ignition"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Front heated seats ignition"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Exhaust valve solenoid"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Rear heated seats ignition"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Fuel tank zone module ignition"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel/reflective light aux display/HVAC ign/AOS display"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Electric steering column lock ignition"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Washer"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Left cornering LED"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "",
+     "Electric brake control module 1"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High-beam headlamp"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Wiper control"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Wiper speed"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Run/crank"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Side Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-ct6-2019-2.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Engine control module ignition 2"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Charge air coolant pump"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "",
+     "Transfer case control module"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Engine control module ignition 1"
+    ],
+    [
+     "F9",
+     "Fuse MICRO3",
+     "",
+     "Ignition coils even/non walk 2"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Non walk"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Engine control module ignition"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Transmission auxiliary oil pump cooling"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Cabin heater pump"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "",
+     "Starter motor"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Automatic headlamp leveling"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Right cornering LED"
+    ],
+    [
+     "F27",
+     "Fuse MICRO3",
+     "",
+     "Headlamp/daytime running lamps"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "",
+     "Electric brake control module 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cabin heater pump"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Air conditioning control"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Headlamp/daytime running lamps"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-ct6-2019-3.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "",
+     "Auxiliary power outlet front console"
+    ],
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "",
+     "Visor"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "",
+     "Front blower"
+    ],
+    [
+     "F4",
+     "Fuse FMM/MCase",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "",
+     "Power steering column"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "F7",
+     "Fuse MICRO2",
+     "",
+     "Glove box door"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "",
+     "Front heated seat module"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "",
+     "Sensing and diagnostic module"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F11",
+     "Fuse MICRO2",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "",
+     "Data link connector"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "",
+     "Electronic shifter"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "",
+     "Front camera"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "",
+     "Display"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "",
+     "HVAC control"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "",
+     "OnStar"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "",
+     "Traction power inverter 2"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "",
+     "Central gateway module"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "",
+     "Center stack module/infotainment"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "Video processing module night vision"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "",
+     "Steering wheel controls"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "USB charge port"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "",
+     "Wireless charger"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "",
+     "Speaker"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Rear Compartment Fuse Block (Without Super Cruise)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-ct6-2019-4.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse FMM/MCase",
+     "",
+     "Auxiliary trunk power outlet"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "",
+     "Left window"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "",
+     "Right rear memory seat"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "Passenger/rear seat adjustment switch"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "",
+     "Passive entry/passive start battery"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Rear subwoofer"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Left front memory seat module"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Rear seat memory/heated"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Left front subwoofer"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Right front memory seat"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Rear heated seat"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control battery"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Driver/passenger door window/mirror/driver seat adjustment/fuel door switch"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "",
+     "Electric brake control module 2"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Vehicle integration control module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Rear closure latch"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Left front motorized seat belt pretensioner"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Right front subwoofer"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Exterior heated mirrors"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "Right window"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Power trunk module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "On-board charging module"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Pedestrian friendly alert function"
+    ],
+    [
+     "F38",
+     "Fuse FMX/JCase",
+     "",
+     "Rear blower"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "",
+     "Fuel pump power module/fuel tank zone module"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "",
+     "Rear seat auxiliary power outlet"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "",
+     "Left rear memory seat"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "Rear closure release switch/power trunk module/ICCM battery"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "",
+     "Auxiliary audio/video"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "",
+     "External object calculating module/side blind zone alert/radar sensors"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "",
+     "Memory bolster module"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "",
+     "Park assist"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "",
+     "Ventilated seats"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "",
+     "Universal garage door opener/power sounder module/rain sensor"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "",
+     "Front memory seat module"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "",
+     "EVAP leak check module/rear HVAC display"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "",
+     "Voltage current temperature module"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "",
+     "Engine control module battery"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "",
+     "Right front motorized seat belt pretensioner"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "",
+     "Rear seat infotainment module"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "",
+     "Engine control module ignition"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "",
+     "Rear window sunshade"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "",
+     "Rear vision camera/rearview mirror"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "",
+     "Run/crank misc/air quality sensor/ICCM/electronic shifter/DC-DC converter"
+    ],
+    [
+     "F68",
+     "Fuse MINI",
+     "",
+     "Damping control module"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "",
+     "Television tuner module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear seat auxiliary power outlet"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Run/crank"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Rear Compartment Fuse Block (With Super Cruise)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-ct6-2019-5.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse MINI",
+     "",
+     "Body control module 2 and 4"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "",
+     "Left rear external object calculating module"
+    ],
+    [
+     "F04",
+     "Fuse MICRO2",
+     "",
+     "Steering wheel display/touch sensor"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "",
+     "LF/RR short range radar sensor/camera image processing module"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "Driver memory seat module"
+    ],
+    [
+     "F09",
+     "Fuse MICRO2",
+     "",
+     "Column friction device"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "",
+     "Left headlamp"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "",
+     "Left front subwoofer"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "",
+     "Rear blower"
+    ],
+    [
+     "F15",
+     "Fuse FMM/MCase",
+     "",
+     "Left window"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "",
+     "Canister vent"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "",
+     "Rear seat memory/heated"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "",
+     "Rear subwoofer"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "",
+     "Damping control module"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "",
+     "Electric brake control module 2"
+    ],
+    [
+     "F23",
+     "Fuse FMM/MCase",
+     "",
+     "Left front motorized seat belt pretensioner"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "Passive entry/passive start battery"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "",
+     "Rear closure latch"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "",
+     "Park assist module"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "",
+     "Driver monitoring system"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "",
+     "Driver/passenger door window/mirror/driver seat adjustment/fuel door switch"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "",
+     "Passenger/rear seat adjustment switch"
+    ],
+    [
+     "F34",
+     "Fuse FMM/MCase",
+     "",
+     "Left front memory seat"
+    ],
+    [
+     "F35",
+     "Fuse FMM/MCase",
+     "",
+     "Right rear memory seat"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "",
+     "External heated mirror"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "",
+     "Rear seat infotainment module"
+    ],
+    [
+     "F43",
+     "Fuse FMM/MCase",
+     "",
+     "Power trunk module"
+    ],
+    [
+     "F44",
+     "Fuse FMM/MCase",
+     "",
+     "Right front memory seat"
+    ],
+    [
+     "F46",
+     "Fuse FMM/MCase",
+     "",
+     "Right window"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "",
+     "Engine control module battery"
+    ],
+    [
+     "F48",
+     "Fuse MICRO2",
+     "",
+     "Right front subwoofer"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "",
+     "Fuel pump power module/fuel tank zone module"
+    ],
+    [
+     "F53",
+     "Fuse FMM/MCase",
+     "",
+     "Rear seat auxiliary power outlet"
+    ],
+    [
+     "F54",
+     "Fuse FMM/MCase",
+     "",
+     "Left rear memory seat"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "",
+     "Rear closure release switch/power trunk module"
+    ],
+    [
+     "F57",
+     "Fuse MICRO2",
+     "",
+     "Rear/long range radar sensors/right rear external object calculating module"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "",
+     "Auxiliary audio/video"
+    ],
+    [
+     "F60",
+     "Fuse MICRO2",
+     "",
+     "Memory bolster module"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "",
+     "Ventilated seat"
+    ],
+    [
+     "F63",
+     "Fuse MICRO2",
+     "",
+     "Universal garage door opener/power sounder module/rain sensor"
+    ],
+    [
+     "F64",
+     "Fuse MICRO2",
+     "",
+     "Passenger memory seat module"
+    ],
+    [
+     "F65",
+     "Fuse MICRO2",
+     "",
+     "Right front short range radar sensor/advance driver assist map"
+    ],
+    [
+     "F66",
+     "Fuse MICRO2",
+     "",
+     "Television tuner module"
+    ],
+    [
+     "F70",
+     "Fuse FMM/MCase",
+     "",
+     "Right front motorized seat belt pretensioner"
+    ],
+    [
+     "F71",
+     "Fuse FMM/MCase",
+     "",
+     "Rear heated seat module"
+    ],
+    [
+     "F72",
+     "Fuse MICRO2",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F73",
+     "Fuse MICRO2",
+     "",
+     "Rear vision camera/rearview mirror/air quality sensor"
+    ],
+    [
+     "F74",
+     "Fuse MICRO2",
+     "",
+     "Rear window sunshade"
+    ],
+    [
+     "F75",
+     "Fuse MICRO2",
+     "",
+     "Engine control module ignition"
+    ],
+    [
+     "F76",
+     "Fuse MICRO2",
+     "",
+     "Misc run crank/energy storage control module/DC-DC converter/rear EOCM"
+    ],
+    [
+     "F77",
+     "Fuse FMM/MCase",
+     "",
+     "Trunk auxiliary power outlet"
+    ],
+    [
+     "F78",
+     "Fuse MICRO2",
+     "",
+     "Rear HVAC display"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear seat auxiliary power outlet"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Run/crank"
+    ]
+   ]
+  }
+ ]
+}
