@@ -1,0 +1,349 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "sebring",
+ "brand_db": "Chrysler",
+ "model_db_name": "SEBRING",
+ "model_id": 1251,
+ "trim_label": "",
+ "generation_name": "Coupe (ST-22)",
+ "generation_code": "g2b",
+ "year_start": 2000,
+ "year_end": 2004,
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/chrysler/sebring/info/fusebox/2004/coupe-st-22_engine-2.4",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-sebring-2004-engine-2.4-genid-g2b-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "60A",
+     "Fuses No.5, 6, 10 (in junction block) circuit"
+    ],
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "Fan controller"
+    ],
+    [
+     "3",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "ABS-ECU"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch circuit, theft-alarm horn and relay"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuses No.1, 3 (in junction block) circuit, convertible top control module, power seat, power window main switch and motor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Combination meter and fog light"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Horn and horn relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Camshaft/crankshaft position sensors, distributor, EGR solenoid, engine control module, evap purge/vent solenoids, O2 sensor, idle air control motor, immobilizer-ECU, injector, MFI relay, PCM, variable induction solenoid, air flow sensor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor assembly and automatic compressor controller"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "ABS-ECU, auto-cruise ECU, capacitor, high-mounted stoplight, immobilizer-ECU, PCM, rear combination light"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Generator"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "ETACS-ECU"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "A/T control solenoid valve assembly and PCM"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Headlight (RH)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Headlight (LH)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Headlight (RH)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Headlight (LH)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "A/C switch, A/T selector illumination, ashtray light, compressor controller, combination meter, fog light switch, front combination light RH, glove box light, hazard switch, heater panel light, multi display, radio/tape/CD, rear combination light RH, rear side marker RH, rheostat"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Front combination light (LH), license plate light, rear combination light (LH), rear side marker (LH)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Column switch, combination meter, ETACS-ECU, front-ECU, motor antenna, multi display, radio/tape/CD, sunroof motor, vanity mirror light"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ETACS-ECU, motor antenna, radio, tape player and CD player"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump module"
+    ],
+    [
+     "U3",
+     "Relay",
+     "",
+     "Theft-alarm horn relay"
+    ],
+    [
+     "U4",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "U5",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "U6",
+     "Relay",
+     "",
+     "Fan control relay"
+    ],
+    [
+     "U7",
+     "Other",
+     "",
+     "Front-ECU"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-sebring-2004-engine-2.4-genid-g2b-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "MFI relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/T control relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-sebring-2004-engine-2.4-genid-g2b-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Sunroof motor assembly"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "30A",
+     "Capacitor, choke coil and defogger"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "30A",
+     "Automatic compressor controller, blower motor and resistor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Combination meter, data link connector and ETACS-ECU"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Capacitor, ETACS-ECU and rear wiper motor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "ABS-ECU, convertible top control module and sunroof motor assembly"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Remote controlled mirror"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Accessory socket, cigarette lighter and multi center display unit"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control module, fuel pump relay and powertrain control module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Front-ECU and windshield wiper motor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "A/C compressor relay, A/C switch, compressor controller, blower relay, defogger relay, front-ECU, air selection damper motor, water shut motor/valve controller"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Auto-cruise control-ECU and auto-cruise control switch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Backup light, combination meter, ETACS-ECU, input/output shaft speed sensors, PCM and SRS-ECU"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "Column switch, combination meter, ETACS-ECU, motor antenna, multi display, SRS-ECU and vehicle speed sensor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Capacitor, distributor assembly and ignition coil"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump relay (1)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay (2)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Defogger relay"
+    ]
+   ]
+  }
+ ]
+}

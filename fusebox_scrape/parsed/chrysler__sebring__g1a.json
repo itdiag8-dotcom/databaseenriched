@@ -1,0 +1,349 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "sebring",
+ "brand_db": "Chrysler",
+ "model_db_name": "SEBRING",
+ "model_id": 1251,
+ "trim_label": "",
+ "generation_name": "Coupe (PJ)",
+ "generation_code": "g1a",
+ "year_start": 1997,
+ "year_end": 2000,
+ "representative_year": 2000,
+ "source_url": "https://www.startmycar.com/chrysler/sebring/info/fusebox/2000/coupe-pj_body-coupe",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-sebring-2000-body-coupe-genid-g1a-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Amplifier"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Backup light, auto anti-glare mirror, combination meter, EATX-ECM, SRS diagnostic unit"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Turn-signal and hazard flasher unit"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Theft-alarm horn, theft-alarm horn relay"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger, rear window defogger switch"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Combination meter, auto-cruise main switch, auto-cruise speed control, ETACS-ECU, SRS diagnostic unit, sunroof-ECU"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "ETACS-ECU, intermittent wiper relay, windshield washer motor, wiper motor"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Data link connector, door lock actuator, door lock power relays 1 & 2"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "ABS-ECU, automatic compressor control module, blower motor relay, defogger relay, DRL control module"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Cigarette lighter [1995 MY only]"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Accessory socket, cigarette lighter [1996-2000 MY only]"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "20A",
+     "ELC-4 [1995 MY only]"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "20A",
+     "Sunroof control module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Blower motor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-sebring-2000-body-coupe-genid-g1a-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "120A",
+     "Generator"
+    ],
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "140A",
+     "Generator [1999-2000 California models only]"
+    ],
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Fuses 17, 20; passenger compartment fuses 1, 5, 6, 10, 11"
+    ],
+    [
+     "3",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Top chape"
+    ],
+    [
+     "5",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "MFI and ELC 4-speed automatic transaxle"
+    ],
+    [
+     "6",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "Headlight, fog light and taillight"
+    ],
+    [
+     "7",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Ignition switch, passenger compartment fuse 17"
+    ],
+    [
+     "8",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Radiator fan"
+    ],
+    [
+     "9",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "ABS"
+    ],
+    [
+     "10",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Power seat and power windows"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "Stop light, power seat and power windows, ABS, auto-cruise control system"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Hazard light, turn-signal light"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Glove box light, illumination light, license plate light, position light, rear combination light, rheostat, vanity mirror light"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "Fog light"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Headlight high beam, high beam indicator light"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "A/C compressor, automatic compressor control module"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Condenser fan motor"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Dome light, door-ajar warning light, ETACS-ECU, foot light, keyless entry, luggage light, radio, garage door opener, theft-alarm system"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "Radio, keyless entry system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Condenser fan (low speed)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Condenser fan (high speed)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Radiator fan (low speed)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Radiator fan (high speed No.1)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Radiator fan (high speed No.2) [Engine 2.5L]"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlight"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Taillight"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fog light"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "A/C compressor clutch"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Relays",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-sebring-2000-body-coupe-genid-g1a-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Remote controlled mirror"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Door mirror heaters"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Theft-alarm starter [A/T models only]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Theft alarm horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power window"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Theft-alarm starter [M/T models only]"
+    ]
+   ]
+  }
+ ]
+}

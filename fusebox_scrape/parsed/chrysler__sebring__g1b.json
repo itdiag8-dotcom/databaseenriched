@@ -1,0 +1,360 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "sebring",
+ "brand_db": "Chrysler",
+ "model_db_name": "SEBRING",
+ "model_id": 1251,
+ "trim_label": "",
+ "generation_name": "Convertible (JX)",
+ "generation_code": "g1b",
+ "year_start": 1996,
+ "year_end": 2001,
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/chrysler/sebring/info/fusebox/2001/convertible-jx",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-sebring-2001-genid-g1b-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "30A",
+     "Blower motor resistor block"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp, daytime running lamp (DRL) module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Right headlight, DRL module, right high beam output, headlight switch, body control module, dimmer switch high beam output"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Left headlamp, headlight switch"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "DRL module, power door lock switch, power top relay, backup lights, transmission range sensor, auto day/night mirror, power mirror switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Body control module, data link connector, door courtesy/lock switches, glove box lamp, illuminated entry relay, garage door opener, map lamp, power amplifier, power antenna, radio, trunk & vanity lamps"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "A/C heater control, heated mirrors, rear window defogger, VTSS"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Headlamp switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Instrument cluster, headlamp switch"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter / power outlet, horn relay, horn switches"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Body control module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Daytime running lamp (DRL) module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Body control module, instrument cluster, transmission control module, Autostick switch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp, DRL module, left low beam output"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Right headlamp, fog lamp switch, headlight switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Multifunction switch, rear defogger relay, seatbelt control module, combination flasher, intermittent wiper relay, wiper high/low relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Air bag control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Air bag control module"
+    ],
+    [
+     "18",
+     "Circuit breaker ATO",
+     "",
+     "Power seat switch, decklid release relay"
+    ],
+    [
+     "19",
+     "Circuit breaker ATO",
+     "",
+     "Power window"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-sebring-2001-genid-g1b-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Automatic shutdown relay, oxygen sensor 1/2 downstream"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "ABS system relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Transmission control module, transmission control relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Stop lamp switch, passenger compartment fuse 5"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Powertrain control module, automatic shutdown relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Combination flasher, Sentry Key immobilizer module, combined rear lighting module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch, instrument cluster VTSS set LED"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch, starter motor relay, starter motor, fuel pump relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor relay, evap/purge solenoid, radiator fan relays, instrument cluster indicators, leak detector, fuel pump module, Sentry Key module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake controller, fuel pump relay, PCM (ignition switched), passenger compartment fuse 17"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "20A",
+     "Seat belt control module"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "40A",
+     "Rear window defogger relay"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "40A",
+     "ABS pump motor relay"
+    ],
+    [
+     "14",
+     "Fuse MAXI",
+     "40A",
+     "Passenger compartment fuses 7, 8; intermittent wiper relay"
+    ],
+    [
+     "15",
+     "Fuse MAXI",
+     "40A",
+     "Fog lamp relay, headlight delay relay, headlamp switch, passenger compartment fuses 9, 10"
+    ],
+    [
+     "16",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "17",
+     "Fuse MAXI",
+     "40A",
+     "Power top up/down relays"
+    ],
+    [
+     "18",
+     "Fuse MAXI",
+     "40A",
+     "Intermittent wiper relay"
+    ],
+    [
+     "19",
+     "Fuse MAXI",
+     "40A",
+     "A/C compressor clutch relay, radiator fan relays"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Radiator fan (high speed)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Automatic shutdown"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Radiator fan (low speed)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Power top"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Intermittent wiper"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Wiper (high/low)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Transmission control"
+    ]
+   ]
+  }
+ ]
+}

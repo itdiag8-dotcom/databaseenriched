@@ -1,0 +1,209 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "sebring",
+ "brand_db": "Chrysler",
+ "model_db_name": "SEBRING",
+ "model_id": 1251,
+ "trim_label": "",
+ "generation_name": "3rd generation (JS)",
+ "generation_code": "g3",
+ "year_start": 2006,
+ "year_end": 2010,
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/chrysler/sebring/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Totally Integrated Power Module (TIPM)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-sebring-2010-genid-g3-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "AWD module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Battery feed - CHMSL / brake switch"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Battery feed - ignition switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow - if equipped"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "IOD - power mirror switch / climate controls"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Ignition off draw (IOD) sense 1"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Ignition off draw (IOD) sense 2"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery feed - power seats / PZEV air pump - if equipped"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Battery feed - cabin compartment node (CCN)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Selectable power outlet"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "IOD - cabin compartment node (CCN) / interior lighting"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery feed - radiator fan relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Ign run/acc - cigar lighter / power sunroof module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "IOD - wireless control module (WCM) / clock / steering control module (SCM)"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery feed - auto shutdown (ASD) relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "IOD - power amp feed 2 - if equipped"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "IOD - radio"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - climate controls / hot cupholder - if equipped"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Auto shutdown (ASD) relay feed 3"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "Battery feed - power sunroof feed"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - heated mirrors - if equipped"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Auto shutdown (ASD) relay feed 2"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - OCM / occupant restraint controller (ORC)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Ignition run - OCM / occupant restraint controller (ORC)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Ignition run - heated seats - if equipped"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auto shutdown (ASD) relay feed 1"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Battery feed - switch bank / diagnostic link connector / PCM"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery feed - ABS module / ESC module - if equipped"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery feed - ABS module / ESC module - if equipped"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery feed - passenger door module (PDM) / driver door module (DDM)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "25A",
+     "Power top module - if equipped"
+    ]
+   ]
+  }
+ ]
+}

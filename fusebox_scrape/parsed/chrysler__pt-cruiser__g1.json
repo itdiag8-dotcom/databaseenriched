@@ -1,0 +1,233 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "pt-cruiser",
+ "brand_db": "Chrysler",
+ "model_db_name": "PT CRUISER",
+ "model_id": 1248,
+ "generation_name": "1st generation (PT)",
+ "generation_code": "g1",
+ "year_start": 2001,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/chrysler/pt-cruiser/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Integrated power module (IPM)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-pt-cruiser-2010-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power top feed - convertible only"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "AWD ECU feed"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "CHMSL brake switch feed"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch feed"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "IOD switch / power mirror / OCM steering control / SDAR / HFM"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "IOD sense 1"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "IOD sense 2"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power seats"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "CCN, power locks"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Power outlet"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Ign run/acc inverter"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Power run/acc outlet rear"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "IOD CCN / interior lighting"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "Radiator fan relay battery feed"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Ign run/acc cigar lighter / sunroof"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "IOD feed CVT module / WCM"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "ASD relay contact power feed"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Power amp 1 & amp 2 feed"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "IOD feed radio"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "IOD feed intrusion module / siren"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Ign run HVAC / compass sensor"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Engine ASD relay feed 3"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "Power sunroof feed"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Engine ASD relay feed 2"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Ign run only ORC feed"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Ign run ORC/OCM feed"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Headlamp washer relay control"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine ASD control feed 1"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "ABS module / J1962 connector / PCM"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS valve feed"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump feed"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp washer control"
+    ]
+   ]
+  }
+ ]
+}
