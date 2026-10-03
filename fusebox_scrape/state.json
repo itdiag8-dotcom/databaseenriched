@@ -241,6 +241,58 @@
     "sq8",
     "tt-rs"
    ]
+  },
+  "austin": {
+   "status": "SKIPPED",
+   "note": "no Austin brand in car_database.db (models on site: healey, mini) \u2014 nothing to match"
+  },
+  "baic": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "changan": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "dongfeng": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "forthing": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "gac": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "hsv": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "jetour": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "jmev": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "kaiyi": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "kyc": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "leapmotor": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
+  },
+  "oldsmobile": {
+   "status": "SKIPPED",
+   "note": "brand not in car_database.db \u2014 nothing to match"
   }
  },
  "in_progress": {},
@@ -381,7 +433,7 @@
   ]
  },
  "last_updated": "2026-10-03",
- "current_brand": "austin",
+ "current_brand": "bmw",
  "audi_done_models": [
   "a1",
   "a2",
@@ -453,5 +505,9 @@
   "audi/s8",
   "audi/sq8",
   "audi/tt-rs"
- ]
+ ],
+ "brand_aliases": {
+  "lynk-co": "Lynk & Co",
+  "mercedes-benz": "Mercedes"
+ }
 }
