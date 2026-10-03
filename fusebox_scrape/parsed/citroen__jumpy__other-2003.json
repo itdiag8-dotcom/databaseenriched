@@ -1,0 +1,300 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "jumpy",
+ "brand_db": "Citroen",
+ "model_db_name": "Jumpy",
+ "model_id": 1283,
+ "generation_name": "Other versions",
+ "generation_code": "other-2003",
+ "year_start": 2003,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/citroen/jumpy/info/fusebox/2003",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Panel (left side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-jumpy-2003-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Fuel pump relay; additional fuel pump relay"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "25A",
+     "Headlight washer"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "20A",
+     "Diagnostic connector; trailer connector"
+    ],
+    [
+     "MF1",
+     "Fuse MAXI",
+     "70A",
+     "Main relay; passenger compartment fuse box; ignition switch; ADC panel (anti-start system)"
+    ],
+    [
+     "MF2",
+     "Fuse MAXI",
+     "70A",
+     "Passenger compartment fuse box; ignition switch; ADC panel (anti-start system); main relay"
+    ],
+    [
+     "MF3",
+     "Fuse MAXI",
+     "40A",
+     "Secondary air pump relay"
+    ],
+    [
+     "MF4",
+     "Fuse MAXI",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlight washer"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fan cooling relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cooling fan"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-jumpy-2003-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "10A",
+     "Public address system"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "5A",
+     "Ignition + position; speed sensor; HPC; instrument cluster warning lights"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "Brake lights; cruise control"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "10A",
+     "Right side light; left taillight; headlight leveling"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning; front power windows; blower; pressure switch"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "15A",
+     "Heated rear window; heated seat"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "20A",
+     "Alarm system"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "5A",
+     "Right side light; left taillight; license plate illumination; headlight washers"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "10A",
+     "Reverse lamps; diagnostic connector"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "5A",
+     "CPH"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "30A",
+     "HPC; central locking; interior lighting"
+    ],
+    [
+     "F16A",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter; permanent + position; accessories"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "15A",
+     "Coolant temperature control unit; fan"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "10A",
+     "Fog lights"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "10A",
+     "Instrument illumination; audio system; side lights"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Air conditioning; blower"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "20A",
+     "Accessories"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "30A",
+     "Windshield washer; windshield wiper"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning; interior light; radio memory; clock"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "15A",
+     "Hazard lights"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "15A",
+     "Power windows; charging warning light"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "15A",
+     "Interior lighting; turn signal indicators; clock; power rearview mirror"
+    ]
+   ]
+  }
+ ]
+}

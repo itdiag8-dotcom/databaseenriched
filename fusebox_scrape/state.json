@@ -1,6 +1,6 @@
 {
  "source": "https://www.startmycar.com",
- "strategy": "per-generation representative year page",
+ "strategy": "per-generation representative year page | USER RULE (from citroen/jumpy onward): only scrape generations overlapping year 2000+; skip gens entirely pre-2000.",
  "order": "alphabetical by startmycar make slug",
  "makes_total": [
   "abarth",
@@ -758,9 +758,11 @@
   "citroen/ds4": "done",
   "citroen/ds5": "done",
   "citroen/e-mehari": "no_data",
-  "citroen/grand-c4-picasso": "done"
+  "citroen/grand-c4-picasso": "done",
+  "citroen/grand-c4-spacetourer": "no_data",
+  "citroen/jumpy": "done"
  },
- "last_updated": "2026-10-03T23:08:59.033126",
+ "last_updated": "2026-10-03T23:24:07.257011",
  "current_brand": "citroen",
  "audi_done_models": [
   "a1",
@@ -894,7 +896,8 @@
   "citroen/c8",
   "citroen/dispatch-combi",
   "citroen/ds21",
-  "citroen/e-mehari"
+  "citroen/e-mehari",
+  "citroen/grand-c4-spacetourer"
  ],
  "brand_aliases": {
   "lynk-co": "Lynk & Co",
