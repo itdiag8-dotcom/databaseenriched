@@ -1,0 +1,747 @@
+{
+ "make_slug": "audi",
+ "model_slug": "r8",
+ "brand_db": "Audi",
+ "model_db_name": "R8 4S",
+ "model_id": 349,
+ "generation_name": "2nd generation",
+ "generation_code": "Type 4S",
+ "year_start": 2015,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/audi/r8/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Front passenger footwell fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-r8-2021-genid-g2-0.webp",
+   "fuses": [
+    [
+     "A1",
+     "Fuse ATO",
+     "5A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "A2",
+     "Fuse ATO",
+     "5A",
+     "Centre dash switch module, all-wheel drive, power steering, roof electronics control units"
+    ],
+    [
+     "A3",
+     "Fuse ATO",
+     "5A",
+     "Sensor electronics control unit"
+    ],
+    [
+     "A4",
+     "Fuse ATO",
+     "5A",
+     "Active steering control unit"
+    ],
+    [
+     "A5",
+     "Fuse ATO",
+     "10A",
+     "Garage door opener control panel + control unit"
+    ],
+    [
+     "A6",
+     "Fuse ATO",
+     "5A",
+     "Headlight range control unit, onboard power supply control unit, diagnostic socket"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "5A",
+     "ABS control unit"
+    ],
+    [
+     "A9",
+     "Fuse ATO",
+     "5A",
+     "Airbag control unit / seat occupied recognition control unit"
+    ],
+    [
+     "A10",
+     "Fuse ATO",
+     "5A",
+     "Air composition sensor, supply duct humidity sensor, high pressure sensor"
+    ],
+    [
+     "A11",
+     "Fuse ATO",
+     "15A",
+     "Headlight front left"
+    ],
+    [
+     "A12",
+     "Fuse ATO",
+     "15A",
+     "Engine noise generation control unit"
+    ],
+    [
+     "A13",
+     "Fuse ATO",
+     "15A",
+     "Headlight front right"
+    ],
+    [
+     "A14",
+     "Fuse ATO",
+     "5A",
+     "Electrochromic interior mirror"
+    ],
+    [
+     "A15",
+     "Fuse ATO",
+     "40A",
+     "Starter relays 1+2"
+    ],
+    [
+     "A16",
+     "Fuse ATO",
+     "30A",
+     "Fuse block 2 in fuse blocks B+D"
+    ],
+    [
+     "B3",
+     "Fuse MAXI",
+     "40A",
+     "Supply air fan control unit"
+    ],
+    [
+     "B4",
+     "Fuse MAXI",
+     "40A",
+     "On-board power supply control unit"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "5A",
+     "Emergency call module and communication unit control unit"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "5A",
+     "Rear view camera control unit [since November 2016]"
+    ],
+    [
+     "C1",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic connector"
+    ],
+    [
+     "C2",
+     "Fuse ATO",
+     "5A",
+     "Parking brake indicator lamp in parking brake button"
+    ],
+    [
+     "C3",
+     "Fuse ATO",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "C4",
+     "Fuse ATO",
+     "15A",
+     "Brake booster relay / brake vacuum pump"
+    ],
+    [
+     "C5",
+     "Fuse ATO",
+     "5A",
+     "Electronic toll system sensor"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "20A",
+     "Socket relay"
+    ],
+    [
+     "C7",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "C8",
+     "Fuse ATO",
+     "5A",
+     "Immobilizer reading coil"
+    ],
+    [
+     "C9",
+     "Fuse ATO",
+     "5A",
+     "Electric steering column lock control unit"
+    ],
+    [
+     "C10",
+     "Fuse ATO",
+     "5A",
+     "Emergency call module and communication unit control unit"
+    ],
+    [
+     "D3",
+     "Fuse ATO",
+     "5A",
+     "Sensor electronics control unit"
+    ],
+    [
+     "D4",
+     "Fuse ATO",
+     "5A",
+     "Power supply relay terminal 15"
+    ],
+    [
+     "D5",
+     "Fuse ATO",
+     "10A",
+     "Selector"
+    ],
+    [
+     "D7",
+     "Fuse ATO",
+     "5A",
+     "Roof electrical equipment control unit"
+    ],
+    [
+     "D8",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor control unit"
+    ],
+    [
+     "D9",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor control unit, front passenger side"
+    ],
+    [
+     "D10",
+     "Fuse ATO",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "D11",
+     "Fuse ATO",
+     "5A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "D12",
+     "Fuse ATO",
+     "5A",
+     "Light switch"
+    ],
+    [
+     "E1",
+     "Fuse ATO",
+     "10A",
+     "ABS control unit"
+    ],
+    [
+     "E2",
+     "Fuse ATO",
+     "20A",
+     "ABS control unit"
+    ],
+    [
+     "E3",
+     "Fuse ATO",
+     "10A",
+     "Front A/C control and display panel"
+    ],
+    [
+     "E4",
+     "Fuse ATO",
+     "5A",
+     "Vehicle positioning system interface control unit"
+    ],
+    [
+     "E5",
+     "Fuse ATO",
+     "30A",
+     "Driver's door control unit"
+    ],
+    [
+     "E6",
+     "Fuse ATO",
+     "30A",
+     "Front passenger door control unit"
+    ],
+    [
+     "E7",
+     "Fuse ATO",
+     "30A",
+     "Onboard power supply control unit: front seat heating"
+    ],
+    [
+     "E8",
+     "Fuse ATO",
+     "30A",
+     "Onboard power supply control unit: lighting front right"
+    ],
+    [
+     "E9",
+     "Fuse ATO",
+     "30A",
+     "Onboard power supply control unit: lighting front left"
+    ],
+    [
+     "E10",
+     "Fuse ATO",
+     "5A",
+     "Alarm sensor / alarm siren"
+    ],
+    [
+     "E11",
+     "Fuse ATO",
+     "20A",
+     "On-board power supply control unit"
+    ],
+    [
+     "E12",
+     "Fuse ATO",
+     "5A",
+     "Air humidity sensor / rain and light sensor"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "5A",
+     "Multimedia system control panel"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "5A",
+     "Electronic information system control unit 1 [with 9VS sound]"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "20A",
+     "Electronic information system control unit 1 [9VD without digital sound]"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "5A",
+     "Chip card reader control unit, belt microphone control unit, telephone holder [without chip card reader]"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "7.5A",
+     "Chip card reader control unit, belt microphone control unit, telephone holder [with chip card reader]"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Digital sound system control unit"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "7.5A",
+     "Rear view camera control unit [until October 2016]"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "5A",
+     "External audio devices connector [until Oct 2017] / USB splitter [since Nov 2017]"
+    ],
+    [
+     "3",
+     "Circuit breaker ATO",
+     "",
+     "Thermal fuse 1 driver's [LHD] / front passenger [RHD] seat adjustment"
+    ],
+    [
+     "5",
+     "Circuit breaker ATO",
+     "",
+     "Thermal fuse 1 front passenger [LHD] / driver's [RHD] seat adjustment"
+    ],
+    [
+     "R2.1",
+     "Relay",
+     "",
+     "Socket relay"
+    ],
+    [
+     "R2.2",
+     "Relay",
+     "",
+     "Brake booster relay"
+    ],
+    [
+     "R3.1",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Power supply relay terminal 15"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse panel on the left",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-r8-2021-genid-g2-1.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse ATO",
+     "7.5A",
+     "Air mass meters 1+2, intake air temperature sensor 2, secondary air injection valve, air filter bypass valve, exhaust flap valve 1, piston cooling valve, after-treatment coolant pump"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Camshaft adjustment valves 1+2 intake / 1+2 exhaust"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heating elements 1+2"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "7.5A",
+     "Secondary air pump relays 1+2, charcoal filter valves 1+2, electrohydraulic engine mount valves"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "Engine control units 1+2"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heating elements 1+2 after catalytic converter"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Oil level and temperature sensor"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "Radiator fans 1+2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Secondary air pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Secondary air pump relay 2"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse panel on the right",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-r8-2021-genid-g2-2.webp",
+   "fuses": [
+    [
+     "A1",
+     "Fuse MAXI",
+     "50A",
+     "Secondary air pump relay"
+    ],
+    [
+     "A2",
+     "Fuse MAXI",
+     "50A",
+     "Secondary air pump relay 2"
+    ],
+    [
+     "A5",
+     "Fuse ATO",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "B1",
+     "Fuse ATO",
+     "5A",
+     "DSG Mechatronik"
+    ],
+    [
+     "B2",
+     "Fuse ATO",
+     "5A",
+     "Automatic transmission control unit 2"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "5A",
+     "Engine control units 1+2"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "15A",
+     "DSG Mechatronik"
+    ],
+    [
+     "B7",
+     "Fuse ATO",
+     "5A",
+     "Engine control units 1+2"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "10A",
+     "Fuel metering valves 1+2"
+    ],
+    [
+     "B10",
+     "Fuse ATO",
+     "7.5A",
+     "Injectors 2, cylinders 6-10"
+    ],
+    [
+     "B11",
+     "Fuse ATO",
+     "7.5A",
+     "Injectors 2, cylinders 1-5"
+    ],
+    [
+     "B12",
+     "Fuse ATO",
+     "30A",
+     "Ignition coils 1-10 with output stages"
+    ],
+    [
+     "D",
+     "Fuse MAXI",
+     "40A",
+     "Engine electronics fuse"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine electronics power supply relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3.1",
+     "Relay",
+     "",
+     "Starter relay 2"
+    ],
+    [
+     "R3.2",
+     "Relay",
+     "",
+     "Starter relay 1"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-r8-2021-genid-g2-3.webp",
+   "fuses": [
+    [
+     "ST1-1",
+     "Fuse ATO",
+     "10A",
+     "Convertible roof drive control unit"
+    ],
+    [
+     "ST1-2",
+     "Fuse ATO",
+     "30A",
+     "Convertible roof drive control unit"
+    ],
+    [
+     "ST1-3",
+     "Fuse ATO",
+     "5A",
+     "Tire pressure monitoring control unit"
+    ],
+    [
+     "ST1-4",
+     "Fuse ATO",
+     "20A",
+     "Electronic damping control unit"
+    ],
+    [
+     "ST1-5",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "ST1-6",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "ST1-8",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump control unit"
+    ],
+    [
+     "ST1-10",
+     "Fuse ATO",
+     "5A",
+     "Brake light switch"
+    ],
+    [
+     "ST2-1",
+     "Fuse ATO",
+     "7.5A",
+     "TV tuner"
+    ],
+    [
+     "ST2-2",
+     "Fuse ATO",
+     "15A",
+     "Automatic transmission control unit 2"
+    ],
+    [
+     "ST2-3",
+     "Fuse ATO",
+     "20A",
+     "Convenience central control unit: soft-close/tailgate lock/fuel flap release/keyless entry"
+    ],
+    [
+     "ST2-5",
+     "Fuse ATO",
+     "30A",
+     "Convenience central control unit: rear right lighting"
+    ],
+    [
+     "ST2-6",
+     "Fuse ATO",
+     "20A",
+     "Rear spoiler adjustment control unit"
+    ],
+    [
+     "ST2-7",
+     "Fuse ATO",
+     "30A",
+     "Convenience central control unit: rear left lighting"
+    ],
+    [
+     "ST2-8",
+     "Fuse ATO",
+     "5A",
+     "Fuel tank leak diagnostic system control unit"
+    ],
+    [
+     "ST2-9",
+     "Fuse ATO",
+     "5A",
+     "Mobile phone amplifier"
+    ],
+    [
+     "ST2-10",
+     "Fuse ATO",
+     "5A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "ST2-11",
+     "Fuse ATO",
+     "10A",
+     "Rear lid release switch / rear lid central locking relay"
+    ],
+    [
+     "ST2-12",
+     "Fuse ATO",
+     "5A",
+     "Electronic damping control unit"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "20A",
+     "Rear window heating element [Spyder]"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "30A",
+     "Rear window heating element [Coupe]"
+    ],
+    [
+     "ST3-12",
+     "Fuse ATO",
+     "15A",
+     "Heating element for separating glass"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Interior relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-r8-2021-genid-g2-4.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear window heating relay J9"
+    ],
+    [
+     "R2.1",
+     "Relay",
+     "",
+     "Luggage compartment lid central locking relay J380"
+    ]
+   ]
+  }
+ ]
+}

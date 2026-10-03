@@ -1,0 +1,668 @@
+{
+ "make_slug": "audi",
+ "model_slug": "r8",
+ "brand_db": "Audi",
+ "model_db_name": "R8 42",
+ "model_id": 348,
+ "generation_name": "1st generation",
+ "generation_code": "Type 42",
+ "year_start": 2007,
+ "year_end": 2014,
+ "trim_label": "Coupe",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/audi/r8/info/fusebox/2014/trims-coupe",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger footwell fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-r8-2014-genid-g1-trims-coupe-0.webp",
+   "fuses": [
+    [
+     "B1",
+     "Fuse ATO",
+     "5A",
+     "VDA interface"
+    ],
+    [
+     "B2",
+     "Fuse ATO",
+     "5A",
+     "Heated windshield washer nozzle"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "5A",
+     "Audi parking system"
+    ],
+    [
+     "B4",
+     "Fuse ATO",
+     "10A",
+     "Engine compartment lid release"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic interface, light switch, Passenger Air Bag OFF lamp, selector lever"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "5A",
+     "Networking gateway"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "10A",
+     "Auto-dimming inside mirror, HomeLink, washer pump relay, power outlets relay"
+    ],
+    [
+     "B10",
+     "Fuse ATO",
+     "10A",
+     "Button"
+    ],
+    [
+     "B11",
+     "Fuse ATO",
+     "5A",
+     "Pressure sensor, climate controls"
+    ],
+    [
+     "B12",
+     "Fuse ATO",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "C1",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan (1)"
+    ],
+    [
+     "C2",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan (2)"
+    ],
+    [
+     "C3",
+     "Fuse MAXI",
+     "40A",
+     "Exterior lighting"
+    ],
+    [
+     "C4",
+     "Fuse MAXI",
+     "40A",
+     "Exterior lighting"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "40A",
+     "Blower regulator"
+    ],
+    [
+     "D1",
+     "Fuse MINI",
+     "5A",
+     "Rear view camera"
+    ],
+    [
+     "D2",
+     "Fuse MINI",
+     "10A",
+     "Tire pressure monitoring system"
+    ],
+    [
+     "D4",
+     "Fuse MINI",
+     "7.5A",
+     "Cell phone package, telephone antenna amplifier"
+    ],
+    [
+     "D5",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "D6",
+     "Fuse MINI",
+     "5A",
+     "Networking gateway"
+    ],
+    [
+     "D7",
+     "Fuse MINI",
+     "5A",
+     "Steering column lever"
+    ],
+    [
+     "D8",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic interface, brake pedal switch, selector lever"
+    ],
+    [
+     "D9",
+     "Fuse MINI",
+     "5A",
+     "Rain/light sensor"
+    ],
+    [
+     "D10",
+     "Fuse MINI",
+     "5A",
+     "Light switch"
+    ],
+    [
+     "D11",
+     "Fuse MINI",
+     "5A",
+     "Special functions control module"
+    ],
+    [
+     "D15",
+     "Fuse ATO",
+     "30A",
+     "Sound amplifier"
+    ],
+    [
+     "D16",
+     "Fuse ATO",
+     "20A",
+     "Radio"
+    ],
+    [
+     "E3",
+     "Fuse ATO",
+     "10A",
+     "After-run coolant relay + pump [V8 only]"
+    ],
+    [
+     "E5",
+     "Fuse ATO",
+     "30A",
+     "Supply terminal 15, starter"
+    ],
+    [
+     "E6",
+     "Fuse ATO",
+     "15A",
+     "Pump for brake booster"
+    ],
+    [
+     "E7",
+     "Fuse ATO",
+     "20A",
+     "Horn"
+    ],
+    [
+     "E8",
+     "Fuse ATO",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "E9",
+     "Fuse ATO",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "E10",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer system"
+    ],
+    [
+     "E12",
+     "Fuse ATO",
+     "20A",
+     "Power outlets and cigarette lighter"
+    ],
+    [
+     "F1",
+     "Fuse ATO",
+     "10A",
+     "Electronic Stabilization Program"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "25A",
+     "Electronic Stabilization Program"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "20A",
+     "Power locking system"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "20A",
+     "Interior lights, washer nozzles"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "5A",
+     "Anti-theft alarm system"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "10A",
+     "Climate controls"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "25A",
+     "Heated seats"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "10A",
+     "Lumbar support"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "30A",
+     "Control module for doors"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "10A",
+     "Control module for doors"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Control relay"
+    ],
+    [
+     "R2.1",
+     "Relay",
+     "",
+     "Power sockets relay"
+    ],
+    [
+     "R2.2",
+     "Relay",
+     "",
+     "Brake servo relay / additional coolant pump relay"
+    ],
+    [
+     "R3.1",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3.2",
+     "Relay",
+     "",
+     "Headlight washer system relay"
+    ],
+    [
+     "R4.1",
+     "Relay",
+     "",
+     "Continued coolant circulation relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear lid central locking relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Terminal 15 voltage supply relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse holder C [V8]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-r8-2014-genid-g1-trims-coupe-1.webp",
+   "fuses": [
+    [
+     "ST1-3",
+     "Fuse ATO",
+     "30A",
+     "Electronically controlled damping control unit"
+    ],
+    [
+     "ST1-4",
+     "Fuse ATO",
+     "25A",
+     "Automatic gearbox control unit"
+    ],
+    [
+     "ST1-5",
+     "Fuse ATO",
+     "30A",
+     "Gearbox hydraulic pump relay / pressure sender"
+    ],
+    [
+     "ST1-6",
+     "Fuse ATO",
+     "5A",
+     "Engine control units 1+2"
+    ],
+    [
+     "ST1-9",
+     "Fuse ATO",
+     "5A",
+     "Electronically controlled damping control unit"
+    ],
+    [
+     "ST1-10",
+     "Fuse ATO",
+     "5A",
+     "Oil level and oil temperature sender"
+    ],
+    [
+     "ST1-11",
+     "Fuse ATO",
+     "5A",
+     "Engine control units 1+2"
+    ],
+    [
+     "ST1-12",
+     "Fuse ATO",
+     "10A",
+     "Automatic gearbox control unit / reversing light switch"
+    ],
+    [
+     "ST1-12",
+     "Fuse ATO",
+     "5A",
+     "Automatic gearbox control unit / reversing light switch"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "5A",
+     "Radiator fans 1+2"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "5A",
+     "Brake light/pedal switches, clutch position sender"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "15A",
+     "Injectors"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "30A",
+     "Ignition coils"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "10A",
+     "Inlet/exhaust camshaft control valves 1+2"
+    ],
+    [
+     "ST3-7",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe + heater [from July 2010]"
+    ],
+    [
+     "ST3-8",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe after catalytic converter + heater [from July 2010]"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "15A",
+     "Air mass meter, charcoal filter valve 1, secondary air inlet valve, right engine mount valve, fuel metering valve, intake manifold flap valve, exhaust flap 1 valve, fuel diagnostic pump"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe + heater [from June 2010]"
+    ],
+    [
+     "ST3-12",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe after catalytic converter + heater [from June 2010]"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse holder C [V10]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-r8-2014-genid-g1-trims-coupe-2.webp",
+   "fuses": [
+    [
+     "ST1-3",
+     "Fuse ATO",
+     "30A",
+     "Electronically controlled damping control unit"
+    ],
+    [
+     "ST1-4",
+     "Fuse ATO",
+     "25A",
+     "Automatic gearbox control unit"
+    ],
+    [
+     "ST1-5",
+     "Fuse ATO",
+     "30A",
+     "Gearbox hydraulic pump relay / pressure sender"
+    ],
+    [
+     "ST1-6",
+     "Fuse ATO",
+     "5A",
+     "Engine control units 1+2"
+    ],
+    [
+     "ST1-9",
+     "Fuse ATO",
+     "5A",
+     "Electronically controlled damping control unit"
+    ],
+    [
+     "ST1-10",
+     "Fuse ATO",
+     "5A",
+     "Oil level and oil temperature sender"
+    ],
+    [
+     "ST1-11",
+     "Fuse ATO",
+     "5A",
+     "Engine control units 1+2"
+    ],
+    [
+     "ST1-12",
+     "Fuse ATO",
+     "10A",
+     "Automatic gearbox control unit / reversing light switch"
+    ],
+    [
+     "ST1-12",
+     "Fuse ATO",
+     "5A",
+     "Automatic gearbox control unit / reversing light switch"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "5A",
+     "Radiator fans 1+2"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "5A",
+     "Brake light/pedal switches, clutch position sender"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "15A",
+     "Injectors"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "30A",
+     "Ignition coils"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "10A",
+     "Inlet/exhaust camshaft control valves 1+2, intake manifold flap valve"
+    ],
+    [
+     "ST3-7",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heaters 1+2"
+    ],
+    [
+     "ST3-8",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heaters 1+2 after catalytic converter"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "15A",
+     "Intake air temp senders 1+2, air mass meters 1+2, secondary air pump relay, charcoal filter valves 1+2, secondary air inlet valve, engine mount valves, fuel metering valves 1+2, intake manifold change-over valve, fuel diagnostic pump"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Point relay and fuse carrier",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-r8-2014-genid-g1-trims-coupe-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "50A",
+     "Secondary air pump fuse"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "40A",
+     "Fuel pump fuse"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "50A",
+     "Secondary air pump fuse 2"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "80A",
+     "Convertible roof actuation fuse"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Motronic current supply relay [slot 1]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Terminal 15 relay [slot 2.1, R8 GT Race Package]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter motor relay [slot 3]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter motor relay 2 [slot 4]"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Secondary air pump relay [slot 5]"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Engine components current supply relay [slot 6]"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Gearbox hydraulic pump relay [slot 7]"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Secondary air pump relay 2 [slot 8]"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Emergency off relay [slot 9.1] / Motronic supply relay 2 [slot 9.2] [R8 GT Race Package]"
+    ]
+   ]
+  }
+ ]
+}
