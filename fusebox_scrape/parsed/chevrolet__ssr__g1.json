@@ -1,0 +1,577 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "ssr",
+ "brand_db": "Chevrolet",
+ "model_db_name": "SSR",
+ "model_id": 1197,
+ "generation_name": "1st generation (GMT368)",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/chevrolet/ssr/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-ssr-2004-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(A/C) Air conditioning relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(BTSI) Stop lamp switch, automatic transmission shift lock actuator"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(CANISTER) EVAP canister vent solenoid"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(COILS) HDLP-HI relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(CRNK) Powertrain control module (PCM)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "(ENG 1) EVAP canister purge solenoid, IAT/MAF sensor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(HI HDLP-LT) Left high beam headlamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(HI HDLP-RT) Right high beam headlamp"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(IGN E) Cooling fan relays, PNP switch, inside rear view mirror, stop lamp switch, IPC, turn signal/multifunction switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "(IPC/DIC) Instrument panel cluster"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(LOW HDLP-LT) Left low beam headlamp - DRL"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(LOW HDLP-RT) Right low beam headlamp - DRL"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(PCM I) Powertrain control module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(AIRBAG) Inflatable restraint SDM, I/P module disable switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(TBC 1) Body control module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(TBC IGN 1) Body control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(L-ST/TRN) Left tail/stop and turn signal lamp, trailer tow feed"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(R-ST/TRN) Right tail/stop and turn signal lamp, trailer tow feed"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(BCK/UP) Park/neutral position switch"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(ETC) Throttle actuator control (TAC) module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "(FOG LP) Fog lamp relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(INJ A) Left bank ignition coils and fuel injectors"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "(INJ B) Right bank ignition coils and fuel injectors"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "(O2A) HO2S1 bank 1 and 2"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "(O2B) HO2S2 bank 1 and 2"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "(W/S WASH) Windshield washer relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "(LTR) Data link connector, cigar lighter"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "(PCM B) Fuel pump relay, PCM"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "(BED COVER RELEASE) Bed cover release relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "(FLASH) Turn signal/hazard flasher module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "25A",
+     "(ST/LP) Turn signal/hazard flasher module, VEH CHMSL fuse"
+    ],
+    [
+     "34",
+     "Relay",
+     "",
+     "(A/C) A/C compressor clutch, PCM"
+    ],
+    [
+     "35",
+     "Relay",
+     "",
+     "(F/PMP) Fuel pump"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "(FOG LP) Front fog lamps"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "(HDLP-HI) Body control module"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "(BED COVER RELEASE) Rear compartment lid release switch"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "(HORN) Horns"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "(W/S WASH) Windshield washer fluid pump"
+    ],
+    [
+     "41",
+     "Relay",
+     "",
+     "(HDM) Low beam headlamps"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "(IGN 1) INJ A, INJ B and TAC fuses"
+    ],
+    [
+     "43",
+     "Relay",
+     "",
+     "(STRTR) Starter solenoid"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "60A",
+     "(ENG CLN FAN) Cooling fan 1 and 2 relays"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BLWR) Blower motor"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IGN A) Starter relay, ignition switch"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IGN B) Ignition switch"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "60A",
+     "(ABS) Electronic brake control module"
+    ],
+    [
+     "49",
+     "Fuse MEGA",
+     "125A",
+     "(I/P BATT) Fuse block - rear"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-ssr-2004-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "30A",
+     "(R/DEFG) Defrost relay, rear defogger relay"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "(DEFG CONT) Outside rear view mirrors, rear defogger relay"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "(DR SEAT MOD) Memory seat module - driver"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "(TBC 3) Body control module"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "(TBC 2) Body control module"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "(DDM) Outside rear view mirror switch, driver door unlock relay"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "25A",
+     "(AMP) Audio amplifier"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "(DRL) DRL relays"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "(LR PRK) Left rear park lamps"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "(VEH CHMSL) Center high mounted stop lamp"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "(RR PRK) Right rear park lamps"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "(AUX PWR 2) Auxiliary power outlet - rear"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "(LOCKS) Lock and unlock relays"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "(UGDO) Inside rear view mirror"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "(RDM 2) Roof door module"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "(TBC 4CC) Body control module"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "(FT WPR) Windshield wiper motor"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "(RKE) Remote control door lock receiver"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop lamps"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "(HVAC B DD UNLOCK) HVAC control module"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "(F/PRK) Front park lamps"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "(L/TURN) Left turn lamps"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "(HVAC I) HVAC control module, turn signal multifunction switch, air temperature sensor, center switch console"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "(TBC 4) Body control module"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "(RDO) Radio"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "(TR PRK) Trailer tow park lamps feed"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "(R/TURN) Right turn lamps"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "(AUX PWR) Auxiliary power outlets"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "(IGN 0) Retractable roof, PCM, automatic transmission"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "(TBC IG) Body control module"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "10A",
+     "(BRK) Electronic brake control module"
+    ],
+    [
+     "F50",
+     "Circuit breaker ATO",
+     "",
+     "(ROOF-DOOR MOD) Roof door module"
+    ],
+    [
+     "F51",
+     "Circuit breaker ATO",
+     "",
+     "(ROOF PUMP) Retractable roof motor relays"
+    ],
+    [
+     "F52",
+     "Circuit breaker ATO",
+     "",
+     "(SEATS) Seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(LOCK) Power door lock"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(UNLOCK) Power door unlock"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(PRK LP) Park lamps"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(DEFROST) Rear defogger, outside rear view mirrors"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Relay Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-ssr-2004-genid-g1-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Driver door unlock control"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Right daytime running lamp control"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Left daytime running lamp control"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window defogger grid"
+    ]
+   ]
+  }
+ ]
+}
