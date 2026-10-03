@@ -1,0 +1,486 @@
+{
+ "make_slug": "dodge",
+ "model_slug": "intrepid",
+ "brand_db": "Dodge",
+ "model_db_name": "Intrepid",
+ "model_id": 1450,
+ "generation_name": "2nd generation (\"LH\")",
+ "generation_code": "g2",
+ "year_start": 1998,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/dodge/intrepid/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-intrepid-2004-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module, cluster, data link connector, Autostick switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (high beam), DRL module [except export], headlamp flasher [Police]"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (high beam), headlamp flasher [Police]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Wiper switch, headlamp flasher [Police], body control module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter, decklid release switch [Police]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Cluster, headlamp dimmer switch, park lamp relay (park/turn lamps, BCM, license lamp, tail lamps)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Combination flasher (turn signal)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Right headlamp (low beam) [to 2004]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (low beam) [1999-2001]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Headlamp dimmer switch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Left headlamp (low beam), DRL module [to 2004]"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (low beam), DRL module [1999-2001]"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay, powertrain control module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Cluster, BTSI solenoid, immobilizer module, overhead travel info system, auto day/night mirror, sunroof control module, BCM, power mirror switch, heated seat switches"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lamp module [except export]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Headlamp switch, front fog lamp relay, body control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Transmission range sensor, ABS, temperature control head, DRL module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Horn relay, data link connector, power amplifier"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Glove box lamp, trunk lamp, BCM, interior lamps, radio, immobilizer, window/lock switches [to 2004]"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Glove box lamp, trunk lamp, BCM, interior lamps, radio, immobilizer, window/lock switches [1999-2001]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Stop lamp switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch relay, radiator fan relays (high/low speed)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module, side impact airbag control modules"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "30A",
+     "Blower motor power module (ATC), blower motor resistor block (MTC)"
+    ],
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Driver power window switch"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Power seat switches, memory heated seat/mirror module, door lock/unlock relays"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Park lamp relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp (high beam) relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamp (low beam) relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Door unlock relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Door lock relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Driver door unlock relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-dodge-intrepid-2004-genid-g2-1.webp",
+   "fuses": [
+    [
+     "A",
+     "Fuse FMX/JCase",
+     "50A",
+     "Rear window defogger relay, BCM, manual temperature control head"
+    ],
+    [
+     "B",
+     "Fuse FMX/JCase",
+     "40A",
+     "A/C compressor clutch relay, radiator fan relay high speed [to 2004]"
+    ],
+    [
+     "B",
+     "Fuse FMX/JCase",
+     "30A",
+     "A/C compressor clutch relay, radiator fan relay high speed [1999-2001]"
+    ],
+    [
+     "C",
+     "Fuse FMX/JCase",
+     "30A",
+     "High beam headlamp relay (fuses 2, 3), fuses 15, 16"
+    ],
+    [
+     "D",
+     "Fuse FMX/JCase",
+     "40A",
+     "Low beam headlamp relay (fuses 10-12), CB2, door lock/unlock relays"
+    ],
+    [
+     "E",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan relay (low speed)"
+    ],
+    [
+     "F",
+     "Fuse FMX/JCase",
+     "20A",
+     "Spare relay"
+    ],
+    [
+     "F",
+     "Fuse FMX/JCase",
+     "50A",
+     "[Police]: fuses U, X, Y"
+    ],
+    [
+     "G",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter relay, fuel pump relay, ignition switch (fuses 1, 4-6, 13, 14, 21, 22, V)"
+    ],
+    [
+     "H",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS"
+    ],
+    [
+     "I",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuses 19, 20"
+    ],
+    [
+     "J",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch (fuses 8, 9, 17, 23, CB1)"
+    ],
+    [
+     "K",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "L",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fuses 7, 18"
+    ],
+    [
+     "M",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front wiper on/off relay, front wiper high/low relay, BCM"
+    ],
+    [
+     "N",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic shut down relay, powertrain control module"
+    ],
+    [
+     "O",
+     "Fuse ATO",
+     "20A",
+     "Combination flasher (hazard)"
+    ],
+    [
+     "P",
+     "Fuse ATO",
+     "30A",
+     "[Export]: headlamp washer relay, BCM"
+    ],
+    [
+     "P",
+     "Fuse ATO",
+     "30A",
+     "[Police]: Police accessory"
+    ],
+    [
+     "Q",
+     "Fuse ATO",
+     "20A",
+     "Transmission control relay"
+    ],
+    [
+     "R",
+     "Fuse ATO",
+     "20A",
+     "[Export]: rear fog lamp relay"
+    ],
+    [
+     "R",
+     "Fuse ATO",
+     "30A",
+     "[Police]: Police accessory"
+    ],
+    [
+     "S",
+     "Fuse ATO",
+     "20A",
+     "Fuel injector, ignition coil, capacitor, short runner valve solenoid [3.5L], manifold tuning valve"
+    ],
+    [
+     "T",
+     "Fuse ATO",
+     "20A",
+     "Powertrain control module"
+    ],
+    [
+     "U",
+     "Fuse MINI",
+     "20A",
+     "[Police]: Police accessory"
+    ],
+    [
+     "V",
+     "Fuse MINI",
+     "10A",
+     "Starter relay, powertrain control module"
+    ],
+    [
+     "W",
+     "Fuse MINI",
+     "10A",
+     "Automatic shut down relay"
+    ],
+    [
+     "X",
+     "Fuse MINI",
+     "20A",
+     "[Police]: spot lamp no.1"
+    ],
+    [
+     "Y",
+     "Fuse MINI",
+     "20A",
+     "[Police]: spot lamp no.2, underhood lamp"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Front wiper on/off relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Transmission control relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "[Export]: rear fog lamp relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Front wiper high/low relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "[Export]: headlamp washer relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Radiator fan relay (low speed)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Automatic shut down relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Radiator fan relay (high speed)"
+    ]
+   ]
+  }
+ ]
+}
