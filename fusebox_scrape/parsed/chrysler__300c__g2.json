@@ -1,0 +1,486 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "300c",
+ "brand_db": "Chrysler",
+ "model_db_name": "300C",
+ "model_id": 1219,
+ "generation_name": "2nd generation (LD)",
+ "generation_code": "g2",
+ "year_start": 2011,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/chrysler/300c/info/fusebox",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-300-2023-genid-g2-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Radiator fan [6.2L & Police]"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Electric power steering #1 [if equipped]"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Anti-lock brake"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "20A",
+     "Police ignition run/ACC #1"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "Police ignition run/ACC #2"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "All-wheel drive module [if equipped]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Intrusion module (300) [if equipped] / underhood lamp - Police"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Horns"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "50A",
+     "Radiator fan #2"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "50A",
+     "Electric power steering #2"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "20A",
+     "Police battery feed #2"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "Police battery feed #3"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "20A",
+     "Police battery feed #1"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "20A",
+     "Police ignition run/ACC feed #3"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Auto trans (Challenger/Police)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "25A",
+     "Engine module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "25A",
+     "ASD feed #1"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "ASD feed #2"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake module / steering column lock module [if equipped]"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Engine controller"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Airbag module"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch / EPS / vacuum pump [if equipped]"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "AWD module / front axle disconnect [if equipped]"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "20A",
+     "Vacuum pump +"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "5A",
+     "Adaptive cruise control"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear interior fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-300-2023-genid-g2-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "60A",
+     "Front PDC feed #1"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "60A",
+     "Front PDC feed #2"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Dome lamp - Police"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Exterior lighting #1"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Exterior lighting #2"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Interior lighting"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power locks"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver door control module"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger door control module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter / IP APO / rear USB (selectable fuse)"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "20A",
+     "Left spot lamp - Police"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "20A",
+     "Right spot lamp - Police"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "VISM module [Police]"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel pump [non 6.2L ADR]"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Cyber gateway module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Fuel door switch / diagnostic port"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Integrated center stack"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Tire pressure monitor"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Trans module [Charger/300]"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "25A",
+     "Amplifier [if equipped]"
+    ],
+    [
+     "31",
+     "Circuit breaker MINI",
+     "",
+     "Power seats"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "HVAC module / cluster"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch / wireless module / steering column lock module / remote start [if equipped]"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Steering column module / clock (300)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Battery sensor"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Active exhaust valve"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Media hub / console APO"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel pump #1 [6.2L ADR]"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel pump #2 [6.2L ADR]"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defrost"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats / heated steering wheel [if equipped]"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Park assist / blind spot / rear view camera [if equipped]"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "Cluster / rearview mirror / lane departure"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Adaptive front lighting / daytime running lamps"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "Active suspension [6.4L (if equipped) / 6.2L]"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "20A",
+     "Front heated / vented seats [if equipped]"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "10A",
+     "Heated cup holders / rear heated seat switches [if equipped]"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "HVAC module / in-vehicle temperature sensor"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "10A",
+     "Airbag module"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "20A",
+     "Adjustable pedals - Police"
+    ],
+    [
+     "64",
+     "Circuit breaker MINI",
+     "",
+     "Rear windows [Charger/300]"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "Airbag module"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "10A",
+     "Rain & light sensor / sunroof / inside rearview mirror / Police run ACC"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "10A",
+     "Rear USB timer / rear sunshade"
+    ]
+   ]
+  }
+ ]
+}
