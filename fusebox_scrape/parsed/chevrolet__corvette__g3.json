@@ -1,0 +1,101 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "corvette",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Corvette",
+ "model_id": 1123,
+ "generation_name": "C3",
+ "generation_code": "C3",
+ "year_start": 1980,
+ "year_end": 1982,
+ "trim_label": "",
+ "representative_year": 1982,
+ "source_url": "https://www.startmycar.com/chevrolet/corvette/info/fusebox/1982",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-corvette-1982-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument panel lights"
+    ],
+    [
+     "4",
+     "Circuit breaker ATO",
+     "",
+     "Power windows"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "25A",
+     "Heater and air conditioner"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Electronic control module"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "25A",
+     "Windshield wipers and washers"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "Stop and hazard lights, key warning buzzer"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "Gauges, warning lights, seat belt buzzer light, power window relay, cruise control"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "30A",
+     "Parking, side marker, engine compartment and tail lights"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Radio"
+    ],
+    [
+     "14",
+     "Circuit breaker ATO",
+     "",
+     "Power accessories"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "20A",
+     "Turn signals and backup lights"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Clock, cigar lighter, anti-theft alarm, dome/courtesy/glove box lights, horn relay, power door locks"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "Auxiliary cooling fan"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,684 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "corvette",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Corvette",
+ "model_id": 1123,
+ "generation_name": "Stingray (C7)",
+ "generation_code": "C7",
+ "year_start": 2014,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/chevrolet/corvette/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-corvette-2019-genid-g7-0.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "",
+     "ECM power ignition 2"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "",
+     "Front HVAC"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "",
+     "ABS pump"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "",
+     "ECM power ignition"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "",
+     "Transmission cooling rear fan 2"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Heated seat module battery supply"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Column lock module"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Steering tilt and telescope"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "CGM"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Fuel injector control module power ignition 1"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "",
+     "Integrated chassis control module / automatic occupant sensing"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Glove box door"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Engine inside position / ECM power ignition 3"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "HVAC controls"
+    ],
+    [
+     "F29",
+     "Fuse FMM/MCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Body control module 5"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Heated seat module / run-crank supply"
+    ],
+    [
+     "F32",
+     "Fuse FMM/MCase",
+     "",
+     "Starter"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F39",
+     "Fuse ATO",
+     "",
+     "Intrusion module / human machine interface module"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "",
+     "Steering column lock"
+    ],
+    [
+     "F41",
+     "Fuse FMM/MCase",
+     "",
+     "ABS valves"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "",
+     "Fuel tank zone module batt"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "Center stack"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "",
+     "Auxiliary outlet"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "",
+     "Display"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "",
+     "Interior rearview mirror"
+    ],
+    [
+     "F49",
+     "Fuse FMX/JCase",
+     "",
+     "Logistics"
+    ],
+    [
+     "F50",
+     "Fuse ATO",
+     "",
+     "Engine / transmission"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "",
+     "Ignition - odd"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "",
+     "Ignition - even"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "",
+     "Fuel pump prime / miscellaneous powertrain loads"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "",
+     "Fuel injector control module power ignition 2"
+    ],
+    [
+     "F55",
+     "Fuse FMM/MCase",
+     "",
+     "Engine control module 1"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "",
+     "Data link connector"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "",
+     "Seat fan"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "",
+     "Fuel pump power module"
+    ],
+    [
+     "F65",
+     "Fuse ATO",
+     "",
+     "Cluster"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "",
+     "Exhaust valve 1"
+    ],
+    [
+     "F71",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F73",
+     "Fuse MINI",
+     "",
+     "Fuel tank zone module ignition"
+    ],
+    [
+     "F74",
+     "Fuse MINI",
+     "",
+     "Headlamp wash"
+    ],
+    [
+     "F75",
+     "Fuse MINI",
+     "",
+     "AC clutch"
+    ],
+    [
+     "F76",
+     "Fuse MINI",
+     "",
+     "Rear transmission coolant pump"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "",
+     "Engine outside position"
+    ],
+    [
+     "F78",
+     "Fuse ATO",
+     "",
+     "Engine control module 2 / transmission control module"
+    ],
+    [
+     "F79",
+     "Fuse FMM/MCase",
+     "",
+     "Electric parking brake"
+    ],
+    [
+     "F81",
+     "Fuse MINI",
+     "",
+     "Continuous variable real time dampening"
+    ],
+    [
+     "F82",
+     "Fuse MINI",
+     "",
+     "Intercooler"
+    ],
+    [
+     "F83",
+     "Fuse MINI",
+     "",
+     "Left headlamp"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "",
+     "Right headlamp"
+    ],
+    [
+     "F85",
+     "Fuse ATO",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "",
+     "Washer pump"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "",
+     "Exhaust valve 2"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "",
+     "Reverse lockout"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "",
+     "Electronic limited slip differential 1"
+    ],
+    [
+     "F92",
+     "Fuse FMX/JCase",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "F93",
+     "Fuse MINI",
+     "",
+     "Transmission cooling rear fan 1"
+    ],
+    [
+     "F94",
+     "Fuse FMX/JCase",
+     "",
+     "Electronic limited slip differential 2"
+    ],
+    [
+     "F95",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F97",
+     "Fuse MINI",
+     "",
+     "Canister vent valve"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Front wiper, low-high"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "Run-crank"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Front wiper on/off"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Fuel pump prime"
+    ],
+    [
+     "K11",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "K17",
+     "Relay",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "K15",
+     "Relay",
+     "",
+     "AC control"
+    ],
+    [
+     "K18",
+     "Relay",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "K21",
+     "Relay",
+     "",
+     "Low beam headlamps"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-corvette-2019-genid-g7-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Window"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Passive entry/passive start 2"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Passive entry/passive start 1"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "GBS"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Steering wheel"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Exterior rearview mirror"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Sensing diagnostic module/automatic occupant sensing"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Logistics 2"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Integrated chassis control module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Rear accessory power outlet"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Memory seat module/convertible top"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Theft deterrent PSM"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Trunk release module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "OnStar (if equipped)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Camera module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Fuel pump power module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Trunk release module latch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Battery regulated voltage control"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Convertible top solenoid"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Passenger window switch"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Front accessory power outlet"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front accessory power outlet"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Theft (door lock security)"
+    ]
+   ]
+  }
+ ]
+}
