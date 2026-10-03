@@ -1,0 +1,677 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "528",
+ "brand_db": "BMW",
+ "model_db_name": "528i",
+ "model_id": 632,
+ "generation_name": "3rd generation",
+ "generation_code": "E39",
+ "year_start": 1996,
+ "year_end": 2000,
+ "trim_label": "",
+ "representative_year": 2000,
+ "source_url": "https://www.startmycar.com/bmw/528/info/fusebox/2000",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse box in the engine compartment (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-528-2000-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Engine control module"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "",
+     "Engine control module fuse"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Engine control module relay"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Windscreen wiper motor relay I"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Windscreen wiper motor relay II"
+    ],
+    [
+     "7",
+     "Relay",
+     "",
+     "Air conditioning condenser blower motor relay I"
+    ],
+    [
+     "8",
+     "Relay",
+     "",
+     "Air conditioning condenser blower motor relay III"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "ABS relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse box in the engine compartment (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-528-2000-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Engine control module (ECM)"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Engine control (EC) relay"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Ignition coil relay \u2013 except 520i 6S1/525i/530i"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Windscreen wiper motor relay 1"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Windscreen wiper motor relay 2"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "Secondary air injection (AIR) pump relay"
+    ],
+    [
+     "F1",
+     "Fuse MINI",
+     "30A",
+     "ECM, EVAP canister purge valve, MAF sensor, camshaft position sensor 1, engine coolant thermostat (535i/540i)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "30A",
+     "AIR pump, intake manifold air control solenoid, injectors, ECM, EVAP purge valve, CMP actuators 1 & 2, idle speed control actuator"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "20A",
+     "Crankshaft position sensor, camshaft position sensors 1 & 2, MAF sensor"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "30A",
+     "Heated oxygen sensors (HO2S), transmission control module (TCM)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "30A",
+     "Ignition coil relay \u2013 except 520i (22 6S1)/525i/530i"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse box in the glove compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-528-2000-genid-g3-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor relay"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "30A",
+     "Headlamp washers"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Multifunction control module"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "30A",
+     "Electric door mirror, passenger's side"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "AC/heater control module"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment, passenger's side"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "7.5A",
+     "Multifunction control module \u2013 variable power steering"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "Immobilizer"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment driver's side, steering column adjustment"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "7.5A",
+     "TCM, engine oil level sensor, alternator, electrics box temperature switch [530d]"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "5A",
+     "Lamps control module"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Fuel pump relay, ABS control module, multi switch assembly"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "5A",
+     "Overvoltage protection relay 2"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "5A",
+     "AC/heater control module, heated rear window relay, tyre pressure monitor control module"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "7.5A",
+     "AC/heater control module, heated rear window relay, tyre pressure monitor control module"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "5A",
+     "Cigarette lighter relay, seat/steering column adjustment relay, garage door opener, parking aid module, anti-dazzle interior mirror"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump relay [530d/520i (22 6S1)/525i/530i]"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "7.5A",
+     "Digital multifunction display, rear"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel, tyre pressure monitor control module, steering position sensor"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "7.5A",
+     "Digital multifunction display"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "30A",
+     "Multifunction control module"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "Automatic transmission (AT)"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "30A",
+     "Door function control module, driver's side"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "25A",
+     "ABS control module"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "10A",
+     "Fuel pump relay, ABS control module, secondary air injection (AIR) pump relay [petrol]"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "25A",
+     "Multi switch assembly"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "10A",
+     "Multifunction steering wheel/airbag assembly, heated steering wheel"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "5A",
+     "AC condenser blower motor, rear"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "5A",
+     "Immobilizer control module"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "5A",
+     "Multifunction control module, horn relay, rain sensor, transmission shift hold switch (AT), data link connector (DLC)"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "7.5A",
+     "Vanity mirror lamps, rechargeable torch"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel, seat adjustment control module, airbag crash sensor, driver's seat belt contact switch"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "5A",
+     "Lamps control module, clutch pedal position switch, brake pedal position switch"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "5A",
+     "SRS control module"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "5A",
+     "Overvoltage protection relay 1"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "5A",
+     "Multifunction steering wheel/airbag assembly, steering wheel, digital multifunction displays front/rear"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "7.5A",
+     "Multi switch assembly"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Relay block in the glove compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-528-2000-genid-g3-3.webp",
+   "fuses": [
+    [
+     "F75",
+     "Fuse MAXI",
+     "50A",
+     "AC condenser blower motor / engine coolant blower motor"
+    ],
+    [
+     "F76",
+     "Fuse MAXI",
+     "40A",
+     "AC/heater blower control module"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp washer pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Seat adjustment relay / steering column adjustment relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Heater blower relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Block in the footwell",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-528-2000-genid-g3-4.webp",
+   "fuses": [
+    [
+     "F107",
+     "Fuse MIDI",
+     "50A",
+     "Secondary air injection (AIR) pump relay"
+    ],
+    [
+     "F108",
+     "Fuse MIDI",
+     "50A",
+     "ABS control module"
+    ],
+    [
+     "F109",
+     "Fuse MIDI",
+     "80A",
+     "Engine control (EC) relay, engine bay fuse box (F4 & F5)"
+    ],
+    [
+     "F110",
+     "Fuse MIDI",
+     "80A",
+     "Fascia fuse box 1 (F1\u2013F12 & F22\u2013F25)"
+    ],
+    [
+     "F111",
+     "Fuse MIDI",
+     "50A",
+     "Ignition switch"
+    ],
+    [
+     "F112",
+     "Fuse MIDI",
+     "80A",
+     "Lamps control module"
+    ],
+    [
+     "F113",
+     "Fuse MIDI",
+     "80A",
+     "Seat/steering column adjustment relay, fascia fuse box 1 (F27\u2013F30, F13 with lumbar support), fascia fuse box 2 (F76), lamps control module"
+    ],
+    [
+     "F114",
+     "Fuse MIDI",
+     "50A",
+     "Ignition switch, data link connector (DLC)"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Fuse box in the luggage compartment (1 \u2013 Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-528-2000-genid-g3-5.webp",
+   "fuses": [
+    [
+     "F47",
+     "Fuse ATO",
+     "15A",
+     "Auxiliary heater"
+    ],
+    [
+     "F47",
+     "Fuse ATO",
+     "20A",
+     "Auxiliary heater"
+    ],
+    [
+     "F48",
+     "Fuse ATO",
+     "5A",
+     "Anti-dazzle interior mirror, alarm movement control module, alarm gradient sensor, alarm horn"
+    ],
+    [
+     "F49",
+     "Fuse ATO",
+     "30A",
+     "Suspension compressor relay"
+    ],
+    [
+     "F50",
+     "Fuse ATO",
+     "7.5A",
+     "Suspension control module (with air suspension)"
+    ],
+    [
+     "F51",
+     "Fuse ATO",
+     "30A",
+     "Cigarette lighter, rear"
+    ],
+    [
+     "F52",
+     "Fuse ATO",
+     "30A",
+     "Cigarette lighter relay, cigarette lighter front"
+    ],
+    [
+     "F53",
+     "Fuse ATO",
+     "5A",
+     "Aerial signal amplifier, boot lid/tailgate lock switch"
+    ],
+    [
+     "F54",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump relay"
+    ],
+    [
+     "F55",
+     "Fuse ATO",
+     "20A",
+     "Rear screen wash/wipe relay"
+    ],
+    [
+     "F56",
+     "Fuse ATO",
+     "30A",
+     "Audio unit, navigation control module, output amplifier, CD changer, in-car monitor"
+    ],
+    [
+     "F57",
+     "Fuse ATO",
+     "10A",
+     "Telephone"
+    ],
+    [
+     "F58",
+     "Fuse ATO",
+     "10A",
+     "Overvoltage protection relay 1"
+    ],
+    [
+     "F59",
+     "Fuse ATO",
+     "20A",
+     "Trailer socket"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Overvoltage protection relay 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Overvoltage protection relay 2"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel filler flap relay"
+    ]
+   ]
+  },
+  {
+   "index": 6,
+   "name": "Fuse box in the luggage compartment (2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-528-2000-genid-g3-6.webp",
+   "fuses": [
+    [
+     "F100",
+     "Fuse MEGA",
+     "200A",
+     "Footwell fuse box (F107\u2013F114)"
+    ],
+    [
+     "F101",
+     "Fuse MIDI",
+     "80A",
+     "Load area fuse box 1 (F46\u2013F50, F66)"
+    ],
+    [
+     "F102",
+     "Fuse MIDI",
+     "80A",
+     "Load area fuse box 1 (F51\u2013F55)"
+    ],
+    [
+     "F103",
+     "Fuse MIDI",
+     "50A",
+     "Trailer control module"
+    ],
+    [
+     "F104",
+     "Fuse MIDI",
+     "50A",
+     "Overvoltage protection relay 2"
+    ],
+    [
+     "F105",
+     "Fuse MIDI",
+     "100A",
+     "Fascia fuse box 2 (F75), auxiliary heater"
+    ],
+    [
+     "F106",
+     "Fuse MIDI",
+     "80A",
+     "Load area fuse box 1 (F56\u2013F59)"
+    ]
+   ]
+  }
+ ]
+}

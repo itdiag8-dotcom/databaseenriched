@@ -1,0 +1,925 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "535",
+ "brand_db": "BMW",
+ "model_db_name": "535i",
+ "model_id": 641,
+ "generation_name": "6th generation",
+ "generation_code": "F10/F11/F07",
+ "year_start": 2009,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/bmw/535/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-535-2016-genid-g6-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Footwell control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Dynamic Stability Control (DSC), door control unit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Central control gateway, diagnostic connector"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Interior lights, instrument cluster"
+    ],
+    [
+     "6",
+     "Fuse MINI Shunt",
+     "",
+     "Fuse shunt"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "Junction box"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "30A",
+     "Junction box"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "30A",
+     "Junction box"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Heating and air conditioning control unit"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Glove box light"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Steering column switches, driver assistance system switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Junction box"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Junction box"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "40A",
+     "Footwell control unit"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "Footwell control unit"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "Footwell control unit"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "20A",
+     "Trailer control unit"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Pressure control valve, fuel metering solenoid, camshaft sensor, boost pressure regulator, mass flow meter, turbo control solenoid, compressor bypass"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "Telematics"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Steering column switches"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Head-up display control unit"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Eject box"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Video system"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Rear control unit, touchbox control device"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Rear climate control unit, heated rear seat switch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Seat adjustment switches, door switch control unit, exterior mirror, hatch module, back light"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Seat belt pretensioner control unit, heating control unit, tank vent valve, fuel tank shut-off valve"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "Chassis integration module"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "DDE main relay"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer pump"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "Vertical dynamics control"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "40A",
+     "Vehicle access control unit"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "40A",
+     "Power steering control unit"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "30A",
+     "Dynamic Stability Control (DSC)"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "30A",
+     "Engine mount solenoids, EGR cooling bypass valve, oil quality sensor, oxygen sensors, mass flow meter, compressor bypass, oil level sensor, damper control solenoid"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "5A",
+     "Electromechanical power steering, throttle position valve"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "5A",
+     "Automatic air conditioning, camera control unit"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "5A",
+     "Vertical dynamics control, power steering control unit"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "5A",
+     "Radiator damper control unit, cruise control"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "EGR coolant pump, EGR solenoid"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "5A",
+     "Electrochromic rear view mirror, engine crankcase heater"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "40A",
+     "ABS, DSC"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "30A",
+     "Wiper module"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "30A",
+     "Driver's seat control unit, seat adjustment switch"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "Passenger seat control unit, seat adjustment switch"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "20A",
+     "Front and rear 12V sockets, cigarette lighter"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "5A",
+     "Vehicle access control unit"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "5A",
+     "Noise filter, hatch module"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "Intercooler pump"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Parking brake switch"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "15A",
+     "Signal (horn)"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "7.5A",
+     "Selector switch"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "15A",
+     "Additional 12V socket"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary heating system"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "7.5A",
+     "Hatch, door switch control unit, exterior mirror"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "10A",
+     "Seat adjustment switches, lumbar support valve block"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Luggage compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-535-2016-genid-g6-1.webp",
+   "fuses": [
+    [
+     "100",
+     "Fuse ATO",
+     "20A",
+     "Trailer control unit"
+    ],
+    [
+     "101",
+     "Fuse ATO",
+     "40A",
+     "Footwell control unit"
+    ],
+    [
+     "105",
+     "Fuse ATO",
+     "30A",
+     "Hi-Fi amplifier, headset connection module"
+    ],
+    [
+     "107",
+     "Fuse MINI",
+     "5A",
+     "Charging control, Dynamic Stability Control (DSC)"
+    ],
+    [
+     "108",
+     "Fuse MINI",
+     "5A",
+     "Cigarette lighters, 12V sockets / glove box charging socket"
+    ],
+    [
+     "108",
+     "Fuse MINI",
+     "10A",
+     "Cigarette lighters, 12V sockets / glove box charging socket"
+    ],
+    [
+     "109",
+     "Fuse MINI",
+     "5A",
+     "Electric rear sunshade"
+    ],
+    [
+     "109",
+     "Fuse MINI",
+     "10A",
+     "Electric rear sunshade"
+    ],
+    [
+     "110",
+     "Fuse MINI",
+     "10A",
+     "Automatic door"
+    ],
+    [
+     "112",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment"
+    ],
+    [
+     "113",
+     "Fuse MINI",
+     "5A",
+     "Head-up display (HUD)"
+    ],
+    [
+     "114",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, electric rear sunshade"
+    ],
+    [
+     "116",
+     "Fuse MINI",
+     "7.5A",
+     "Rear information display"
+    ],
+    [
+     "117",
+     "Fuse MINI",
+     "5A",
+     "Telematics, USB"
+    ],
+    [
+     "118",
+     "Fuse MINI",
+     "10A",
+     "Information display, rear infotainment control unit"
+    ],
+    [
+     "119",
+     "Fuse MINI",
+     "15A",
+     "Headset connection module, audio system"
+    ],
+    [
+     "120",
+     "Fuse MINI",
+     "5A",
+     "Hi-Fi amplifier, DVD"
+    ],
+    [
+     "121",
+     "Fuse MINI",
+     "5A",
+     "Infotainment control unit, fan, video system"
+    ],
+    [
+     "123",
+     "Fuse MINI",
+     "5A",
+     "Camera control unit"
+    ],
+    [
+     "124",
+     "Fuse MINI",
+     "5A",
+     "Night vision system control unit"
+    ],
+    [
+     "125",
+     "Fuse MINI",
+     "5A",
+     "Video system"
+    ],
+    [
+     "128",
+     "Fuse MINI",
+     "10A",
+     "Damper control solenoid"
+    ],
+    [
+     "131",
+     "Fuse MINI",
+     "5A",
+     "Lane detection warning"
+    ],
+    [
+     "132",
+     "Fuse MINI",
+     "5A",
+     "Additional heater, retractable roof control unit, right high beam headlight"
+    ],
+    [
+     "134",
+     "Fuse MINI",
+     "5A",
+     "Rear axle camber sensor, parking assistance, Servotronic"
+    ],
+    [
+     "135",
+     "Fuse MINI",
+     "5A",
+     "Electrical changeover valve, outlet damper"
+    ],
+    [
+     "136",
+     "Fuse MINI",
+     "5A",
+     "DC-DC converter, retractable roof control unit"
+    ],
+    [
+     "137",
+     "Fuse MINI",
+     "5A",
+     "Cooling fan cut-off relay"
+    ],
+    [
+     "138",
+     "Fuse MINI",
+     "5A",
+     "Transfer case"
+    ],
+    [
+     "139",
+     "Fuse MINI",
+     "5A",
+     "Fuel tank leak diagnosis, tire pressure monitoring"
+    ],
+    [
+     "142",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary heating system"
+    ],
+    [
+     "143",
+     "Fuse MINI",
+     "10A",
+     "Automatic door"
+    ],
+    [
+     "144",
+     "Fuse MINI",
+     "10A",
+     "Automatic door"
+    ],
+    [
+     "145",
+     "Fuse MINI",
+     "20A",
+     "Termination connector"
+    ],
+    [
+     "147",
+     "Fuse MINI",
+     "15A",
+     "Additional 12V socket"
+    ],
+    [
+     "147",
+     "Fuse MINI",
+     "20A",
+     "Additional 12V socket"
+    ],
+    [
+     "148",
+     "Fuse MINI",
+     "20A",
+     "Convertible roof control unit, trailer towing module"
+    ],
+    [
+     "149",
+     "Fuse MINI",
+     "10A",
+     "Automatic door"
+    ],
+    [
+     "151",
+     "Fuse MINI",
+     "10A",
+     "Electric rear sunshade"
+    ],
+    [
+     "152",
+     "Fuse MINI",
+     "5A",
+     "Ride height control"
+    ],
+    [
+     "153",
+     "Fuse MINI",
+     "5A",
+     "Trunk lid remote control, rear door switch"
+    ],
+    [
+     "154",
+     "Fuse MINI",
+     "5A",
+     "Trunk lights"
+    ],
+    [
+     "155",
+     "Fuse MINI",
+     "15A",
+     "Rear door/trunk lock"
+    ],
+    [
+     "156",
+     "Fuse MINI",
+     "5A",
+     "Air conditioner system"
+    ],
+    [
+     "167",
+     "Fuse MINI",
+     "5A",
+     "Parking brake control unit"
+    ],
+    [
+     "169",
+     "Fuse MINI",
+     "5A",
+     "Alarm, emergency system, vacuum leak detection"
+    ],
+    [
+     "175",
+     "Fuse MINI",
+     "10A",
+     "DME / integrated voltage module (IVM)"
+    ],
+    [
+     "176",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighters, 12V sockets / glove box charging socket"
+    ],
+    [
+     "177",
+     "Fuse ATO",
+     "20A",
+     "Heater fan"
+    ],
+    [
+     "178",
+     "Fuse ATO",
+     "30A",
+     "Transfer case"
+    ],
+    [
+     "179",
+     "Fuse ATO",
+     "30A",
+     "Parking brake control unit"
+    ],
+    [
+     "180",
+     "Fuse ATO",
+     "30A",
+     "Parking brake control unit"
+    ],
+    [
+     "182",
+     "Fuse ATO",
+     "40A",
+     "Compressor clutch relay, soft top"
+    ],
+    [
+     "183",
+     "Fuse ATO",
+     "40A",
+     "Remote control for trunk lid"
+    ],
+    [
+     "184",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump control"
+    ],
+    [
+     "185",
+     "Fuse ATO",
+     "30A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "186",
+     "Fuse ATO",
+     "30A",
+     "DC-DC converter"
+    ],
+    [
+     "187",
+     "Fuse ATO",
+     "30A",
+     "Heated rear seat control unit, rear seat control unit"
+    ],
+    [
+     "188",
+     "Fuse ATO",
+     "30A",
+     "Heated rear seat control unit, rear seat control unit"
+    ],
+    [
+     "190",
+     "Fuse ATO",
+     "30A",
+     "Driver seat heating control unit"
+    ],
+    [
+     "191",
+     "Fuse ATO",
+     "30A",
+     "Passenger seat heating control unit"
+    ],
+    [
+     "195",
+     "Fuse ATO",
+     "30A",
+     "Auxiliary heater"
+    ],
+    [
+     "198",
+     "Fuse ATO",
+     "30A",
+     "Seat belt pretensioner control unit"
+    ],
+    [
+     "199",
+     "Fuse ATO",
+     "30A",
+     "Seat belt pretensioner control unit"
+    ],
+    [
+     "200",
+     "Fuse ATO",
+     "40A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "202",
+     "Fuse ATO",
+     "30A",
+     "Auxiliary heater"
+    ],
+    [
+     "203",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Additional fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-535-2016-genid-g6-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Additional battery control unit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Additional battery control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Sound control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "2A",
+     "Sound control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Charging connector"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Sound control unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Reserve"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Reserve"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Additional battery control unit"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Charging connector"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Reserve"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Switches"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Additional battery control unit"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Reserve"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Additional battery control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Additional battery control unit"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Additional battery control unit"
+    ]
+   ]
+  }
+ ]
+}
