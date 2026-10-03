@@ -1,0 +1,564 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "colorado",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Colorado",
+ "model_id": 1119,
+ "generation_name": "3rd generation",
+ "generation_code": "GMT 31XX-2",
+ "year_start": 2023,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2026,
+ "source_url": "https://www.startmycar.com/chevrolet/colorado/info/fusebox/2026",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-colorado-2026-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "40A",
+     "Front HVAC blower - front HVAC module"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "20A",
+     "ELM 1 - Exterior lighting module 1"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "20A",
+     "ELM 2 - Exterior lighting module 2"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Driver seat misc - memory seat module"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls"
+    ],
+    [
+     "9",
+     "Fuse MICRO3",
+     "",
+     "Vehicle control module/spare"
+    ],
+    [
+     "10",
+     "Fuse MICRO3",
+     "10A",
+     "Miscellaneous 1 - electric park brake switch / automatic occupant sensing display"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "10A",
+     "Auxiliary audio/video jack / telematics control platform"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "10A",
+     "Central gateway module / sensing and diagnostic module / automatic occupant sensing module"
+    ],
+    [
+     "14",
+     "Fuse MICRO3",
+     "15A",
+     "Miscellaneous 2 - TCM / transfer case control / electronic brake control / integrated chassis control / trailer interface module"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "Miscellaneous 3 - exterior lighting module / DC-AC inverter module / vented module"
+    ],
+    [
+     "17",
+     "Fuse MICRO3",
+     "10A",
+     "Wireless charger module / data link connector"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "10A",
+     "Miscellaneous 4 - E-stop / driver mode switch / reflective light auxiliary display / SDM / inside rear view mirror / humidity sensor"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "10A",
+     "Remote function antenna / park assist / amplifier"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "10A",
+     "Video processing module / display"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "25A",
+     "Sunroof"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "5A",
+     "Trailer brake control switch"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "Auxiliary USB power outlet"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "20A",
+     "Body control module 2"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "10A",
+     "Door panel switch left (express up/down)"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "20A",
+     "Body control module 3"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "25A",
+     "ELM 3 - Exterior lighting module 3"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "Front camera module"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "15A",
+     "Virtual cockpit unit module"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "7.5A",
+     "Heated steering wheel module"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "25A",
+     "ELM 5 - Exterior lighting module 5"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Body control module 4"
+    ],
+    [
+     "35",
+     "Fuse FMM/MCase",
+     "40A",
+     "DC/DC converter 2"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "40A",
+     "DC/DC converter 1"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "15A",
+     "Front seats lumbar switch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-colorado-2026-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MICRO2",
+     "20A",
+     "ICCM integrated chassis control module"
+    ],
+    [
+     "F02",
+     "Fuse MICRO2",
+     "25A",
+     "Fuel tank zone module"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 2"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "25A",
+     "Transmission auxiliary oil pump motor"
+    ],
+    [
+     "F11",
+     "Fuse MICRO2",
+     "15A",
+     "Front drive axle actuator"
+    ],
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer connector"
+    ],
+    [
+     "F15",
+     "Fuse MICRO3",
+     "10A",
+     "Side blind zone alert / canister vent solenoid"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "60A",
+     "Electronic brake control module"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 1"
+    ],
+    [
+     "F24",
+     "Fuse FMM/MCase",
+     "40A",
+     "Cooling fan 3"
+    ],
+    [
+     "F25",
+     "Fuse MICRO3",
+     "15A",
+     "Engine misc 1 & 2 - oxygen sensor / canister purge / turbo bypass / cam solenoids / coolant valve / MAF / humidity / air temp / throttle inlet pressure sensors"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "20A",
+     "Park lamps"
+    ],
+    [
+     "F28",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer interface module 2"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "5A",
+     "Spare"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "30A",
+     "Powertrain ignition 1"
+    ],
+    [
+     "F33",
+     "Fuse MICRO3",
+     "10A",
+     "Trailer reverse lamps"
+    ],
+    [
+     "F34",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer interface module 1"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "7.5A",
+     "Spare"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coils"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "10A",
+     "Trailer stop lamp left"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "10A",
+     "Trailer stop lamp right"
+    ],
+    [
+     "F40",
+     "Fuse FMM/MCase",
+     "40A",
+     "Transfer case control module"
+    ],
+    [
+     "F41",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter pinion"
+    ],
+    [
+     "F42",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F44",
+     "Fuse MICRO3",
+     "10A",
+     "Spare"
+    ],
+    [
+     "F45",
+     "Fuse MICRO3",
+     "10A",
+     "Spare"
+    ],
+    [
+     "F46",
+     "Fuse MICRO2",
+     "10A",
+     "Spare"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "2A",
+     "Spare"
+    ],
+    [
+     "F48",
+     "Fuse MICRO2",
+     "15A",
+     "Spare"
+    ],
+    [
+     "F49",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer brake control module / trailer wiring provisions"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "20A",
+     "Spare"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "15A",
+     "Center high mounted stop lamp"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "10A",
+     "Side markers"
+    ],
+    [
+     "F53",
+     "Fuse MICRO3",
+     "15A",
+     "Spare"
+    ],
+    [
+     "F55",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "F58",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "F59",
+     "Fuse FMM/MCase",
+     "30A",
+     "Misc windows left - driver door panel switch / window motors left front & rear"
+    ],
+    [
+     "F61",
+     "Fuse MICRO3",
+     "15A",
+     "Spare"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "F65",
+     "Fuse MICRO2",
+     "25A",
+     "ELM 4 - right front park lamp / DRL / left trailer stop-turn lamp / left rear park lamp / right high beam"
+    ],
+    [
+     "F66",
+     "Fuse MICRO3",
+     "15A",
+     "Low beams - low beam left/right"
+    ],
+    [
+     "F68",
+     "Fuse MICRO2",
+     "15A",
+     "Heated seat module 1"
+    ],
+    [
+     "F69",
+     "Fuse MICRO2",
+     "15A",
+     "Underbody camera washer"
+    ],
+    [
+     "F71",
+     "Fuse FMX/JCase",
+     "60A",
+     "DC/AC inverter"
+    ],
+    [
+     "F72",
+     "Fuse MICRO2",
+     "25A",
+     "Spare"
+    ],
+    [
+     "F73",
+     "Fuse MICRO2",
+     "10A",
+     "Aeroshutter"
+    ],
+    [
+     "F74",
+     "Fuse MICRO2",
+     "20A",
+     "ELM 6 - left low beam / right rear stop-turn lamp"
+    ],
+    [
+     "F75",
+     "Fuse MICRO2",
+     "30A",
+     "Spare"
+    ],
+    [
+     "F76",
+     "Fuse MICRO2",
+     "15A",
+     "Heated seat module 2"
+    ],
+    [
+     "F83",
+     "Fuse MICRO2",
+     "10A",
+     "LED cargo lamp"
+    ],
+    [
+     "F84",
+     "Fuse MICRO2",
+     "25A",
+     "ELM 7 - left front park lamp / DRL / left front turn lamp / CHMSL / right rear park lamp / reverse lamps"
+    ],
+    [
+     "F86",
+     "Fuse MICRO2",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F87",
+     "Fuse MICRO2",
+     "15A",
+     "Front washer pump"
+    ],
+    [
+     "F90",
+     "Fuse FMM/MCase",
+     "30A",
+     "Misc windows right - passenger door panel switch / window motors right front & rear"
+    ]
+   ]
+  }
+ ]
+}

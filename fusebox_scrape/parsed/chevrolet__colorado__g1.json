@@ -1,0 +1,425 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "colorado",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Colorado",
+ "model_id": 1119,
+ "generation_name": "1st generation",
+ "generation_code": "GMT355",
+ "year_start": 2003,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/chevrolet/colorado/info/fusebox/2012",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-colorado-2012-genid-g1-0.webp",
+   "fuses": [
+    [
+     "O2 SNSR",
+     "Fuse MINI",
+     "",
+     "Oxygen sensors, air injection reactor (AIR) relay"
+    ],
+    [
+     "A/C",
+     "Fuse MINI",
+     "",
+     "Air conditioning control head, power seats"
+    ],
+    [
+     "A/C CMPRSR",
+     "Fuse MINI",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "ABS",
+     "Fuse MINI",
+     "",
+     "ABS, ABS module, four-wheel drive, gravity sensor"
+    ],
+    [
+     "ABS 1",
+     "Fuse FMX/JCase",
+     "",
+     "ABS 1 (ABS logic)"
+    ],
+    [
+     "ABS 2",
+     "Fuse FMX/JCase",
+     "",
+     "ABS 2 (ABS pump)"
+    ],
+    [
+     "AUX PWR 1",
+     "Fuse MINI",
+     "",
+     "Accessory power 1"
+    ],
+    [
+     "AUX PWR 2",
+     "Fuse MINI",
+     "",
+     "Accessory power 2"
+    ],
+    [
+     "BCK/UP",
+     "Fuse MINI",
+     "",
+     "Back-up lights"
+    ],
+    [
+     "BLWR",
+     "Fuse FMX/JCase",
+     "",
+     "Climate control fan"
+    ],
+    [
+     "CLSTR",
+     "Fuse MINI",
+     "",
+     "Cluster"
+    ],
+    [
+     "CNSTR VENT",
+     "Fuse MINI",
+     "",
+     "Fuel canister vent solenoid"
+    ],
+    [
+     "CRUISE",
+     "Fuse MINI",
+     "",
+     "Cruise control switch, inside rearview mirror, transfer case control module, brake switch, clutch disable"
+    ],
+    [
+     "DR/LCK",
+     "Fuse MINI",
+     "",
+     "Power door locks [if equipped]"
+    ],
+    [
+     "DRL",
+     "Fuse MINI",
+     "",
+     "Daylight running lamps"
+    ],
+    [
+     "ERLS",
+     "Fuse MINI",
+     "",
+     "MAF sensor, canister purge solenoid, AIR relay"
+    ],
+    [
+     "ETC",
+     "Fuse MINI",
+     "",
+     "Electronic throttle control (ETC)"
+    ],
+    [
+     "FOG/LAMP",
+     "Fuse MINI",
+     "",
+     "Fog lamps [if equipped]"
+    ],
+    [
+     "FRT PRK LAMP",
+     "Fuse MINI",
+     "",
+     "Front park/turn lamps, power window switch lighting"
+    ],
+    [
+     "FRT/AXLE",
+     "Fuse MINI",
+     "",
+     "Front axle actuator"
+    ],
+    [
+     "FSCM",
+     "Fuse MINI",
+     "",
+     "Fuel system control module"
+    ],
+    [
+     "BACKUP LAMP",
+     "Fuse MINI",
+     "",
+     "Backup lamp"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "HTD/SEAT",
+     "Fuse MINI",
+     "",
+     "Heated seat [if equipped]"
+    ],
+    [
+     "IGN",
+     "Fuse MINI",
+     "",
+     "Ignition, clutch starter switch, neutral safety back-up switch, ignition coils 1-5, A/C relay"
+    ],
+    [
+     "INJ",
+     "Fuse MINI",
+     "",
+     "Injectors"
+    ],
+    [
+     "LT HDLP",
+     "Fuse MINI",
+     "",
+     "Driver side headlamp"
+    ],
+    [
+     "PCM B",
+     "Fuse MINI",
+     "",
+     "Power control module (PCM) B"
+    ],
+    [
+     "PCMI",
+     "Fuse MINI",
+     "",
+     "Power control module (PCM)"
+    ],
+    [
+     "PWR/SEAT",
+     "Fuse FMX/JCase",
+     "",
+     "Power seat circuit breaker [if equipped]"
+    ],
+    [
+     "PWR/WNDW",
+     "Fuse FMX/JCase",
+     "",
+     "Power windows [if equipped]"
+    ],
+    [
+     "RDO",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "REAR PRK LAMP",
+     "Fuse MINI",
+     "",
+     "Rear parking lamp 1, passenger side taillamp, license plate lamps"
+    ],
+    [
+     "REAR PRK LAMP2",
+     "Fuse MINI",
+     "",
+     "Driver side rear taillamp, passenger airbag indicator lighting, IP dimming power"
+    ],
+    [
+     "RT HDLP",
+     "Fuse MINI",
+     "",
+     "Passenger side headlamp"
+    ],
+    [
+     "RVC",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control"
+    ],
+    [
+     "STOP",
+     "Fuse MINI",
+     "",
+     "Stop lamps"
+    ],
+    [
+     "STRTR",
+     "Fuse FMX/JCase",
+     "",
+     "Starter solenoid relay"
+    ],
+    [
+     "TBC",
+     "Fuse MINI",
+     "",
+     "Truck body controller"
+    ],
+    [
+     "TCM",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "TCCM",
+     "Fuse MINI",
+     "",
+     "Transfer case control module"
+    ],
+    [
+     "TRAILER BRAKE",
+     "Relay",
+     "",
+     "Trailer brake"
+    ],
+    [
+     "TRANS",
+     "Fuse MINI",
+     "",
+     "Transmission solenoid"
+    ],
+    [
+     "TRN/HAZRD FRT",
+     "Fuse MINI",
+     "",
+     "Turn/hazard/courtesy/cargo lamps/mirrors"
+    ],
+    [
+     "TRN/HAZRD REAR",
+     "Fuse MINI",
+     "",
+     "Rear turn/hazard lights"
+    ],
+    [
+     "VSES/STOP",
+     "Relay",
+     "",
+     "Vehicle stability enhancement system/stop"
+    ],
+    [
+     "WPR",
+     "Fuse MINI",
+     "",
+     "Wiper"
+    ],
+    [
+     "WSW",
+     "Fuse MINI",
+     "",
+     "Wiper/washer switch"
+    ],
+    [
+     "A/C CMPRSR_R",
+     "Relay",
+     "",
+     "Air conditioning compressor relay"
+    ],
+    [
+     "BACKUP LAMP 2",
+     "Fuse MINI",
+     "",
+     "Backup lamp"
+    ],
+    [
+     "BEAM SEL",
+     "Relay",
+     "",
+     "Beam selection"
+    ],
+    [
+     "DRL_R",
+     "Relay",
+     "",
+     "Daylight running lamps relay"
+    ],
+    [
+     "FOG/LAMP_R",
+     "Relay",
+     "",
+     "Fog lamps relay [if equipped]"
+    ],
+    [
+     "HDLP",
+     "Relay",
+     "",
+     "Headlamps relay"
+    ],
+    [
+     "HORN_R",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "IGN 3 HVAC",
+     "Relay",
+     "",
+     "Ignition 3, climate control, climate control head fuse, power seat fuse"
+    ],
+    [
+     "PRK/LAMP",
+     "Relay",
+     "",
+     "Front parking lamp fuse, rear parking lamps relay"
+    ],
+    [
+     "PWR/TRN",
+     "Relay",
+     "",
+     "Powertrain, electronic throttle control fuse, oxygen sensor fuse"
+    ],
+    [
+     "RAP",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "RUN/CRNK",
+     "Relay",
+     "",
+     "Run/crank relay - airbag, cruise, ignition, back-up lamps, ABS, front axle, PCM-1, injectors, transmission, ERLS"
+    ],
+    [
+     "STRTR_R",
+     "Relay",
+     "",
+     "Starter relay (PCM relay)"
+    ],
+    [
+     "VSES",
+     "Fuse MINI",
+     "",
+     "Vehicle stability enhancement system"
+    ],
+    [
+     "WPR_R",
+     "Relay",
+     "",
+     "Wipers (on/off) relay"
+    ],
+    [
+     "WPR 2",
+     "Relay",
+     "",
+     "Wiper 2 (high/low) relay"
+    ],
+    [
+     "A/C CLTCH",
+     "Diode MINI",
+     "",
+     "Diode - air conditioning clutch"
+    ],
+    [
+     "MEGA FUSE",
+     "Fuse MEGA",
+     "",
+     "Mega fuse"
+    ],
+    [
+     "WPR_D",
+     "Diode MINI",
+     "",
+     "Diode - wiper"
+    ]
+   ]
+  }
+ ]
+}

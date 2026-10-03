@@ -1,0 +1,577 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "colorado",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Colorado",
+ "model_id": 1119,
+ "generation_name": "2nd generation",
+ "generation_code": "GMI700 / GMT 31XX",
+ "year_start": 2012,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/chevrolet/colorado/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-colorado-2022-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "",
+     "GEN - Generator"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Brake vacuum pump [6 cyl engine]"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan [4 cyl engine]"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer brake control module"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "60A",
+     "Antilock brake system pump"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Transfer case electronic control"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Antilock brake system valves"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Battery regulated voltage control"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Electric power steering"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Right trailer stoplamp/turnlamp"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Left trailer stoplamp/turnlamp"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Trailer reverse lamps"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Canister vent solenoid"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "Mirror defogger"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Integrated chassis control module [6 cyl engine]"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump power module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "BCM 3 - right headlamp low beam / right front turn signal / left park lamp / left rear park lamp"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Passenger heated seat"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Driver heated seat"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Front axle actuator"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Aeroshutters"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "Washer pump"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "20A",
+     "Trailer parking lamp"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "10A",
+     "MISC 2 - mid park phase lock / active fuel management / engine oil & canister purge solenoids / oxygen sensor"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "",
+     "ECM 2 - engine control module 2 [6 cyl engine]"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "15A",
+     "TCM run/crank"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "10A",
+     "MISC 1 - oxygen/MAF/humidity/induction air temp/throttle inlet pressure sensors"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "20A",
+     "Engine control module ignition"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "15A",
+     "Injectors [4 cyl]; fuel injectors odd [6 cyl]"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors even [6 cyl]; spare [4 cyl]"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "15A",
+     "Cargo lamp/bed lighting"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "15A",
+     "ECM/ICCM/FPPM run/crank"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "15A",
+     "Engine control module power"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "15A",
+     "Traction control module power"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "10A",
+     "Left high-beam headlamp"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "10A",
+     "Right high-beam headlamp"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "10A",
+     "Center high mounted stoplamp"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear window/mirror defogger"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Brake vacuum pump [6 cyl engine]"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Trailer park lamps"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cargo lamp/bed lighting"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Wiper control"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Wiper speed"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Center high mounted stop lamp"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-colorado-2022-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Auxiliary power outlet"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "15A",
+     "Auxiliary power outlet 2"
+    ],
+    [
+     "9",
+     "Fuse FMM/MCase",
+     "15A",
+     "Auxiliary power outlet 1/cigarette lighter"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left power window"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "30A",
+     "Right power window"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seats"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls backlighting"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "2A",
+     "Discrete logic ignition sensor"
+    ],
+    [
+     "17",
+     "Fuse MICRO3",
+     "10A",
+     "OnStar/HVAC"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "10A",
+     "Airbag/sensing and diagnostic module/automatic occupant sensing module"
+    ],
+    [
+     "19",
+     "Fuse MICRO3",
+     "10A",
+     "Data link connector/USB front"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "10A",
+     "Instrument panel cluster/automatic occupant sensing display"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "7.5A",
+     "Heated steering wheel/communication gateway module ignition"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "15A",
+     "BCM 1 - indicator dimming / RAP / relay coil control / rear license lamp / washer relay / run-crank relay / cruise & torque signals / run ignition 3"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "5A",
+     "Mirror window module"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "30A",
+     "BCM 8 - door lock actuator controls"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "Communication gateway module"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Front camera/rear park assist"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "10A",
+     "PRNDL display/wireless charging module/USB rear"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "20A",
+     "BCM 4 - left headlamp low beam / right park lamp / left rear stop lamp / right rear park lamp"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "5A",
+     "Steering wheel controls"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "Instrument panel cluster"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "BCM 2 - interior lamp control / accessory voltage / backup lamp relay / park lock solenoid / trailer brake apply signal"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "15A",
+     "Radio/infotainment"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "5A",
+     "HVAC ignition/auxiliary heater"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "MISC run/crank - rear vision camera/transfer case control module (4WD)/inside rear view mirror"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "15A",
+     "Front vented seats"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "20A",
+     "BCM 6 - LED backlight dimming / interior lamps / reverse lamps / stop lamp relay"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "20A",
+     "BCM 7 - right rear stop lamp / left front turn signal / standing lamp relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel (Bottom side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-colorado-2022-genid-g2-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Retained accessory power"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Run/crank switched"
+    ],
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Auxiliary power outlet 1/cigarette lighter"
+    ]
+   ]
+  }
+ ]
+}
