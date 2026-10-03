@@ -1,0 +1,734 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "m8",
+ "brand_db": "BMW",
+ "model_db_name": "M8",
+ "model_id": 785,
+ "generation_name": "1st generation",
+ "generation_code": "F91/F92/F93",
+ "year_start": 2019,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/bmw/m8/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Rear fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m8-2021-genid-g1-0.webp",
+   "fuses": [
+    [
+     "203",
+     "Fuse MINI",
+     "7.5A",
+     "DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ],
+    [
+     "204",
+     "Fuse MINI",
+     "5A",
+     "Load level, driving assistance, infotainment, DME/IVM"
+    ],
+    [
+     "206",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning system, DME/IVM"
+    ],
+    [
+     "208",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD)"
+    ],
+    [
+     "209",
+     "Fuse MINI",
+     "5A",
+     "Backup alarm, dynamic drive system, DME/IVM, hybrid system"
+    ],
+    [
+     "210",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "212",
+     "Fuse MINI",
+     "15A",
+     "Head-Up Display (HUD), infotainment"
+    ],
+    [
+     "214",
+     "Fuse MINI",
+     "5A",
+     "Infotainment"
+    ],
+    [
+     "215",
+     "Fuse MINI",
+     "10A",
+     "Infotainment"
+    ],
+    [
+     "216",
+     "Fuse MINI",
+     "5A",
+     "Infotainment, interior lights"
+    ],
+    [
+     "217",
+     "Fuse ATO",
+     "40A",
+     "Infotainment"
+    ],
+    [
+     "218",
+     "Fuse ATO",
+     "20A",
+     "Infotainment"
+    ],
+    [
+     "220",
+     "Fuse ATO",
+     "30A",
+     "Infotainment"
+    ],
+    [
+     "221",
+     "Fuse ATO",
+     "30A",
+     "DME/IVM"
+    ],
+    [
+     "223",
+     "Fuse ATO",
+     "20A",
+     "Steering column function control module; main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "224",
+     "Fuse ATO",
+     "30A",
+     "Air suspension compressor relay, dynamic drive system, load level"
+    ],
+    [
+     "225",
+     "Fuse ATO",
+     "20A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "226",
+     "Fuse ATO",
+     "40A",
+     "Electric rear sunshade, tailgate"
+    ],
+    [
+     "227",
+     "Fuse ATO",
+     "30A",
+     "DME/IVM"
+    ],
+    [
+     "230",
+     "Fuse ATO",
+     "30A",
+     "Electric rear sunshade, tailgate"
+    ],
+    [
+     "231",
+     "Fuse ATO",
+     "30A",
+     "Rear window defroster (defogger)"
+    ],
+    [
+     "232",
+     "Fuse ATO",
+     "30A",
+     "Rear window defroster (defogger)"
+    ],
+    [
+     "240",
+     "Fuse ATO",
+     "40A",
+     "Trailer module, towbar"
+    ],
+    [
+     "244",
+     "Fuse MINI",
+     "5A",
+     "Car alarm, fuel pump, door module / automatic soft-close, START-STOP system, hybrid system"
+    ],
+    [
+     "249",
+     "Fuse MINI",
+     "10A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "251",
+     "Fuse MINI",
+     "10A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "252",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "254",
+     "Fuse MINI",
+     "5A",
+     "Tailgate"
+    ],
+    [
+     "255",
+     "Fuse MINI",
+     "5A",
+     "Infotainment"
+    ],
+    [
+     "256",
+     "Fuse MINI",
+     "10A",
+     "Electric rear sunshade, door module / automatic soft-close"
+    ],
+    [
+     "257",
+     "Fuse MINI",
+     "5A",
+     "Seatbelts, driving assistance, hybrid system, interior lights"
+    ],
+    [
+     "258",
+     "Fuse MINI",
+     "10A",
+     "Electric rear sunshade, door module / automatic soft-close"
+    ],
+    [
+     "259",
+     "Fuse MINI",
+     "15A",
+     "DME/IVM"
+    ],
+    [
+     "262",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning, heated seats, replacement top module / alternating relay, load level, parking sensors / HomeLink, driving assistance, HUD, infotainment"
+    ],
+    [
+     "263",
+     "Fuse MINI",
+     "7.5A",
+     "Seat adjustment"
+    ],
+    [
+     "264",
+     "Fuse MINI",
+     "10A",
+     "Tailgate"
+    ],
+    [
+     "267",
+     "Fuse ATO",
+     "30A",
+     "Heated seats, seat adjustment, replacement top module / alternating relay"
+    ],
+    [
+     "268",
+     "Fuse ATO",
+     "20A",
+     "Replacement top module / alternating relay"
+    ],
+    [
+     "269",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment, load level"
+    ],
+    [
+     "271",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump, DME/IVM"
+    ],
+    [
+     "273",
+     "Fuse ATO",
+     "20A",
+     "Front and rear lighter; 12V socket; glove compartment"
+    ],
+    [
+     "276",
+     "Fuse MINI",
+     "5A",
+     "Steering column function control module"
+    ],
+    [
+     "277",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, Head-Up Display (HUD), infotainment"
+    ],
+    [
+     "278",
+     "Fuse MINI",
+     "5A",
+     "Hybrid system"
+    ],
+    [
+     "280",
+     "Fuse MINI",
+     "10A",
+     "Hybrid system"
+    ],
+    [
+     "282",
+     "Fuse MINI",
+     "20A",
+     "Trailer module, towbar"
+    ],
+    [
+     "284",
+     "Fuse MINI",
+     "20A",
+     "Front and rear lighter; 12V socket; glove compartment, trailer module, towbar"
+    ],
+    [
+     "289",
+     "Fuse ATO",
+     "20A",
+     "Trailer module, towbar"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Front left fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m8-2021-genid-g1-1.webp",
+   "fuses": [
+    [
+     "105",
+     "Fuse MINI",
+     "7.5A",
+     "DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ],
+    [
+     "107",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump, hybrid system"
+    ],
+    [
+     "108",
+     "Fuse MINI",
+     "15A",
+     "DME/IVM, hybrid system"
+    ],
+    [
+     "110",
+     "Fuse MINI",
+     "5A",
+     "Heating / independent auxiliary heater"
+    ],
+    [
+     "112",
+     "Fuse MINI",
+     "10A",
+     "Heated seats"
+    ],
+    [
+     "113",
+     "Fuse MINI",
+     "10A",
+     "Heated seats"
+    ],
+    [
+     "117",
+     "Fuse ATO",
+     "30A",
+     "Gear indicator, EDC, automatic transmission control, AWD, hybrid system"
+    ],
+    [
+     "118",
+     "Fuse MINI",
+     "10A",
+     "Heated seats"
+    ],
+    [
+     "119",
+     "Fuse MINI",
+     "10A",
+     "Heated seats"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Front right fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m8-2021-genid-g1-2.webp",
+   "fuses": [
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "40A",
+     "ABS (Anti-lock Brake System), DSC (Dynamic Stability Control), parking brake"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "20A",
+     "Replacement top module / alternating relay"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "20A",
+     "BDC (Body Domain Controller)"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "20A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "Parking brake, transmission; DSC \u2013 Dynamic Stability Control; SMG \u2013 sequential manual gearbox"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Car alarm, replacement top module / alternating relay, interior lights"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Sound system"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Air suspension compressor relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning system, electric fan"
+    ],
+    [
+     "39",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioning system, electric fan"
+    ],
+    [
+     "40",
+     "Fuse MAXI",
+     "60A",
+     "BDC (Body Domain Controller), main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "41",
+     "Fuse MAXI",
+     "40A",
+     "BDC (Body Domain Controller)"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, infotainment, interior lights, electrochromic rear view mirror"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "30A",
+     "Rear wiper relay"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "20A",
+     "Gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "20A",
+     "Front and rear lighter; 12V socket; glove compartment charging socket (12V)"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "20A",
+     "Heating / independent auxiliary heater"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "15A",
+     "Steering column function control module"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "10A",
+     "Steering column function control module"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "10A",
+     "Replacement top module / alternating relay"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "10A",
+     "48V system"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, interior lights"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, interior lights"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, driving assistance, infotainment, interior lights"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, interior lights"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, interior lights"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, interior lights, electric mirrors"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, electric mirrors"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "10A",
+     "Seatbelts"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "5A",
+     "48V system, electric fan"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "5A",
+     "Gear indicator, EDC, automatic transmission control, AWD, DME/IVM"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "80",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "5A",
+     "Steering column function control module"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "10A",
+     "Steering column function control module"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Body Domain Controller fuse box (BCP)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-m8-2021-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Steering column function control module, driving assistance, infotainment, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "7.5A",
+     "On-board diagnostics, air suspension compressor relay, load level, dynamic drive system"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning system, electric rear sunshade, tailgate, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Dynamic drive system, infotainment, door module / automatic soft-close, START-STOP system"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Door module / automatic soft-close"
+    ]
+   ]
+  }
+ ]
+}

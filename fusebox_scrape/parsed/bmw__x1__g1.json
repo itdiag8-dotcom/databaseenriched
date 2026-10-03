@@ -1,0 +1,569 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "x1",
+ "brand_db": "BMW",
+ "model_db_name": "X1 \u2013 E84",
+ "model_id": 795,
+ "generation_name": "1st generation",
+ "generation_code": "E84",
+ "year_start": 2008,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/bmw/x1/info/fusebox/2015/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Glove compartment fuse box panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x1-2015-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Rear intermittent wipe/wash control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "OBD"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Electrochromic interior rear view mirror"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "N20/N46/N52/N55: DME control unit (16i, 18i, 20i, 28i, 35i)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Steering column switch center"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "AUC sensor, DC/DC converter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Park Distance Control (PDC), roof function control centre"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Front cigar lighter, rear centre console charging sockets 1 & 2, luggage compartment socket outlet"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Driver's switch cluster, telephone transceiver, telephone retrofit packages connector"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Driver's and passenger's seat heating modules"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "N20/N55: DME control unit; N46 TU2: fuel injectors; N52: oil condition sensor, DISA actuators, fuel tank vent valve, crankshaft sensor, air mass flow sensor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "ABS, DSC, DME/IVM"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "TCU, ULF, ULF-SBX, Combox, eject box, USB hub"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Car Information Computer (CIC), radio (without CIC)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Audio amplifier"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "N20/N55: DME control unit; N52: radiator shutter drive, E-box fan; N46 TU2: crankshaft sensor, fuel tank vent valve, hot-film air mass meter, E-box fan"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic module for fuel tank leakage, exhaust flap"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Video module, digital tuner"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "CD changer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Lumbar support switches/valve blocks, backrest width adjustment (driver/passenger)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Cruise control"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Transmission control, transmission control DKG"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Trailer module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Panorama glass roof"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Transfer box control unit, Dynamic Stability Control (DSC)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Tyre pressure control (RDC)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Electric fan cut-out relay, DC/DC converter"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Korea: tank vent shutoff valve"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "30A",
+     "Trailer module"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "30A",
+     "Trailer module"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "40A",
+     "Except N20: electric coolant pump; N47: fuel heater"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "30A",
+     "Digital Diesel Electronics (DDE), fuel pump relay / control, DME/IVM"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "40A",
+     "Car Access System"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "10A",
+     "N20: DME control unit"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "N46 TU2: oxygen sensors before/after catalytic converter"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "N52: electric coolant pump, map thermostat, camshaft sensors, Vanos solenoid valves, oil pressure control valve"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "15A",
+     "N20: DME control unit"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "30A",
+     "N46 TU2: ignition coils"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "30A",
+     "N52: oxygen sensors before/after catalytic converter, crankshaft breather heating 1"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "30A",
+     "N46 TU2: DME control unit, map thermostat, camshaft sensors, Vanos solenoids, oil level sensor, crankcase breather heating; N52: fuel injectors, ignition coils, suppression capacitor"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "30A",
+     "Transfer box control unit"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "30A",
+     "Driver's window motor, footwell module"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "40A",
+     "Audio amplifier (HiFi Professional, BMW Individual High-End, Harman Kardon)"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "30A",
+     "Passenger's seat adjustment switch"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "30A",
+     "Driver's seat module"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "30A",
+     "Right lockout circuit for rear window defogger"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer pump"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "30A",
+     "Passenger's seat module"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "40A",
+     "Active steering"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "7.5A",
+     "Siren and tilt alarm sensor"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "5A",
+     "Car Access System"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "5A",
+     "All-round vision camera"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "5A",
+     "Combox, Telematics Control Unit (TCU) (USA), eject box (USA)"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "5A",
+     "Comfort access control unit, outer door handle electronic modules"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "7.5A",
+     "Roof function control centre"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "5A",
+     "Gear indicator lighting, aerial diversity (noise suppressor filter)"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "Longitudinal dynamics management, gear indicator lighting (AT), gear selector switch (DCT)"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "7.5A",
+     "Driver's switch cluster, passenger's side outside mirror"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "20A",
+     "Electric fuel pump"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "20A",
+     "Driver's seat heating module"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump control (EKPS)"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "20A",
+     "Trailer socket"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "15A",
+     "Driver's door system lock"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "15A",
+     "Passenger's door system lock"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "5A",
+     "Steering column switch cluster"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "10A",
+     "Central information display"
+    ],
+    [
+     "77",
+     "Fuse MINI",
+     "10A",
+     "Luggage compartment light, glove compartment light, heating/air conditioning system"
+    ],
+    [
+     "78",
+     "Fuse ATO",
+     "30A",
+     "Rear driver's side power window motor"
+    ],
+    [
+     "80",
+     "Fuse ATO",
+     "30A",
+     "Rear passenger's side power window motor"
+    ],
+    [
+     "81",
+     "Fuse ATO",
+     "30A",
+     "Driver's window motor"
+    ],
+    [
+     "82",
+     "Fuse ATO",
+     "30A",
+     "DSC (without auto start-stop), DC/DC converter (with auto start-stop)"
+    ],
+    [
+     "84",
+     "Fuse ATO",
+     "40A",
+     "Footwell module"
+    ],
+    [
+     "85",
+     "Fuse ATO",
+     "30A",
+     "DC/DC converter"
+    ],
+    [
+     "86",
+     "Fuse ATO",
+     "40A",
+     "Footwell module"
+    ],
+    [
+     "88",
+     "Fuse MAXI",
+     "40A",
+     "Blower output stage"
+    ],
+    [
+     "89",
+     "Fuse MAXI",
+     "40A",
+     "Secondary air pump relay"
+    ],
+    [
+     "90",
+     "Fuse MAXI",
+     "40A",
+     "Dynamic Stability Control (DSC)"
+    ],
+    [
+     "91",
+     "Fuse MAXI",
+     "25A",
+     "Passenger's door system lock"
+    ],
+    [
+     "92",
+     "Fuse MAXI",
+     "50A",
+     "Fan 400W: electric fan cut-out relay"
+    ],
+    [
+     "92",
+     "Fuse MAXI",
+     "60A",
+     "Fan 600W: electric fan cut-out relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear window wiper"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Wiper relay 1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Terminal 30G"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper relay 2"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Petrol: Digital Motor Electronics (DME) main relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlight cleaning system"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}
