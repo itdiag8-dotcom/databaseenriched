@@ -1,0 +1,187 @@
+{
+ "make_slug": "alfa-romeo",
+ "model_slug": "giulia",
+ "brand_db": "Alfa Romeo",
+ "model_db_name": "Giulia (952)",
+ "model_id": 84,
+ "generation_name": "2nd generation",
+ "generation_code": "Type 952",
+ "year_start": 2016,
+ "year_end": 2024,
+ "trim_label": null,
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/alfa-romeo/giulia/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Side Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-giulia-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F33",
+     "Fuse MINI",
+     "25A",
+     "Front power window (driver side)"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "25A",
+     "Front power window (passenger side)"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Supply for Information and Entertainment system, Climate Control system, Alarm, Power door mirror folding, EOBD system, USB port"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Safe Lock device [driver side door unlock - if equipped], Doors unlock, Central lock"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "25A",
+     "Rear left power window"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "25A",
+     "Rear right power window"
+    ],
+    [
+     "F94",
+     "Fuse MINI",
+     "15A",
+     "Heater rear window coil"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Under hood Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-giulia-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F4",
+     "Fuse MAXI",
+     "40A",
+     "Tow Hook Module (TTM)"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Hi-Fi system"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "I-Drive / USB / AUX port"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "KL15/a 12 Volts Power outlet (R053)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "7.5A",
+     "KL15/a USB Recharge (CO70)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-giulia-2024-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "ENGINE SECONDARY LOADS (2.0L GME)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "PCM (2.2L JTDM)"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "20A",
+     "PCM (2.0L GME)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "ENGINE SECONDARY LOADS (2.2L JTDM)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "ENGINE PRIMARY LOADS (2.0L GME)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "PCM (2.2L JTDM)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "HORN"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "ASD"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "ADDITIONAL ELECTRIC WATER PUMP (2.2 JTDM)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "BLOW BY CONTROL"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "A/C CLUTCH"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "STARTER SOLENOID"
+    ]
+   ]
+  }
+ ]
+}
