@@ -1,0 +1,649 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "blazer",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Blazer",
+ "model_id": 1095,
+ "generation_name": "Crossover",
+ "generation_code": "C1XX",
+ "year_start": 2019,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/chevrolet/blazer/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-blazer-2024-genid-g6-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Antilock brake system pump"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "25A",
+     "Starter 1"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC DC transformer 1"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC DC transformer 2"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter 3"
+    ],
+    [
+     "F12",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "25A",
+     "Starter 2"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "10A",
+     "Daytime running lamp left"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "30A",
+     "Electronic brake control module"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "15A",
+     "Parking/trailer lamps"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "10A",
+     "Right trailer stoplamp/turn lamp"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "10A",
+     "Daytime running lamp right"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "10A",
+     "Left trailer stoplamp/turn lamp"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "20A",
+     "Washer pump"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "20A",
+     "Transmission control module"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "20A",
+     "Left rear bus electrical center/DC DC ignition"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "10A",
+     "HVAC/central gateway module run/crank"
+    ],
+    [
+     "F43",
+     "Fuse MICRO2",
+     "5A",
+     "Reflective light alert display"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "5A",
+     "Electronic brake control module/electric brake booster run/crank"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "15A",
+     "Interior rearview mirror"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel tank zone module run/crank"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "5A",
+     "Coolant pump"
+    ],
+    [
+     "F57",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module/ignition"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "20A",
+     "Transmission control module/ignition"
+    ],
+    [
+     "F59",
+     "Fuse MICRO2",
+     "10A",
+     "Engine control module battery"
+    ],
+    [
+     "F61",
+     "Fuse MICRO2",
+     "15A",
+     "O2 sensor 1/aeroshutter/mass air flow sensor"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module - odd"
+    ],
+    [
+     "F63",
+     "Fuse MICRO2",
+     "15A",
+     "O2 sensor 2"
+    ],
+    [
+     "F64",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module - even"
+    ],
+    [
+     "F65",
+     "Fuse MICRO2",
+     "15A",
+     "Engine control module powertrain 1"
+    ],
+    [
+     "F66",
+     "Fuse MICRO2",
+     "25A",
+     "Engine control module powertrain 2"
+    ],
+    [
+     "F67",
+     "Fuse MICRO2",
+     "25A",
+     "Engine control module powertrain 3"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "Starter 1 relay"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Starter 3 relay"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "Engine control module relay"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Starter 2 relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-blazer-2024-genid-g6-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Diagnostic link/central gateway module"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Spare/electric steering column lock"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "HVAC"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Right front heated seat"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Airbag/seatbelt"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Amplifier/noise control module"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Left front heated seat"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Rear seat entertainment"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Infotainment USB data/aux jack"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "USB charger/wireless charging"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Park assist"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Communications integration module"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "HVAC/information communication system display"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Steering wheel adjustment controls"
+    ],
+    [
+     "F31",
+     "Fuse FMX/JCase",
+     "",
+     "Electric brake control module/electric brake booster"
+    ],
+    [
+     "F32",
+     "Fuse FMM/MCase",
+     "",
+     "DC AC inverter"
+    ],
+    [
+     "F33",
+     "Fuse FMM/MCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "F34",
+     "Fuse FMM/MCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "Battery IEC 1 feed"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "",
+     "Rear seat entertainment/USB charge/wireless charging module/auxiliary power outlet/lighter"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "",
+     "Body control module 8"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-blazer-2024-genid-g6-2.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "",
+     "Trailer battery"
+    ],
+    [
+     "F4",
+     "Fuse FMM/MCase",
+     "",
+     "Spare/rear blower"
+    ],
+    [
+     "F5",
+     "Fuse FMM/MCase",
+     "",
+     "Rear drive control 1"
+    ],
+    [
+     "F7",
+     "Fuse FMM/MCase",
+     "",
+     "Right window"
+    ],
+    [
+     "F8",
+     "Fuse FMM/MCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "F9",
+     "Fuse FMM/MCase",
+     "",
+     "Left window"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Trailer reverse"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Glove box door/trailer stoplamp"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Trailer brake"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Driver ventilated seat/lumbar"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Passive entry/passive start"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Liftgate module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "Fuel tank zone module"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Passenger ventilated seat/lumbar"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "",
+     "Window module"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "",
+     "Rear closure"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "",
+     "Memory seat module"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "",
+     "Automatic occupancy sensor"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "",
+     "Liftgate motor"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "",
+     "Rear heated seats"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "",
+     "Rear drive control 2/semi-active dampening system module"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "",
+     "Video"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "",
+     "External object calculating/side blind zone alert"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "",
+     "Universal remote/rain sensor"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "",
+     "Alarm overhead console/theft deterrent"
+    ]
+   ]
+  }
+ ]
+}
