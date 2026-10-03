@@ -1,0 +1,694 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "ix",
+ "brand_db": "BMW",
+ "model_db_name": "iX",
+ "model_id": 738,
+ "generation_name": "1st generation",
+ "generation_code": "I20",
+ "year_start": 2021,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/bmw/ix/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Front fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-ix-2025-genid-g1-0.webp",
+   "fuses": [
+    [
+     "203",
+     "Fuse MINI",
+     "10A",
+     "Driving assistance"
+    ],
+    [
+     "204",
+     "Fuse MINI",
+     "7.5A",
+     "Driving assistance"
+    ],
+    [
+     "205",
+     "Fuse MINI",
+     "5A",
+     "Steering/DSC/cruise, driving assistance"
+    ],
+    [
+     "206",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system"
+    ],
+    [
+     "207",
+     "Fuse MINI",
+     "7.5A",
+     "Driving assistance"
+    ],
+    [
+     "209",
+     "Fuse MINI",
+     "15A",
+     "Driving assistance"
+    ],
+    [
+     "210",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "211",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "212",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "214",
+     "Fuse MINI",
+     "5A",
+     "Parking sensors / HomeLink (garage door opener)"
+    ],
+    [
+     "218",
+     "Fuse ATO",
+     "40A",
+     "Driving assistance"
+    ],
+    [
+     "221",
+     "Fuse ATO",
+     "20A",
+     "Dynamic drive, driving assistance"
+    ],
+    [
+     "222",
+     "Fuse ATO",
+     "20A",
+     "Driving assistance"
+    ],
+    [
+     "223",
+     "Fuse ATO",
+     "20A",
+     "Driving assistance"
+    ],
+    [
+     "225",
+     "Fuse ATO",
+     "40A",
+     "ABS (Anti-lock Brake System), DSC (Dynamic Stability Control)"
+    ],
+    [
+     "227",
+     "Fuse ATO",
+     "30A",
+     "Electric windows, side view mirror, door module"
+    ],
+    [
+     "228",
+     "Fuse ATO",
+     "30A",
+     "Convertible roof, interior lights"
+    ],
+    [
+     "230",
+     "Fuse ATO",
+     "30A",
+     "Electric windows, side view mirror, door module"
+    ],
+    [
+     "233",
+     "Fuse ATO",
+     "20A",
+     "Instrument cluster"
+    ],
+    [
+     "234",
+     "Fuse ATO",
+     "20A",
+     "BCP (Body Domain Controller)"
+    ],
+    [
+     "236",
+     "Fuse ATO",
+     "20A",
+     "BCP (Body Domain Controller)"
+    ],
+    [
+     "238",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "243",
+     "Fuse MINI",
+     "7.5A",
+     "Infotainment"
+    ],
+    [
+     "244",
+     "Fuse MINI",
+     "5A",
+     "Convertible roof, interior lights"
+    ],
+    [
+     "245",
+     "Fuse MINI",
+     "5A",
+     "Alarm, door module"
+    ],
+    [
+     "246",
+     "Fuse MINI",
+     "7.5A",
+     "Battery/alternator, DME/IVM"
+    ],
+    [
+     "247",
+     "Fuse MINI",
+     "7.5A",
+     "DME/IVM, fuel pump"
+    ],
+    [
+     "248",
+     "Fuse MINI",
+     "10A",
+     "Head-Up Display"
+    ],
+    [
+     "249",
+     "Fuse MINI",
+     "5A",
+     "Heating / independent aux. heater, alarm, temperature control"
+    ],
+    [
+     "250",
+     "Fuse MINI",
+     "10A",
+     "Temperature control"
+    ],
+    [
+     "251",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "252",
+     "Fuse MINI",
+     "10A",
+     "Seatbelts"
+    ],
+    [
+     "253",
+     "Fuse MINI",
+     "10A",
+     "Driving assistance"
+    ],
+    [
+     "254",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "255",
+     "Fuse MINI",
+     "5A",
+     "Alarm"
+    ],
+    [
+     "256",
+     "Fuse MINI",
+     "5A",
+     "Rearview mirror, interior lights"
+    ],
+    [
+     "257",
+     "Fuse MINI",
+     "10A",
+     "Steering/DSC/cruise, driving assistance"
+    ],
+    [
+     "258",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "259",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "260",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "261",
+     "Fuse MINI",
+     "10A",
+     "Alarm"
+    ],
+    [
+     "262",
+     "Fuse MINI",
+     "7.5A",
+     "AC blower motor"
+    ],
+    [
+     "264",
+     "Fuse MINI",
+     "10A",
+     "Trailer module"
+    ],
+    [
+     "266",
+     "Fuse ATO",
+     "30A",
+     "Rear wiper relay"
+    ],
+    [
+     "268",
+     "Fuse ATO",
+     "20A",
+     "Front and rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "274",
+     "Fuse ATO",
+     "30A",
+     "DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ],
+    [
+     "278",
+     "Fuse MINI",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "279",
+     "Fuse MINI",
+     "7.5A",
+     "Power trunk lid opener"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Mid fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-ix-2025-genid-g1-1.webp",
+   "fuses": [
+    [
+     "101",
+     "Fuse ATO",
+     "30A",
+     "Electric windows, door module, interior lights"
+    ],
+    [
+     "102",
+     "Fuse ATO",
+     "30A",
+     "Electric windows, side view mirror, door module, interior lights"
+    ],
+    [
+     "105",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display, infotainment, door module"
+    ],
+    [
+     "106",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning system, blower"
+    ],
+    [
+     "109",
+     "Fuse MINI",
+     "7.5A",
+     "USB ports"
+    ],
+    [
+     "111",
+     "Fuse MINI",
+     "7.5A",
+     "USB ports"
+    ],
+    [
+     "112",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, interior lights"
+    ],
+    [
+     "113",
+     "Fuse MINI",
+     "5A",
+     "Battery/alternator"
+    ],
+    [
+     "114",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "115",
+     "Fuse ATO",
+     "15A",
+     "Steering/DSC/cruise, driving assistance"
+    ],
+    [
+     "118",
+     "Fuse MINI",
+     "7.5A",
+     "USB ports"
+    ],
+    [
+     "122",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, interior lights"
+    ],
+    [
+     "125",
+     "Fuse MINI",
+     "5A",
+     "Heated seats"
+    ],
+    [
+     "129",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "130",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm, infotainment"
+    ],
+    [
+     "131",
+     "Fuse MINI",
+     "7.5A",
+     "Electric windows, side view mirror, door module, interior lights"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "SV HAF/VAF fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-ix-2025-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F420",
+     "Fuse ATO",
+     "7.5A",
+     "Driving assistance"
+    ],
+    [
+     "F421",
+     "Fuse ATO",
+     "10A",
+     "Driving assistance"
+    ],
+    [
+     "F422",
+     "Fuse ATO",
+     "10A",
+     "Driving assistance"
+    ],
+    [
+     "F423",
+     "Fuse ATO",
+     "10A",
+     "Driving assistance"
+    ],
+    [
+     "F425",
+     "Fuse ATO",
+     "20A",
+     "ABS (Anti-lock Brake System), DSC (Dynamic Stability Control)"
+    ],
+    [
+     "F426",
+     "Fuse MINI",
+     "5A",
+     "Steering/DSC/cruise, driving assistance"
+    ],
+    [
+     "F427",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "F428",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "F429",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "F430",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "F431",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "SV Comfort package fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-ix-2025-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F420",
+     "Fuse ATO",
+     "30A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "F421",
+     "Fuse ATO",
+     "10A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "F422",
+     "Fuse ATO",
+     "30A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "F423",
+     "Fuse ATO",
+     "30A",
+     "Heating / independent aux. heater"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Rear fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-ix-2025-genid-g1-4.webp",
+   "fuses": [
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Air suspension, dynamic drive"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "40A",
+     "Trunk"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "40A",
+     "Air suspension"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Sound system"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Alarm"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Alarm"
+    ],
+    [
+     "39",
+     "Fuse MAXI",
+     "40A",
+     "Blower"
+    ],
+    [
+     "41",
+     "Fuse MAXI",
+     "50A",
+     "Infotainment"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "30A",
+     "Trailer module"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "15A",
+     "Trailer module"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "30A",
+     "Infotainment"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "30A",
+     "DME \u2013 Digital Motor Electronics / Integrated Voltage Module (IVM)"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance, trunk"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "5A",
+     "Infotainment"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance, parking sensors / HomeLink"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "10A",
+     "Convertible roof, interior lights"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "15A",
+     "Trailer module"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "BCP fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-ix-2025-genid-g1-5.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Steering/DSC/cruise, driving assistance, main headlights / rain sensor / light sensor / electronic ride height control, interior lights"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "7.5A",
+     "Air suspension, dynamic drive"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning system, trunk, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Battery/alternator, infotainment, door module, auto start/stop"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Door module"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Door module"
+    ]
+   ]
+  }
+ ]
+}
