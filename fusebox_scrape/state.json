@@ -818,9 +818,11 @@
   "dodge/sprinter": "done",
   "dodge/shadow": "no_data",
   "dodge/stratus": "done",
-  "dodge/viper": "done"
+  "dodge/viper": "done",
+  "ds/ds3": "done",
+  "ds/ds3-cabrio": "done"
  },
- "last_updated": "2026-10-03T23:56:39.321988",
+ "last_updated": "2026-10-03T23:57:25.636390",
  "current_brand": "ds",
  "audi_done_models": [
   "a1",
@@ -1604,5 +1606,12 @@
   "sprinter": 1478,
   "stratus": 1481,
   "viper": 1483
+ },
+ "ds_model_slugs": {
+  "ds3": 1493,
+  "ds3-cabrio": 1494,
+  "ds4": 1496,
+  "ds5": 1497,
+  "ds7": 1499
  }
 }
