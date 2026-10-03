@@ -791,9 +791,11 @@
   "daihatsu/sirion": "done",
   "daihatsu/charade": "done",
   "daihatsu/cuore": "skipped_pre2000",
-  "daihatsu/copen": "no_data"
+  "daihatsu/copen": "no_data",
+  "dodge/avenger": "done",
+  "dodge/caliber": "done"
  },
- "last_updated": "2026-10-03T23:39:46.556208",
+ "last_updated": "2026-10-03T23:40:38.805263",
  "current_brand": "dodge",
  "audi_done_models": [
   "a1",
@@ -1547,5 +1549,34 @@
   "matiz",
   "nubira",
   "tacuma"
- ]
+ ],
+ "dodge_model_slugs": {
+  "avenger": 1425,
+  "caliber": 1426,
+  "caravan": 1428,
+  "challenger": 1430,
+  "charger": 1432,
+  "dakota": 1439,
+  "dart": 1442,
+  "daytona": 1443,
+  "dynasty": null,
+  "durango": 1445,
+  "grand-caravan": 1448,
+  "hornet": 1449,
+  "intrepid": 1450,
+  "journey": 1451,
+  "magnum": 1453,
+  "neon": 1458,
+  "nitro": 1459,
+  "ram": 1463,
+  "ram-150": null,
+  "ram-1500": 1464,
+  "ram-2500": 1465,
+  "ram-3500": 1466,
+  "ram-van-1500": 1469,
+  "shadow": 1475,
+  "sprinter": 1478,
+  "stratus": 1481,
+  "viper": 1483
+ }
 }
