@@ -1,0 +1,348 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "aveo",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Aveo",
+ "model_id": 1090,
+ "generation_name": "1st generation pre-facelift",
+ "generation_code": "T-200",
+ "year_start": 2002,
+ "year_end": 2015,
+ "trim_label": "(Aveo T200), Base, LS, LT",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/chevrolet/aveo/info/fusebox/2006/1st-gen-pre-facelift_trims-(aveo_t200)-base-ls-lt",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-aveo-2006-genid-g1.0-trims-(aveo%2520t200)%252Cbase%252Cls%252Clt-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Audio, clock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Turn signal"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, clock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Engine control module, transmission control module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Direct ignition system, injector"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Horn, rear fog lamps"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Instrument panel cluster, hazard flasher"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Door lock, remote keyless entry"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Engine control module, transmission control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Wiper, washer"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Engine fuse"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "HVAC blower"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Heating mat"
+    ],
+    [
+     "21",
+     "Diode MINI",
+     "",
+     "Anti-lock brake system diode"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Clock, audio, handsfree"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-aveo-2006-genid-g1.0-trims-(aveo%2520t200)%252Cbase%252Cls%252Clt-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Passenger side headlamp high"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Driver side headlamp high"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Passenger side headlamp low"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Driver side headlamp low"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Room lamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "Defogger"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Illumination relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "25A",
+     "Headlamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "HVAC blower"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Instrument panel fuse box"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 2"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 1"
+    ],
+    [
+     "14",
+     "Diode MINI",
+     "",
+     "Fog lamp diode"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Parking lamp right side, illumination circuit"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Parking lamp left side, license plate lamp"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brake system"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlamp high"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power window"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan control"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan high"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Cooling fan low"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp low"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Illumination lamps"
+    ]
+   ]
+  }
+ ]
+}

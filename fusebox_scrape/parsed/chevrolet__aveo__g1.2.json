@@ -1,0 +1,336 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "aveo",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Aveo",
+ "model_id": 1090,
+ "generation_name": "1st generation 2nd facelift",
+ "generation_code": "T-250",
+ "year_start": 2012,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/chevrolet/aveo/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-aveo-2017-genid-g1.2-0.webp",
+   "fuses": [
+    [
+     "SDM",
+     "Fuse MINI",
+     "10A",
+     "Safety systems manager"
+    ],
+    [
+     "EMS1",
+     "Fuse MINI",
+     "15A",
+     "Engine management system"
+    ],
+    [
+     "OBD",
+     "Fuse MINI",
+     "10A",
+     "On-board diagnostics"
+    ],
+    [
+     "DOOR LOCK",
+     "Fuse MINI",
+     "15A",
+     "Central locking"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "WIPER",
+     "Fuse MINI",
+     "25A",
+     "Windshield wipers"
+    ],
+    [
+     "STOP LAMP",
+     "Fuse MINI",
+     "15A",
+     "Brake light"
+    ],
+    [
+     "RR DEFOG",
+     "Fuse MINI",
+     "25A",
+     "Rear defogger"
+    ],
+    [
+     "RR FOG",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "MIRROR/SUNROOF",
+     "Fuse MINI",
+     "10A",
+     "Mirror/sunroof"
+    ],
+    [
+     "CLUSTER",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "AUDIO/RKE",
+     "Fuse MINI",
+     "15A",
+     "Remote keyless entry"
+    ],
+    [
+     "T/SIG",
+     "Fuse MINI",
+     "10A",
+     "Turn signal"
+    ],
+    [
+     "CIGAR",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter/12V outlet"
+    ],
+    [
+     "CLUSTER/ROOM LAMP",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel/interior light"
+    ],
+    [
+     "SUN ROOF",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "EMS2",
+     "Fuse MINI",
+     "10A",
+     "Engine management system"
+    ],
+    [
+     "AUDIO",
+     "Fuse MINI",
+     "10A",
+     "Audio system"
+    ],
+    [
+     "CAVIDAD",
+     "Fuse MINI",
+     "15A",
+     "Cavity"
+    ],
+    [
+     "B/UP LAMP",
+     "Fuse MINI",
+     "10A",
+     "Reverse light"
+    ],
+    [
+     "DEFOG MIRROR",
+     "Fuse MINI",
+     "10A",
+     "Mirror defroster"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-aveo-2017-genid-g1.2-1.webp",
+   "fuses": [
+    [
+     "BATT",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery"
+    ],
+    [
+     "PK/LP LH",
+     "Fuse MINI",
+     "10A",
+     "Left parking light"
+    ],
+    [
+     "PK/LP RH",
+     "Fuse MINI",
+     "10A",
+     "Right parking light"
+    ],
+    [
+     "IGN2/ST",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 2/start"
+    ],
+    [
+     "H/L LOW RELAY",
+     "Relay",
+     "",
+     "Low beam headlight relay"
+    ],
+    [
+     "ACC/IGN1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Accessories/ignition 1"
+    ],
+    [
+     "HAZARD",
+     "Fuse MINI",
+     "15A",
+     "Hazard"
+    ],
+    [
+     "H/L LOW RH",
+     "Fuse MINI",
+     "10A",
+     "Right low beam headlight"
+    ],
+    [
+     "H/L LOW LH",
+     "Fuse MINI",
+     "10A",
+     "Left low beam headlight"
+    ],
+    [
+     "FAN HI RELAY",
+     "Relay",
+     "",
+     "Cooling fan high speed relay"
+    ],
+    [
+     "FAN HI",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan high speed"
+    ],
+    [
+     "FUEL PUMP RELAY",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "P/WINDOW RELAY",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "PARK LAMP RELAY",
+     "Relay",
+     "",
+     "Parking lights relay"
+    ],
+    [
+     "FRT FOG RELAY",
+     "Relay",
+     "",
+     "Fog lights relay"
+    ],
+    [
+     "H/L HI RELAY",
+     "Relay",
+     "",
+     "High beam headlight relay"
+    ],
+    [
+     "FRT FOG",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "H/L HI",
+     "Fuse MINI",
+     "15A",
+     "High beam headlight"
+    ],
+    [
+     "FAN LOW RELAY",
+     "Relay",
+     "",
+     "Cooling fan low speed relay"
+    ],
+    [
+     "FAN LOW",
+     "Fuse MINI",
+     "20A",
+     "Cooling fan low speed"
+    ],
+    [
+     "A/C COMP",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "P/WINDOW2",
+     "Fuse MINI",
+     "15A",
+     "Power window 2"
+    ],
+    [
+     "P/WINDOW1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window 1"
+    ],
+    [
+     "FUEL PUMP",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "ECU",
+     "Fuse MINI",
+     "10A",
+     "Electronic control unit"
+    ],
+    [
+     "EMS1",
+     "Fuse MINI",
+     "15A",
+     "Engine management system"
+    ],
+    [
+     "EMS2",
+     "Fuse MINI",
+     "15A",
+     "Engine management system"
+    ],
+    [
+     "ABS",
+     "Fuse FMX/JCase",
+     "50A",
+     "Anti-lock brakes"
+    ],
+    [
+     "A/C RELAY",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "MAIN RELAY",
+     "Relay",
+     "",
+     "Main relay"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,558 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "aveo",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Aveo",
+ "model_id": 1090,
+ "generation_name": "Nuevo Aveo",
+ "generation_code": "T300",
+ "year_start": 2011,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/chevrolet/aveo/info/fusebox/2012/nuevo-aveo",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-aveo-2012-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Antilock brake system valve"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Regulated voltage control"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Antilock brake system fluid"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Automatic occupant sensing/ROS"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Outside rearview mirror"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Heated outside rearview mirror"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Heated front seat"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Fuel system control module 1"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Flex fuel"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Washer"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump (1.8L)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Engine control module/transmission control module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Fuel system control module 2"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Engine control module 1"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Coil"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Engine control module 4"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Engine control module 3"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Engine control module 2"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Injector"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor clutch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Front fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Antilock brake system pump"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "30A",
+     "Run/crank IEC"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan K5"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan K4"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "20A",
+     "EVP"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "25A",
+     "Start"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front wiper speed relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Front wiper control relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay (1.8L)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan K2 relay (1.4L)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan K3 relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cooling fan K1 relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Start high current relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "High-beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-aveo-2012-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "2A",
+     "DLIS"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Data link connector"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Liftgate"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "Body control module 8"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Body control module 7"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Body control module 6"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "25A",
+     "Body control module 5"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Body control module 4"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Body control module 3"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Body control module 2"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Body control module 1"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "OnStar"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Rear parking assist"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Driver information center"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Trailer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "VLBS"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ChevyStar"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "HVAC"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "HDLP ALC"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Clutch"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster/automatic occupant sensing"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Airbag run/crank"
+    ],
+    [
+     "27",
+     "Relay",
+     "",
+     "Run relay"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "Liftgate release"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Trailer run/crank"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Clock spring"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "HVAC"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Sunroof"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "25A",
+     "Rear power windows"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "25A",
+     "Front power windows"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "RAP/ACCY relay"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "30A",
+     "DC/DC converter"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "20A",
+     "Driver power window express up/down"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "60A",
+     "PTC2"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC1"
+    ]
+   ]
+  }
+ ]
+}
