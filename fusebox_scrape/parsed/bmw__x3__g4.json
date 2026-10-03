@@ -1,0 +1,698 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "x3",
+ "brand_db": "BMW",
+ "model_db_name": "X3",
+ "model_id": 802,
+ "generation_name": "4th generation",
+ "generation_code": "G45",
+ "year_start": 2024,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/bmw/x3/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Rear Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x3-2025-genid-g4-0.webp",
+   "fuses": [
+    [
+     "212",
+     "Fuse MINI",
+     "7.5A",
+     "Tailgate"
+    ],
+    [
+     "213",
+     "Fuse MINI",
+     "3A",
+     "Interior lights"
+    ],
+    [
+     "214",
+     "Fuse MINI",
+     "7.5A",
+     "Tailgate, door module / automatic soft-close"
+    ],
+    [
+     "215",
+     "Fuse MINI",
+     "10A",
+     "Hybrid/Electric system"
+    ],
+    [
+     "219",
+     "Fuse MINI",
+     "7.5A",
+     "Infotainment, 48V system"
+    ],
+    [
+     "230",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "231",
+     "Fuse ATO",
+     "15A",
+     "Trailer module"
+    ],
+    [
+     "234",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel injection & similar electronics"
+    ],
+    [
+     "246",
+     "Fuse ATO",
+     "30A",
+     "Rear window defroster (defogger)"
+    ],
+    [
+     "249",
+     "Fuse ATO",
+     "20A",
+     "Load level, front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "250",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "251",
+     "Fuse ATO",
+     "40A",
+     "Tailgate"
+    ],
+    [
+     "252",
+     "Fuse ATO",
+     "30A",
+     "Fuel injection & similar electronics"
+    ],
+    [
+     "257",
+     "Fuse ATO",
+     "40A",
+     "Seatbelts, infotainment"
+    ],
+    [
+     "258",
+     "Fuse ATO",
+     "30A",
+     "Infotainment"
+    ],
+    [
+     "261",
+     "Fuse MINI",
+     "7.5A",
+     "USB circuit fuse"
+    ],
+    [
+     "262",
+     "Fuse MINI",
+     "7.5A",
+     "Infotainment"
+    ],
+    [
+     "265",
+     "Fuse MINI",
+     "3A",
+     "Driving assistance, parking sensors / HomeLink (garage door opener)"
+    ],
+    [
+     "266",
+     "Fuse MINI",
+     "7.5A",
+     "Driving assistance, parking sensors / HomeLink (garage door opener)"
+    ],
+    [
+     "269",
+     "Fuse MINI",
+     "7.5A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "270",
+     "Fuse MINI",
+     "5A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "272",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "273",
+     "Fuse MINI",
+     "3A",
+     "Driving assistance"
+    ],
+    [
+     "275",
+     "Fuse MINI",
+     "15A",
+     "Fuel injection & similar electronics"
+    ],
+    [
+     "276",
+     "Fuse MINI",
+     "7.5A",
+     "Seatbelts"
+    ],
+    [
+     "277",
+     "Fuse ATO",
+     "20A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "279",
+     "Fuse ATO",
+     "15A",
+     "Trailer module"
+    ],
+    [
+     "285",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "286",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse Box Front Left",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x3-2025-genid-g4-1.webp",
+   "fuses": [
+    [
+     "120",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "122",
+     "Fuse ATO",
+     "40A",
+     "Power windows with anti-trapping function, door module / automatic soft-close, interior lights, electric mirrors"
+    ],
+    [
+     "123",
+     "Fuse ATO",
+     "40A",
+     "Power windows with anti-trapping function, door module / automatic soft-close, interior lights, electric mirrors"
+    ],
+    [
+     "128",
+     "Fuse ATO",
+     "20A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "130",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "131",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm, electric rear sunshade, driving assistance"
+    ],
+    [
+     "132",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, instrument cluster, fuel pump, door module / automatic soft-close, electric mirrors"
+    ],
+    [
+     "134",
+     "Fuse MINI",
+     "7.5A",
+     "48V system"
+    ],
+    [
+     "135",
+     "Fuse MINI",
+     "15A",
+     "Instrument cluster, infotainment"
+    ],
+    [
+     "136",
+     "Fuse MINI",
+     "5A",
+     "Alarm"
+    ],
+    [
+     "139",
+     "Fuse MINI",
+     "40A",
+     "Rear wiper relay"
+    ],
+    [
+     "140",
+     "Fuse MINI",
+     "50A",
+     "ABS, DSC, parking brake"
+    ],
+    [
+     "141",
+     "Fuse MAXI",
+     "60A",
+     "Air conditioning system, rear wiper relay, fuel injection & similar electronics, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "142",
+     "Fuse MAXI",
+     "60A",
+     "ABS, DSC, air conditioning, steering column function control module, horn, OBD, level control (air suspension compressor relay), load level, infotainment, rear wiper relay, door module, main headlights / rain sensor / light sensor / ride height control"
+    ],
+    [
+     "144",
+     "Fuse ATO",
+     "30A",
+     "Heated seats, seat adjustment"
+    ],
+    [
+     "146",
+     "Fuse ATO",
+     "30A",
+     "Gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "147",
+     "Fuse ATO",
+     "30A",
+     "Fuel injection & similar electronics"
+    ],
+    [
+     "148",
+     "Fuse ATO",
+     "30A",
+     "Trailer module"
+    ],
+    [
+     "152",
+     "Fuse ATO",
+     "20A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "153",
+     "Fuse ATO",
+     "30A",
+     "Heated seats, seat adjustment"
+    ],
+    [
+     "154",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "155",
+     "Fuse MINI",
+     "5A",
+     "Seatbelts"
+    ],
+    [
+     "156",
+     "Fuse MINI",
+     "10A",
+     "Seat adjustment"
+    ],
+    [
+     "158",
+     "Fuse MINI",
+     "7.5A",
+     "Hybrid/Electric system, 48V system"
+    ],
+    [
+     "159",
+     "Fuse MINI",
+     "3A",
+     "Interior lights"
+    ],
+    [
+     "160",
+     "Fuse MINI",
+     "15A",
+     "USB circuit fuse"
+    ],
+    [
+     "161",
+     "Fuse MINI",
+     "10A",
+     "Seatbelts"
+    ],
+    [
+     "162",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning system, heating / independent aux. heater"
+    ],
+    [
+     "163",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, infotainment"
+    ],
+    [
+     "165",
+     "Fuse MINI",
+     "7.5A",
+     "USB circuit fuse"
+    ],
+    [
+     "166",
+     "Fuse MINI",
+     "7.5A",
+     "Infotainment, door module / automatic soft-close"
+    ],
+    [
+     "167",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning system, heating / independent aux. heater, OBD, Hybrid/Electric system, 48V system"
+    ],
+    [
+     "168",
+     "Fuse MINI",
+     "3A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "169",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm"
+    ],
+    [
+     "170",
+     "Fuse MINI",
+     "7.5A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "172",
+     "Fuse MINI",
+     "7.5A",
+     "Driving assistance, parking sensors / HomeLink (garage door opener)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse Box Front Right",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x3-2025-genid-g4-2.webp",
+   "fuses": [
+    [
+     "120",
+     "Fuse ATO",
+     "40A",
+     "Power windows with anti-trapping function, door module / automatic soft-close, interior lights, electric mirrors"
+    ],
+    [
+     "121",
+     "Fuse ATO",
+     "40A",
+     "Power windows with anti-trapping function, door module / automatic soft-close, interior lights, electric mirrors"
+    ],
+    [
+     "122",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "125",
+     "Fuse ATO",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "126",
+     "Fuse ATO",
+     "15A",
+     "Instrument cluster, driving assistance, infotainment"
+    ],
+    [
+     "128",
+     "Fuse ATO",
+     "20A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "130",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm, electric rear sunshade, driving assistance"
+    ],
+    [
+     "131",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm, Hybrid/Electric system"
+    ],
+    [
+     "132",
+     "Fuse MINI",
+     "3A",
+     "Parking brake, infotainment"
+    ],
+    [
+     "133",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, door module / automatic soft-close, electric mirrors"
+    ],
+    [
+     "134",
+     "Fuse MINI",
+     "7.5A",
+     "48V system"
+    ],
+    [
+     "135",
+     "Fuse MINI",
+     "3A",
+     "Air conditioning system, interior lights"
+    ],
+    [
+     "136",
+     "Fuse MINI",
+     "7.5A",
+     "Hybrid/Electric system"
+    ],
+    [
+     "137",
+     "Fuse MINI",
+     "5A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "138",
+     "Fuse MINI",
+     "5A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "139",
+     "Fuse MINI",
+     "50A",
+     "ABS, DSC, parking brake"
+    ],
+    [
+     "140",
+     "Fuse MINI",
+     "50A",
+     "Air conditioning system, electric fan"
+    ],
+    [
+     "141",
+     "Fuse MAXI",
+     "60A",
+     "Air conditioning system, rear wiper relay, fuel injection & similar electronics, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "142",
+     "Fuse MAXI",
+     "60A",
+     "ABS, DSC, air conditioning, steering column function control module, horn, OBD, level control (air suspension compressor relay), load level, infotainment, rear wiper relay, door module, main headlights / rain sensor / light sensor / ride height control"
+    ],
+    [
+     "144",
+     "Fuse ATO",
+     "30A",
+     "Heated seats, seat adjustment"
+    ],
+    [
+     "147",
+     "Fuse ATO",
+     "5A",
+     "Fuel injection & similar electronics"
+    ],
+    [
+     "152",
+     "Fuse ATO",
+     "20A",
+     "Electric rear sunshade"
+    ],
+    [
+     "153",
+     "Fuse ATO",
+     "30A",
+     "Heated seats, seat adjustment"
+    ],
+    [
+     "154",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "155",
+     "Fuse MINI",
+     "10A",
+     "Seatbelts"
+    ],
+    [
+     "156",
+     "Fuse MINI",
+     "10A",
+     "Steering column function control module"
+    ],
+    [
+     "157",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, infotainment"
+    ],
+    [
+     "160",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "161",
+     "Fuse MINI",
+     "10A",
+     "Seat adjustment"
+    ],
+    [
+     "162",
+     "Fuse MINI",
+     "7.5A",
+     "Hybrid/Electric system, 48V system"
+    ],
+    [
+     "163",
+     "Fuse MINI",
+     "3A",
+     "Interior lights"
+    ],
+    [
+     "164",
+     "Fuse MINI",
+     "5A",
+     "Alarm"
+    ],
+    [
+     "165",
+     "Fuse MINI",
+     "15A",
+     "USB circuit fuse"
+    ],
+    [
+     "166",
+     "Fuse MINI",
+     "3A",
+     "Interior lights"
+    ],
+    [
+     "167",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm, rear view mirror relays"
+    ],
+    [
+     "168",
+     "Fuse MINI",
+     "7.5A",
+     "Electric fan"
+    ],
+    [
+     "169",
+     "Fuse MINI",
+     "7.5A",
+     "Hybrid/Electric system"
+    ],
+    [
+     "170",
+     "Fuse MINI",
+     "7.5A",
+     "Driving assistance, parking sensors / HomeLink (garage door opener)"
+    ],
+    [
+     "171",
+     "Fuse MINI",
+     "7.5A",
+     "Hybrid/Electric system, 48V system"
+    ],
+    [
+     "172",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning system"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Body Domain Controller fuse box (BCP)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x3-2025-genid-g4-3.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC, steering column function control module, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "7.5A",
+     "OBD, level control system (air suspension compressor relay), load level"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning system, rear wiper relay, door module / automatic soft-close, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Infotainment, door module / automatic soft-close"
+    ]
+   ]
+  }
+ ]
+}
