@@ -1,0 +1,692 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "x5-m",
+ "brand_db": "BMW",
+ "model_db_name": "X5 M",
+ "model_id": 814,
+ "generation_name": "2nd generation",
+ "generation_code": "F95",
+ "year_start": 2020,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/bmw/x5-m/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Rear fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x5-m-2021-0.webp",
+   "fuses": [
+    [
+     "203",
+     "Fuse MINI",
+     "7.5A",
+     "Rear wiper relay, fuel injection & similar electronics"
+    ],
+    [
+     "204",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, load level, driving assistance"
+    ],
+    [
+     "207",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "208",
+     "Fuse MINI",
+     "5A",
+     "Steering column function control module"
+    ],
+    [
+     "209",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC, sound system, air suspension compressor relay, driving assistance, fuel injection & similar electronics"
+    ],
+    [
+     "210",
+     "Fuse MINI",
+     "5A",
+     "Fuel pump, fuel injection & similar electronics"
+    ],
+    [
+     "211",
+     "Fuse MINI",
+     "5A",
+     "On-Board Diagnostics (OBD), driving assistance"
+    ],
+    [
+     "212",
+     "Fuse MINI",
+     "15A",
+     "Head-Up Display, rear seat entertainment"
+    ],
+    [
+     "213",
+     "Fuse MINI",
+     "15A",
+     "Trailer module / front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "214",
+     "Fuse MINI",
+     "5A",
+     "Rear seat entertainment"
+    ],
+    [
+     "215",
+     "Fuse MINI",
+     "10A",
+     "Rear seat entertainment"
+    ],
+    [
+     "216",
+     "Fuse MINI",
+     "5A",
+     "Rear seat entertainment"
+    ],
+    [
+     "217",
+     "Fuse ATO",
+     "40A",
+     "Rear seat entertainment, gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "218",
+     "Fuse ATO",
+     "20A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "220",
+     "Fuse ATO",
+     "30A",
+     "Rear seat entertainment"
+    ],
+    [
+     "224",
+     "Fuse ATO",
+     "20A",
+     "Air suspension compressor relay, load level"
+    ],
+    [
+     "226",
+     "Fuse ATO",
+     "40A",
+     "Tailgate"
+    ],
+    [
+     "227",
+     "Fuse ATO",
+     "30A",
+     "Fuel injection & similar electronics"
+    ],
+    [
+     "230",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "231",
+     "Fuse ATO",
+     "30A",
+     "Rear window defroster (defogger)"
+    ],
+    [
+     "232",
+     "Fuse ATO",
+     "30A",
+     "Rear window defroster (defogger)"
+    ],
+    [
+     "233",
+     "Fuse ATO",
+     "20A",
+     "Air conditioning system, electric fan"
+    ],
+    [
+     "240",
+     "Fuse ATO",
+     "20A",
+     "Trailer module"
+    ],
+    [
+     "244",
+     "Fuse MINI",
+     "5A",
+     "Car alarm, fuel pump, door module / automatic soft-close, hybrid system"
+    ],
+    [
+     "247",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning system"
+    ],
+    [
+     "248",
+     "Fuse MINI",
+     "15A",
+     "Electric rear sunshade"
+    ],
+    [
+     "249",
+     "Fuse MINI",
+     "10A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "250",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "251",
+     "Fuse MINI",
+     "10A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "252",
+     "Fuse MINI",
+     "5A",
+     "Seatbelts"
+    ],
+    [
+     "253",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning system, heated seats, driving assistance, parking sensors / HomeLink (garage door opener)"
+    ],
+    [
+     "254",
+     "Fuse MINI",
+     "5A",
+     "Tailgate, interior lights"
+    ],
+    [
+     "255",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, seat adjustment, interior lights"
+    ],
+    [
+     "256",
+     "Fuse MINI",
+     "10A",
+     "Electric rear sunshade, door module / automatic soft-close"
+    ],
+    [
+     "257",
+     "Fuse MINI",
+     "5A",
+     "Seatbelts, electric windows, parking sensors / HomeLink, interior lights"
+    ],
+    [
+     "258",
+     "Fuse MINI",
+     "10A",
+     "Electric rear sunshade, door module / automatic soft-close"
+    ],
+    [
+     "259",
+     "Fuse MINI",
+     "15A",
+     "Fuel injection & similar electronics"
+    ],
+    [
+     "260",
+     "Fuse MINI",
+     "10A",
+     "Tailgate"
+    ],
+    [
+     "261",
+     "Fuse MINI",
+     "5A",
+     "USB"
+    ],
+    [
+     "262",
+     "Fuse MINI",
+     "5A",
+     "Air suspension compressor relay, Head-Up Display, rear seat entertainment, interior lights"
+    ],
+    [
+     "263",
+     "Fuse MINI",
+     "10A",
+     "Tailgate"
+    ],
+    [
+     "264",
+     "Fuse MINI",
+     "10A",
+     "Tailgate"
+    ],
+    [
+     "265",
+     "Fuse ATO",
+     "30A",
+     "Gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "266",
+     "Fuse ATO",
+     "20A",
+     "Trailer module / front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "267",
+     "Fuse ATO",
+     "30A",
+     "ABS, DSC, trailer module, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "269",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "270",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "271",
+     "Fuse ATO",
+     "30A",
+     "Heated seats, seat adjustment"
+    ],
+    [
+     "273",
+     "Fuse ATO",
+     "",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "274",
+     "Fuse ATO",
+     "30A",
+     "Heated seats"
+    ],
+    [
+     "278",
+     "Fuse MINI",
+     "5A",
+     "Hybrid system"
+    ],
+    [
+     "279",
+     "Fuse MINI",
+     "5A",
+     "Tailgate"
+    ],
+    [
+     "280",
+     "Fuse MINI",
+     "5A",
+     "Hybrid system"
+    ],
+    [
+     "289",
+     "Fuse ATO",
+     "7.5A",
+     "Trailer module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Front right fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x5-m-2021-1.webp",
+   "fuses": [
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Seatbelts"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Replacement top module; alternating relay"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "40A",
+     "ABS, DSC"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Parking brake"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Rear seat entertainment"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Car alarm, replacement top module / alternating relay, interior lights"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning system, electric fan"
+    ],
+    [
+     "39",
+     "Fuse MAXI",
+     "60A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "40",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioning system, electric fan"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "20A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "30A",
+     "Rear wiper relay"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "20A",
+     "Steering column function control module"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "15A",
+     "Air conditioning system"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "30A",
+     "Air suspension compressor relay, gear indicator, EDC, automatic transmission control, AWD"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "20A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "10A",
+     "Heated seats"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "10A",
+     "Heated seats"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "5A",
+     "HomeLink (garage door opener), USB, main headlights / rain sensor / light sensor / electronic ride height control, electrochromic rear view mirror"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "5A",
+     "48V system, driving assistance, interior lights"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "15A",
+     "Replacement top module; alternating relay"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, rear seat entertainment"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "10A",
+     "Seat adjustment, USB, interior lights"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "5A",
+     "USB, interior lights"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "Interior lights"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, interior lights, electric mirrors"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "5A",
+     "Seat adjustment, interior lights, electric mirrors"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "5A",
+     "Electric fan"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "5A",
+     "On-Board Diagnostics (OBD), electric fan, fuel injection & similar electronics"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "5A",
+     "Driving assistance"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "7.5A",
+     "USB"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "10A",
+     "Steering column function control module"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "10A",
+     "Seatbelts"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning system"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Front left fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x5-m-2021-2.webp",
+   "fuses": [
+    [
+     "105",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel injection & similar electronics"
+    ],
+    [
+     "107",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump, hybrid system"
+    ],
+    [
+     "110",
+     "Fuse MINI",
+     "5A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "117",
+     "Fuse ATO",
+     "30A",
+     "Hybrid system"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Body Domain Controller fuse box (BCP)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x5-m-2021-3.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning system, steering column function control module, rear seat entertainment, main headlights / rain sensor / light sensor / electronic ride height control"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "7.5A",
+     "On-Board Diagnostics (OBD), air suspension compressor relay, load level"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning system, electric rear sunshade, tailgate"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Air suspension compressor relay, rear seat entertainment, door module / automatic soft-close, START-STOP system"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Door module / automatic soft-close"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Door module / automatic soft-close"
+    ]
+   ]
+  }
+ ]
+}

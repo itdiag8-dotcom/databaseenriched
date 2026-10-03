@@ -1,0 +1,576 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "x5-m",
+ "brand_db": "BMW",
+ "model_db_name": "X5 M",
+ "model_id": 814,
+ "generation_name": "1st generation",
+ "generation_code": "E70",
+ "year_start": 2010,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/bmw/x5-m/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse box in the luggage compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x5-m-2011-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Relay",
+     "",
+     "Circuit cut-off relay"
+    ],
+    [
+     "F91",
+     "Fuse ATO",
+     "40A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "F91",
+     "Fuse ATO",
+     "30A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "F92",
+     "Fuse ATO",
+     "25A",
+     "Transfer box control module; gear indicator / DSC / SMG"
+    ],
+    [
+     "F92",
+     "Fuse ATO",
+     "30A",
+     "Transfer box control module; gear indicator / DSC / SMG"
+    ],
+    [
+     "F93",
+     "Fuse ATO",
+     "40A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "F93",
+     "Fuse ATO",
+     "30A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "F94",
+     "Fuse ATO",
+     "30A",
+     "Parking brake control module"
+    ],
+    [
+     "F95",
+     "Fuse ATO",
+     "40A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "F95",
+     "Fuse ATO",
+     "30A",
+     "Heating / independent aux. heater"
+    ],
+    [
+     "F96",
+     "Fuse ATO",
+     "40A",
+     "Main headlights / rain sensor / light sensor / electronic ride height control; light module; interior lights"
+    ],
+    [
+     "F97",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump relay / fuel pump control"
+    ],
+    [
+     "F98",
+     "Fuse ATO",
+     "20A",
+     "Heating / independent aux. heater; electric fan"
+    ],
+    [
+     "F98",
+     "Fuse ATO",
+     "15A",
+     "Heating / independent aux. heater; electric fan"
+    ],
+    [
+     "F99",
+     "Fuse ATO",
+     "40A",
+     "Tailgate open/close control module; boot lid (tailgate) lock / soft-close automatic"
+    ],
+    [
+     "F100",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "F101",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "F102",
+     "Fuse ATO",
+     "30A",
+     "Seat adjustment"
+    ],
+    [
+     "F103",
+     "Fuse ATO",
+     "30A",
+     "Audio unit output amplifier; HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "F103",
+     "Fuse ATO",
+     "40A",
+     "Audio unit output amplifier; HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "F105",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump relay / fuel pump control"
+    ],
+    [
+     "F105",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump relay / fuel pump control"
+    ],
+    [
+     "F106",
+     "Fuse MINI",
+     "7.5A",
+     "Air suspension system"
+    ],
+    [
+     "F107",
+     "Fuse MINI",
+     "10A",
+     "Head-Up Display (HUD); level control system (air suspension compressor relay)"
+    ],
+    [
+     "F108",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD); parking sensors / HomeLink (garage door opener)"
+    ],
+    [
+     "F109",
+     "Fuse MINI",
+     "10A",
+     "Navigation system receiver; HUD; HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "F110",
+     "Fuse MINI",
+     "7.5A",
+     "Light module; telephone"
+    ],
+    [
+     "F111",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter (main ashtray socket)"
+    ],
+    [
+     "F112",
+     "Fuse MINI",
+     "5A",
+     "Heated seats"
+    ],
+    [
+     "F113",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter (centre armrest console)"
+    ],
+    [
+     "F114",
+     "Fuse MINI",
+     "5A",
+     "Parking sensors / HomeLink (garage door opener); interior lights"
+    ],
+    [
+     "F115",
+     "Fuse MINI",
+     "20A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "F116",
+     "Fuse ATO",
+     "20A",
+     "Trailer socket"
+    ],
+    [
+     "F117",
+     "Fuse ATO",
+     "20A",
+     "Sunroof / panorama glass roof"
+    ],
+    [
+     "F118",
+     "Fuse ATO",
+     "20A",
+     "Front & rear cigarette lighter, 12V socket / glove box charging socket (12V)"
+    ],
+    [
+     "F119",
+     "Fuse MINI",
+     "5A",
+     "Multimedia control module; Head-Up Display (HUD)"
+    ],
+    [
+     "F120",
+     "Fuse MINI",
+     "5A",
+     "Active suspension control module; air suspension system"
+    ],
+    [
+     "F121",
+     "Fuse MINI",
+     "5A",
+     "Tailgate open/close control module; boot lid (tailgate) lock / soft-close automatic"
+    ],
+    [
+     "F122",
+     "Fuse MINI",
+     "5A",
+     "Fuel pump relay / fuel pump control"
+    ],
+    [
+     "F123",
+     "Fuse MINI",
+     "5A",
+     "ABS, DSC; gear indicator / DSC / SMG; level control system (air suspension compressor relay)"
+    ],
+    [
+     "F124",
+     "Fuse MINI",
+     "5A",
+     "Fascia fuse box/relay plate; door module / automatic soft-close; main headlights / sensors; light module; horn; power windows; washer fluid heater"
+    ],
+    [
+     "F125",
+     "Fuse MINI",
+     "5A",
+     "Transfer box control module; gear indicator / DSC / SMG"
+    ],
+    [
+     "F126",
+     "Fuse MINI",
+     "5A",
+     "Electric fan; air conditioning system"
+    ],
+    [
+     "F127",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD)"
+    ],
+    [
+     "F128",
+     "Fuse MINI",
+     "5A",
+     "Head-Up Display (HUD)"
+    ],
+    [
+     "F129",
+     "Fuse MINI",
+     "5A",
+     "Parking brake; HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "F130",
+     "Fuse MINI",
+     "15A",
+     "OBD"
+    ],
+    [
+     "F131",
+     "Fuse MINI",
+     "5A",
+     "OBD; instrument cluster"
+    ],
+    [
+     "F132",
+     "Fuse MINI",
+     "7.5A",
+     "Head-Up Display (HUD); door module / automatic soft-close"
+    ],
+    [
+     "F134",
+     "Fuse MINI",
+     "5A",
+     "Steering column function control module; Head-Up Display (HUD)"
+    ],
+    [
+     "F135",
+     "Fuse MINI",
+     "20A",
+     "Tailgate open/close control module; door module / automatic soft-close"
+    ],
+    [
+     "F136",
+     "Fuse MINI",
+     "5A",
+     "Telephone"
+    ],
+    [
+     "F137",
+     "Fuse MINI",
+     "5A",
+     "Navigation system"
+    ],
+    [
+     "F139",
+     "Fuse ATO",
+     "20A",
+     "Heated seats; seat adjustment"
+    ],
+    [
+     "F140",
+     "Fuse ATO",
+     "20A",
+     "Seat heater control module (left front); heated seats; seat adjustment"
+    ],
+    [
+     "F141",
+     "Fuse ATO",
+     "20A",
+     "Seat heater control module (right front); heated seats; seat adjustment"
+    ],
+    [
+     "F142",
+     "Fuse ATO",
+     "20A",
+     "Multimedia control module; HUD; CD changer / CAN gateway module; HiFi amplifier, TV tuner, video module"
+    ],
+    [
+     "F143",
+     "Fuse ATO",
+     "25A",
+     "Trailer control module"
+    ],
+    [
+     "F144",
+     "Fuse ATO",
+     "5A",
+     "Trailer control module"
+    ],
+    [
+     "F145",
+     "Fuse MINI",
+     "10A",
+     "Assisted door closing motor (right front); door module / automatic soft-close"
+    ],
+    [
+     "F146",
+     "Fuse MINI",
+     "10A",
+     "Assisted door closing motor (left front); door module / automatic soft-close"
+    ],
+    [
+     "F147",
+     "Fuse MINI",
+     "10A",
+     "Assisted door closing motor (left rear); door module / automatic soft-close"
+    ],
+    [
+     "F148",
+     "Fuse MINI",
+     "10A",
+     "Assisted door closing motor (right rear); door module / automatic soft-close"
+    ],
+    [
+     "F149",
+     "Fuse MINI",
+     "7.5A",
+     "Seat multifunction switch (left front); seat adjustment"
+    ],
+    [
+     "F150",
+     "Fuse MINI",
+     "7.5A",
+     "Seat multifunction switch (right front); seat adjustment"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x5-m-2011-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Glove box locking motor"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Horns"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Steering column function control module"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Transmission selector lever"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "Electric window switch"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "40A",
+     "Active steering"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "30A",
+     "Headlamp washer pump"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Central locking system"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Central locking system"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "40A",
+     "Rear electric windows"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "30A",
+     "Central locking system"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "40A",
+     "Rear electric windows"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "40A",
+     "Suspension compressor pump"
+    ],
+    [
+     "F35",
+     "Fuse ATO",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "F36",
+     "Fuse ATO",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "F37",
+     "Fuse ATO",
+     "30A",
+     "Rear screen wiper motor"
+    ],
+    [
+     "F40",
+     "Fuse ATO",
+     "30A",
+     "ABS control module"
+    ],
+    [
+     "F42",
+     "Fuse ATO",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "F43",
+     "Fuse ATO",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "F44",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Suspension compressor motor relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear screen wiper relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Windscreen wiper motor relay"
+    ]
+   ]
+  }
+ ]
+}
