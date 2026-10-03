@@ -1,0 +1,464 @@
+{
+ "make_slug": "buick",
+ "model_slug": "lesabre",
+ "brand_db": "Buick",
+ "model_db_name": "LeSabre",
+ "model_id": 961,
+ "generation_name": "7th generation",
+ "generation_code": "GM H platform",
+ "year_start": 1992,
+ "year_end": 1999,
+ "trim_label": "",
+ "representative_year": 1999,
+ "source_url": "https://www.startmycar.com/buick/lesabre/info/fusebox/1999",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-lesabre-1999-genid-g7-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Circuit breaker MAXI",
+     "",
+     "Power seats circuit breaker"
+    ],
+    [
+     "1A",
+     "Fuse MINI",
+     "10A",
+     "PASS-Key"
+    ],
+    [
+     "5A",
+     "Fuse MINI",
+     "15A",
+     "Auto HVAC, ALM, cruise control, cluster"
+    ],
+    [
+     "6A",
+     "Fuse MINI",
+     "15A",
+     "Courtesy lamps, power mirrors"
+    ],
+    [
+     "8A",
+     "Fuse MINI",
+     "",
+     "Perimeter lighting"
+    ],
+    [
+     "1B",
+     "Fuse MINI",
+     "20A",
+     "Turn signal, back-up lamps, BTSI"
+    ],
+    [
+     "5B",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system, computer command control"
+    ],
+    [
+     "6B",
+     "Fuse MINI",
+     "20A",
+     "Brake and hazard lamps"
+    ],
+    [
+     "8B",
+     "Fuse MINI",
+     "10A",
+     "Interior lighting"
+    ],
+    [
+     "9B",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "1C",
+     "Fuse MINI",
+     "10A",
+     "Air bag system"
+    ],
+    [
+     "5C",
+     "Fuse MINI",
+     "",
+     "Cooling fans, transaxle"
+    ],
+    [
+     "6C",
+     "Fuse MINI",
+     "15A",
+     "Parking lamps, interior lamps"
+    ],
+    [
+     "8C",
+     "Fuse MINI",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "9C",
+     "Fuse MINI",
+     "10A",
+     "Radio, cluster"
+    ],
+    [
+     "1D",
+     "Fuse MINI",
+     "15A",
+     "Telltale, chime, cluster, RAC, LCM"
+    ],
+    [
+     "3D",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "5D",
+     "Fuse MINI",
+     "25A",
+     "Manual A/C"
+    ],
+    [
+     "7D",
+     "Fuse MINI",
+     "",
+     "Torque converter clutch"
+    ],
+    [
+     "8D",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "2E",
+     "Fuse MINI",
+     "10A",
+     "Air bag system, PASS-Key"
+    ],
+    [
+     "5E",
+     "Fuse MINI",
+     "30A",
+     "Rear defog"
+    ],
+    [
+     "7E",
+     "Fuse MINI",
+     "10A",
+     "Miscellaneous engine (non-OBD)"
+    ],
+    [
+     "8E",
+     "Fuse MINI",
+     "25A",
+     "Wipers, washer"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger's side fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-lesabre-1999-genid-g7-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Door locks"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Trunk release, RAC"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Horns"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Miscellaneous engine controls (OBD II)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Injectors"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C programmer"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Park lamp relay (Oldsmobile only)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamp relay (Oldsmobile only)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Retained accessory power relay (ignition)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Retained accessory power relay (accessory)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Interior lamps relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Electronic level control relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Luggage compartment lid release relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fog lamps disable relay (Pontiac only)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "LH front door isolation relay (Buick only)"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Fuel door release relay (Olds) / fog lamps relay (Pontiac)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Under-hood fuse block (right hand)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-lesabre-1999-genid-g7-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MAXI",
+     "60A",
+     "Ignition switch, RAP relay"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "30A",
+     "Blower control module, blower motor relay"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "20A",
+     "PCM, theft deterrent module"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "30A",
+     "Automatic level control compressor/sensor/relay, ELC relay"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "60A",
+     "Door locks fuse, RAC/trunk release fuse, horn fuse"
+    ],
+    [
+     "8",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows / sunroof relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High blower relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "High speed engine cooling fan relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Low speed engine cooling fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Under-hood fuse block (left hand)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-lesabre-1999-genid-g7-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "60A",
+     "Rear defog fuse, power seats circuit breaker"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "60A",
+     "Ignition switch"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "20A",
+     "Headlamp dimmer switch, headlamp switch, lamp control module"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "60A",
+     "Brake/hazard lamps, park lamps, interior lamps, courtesy/power mirror, fog lamps fuses"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan relays"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "60A",
+     "Cigar lighter fuse, misc radio/cluster fuse"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "40A",
+     "ABS solenoid (EBTCM/EBCM)"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "ABS motor (EBTCM/EBCM)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Low speed engine cooling fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "High speed engine cooling fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "High blower relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ]
+   ]
+  }
+ ]
+}
