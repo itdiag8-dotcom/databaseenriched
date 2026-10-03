@@ -1,0 +1,169 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "ypsilon",
+ "brand_db": "Chrysler",
+ "model_db_name": "YPSILON",
+ "model_id": 6256,
+ "generation_name": "1st generation (Type 846)",
+ "generation_code": "g1",
+ "year_start": 2012,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/chrysler/ypsilon/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-ypsilon-2014-genid-g1-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel (not ignition operated)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Door central locking"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Climate control unit, Blue&Me control unit, EOBD socket, radio setup (not ignition operated)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Two-way windscreen washer pump"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Front electric window (passenger side)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Headlight alignment corrector (ignition-operated)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Radio setup, climate control unit, sunroof, parking control unit, brake/clutch pedal switches (NC), reversing lights, headlight washer coil (ignition-operated)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Switch on brake pedal (NO) (ignition-operated)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Sunroof, heated seats, rain/dusk sensor, electric mirror control, control lighting, AUX socket (ignition-operated)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Ignition-operated control with inhibition during engine starting"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Front electric window (driver side)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-ypsilon-2014-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Main beam headlights"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Horns"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Sunroof motor"
+    ],
+    [
+     "F22",
+     "Fuse MAXI",
+     "40A",
+     "Passenger compartment fan"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "15A",
+     "Front power socket (with or without cigar lighter)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-ypsilon-2014-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "20A",
+     "Rear right electric window"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "20A",
+     "Rear left electric window"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "7.5A",
+     "Alarm setup supply"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "U8",
+     "Fuse ATO",
+     "20A",
+     "BOSE Hi-Fi system"
+    ]
+   ]
+  }
+ ]
+}

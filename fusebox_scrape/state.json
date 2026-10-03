@@ -309,12 +309,12 @@
   "byd": 1,
   "cadillac": "done",
   "chery": "done",
-  "chevrolet": true
+  "chevrolet": true,
+  "chrysler": "done"
  },
- "in_progress": "chevrolet",
+ "in_progress": "citroen",
  "queue_next_makes": [
   "arcfox",
-  "chrysler",
   "citroen",
   "cupra",
   "dacia",
@@ -726,10 +726,11 @@
   "chrysler/valiant": "no_data",
   "chrysler/town-and-country": "done",
   "chrysler/viper": "no_data",
-  "chrysler/voyager": "done"
+  "chrysler/voyager": "done",
+  "chrysler/ypsilon": "done"
  },
- "last_updated": "2026-10-03T22:51:01.486573",
- "current_brand": "chrysler",
+ "last_updated": "2026-10-03T22:51:33.699954",
+ "current_brand": "citroen",
  "audi_done_models": [
   "a1",
   "a2",
