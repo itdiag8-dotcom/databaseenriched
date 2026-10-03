@@ -1,0 +1,727 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "sts",
+ "brand_db": "Cadillac",
+ "model_db_name": "STS",
+ "model_id": 1038,
+ "generation_name": "G1",
+ "generation_code": "GMX295",
+ "year_start": 2005,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/cadillac/sts/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-sts-2011-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "FAN 2 - Cooling fan high speed"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "FAN 1 - Cooling fan low speed"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "STRTR - Starter"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "ABS MTR - ABS module/StabiliTrak"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "",
+     "AFS - Active front steering"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "",
+     "LPDB 2 - Driver side rear fuse block"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "",
+     "LPDB 1 - Driver side rear fuse block"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "RPDB 1 - Passenger side rear fuse block"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "",
+     "BLWR - Blower motor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "CCP/RLY COILS - Climate control panel, headlamp level, ACC, relay coils, starter, blower"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "I/BEAM - IntelliBeam relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "HUD - Heads-up display, steering column switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "ECM/TCM BATT - ECM, transmission control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "I/P MDL/ALDL - Instrument panel module, data link connector"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "FRT PWR OUTLET - Front accessory power outlet"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "AUX OUTLET - Rear accessory power outlet"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "",
+     "RPDB 2 - Passenger side rear fuse block"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "ABS - ABS module/StabiliTrak"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "HORN - Horn"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "A/C CLTCH - A/C compressor clutch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "FUEL COOL - Fuel cooling"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "WPR - Wipe/wash module assembly"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "LT PRK - Driver side park lamp/taillamp"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "RT PRK - Passenger side park lamp/taillamp"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "LIC DIM - License plate, instrument panel dimming"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "HDLP WASH - Headlamp washer motor (circuit breaker)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "CCP - Climate control panel"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "ABS IGN - Antilock brake controller"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "ECM/TCM IGN - ECM, TCM, instrument panel cluster"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "HTD WASH/AQS - Heated headlamp washer, air quality sensor"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "LT HI BEAM - Driver side high beam headlamp"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "RAIN SNSR/TPM - Rain sensor, headlamp wash relay coil"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "RT HI BEAM - Passenger side high beam headlamp"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "V/CHK - Instrument panel module voltage check"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "FOG LAMP - Front fog lamps"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "RT LO BEAM - Passenger side low beam headlamp"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "LT LO BEAM - Driver side low beam headlamp"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "WPR SW/VICS - Rain sensor, wiper switch"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "EKM/I/P MDL - Easy key module, instrument panel module"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "PRE O2 SNSR - Pre oxygen sensor, cam sensors"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "EVEN COILS - Even ignition coils, even fuel injectors"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "ODD COILS - Odd ignition coils, odd fuel injectors"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "POST O2 SNSR - Post oxygen sensor"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "",
+     "ECM 1 - Engine control module"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "BRK VAC PUMP - Brake vacuum pump"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "HI FAN SPD - Cooling fan high speed"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "FAN S/P - Cooling fan series/parallel"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PRK LAMP - Parking lamps, panel dimming, license plate lamps"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "FOG LAMP - Fog lamps"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "RUN CRNK - Heated washer nozzle, AQS, ABS, CCP, TCM, ECM, cluster"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "LO FAN SPD - Cooling fan low speed"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "STRTR - Starter"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "PWR/TRN - Engine controls"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "FRT BLWR - Front blower motor"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "HI BEAM - High beam headlamp"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "WPR HI - Windshield wiper high speed"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "LOW BEAM - Low beam headlamp (w/o HID/HID)"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "HORN - Horn"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "BRK VAC PUMP - Brake vacuum pump"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "A/C CMPRSR CLTCH - A/C compressor clutch"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "FUEL COOL - Fuel cooling pump"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "ACCY - Rain sensor, headlamp washer relay coil, wiper/washer module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear Underseat Fuse Block (Driver's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-sts-2011-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "AMP - Amplifier"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "ELC CMPRSR - Automatic level control"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "INCLR PUMP - Inner cooler pump"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "THEFT/SHFT - Theft sensors, auto shifter, power sounder"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "MRTD MDL - Magnetic ride control module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "REAR DR MDL - Rear door modules"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "ELC EXH - Electronic level control exhaust solenoid"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "DDM - Driver door module, front door subwoofers"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "TV/VICS/SCM - Infotainment (export), supervisory control module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "REAR HTD/SEATS - Rear heated seats"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "IGN3 - Front passenger heated seat, auto shifter, occupant protection, seatbelt tension reducer"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "REAR SHLF SPKR - Rear shelf speaker"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "MSM - Memory seat module lumbar"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "TRUNK RELSE SW - Trunk release, valet lockout switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "BCK/UP LAMP - Reverse lamps, rear parking aid, inside rearview mirrors"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "AIR BAG/BATT - Airbag"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "POS LAMPS - Rear taillamps"
+    ],
+    [
+     "C/B",
+     "Circuit breaker MINI",
+     "",
+     "PWR SEATS - Power seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "INCLR PUMP - Inner cooler pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "ELC CMPRSR - Electronic level control compressor"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "LT POS - Left rear taillamp, position lamps"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "RT POS - Right rear taillamp, position lamps"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "RUN - Ignition 3"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "STDBY LAMP - Rear taillamps, position lamps"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "TRUNK RELSE - Trunk release motor"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "BCK/UP LAMP - Reverse lamps, rear parking aid, inside rearview mirror"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Underseat Fuse Block (Passenger's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-sts-2011-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "REAR DEFOG - Rear defogger"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "TRUNK DIODE - Trunk release"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "CNSTR/VENT - Canister vent solenoid"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "RT TRN/SZBA - Right turn signal, side blind zone alert"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "S/ROOF - Sun roof module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "STOP LAMPS - Stop lamps"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "REAR/FOG - Rear fog lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "RF HTD/SEAT/XM - Front passenger heated seat, XM antenna"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "RDO/ONSTAR - Radio, OnStar"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "AIRBAG/IGN - SDM, automatic occupant sensor, passenger SIR"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "RIM/RPA/ISRVM/CLM - Rear integration module, rear parking aid, mirror, column lock, AFS, SCM"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "RUN/CRNK - UHBEC run, crank relay coil, rear fog lamp relay coil"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "HTD STR - Heated steering wheel"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "INT LAMP - Interior lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "FRT PDM - Front passenger door module, right power subwoofer"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "LT TRN/LDW - Left turn signal, lane departure warning"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "FUEL PUMP - Fuel pump"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "DIFF PUMP - Rear differential pump"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "RIM - Rear integration module"
+    ],
+    [
+     "C/B",
+     "Circuit breaker MINI",
+     "",
+     "WINDOW MTRS - Power window motors circuit breaker"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "REAR DEFOG - Rear defogger"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "FUEL PUMP - Fuel pump"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "INT LAMP - Interior lamps"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "RUN/CRNK - Ignition 1"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "DIFF PUMP - Rear differential pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "REAR/FOG - Rear fog lamps"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "STOP LAMP - Stop lamp"
+    ]
+   ]
+  }
+ ]
+}
