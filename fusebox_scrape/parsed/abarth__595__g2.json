@@ -1,0 +1,35 @@
+{
+ "make_slug":"abarth","model_slug":"595","brand_db":"Abarth","model_db_name":"595","model_id":20,
+ "generation_name":"2nd generation","generation_code":"Type 312","year_start":2012,"year_end":2021,
+ "trim_label":null,"representative_year":2021,
+ "source_url":"https://www.startmycar.com/abarth/595/info/fusebox/2021",
+ "boxes":[
+  {"index":0,"name":"Dashboard Fuse Box","image_url":"https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-abarth-595-2021-genid-g2-0.webp","fuses":[
+   ["13","Fuse MINI","5A","Headlight alignment corrector (where provided)"],
+   ["36","Fuse MINI","15A","Diagnosis socket, Uconnect, climate control, EOBD"],
+   ["37","Fuse MINI","5A","Brake light switch, instrument panel node"],
+   ["38","Fuse MINI","15A","Central door locking"],
+   ["43","Fuse MINI","15A","Windscreen/rear window washer pump"],
+   ["47","Fuse MINI","20A","Driver side electric window"],
+   ["48","Fuse MINI","20A","Passenger side electric window"],
+   ["49","Fuse MINI","5A","Parking sensor, controls backlighting"],
+   ["50","Fuse MINI","7.5A","Airbag"],
+   ["51","Fuse MINI","7.5A","Climate control, brake lights, clutch, electric sunroof, electric mirrors"],
+   ["53","Fuse MINI","5A","Instrument panel node"]
+  ]},
+  {"index":1,"name":"Engine Compartment Fuse Box","image_url":"https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-abarth-595-2021-genid-g2-1.webp","fuses":[
+   ["F2","Fuse MINI","10A","Main-beam headlights"],
+   ["F2","Fuse MINI","15A","Main-beam headlights (Only for versions equipped with Xenon gas discharge lamps)"],
+   ["F3","Fuse MINI","10A","Horns"],
+   ["F4","Fuse MINI","20A","Electric roof motor"],
+   ["F7","Fuse MINI","15A","Fog lights"],
+   ["F9","Fuse MINI","30A","Headlight washers"],
+   ["F10","Fuse MINI","10A","Robotised sequential transmission control unit"],
+   ["F11","Fuse MINI","30A","Heated rear window"],
+   ["F12","Fuse MINI","7.5A","Robotised sequential transmission control unit power supply (+ ignition)"],
+   ["F24","Fuse MAXI","20A","HI-FI"],
+   ["F28","Fuse ATO","30A","Climate control electric fan"],
+   ["F29","Fuse ATO","20A","Front power socket (with or without cigar lighter)"]
+  ]}
+ ]
+}

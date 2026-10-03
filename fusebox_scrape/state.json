@@ -1,0 +1,29 @@
+{
+  "source": "https://www.startmycar.com",
+  "strategy": "per-generation representative year page",
+  "order": "alphabetical by startmycar make slug",
+  "makes_total": ["abarth","acura","alfa-romeo","arcfox","aston-martin","audi","austin","baic","bmw","buick","byd","cadillac","changan","chery","chevrolet","chrysler","citroen","cupra","dacia","daewoo","daihatsu","dodge","dongfeng","ds","ferrari","fiat","ford","forthing","gac","geely","genesis","gmc","great-wall","haval","holden","honda","hsv","hummer","hyundai","infiniti","isuzu","jac","jaguar","jeep","jetour","jmc","jmev","kaiyi","kia","kyc","lancia","land-rover","leapmotor","lexus","lincoln","lynk-co","mahindra","maserati","maxus","mazda","mercedes-benz","mercury","mg","mini","mitsubishi","nissan","oldsmobile","opel","peugeot","pontiac","porsche","proton","ram","renault","rover","saab","saturn","scion","seat","skoda","smart","ssangyong","subaru","suzuki","tata","tesla","toyota","triumph","vauxhall","volkswagen","volvo"],
+  "db_brands_not_on_startmycar": ["AC","Alpina","Alpine","Bentley","Brilliance","Bufori","Bugatti","Caterham","DR Automobiles","Donkervoort","Dr Motor","Eagle","Effedi","FAW","Ferrari?","Foton","GTA Motor","GWM","Haima","Ikco","Iveco","Jiangling","KTM","Kandi","LDV","Lada","Lamborghini","Landwind","Lifan","London Taxi","Lotus","Lti Vehicles","Luxgen","MZ","Maruti","Maybach","McLaren","Mitsubishi Fuso","Mitsuoka","Morgan","Oreion Motors","Perodua","Piaggio","Polestar","Renault Samsung","Rolls-Royce","SHELBY","Saic Mg","Saleen","Santana","Troller","UAZ","Vencer","Venturi","Volga","Wiesmann","XML","Yugo","ZAZ","Zenvo","Zhonghua"],
+  "completed": {
+    "abarth": {
+      "models_on_site": ["124","500","595","695","grande-punto","punto-evo"],
+      "scraped": ["500 (g1 2015, other 2011)","595 (g2 2021)","695 (g2 2022)","grande-punto (g1 2009)"],
+      "no_data_on_site": ["124","punto-evo"],
+      "status": "DONE"
+    }
+  },
+  "in_progress": {
+    "acura": {
+      "models_on_site": ["cl","ilx","ilx-hybrid","integra","legend","mdx","mdx-sport-hybrid","nsx","rdx","rl","rlx","rlx-sport-hybrid","rsx","tl","tlx","tsx","zdx"],
+      "scraped": ["mdx g4 (2024)","mdx g3 (2020)"],
+      "todo": [
+        "mdx g2 rep 2013 -> /acura/mdx/info/fusebox/2013",
+        "mdx g1 (YD1 2000-2006) rep year: check index chunk 1 (likely 2006)",
+        "tl g4 rep 2014, g3 rep 2008, g2 rep 2003, g1 (1995-1998) rep 1998",
+        "then: rdx, tsx, tlx, ilx, integra, cl, rl, rlx, rsx, zdx, nsx, legend, ilx-hybrid, mdx-sport-hybrid, rlx-sport-hybrid (fetch /info/fusebox index for each first)"
+      ],
+      "status": "IN_PROGRESS"
+    }
+  },
+  "queue_next_makes": ["alfa-romeo","aston-martin","audi","austin","bmw","buick","..."]
+}
