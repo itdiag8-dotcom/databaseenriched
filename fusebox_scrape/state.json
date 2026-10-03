@@ -615,9 +615,11 @@
   "cadillac/dts": "done",
   "cadillac/eldorado": "done",
   "cadillac/elr": "no_data",
-  "cadillac/escalade": "done"
+  "cadillac/escalade": "done",
+  "cadillac/escalade-hybrid": "no_data",
+  "cadillac/lyriq": "done"
  },
- "last_updated": "2026-10-03T20:52:40.967125",
+ "last_updated": "2026-10-03T20:53:23.042919",
  "current_brand": "cadillac",
  "audi_done_models": [
   "a1",
@@ -726,7 +728,8 @@
   "byd/yuan-plus",
   "byd/yuan-pro",
   "cadillac/celestiq",
-  "cadillac/elr"
+  "cadillac/elr",
+  "cadillac/escalade-hybrid"
  ],
  "brand_aliases": {
   "lynk-co": "Lynk & Co",
@@ -982,6 +985,8 @@
   "dts",
   "eldorado",
   "elr",
-  "escalade"
+  "escalade",
+  "escalade-hybrid",
+  "lyriq"
  ]
 }
