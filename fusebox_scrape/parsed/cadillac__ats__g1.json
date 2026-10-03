@@ -1,0 +1,817 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "ats",
+ "brand_db": "Cadillac",
+ "model_db_name": "ATS",
+ "model_id": 997,
+ "generation_name": "1st generation",
+ "generation_code": "GM Alpha",
+ "year_start": 2013,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/cadillac/ats/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-ats-2019-genid-g1-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Passenger motorized seat belt"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "8",
+     "Relay",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system pump"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Antilock brake system valve"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "",
+     "Driver motorized seat belt"
+    ],
+    [
+     "23",
+     "Relay",
+     "",
+     "Wiper control"
+    ],
+    [
+     "24",
+     "Relay",
+     "",
+     "Wiper speed"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "27",
+     "Fuse MICRO3",
+     "",
+     "Heated seat 2"
+    ],
+    [
+     "28",
+     "Fuse MICRO3",
+     "",
+     "Reverse lock out"
+    ],
+    [
+     "29",
+     "Fuse MICRO3",
+     "",
+     "Adaptive forward lighting, automatic headlamp leveling/pedestrian protection"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Passenger window switch"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Steering column lock"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Rear bussed electrical center/ignition"
+    ],
+    [
+     "37",
+     "Fuse MICRO3",
+     "",
+     "Malfunction indicator lamp/ignition"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Aeroshutter"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "O2 sensor/emissions"
+    ],
+    [
+     "40",
+     "Fuse MICRO3",
+     "",
+     "Ignition coil even/O2 sensor"
+    ],
+    [
+     "41",
+     "Fuse MICRO3",
+     "",
+     "Ignition coil odd"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Washer"
+    ],
+    [
+     "46",
+     "Other",
+     "",
+     "Rear washer"
+    ],
+    [
+     "47",
+     "Other",
+     "",
+     "Front washer"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Instrument panel/body/ignition"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Fuel system control module/ignition"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Engine control module/ignition"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Transmission control module/ignition"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Coolant pump"
+    ],
+    [
+     "54",
+     "Relay",
+     "",
+     "Coolant pump"
+    ],
+    [
+     "56",
+     "Fuse MICRO3",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "57",
+     "Relay",
+     "",
+     "Low-beam headlamp relay"
+    ],
+    [
+     "58",
+     "Relay",
+     "",
+     "High-beam headlamp"
+    ],
+    [
+     "59",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "60",
+     "Relay",
+     "",
+     "Starter 2"
+    ],
+    [
+     "61",
+     "Relay",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "62",
+     "Relay",
+     "",
+     "Starter 1"
+    ],
+    [
+     "63",
+     "Relay",
+     "",
+     "Air conditioning control"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "",
+     "Adaptive headlamp leveling"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "",
+     "Left HID headlamp"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "",
+     "Right HID headlamp"
+    ],
+    [
+     "67",
+     "Fuse MICRO3",
+     "",
+     "Left/right high-beam headlamp"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "",
+     "Headlamp leveling motor"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "70",
+     "Other",
+     "",
+     "Horn"
+    ],
+    [
+     "71",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "72",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 2"
+    ],
+    [
+     "73",
+     "Fuse FMX/JCase",
+     "",
+     "Brake vacuum pump"
+    ],
+    [
+     "74",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 1"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "",
+     "Air conditioning clutch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-ats-2019-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Cupholder motor"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Tilt and telescopic steering column"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Data link connector"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Glove box release"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Shunt"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Body control module 5"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "19",
+     "Fuse FMM/MCase",
+     "",
+     "Auxiliary power outlet"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Lighter"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Wireless charger"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Sensing diagnostic module/automatic occupant sensing"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Radio/DVD/HVAC control"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Display"
+    ],
+    [
+     "25",
+     "Fuse FMM/MCase",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Wireless charger"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Visor vanity lamp"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "",
+     "Retained accessory power/accessory"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "",
+     "Front HVAC control blower"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MINI",
+     "",
+     "Auxiliary power outlet"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Retained accessory power/accessory"
+    ],
+    [
+     "K605",
+     "Relay",
+     "",
+     "Logistics"
+    ],
+    [
+     "K644",
+     "Relay",
+     "",
+     "Retained accessory power/accessory, glove box release"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-ats-2019-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Rear driver control module/DC-DC transformer"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Left window"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Alternate current inverter"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Passive entry/passive start/battery 1"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Glass break"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Trailer connector"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "",
+     "Right window"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "",
+     "Electric parking brake"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Trunk release"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Logistics"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Mirror window module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Rear vision camera"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Front ventilated seats"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Side blind zone alert/lane departure warning/external object calculating module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Trailer/sunshade"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Rear heated seats"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Semi-active damping system"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Transfer case control module/rear drive control module"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Theft module/universal remote system/rain sensor"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Park assist"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Radio/DVD"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Exhaust valve (V-Series)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Trailer"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "",
+     "Fuel system control module"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Fuel pump prime/exhaust valve (V-Series)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Memory seat module"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Battery regulated voltage control"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Engine control module/battery"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "",
+     "Trailer module"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Trailer"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Logistics"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "Run crank 2 (V-Series)"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "",
+     "Child door lock security"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Rear closure"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Rear closure 2"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Door lock security"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "Fuel door"
+    ],
+    [
+     "41",
+     "Relay",
+     "",
+     "Fuel pump run crank 2"
+    ]
+   ]
+  }
+ ]
+}
