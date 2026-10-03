@@ -1,0 +1,601 @@
+{
+ "make_slug": "buick",
+ "model_slug": "encore-gx",
+ "brand_db": "Buick",
+ "model_db_name": "Encore GX",
+ "model_id": 947,
+ "generation_name": "1st generation",
+ "generation_code": "9BQC",
+ "year_start": 2020,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/buick/encore-gx/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-encore-gx-2024-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse MICRO2",
+     "",
+     "Instrument cluster (CLSTR)"
+    ],
+    [
+     "F04",
+     "Fuse FMM/MCase",
+     "",
+     "Front wipers"
+    ],
+    [
+     "F06",
+     "Fuse MICRO2",
+     "",
+     "Mirror heater (OSRVM DEFOG)"
+    ],
+    [
+     "F07",
+     "Fuse MICRO2",
+     "",
+     "Power back door release"
+    ],
+    [
+     "F09",
+     "Fuse MICRO2",
+     "",
+     "Ventilated seats"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "",
+     "Interior rearview mirror / rear view camera"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "",
+     "Headlamp leveling"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "",
+     "Fuel tank zone module"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "",
+     "E-boost power 1"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "",
+     "Trailer stop/turn lamp left"
+    ],
+    [
+     "F23",
+     "Fuse FMX/JCase",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "",
+     "Steering lock (ESCL)"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "ECM/TCM run-crank"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "",
+     "Front/rear windshield washer pump"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "",
+     "Ignition coil (gas)"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "",
+     "Aeroshutter"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "",
+     "Automatic/adaptive headlamp module"
+    ],
+    [
+     "F30",
+     "Fuse FMM/MCase",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "",
+     "ECM powertrain 2"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "",
+     "Engine control system 2"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "",
+     "Regulated voltage control sensor"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "",
+     "Front fog lights"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "",
+     "Engine control system 1"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "",
+     "ECM powertrain 1"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "",
+     "Auxiliary oil pump"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "",
+     "Trailer parking lamps"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "",
+     "Horn"
+    ],
+    [
+     "F43",
+     "Fuse FMM/MCase",
+     "",
+     "Power windows right"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper park"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "",
+     "A/C magnetic clutch"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "",
+     "ECM battery (gas)"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "",
+     "Left headlight high beam"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "",
+     "Right headlight high beam"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "",
+     "Trailer stop/turn lamp right"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "",
+     "Auxiliary water pump"
+    ],
+    [
+     "F54",
+     "Fuse MICRO2",
+     "",
+     "Passive entry / passive start"
+    ],
+    [
+     "F55",
+     "Fuse FMM/MCase",
+     "",
+     "Power windows left"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "",
+     "Transmission control unit battery"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "",
+     "Canister vent solenoid (gas)"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "K04",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "K05",
+     "Relay",
+     "",
+     "Starter solenoid relay"
+    ],
+    [
+     "K06",
+     "Relay",
+     "",
+     "Starter pinion relay"
+    ],
+    [
+     "K07",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "K08",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-encore-gx-2024-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "",
+     "Power seats lumbar"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "",
+     "VBAT 3"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "",
+     "VBAT 7"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "",
+     "VBAT 6"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "",
+     "Automatic HVAC"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "",
+     "Communication gateway module"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "",
+     "Display"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Radio and audio system"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "OnStar (ERA)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Park assist"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Manual HVAC"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Wireless charger"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "VBAT 2"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "VBAT 1"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls backlighting"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Clock spring"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Occupant detection system (airbag)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Anti-theft system (DLC)"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Sensing diagnostic module"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Ignition switch / ESCL"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Power back door module"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Secondary fuse 2"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "",
+     "VBAT 8"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC AT"
+    ],
+    [
+     "F30",
+     "Fuse FMX/JCase",
+     "",
+     "Power back door module"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Mirror heater (OSRVM)"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Front heated seats power 1"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "VBAT 4"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Front heated seats power 2"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "Amplifier (audio system)"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "OnStar (TCP)"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "F38",
+     "Fuse FMX/JCase",
+     "",
+     "DC-DC transformer 400 W"
+    ],
+    [
+     "F39",
+     "Fuse FMX/JCase",
+     "",
+     "Secondary fuse 1"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "",
+     "HVAC blower motor"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Auxiliary power outlet"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "i-RAP ACC relay"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "Run relay"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Logistics relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-encore-gx-2024-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse MINI",
+     "",
+     "Rear drive control module electronics"
+    ],
+    [
+     "F05",
+     "Fuse FMX/JCase",
+     "",
+     "DC/AC inverter"
+    ],
+    [
+     "F07",
+     "Fuse FMX/JCase",
+     "",
+     "Rear drive control module"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "Rear seat heating power 1"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Rear seat heating power 2"
+    ]
+   ]
+  }
+ ]
+}
