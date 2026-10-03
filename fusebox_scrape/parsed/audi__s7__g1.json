@@ -1,0 +1,1450 @@
+{
+ "make_slug": "audi",
+ "model_slug": "s7",
+ "brand_db": "Audi",
+ "model_db_name": "S7 4G8",
+ "model_id": 422,
+ "generation_name": "1st generation",
+ "generation_code": "C7 / Typ 4G8",
+ "year_start": 2015,
+ "year_end": 2016,
+ "trim_label": "Sportback",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/audi/s7/info/fusebox/2016/trims-sportback",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver side cockpit fuse panel -SB-",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-s7-2016-genid-g1-trims-sportback-0.webp",
+   "fuses": [
+    [
+     "ST1-1",
+     "Fuse MINI",
+     "5A",
+     "ASR/ESP deactivation button, parking brake button, trailer detector CU, heater relays, headlight range CU, power steering CU, seat heating CU, air filtration CU"
+    ],
+    [
+     "ST1-2",
+     "Fuse MINI",
+     "5A",
+     "Air quality sensor, refrigerant pressure/temperature sender, toll sensor [Korea], humidity sensor, auto-dimming mirror relay, diagnostic socket"
+    ],
+    [
+     "ST1-4",
+     "Fuse MINI",
+     "5A",
+     "Onboard power supply CU / park assist CU / parking aid CU"
+    ],
+    [
+     "ST1-5",
+     "Fuse MINI",
+     "5A",
+     "ABS CU / sensor electronics CU / active steering CU"
+    ],
+    [
+     "ST1-6",
+     "Fuse MINI",
+     "10A",
+     "Front right headlight [LED headlights only]"
+    ],
+    [
+     "ST1-7",
+     "Fuse MINI",
+     "10A",
+     "Adaptive cruise control control units 1+2"
+    ],
+    [
+     "ST1-8",
+     "Fuse MINI",
+     "5A",
+     "Airbag CU / seat occupied recognition CU"
+    ],
+    [
+     "ST1-9",
+     "Fuse MINI",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "ST1-10",
+     "Fuse MINI",
+     "5A",
+     "Garage door opener CU / night vision system CU / symposer CU [until March 2015]"
+    ],
+    [
+     "ST1-10",
+     "Fuse MINI",
+     "7.5A",
+     "Garage door opener CU / night vision system CU / symposer CU / reversing camera system CU [since April 2015]"
+    ],
+    [
+     "ST1-11",
+     "Fuse MINI",
+     "10A",
+     "Image processing control unit / camera control unit"
+    ],
+    [
+     "ST1-12",
+     "Fuse MINI",
+     "10A",
+     "Front left headlight [LED headlights only]"
+    ],
+    [
+     "ST1-13",
+     "Fuse MINI",
+     "5A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "ST1-14",
+     "Fuse ATO",
+     "30A",
+     "To fuse box F"
+    ],
+    [
+     "ST1-15",
+     "Fuse ATO",
+     "15A",
+     "Fuses 3, 12 and 13 in fuse box A"
+    ],
+    [
+     "ST1-16",
+     "Fuse ATO",
+     "40A",
+     "Starter relays 1+2"
+    ],
+    [
+     "ST2-1",
+     "Fuse MINI",
+     "5A",
+     "Connector for external audio devices"
+    ],
+    [
+     "ST2-2",
+     "Fuse MINI",
+     "5A",
+     "Mobile phone amplifier / phone holder"
+    ],
+    [
+     "ST2-3",
+     "Fuse MINI",
+     "7.5A",
+     "Front passenger anatomical seat control unit"
+    ],
+    [
+     "ST2-5",
+     "Fuse MINI",
+     "5A",
+     "Sensor electronics control unit"
+    ],
+    [
+     "ST2-6",
+     "Fuse MINI",
+     "5A",
+     "Anti-theft alarm sensor / alarm siren / interior monitoring sensor / tilt sensor"
+    ],
+    [
+     "ST2-7",
+     "Fuse MINI",
+     "5A",
+     "Parking brake button / terminal 15 power supply relay"
+    ],
+    [
+     "ST2-8",
+     "Fuse MINI",
+     "5A",
+     "Roof electrical system control unit"
+    ],
+    [
+     "ST2-9",
+     "Fuse MINI",
+     "5A",
+     "Rain and light sensor"
+    ],
+    [
+     "ST2-10",
+     "Fuse MINI",
+     "5A",
+     "Driver's seat lumbar support adjustment switch"
+    ],
+    [
+     "ST2-11",
+     "Fuse MINI",
+     "7.5A",
+     "Driver's anatomical seat control unit"
+    ],
+    [
+     "ST2-12",
+     "Fuse MINI",
+     "10A",
+     "ABS control unit"
+    ],
+    [
+     "ST2-13",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "ST2-14",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST2-15",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST2-16",
+     "Fuse ATO",
+     "35A",
+     "Active steering control unit"
+    ],
+    [
+     "ST3-1",
+     "Fuse ATO",
+     "5A",
+     "Clutch pedal position sensor"
+    ],
+    [
+     "ST3-1",
+     "Fuse ATO",
+     "25A",
+     "Vacuum pump relay [high-voltage system, until week 04/2018]"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump control unit / reducing agent metering system relay [additive dosing system]"
+    ],
+    [
+     "ST3-2",
+     "Fuse ATO",
+     "5A",
+     "Fuel pump relay [engines CRDA, CRDB, CWUA, CWUB, CWUC]"
+    ],
+    [
+     "ST3-3",
+     "Fuse ATO",
+     "5A",
+     "Brake light switch / brake pedal position sensor"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "7.5A",
+     "Exhaust flap units 1+2 [8-cylinder petrol engine]"
+    ],
+    [
+     "ST3-4",
+     "Fuse ATO",
+     "5A",
+     "Exhaust flap unit / additive metering system CU [engines CHJA, CPEA, CUHA, CYNB, CYPA, CYPB / additive dosing system]"
+    ],
+    [
+     "ST3-5",
+     "Fuse ATO",
+     "30A",
+     "Rear left door control unit"
+    ],
+    [
+     "ST3-6",
+     "Fuse ATO",
+     "30A",
+     "Driver's door control unit"
+    ],
+    [
+     "ST3-7",
+     "Fuse ATO",
+     "20A",
+     "ABS control unit"
+    ],
+    [
+     "ST3-8",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor control unit"
+    ],
+    [
+     "ST3-9",
+     "Fuse ATO",
+     "35A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST3-10",
+     "Fuse ATO",
+     "20A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST3-11",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit"
+    ],
+    [
+     "ST3-12",
+     "Fuse ATO",
+     "20A",
+     "Sliding sunroof control unit / drive motor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Front passenger side cockpit fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-s7-2016-genid-g1-trims-sportback-1.webp",
+   "fuses": [
+    [
+     "A1",
+     "Fuse ATO",
+     "5A",
+     "Head-up display"
+    ],
+    [
+     "A2",
+     "Fuse ATO",
+     "5A",
+     "MMI display"
+    ],
+    [
+     "A3",
+     "Fuse ATO",
+     "5A",
+     "CD/DVD changer"
+    ],
+    [
+     "A4",
+     "Fuse ATO",
+     "7.5A",
+     "MMI unit/drives"
+    ],
+    [
+     "A5",
+     "Fuse ATO",
+     "5A",
+     "Chip card reader (not in all countries)"
+    ],
+    [
+     "A6",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "5A",
+     "Steering column switch module"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "5A",
+     "Headlight range adjustment"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "7.5A",
+     "Adaptive lighting system"
+    ],
+    [
+     "A10",
+     "Fuse ATO",
+     "7.5A",
+     "Left headlight (headlight with adaptive light)"
+    ],
+    [
+     "A11",
+     "Fuse ATO",
+     "5A",
+     "Supplementary heater"
+    ],
+    [
+     "B1",
+     "Fuse ATO",
+     "10A",
+     "Climate control"
+    ],
+    [
+     "B2",
+     "Fuse ATO",
+     "40A",
+     "Climate control system blower"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic interface"
+    ],
+    [
+     "B4",
+     "Fuse ATO",
+     "5A",
+     "Electrical ignition lock"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "5A",
+     "Power steering column adjustment"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "10A",
+     "Steering column switch module"
+    ],
+    [
+     "B7",
+     "Fuse ATO",
+     "25A",
+     "Power steering column adjustment"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "5A",
+     "Light switch"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-s7-2016-genid-g1-trims-sportback-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "Voltage stabiliser"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "40A",
+     "Voltage stabiliser"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Adaptive suspension compressor relay"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "Heated rear window relay"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "35A",
+     "All-wheel drive control unit"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "30A",
+     "Reducing agent metering system CU [models with reducing agent metering system]"
+    ],
+    [
+     "A4",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake"
+    ],
+    [
+     "A5",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake"
+    ],
+    [
+     "A6",
+     "Fuse ATO",
+     "30A",
+     "Front door (front passenger's side)"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "30A",
+     "Rear exterior lighting"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "20A",
+     "Rear sun shade, closing aid, luggage compartment lock, convenience key, START ENGINE STOP, fuel filler door"
+    ],
+    [
+     "A9",
+     "Fuse ATO",
+     "15A",
+     "Power seat adjustment"
+    ],
+    [
+     "A10",
+     "Fuse ATO",
+     "5A",
+     "Parking system"
+    ],
+    [
+     "A11",
+     "Fuse ATO",
+     "30A",
+     "Rear seat heating"
+    ],
+    [
+     "B1",
+     "Fuse ATO",
+     "25A",
+     "Left belt tensioner"
+    ],
+    [
+     "B2",
+     "Fuse ATO",
+     "25A",
+     "Right belt tensioner"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "20A",
+     "Socket/cigarette lighter"
+    ],
+    [
+     "B4",
+     "Fuse ATO",
+     "20A",
+     "Socket"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "5A",
+     "Electromechanical parking brake"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "15A",
+     "Adaptive air suspension"
+    ],
+    [
+     "B7",
+     "Fuse ATO",
+     "30A",
+     "Rear door (front passenger's side)"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "30A",
+     "Rear exterior lighting"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "30A",
+     "Luggage compartment lid control module"
+    ],
+    [
+     "B10",
+     "Fuse ATO",
+     "5A",
+     "Telephone"
+    ],
+    [
+     "B11",
+     "Fuse ATO",
+     "30A",
+     "Sound amplifier"
+    ],
+    [
+     "B12",
+     "Fuse ATO",
+     "20A",
+     "Rear spoiler (Sportback)"
+    ],
+    [
+     "C1",
+     "Fuse ATO",
+     "30A",
+     "Radio receiver, sound amplifier"
+    ],
+    [
+     "C1",
+     "Fuse ATO",
+     "20A",
+     "MMI unit/drives"
+    ],
+    [
+     "C2",
+     "Fuse ATO",
+     "5A",
+     "Tank leak detection system"
+    ],
+    [
+     "C4",
+     "Fuse ATO",
+     "10A",
+     "AEM control module"
+    ],
+    [
+     "C4",
+     "Fuse ATO",
+     "15A",
+     "Battery module"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "35A",
+     "Battery fan"
+    ],
+    [
+     "C7",
+     "Fuse ATO",
+     "7.5A",
+     "Radio receiver"
+    ],
+    [
+     "C8",
+     "Fuse ATO",
+     "7.5A",
+     "Rear Seat Entertainment"
+    ],
+    [
+     "C9",
+     "Fuse ATO",
+     "5A",
+     "Automatic dimming interior rearview mirror"
+    ],
+    [
+     "C9",
+     "Fuse ATO",
+     "15A",
+     "Battery module"
+    ],
+    [
+     "C10",
+     "Fuse ATO",
+     "5A",
+     "Parking system"
+    ],
+    [
+     "D1",
+     "Fuse ATO",
+     "5A",
+     "Pre sense"
+    ],
+    [
+     "D2",
+     "Fuse ATO",
+     "5A",
+     "Electromechanical parking brake"
+    ],
+    [
+     "D3",
+     "Fuse ATO",
+     "5A",
+     "Adaptive air suspension"
+    ],
+    [
+     "D4",
+     "Fuse ATO",
+     "7.5A",
+     "Automatic transmission"
+    ],
+    [
+     "D5",
+     "Fuse ATO",
+     "5A",
+     "Parking system"
+    ],
+    [
+     "D6",
+     "Fuse ATO",
+     "5A",
+     "Rear Seat Entertainment"
+    ],
+    [
+     "D7",
+     "Fuse ATO",
+     "5A",
+     "Start-stop system"
+    ],
+    [
+     "D8",
+     "Fuse ATO",
+     "5A",
+     "Side assist"
+    ],
+    [
+     "D9",
+     "Fuse ATO",
+     "5A",
+     "Gateway, vehicle electrical system control module 1"
+    ],
+    [
+     "D10",
+     "Fuse ATO",
+     "5A",
+     "Sport differential"
+    ],
+    [
+     "E",
+     "Fuse MAXI",
+     "20A",
+     "Rear seats"
+    ],
+    [
+     "F",
+     "Fuse ATO",
+     "1A",
+     "Movement-activated luggage compartment lid opening"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Relay for power sockets"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Terminal 15 voltage supply relay 2"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Adaptive suspension compressor relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Luggage compartment fuse panel (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-s7-2016-genid-g1-trims-sportback-3.webp",
+   "fuses": [
+    [
+     "1b",
+     "Fuse FMX/JCase",
+     "40A",
+     "Clearance control system"
+    ],
+    [
+     "A1",
+     "Fuse ATO",
+     "15A",
+     "Trailer recognition control unit [non-China]"
+    ],
+    [
+     "A1",
+     "Fuse ATO",
+     "25A",
+     "Inverter with socket, 12 V - 230 V [China]"
+    ],
+    [
+     "A2",
+     "Fuse ATO",
+     "25A",
+     "Trailer recognition control unit [non-China]"
+    ],
+    [
+     "A2",
+     "Fuse ATO",
+     "10A",
+     "Drink holder with heater and cooler [China]"
+    ],
+    [
+     "A3",
+     "Fuse ATO",
+     "25A",
+     "Trailer recognition control unit [non-China]"
+    ],
+    [
+     "A3",
+     "Fuse ATO",
+     "5A",
+     "Rear left/right seat massage function buttons [China]"
+    ],
+    [
+     "A4",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "A5",
+     "Fuse ATO",
+     "30A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "A6",
+     "Fuse ATO",
+     "30A",
+     "Front passenger door control unit"
+    ],
+    [
+     "A7",
+     "Fuse ATO",
+     "30A",
+     "Central control unit for comfort systems"
+    ],
+    [
+     "A8",
+     "Fuse ATO",
+     "20A",
+     "Central control unit for comfort systems"
+    ],
+    [
+     "A9",
+     "Fuse ATO",
+     "15A",
+     "Front right seat ventilation control unit"
+    ],
+    [
+     "A10",
+     "Fuse ATO",
+     "5A",
+     "12-pin connector -T12o-, interface for special functions"
+    ],
+    [
+     "A10",
+     "Fuse ATO",
+     "7.5A",
+     "High-voltage system service connector [HV system, from week 47/2016]"
+    ],
+    [
+     "A11",
+     "Fuse ATO",
+     "30A",
+     "Rear air conditioning control and display panel / seat heating control unit"
+    ],
+    [
+     "A12",
+     "Fuse ATO",
+     "15A",
+     "Trailer recognition control unit [without high-voltage system]"
+    ],
+    [
+     "A12",
+     "Fuse ATO",
+     "7.5A",
+     "Telematik system interface CU / telephone CU [HV system, from June 2017]"
+    ],
+    [
+     "B1",
+     "Fuse ATO",
+     "25A",
+     "Front left seat belt tensioner CU [LHD] / front right [RHD]"
+    ],
+    [
+     "B2",
+     "Fuse ATO",
+     "25A",
+     "Front right seat belt tensioner CU [LHD] / front left [RHD]"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "30A",
+     "Additive dosing system CU [reducing agent dosing system]"
+    ],
+    [
+     "B3",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump control unit"
+    ],
+    [
+     "B4",
+     "Fuse ATO",
+     "10A",
+     "Additive dosing system CU [reducing agent dosing system]"
+    ],
+    [
+     "B4",
+     "Fuse ATO",
+     "15A",
+     "Unit support control unit"
+    ],
+    [
+     "B5",
+     "Fuse ATO",
+     "1A",
+     "Luggage compartment lid opening sensor"
+    ],
+    [
+     "B6",
+     "Fuse ATO",
+     "15A",
+     "Ground clearance control CU [ride height control] / electronic damping CU [Dynamic Ride Control]"
+    ],
+    [
+     "B7",
+     "Fuse ATO",
+     "30A",
+     "Rear right door control unit"
+    ],
+    [
+     "B8",
+     "Fuse ATO",
+     "30A",
+     "Central control unit for comfort systems"
+    ],
+    [
+     "B9",
+     "Fuse ATO",
+     "30A",
+     "Luggage compartment cover control unit"
+    ],
+    [
+     "B12",
+     "Fuse ATO",
+     "20A",
+     "Sliding hatch drive electric motor"
+    ],
+    [
+     "C1",
+     "Fuse ATO",
+     "5A",
+     "Remote control 1 information electronics"
+    ],
+    [
+     "C2",
+     "Fuse ATO",
+     "15A",
+     "Fuse -SC1-/-SC2- in fuse box 1 -ST1-"
+    ],
+    [
+     "C2",
+     "Fuse ATO",
+     "5A",
+     "High-voltage heating element (PTC) CU [HV system, from week 47/2016]"
+    ],
+    [
+     "C3",
+     "Fuse ATO",
+     "7.5A",
+     "Electronic information system CU 1 / multimedia system control panel / auto-dimming interior mirror relay"
+    ],
+    [
+     "C4",
+     "Fuse ATO",
+     "5A",
+     "Rear view camera CU [until April 2015] / all-round viewing system CU"
+    ],
+    [
+     "C5",
+     "Fuse ATO",
+     "5A",
+     "TV tuner"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "5A",
+     "Fuel tank leak diagnostic system control unit"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "15A",
+     "Thermal control system coolant pump relays [HV system, from week 47/2016]"
+    ],
+    [
+     "C7",
+     "Fuse ATO",
+     "20A",
+     "Socket relay"
+    ],
+    [
+     "C8",
+     "Fuse ATO",
+     "5A",
+     "Radio signal receiver for autonomous heater"
+    ],
+    [
+     "C8",
+     "Fuse ATO",
+     "7.5A",
+     "HV battery charger control unit [HV system, from week 47/2016]"
+    ],
+    [
+     "C9",
+     "Fuse ATO",
+     "7.5A",
+     "Battery control system CU / hybrid drive battery module [HV system, from week 47/2016]"
+    ],
+    [
+     "C10",
+     "Fuse ATO",
+     "5A",
+     "Front passenger seat lumbar support adjustment switch"
+    ],
+    [
+     "C11",
+     "Fuse ATO",
+     "5A",
+     "Emergency call module and communication unit control unit"
+    ],
+    [
+     "C12",
+     "Fuse ATO",
+     "5A",
+     "Electronic information system control unit 1"
+    ],
+    [
+     "D1",
+     "Fuse ATO",
+     "5A",
+     "Relay 2 terminal 15 / voltage stabilizer / clearance control CU / damping CU / parking brake CU"
+    ],
+    [
+     "D2",
+     "Fuse ATO",
+     "5A",
+     "Comfort systems central CU / clutch pedal position sensor [manual transmission]"
+    ],
+    [
+     "D2",
+     "Fuse ATO",
+     "7.5A",
+     "Comfort systems central CU / selector sensor CU [non-manual transmission]"
+    ],
+    [
+     "D3",
+     "Fuse ATO",
+     "5A",
+     "Rear Seat Entertainment (RSE) connection kit"
+    ],
+    [
+     "D4",
+     "Fuse ATO",
+     "15A",
+     "Onboard network CU / rear window cleaner electric motor"
+    ],
+    [
+     "D5",
+     "Fuse ATO",
+     "5A",
+     "Lane change assistant control units 1+2"
+    ],
+    [
+     "D6",
+     "Fuse ATO",
+     "10A",
+     "Engine noise generation control unit"
+    ],
+    [
+     "D7",
+     "Fuse ATO",
+     "30A",
+     "Voltage stabilizer / digital audio system CU, MMI"
+    ],
+    [
+     "D7",
+     "Fuse ATO",
+     "20A",
+     "Digital audio system CU, RMC / electronic information system CU 1"
+    ],
+    [
+     "D8",
+     "Fuse ATO",
+     "5A",
+     "Diagnostic data bus interface"
+    ],
+    [
+     "D9",
+     "Fuse ATO",
+     "35A",
+     "All-wheel drive CU [without high-voltage system]"
+    ],
+    [
+     "D9",
+     "Fuse ATO",
+     "25A",
+     "Vacuum pump relay [HV system, from week 05/2018]"
+    ],
+    [
+     "D10",
+     "Fuse ATO",
+     "10A",
+     "Rear air conditioning control and display panel"
+    ],
+    [
+     "D11",
+     "Fuse ATO",
+     "30A",
+     "Additional heater control unit"
+    ],
+    [
+     "D11",
+     "Fuse ATO",
+     "5A",
+     "Tire pressure monitoring system CU [RS models]"
+    ],
+    [
+     "D11",
+     "Fuse ATO",
+     "15A",
+     "Thermal control system CU [HV system, from week 47/2016]"
+    ],
+    [
+     "D12",
+     "Fuse ATO",
+     "40A",
+     "Voltage stabilizer"
+    ],
+    [
+     "D12",
+     "Fuse ATO",
+     "10A",
+     "HV battery coolant pump relay [HV system, from week 47/2016]"
+    ],
+    [
+     "H1",
+     "Fuse MAXI",
+     "40A",
+     "Rear window heating fuse"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear window heating relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Socket relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Relay 2 power supply terminals 15"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Ride height control system compressor relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Reducer dosing system relay [additive dosing system]"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump relay [engines CRDA, CRDB, CWUA, CWUB, CWUC]"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Fuses in the junction box in the water drainage box on the left [Petrol] [LHD]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-s7-2016-genid-g1-trims-sportback-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Automatic gearbox control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Oil level and oil temperature sender"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Fuel metering valves 1+2 [engine CEUC]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Camshaft adjustment actuators/valves / intake manifold flap valve / charge pressure control valve / coolant circulation pump [per engine code]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Voltage stabiliser / engine control unit [engine CEUC]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Lambda probe heaters 1+2 / lambda probes 1+2"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Radiator fan control units 1+2 / radiator fans 1+2"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Automatic gearbox control unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Gearbox oil cooling valve"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils 1-6 with output stage"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Ignition coils with output stage [engine CEUC]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Secondary air pump relay / coolant pump relay / canister valve / engine mount valves / turbo recirculation valves / thermostat [per engine code]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Lambda probe heaters 1+2 after catalytic converter"
+    ],
+    [
+     "B",
+     "Fuse MAXI",
+     "50A",
+     "Secondary air pump fuse [petrol engine]"
+    ],
+    [
+     "C",
+     "Fuse MAXI",
+     "50A",
+     "Secondary air pump fuse [V6 FSI]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Secondary air pump relay [petrol engine]"
+    ],
+    [
+     "R2.1",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R2.2",
+     "Relay",
+     "",
+     "Starter motor relay 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Engine components current supply relay [petrol engine]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Main relay [petrol engine]"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Additional coolant pump relay [petrol engine]"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Fuses in the junction box in the water drainage box on the left [Diesel] [LHD]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-s7-2016-genid-g1-trims-sportback-5.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Automatic gearbox control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Oil level and oil temperature sender"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Engine control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Air mass meter"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Fuel metering valve / fuel pressure regulating valve"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "NOx sensor control units 1+2"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Voltage stabiliser"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Lambda probe / lambda probe heater"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Radiator fan control units 1+2 / radiator fan / airbag energy accumulator unit"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Automatic gearbox control unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Gearbox oil cooling valve"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Engine cooling thermostat / heater relays / engine mount valves / EGR cooler valve / oil pressure control valve / charge pressure valve [per engine code]"
+    ],
+    [
+     "B",
+     "Fuse MAXI",
+     "60A",
+     "Glow plug fuse [diesel engine]"
+    ],
+    [
+     "C",
+     "Fuse MAXI",
+     "80A",
+     "Glow plug fuse [V6 TDI]"
+    ],
+    [
+     "R2.1",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R2.2",
+     "Relay",
+     "",
+     "Starter motor relay 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Automatic glow period control unit [diesel engine]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Terminal 30 voltage supply relay [diesel engine]"
+    ]
+   ]
+  }
+ ]
+}
