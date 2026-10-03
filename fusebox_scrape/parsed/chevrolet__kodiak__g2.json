@@ -1,0 +1,355 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "kodiak",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Kodiak",
+ "model_id": null,
+ "generation_name": "2nd generation (GMT530)",
+ "generation_code": "g2",
+ "year_start": 1990,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/chevrolet/kodiak/info/fusebox/2008/2nd-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-kodiak-2008-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Hydraulic brake"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "ENG 1"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Hydraulic brake"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Back up light, ignition 3"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Stop light"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "25A",
+     "Wiper, washer"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Dome, panel lights"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "Blower"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "Turn, hazard lights"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "CHAS"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Parking lamp"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "Horn"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Parking brake"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump [L18]"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump [LG5]"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "20A",
+     "Axle"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "15A",
+     "Marker lamps"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter, auxiliary"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "25A",
+     "Auxiliary battery"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "20A",
+     "Ignition relay [early LG5]"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Door lock, windows [L18, late LG5]"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Windows [early LG5]"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "15A",
+     "ENG 2 [L18, late LG5]"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "20A",
+     "Crank"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "25A",
+     "Auxiliary ignition"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "10A",
+     "Radio"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "Door lock [early LG5]"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "ENG 3 [L18, late LG5]"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relays behind glove box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-kodiak-2008-genid-g2-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Tractor marker lamps"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(Lighting) Illumination"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(IGN 3) Ignition"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(IGN 1) Ignition"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Auxiliary wiring"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Daytime running lights"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(Accessory) protects several accessory circuits"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(Blower #1) AC blower motor"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(Blower #2) AC blower motor"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment maxi fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-kodiak-2008-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "50A",
+     "Ignition switch, wash/wipe, crank, radio"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "50A",
+     "Auxiliary, park brake"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Headlamps, daytime running lamps"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "Parking lamps, dome/panel lights"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioner, ignition switch, axle, chassis"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "50A",
+     "Stop lamp, turn/hazard lights, fuel, ignition relay [gasoline engines]"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "60A",
+     "Hydraulic brake, brake pump motor"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "30A",
+     "EHCU"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "50A",
+     "Window, door locks"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "50A",
+     "Parking brake motor"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "50A",
+     "Blower, horn, cigarette lighter/auxiliary"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "50A",
+     "Fuel/Engine"
+    ]
+   ]
+  }
+ ]
+}
