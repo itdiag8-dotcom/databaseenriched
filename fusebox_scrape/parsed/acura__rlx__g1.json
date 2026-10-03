@@ -1,0 +1,40 @@
+{
+ "make_slug":"acura","model_slug":"rlx","brand_db":"Acura","model_db_name":"RLX","model_id":45,
+ "generation_name":"1st generation","generation_code":"KC1, KC2","year_start":2013,"year_end":2020,
+ "trim_label":null,"representative_year":2020,
+ "source_url":"https://www.startmycar.com/acura/rlx/info/fusebox/2020",
+ "boxes":[
+  {"index":0,"name":"Engine Compartment Fuse Box 1","image_url":"https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-acura-rlx-2020-genid-g1-0.webp","fuses":[
+   ["1","Fuse MINI","15A","IG1A ACG FR"],
+   ["2","Fuse MINI","10A","IG1A MISS SOL1"],
+   ["5","Fuse MINI","7.5A","SMART"],
+   ["6","Fuse MINI","7.5A","IG1B ECU FR"],
+   ["7","Fuse MINI","7.5A","IG1B OP FR"],
+   ["8","Fuse MINI","15A","IGP2"],
+   ["9","Fuse MINI","15A","DBW"],
+   ["10","Fuse MINI","15A","IGP"],
+   ["11","Fuse MINI","15A","IG Coil"],
+   ["12","Fuse MINI","20A","ACM"],
+   ["13","Fuse MINI","7.5A","Daytime Running Lights"],
+   ["14","Fuse MINI","10A","Interior Lights"],
+   ["15","Fuse MINI","10A","Back Up Radio"],
+   ["16","Fuse MINI","10A","Back Up"],
+   ["17","Fuse MINI","7.5A","MG Clutch"],
+   ["18","Fuse MINI","15A","Front Washer"],
+   ["19","Fuse MINI","7.5A","Stop"],
+   ["20","Fuse MINI","10A","Right Headlight High Beam"],
+   ["21","Fuse MINI","10A","Trunk"],
+   ["22","Fuse MINI","15A","Small"],
+   ["23","Fuse MINI","7.5A","Front Fog Light [Not available on all models]"],
+   ["24","Fuse MINI","10A","Left Headlight High Beam"],
+   ["26","Fuse MINI","15A","Right Headlight Low Beam"],
+   ["27","Fuse MINI","15A","Left Headlight Low Beam"],
+   ["28","Fuse MINI","7.5A","IGP2 Sub"],
+   ["29","Fuse MINI","20A","TCU MAIN"],
+   ["30","Fuse MINI","","-"]
+  ]},
+  {"index":1,"name":"Engine Compartment Fuse Box 3","image_url":"https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-acura-rlx-2020-genid-g1-1.webp","fuses":[
+   ["1","Fuse MEGA","80A","EPS"]
+  ]}
+ ]
+}
