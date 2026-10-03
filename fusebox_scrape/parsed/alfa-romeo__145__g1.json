@@ -1,0 +1,455 @@
+{
+ "make_slug": "alfa-romeo",
+ "model_slug": "145",
+ "brand_db": "Alfa Romeo",
+ "model_db_name": "145",
+ "model_id": null,
+ "generation_name": "1st generation",
+ "generation_code": "Type 930A",
+ "year_start": 1999,
+ "year_end": 2001,
+ "trim_label": null,
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/alfa-romeo/145/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses in the control box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-145-2001-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "30A",
+     "Seat warming"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "25A",
+     "Front power windows"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "Air conditioner compressor, Boot release button, Clock, Interior roof lamps and boot light, Radio receiver"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Hazard warning lights"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Door locking device"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Horn"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "Door mirror defrosting, Rearscreen heating, Rearscreen heating warning light"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Additional stop light (3rd stop), Check panel, Controls lighting, Generator charge warning light, Instrument cluster, Low oil pressure warning light, Reversing light, Stop lights, Trailer stop light, Windscreen/rearscreen wiper"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Controls lighting, Instrument cluster, Left rear side light, Left trailer side light, Right front side light and corresponding warning light, Right number plate light"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "ABS system"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "7.5A",
+     "Alfa Romeo Code system [T.SPARK engines], Engine cooling radiator fan, Injection system"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "7.5A",
+     "Direction indicators"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "25A",
+     "Rear power windows"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "7.5A",
+     "Car and trailer rear fog guards and corresponding warning light"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "15A",
+     "Right high beam headlamp"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Left high beam headlamp, Low beam headlamp warning light"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Windscreen/rearscreen wiper"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "Air conditioner compressor, Cigar lighter, Door mirror adjustment, Front power windows, Glove box light, Load cut off during starting, Rear power windows, Rearscreen heating, Sunroof"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Cigar lighter, Door mirror adjustment, Fog lamps and corresponding warning light, Front power windows, Left front side light, Left number plate light, Radio, Rear power windows, Right rear side light, Right trailer side light"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Passenger compartment fan"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "Fog lamps and corresponding warning light"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Left low beam headlamp"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "10A",
+     "Headlamp aiming device, Right low beam headlamp"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuses and relays on auxiliary bracket",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-145-2001-genid-g1-1.webp",
+   "fuses": [
+    [
+     "A",
+     "Relay",
+     "",
+     "Direction indicator timer"
+    ],
+    [
+     "B",
+     "Relay",
+     "",
+     "Fuel oil warming control relay [1.9 JTD only]"
+    ],
+    [
+     "C",
+     "Relay",
+     "",
+     "Headlamp washer relay (optional for versions/markets where applicable)"
+    ],
+    [
+     "D",
+     "Relay",
+     "",
+     "Passenger power window relay"
+    ],
+    [
+     "E",
+     "Relay",
+     "",
+     "Door mirror defrosting device relay (optional for versions/markets where applicable) [Location for T.SPARK engines]"
+    ],
+    [
+     "E1",
+     "Relay",
+     "",
+     "Door mirror defrosting device relay (optional for versions/markets where applicable) [Location for 1.9 JTD engine]"
+    ],
+    [
+     "F",
+     "Relay",
+     "",
+     "Tailgate opening relay (optional for versions/markets where applicable)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Power windows and door locking system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Door mirror defrosting"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Headlamp washer"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Air bag system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Alarm system"
+    ],
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner compressor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Alfa Romeo Code system [T.SPARK engines]"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Relays in the control box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-145-2001-genid-g1-2.webp",
+   "fuses": [
+    [
+     "A",
+     "Relay",
+     "",
+     "Spare"
+    ],
+    [
+     "B",
+     "Relay",
+     "",
+     "Rear fog guards"
+    ],
+    [
+     "C",
+     "Relay",
+     "",
+     "Sunroof"
+    ],
+    [
+     "D",
+     "Relay",
+     "",
+     "High beam headlamps"
+    ],
+    [
+     "E",
+     "Relay",
+     "",
+     "Services cut out at starting"
+    ],
+    [
+     "F",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "G",
+     "Relay",
+     "",
+     "Low beam headlamps"
+    ],
+    [
+     "H",
+     "Relay",
+     "",
+     "Rearscreen heating"
+    ],
+    [
+     "I",
+     "Relay",
+     "",
+     "Door locking control unit"
+    ],
+    [
+     "L",
+     "Relay",
+     "",
+     "Horns"
+    ],
+    [
+     "M",
+     "Relay",
+     "",
+     "Side lights"
+    ],
+    [
+     "N",
+     "Relay",
+     "",
+     "Windscreen/rearscreen wiper switch"
+    ],
+    [
+     "O",
+     "Relay",
+     "",
+     "Spare"
+    ],
+    [
+     "P",
+     "Relay",
+     "",
+     "Radiator fan [except 1.9 JTD with air conditioner]"
+    ],
+    [
+     "Q",
+     "Relay",
+     "",
+     "Direction indicators/hazard warning lights"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment (T.SPARK engines)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-145-2001-genid-g1-3.webp",
+   "fuses": [
+    [
+     "A",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "B",
+     "Relay",
+     "",
+     "Fuel pump and services relay"
+    ],
+    [
+     "C",
+     "Relay",
+     "",
+     "Climate control compressor relay (optional for versions/markets where applicable)"
+    ],
+    [
+     "D",
+     "Relay",
+     "",
+     "Relay for engaging the radiator fan 2nd speed"
+    ],
+    [
+     "1",
+     "Fuse MAXI",
+     "15A",
+     "Injection system"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "15A",
+     "Injection system"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine compartment (1.9 JTD Engine with heater)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-145-2001-genid-g1-4.webp",
+   "fuses": [
+    [
+     "A",
+     "Relay",
+     "",
+     "Relay for engaging the radiator fan 2nd speed"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Engine compartment (1.9 JTD Engine with air conditioner) 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-145-2001-genid-g1-5.webp",
+   "fuses": [
+    [
+     "B",
+     "Relay",
+     "",
+     "Relay for engaging the fan 1st speed"
+    ],
+    [
+     "C",
+     "Relay",
+     "",
+     "Relay for engaging the fan 2nd speed"
+    ],
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "Engine cooling radiator fan [1.9 JTD engine with air conditioner]"
+    ]
+   ]
+  },
+  {
+   "index": 6,
+   "name": "Engine compartment (1.9 JTD Engine with air conditioner) 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-145-2001-genid-g1-6.webp",
+   "fuses": [
+    [
+     "A",
+     "Relay",
+     "",
+     "Climate control compressor relay"
+    ]
+   ]
+  }
+ ]
+}
