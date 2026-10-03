@@ -1,0 +1,515 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "voyager",
+ "brand_db": "Chrysler",
+ "model_db_name": "Voyager",
+ "model_id": 1261,
+ "trim_label": "",
+ "generation_name": "6th generation (RU)",
+ "generation_code": "g6",
+ "year_start": 2020,
+ "year_end": 2026,
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/chrysler/voyager/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-voyager-2021-genid-g6-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO3",
+     "10A",
+     "Selectable fuse location - USB IP (direct) B+"
+    ],
+    [
+     "2",
+     "Fuse MICRO3",
+     "10A",
+     "USB charge port - ACC RUN"
+    ],
+    [
+     "4",
+     "Fuse FMM/MCase",
+     "40A",
+     "ESC motor pump"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "20A",
+     "TT park lights - if equipped"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "30A",
+     "Headlamp washer pump - if equipped"
+    ],
+    [
+     "9",
+     "Fuse FMM/MCase",
+     "30A",
+     "Drive train control module - if equipped"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow receptacle - if equipped"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Rear cargo APO"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow right stop/turn - if equipped"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Occupant restraint controller (ORC) (airbag)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Occupant restraint controller (ORC) (airbag)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Left HID headlamp"
+    ],
+    [
+     "20",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow module - if equipped"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "10A",
+     "AHLM"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "10A",
+     "Rear camera / LBSS / RBSS / CVPM / humidity sensor / in-vehicle temperature sensor"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Front heated seats"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Front ventilated seats / heated steering wheel"
+    ],
+    [
+     "27",
+     "Fuse MICRO3",
+     "5A",
+     "Security gateway"
+    ],
+    [
+     "28",
+     "Fuse MICRO3",
+     "10A",
+     "Rear entertainment screens 1 & 2 / media hubs / 3rd & 2nd row USB charge / vacuum cleaner sw / 3rd row recline sw / Stow N Go sw / sliding door sw backlight"
+    ],
+    [
+     "28",
+     "Fuse MICRO3",
+     "10A",
+     "Rain sensor / sunroof / CRVMM"
+    ],
+    [
+     "29",
+     "Fuse MICRO3",
+     "15A",
+     "Transmission control module (TCM) / E-shifter"
+    ],
+    [
+     "29",
+     "Fuse MICRO3",
+     "15A",
+     "Instrument cluster"
+    ],
+    [
+     "30",
+     "Fuse MICRO3",
+     "10A",
+     "ICS / front and rear HVAC / SCCM / EPB"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Overhead console / rear ISC"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Uconnect / DCSD / telematics"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors - if equipped"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defroster (EBL)"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "20A",
+     "Trailer tow backup"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "Right HID headlamp"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow left stop/turn - if equipped"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "Instrument panel cluster (IPC) / SGW"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "HALF / PTS / driver assist system module (DASM)"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "30A",
+     "CBC feed #1 (interior lights)"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power inverter"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver door module"
+    ],
+    [
+     "47",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "25A",
+     "Rear sliding door module - left"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "25A",
+     "Rear door module - right"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "52",
+     "Fuse FMM/MCase",
+     "30A",
+     "Brake vacuum pump"
+    ],
+    [
+     "54",
+     "Fuse FMM/MCase",
+     "40A",
+     "ESP ECU and valves"
+    ],
+    [
+     "55",
+     "Fuse MICRO3",
+     "15A",
+     "Radio frequency hub / keyless ignition (KIN) / electronic steering lock (BUX only)"
+    ],
+    [
+     "55",
+     "Fuse MICRO3",
+     "15A",
+     "DVD / video routing module (VRM)"
+    ],
+    [
+     "56",
+     "Fuse MICRO3",
+     "10A",
+     "Front and rear HVAC control module / OCM / electronic steering lock (ESL)"
+    ],
+    [
+     "56",
+     "Fuse MICRO3",
+     "10A",
+     "ESP/ESC"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "10A",
+     "Drive train control module / power transfer unit - if equipped"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump motor"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "40A",
+     "CBC feed #4 (exterior lighting #2)"
+    ],
+    [
+     "61",
+     "Fuse FMX/JCase",
+     "60A",
+     "Vacuum cleaner"
+    ],
+    [
+     "62",
+     "Fuse FMM/MCase",
+     "25A",
+     "Rear HVAC blower motor"
+    ],
+    [
+     "66",
+     "Fuse FMX/JCase",
+     "40A",
+     "Folding seat module"
+    ],
+    [
+     "67",
+     "Fuse FMM/MCase",
+     "25A",
+     "Sunroof control module"
+    ],
+    [
+     "68",
+     "Fuse FMM/MCase",
+     "25A",
+     "Rear door module - left"
+    ],
+    [
+     "69",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power liftgate module"
+    ],
+    [
+     "70",
+     "Fuse FMM/MCase",
+     "20A",
+     "ECM"
+    ],
+    [
+     "71",
+     "Fuse FMM/MCase",
+     "25A",
+     "Rear slide door module - right"
+    ],
+    [
+     "72",
+     "Fuse MICRO3",
+     "10A",
+     "Diagnostic port"
+    ],
+    [
+     "72",
+     "Fuse MICRO3",
+     "10A",
+     "USB + AUX port / video USB port"
+    ],
+    [
+     "73",
+     "Fuse FMM/MCase",
+     "40A",
+     "Front HVAC blower motor"
+    ],
+    [
+     "74",
+     "Fuse MICRO3",
+     "10A",
+     "Hands-free left & right rear door release module"
+    ],
+    [
+     "74",
+     "Fuse MICRO3",
+     "10A",
+     "Active grille shutter / power mirror"
+    ],
+    [
+     "75",
+     "Fuse FMM/MCase",
+     "25A",
+     "2nd row folding seat solenoid right"
+    ],
+    [
+     "76",
+     "Fuse FMM/MCase",
+     "40A",
+     "CBC feed #4 (exterior lighting #1)"
+    ],
+    [
+     "77",
+     "Fuse FMM/MCase",
+     "40A",
+     "CBC feed #3 (power locks)"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "25A",
+     "Ignition coil / fuel injector"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "20A",
+     "ECM"
+    ],
+    [
+     "86",
+     "Fuse MICRO3",
+     "15A",
+     "Media hubs 1 & 2"
+    ],
+    [
+     "86",
+     "Fuse MICRO3",
+     "15A",
+     "Power lumbar switch"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "90",
+     "Fuse MICRO3",
+     "10A",
+     "ECM"
+    ],
+    [
+     "92",
+     "Fuse FMM/MCase",
+     "25A",
+     "2nd row folding seats solenoid left"
+    ],
+    [
+     "93",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "94",
+     "Fuse MINI",
+     "5A",
+     "Battery sensor (IBS)"
+    ],
+    [
+     "95",
+     "Fuse MINI",
+     "25A",
+     "Amplifier / active noise control"
+    ],
+    [
+     "97",
+     "Fuse MINI",
+     "10A",
+     "ECM (ESS only)"
+    ],
+    [
+     "CB1",
+     "Circuit breaker",
+     "",
+     "Power seats (driver)"
+    ],
+    [
+     "CB2",
+     "Fuse MINI",
+     "25A",
+     "Power seats (passenger)"
+    ],
+    [
+     "CB3",
+     "Circuit breaker MAXI",
+     "",
+     "Front power window w/o door nodes"
+    ]
+   ]
+  }
+ ]
+}

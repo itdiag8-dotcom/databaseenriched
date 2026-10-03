@@ -1,0 +1,389 @@
+{
+ "make_slug": "chrysler",
+ "model_slug": "voyager",
+ "brand_db": "Chrysler",
+ "model_db_name": "Voyager",
+ "model_id": 1261,
+ "trim_label": "",
+ "generation_name": "4th generation (RS/RG)",
+ "generation_code": "g4",
+ "year_start": 2000,
+ "year_end": 2008,
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/chrysler/voyager/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chrysler-voyager-2008-genid-g4-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Gasoline: radiator fan relay"
+    ],
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Diesel: radiator fan relay No.2"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Headlamp washer relay (export), front control module"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Sunroof module (except export), power liftgate module"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window circuit breaker"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger relay"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body control module"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Dual/right/left power sliding door"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power seat circuit breaker (power seat switches, heated seat modules, memory seat/mirror module)"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower resistor (manual A/C), front blower module (automatic A/C)"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body control module"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter relay, ABS, front control module, blower relays, defogger relay, fuses 14, 15"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "'01: starter relay, ABS"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wiper on/off relay (wiper high/low relay, wiper module), front control module"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "8A",
+     "Left/right power mirror"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Rear power outlet, floor console lamp, floor console power outlet"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Sunroof module, rear wiper motor, radio, amplifier"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Front/rear washer pump motor"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Front cigar lighter, radio"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Body control module, instrument cluster, message center (highline), left/right repeater lamp (export)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "25A",
+     "ABS"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "25A",
+     "Gasoline: auto shutdown relay (PCM, ignition coil, fuel injector)"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "25A",
+     "Diesel: ECM/PCM relay (ECM, generator, MAF sensor, fuel pressure solenoid, glow plug relay, camshaft sensor, EGR solenoid, A/C clutch, radiator fan relays 1-3)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Except export: right rear lamp assembly, right front park/turn lamp, front control module"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Export: right park lamp, right headlamp leveling motor, headlamp switch, right rear lamp assembly, front control module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Except export: left front park/turn lamp, license lamp, trailer tow connector, left rear lamp assembly, front control module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Export: left park lamp, left headlamp leveling motor, license lamp, left rear lamp assembly, front control module"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "Stop lamp switch"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "Front fog lamp relay, front control module"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "A/C compressor clutch relay, power mirror switch, adjustable pedals relay, folding mirror relay (export), ignition switch (export), Thatcham alarm module (UK), Sentry Key module (export)"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "'01: A/C clutch relay, passenger folding mirror relay (export), power mirror switch"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "Gasoline: powertrain control module, fuel pump relay"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "Diesel: fuel heater relay (crankcase ventilation heater, fuel heater)"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "Gasoline: transmission control relay (transmission solenoid/pressure switch, PCM)"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "Diesel: lift pump relay, cabin heater assist"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch (Sentry Key module, park assist module, Thatcham alarm module (UK))"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "20A",
+     "Radio, front control module, speaker relay, BCM, auto temp control, Sentry Key module, overhead console, adjustable pedals switch, DVD/CD changer, Thatcham alarm module/siren (UK)"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "'01: radio, speaker relay, front control module, BCM, overhead console, Sentry Key modules, auto temp control"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "25A",
+     "Rear A/C heater unit (manual A/C), rear blower motor power module (automatic A/C)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp washer (export)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Park lamp"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front fog lamp"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Air conditioner compressor clutch"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Gasoline: fuel pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Diesel: fuel heater"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Rear blower motor"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front blower motor"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Accessory"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Gasoline: auto shutdown"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Diesel: ECM/PCM"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Front wiper high/low"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Front wiper on/off"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Gasoline: transmission control"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Diesel: lift pump"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Speaker"
+    ],
+    [
+     "7",
+     "Other",
+     "",
+     "Power outlet, floor console power outlet, data link connector"
+    ]
+   ]
+  }
+ ]
+}
