@@ -1,0 +1,375 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c4",
+ "brand_db": "Citroen",
+ "model_db_name": "C4",
+ "model_id": 1270,
+ "generation_name": "1st generation (B5)",
+ "generation_code": "g1",
+ "year_start": 2004,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/citroen/c4/info/fusebox/2012/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses under the dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-2012-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "30A",
+     "Central locking, deadlocking"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Airbags and pyrotechnic pretensioners"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic socket, brake switch, electrochrome rearview mirror, ESP, water level sensor, diesel additive, clutch pedal switch"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "30A",
+     "Front electric windows, heated exterior mirrors"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "30A",
+     "Rear electric windows"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "5A",
+     "Interior lighting"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Multifunction display, car radio, steering wheel controls, screens, alarm, front 12V socket, trailer box, driving school module"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Cigarette lighter, rear 12V socket"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Under-inflation detection, automatic gearbox, STOP switch"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Steering lock, diagnostic socket, particle filter"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Electric seat, lane departure warning, parking assist"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor, light sensor, 6-speed piloted manual gearbox, engine service box"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning, instrument cluster, tachometer, airbags and pretensioners, trailer box, Bluetooth telephone"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "30A",
+     "Central locking, deadlocking"
+    ],
+    [
+     "F16",
+     "Fuse ATO Shunt",
+     "",
+     "SHUNT"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "40A",
+     "Heated rear window"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Second fuse box under the dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-2012-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "30A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "30A",
+     "Power driver's seat"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "Heated seats"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuses in the engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-2012-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit, fan assembly"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Windshield and rear window washer"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "PCVA, xenon lamps, directional headlights, canister purge solenoid valve"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESP ECU, power steering"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "25A",
+     "Starter motor"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Additional heating box [diesel], engine water level switch"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Engine solenoid valve, diesel water sensor, engine control unit, injectors, ignition coil, oxygen sensor, canister purge [1.4i/1.6i 16V]"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "40A",
+     "Air blower, air conditioning"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "30A",
+     "Windshield wipers"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "40A",
+     "Built-in Systems Interface (BSI)"
+    ],
+    [
+     "F15",
+     "Fuse",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "F16",
+     "Fuse",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "F17",
+     "Fuse",
+     "15A",
+     "Left low beam"
+    ],
+    [
+     "F18",
+     "Fuse",
+     "15A",
+     "Right low beam"
+    ],
+    [
+     "F19",
+     "Fuse",
+     "15A",
+     "Engine control unit [1.4i 16V and 1.6i 16V engines]"
+    ],
+    [
+     "F20",
+     "Fuse",
+     "10A",
+     "Engine solenoid valve"
+    ],
+    [
+     "F21",
+     "Fuse",
+     "5A",
+     "Fan relay, Valvetronic"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Fuses on the battery",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-2012-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MICRO2",
+     "30A",
+     "Gearbox [piloted manual or automatic]"
+    ],
+    [
+     "F5",
+     "Fuse MIDI",
+     "80A",
+     "Power steering electro-pump unit"
+    ],
+    [
+     "F6",
+     "Fuse MIDI",
+     "70A",
+     "Heating box [diesel]"
+    ],
+    [
+     "F7",
+     "Fuse MIDI",
+     "100A",
+     "Switching and protection unit"
+    ],
+    [
+     "F9",
+     "Fuse MIDI",
+     "30A",
+     "Piloted manual gearbox electro-pump unit"
+    ],
+    [
+     "F10",
+     "Fuse MIDI",
+     "30A",
+     "Valvetronic electric motor"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "MAXI Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-2012-genid-g1-4.webp",
+   "fuses": [
+    [
+     "MF1",
+     "Fuse MAXI",
+     "30A",
+     "Motor fan group"
+    ],
+    [
+     "MF1",
+     "Fuse MAXI",
+     "50A",
+     "Motor fan group"
+    ],
+    [
+     "MF2",
+     "Fuse MAXI",
+     "30A",
+     "ABS/ESP pump power supply"
+    ],
+    [
+     "MF3",
+     "Fuse MAXI",
+     "50A",
+     "ABS/ESP ECU"
+    ],
+    [
+     "MF4",
+     "Fuse MAXI",
+     "80A",
+     "Built-in systems interface"
+    ],
+    [
+     "MF5",
+     "Fuse MAXI",
+     "80A",
+     "Built-in systems interface"
+    ],
+    [
+     "MF6",
+     "Fuse MAXI",
+     "80A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "MF7",
+     "Fuse MAXI",
+     "20A",
+     "Diagnostic socket / DPF additive pump"
+    ]
+   ]
+  }
+ ]
+}

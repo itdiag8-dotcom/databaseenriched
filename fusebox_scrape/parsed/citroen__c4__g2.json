@@ -1,0 +1,164 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "c4",
+ "brand_db": "Citroen",
+ "model_db_name": "C4",
+ "model_id": 1270,
+ "generation_name": "2nd generation (B7)",
+ "generation_code": "g2",
+ "year_start": 2010,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/citroen/c4/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Dashboard Fuses Box 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-2017-genid-g2-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Rear window wiper"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "3A",
+     "Sun visor lighting, front map reading lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "3A",
+     "Rear map reading lights, glove compartment lighting"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "12V trunk outlet"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Front 12V power outlet"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "3A",
+     "Alarm siren, alarm control unit"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Radio system, radio system (aftermarket)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Dashboard Fuses Box 2 Right Side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-2017-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Rear 12V socket"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "25A",
+     "230V/50Hz power outlet [depending on country of sale]"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Dashboard Fuses Box 2 Left Side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-2017-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Rear 12V socket"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "25A",
+     "230V/50Hz power outlet [depending on country of sale]"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-c4-2017-genid-g2-3.webp",
+   "fuses": [
+    [
+     "F19",
+     "Fuse ATO",
+     "30A",
+     "Slow/fast speed of the windshield wiper"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer pump and rear window wiper"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Left high beam light"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Right high beam light"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "5A",
+     "Left low beam light"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "5A",
+     "Right low beam light"
+    ]
+   ]
+  }
+ ]
+}
