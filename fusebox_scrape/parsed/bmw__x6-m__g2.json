@@ -1,0 +1,672 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "x6-m",
+ "brand_db": "BMW",
+ "model_db_name": "X6 M",
+ "model_id": 821,
+ "generation_name": "2nd generation",
+ "generation_code": "F86",
+ "year_start": 2014,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/bmw/x6-m/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x6-m-2020-genid-g2-0.webp",
+   "fuses": [
+    [
+     "100",
+     "Fuse MINI",
+     "5A",
+     "Parking brake button"
+    ],
+    [
+     "101",
+     "Fuse MINI",
+     "15A",
+     "Right headlight"
+    ],
+    [
+     "102",
+     "Fuse MINI",
+     "5A",
+     "High voltage battery pack"
+    ],
+    [
+     "103",
+     "Fuse MINI",
+     "5A",
+     "Siren with tilt alarm"
+    ],
+    [
+     "104",
+     "Fuse MINI",
+     "5A",
+     "Parking brake control unit, Natural Vacuum Leak Detection (NVLD)"
+    ],
+    [
+     "105",
+     "Fuse ATO",
+     "30A",
+     "Electric reversible seat belt retractor, right"
+    ],
+    [
+     "106",
+     "Fuse ATO",
+     "30A",
+     "Torque distribution between rear axle wheels"
+    ],
+    [
+     "107",
+     "Fuse ATO",
+     "40A",
+     "Automatic tailgate lift, tailgate function module"
+    ],
+    [
+     "110",
+     "Fuse ATO",
+     "40A",
+     "Air suspension compressor relay"
+    ],
+    [
+     "112",
+     "Fuse ATO",
+     "20A",
+     "Hybrid pressure tank electronics"
+    ],
+    [
+     "113",
+     "Fuse ATO",
+     "30A",
+     "Trailer electrical connection module"
+    ],
+    [
+     "114",
+     "Fuse ATO",
+     "30A",
+     "Trailer electrical connection module"
+    ],
+    [
+     "115",
+     "Fuse ATO",
+     "20A",
+     "Right headlight"
+    ],
+    [
+     "116",
+     "Fuse ATO",
+     "30A",
+     "Parking brake control unit"
+    ],
+    [
+     "117",
+     "Fuse ATO",
+     "30A",
+     "Electric reversible seat belt retractor, left"
+    ],
+    [
+     "118",
+     "Fuse MINI",
+     "5A",
+     "Video switcher (VSW)"
+    ],
+    [
+     "120",
+     "Fuse MINI",
+     "5A",
+     "Power control unit"
+    ],
+    [
+     "120",
+     "Fuse MINI",
+     "5A",
+     "[N20]: Charging box for additional battery"
+    ],
+    [
+     "121",
+     "Fuse ATO",
+     "20A",
+     "Head unit"
+    ],
+    [
+     "122",
+     "Fuse ATO",
+     "30A",
+     "Audio amplifier"
+    ],
+    [
+     "124",
+     "Fuse MINI",
+     "5A",
+     "Video module"
+    ],
+    [
+     "126",
+     "Fuse MINI",
+     "10A",
+     "Rear door closer drive (passenger side)"
+    ],
+    [
+     "127",
+     "Fuse MINI",
+     "5A",
+     "DVD changer"
+    ],
+    [
+     "128",
+     "Fuse MINI",
+     "5A",
+     "Wireless charging slot, antenna booster (wireless charging), base board"
+    ],
+    [
+     "129",
+     "Fuse MINI",
+     "15A",
+     "Active Sound Design (ASD)"
+    ],
+    [
+     "130",
+     "Fuse MINI",
+     "5A",
+     "Automatic tailgate lift"
+    ],
+    [
+     "131",
+     "Fuse MINI",
+     "5A",
+     "Luggage compartment lighting, trunk button on rear lid (inside), noise filter"
+    ],
+    [
+     "132",
+     "Fuse MINI",
+     "5A",
+     "Rear axle torque distribution, electronic ride height control"
+    ],
+    [
+     "133",
+     "Fuse MINI",
+     "5A",
+     "Rear climate control"
+    ],
+    [
+     "134",
+     "Fuse MINI",
+     "10A",
+     "Rear door closer drive (driver's side)"
+    ],
+    [
+     "135",
+     "Fuse MINI",
+     "5A",
+     "Gas generator emergency shutdown terminals"
+    ],
+    [
+     "139",
+     "Fuse ATO",
+     "20A",
+     "Trailer socket"
+    ],
+    [
+     "140",
+     "Fuse ATO",
+     "20A",
+     "Trunk lid lock"
+    ],
+    [
+     "143",
+     "Fuse MINI",
+     "10A",
+     "Refrigerator relay"
+    ],
+    [
+     "144",
+     "Fuse MINI",
+     "15A",
+     "Selective Catalytic Reduction (SCR) control unit"
+    ],
+    [
+     "145",
+     "Fuse MINI",
+     "5A",
+     "Parking aid, information system fan"
+    ],
+    [
+     "146",
+     "Fuse MINI",
+     "15A",
+     "Silencer electric shutter (#1, #2)"
+    ],
+    [
+     "147",
+     "Fuse MINI",
+     "15A",
+     "Selective Catalytic Reduction (SCR) control unit"
+    ],
+    [
+     "148",
+     "Fuse MINI",
+     "5A",
+     "Lane change warning (SWW)"
+    ],
+    [
+     "149",
+     "Fuse MINI",
+     "7.5A",
+     "Right headlight"
+    ],
+    [
+     "150",
+     "Fuse MINI",
+     "7.5A",
+     "Contactless tailgate system electronic unit, comfort electronic charge [Hybrid], tailgate function module"
+    ],
+    [
+     "151",
+     "Fuse MINI",
+     "5A",
+     "USB hub (USB connector #1/#2, AUX-In connector)"
+    ],
+    [
+     "152",
+     "Fuse MINI",
+     "5A",
+     "Electric reversible seat belt retractor, left/right"
+    ],
+    [
+     "153",
+     "Fuse MINI",
+     "15A",
+     "Selective Catalytic Reduction (SCR) control unit"
+    ],
+    [
+     "154",
+     "Fuse MINI",
+     "5A",
+     "Surround View Camera (TRSVC), rear view camera"
+    ],
+    [
+     "155",
+     "Fuse MINI",
+     "10A",
+     "Front passenger's door closer drive"
+    ],
+    [
+     "156",
+     "Fuse MINI",
+     "10A",
+     "Driver's door closer drive"
+    ],
+    [
+     "158",
+     "Fuse MINI",
+     "10A",
+     "Rear audio system"
+    ],
+    [
+     "159",
+     "Fuse MINI",
+     "5A",
+     "Audio amplifier, information system fan"
+    ],
+    [
+     "160",
+     "Fuse ATO",
+     "20A",
+     "Rear heater"
+    ],
+    [
+     "162",
+     "Fuse ATO",
+     "20A",
+     "Second row sockets, luggage compartment socket"
+    ],
+    [
+     "163",
+     "Fuse ATO",
+     "30A",
+     "Trailer electrical connection module"
+    ],
+    [
+     "164",
+     "Fuse ATO",
+     "30A",
+     "Heated rear right seat"
+    ],
+    [
+     "165",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump control unit (EKPS)"
+    ],
+    [
+     "166",
+     "Fuse ATO",
+     "30A",
+     "Heated rear left seat"
+    ],
+    [
+     "167",
+     "Fuse ATO",
+     "30A",
+     "Driver's & front passenger's door closer actuators"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-x6-m-2020-genid-g2-1.webp",
+   "fuses": [
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Remote control receiver"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Ceiling console"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Preheating control unit"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Driver's door switch box, outside rear view mirror (front passenger side)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Engine management system (DME)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Electronic transmission control system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Touchbox, controller (joystick)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Retractable instrument panel speaker, rear left/right heated seat switch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Driver/passenger seat lumbar support valve block, driver/passenger side seat adjustment switch block"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Rain/light/sun sensor, overhead console, vanity mirror lighting"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Additional coolant pump"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Charge air cooler coolant pump"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Electric fan open relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Transfer case"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "[N63, S63]: Turbocharger coolant pump"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "[N20]: Electric air conditioner compressor, additional electric heater"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "Integrated Chassis Management (ICM)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Electrochromic rear view mirror"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "20A",
+     "Socket in the armrest"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "20A",
+     "Ceiling console (terminal 30 power supply)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "Left headlight"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "[S63]: Charge air cooler coolant pump; [N20]: Refrigerant shut-off valve in vehicle interior, electrical machine control (EME)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Electronic Damper Control, electrochromic rear view mirror"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "5A",
+     "Directional illumination, left/right"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "7.5A",
+     "Camera-based driver assistance systems (KAFAS), active steering system"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "5A",
+     "Active Cruise Control (ACC), Automatic Outside Air Contamination Control (AUC) sensors"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "5A",
+     "Radiator shutter drive; [B47, N47, N57]: engine ventilation system heating, radiator shutter drive"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "5A",
+     "Night vision electronics (NVE), vehicle sound generator (VSG)"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "Switching center in the steering column"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "5A",
+     "Steering angle sensor; [57D30T1]: coolant reservoir shut-off valve, steering angle sensor"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "5A",
+     "Glove box lighting, instrument panel trim strip lighting, driver/passenger footwell lighting"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "10A",
+     "Gear select switch (GWS)"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "5A",
+     "Servotronic (SVT), electromechanical power steering (EPS)"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "5A",
+     "Vertical Dynamics Management (VDM)"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "20A",
+     "Left headlight"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "30A",
+     "Dynamic Stability Control (DSC)"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "40A",
+     "Active steering system"
+    ],
+    [
+     "60",
+     "Fuse ATO",
+     "40A",
+     "Heater"
+    ],
+    [
+     "61",
+     "Fuse ATO",
+     "20A",
+     "Electronic Damper Control"
+    ],
+    [
+     "62",
+     "Fuse ATO",
+     "30A",
+     "Vertical Dynamics Management (VDM)"
+    ],
+    [
+     "63",
+     "Fuse ATO",
+     "30A",
+     "Transfer box (VTG)"
+    ],
+    [
+     "64",
+     "Fuse ATO",
+     "30A",
+     "Front passenger seat heating module"
+    ],
+    [
+     "65",
+     "Fuse ATO",
+     "30A",
+     "Driver seat heating module"
+    ],
+    [
+     "66",
+     "Fuse ATO",
+     "20A",
+     "Auxiliary/additional heater"
+    ],
+    [
+     "67",
+     "Fuse ATO",
+     "30A",
+     "Driver's side seat adjustment switch block (without seat module), driver's seat module (SMFA)"
+    ],
+    [
+     "68",
+     "Fuse ATO",
+     "30A",
+     "Passenger side seat adjustment switch block (without seat module), front passenger seat module (SMBF)"
+    ],
+    [
+     "69",
+     "Fuse ATO",
+     "20A",
+     "Electronic transmission control system (EGS)"
+    ],
+    [
+     "70",
+     "Fuse ATO",
+     "20A",
+     "Power steering column adjustment"
+    ]
+   ]
+  }
+ ]
+}
