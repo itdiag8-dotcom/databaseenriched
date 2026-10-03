@@ -1,0 +1,630 @@
+{
+ "make_slug": "audi",
+ "model_slug": "a3",
+ "brand_db": "Audi",
+ "model_db_name": "A3 8V",
+ "model_id": 241,
+ "generation_name": "3rd generation",
+ "generation_code": "Typ 8V",
+ "year_start": 2013,
+ "year_end": 2020,
+ "trim_label": null,
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/audi/a3/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a3-2020-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "Engine control module [petrol engines] [natural gas engines]"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "30A",
+     "Engine control module [diesel engines]"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "7.5A",
+     "Engine components, engine cooling, auxiliary heater, exhaust treatment"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "10A",
+     "Engine components, engine cooling, auxiliary heater, exhaust treatment"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "10A",
+     "Engine components, fuel tank system (diesel), CNG cut-off valve"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "7.5A",
+     "Engine components, CNG cut-off valve"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "15A",
+     "Engine components, CNG cut-off valve"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "7.5A",
+     "Brake light switch"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "7.5A",
+     "Engine components, water pumps, tank system (gasoline engine), electrification"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "10A",
+     "Heated oxygen sensor"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "15A",
+     "Heated oxygen sensor"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "5A",
+     "Engine components, exhaust door, glow time control module"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "7.5A",
+     "Engine components, exhaust door, glow time control module"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "15A",
+     "Fuel control module, fuel pump"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "20A",
+     "Fuel control module, fuel pump"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "30A",
+     "Transmission fluid pump"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "7.5A",
+     "Power and control electronics, engine components, ignition coil, options module"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "10A",
+     "Power and control electronics, engine components, ignition coil, options module"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "20A",
+     "Power and control electronics, engine components, ignition coil, options module"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "30A",
+     "Power and control electronics, engine components, ignition coil, options module"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "7.5A",
+     "Electronic Stabilization Control (ESC), engine control module"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "7.5A",
+     "Terminal 30 (voltage reference), battery monitoring"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "30A",
+     "Windshield wipers"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "10A",
+     "Anti-theft alarm system"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Automatic transmission"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "7.5A",
+     "Terminal 50 diagnosis, engine control module"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "30A",
+     "Engine start"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "7.5A",
+     "Vacuum pump, water pump, high pressure pump, fuel injectors"
+    ],
+    [
+     "F33",
+     "Fuse ATO",
+     "30A",
+     "Brake pressure reservoir, recuperation"
+    ],
+    [
+     "F34",
+     "Fuse ATO",
+     "7.5A",
+     "Brake booster"
+    ],
+    [
+     "F35",
+     "Fuse ATO",
+     "7.5A",
+     "Climate control system"
+    ],
+    [
+     "F36",
+     "Fuse ATO",
+     "5A",
+     "Left front headlamp"
+    ],
+    [
+     "F37",
+     "Fuse ATO",
+     "20A",
+     "Parking heater"
+    ],
+    [
+     "F38",
+     "Fuse ATO",
+     "20A",
+     "Right front headlamp"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Automatic glow period control unit"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Low heat output relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter relay 2"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter relay 1"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "High heat output relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Main relay [petrol engines only]"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Terminal 30 voltage supply relay [diesel engines only]"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Engine component current supply relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-a3-2020-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "",
+     "Engine components, AdBlue"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Seat adjustment"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power top hydraulic pump"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "7.5A",
+     "Infotainment control panel, Infotainment components"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Gateway"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "7.5A",
+     "Selector lever (automatic transmission), steering lock"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning/heating controls, auxiliary heating, rear window defogger, tire pressure monitor"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Electromechanical parking brake switch, light switch, rain/light sensor, anti-theft alarm system, diagnostic connector, roof module, emergency call system, headlight range control"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "7.5A",
+     "Steering column electronics"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "7.5A",
+     "Infotainment system display"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "40A",
+     "Left vehicle electrical system control module, airbag"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "15A",
+     "Infotainment components"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "20A",
+     "Infotainment components"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "25A",
+     "Driver's side safety belt tensioner, airbag"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Heating and A/C system blower control"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "40A",
+     "Heating and A/C system blower control"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Electronic steering column lock, convenience access control module"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "TV tuner, telephone antenna"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Rearview camera"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Vehicle positioning system interface control unit"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "7.5A",
+     "Engine components, AdBlue, charging system"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Steering column, steering wheel heating switch module"
+    ],
+    [
+     "F23",
+     "Fuse FMX/JCase",
+     "20A",
+     "Panoramic glass roof/power top control module, power top latch"
+    ],
+    [
+     "F23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Panoramic glass roof/power top control module, power top latch"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "40A",
+     "Right vehicle electrical system control module"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "30A",
+     "Driver's side front/rear power windows"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "30A",
+     "Seat heating"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "30A",
+     "Vehicle electrical system control module"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "7.5A",
+     "Power top control module"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "7.5A",
+     "Vehicle electrical system control module, interior lighting"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic connector"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "7.5A",
+     "Front camera, parking system, ACC sensor, lane change assist"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "7.5A",
+     "Hold assist button, interior sound, back-up light switch, temperature sensor, neck heating and sockets, power top operation button"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "7.5A",
+     "Air quality sensor, automatic dimming rearview mirror, diagnostic connector, center console power supply"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "7.5A",
+     "Right headlight (LED, Matrix LED)"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "7.5A",
+     "Left headlight (LED, Matrix LED)"
+    ],
+    [
+     "F38",
+     "Fuse ATO",
+     "15A",
+     "High-voltage battery [hybrid vehicles]"
+    ],
+    [
+     "F39",
+     "Fuse ATO",
+     "30A",
+     "Passenger's side front/rear power windows"
+    ],
+    [
+     "F40",
+     "Fuse ATO",
+     "20A",
+     "Sockets"
+    ],
+    [
+     "F41",
+     "Fuse ATO",
+     "25A",
+     "Passenger's side safety belt tensioner"
+    ],
+    [
+     "F42",
+     "Fuse ATO",
+     "40A",
+     "Central locking area"
+    ],
+    [
+     "F44",
+     "Fuse ATO",
+     "15A",
+     "All wheel drive"
+    ],
+    [
+     "F45",
+     "Circuit breaker ATO",
+     "",
+     "Driver's side seat adjustment"
+    ],
+    [
+     "F47",
+     "Fuse ATO",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F48",
+     "Fuse ATO",
+     "10A",
+     "Outer sound actuator [hybrid vehicles]"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "7.5A",
+     "Clutch sensor, engine start, high-voltage battery, power electronics"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "15A",
+     "Level control system control module"
+    ],
+    [
+     "F53",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger [3-door / 5-door]"
+    ],
+    [
+     "F53",
+     "Fuse ATO",
+     "40A",
+     "Rear window defogger [4-door]"
+    ],
+    [
+     "F53",
+     "Fuse ATO",
+     "20A",
+     "Rear window defogger [Cabriolet]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Seat belt tensioner relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Relay for power sockets"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Terminal 15 voltage supply relay"
+    ]
+   ]
+  }
+ ]
+}
