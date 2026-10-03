@@ -1,0 +1,325 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "ds4",
+ "brand_db": "Citroen",
+ "model_db_name": "DS4",
+ "model_id": 1279,
+ "generation_name": "1st generation (\"B75\", \"NX\")",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/citroen/ds4/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment electronics boxes",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-ds4-2014-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Engine control computer"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "5A",
+     "Electric fan group control unit"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Engine control computer"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Engine control computer"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Engine management computer"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Engine control computer"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Engine control computer"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "5A",
+     "Safety contactor for cruise control"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Left headlight, right headlight, ionizer"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "25A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "Power steering pump mechanism"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Electrochromic inside rearview mirror; power window/outside mirror control board, driver's door"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "30A",
+     "Low/high speed of the windshield wiper"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Windscreen washer pump"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Right headlight"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Left headlight"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Battery fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-ds4-2014-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MICRO2",
+     "30A",
+     "Manual gearbox with electronic control or automatic transmission"
+    ],
+    [
+     "F6",
+     "Fuse MIDI",
+     "70A",
+     "Diesel engine"
+    ],
+    [
+     "F9",
+     "Fuse MIDI",
+     "30A",
+     "Electronically controlled manual transmission"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-ds4-2014-genid-g1-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse ATO",
+     "30A",
+     "Central locking"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "3A",
+     "Remote control key"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Electronic start assist (hands-free)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "3A",
+     "Steering wheel switch block"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Engine compartment fuse module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Car radio and air conditioning control"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Displays, parking sensors"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "3A",
+     "Rain and light sensor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "3A",
+     "Sun visor illumination, front individual lamps"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "3A",
+     "Individual rear lights, glove box lighting"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "3A",
+     "Driver's door window/mirror control, electrochromic interior rearview mirror"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Remote key reader"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Hatchback rear cigarette lighter"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Cigarette lighter"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "3A",
+     "Dual brake pedal contactor"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "3A",
+     "Burglar alarm siren, alarm processor"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "3A",
+     "Anti-theft device or START/STOP button"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Airbag and pyrotechnic pretensioner block"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Power supply for rear view camera (C4L China)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Car radio, autoradio (optional)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Car radio, autoradio (optional)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Car radio"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Car radio"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Stability control computer"
+    ]
+   ]
+  }
+ ]
+}
