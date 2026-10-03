@@ -1,0 +1,601 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "trailblazer",
+ "brand_db": "Chevrolet",
+ "model_db_name": "TrailBlazer",
+ "model_id": 1205,
+ "generation_name": "Generation G3 (9BU, VSS-F)",
+ "generation_code": "g3",
+ "year_start": 2021,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/chevrolet/trailblazer/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trailblazer-2024-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MICRO2",
+     "5A",
+     "(CLSTR) Instrument cluster"
+    ],
+    [
+     "F4",
+     "Fuse FMM/MCase",
+     "30A",
+     "(FRT WPR) Front wipers"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "7.5A",
+     "(OSRVM DEFOG) Mirror heater"
+    ],
+    [
+     "F7",
+     "Fuse MICRO2",
+     "10A",
+     "(L/GATE RELSE) Power back door"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "10A",
+     "Vent seat"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "30A",
+     "(REAR WNDW DEFOG) Rear window defogger"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "10A",
+     "ISRVM rear view camera"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "10A",
+     "(HDLP LVL) Headlight leveling"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "20A",
+     "FTZM"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "60A",
+     "E-BOOST PWR1"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "10A",
+     "(TRLR ST/TRN LT) Trailer stop/turn left"
+    ],
+    [
+     "F23",
+     "Fuse FMX/JCase",
+     "40A",
+     "(STRTR PINION) Starter system"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "10A",
+     "(ESCL) Steering lock"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "7.5A",
+     "ECM TCM run/crank"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "15A",
+     "(FRT/REAR WSW PUMP) Windshield washer"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "15A",
+     "Ignition coil - gas"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "10A",
+     "Aero shutter"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "5A",
+     "AHL AFL module"
+    ],
+    [
+     "F30",
+     "Fuse FMM/MCase",
+     "30A",
+     "(STRTR SOL) Starter solenoid"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "15A",
+     "ECM PT2"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "15A",
+     "(ENG COMP2) Engine control system"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "5A",
+     "(RVC) Regulated voltage control sensor"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "20A",
+     "(FRT FOG LP) Front fog lights"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "15A",
+     "(ENG COMP1) Engine control system"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "25A",
+     "ECM PT1"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "20A",
+     "Auxiliary oil pump"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "20A",
+     "(TRLR PRK LAMP) Trailer parking lamps"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "20A",
+     "(REAR WPR) Rear wiper"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "15A",
+     "(HORN) Horn"
+    ],
+    [
+     "F43",
+     "Fuse FMM/MCase",
+     "30A",
+     "(PWR WNDW RT) Power windows right"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "20A",
+     "(REAR WPR PRK) Rear wiper park"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "10A",
+     "(A/C CLTCH) A/C magnetic clutch"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "15A",
+     "ECM battery - gas"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "10A",
+     "(HDLP HI LH) Left headlight high beam"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "10A",
+     "(HDLP HI RH) Right headlight high beam"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "10A",
+     "Trailer stop/turn right"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "10A",
+     "Auxiliary water pump"
+    ],
+    [
+     "F54",
+     "Fuse MICRO2",
+     "10A",
+     "(PEPS) Passive entry / passive start"
+    ],
+    [
+     "F55",
+     "Fuse FMM/MCase",
+     "30A",
+     "(PWR WNDW LT) Power windows left"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "10A",
+     "Canister vent solenoid - gas"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "20A",
+     "(TCM BATT) Transmission control unit"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Run/Crank"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "(REAR DEFOG) Rear window defogger"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "(STRTR SOL) Starter solenoid"
+    ],
+    [
+     "K6",
+     "Relay",
+     "",
+     "(STRTR PINION) Starter pinion"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "(A/C CNTRL) Air conditioning"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trailblazer-2024-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "10A",
+     "(LUMBAR) Power seats"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "25A",
+     "(SUNROOF) Sunroof"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "20A",
+     "VBAT 3"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "20A",
+     "VBAT 7"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "20A",
+     "VBAT 6"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "10A",
+     "(AUTO HVAC) Air conditioning system"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "5A",
+     "CGM"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "7.5A",
+     "(ST WHL HTR) Heated steering wheel"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "Display"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "(RADIO) Radio and audio system"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "OnStar (ERA)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Park assist"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "(MAN. HVAC) Air conditioning system"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Wireless charger"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "VBAT 2"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "VBAT 1"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "2A",
+     "(SWC BKLT) Steering wheel controls backlighting"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "2A",
+     "Clock spring"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "(OCC SEN) Occupant detection system (airbag)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "7.5A",
+     "(DLC) Anti-theft system"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "SDM"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "(IGN_SW/ESCL) Ignition switch"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "(PWR L-GATE MDL) Power back door"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "SEC FUSE-2"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "(PWR SEAT CO-DR) Passenger power seat"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "30A",
+     "VBAT 8"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC-DC AT"
+    ],
+    [
+     "F30",
+     "Fuse FMX/JCase",
+     "30A",
+     "(PWR L-GATE MDL) Power back door"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "7.5A",
+     "(OSRVM) Mirror heater"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "FRT HS PWR-1"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "20A",
+     "VBAT 4"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "FRT HS PWR-2"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "30A",
+     "(AMPLIFIER) Audio system"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "OnStar (TCP)"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "30A",
+     "(PWR SEAT DR) Driver power seat"
+    ],
+    [
+     "F38",
+     "Fuse FMX/JCase",
+     "40A",
+     "(DC-DC 400W) DC to DC transformer 400W"
+    ],
+    [
+     "F39",
+     "Fuse FMX/JCase",
+     "30A",
+     "SEC FUSE-1"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "40A",
+     "(HVAC BLOWER) AC blower motor"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "(APO) Auxiliary power outlet"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "i-RAP ACC"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "Run"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Logistics"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-trailblazer-2024-genid-g3-2.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse MINI",
+     "",
+     "RDCM ELEC"
+    ],
+    [
+     "F05",
+     "Fuse FMX/JCase",
+     "",
+     "(DC/AC INVERTER) Power outlet (DC/AC inverter)"
+    ],
+    [
+     "F07",
+     "Fuse FMX/JCase",
+     "",
+     "RDCM"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "(RR SEAT HEAT PWR1) Rear seat heater"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "(RR SEAT HEAT PWR2) Rear seat heater"
+    ]
+   ]
+  }
+ ]
+}
