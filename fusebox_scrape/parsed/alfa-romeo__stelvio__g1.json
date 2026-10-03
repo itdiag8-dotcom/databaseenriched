@@ -1,0 +1,126 @@
+{
+ "make_slug": "alfa-romeo",
+ "model_slug": "stelvio",
+ "brand_db": "Alfa Romeo",
+ "model_db_name": "Stelvio",
+ "model_id": 103,
+ "generation_name": "1st generation",
+ "generation_code": "Type 949",
+ "year_start": 2018,
+ "year_end": 2024,
+ "trim_label": null,
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/alfa-romeo/stelvio/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Side Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-stelvio-2024-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F33",
+     "Fuse MINI",
+     "25A",
+     "Front power window (driver's side)"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "25A",
+     "Front power window (passenger side)"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Supply for Information and Entertainment system, Climate Control system, alarm, power door mirror folding, EOBD system, USB port"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Safe Lock device [driver side door unlock - if equipped], doors unlock, central lock"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "25A",
+     "Rear left power window"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "25A",
+     "Rear right power window"
+    ],
+    [
+     "F94",
+     "Fuse MINI",
+     "15A",
+     "Heater rear window coil"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Luggage Compartment Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-stelvio-2024-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "40A",
+     "Receiver module (TTM/TTEBM)"
+    ],
+    [
+     "F08",
+     "Fuse FMX/JCase",
+     "30A",
+     "Hi-Fi system"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "I-Drive, USB Socket, AUX, USB Charger"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "KL15/a 12 Volts Power socket in the luggage compartment"
+    ],
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Trailer light control unit power supply (+30)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Trailer light control unit power supply (+30)"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Trailer socket (only EMEA) (+30)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Tow bar (+15)"
+    ]
+   ]
+  }
+ ]
+}

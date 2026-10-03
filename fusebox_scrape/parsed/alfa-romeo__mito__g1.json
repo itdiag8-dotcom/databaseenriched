@@ -1,0 +1,402 @@
+{
+ "make_slug": "alfa-romeo",
+ "model_slug": "mito",
+ "brand_db": "Alfa Romeo",
+ "model_db_name": "Mito",
+ "model_id": 97,
+ "generation_name": "1st generation",
+ "generation_code": "Type 955",
+ "year_start": 2008,
+ "year_end": 2016,
+ "trim_label": null,
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/alfa-romeo/mito/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-mito-2016-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "7.5A",
+     "Air-conditioning compressor"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Main beam"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Horns"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "30A",
+     "Additional heater 1"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "5A",
+     "Engine control"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Brake control (BS)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "30A",
+     "Rear windscreen demister and defroster"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "5A",
+     "Engine control"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "Brake control (BS); Electric steering; Yaw rate sensor"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "Mirror defroster; Heated nozzles"
+    ],
+    [
+     "F15",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan, high speed"
+    ],
+    [
+     "F15",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan, high speed"
+    ],
+    [
+     "F15",
+     "Fuse MAXI",
+     "50A",
+     "Cooling fan, high speed"
+    ],
+    [
+     "F16",
+     "Fuse MAXI",
+     "70A",
+     "Body control unit"
+    ],
+    [
+     "F17",
+     "Fuse MAXI",
+     "40A",
+     "Brake vacuum pump"
+    ],
+    [
+     "F18",
+     "Fuse MAXI",
+     "70A",
+     "Electric steering"
+    ],
+    [
+     "F19",
+     "Fuse MAXI",
+     "20A",
+     "Cooling fan, low speed"
+    ],
+    [
+     "F19",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan, low speed"
+    ],
+    [
+     "F19",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan, low speed"
+    ],
+    [
+     "F20",
+     "Fuse MAXI",
+     "40A",
+     "Climate control fan"
+    ],
+    [
+     "F21",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F22",
+     "Fuse MAXI",
+     "50A",
+     "Additional heater 2"
+    ],
+    [
+     "F23",
+     "Fuse MAXI",
+     "60A",
+     "Glow plug control unit"
+    ],
+    [
+     "F24",
+     "Fuse MAXI",
+     "40A",
+     "Luggage compartment control unit"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Engine control"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Engine control"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Engine control"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "Engine control"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "15A",
+     "Heated windscreen"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "15A",
+     "Power socket/Cigar lighter"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan, high-speed relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan, low-speed relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Climate control fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Engine management relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Heated windscreen relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Power socket relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay; Additional fuel pump relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Start inhibitor relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Heated rear windscreen relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Main beam relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Air-conditioning compressor relay Or Horn"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Headlight washer relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-alfa-romeo-mito-2016-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Right headlights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Interior light(s), Luggage compartment light(s)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Central locking"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Alarm horn, Alarm sensors, Diagnostic connector, Climate control, Cooling fan, Bluetooth control unit, Radio and navigation unit, Electric mirror controls, Tyre pressure monitor control unit"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Windscreen washer, Rear windscreen washer"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power window"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Dipped beam, Headlight levelling"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Bluetooth control unit, Climate control, Brake light switch, Clutch switch, Radio, Cooling fan, Engine control unit, Reversing light switch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Brake light switch, Instrument panel, Headlight range control"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Electrochromatic mirror, Navigation, Light control, Parking sensor, Rain/dusk sensor, Tyre pressure monitor control unit, Sunroof"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Engine compartment junction block"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Driver's side power window"
+    ]
+   ]
+  }
+ ]
+}
