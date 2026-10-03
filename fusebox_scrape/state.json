@@ -179,46 +179,51 @@
     "punto-evo"
    ],
    "status": "DONE"
-  }
- },
- "in_progress": {
+  },
   "acura": {
+   "status": "DONE",
+   "note": "31 generations scraped; see models_done"
+  },
+  "alfa-romeo": {
+   "status": "DONE",
+   "note": "11 generations scraped (145,146,147,156,159,giulia,giulietta,mito,spider,stelvio); 9 models no_data"
+  },
+  "aston-martin": {
    "models_on_site": [
-    "cl",
-    "ilx",
-    "ilx-hybrid",
-    "integra",
-    "legend",
-    "mdx",
-    "mdx-sport-hybrid",
-    "nsx",
-    "rdx",
-    "rl",
-    "rlx",
-    "rlx-sport-hybrid",
-    "rsx",
-    "tl",
-    "tlx",
-    "tsx",
-    "zdx"
+    "db11",
+    "db7",
+    "db9",
+    "dbs",
+    "dbx",
+    "rapide",
+    "v12",
+    "v8",
+    "valhalla",
+    "vanquish",
+    "vantage",
+    "virage"
    ],
    "scraped": [
-    "mdx g1-g4",
-    "tl g1-g4",
-    "rdx g1-g3",
-    "tsx g1-g2",
-    "tlx g1-g2",
-    "ilx g1"
+    "db11 (g1 2017)",
+    "db7 (g1 2002)",
+    "rapide (g1 2011)",
+    "vanquish (g1 2001, g2 2017)",
+    "vantage (g4 2011)"
    ],
-   "todo": [
-    "integra, cl, rl, rlx, rsx, zdx, nsx, legend, ilx-hybrid, mdx-sport-hybrid, rlx-sport-hybrid (fetch /info/fusebox index for each first)"
+   "no_data_on_site": [
+    "db9",
+    "dbs",
+    "dbx",
+    "v12",
+    "v8",
+    "valhalla",
+    "virage"
    ],
-   "status": "IN_PROGRESS"
+   "status": "DONE"
   }
  },
+ "in_progress": {},
  "queue_next_makes": [
-  "alfa-romeo",
-  "aston-martin",
   "audi",
   "austin",
   "bmw",
@@ -344,8 +349,16 @@
    "tonale": {
     "status": "no_data"
    }
-  }
+  },
+  "aston-martin": [
+   "db11 g1",
+   "db7 g1",
+   "rapide g1",
+   "vanquish g1",
+   "vanquish g2",
+   "vantage g4"
+  ]
  },
- "last_updated": "2026-10-03T14:59:58.248364",
- "current_brand": "aston-martin"
+ "last_updated": "2026-10-03",
+ "current_brand": "audi"
 }

@@ -1,0 +1,622 @@
+{
+ "make_slug": "aston-martin",
+ "model_slug": "vanquish",
+ "brand_db": "Aston Martin",
+ "model_db_name": "Vanquish (2001\u20132007)",
+ "model_id": 189,
+ "generation_name": "V12 Vanquish",
+ "generation_code": "Project Vantage",
+ "year_start": 2001,
+ "year_end": 2007,
+ "trim_label": null,
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/aston-martin/vanquish/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's Side Fusebox",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-vanquish-2001-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Driver's Seat Module (+12V Battery)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Door Mirror Heaters"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Body Processor Module (Lamp Supply 12V)"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Centre Console Switch Pack, Rain Sensor, Glass Break Sensor"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Body Processor Module (Motor Supply 12V)"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "Driver's Switchpack, Driver's Seat Belt Buckle"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "Brake Pedal"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Ign Switched - OBDII"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Aircon Control Unit, Aircon Relay"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Ign Switched - Aircon ECU, Interior Mirror, VAP, Mirror Heater Relay, Blower Relays"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Ign Switched - Instrument Pack, Gear Display Module"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "LH Heated Front Screen"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "5A",
+     "Ign Switched - Heated Fr Screen Relays, PATS, ASM Switchpack"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "RH Heated Front Screen"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "5A",
+     "Instrument Pack"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger's Side Fusebox",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-vanquish-2001-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Passenger's Seat Module (+12V Battery)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Door lock Relay"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "OBDII, Clock, ASM Switch Panel"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "Key Barrel Switches, Window Switches, Mirror Joystick, Ext Door Handle Switches"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Radio Telephone"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "RH Blower Motor"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Accessory Sockets (Fascia and Boot)"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "Passenger's Seat Switchpack, Passenger's Seat Belt Buckle"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Ign Switched - Radio Telephone"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "LH Blower Motor"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "Ign Switched - Accessory Socket (Fascia)"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "PATS"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Ign Switched - Cigar Lighter"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "5A",
+     "Ign Switched - In-Car Entertainment Interface, Navigation System"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Body Processor Module (+12V to Lighting High Power Semiconductor Switches)"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Dimmer Module"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Management Fusebox",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-vanquish-2001-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "30A",
+     "Secondary PTEC VPWR"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Secondary PTEC VPWR Relay (Closes to switch VPWR from F1 to secondary PTEC)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Ignition Coil Supply Secondary PTEC"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "30A",
+     "Primary PTEC VPWR"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "Injectors, MAF, Ignition Coil Relay Primary, Cooling Fan Run-On Relay"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Canister Vent Valve, Vapour Management Valve, Misfire Detection Module"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "15A",
+     "Primary PTEC Engine Management & Catalyst Monitor Oxygen Sensor Heater Supply"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Ignition Coil Supply Primary"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Underbonnet Fusebox",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-vanquish-2001-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Transmission Control (Ignition Supply - see also fuse 1B - TCU battery supply)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "5A",
+     "Alternator Regulator"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Security Sounder, Relays 1 & 2"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "ABS Control Unit & Relay Logic (+12V Ignition)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Gearbox Oil Pump Relay, Starter Relay, Cooling Fan Controller"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "RH Dipped Beam"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Aircon Clutch"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "LH Dipped Beam"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Security Sounder"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Gearbox Oil Pump Relay"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "RH Horn"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "LH Horn"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "30A",
+     "Wiper Motor Relays"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Aircon Water Pump"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "ABS Control Valves"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Front Fog Lamps"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "ABS Pump"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "RH Main Beam"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "25A",
+     "Starter Solenoid"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "LH Main Beam"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition Positive"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "RH & LH Horns"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "RH & LH Dipped Beam Headlamps"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Aircon Clutch"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Main Beam Headlamps"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front Fog Lamps"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Aircon Water Pump"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Boot Fusebox",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-vanquish-2001-genid-g1-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Security and Locking Module - Reverse Lamp Feed"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Exhaust Bypass Vac Valve Solenoid"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Boot Fusebox Relays 1, 2 & 4 Coils - Ignition switched supply"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Cylinders 7-12 Fuel Pump - Ignition switched supply"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Airbag Control Module - Ignition switched supply"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "LH & RH Stop Lamps"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Cylinders 1-6 Fuel Pump - Ignition switched supply"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "High Mounted Stop Lamp & Brake signal to PTECs, TCU & ABS"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Security & Locking Module - Battery supply"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Accessory Sockets - Fascia and boot"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Rear Fog Lamps"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "25A",
+     "Heated Rear Window"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "In-Car Entertainment - Power Amplifier"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "5A",
+     "RH Tail Lamps, LH & RH Number Plate Lamps"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "Gearbox Hydraulic Pump"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "5A",
+     "LH Tail Lamps, LH & RH Rear Side Markers"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Exhaust Bypass Relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition Positive"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory Sockets, Aux supply to telephone"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Stop Lamps and 'Brake' signal to PTECs, TCU & ABS"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel Pump (Cylinders 1-6)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Tail Lights, No. Plate Lights and Side Markers"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Heated Rear Window"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear Fog Lights"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Underbonnet Fusebox (secondary)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-vanquish-2001-genid-g1-5.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "15A",
+     "Secondary PTEC Engine Management & Catalyst Monitor Oxygen Sensor Heaters"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "10A",
+     "Secondary EGR Vac Valve, Vapour Management Valve and Misfire Detection Module"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "20A",
+     "Injectors, MAF, Ignition Coil Relay Primary"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "",
+     "Not Used"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,765 @@
+{
+ "make_slug": "aston-martin",
+ "model_slug": "db11",
+ "brand_db": "Aston Martin",
+ "model_db_name": "DB11",
+ "model_id": 136,
+ "generation_name": "1st generation",
+ "generation_code": "AM5, VH500-X1",
+ "year_start": 2016,
+ "year_end": 2023,
+ "trim_label": null,
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/aston-martin/db11/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Primary Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-db11-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MIDI",
+     "150A",
+     "Electronic Power Assisted Steering (EPAS)"
+    ],
+    [
+     "F2",
+     "Fuse MIDI",
+     "100A",
+     "Cooling Fan"
+    ],
+    [
+     "F3",
+     "Fuse MIDI",
+     "150A",
+     "Right Side Engine Fuse Box"
+    ],
+    [
+     "F4",
+     "Fuse MIDI",
+     "50A",
+     "ABS Module"
+    ],
+    [
+     "F5",
+     "Fuse MIDI",
+     "100A",
+     "Left Side Powerhold Fuse Box"
+    ],
+    [
+     "F6",
+     "Fuse MIDI",
+     "100A",
+     "Right Side Powerhold Fuse Box"
+    ],
+    [
+     "F7",
+     "Fuse MIDI",
+     "100A",
+     "Left side Engine Fuse Box"
+    ],
+    [
+     "F8",
+     "Fuse MIDI",
+     "100A",
+     "Left side Engine Fuse Box"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "IP Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-db11-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Control Dial, Touch Pad, Instrument Cluster Fan"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "HVAC Module"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Instrument Cluster"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "OBD Socket"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Infotainment Unit"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "5A",
+     "SCCM"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "Drive Unit"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "5A",
+     "Tracker"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "7.5A",
+     "Steering Column Control Module (SCCM)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Common Powertrain Control (CPC) module"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "5A",
+     "Centre Stack Panel"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "5A",
+     "CPC module"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Central Display"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Drive Unit, OBD Socket"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Electronic Steering Lock"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "5A",
+     "Feedback signal to Body Controller - Front (BCF)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Right Powerhold Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-db11-2017-genid-g1-2.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "HEGO Sensor Bank A, Catalyst Monitor Bank A"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Coolant water pump A, Central Fan Module"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "Oil Level Sensor, Mass Air Flow (MAF) Sensor A, Cannister Purge A, Starter Relay, Secondary Air Relay A"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic module for Tank Leak (DMTL)"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "Fuel Injectors Bank A"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Ignitions Coils Bank A"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Variable Cam Timing (VCT) unit A, Compressor Valve A, Secondary Air Injector A, Variable Oil Pump, Coolant Pump Run On"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Differential Cooling Pump"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "ECM Keep Awake"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Right Side Powerhold Supply"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Right Side Powerhold Control"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "5A",
+     "ABS Module"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "Right Side Wiper Motor"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "40A",
+     "ABS Module"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "40A",
+     "Secondary Air Pump A"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "Starter Motor"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "5A",
+     "Bonnet Latches"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Left Side Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-db11-2017-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Vacuum Pump Monitor"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "40A",
+     "Vacuum Pump"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "40A",
+     "Secondary Air Pump B"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "30A",
+     "Left Side Wiper Motor"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "Tracker"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Left Side Powerhold Control"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Left Side Powerhold Supply"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "ECM Keep Awake"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Sound regulator"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "VCT Bank B, Compressor Valve B, Secondary Air Injector B"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "Ignitions Coils Bank B"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Fuel Injectors Bank B"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Exhaust Flaps"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Engine Coolant Level Sensor, MAF Bank B, Cannister Purge B, Secondary Air Relay B"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "20A",
+     "Coolant water pump Bank B"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "HEGO Sensor Bank B, Catalyst Monitor Bank B"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "15A",
+     "Daytime Running Lights"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "5A",
+     "Tyre Pressure Monitoring System (TPMS)"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "5A",
+     "Engine Control Module Wake up"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "5A",
+     "ABS Module"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Rear Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-aston-martin-db11-2017-genid-g1-4.webp",
+   "fuses": [
+    [
+     "K1",
+     "Fuse ATO",
+     "10A",
+     "Microwave Sensors"
+    ],
+    [
+     "K2",
+     "Fuse ATO",
+     "7.5A",
+     "ORC"
+    ],
+    [
+     "K3",
+     "Fuse ATO",
+     "5A",
+     "Ignition/accessory Relay Control"
+    ],
+    [
+     "K4",
+     "Fuse ATO",
+     "25A",
+     "Left Side Seat Module"
+    ],
+    [
+     "K5",
+     "Fuse ATO",
+     "5A",
+     "Keyless Go Module"
+    ],
+    [
+     "K6",
+     "Fuse ATO",
+     "20A",
+     "Charger Port"
+    ],
+    [
+     "K7",
+     "Fuse ATO",
+     "25A",
+     "Left Side Seat Module"
+    ],
+    [
+     "K8",
+     "Fuse ATO",
+     "5A",
+     "Deck Lid Latch"
+    ],
+    [
+     "K9",
+     "Fuse ATO",
+     "25A",
+     "Fuel Supply Control Module (FSCM)"
+    ],
+    [
+     "K10",
+     "Fuse ATO",
+     "25A",
+     "12V Accessory Socket"
+    ],
+    [
+     "K11",
+     "Fuse ATO",
+     "15A",
+     "Centre Stack Panel"
+    ],
+    [
+     "K12",
+     "Fuse ATO",
+     "20A",
+     "Deployable Spoiler"
+    ],
+    [
+     "G1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Left side Door Module"
+    ],
+    [
+     "G2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse box (B) Supply"
+    ],
+    [
+     "G3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse box (B) Supply"
+    ],
+    [
+     "G4",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse Box (K) Supply"
+    ],
+    [
+     "G5",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse Box (K) Supply"
+    ],
+    [
+     "G6",
+     "Fuse FMX/JCase",
+     "60A",
+     "Fuse Box (K) Supply"
+    ],
+    [
+     "G7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Right Side Door Module"
+    ],
+    [
+     "G8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body Controller Rear (BCR)"
+    ],
+    [
+     "G9",
+     "Fuse FMX/JCase",
+     "40A",
+     "BCR"
+    ],
+    [
+     "G10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body Controller Front (BCF)"
+    ],
+    [
+     "G11",
+     "Fuse FMX/JCase",
+     "40A",
+     "BCF"
+    ],
+    [
+     "G12",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse Box (I) Supply"
+    ],
+    [
+     "G13",
+     "Fuse FMX/JCase",
+     "30A",
+     "IP Fuse box (B) Supply"
+    ],
+    [
+     "G14",
+     "Fuse FMX/JCase",
+     "20A",
+     "Fuse Box (I) Supply"
+    ],
+    [
+     "H1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse box (B) Supply"
+    ],
+    [
+     "H2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fuse Box (J) Supply"
+    ],
+    [
+     "H3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse Box (J) Supply"
+    ],
+    [
+     "H4",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse Box (J) Supply"
+    ],
+    [
+     "H5",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse Box (J) Supply"
+    ],
+    [
+     "H7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated Rear Window"
+    ],
+    [
+     "H12",
+     "Fuse FMX/JCase",
+     "20A",
+     "Forward Harness Supply"
+    ],
+    [
+     "H13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Amplifier"
+    ],
+    [
+     "H14",
+     "Fuse FMX/JCase",
+     "60A",
+     "HVAC Blower"
+    ],
+    [
+     "I1",
+     "Fuse ATO",
+     "7.5A",
+     "Occupant Restraint Controller (ORC)"
+    ],
+    [
+     "I2",
+     "Fuse ATO",
+     "5A",
+     "-"
+    ],
+    [
+     "I7",
+     "Fuse ATO",
+     "5A",
+     "Fuel Supply Control Module (FSCM)"
+    ],
+    [
+     "I8",
+     "Fuse ATO",
+     "5A",
+     "Occupant Classification System (OCS)"
+    ],
+    [
+     "I9",
+     "Fuse ATO",
+     "10A",
+     "Transmission Control Module (TCM)"
+    ],
+    [
+     "I11",
+     "Fuse ATO",
+     "5A",
+     "Feedback signal to Body Controller - Rear (BCR)"
+    ],
+    [
+     "I12",
+     "Fuse ATO",
+     "20A",
+     "Forward Harness Supply"
+    ],
+    [
+     "J1",
+     "Fuse MINI",
+     "10A",
+     "Left Side Seat Module"
+    ],
+    [
+     "J2",
+     "Fuse MINI",
+     "15A",
+     "Camera Module"
+    ],
+    [
+     "J3",
+     "Fuse MINI",
+     "15A",
+     "TCM"
+    ],
+    [
+     "J4",
+     "Fuse MINI",
+     "15A",
+     "Left Side Seat Lumbar Adjust"
+    ],
+    [
+     "J5",
+     "Fuse MINI",
+     "10A",
+     "Seat Cooling Fans"
+    ],
+    [
+     "J6",
+     "Fuse MINI",
+     "5A",
+     "Multimedia Box"
+    ],
+    [
+     "J7",
+     "Fuse MINI",
+     "5A",
+     "Tuner Box"
+    ],
+    [
+     "J8",
+     "Fuse MINI",
+     "15A",
+     "Right Side Seat Lumbar Adjust"
+    ],
+    [
+     "J9",
+     "Fuse MINI",
+     "5A",
+     "Body Controller"
+    ],
+    [
+     "J10",
+     "Fuse MINI",
+     "25A",
+     "Adaptive Damping Module"
+    ],
+    [
+     "J11",
+     "Fuse MINI",
+     "10A",
+     "Right Side Seat Module"
+    ],
+    [
+     "J12",
+     "Fuse MINI",
+     "5A",
+     "Rain/Light Sensor"
+    ],
+    [
+     "J13",
+     "Fuse MINI",
+     "5A",
+     "Park Distance Control"
+    ],
+    [
+     "J15",
+     "Fuse MINI",
+     "7.5A",
+     "Overhead Module"
+    ],
+    [
+     "J16",
+     "Fuse MINI",
+     "5A",
+     "Brake Pedal Sensor"
+    ]
+   ]
+  }
+ ]
+}
