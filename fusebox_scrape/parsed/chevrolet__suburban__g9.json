@@ -1,0 +1,722 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "suburban",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Suburban",
+ "model_id": 1198,
+ "generation_name": "9th generation (GMT800, GMT830)",
+ "generation_code": "g9",
+ "year_start": 2000,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/chevrolet/suburban/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-2005-genid-g9-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MEGA",
+     "",
+     "GLOW PLUG / CUST FEED (gasoline accessory power) / HYBRID"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Auxiliary power [single battery and diesels only] / dual battery [TP2]"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "Mid bussed electrical center power feed, front seats, right doors"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "Front climate control fan"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Left bussed electrical center, door modules, door locks, auxiliary power outlets rear cargo area and instrument panel"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "",
+     "Accessory power / trailer wiring brake feed"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "",
+     "Anti-lock brakes"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "",
+     "Vehicle stability"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "Ignition power"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Ignition power"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "",
+     "Left bussed electrical center, left doors, truck body controller, flasher module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Left rear parking and sidemarker lamps"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Truck body controller battery feed"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid / Quadrasteer module power"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Ride control"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Backup lamps trailer wiring"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Powertrain control module, fuel pump"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Powertrain control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Front parking lamps, sidemarker lamps"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "High beam headlamp - left"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "High beam headlamp - right"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Headlamp low beam - left"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Headlamp low beam - right"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Electronic throttle control, electronic brake controller"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "INJ 1 [gas], ECMRPV [diesel]"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "INJ 2 [gas]"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "25A",
+     "EDU [diesel]"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster, A/C relay, turn signal/hazard switch, starter relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "O2A [gas], FUEL HT [diesel]"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "",
+     "Back-up lamps, automatic transmission shift lock control system"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "O2B [gas], ECMI [diesel]"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Brake transmission shift interlock system"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Rear defog relay"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster / driver information center"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "Starting system"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Windshield and rear window washer pump"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Electric adjustable pedals"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "Interior lamps"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "",
+     "Stoplamps"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "",
+     "Off-road lamps"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "",
+     "Rear climate control"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet - console"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "",
+     "Supplemental inflatable restraint system"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "",
+     "Truck body controller ignition"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "",
+     "Climate control controller"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "",
+     "Rear wiper/washer"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "",
+     "Audio system"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "",
+     "Mid bussed electrical center, HomeLink, rear heated seats"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "",
+     "OnStar / rear seat entertainment"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "",
+     "All-wheel drive module"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "",
+     "Radio amplifier"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "",
+     "Supplemental brake assist"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "",
+     "Parking lamps trailer wiring"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "",
+     "Right rear parking and sidemarker lamps"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "IGN 1 [gas], EDU [diesel]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Parking lamps relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlamp high beam relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Daytime running lamps relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlamp low beam relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Windshield and rear window washer pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-2005-genid-g9-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Rear window wiper switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Special equipment option accessory"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Windshield wipers"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Truck body controller accessory"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Ignition, heated seats"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Four-wheel drive system, auxiliary battery"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Climate control system"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Inside rearview mirror, climate control system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "Cruise control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Anti-lock brake system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "PCM, TCM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Vehicle stoplamps, brake module, electronic throttle control module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Driver door module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Rear electronic climate control, liftgate"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Truck body controller"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Vehicle and trailer high mounted stoplamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Left turn signal / stop trailer"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Left turn signals and sidemarkers"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Right turn signal / stop trailer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Right turn signals and sidemarkers"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Rear cargo area power outlets"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Truck body controller"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Truck body controller"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Power door lock system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Flasher module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Truck body controller"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MAXI",
+     "",
+     "Left power window circuit breaker"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power door lock relay [lock function]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power door lock relay [unlock function]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power door lock relay [driver's door unlock function]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear fog lamp [export only]"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Center Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-2005-genid-g9-2.webp",
+   "fuses": [
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Driver and passenger seat module circuit breaker"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Right power window circuit breaker"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Auxiliary Electric Cooling Fan Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-2005-genid-g9-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan relay 1"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan relay 3"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Cooling fan relay 2"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay fuse"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan fuse"
+    ]
+   ]
+  }
+ ]
+}

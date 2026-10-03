@@ -1,0 +1,246 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "suburban",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Suburban",
+ "model_id": 1198,
+ "generation_name": "7th generation (Rounded Line, R-series, V-series)",
+ "generation_code": "g7",
+ "year_start": 1980,
+ "year_end": 1991,
+ "trim_label": "",
+ "representative_year": 1991,
+ "source_url": "https://www.startmycar.com/chevrolet/suburban/info/fusebox/1991",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Cabin Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-1991-genid-g7-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "(INSTR LPS) Instrument panel lamps"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "(PWR ACC) Power accessories circuit breaker, power windows"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "(HORN/DM) Horn, dome lamps"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "(IGN) Ignition circuit"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "25A",
+     "(AUX HTR A/C) Auxiliary heater, air conditioning"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "(STOP HAZ) Stop/hazard lamps"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "(T/L CTSY) Tail lamps, courtesy lamps"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "(GAGE/IDLE) Gages, idle solenoid"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "25A",
+     "(HTR A/C) Heater, air conditioning"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "(RADIO) Radio"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "ECM B"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "(TURN B/U) Turn, backup lamps"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "(PWR WDO) Power window circuit breaker"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "25A",
+     "(WIPER) Wiper"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "ECM 1"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "DRL"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "CHOKE"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "3A",
+     "CRANK"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "CHOKE"
+    ],
+    [
+     "Flasher",
+     "Flasher",
+     "",
+     "Flasher"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Cabin Fuse Box (Ver. 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-1991-genid-g7-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "CHOKE"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "(A/C) Air conditioning"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "25A",
+     "AUX HTR A/C"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "GAU IDLE"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "(RDO) Radio and audio system"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "STOP HAZ"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "T/L CTSY"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "25A",
+     "(WIPER) Wipers"
+    ],
+    [
+     "13",
+     "Circuit breaker MAXI",
+     "",
+     "PWR"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "TURN-B/U"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "20A",
+     "(HORN) Horn"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "ECM BAT"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "5A",
+     "INST LPS"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "(ECM-IGN) Engine control unit"
+    ],
+    [
+     "R1",
+     "Flasher",
+     "",
+     "HAZ FLSH hazard flasher"
+    ],
+    [
+     "R2",
+     "Flasher",
+     "",
+     "DIR SIG FLSH turn signal flasher"
+    ]
+   ]
+  }
+ ]
+}

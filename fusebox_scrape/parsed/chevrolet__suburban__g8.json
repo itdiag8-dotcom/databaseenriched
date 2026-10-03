@@ -1,0 +1,354 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "suburban",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Suburban",
+ "model_id": 1198,
+ "generation_name": "8th generation (GMT400)",
+ "generation_code": "g8",
+ "year_start": 1993,
+ "year_end": 1999,
+ "trim_label": "",
+ "representative_year": 1999,
+ "source_url": "https://www.startmycar.com/chevrolet/suburban/info/fusebox/1999",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-1999-genid-g8-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Stop/TCC switch, buzzer, CHMSL, hazard lamps, stoplamps"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Transfer case"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Courtesy lamps, cargo lamp, glove box lamp, dome/reading lamps, vanity mirrors, power mirrors"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, DRL relay, lamp switch, keyless entry, low coolant module, illuminated entry module, DRAC [diesel]"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Rear comfort controls"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Cruise control"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "Auxiliary power outlet"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Crank"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "License lamp, parking lamps, taillamps, roof marker lamps, tailgate lamps, front sidemarkers, fog lamp relay, switch illumination"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Air bag system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "Wiper motor, washer pump"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "A/C, A/C blower, high blower relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Power amp, rear liftglass, cigarette lighter, door lock relay, power lumbar seat"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "4WD indicator, cluster, comfort controls, instrument switches, radio illumination, chime module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "DRL relay, fog lamp relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Front and rear turn signals, back-up lamps, BTSI solenoid"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Radio (ignition)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "4WAL/VCM, ABS, cruise control"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Radio (battery)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "PRNDL, automatic transmission, speedometer, check gages, warning lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Security/steering"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "AUX"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "25A",
+     "Rear wiper, rear washer pump"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Front axle, 4WD indicator lamp, TP2 relay [gasoline]"
+    ],
+    [
+     "A",
+     "Circuit breaker MAXI",
+     "",
+     "Power door lock, six-way power seat, keyless entry module"
+    ],
+    [
+     "B",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Underhood Fuse/Relay Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-1999-genid-g8-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "50A",
+     "Headlamp and panel dimmer switch, fog and courtesy fuses"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "50A",
+     "Battery, fuse block busbar"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "50A",
+     "Ignition switch"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "60A",
+     "Anti-lock brake module"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "50A",
+     "Hi blower and rear blower relays"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "30A",
+     "Stoplamps"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "",
+     "Heated seats [if equipped]"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "30A",
+     "Aux B"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "30A",
+     "Aux A"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump, PCM/VCM"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger [if equipped]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary fan relay coil, A/C compressor relay, hot fuel module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Fuel solenoid [diesel]"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Glow plugs [diesel]"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Horn, underhood lamps"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Auxiliary fan"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Injectors, PCM/VCM"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Heated front seats"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Heated outside mirrors [if equipped]"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch, EGR, canister purge, EVRV idle coast solenoid, heated O2, fuel heater [diesel], water sensor [diesel]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(STARTER) Starter relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(A/C) Air conditioning relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(FUEL PUMP) Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(BRAKE LAMP) Brake lamp relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(A.I.R.) A.I.R. relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(HORN) Horn relay"
+    ]
+   ]
+  }
+ ]
+}

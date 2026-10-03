@@ -1,0 +1,950 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "suburban",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Suburban",
+ "model_id": 1198,
+ "generation_name": "12th generation (GMTT1YC, T1XX)",
+ "generation_code": "g12",
+ "year_start": 2021,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/chevrolet/suburban/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-2024-genid-g12-0.webp",
+   "fuses": [
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "ELM 7 - Exterior Lighting Module 7"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "ELM 4 - Exterior Lighting Module 4"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "ELM 5 - Exterior Lighting Module 5"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "ELM 6 - Exterior Lighting Module 6"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Washer front"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Washer rear"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "60A",
+     "REC 2 - Rear Electrical Center 2"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Power sounder"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "60A",
+     "DC/AC inverter"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "60A",
+     "IECR 2"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "60A",
+     "IECL 2"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "EBCM - Electronic Brake Control Module"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "60A",
+     "REC 1 - Rear Electrical Center 1"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Camera wash"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Headlamp right"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Headlamp left"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "ELM 3 - Exterior Lighting Module 3"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "ELM 1 - Exterior Lighting Module 1"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Not R/C"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "On Board Diagnostics (OBD) body"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "MISC body"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Upfitter"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "MISC instrument panel"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Trailer parking lamps"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Right taillamp"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Secondary axle motor"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "15A",
+     "Engine Control Module (ECM) ignition"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "15A",
+     "OBD engine"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "TCM - Telematics Control Module"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "30A",
+     "TCCM - Transfer Case Control Module"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "10A",
+     "Left taillamps"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "10A",
+     "Trailer back-up lamp"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "SADS - Semi Active Damping System"
+    ],
+    [
+     "58",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "10A",
+     "AFM 1 - Active Fuel Management 1"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "15A",
+     "Automatic Lamp Control (ALC) main"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "15A",
+     "ICCM/CVS/DEF - Integrated Chassis Control Module/Canister Vent Solenoid/Diesel Exhaust Fluid"
+    ],
+    [
+     "63",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer brake"
+    ],
+    [
+     "65",
+     "Fuse FMX/JCase",
+     "60A",
+     "AUX UEC - Auxiliary Underhood Electrical Center"
+    ],
+    [
+     "66",
+     "Fuse FMX/JCase",
+     "50A",
+     "Left cooling fan motor"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "10A",
+     "AFM 2 - Active Fuel Management 2"
+    ],
+    [
+     "68",
+     "Fuse FMX/JCase",
+     "40A",
+     "Automatic Lamp Control (ALC) motor"
+    ],
+    [
+     "69",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter pinion"
+    ],
+    [
+     "71",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan motor lower"
+    ],
+    [
+     "72",
+     "Fuse FMX/JCase",
+     "50A",
+     "Right cooling fan motor / lower"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "10A",
+     "Left trailer stop turn lamp"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "30A",
+     "TIM 2 - Trailer Interface Module 2"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "30A",
+     "DEFC - Diesel Exhaust Fluid Controller"
+    ],
+    [
+     "76",
+     "Fuse FMM/MCase",
+     "30A",
+     "ELEC RNG BDS"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "15A",
+     "ECM - Engine Control Module"
+    ],
+    [
+     "80",
+     "Fuse MINI",
+     "20A",
+     "Cabin cool pump 17W"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "10A",
+     "Right trailer stop turn lamp"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "30A",
+     "TIM 1 - Trailer Interface Module 1"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "30A",
+     "FTZM - Fuel Tank Zone Module"
+    ],
+    [
+     "84",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer battery"
+    ],
+    [
+     "85",
+     "Fuse MINI",
+     "15A",
+     "Engine"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "30A",
+     "ECM - Engine Control Module"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "20A",
+     "Injector B even"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "15A",
+     "O2 B sensor"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "15A",
+     "O2 A sensor"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "20A",
+     "Injector A odd"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "15A",
+     "Engine Control Module (ECM) throttle control"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "10A",
+     "Cooling fan clutch AERO shutter"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "DC/AC inverter"
+    ],
+    [
+     "35",
+     "Relay",
+     "",
+     "Park lamp"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Run/Crank"
+    ],
+    [
+     "43",
+     "Relay",
+     "",
+     "Secondary axle motor"
+    ],
+    [
+     "59",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "64",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "70",
+     "Relay",
+     "",
+     "Starter pinion"
+    ],
+    [
+     "77",
+     "Relay",
+     "",
+     "Powertrain"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-2024-genid-g12-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "",
+     "Left door"
+    ],
+    [
+     "F3",
+     "Fuse MICRO2",
+     "",
+     "Universal garage door opener / OnStar hands-free calling / camera"
+    ],
+    [
+     "F4",
+     "Fuse MICRO2",
+     "",
+     "BCM 2 - Body Control Module 2"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "",
+     "Displays"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "",
+     "Front blower"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "",
+     "Left door panel"
+    ],
+    [
+     "F10",
+     "Fuse MICRO3",
+     "",
+     "Tilt/column lock"
+    ],
+    [
+     "F11",
+     "Fuse MICRO3",
+     "",
+     "USB / Data Link Connector (DLC)"
+    ],
+    [
+     "F12",
+     "Fuse MICRO3",
+     "",
+     "Central Gateway Module (CGM) / OnStar"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "",
+     "Right door panel"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "",
+     "Steering wheel control"
+    ],
+    [
+     "F18",
+     "Fuse MICRO3",
+     "",
+     "AVM 1 - Active Vibration Module 1"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "",
+     "Heated wheel"
+    ],
+    [
+     "F25",
+     "Fuse MICRO3",
+     "",
+     "SEO / Upfitter"
+    ],
+    [
+     "F26",
+     "Fuse MICRO3",
+     "",
+     "USB / SEO Retained Accessory Power (RAP)"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "Auxiliary power outlet / retained accessory power"
+    ],
+    [
+     "F30",
+     "Fuse MICRO3",
+     "",
+     "SDM/AOS - Sensing and Diagnostic Module / Automatic Occupant Sensing"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "",
+     "BCM 3 - Body Control Module 3"
+    ],
+    [
+     "F32",
+     "Fuse MICRO3",
+     "",
+     "Center Stack Module (CSM) / USB"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "",
+     "BCM 4 - Body Control Module 4"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "",
+     "Out of park"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "",
+     "Electric park brake switch"
+    ],
+    [
+     "F43",
+     "Fuse MICRO3",
+     "",
+     "RSE - Road Side Equipment"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "",
+     "AVM 2 - Active Vibration Module 2"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "",
+     "Radio module"
+    ],
+    [
+     "F46",
+     "Fuse MICRO2",
+     "",
+     "BCM 1A - Body Control Module 1A"
+    ],
+    [
+     "F48",
+     "Fuse MICRO2",
+     "",
+     "TCM - Telematics Control Module"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "",
+     "BCM 1 - Body Control Module 1"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "",
+     "DMS - Driver Monitoring System"
+    ],
+    [
+     "F54",
+     "Fuse FMX/JCase",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F55",
+     "Fuse FMM/MCase",
+     "",
+     "APO 3 - Auxiliary Power Outlet 3"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Block (back)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-2024-genid-g12-2.webp",
+   "fuses": [
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "APO 1 - Auxiliary Power Outlet 1"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "APO 2 - Auxiliary Power Outlet 2"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "RAP/ACCY 1 - Retained Accessory Power/Accessory 1"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "RAP/ACCY 2 - Retained Accessory Power/Accessory 2"
+    ],
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "",
+     "Right door"
+    ],
+    [
+     "F56",
+     "Fuse FMX/JCase",
+     "",
+     "DC/DC converter battery 1"
+    ],
+    [
+     "F57",
+     "Fuse FMX/JCase",
+     "",
+     "DC/DC converter battery 2"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-suburban-2024-genid-g12-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "",
+     "RFA - Remote Function Actuator"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "",
+     "WCM - Wireless Charging Module"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "",
+     "Heated seat module row 1 (battery 1)"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "",
+     "Memory Seat Module (MSM) driver"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "",
+     "Amp Aux 2 - Amplifier Auxiliary 2"
+    ],
+    [
+     "9",
+     "Fuse FMM/MCase",
+     "",
+     "SEO UPFTR 2 - Special Equipment Option Upfitter 2"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "",
+     "Motor seatbelt passenger"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "",
+     "Power folding seat row 2"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "",
+     "GBS"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "",
+     "Heated seat module row 1 (battery 2)"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "",
+     "Right hand cinch latch"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "",
+     "Memory seat module passenger"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "19",
+     "Fuse FMM/MCase",
+     "",
+     "Motor seatbelt driver"
+    ],
+    [
+     "20",
+     "Fuse FMM/MCase",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "",
+     "Rear HVAC display control"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "",
+     "EOCM - External Object Calculation Module"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "",
+     "Amp Aux 3 - Amplifier Auxiliary 3"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "",
+     "OBS DET"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "",
+     "RDCM - Rear Drive Control Module"
+    ],
+    [
+     "27",
+     "Fuse FMM/MCase",
+     "",
+     "Amp Aux 1 - Amplifier Auxiliary 1"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "",
+     "VPM - Video Processing Module"
+    ],
+    [
+     "31",
+     "Fuse FMM/MCase",
+     "",
+     "Amplifier"
+    ],
+    [
+     "33",
+     "Fuse MICRO3",
+     "",
+     "ICCM - Integrated Chassis Control Module"
+    ],
+    [
+     "34",
+     "Fuse MICRO3",
+     "",
+     "Heated seat module row 2"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "",
+     "HFCR"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "",
+     "ELM - Exterior Lighting Module"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "",
+     "Power slide console"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "",
+     "UPA - Universal Park Assist"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "",
+     "AFL/AHL - Adaptive Forward Lighting / Automatic Headlamp Leveling"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "",
+     "Rear HVAC blower motor"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "",
+     "Left hand cinch latch"
+    ],
+    [
+     "48",
+     "Fuse FMM/MCase",
+     "",
+     "Power seat recline module"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "",
+     "Lift glass"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "",
+     "Power liftgate module"
+    ],
+    [
+     "52",
+     "Fuse FMM/MCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "55",
+     "Relay",
+     "",
+     "Lift glass"
+    ]
+   ]
+  }
+ ]
+}
