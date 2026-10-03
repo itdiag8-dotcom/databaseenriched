@@ -75,7 +75,9 @@ console.log('brands level  :', brandTiles, 'tiles');
 // level 2: models of BMW
 await sandbox.catGo('models', 'BMW');
 must(body.innerHTML.includes('grid models'), 'model grid rendered');
-must(body.innerHTML.includes('/img?u='), 'pictures routed through the proxy');
+// Cards resolve through /api/model_picture (server side: local file -> bounded remote -> SVG card).
+// Remote URLs only reach the browser via the /img proxy inside openPicModal.
+must(body.innerHTML.includes('/api/model_picture/'), 'pictures routed through the model picture endpoint');
 must(body.innerHTML.includes('picture:'), 'match label shown');
 must(crumb.innerHTML.includes('BMW'), 'breadcrumb shows brand');
 console.log('models level  :', (body.innerHTML.match(/class="tile/g) || []).length, 'tiles,',

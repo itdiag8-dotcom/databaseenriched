@@ -9,8 +9,9 @@ const ROOT = __dirname;
 const DB_PATH = path.join(ROOT, 'car_database.db');
 const DASH_PATH = path.join(ROOT, 'dashboard', 'index.html');
 const BACKUP_DIR = path.join(ROOT, 'backups');
-// Port 3000 is the only accessible port in AI Studio
-const PORT = 3000;
+// AI Studio only exposes port 3000, but start_dashboard.bat sets PORT=3002 and opens that
+// URL, so the environment variable has to win or the browser gets a refused connection.
+const PORT = Number(process.env.PORT) || 3000;
 // Host 0.0.0.0 is required for AI Studio preview
 const HOST = process.env.HOST || '0.0.0.0';
 
@@ -34,7 +35,7 @@ try {
 }
 
 const { getBrandKey, getBrandLogoSVG, getOrImportBrandLogo } = require('./brand_logos');
-const { getModelPicture } = require('./model_pictures');
+const { getModelPicture, boundedUrl, fetchWithTimeout } = require('./model_pictures');
 
 const db = new DatabaseSync(DB_PATH);
 
@@ -84,7 +85,7 @@ function getBaseModelName(brand, name) {
 
   // 2. BMW series (1 Series, 3 Series, 5 Series, 7 Series, 8 Series, X1-X7, Z1-Z8, M1-M8)
   if (bLower.includes('bmw')) {
-    const bmwSeries = s.match(/^(?:BMW\s+)?([1-8])\s*(?:Series|er)?(?:\s*–.*|\s+Convertible|\s+Coupe|\s+Touring|\s+Gran Coupe)?$/i);
+    const bmwSeries = s.match(/^(?:BMW\s+)?([1-8])\s*(?:Series|er)?(?:\s*â€“.*|\s+Convertible|\s+Coupe|\s+Touring|\s+Gran Coupe)?$/i);
     if (bmwSeries) return bmwSeries[1] + ' Series';
     const bmwCode = s.match(/^(?:BMW\s+)?([1-8])\d{2}[a-z]*\b/i);
     if (bmwCode) return bmwCode[1] + ' Series';
@@ -136,7 +137,7 @@ function getBaseModelName(brand, name) {
   s = s.replace(/\s+(?:[I|V|X]+|B\d|C\d|T\d|[A-L]|I{1,3}|IV|VI{0,3}|IX|X)\b/gi, '');
 
   // 6. Body styles and trim suffixes
-  s = s.replace(/\s+(?:Hatchback|CC|SW|Saloon|Sedan|Van|Coupe|Coupé|Convertible|Cabrio|Cabriolet|Estate|Combi|Variant|Touring|Gran Coupe|Fastback|Spider|Spyder|Pickup|Allroad|Cross|Sportback|Grandtour|Plus|\+)\b/gi, '');
+  s = s.replace(/\s+(?:Hatchback|CC|SW|Saloon|Sedan|Van|Coupe|CoupÃ©|Convertible|Cabrio|Cabriolet|Estate|Combi|Variant|Touring|Gran Coupe|Fastback|Spider|Spyder|Pickup|Allroad|Cross|Sportback|Grandtour|Plus|\+)\b/gi, '');
 
   s = s.trim();
   if (!s) return String(name).trim();
@@ -382,11 +383,16 @@ const server = http.createServer(async (req, res) => {
       if (u.protocol !== 'https:' || !ALLOWED.has(u.hostname)) {
         return json(res, { error: 'host not allowed' }, 403);
       }
+      // Wikimedia originals run to 10+ MB, which stalls the grid; always use the bounded
+      // thumbnail and never retry the original when a bounded variant exists.
+      const normalised = u.toString();
+      const fetchUrl = boundedUrl(normalised);
       const cacheDir = path.join(ROOT, 'model_images', '_cache');
-      const key = crypto.createHash('sha1').update(raw).digest('hex');
-      const guess = path.extname(u.pathname).toLowerCase().split('?')[0];
+      const key = crypto.createHash('sha1').update(fetchUrl).digest('hex');
+      const guess = path.extname(new URL(fetchUrl).pathname).toLowerCase().split('?')[0];
       const ext = ['.webp', '.jpg', '.jpeg', '.png', '.gif'].includes(guess) ? guess : '.img';
       const file = path.join(cacheDir, key + ext);
+      const MAX_BYTES = Number(process.env.PIC_MAX_BYTES) || 1572864;
       const TYPES = { '.webp': 'image/webp', '.png': 'image/png', '.jpg': 'image/jpeg',
                       '.jpeg': 'image/jpeg', '.gif': 'image/gif', '.img': 'application/octet-stream' };
       const serve = buf => {
@@ -394,16 +400,28 @@ const server = http.createServer(async (req, res) => {
                              'Cache-Control': 'public, max-age=604800' });
         res.end(buf);
       };
-      if (fs.existsSync(file)) return serve(fs.readFileSync(file));
+      if (fs.existsSync(file)) {
+        const cached = fs.statSync(file).size <= MAX_BYTES ? fs.readFileSync(file) : null;
+        if (cached) return serve(cached);
+      }
       try {
         const headers = { 'User-Agent': 'car-database-dashboard/1.0 (local model picture viewer)' };
         if (u.hostname.endsWith('7zap.com')) headers.Referer = 'https://7zap.com/en/';
-        const r = await fetch(raw, { headers, redirect: 'follow' });
-        if (!r.ok) return json(res, { error: 'upstream ' + r.status }, 502);
-        const buf = Buffer.from(await r.arrayBuffer());
-        fs.mkdirSync(cacheDir, { recursive: true });
-        fs.writeFileSync(file, buf);
-        return serve(buf);
+        const attempts = fetchUrl === normalised ? [fetchUrl] : [fetchUrl, normalised];
+        for (const target of attempts) {
+          const r = await fetchWithTimeout(target, { headers, redirect: 'follow' });
+          if (!r.ok) {
+            // Only fall back to the full-size file for hosts that were not rewritten.
+            if (target === fetchUrl && fetchUrl === normalised) break;
+            continue;
+          }
+          const buf = Buffer.from(await r.arrayBuffer());
+          if (buf.length > MAX_BYTES) return json(res, { error: 'image too large (' + Math.round(buf.length / 1048576) + ' MB)' }, 413);
+          fs.mkdirSync(cacheDir, { recursive: true });
+          fs.writeFileSync(file, buf);
+          return serve(buf);
+        }
+        return json(res, { error: 'upstream fetch failed' }, 502);
       } catch (e) {
         return json(res, { error: 'fetch failed: ' + e.message }, 502);
       }
@@ -875,13 +893,13 @@ const server = http.createServer(async (req, res) => {
     if (req.method === 'GET' && p === '/api/catalog/stats') {
       const row = db.prepare(
         "SELECT COUNT(*) AS models, " +
-        "SUM(CASE WHEN image_url IS NOT NULL AND image_url<>'' THEN 1 ELSE 0 END) AS with_image, " +
+        "SUM(CASE WHEN (image_url IS NOT NULL AND image_url<>'') OR (image_local_path IS NOT NULL AND image_local_path<>'') THEN 1 ELSE 0 END) AS with_image, " +
         "SUM(CASE WHEN image_local_path IS NOT NULL AND image_local_path<>'' THEN 1 ELSE 0 END) AS downloaded, " +
         "COUNT(DISTINCT brand_name) AS brands FROM models"
       ).get();
       const bySource = db.prepare(
         "SELECT COALESCE(image_source,'?') AS source, COUNT(*) AS n FROM models " +
-        "WHERE image_url IS NOT NULL AND image_url<>'' GROUP BY 1 ORDER BY n DESC"
+        "WHERE (image_url IS NOT NULL AND image_url<>'') OR (image_local_path IS NOT NULL AND image_local_path<>'') GROUP BY 1 ORDER BY n DESC"
       ).all();
       return json(res, { ...row, by_source: bySource });
     }
@@ -1137,7 +1155,7 @@ const server = http.createServer(async (req, res) => {
       const model = (body.model !== undefined && body.model !== null) ? String(body.model).trim() : '';
       if (!brand || !model) return json(res, { error: 'brand and model are required' }, 400);
       const b = db.prepare('SELECT id FROM brands WHERE name=?').get(brand);
-      if (!b) return json(res, { error: `brand "${brand}" not found — add the brand first` }, 400);
+      if (!b) return json(res, { error: `brand "${brand}" not found â€” add the brand first` }, 400);
       const dup = db.prepare('SELECT 1 FROM models WHERE brand_name=? AND model_name=?').get(brand, model);
       if (dup) return json(res, { ok: true, added: 'exists', id: null });
       try {

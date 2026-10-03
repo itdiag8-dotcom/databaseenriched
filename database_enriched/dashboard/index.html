@@ -577,7 +577,7 @@ function catFilterBrands(){
   const onlyPics = $('#catOnlyPics').checked;
   const filtered = CAT.brands.filter(r => {
     if (activeLetter && !r.name.toUpperCase().startsWith(activeLetter)) return false;
-    if (onlyPics && !r.image_url) return false;
+    if (onlyPics && !r.image_url && !r.image_local_path) return false;
     if (!q) return true;
     return r.name.toLowerCase().includes(q);
   });
@@ -617,7 +617,7 @@ async function catRenderModels(body){
   const q = ($('#catFilter').value || '').trim().toLowerCase();
   const onlyPics = $('#catOnlyPics').checked;
   const filtered = rows.filter(m => {
-    if (onlyPics && !m.image_url) return false;
+    if (onlyPics && !m.image_url && !m.image_local_path) return false;
     if (!q) return true;
     return m.model_name.toLowerCase().includes(q) || (m.years_span && m.years_span.includes(q));
   });
