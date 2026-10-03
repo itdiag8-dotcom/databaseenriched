@@ -1,0 +1,680 @@
+{
+ "make_slug": "cadillac",
+ "model_slug": "escalade",
+ "brand_db": "Cadillac",
+ "model_db_name": "Escalade",
+ "model_id": 1022,
+ "generation_name": "2nd generation",
+ "generation_code": "GMT800",
+ "year_start": 2001,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/cadillac/escalade/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-escalade-2005-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MEGA",
+     "",
+     "HYBRID - Hybrid system"
+    ],
+    [
+     "2",
+     "Fuse MEGA",
+     "",
+     "CUST FEED - Gasoline accessory power"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "STUD #1 - Accessory power/trailer wiring"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "MBEC 1 - Mid bussed electrical center power feed, front seats, right doors"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "BLWR - Front climate control fan"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "LBEC 2 - Left bussed electrical center, door modules, door locks, rear APO"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "STUD #2 - Accessory power/trailer wiring brake feed"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS - Anti-lock brakes"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "60A",
+     "VSES/ECAS - Electronically controlled air suspension"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "IGN A - Ignition switch power"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "IGN B - Ignition switch power"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "LBEC 1 - Left bussed electrical center, left doors, truck body controller, flasher module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "TRL PARK - Parking lamps trailer wiring"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "RR PARK - Right rear parking and sidemarker lamps"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "LR PARK - Left rear parking and sidemarker lamps"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "TBC BATT - Truck body controller battery feed"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "4WS - Vent solenoid canister"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "PCM 1 - Powertrain control module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "RTD - Electronic brake controller battery feed"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "TRL B/U - Backup lamps trailer wiring"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "PCM B - Powertrain control module, fuel pump"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "FRT PARK - Front parking lamps, sidemarker lamps"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "HI HDLP-LT - High beam headlamp left"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "HI HDLP-RT - High beam headlamp right"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "LO HDLP-LT - Low beam headlamp left"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "LO HDLP-RT - Low beam headlamp right"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "ETC/ECM - Electronic throttle control, electronic brake controller"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "INJ 2 - Ignition coil, fuel injectors bank 2"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "INJ 1 - Ignition coil, fuel injectors bank 1"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "IGN E - Instrument cluster, A/C relay, turn signal/hazard switch"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "O2A - Oxygen sensors"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "B/U LP - Back-up lamps, shift lock control system"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "O2B - Oxygen sensors"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "DRL - Daytime running lamps"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "RVC - Regulated voltage control"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "A/C COMP - A/C compressor"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "BTSI - Brake transmission shift interlock system"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "SEO IGN - Rear defog relay"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "IPC/DIC - Instrument panel cluster/driver information center"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "CRNK - Starting system"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "15A",
+     "W/S WASH - Windshield and rear window washer pump"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "15A",
+     "HORN - Horn"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "25A",
+     "STOP LP - Stoplamps"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "INT PARK - Roof marker lamps"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "25A",
+     "S/ROOF - Sunroof"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "30A",
+     "SEO B2 - Off-road lamps"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "20A",
+     "AUX PWR - Auxiliary power outlet console"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "30A",
+     "RR DEFOG - Rear window defogger"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "15A",
+     "AIRBAG - Supplemental inflatable restraint system"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "10A",
+     "TBC IGN1 - Truck body controller ignition"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "10A",
+     "HVAC/ECAS - Climate control controller/air suspension"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "25A",
+     "RR WPR - Rear wiper/washer"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "15A",
+     "CIG LTR - Cigarette lighter"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "15A",
+     "RADIO - Audio system"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "15A",
+     "INFO - OnStar"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "30A",
+     "TREC - All-wheel drive module"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "15A",
+     "SEO B1 - Mid bussed electrical center, HomeLink, rear heated seats"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "30A",
+     "RADIO AMP - Radio amplifier"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PARK LP - Parking lamps relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "STRTR - Starter relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "IGN 1 - PCM ignition relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "HDLP-HI - Headlamp high beam relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "F/PMP - Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "DRL - Daytime running lamps relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "HDLP-LOW - Headlamp low beam relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Windshield and rear window washer pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-escalade-2005-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "RR WIPER - Rear window wiper switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "SEO ACCY - Special equipment option accessory"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "WS WPR - Windshield wipers"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "TBC ACCY - Truck body controller accessory"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "IGN 3 - Rear heated seats module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "4WD - Four-wheel drive switch, air suspension switch/module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "HVAC 1 - Inside rearview mirror, climate control system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "CRUISE - Cruise control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "BRAKE - Brake switch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "IGN 0 - Brake transmission shift interlock, PCM, transmission"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "VEH STOP - Vehicle stoplamps, brake module, ETC module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "DDM - Driver door module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "ECC - Liftgate control"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "TBC IGN 0 - Truck body controller"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "VEH CHMSL - Vehicle and trailer high mounted stoplamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "LT TRLR ST/TRN - Left turn signal/stop trailer"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "LT TRN - Left turn signals and sidemarkers"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "RT TRLR ST/TRN - Right turn signal/stop trailer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "RT TRN - Right turn signals and sidemarkers"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "AUX PWR 2 - Instrument panel and rear cargo power outlets"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "TBC 2C - Truck body controller"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "TBC 2B - Truck body controller"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "LOCKS - Rear doors and liftgate power lock relay feed"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "25A",
+     "FLASH - Flasher module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "TBC 2A - Truck body controller"
+    ],
+    [
+     "CB 1",
+     "Circuit breaker MAXI",
+     "",
+     "CB LT DOORS - Left rear power window and driver door module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "LOCK - Power door lock relay (lock)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "UNLOCK - Power door lock relay (unlock)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "DRIVER UNLOCK - Power door lock relay (driver's door unlock)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Auxiliary Electric Cooling Fan Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-escalade-2005-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Cooling fan relay No. 3"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan relay No. 1"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan relay No. 2"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan (left)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan (left/right high speed)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan (left/right low speed)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Center Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-cadillac-escalade-2005-genid-g2-3.webp",
+   "fuses": [
+    [
+     "CB 1",
+     "Circuit breaker ATO",
+     "",
+     "CB SEAT - Driver and passenger seat module circuit breaker"
+    ],
+    [
+     "CB 2",
+     "Circuit breaker ATO",
+     "",
+     "CB RT DOOR - Rear right power window, passenger door module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "DEFOG - Rear defogger relay"
+    ]
+   ]
+  }
+ ]
+}
