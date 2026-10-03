@@ -1,0 +1,198 @@
+{
+ "make_slug": "citroen",
+ "model_slug": "saxo",
+ "brand_db": "Citroen",
+ "model_db_name": "Saxo",
+ "model_id": 1285,
+ "generation_name": "G1",
+ "generation_code": "g1",
+ "year_start": 1996,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/citroen/saxo/info/fusebox/2003",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-saxo-2003-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Dashboard"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "25A",
+     "Air conditioning, heated rear window, heated mirrors"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Navigator's lamp, clock, electric window regulator, electric mirrors, radio, electric hatch drive"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "Navigator's lamp, clock, electric window regulator, electric mirrors, radio, electric hatch drive"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Sound signal (horn), ashtray light, engine temperature indicator"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Alarm"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Stop light, reverse signal, diagnostic connector"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "Interior lighting, radio memory, diagnostic socket, clock memory, remote control"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "Wiper motor, washer pump"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Rear fog lamps"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "Parking lights, right direction indicator"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "Left turn signal"
+    ],
+    [
+     "14",
+     "Fuse",
+     "5A",
+     "Compressor cut-off relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-citroen-saxo-2003-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "ECU"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "30A",
+     "ABS"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "30A",
+     "Electric fan ventilation system"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "ABS"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "30A",
+     "Additional ventilation fan"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Daytime running lights"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "Headlight washer"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Fuel injection pump"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "ABS indicator"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Oxygen sensor"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Left low beam headlamp"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Right low beam headlamp"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Left high beam headlamp"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Right high beam headlamp"
+    ]
+   ]
+  }
+ ]
+}
