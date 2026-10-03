@@ -1,0 +1,660 @@
+{
+ "make_slug": "audi",
+ "model_slug": "rs-q3",
+ "brand_db": "Audi",
+ "model_db_name": "RS Q3 8U",
+ "model_id": 362,
+ "generation_name": "1st generation",
+ "generation_code": "8U",
+ "year_start": 2014,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/audi/rs-q3/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine fuse panel (SB)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs-q3-2014-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "15A",
+     "DSG Mechatronik / selector / automatic transmission control unit"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "30A",
+     "ABS control unit J104 (MK60 valves) [until October 2014]"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "40A",
+     "ABS control unit J104 (MK60 valves) [since November 2014]"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "Horn relay / high and low tone horns"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "40A",
+     "Voltage stabilizer / fuse supply [start-stop system only]"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "5A",
+     "On-board power supply control unit / battery monitoring control unit"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "30A",
+     "Onboard power supply control unit (right-side exterior lighting: indicator, low/high beam, fog, cornering, parking, DRL, brake, reversing, number plate lights)"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "20A",
+     "Onboard power supply control unit / windscreen and rear window washer pump"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "30A",
+     "Onboard power supply control unit (left-side exterior lighting: indicator, low/high beam, fog, cornering, parking, DRL, brake lights)"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "10A",
+     "Electric lumbar support adjustment (driver + front passenger switches and motors)"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "5A",
+     "Glow plug control unit [diesel]"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "10A",
+     "Lambda probe heating elements [petrol]"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "5A",
+     "Steering column electronics control unit"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "5A",
+     "Mobile phone amplifier / phone holder"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "5A",
+     "Terminal 30 supply relay + engine control unit [diesel] / main relay + engine control unit [2.5 petrol]"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "10A",
+     "Main relay / engine control unit [petrol except 2.5]"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Engine control unit [diesel]"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "25A",
+     "Engine control unit [petrol except 2.5]"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "15A",
+     "Engine control unit [2.5 petrol]"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "5A",
+     "Data bus diagnostic interface"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "10A",
+     "[diesel] boost valve, EGR cooler valve, air mass meter, reducing agent relay, crankcase heater, fuel pump relay / [2.5 petrol] coolant pump+valves / oil pressure regulating valve"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "20A",
+     "Fuel pressure regulator [petrol except 2.5] / engine glow plugs"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "10A",
+     "Fuel metering valve [2.5 petrol]"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "10A",
+     "Lambda probe heating element [diesel]"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump control unit [petrol]"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "30A",
+     "Electronic info system control unit 1 / radio tuner / voltage stabiliser / digital sound package control unit"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "5A",
+     "Clutch pedal position sensor"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Reducing agent heating control unit"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor control unit"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "10A",
+     "[diesel] fuel pump relay, radiator fan CU, heater relays, EGR cooler pump / [petrol] coolant pump relay, radiator fan CU, engine electronics supply relay, boost/charcoal/camshaft/wastegate/manifold/oil pressure valves, exhaust flap [2.5]"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "20A",
+     "Fuel pressure regulator + metering valve [diesel] / ignition coils 1-4 with output stages [petrol except 2.5]"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "10A",
+     "Intake/exhaust camshaft adjustment valves 1, oil pressure regulating valve [2.5 petrol]"
+    ],
+    [
+     "F25",
+     "Fuse MAXI",
+     "30A",
+     "Driver's door control unit / rear left door control unit"
+    ],
+    [
+     "F26",
+     "Fuse MAXI",
+     "30A",
+     "Front passenger door control unit / rear right door control unit"
+    ],
+    [
+     "F27",
+     "Fuse MAXI",
+     "50A",
+     "Terminal 15 power supply relay; supply for fuses SC9-SC16, SC25-SC27"
+    ],
+    [
+     "F27",
+     "Fuse MAXI",
+     "40A",
+     "Terminal 15 power supply relay; supply for fuses SC9-SC16, SC25-SC27 [since November 2014]"
+    ],
+    [
+     "F28",
+     "Fuse MAXI",
+     "50A",
+     "Glow plug control unit + glow plugs 1-4 [diesel]"
+    ],
+    [
+     "F28",
+     "Fuse MAXI",
+     "30A",
+     "Ignition coils 1-5 with output stages [2.5 petrol]"
+    ],
+    [
+     "F29",
+     "Fuse MAXI",
+     "30A",
+     "Thermal fuses 1 for driver's and front passenger seat adjustment"
+    ],
+    [
+     "F30",
+     "Fuse MAXI",
+     "40A",
+     "ABS control unit (MK60 ESP pump)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine electronics power supply relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "SA1",
+     "Fuse MIDI",
+     "200A",
+     "Generator"
+    ],
+    [
+     "SA2",
+     "Fuse MIDI",
+     "80A",
+     "Power steering control unit"
+    ],
+    [
+     "SA4",
+     "Fuse MIDI",
+     "60A",
+     "Radiator fan control unit"
+    ],
+    [
+     "SA7",
+     "Fuse MIDI",
+     "60A",
+     "Fuse class 30 trailer"
+    ],
+    [
+     "SA8",
+     "Fuse MIDI",
+     "40A",
+     "Noise suppression capacitor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse panel (SC)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs-q3-2014-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Control unit 1 left LED headlight"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Control unit 1 right LED headlight"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "[until October 2014] Glove compartment light + switch, vanity mirror lights + switches, front roof module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Lane keeping assist control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Left headlight control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Left headlight control unit [since November 2014]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Right headlight control unit"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Right headlight power module [since November 2014]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Electric steering column lock control unit"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Access and start authorization control unit"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Front passenger airbag off indicator lamp / airbag control unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "All-wheel drive control unit [5 cylinders]"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "DSG Mechatronik / selector sensor control unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Oil level/temp sender, start/stop + ASR/ESP buttons, reversing light switch, high pressure + air quality sensors, A/C control units, supply relays 1+2, AUTO HOLD, interior mirror, washer nozzle heaters, seat occupancy CU"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Starter relays 1+2 [gradual]; light/brake switches, engine CU, trailer detector, damping CU, ABS, power steering, diagnostic interface, terminal 15 relay 2, auto-dimming mirror relay, active steering motor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Crankcase heater [diesel] / air flow meter [petrol] / headlight range + cornering light CUs, voltage stabiliser, mirror relay, parking brake CU, socket relay, diagnostic socket, range control motors"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Parking aid control unit / lane change assist control units 1+2"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Rear view camera control unit"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Head unit/radio tuner, TV tuner, internet access CU, chip card reader CU"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Onboard power supply control unit / voltage stabilizer / engine control unit"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "ABS control unit, A/C control units, vehicle location system interface CU"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Selector"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Interior monitoring sensor / alarm siren"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Light switch, rain and light sensor, parking brake lamp, diagnostic socket, front roof module, air humidity sensor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Relay for reducing agent dosing system"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Fuses 1, 2, 4, 5, 6 in fuse box C"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "15A",
+     "Rear window wiper motor"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "40A",
+     "Starter relays 1+2"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "30A",
+     "Starter relays 1+2 [since November 2014]"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "Electronic info system CU 1 / head unit [radio installation]"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "7.5A",
+     "Electronic info system CU 1 [MMI]"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "15A",
+     "Fuses 17+18 in fuse box C"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "5A",
+     "CD changer"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "5A",
+     "Front control/display and information unit display"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "10A",
+     "Auto-dimming interior mirror relay"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "20A",
+     "Socket / cigarette lighter"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "20A",
+     "12V sockets 1+2"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "15A",
+     "Relay 2 power supply terminal 15"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "15A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "20A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "20A",
+     "Trailer recognition control unit"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "20A",
+     "Headlight cleaning system relay / headlight washer pump"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "30A",
+     "Rear window heating relay / rear window heating element"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "20A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "20A",
+     "Trailer power supply relay [since November 2014]"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "15A",
+     "All-wheel drive control unit [4 cylinders]"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "30A",
+     "Rear lid control unit"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump relay / fuel pump control unit [diesel]"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "40A",
+     "Contact X relief relay / fresh air fan control unit / fresh air fan"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "20A",
+     "Electromechanical parking brake control unit"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "20A",
+     "Onboard power supply CU (footwell/luggage lighting, terminals 30G/58d), hazard lamp, fuel pump relay"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "Front seat heating (Climatronic or seat heating control unit)"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "20A",
+     "Sliding sunroof control unit"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "20A",
+     "Sunroof roller blind control unit"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "20A",
+     "Electronic damping control unit"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "10A",
+     "Special vehicles CU [driver assistance] / relay 1 power supply [driving training equipment]"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "5A",
+     "Relay 2 power supply [driving training equipment]"
+    ]
+   ]
+  }
+ ]
+}

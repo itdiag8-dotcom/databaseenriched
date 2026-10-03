@@ -1,0 +1,666 @@
+{
+ "make_slug": "audi",
+ "model_slug": "rs3",
+ "brand_db": "Audi",
+ "model_db_name": "RS3 8V",
+ "model_id": 370,
+ "generation_name": "generation 8V",
+ "generation_code": "8V",
+ "year_start": 2016,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/audi/rs3/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs3-2018-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS control unit [2.5 engine]"
+    ],
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "25A",
+     "ABS control unit [2.5 engine]"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS control unit"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "Engine control unit"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "5A",
+     "Oil level/temp sensor, engine electronics supply relays, radiator fan CU, secondary air pump relay [DAZA]"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "7.5A",
+     "[since July 2018] Oil level/temp sensor, engine electronics supply relay, radiator fan CU"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "15A",
+     "Adsorber valve 1, crankcase ventilation valve, oil pressure regulating valve, inlet manifold flap valve, boost pressure limit valve, turbo bypass valve, exhaust flap units 1+2 [RS3/DAZA]"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "5A",
+     "Brake light switch / brake pedal switch [until June 2018]"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "7.5A",
+     "Brake light switch / brake pedal switch [since July 2018]"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "5A",
+     "[until June 2018] Coolant circulation circuit valve + pump, additional coolant pump relay, mechanical coolant pump changeover valve, coolant shut-off valve [RS3/DAZA]"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "7.5A",
+     "[since July 2018] Coolant circulation circuit valve + pump, additional coolant pump relay, mechanical coolant pump changeover valve, coolant shut-off valve [RS3/DAZA]"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe heating elements, NOx sensor control units 1+2 [RS3/DAZA]"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "20A",
+     "Intake/exhaust valve timing valves 1, exhaust cam adjusters cylinders 1-5 [DAZA]"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "10A",
+     "Intake/exhaust valve timing valves 1 [RS3]"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump control unit"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "15A",
+     "DSG Mechatronik [dual clutch 0D9/0CW/0BH/0DE] [until June 2018]"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "30A",
+     "Automatic transmission CU [6-speed, until June 2018] / additional gearbox oil pump 1 [since July 2018]"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition coils 1-5 with output stages [RS3/DAZA]"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "30A",
+     "Engine electronics supply relays, fuses 14+31 in fuse box B [RS3]"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "7.5A",
+     "Main relay / engine control unit / ABS control unit"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "5A",
+     "Battery monitoring CU / data bus diagnostic interface [until June 2018]"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "7.5A",
+     "Battery monitoring CU / data bus diagnostic interface [since July 2018]"
+    ],
+    [
+     "F19",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper motor control unit"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "10A",
+     "Alarm siren"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "15A",
+     "DSG Mechatronik [dual clutch 0D9/0CW/0BH/0DE] [since July 2018]"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Automatic transmission CU [6-speed] [since July 2018]"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "5A",
+     "Engine control unit [until June 2018]"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "7.5A",
+     "Engine control unit [since July 2018]"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "10A",
+     "Injectors 2 cylinders 1-5 [DAZA] / fuel metering valve [RS3] / vacuum pump relay / brake vacuum pump"
+    ],
+    [
+     "F37",
+     "Fuse ATO",
+     "20A",
+     "Additional heater control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter relay 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Additional coolant pump relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Engine electronics power supply relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-audi-rs3-2018-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "30A",
+     "Reducing agent dosing system control unit"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Lumbar support adjustment switches and motors (driver + front passenger)"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Convertible roof hydraulic pump relays 1+2 / folding top hydraulic pump"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "7.5A",
+     "Multimedia system control panel / electronic info system CU 1"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "5A",
+     "Data bus diagnostic interface [until June 2018]"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Data bus diagnostic interface [since July 2018]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "5A",
+     "Selector [until June 2018]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "7.5A",
+     "Selector [since July 2018]"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Rear window heating relay, heater CU, Climatronic/air conditioning CU, independent heater radio receiver"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Light switch, parking brake button, humidity + rain/light sensors, alarm sensor, 16-pin connector, emergency call module CU, adaptive light CU, front ceiling module"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "5A",
+     "Steering column electronics CU [May 2015 - June 2018]"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "7.5A",
+     "Steering column electronics CU [since July 2018]"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "5A",
+     "Front control/display and information unit display [until June 2018]"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "7.5A",
+     "Front control/display and information unit display [since July 2018]"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "40A",
+     "On-board power supply control unit [since May 2017]"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "15A",
+     "Electronic info system CU 1 [audio system]"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "20A",
+     "Electronic info system CU 1 [MMI]"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "25A",
+     "Front left seat belt tensioner control unit"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Supply air fan control unit [2.5 engine]"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "40A",
+     "Supply air fan control unit [4.0 engine]"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Electric steering column lock CU / access and start authorization CU [since July 2018]"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "Chip card reader CU, TV tuner, phone amplifier, phone holder, external audio connector"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster control unit [until June 2018]"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster control unit [since July 2018]"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster control unit [MMI, 0.75 cross-section]"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Rear view camera control unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Access/start authorization CU [until June 2018] / vehicle positioning system interface CU"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel tank leak diagnostic system control unit"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Steering column electronics CU [heated steering wheel]"
+    ],
+    [
+     "F23",
+     "Fuse FMX/JCase",
+     "20A",
+     "Sliding sunroof control unit [sunroof]"
+    ],
+    [
+     "F23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Convertible roof drive control unit [Cabriolet]"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "40A",
+     "On-board power supply control unit"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "30A",
+     "Driver's door CU / rear door CU driver side / rear window lift motor CU + motor"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply CU: heated front seats"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "30A",
+     "On-board power supply control unit [since May 2017]"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "5A",
+     "Convertible roof drive CU [Cabriolet, until June 2018]"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "7.5A",
+     "Convertible roof drive CU [Cabriolet, since July 2018]"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "7.5A",
+     "Glove box + vanity mirror lights and switches, luggage compartment lights, front ceiling module, interior light, special vehicles CU"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "10A",
+     "High-voltage system service connector [hybrid]"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "7.5A",
+     "ACC CU, parking aid CU, park assist CU, lane change assist CUs 1+2, front camera"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "5A",
+     "Airbag CU / passenger airbag off lamp [until June 2018]"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag CU / passenger airbag off lamp [since July 2018]"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "7.5A",
+     "AUTO HOLD key, reversing light switch, A/C pressure sensor, socket relay, symposer CU"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "[until June 2018, 0.75] Headlight range regulator, interior mirror, air quality + humidity sensors, adaptive light CU, range control unit + motors, 16-pin connector"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "7.5A",
+     "[since July 2018, 0.5] Headlight range regulator, interior mirror, air quality + humidity sensors, adaptive light CU, range control unit + motors, 16-pin connector"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Headlight front right [Matrix-Beam LED]"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Headlight front right [LED, until June 2018]"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "7.5A",
+     "Headlight front right [LED, since July 2018]"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "Headlight front left [Matrix-Beam LED]"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Headlight front left [LED, until June 2018]"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "7.5A",
+     "Headlight front left [LED, since July 2018]"
+    ],
+    [
+     "F39",
+     "Fuse ATO",
+     "30A",
+     "Front passenger door CU / rear door CU passenger side / rear window lift motor CU + motor"
+    ],
+    [
+     "F40",
+     "Fuse ATO",
+     "20A",
+     "Socket / cigarette lighter / 12V socket"
+    ],
+    [
+     "F41",
+     "Fuse ATO",
+     "25A",
+     "Front right seat belt tensioner control unit"
+    ],
+    [
+     "F42",
+     "Fuse ATO",
+     "40A",
+     "On-board power supply control unit"
+    ],
+    [
+     "F43",
+     "Fuse FMX/JCase",
+     "30A",
+     "Digital sound system control unit"
+    ],
+    [
+     "F44",
+     "Fuse ATO",
+     "15A",
+     "All-wheel drive control unit"
+    ],
+    [
+     "F45",
+     "Circuit breaker ATO",
+     "",
+     "Driver's seat adjustment control panel: electric seat + lumbar support switch"
+    ],
+    [
+     "F47",
+     "Fuse ATO",
+     "15A",
+     "Rear window wiper motor"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "5A",
+     "Clutch pedal position sensor, starter relays 1+2, power supply relay [until June 2018]"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "7.5A",
+     "Clutch pedal position sensor, starter relays 1+2, power supply relay [since July 2018]"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "15A",
+     "Electronic damping control unit"
+    ],
+    [
+     "F53",
+     "Fuse ATO",
+     "30A",
+     "Rear window heating relay + element [3/5-door]"
+    ],
+    [
+     "F53",
+     "Fuse ATO",
+     "40A",
+     "Rear window heating relay + element [4-door]"
+    ],
+    [
+     "F53",
+     "Fuse ATO",
+     "20A",
+     "Rear window heating relay + element [Cabriolet]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Power supply relay terminal 15"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear window heating relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Socket relay"
+    ]
+   ]
+  }
+ ]
+}
