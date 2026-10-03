@@ -307,12 +307,12 @@
   },
   "buick": 19,
   "byd": 1,
-  "cadillac": "done"
+  "cadillac": "done",
+  "chery": "done"
  },
- "in_progress": "chery",
+ "in_progress": null,
  "queue_next_makes": [
   "arcfox",
-  "chery",
   "chevrolet",
   "chrysler",
   "citroen",
@@ -630,10 +630,11 @@
   "chery/j1": "done",
   "chery/j11": "done",
   "chery/j3": "done",
-  "chery/qq": "done"
+  "chery/qq": "done",
+  "chery/x1": "done"
  },
- "last_updated": "2026-10-03T21:18:51.069969",
- "current_brand": "chery",
+ "last_updated": "2026-10-03T21:19:17.941964",
+ "current_brand": null,
  "audi_done_models": [
   "a1",
   "a2",
@@ -1024,6 +1025,7 @@
   "j1",
   "j11",
   "j3",
-  "qq"
+  "qq",
+  "x1"
  ]
 }

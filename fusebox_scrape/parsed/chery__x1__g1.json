@@ -1,0 +1,378 @@
+{
+ "make_slug": "chery",
+ "model_slug": "x1",
+ "brand_db": "Chery",
+ "model_db_name": "X1 Hatchback",
+ "model_id": 5755,
+ "generation_name": "1st generation",
+ "generation_code": "S18D",
+ "year_start": 2015,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/chery/x1/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-x1-2015-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Exterior mirror adjustment switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Starter relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Dashboard"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamp"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Heater relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Stoplight switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Diagnostics"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Right position lamp/reversing lamp"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Left position lamp/plate lamp/dashboard"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Windshield wiper"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Fan relay coil"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Washer/rear window wiper/sunroof"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "ABS system/brake light switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Airbags/front passenger airbag switch"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Body control module/IMM/dashboard"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Electronic control unit"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Duplication/SD vehicle/generator"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Dimension relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heating relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Windshield wiper relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fan relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear fog light relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chery-x1-2015-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Front fog headlight"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "ABS system"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "ABS system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "Main relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Sensors"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Fan, air conditioner and fuel pump"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Sound signal (horn)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Electronic control unit"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Luggage compartment light, dome light, ignition switch light"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Left low beam headlight"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Right low beam headlight"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Left high beam headlight"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Right high beam headlight"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlights"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "20A",
+     "Instrument panel and radio"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "20A",
+     "Marker lights"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fan"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body control unit"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "30A",
+     "Low fan speed"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Starter"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlight relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlight relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fan relay high speed"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fan relay low speed"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}
