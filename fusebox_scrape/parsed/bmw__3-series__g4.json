@@ -1,0 +1,468 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "3-series",
+ "brand_db": "BMW",
+ "model_db_name": "3 Series \u2013 E46",
+ "model_id": 546,
+ "generation_name": "E46",
+ "generation_code": "E46",
+ "year_start": 1998,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/bmw/3-series/info/fusebox/2006/e46",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Glove compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-3-series-2006-genid-g4-0.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Horn relay"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Make-up mirror lights (driver/passenger), convertible soft top control unit"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "Radio control unit, AM/FM aerial amplifier, on-board monitor, navigation computer, GPS receiver, telephone/telematics units, voice input, diversity, eject box, ULF module"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "Sequential mechanical gearbox (SMG)"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "Volute spring, general module control unit, brake light switch, light switching centre, clutch switch module"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster control unit"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Multiple restraint system control unit, side airbag sensors, seat belt buckle Hall sensors, electronic seat control"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "7.5A",
+     "Switch center"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "7.5A",
+     "Rollover sensor"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "Electronic immobiliser control unit, gearshift lock"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Rain sensor; Touring: rear intermittent wipe/wash control unit"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "5A",
+     "[S54] SMG gearbox; [M47/TU, M57/TU] digital diesel electronics control unit"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "5A",
+     "Auxiliary water pump"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "5A",
+     "Electrochromic interior rear-view mirror, park distance control (PDC)"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "5A",
+     "Passenger outside mirror, heated spray nozzle thermal switch"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "5A",
+     "Garage door opener"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Reversing light relay, gear position switch, transmission control unit"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "5A",
+     "Heating/A/C control module, blower relay, A/C compressor relay, recirculated air/defogger switch, rear window defogger relay (convertible)"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "5A",
+     "DME control unit (BMS46, MS42, MS43, MSS54), unloader relay terminal 15, DDE control unit, transmission control unit"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "7.5A",
+     "Oil level sensor, alternator, transmission control unit, data link connector"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "5A",
+     "Mirror adjustment switch, tyre defect indicator (RPA) / tyre pressure control unit"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "5A",
+     "Light switching centre control unit [without xenon]"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "5A",
+     "Light switching centre, adaptive headlight control unit [xenon]"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "5A",
+     "Switch center, steering angle sensor (with DSC), ABS/DSC unit [without all-wheel]"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "5A",
+     "Switch center [all-wheel drive]"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster control unit, fuel pump control (EKPS) [MS45]"
+    ],
+    [
+     "35",
+     "Fuse MAXI",
+     "50A",
+     "ABS/DSC unit [AWD]; convertible top drive relay [convertible]"
+    ],
+    [
+     "36",
+     "Fuse MAXI",
+     "50A",
+     "Secondary air pump relay"
+    ],
+    [
+     "37",
+     "Fuse MAXI",
+     "50A",
+     "Electric fan"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "10A",
+     "Fog light relay"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "15A",
+     "Fog light relay"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "10A",
+     "Telephone systems: voice input, basic interface, eject box / compensator / transceiver-charging electronics"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "5A",
+     "Transceiver/charging electronics, compensator, basic interface telephone (Nokia/JBIT)"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "5A",
+     "Steering angle sensor, DSC, gear indicator light (USA)"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "30A",
+     "On-board monitor, amplifier, radio, CD changer, subwoofer box, navigation computer, video module, switch center"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "30A",
+     "Switch center"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "5A",
+     "Instrument cluster control unit, data link connector (USA)"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "20A",
+     "Trailer socket"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "20A",
+     "Touring: rear intermittent wipe/wash control unit"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "20A",
+     "Convertible soft top control unit, sunroof module, convertible top relay 1"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "20A",
+     "Front cigarette lighter, oddments compartments, 12V socket"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "30A",
+     "General module control unit"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "5A",
+     "General module control unit, AM/FM aerial amplifier"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "40A",
+     "Blower switch / blower output stage"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer module"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "30A",
+     "General module control unit"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "30A",
+     "ABS/ASC unit"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump relay 1"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump relay 1 [DDE4.0]"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump relay 1 [DDE5.0] / fuel pump control EKPS [MS45]"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "30A",
+     "ABS/ASC unit"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "5A",
+     "Mirror fold-in control unit, mirrors with memory, mirror memory control units, power window motors with anti-trap"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "7.5A",
+     "Touring: rear window drive relay; Coupe/Convertible: adaptive headlight control unit"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "30A",
+     "Wiper relay"
+    ],
+    [
+     "60",
+     "Fuse ATO",
+     "25A",
+     "General module control unit"
+    ],
+    [
+     "61",
+     "Fuse ATO",
+     "30A",
+     "ABS/DSC unit"
+    ],
+    [
+     "62",
+     "Fuse ATO",
+     "7.5A",
+     "Water valves"
+    ],
+    [
+     "63",
+     "Fuse ATO",
+     "7.5A",
+     "A/C compressor relay"
+    ],
+    [
+     "64",
+     "Fuse ATO",
+     "20A",
+     "Independent park heating control unit"
+    ],
+    [
+     "64",
+     "Fuse ATO",
+     "5A",
+     "Transmission control unit [DDE5]"
+    ],
+    [
+     "65",
+     "Fuse ATO",
+     "30A",
+     "Driver's seat adjustment switch, driver's lumbar support switch (convertible)"
+    ],
+    [
+     "66",
+     "Fuse ATO",
+     "5A",
+     "Ignition switch [MS43 with SMG]"
+    ],
+    [
+     "67",
+     "Fuse ATO",
+     "5A",
+     "Electronic immobiliser, electrochromic mirror, interior protection control units, tilt monitoring, anti-theft alarm horn"
+    ],
+    [
+     "68",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger relay"
+    ],
+    [
+     "69",
+     "Fuse ATO",
+     "5A",
+     "Tyre pressure control system control unit"
+    ],
+    [
+     "70",
+     "Fuse ATO",
+     "30A",
+     "Front passenger seat adjustment / seat memory control unit / lumbar support switch"
+    ],
+    [
+     "71",
+     "Fuse ATO",
+     "30A",
+     "General module control unit [4-door]"
+    ],
+    [
+     "71",
+     "Fuse ATO",
+     "10A",
+     "General module control unit [2-door]"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-3-series-2006-genid-g4-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "[K6300] Sky blue relay (DME)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Ultra sky blue relay [K6325 reversing light (auto) or K6318 SMG pump (M3 w/SMG)]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "[K6326] Unloader relay / [K6327] fuel injector relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "[K11] Front windshield wiper relay"
+    ]
+   ]
+  }
+ ]
+}

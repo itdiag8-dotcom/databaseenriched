@@ -1,0 +1,179 @@
+{
+ "make_slug": "bmw",
+ "model_slug": "3-series",
+ "brand_db": "BMW",
+ "model_db_name": "3 Series \u2013 E21",
+ "model_id": 543,
+ "generation_name": "E21",
+ "generation_code": "E21",
+ "year_start": 1981,
+ "year_end": 1983,
+ "trim_label": "",
+ "representative_year": 1983,
+ "source_url": "https://www.startmycar.com/bmw/3-series/info/fusebox/1983",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-bmw-3-series-1983-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Right fog light (optional)"
+    ],
+    [
+     "2",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Left fog light (optional)"
+    ],
+    [
+     "3",
+     "Fuse Bosch/GBD/6AC",
+     "16A",
+     "Lambda control, fuel delivery"
+    ],
+    [
+     "4",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Right low beam"
+    ],
+    [
+     "5",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Left low beam"
+    ],
+    [
+     "6",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Right front parking light, right tail lights, right rear marker, license plate lights, under-hood light"
+    ],
+    [
+     "7",
+     "Fuse Bosch/GBD/6AC",
+     "16A",
+     "Left high beam"
+    ],
+    [
+     "8",
+     "Fuse Bosch/GBD/6AC",
+     "16A",
+     "Right high beam"
+    ],
+    [
+     "9",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Left front parking light, left tail lights, left rear marker"
+    ],
+    [
+     "10",
+     "Fuse Bosch/GBD/6AC",
+     "16A",
+     "Heated rear window"
+    ],
+    [
+     "11",
+     "Fuse Bosch/GBD/6AC",
+     "25A",
+     "Heater and cooling blowers, auxiliary fan relay"
+    ],
+    [
+     "12",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Brake lights"
+    ],
+    [
+     "13",
+     "Fuse Bosch/GBD/6AC",
+     "25A",
+     "Auxiliary fan, backup lights"
+    ],
+    [
+     "14",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Warning display, seatbelt warning timer, instrument cluster"
+    ],
+    [
+     "15",
+     "Fuse Bosch/GBD/6AC",
+     "16A",
+     "Horns, flasher unit, windshield wiper and washer / power mirror"
+    ],
+    [
+     "16",
+     "Fuse Bosch/GBD/6AC",
+     "16A",
+     "Cigar lighter / radio"
+    ],
+    [
+     "17",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Digital clock / warning buzzer, seatbelt switch, interior lights, trunk light, tachometer, turn signal, hazard lights"
+    ],
+    [
+     "18",
+     "Fuse Bosch/GBD/6AC",
+     "8A",
+     "Instrument panel lights, digital clock, tachometer, radio"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fog light relay (optional)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Relief relay (unloader)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Auxiliary fan relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Lambda relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}
