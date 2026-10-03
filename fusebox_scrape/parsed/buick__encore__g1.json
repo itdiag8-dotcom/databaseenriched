@@ -1,0 +1,512 @@
+{
+ "make_slug": "buick",
+ "model_slug": "encore",
+ "brand_db": "Buick",
+ "model_db_name": "Encore",
+ "model_id": 946,
+ "generation_name": "1st generation",
+ "generation_code": "Gamma II",
+ "year_start": 2013,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/buick/encore/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-encore-2022-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "",
+     "Linear power module blower"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Exterior mirror switch / driver side power window / rain sensor"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Electronic brake control module valve"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "",
+     "Electronic brake control module pump"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Automatic occupancy sensing module"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Power lumbar switch"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Headlamp leveling switch/motor / rear vision camera / interior rearview mirror"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "",
+     "IEC RC"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Exterior mirror heater"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Fuel system control module battery"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Fuel system control module RC"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Engine control module RC / transmission control module RC"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Fan relay (auxiliary BEC)"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Ignition coil"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "",
+     "Washer pump"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "",
+     "Automatic headlamp leveling"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan low-mid"
+    ],
+    [
+     "F41",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan high"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "",
+     "EMS Var 1"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "Engine control module powertrain / ignition 3"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "",
+     "Engine control module powertrain / ignition 1 / ignition 2"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "",
+     "EMS Var 2"
+    ],
+    [
+     "F48",
+     "Fuse FMX/JCase",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "",
+     "Engine control module battery"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan mid relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-encore-2022-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Body control module 2"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Body control module 5"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Discrete logic ignition switch"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Sensing diagnostic module battery"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Data link connector"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "HVAC module / ICS"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Liftgate relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Central gate module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Park assist module / side blind zone alert"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Body control module / regulated voltage control"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Clock spring"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "A/C / accessory power outlet"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Auxiliary power outlet / DC front"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "OnStar module"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Instrument cluster"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Instrument cluster module battery"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Silver box audio module / navigation"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Passive entry / passive start"
+    ],
+    [
+     "S/B01",
+     "Fuse FMX/JCase",
+     "",
+     "HVAC auxiliary heater 1"
+    ],
+    [
+     "S/B02",
+     "Fuse FMX/JCase",
+     "",
+     "HVAC auxiliary heater 2"
+    ],
+    [
+     "S/B03",
+     "Fuse FMX/JCase",
+     "",
+     "Front power windows"
+    ],
+    [
+     "S/B04",
+     "Fuse FMX/JCase",
+     "",
+     "Rear power windows"
+    ],
+    [
+     "S/B05",
+     "Fuse FMX/JCase",
+     "",
+     "Logistic mode relay"
+    ],
+    [
+     "S/B06",
+     "Fuse FMX/JCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "RLY01",
+     "Relay",
+     "",
+     "Accessory / retained accessory power relay"
+    ],
+    [
+     "RLY02",
+     "Relay",
+     "",
+     "Liftgate relay"
+    ],
+    [
+     "RLY04",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "RLY05",
+     "Relay",
+     "",
+     "Logistic mode relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-encore-2022-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Rear drive control module"
+    ],
+    [
+     "S/B3",
+     "Fuse FMX/JCase",
+     "",
+     "DC/AC inverter module"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment auxiliary fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-buick-encore-2022-genid-g1-3.webp",
+   "fuses": [
+    [
+     "02",
+     "Relay",
+     "",
+     "Cooling fan control 1 relay"
+    ],
+    [
+     "03",
+     "Relay",
+     "",
+     "Cooling fan control 2 relay"
+    ]
+   ]
+  }
+ ]
+}
