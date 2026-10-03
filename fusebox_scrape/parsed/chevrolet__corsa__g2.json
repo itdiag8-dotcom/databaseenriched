@@ -1,0 +1,480 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "corsa",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Corsa",
+ "model_id": 1121,
+ "generation_name": "2nd generation",
+ "generation_code": "Gamma / Corsa C",
+ "year_start": 2002,
+ "year_end": 2015,
+ "trim_label": "ABS",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/chevrolet/corsa/info/fusebox/2015/abs",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses and main protected electrical circuits (Vehicles with ABS)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-corsa-2015-abs-abs-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "BCM - general power supply"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Engine electronic module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel, display (TID), hazard lights, diagnostics, immobilizer module, relays (starter, alarm, washer pump, horn, turn signal)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Power window module"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Power window (front left window)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "BCM - ignition switch"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump, canister solenoid valve"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "BCM - turn signal lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Audio system (if equipped)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Power window (front right window)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Injection relay power supply"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Windshield and tailgate washer pump"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Anti-theft alarm sensor and interior lighting"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "BCM - electric door locking"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Anti-theft alarm horn"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "BCM, ignition"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Light switch symbol, display (TID), instrument panel, front reading light"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Brake light"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Accessory socket, reverse gear indicator light"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Power window module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Rear window wiper"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning compressor"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Speed sensor, ABS and airbag"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Cold start system (if equipped)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Electric exterior mirror adjustment, audio system (if equipped)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "5A",
+     "Left position light"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "5A",
+     "Right position light"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Front fog light"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Right low beam, light switch, headlight height adjustment"
+    ],
+    [
+     "45",
+     "Fuse MAXI",
+     "30A",
+     "Heating/air conditioning control module"
+    ],
+    [
+     "47",
+     "Fuse MAXI",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "48",
+     "Fuse MAXI",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "50",
+     "Fuse MAXI",
+     "40A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "52",
+     "Fuse MAXI",
+     "60A",
+     "Radiator blower fan (with air conditioning)"
+    ],
+    [
+     "52",
+     "Fuse MAXI",
+     "30A",
+     "Radiator blower fan (with air conditioning)"
+    ],
+    [
+     "53",
+     "Fuse MAXI",
+     "40A",
+     "Radiator blower fan (without air conditioning)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine compartment blower fan"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Engine blower fan logic [with A/C]"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Signal converter [not used with ABS]"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Signal converter [not used with ABS]"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cold start [ECONO.FLEX] [if equipped]"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Air conditioning and interior ventilation"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Ignition and ignition-dependent functions"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Fog light"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "R21",
+     "Relay",
+     "",
+     "High beam"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relays (in the body control module box)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-corsa-2015-abs-abs-genid-g2-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Reverse light"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Door lock module (driver side)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Door unlock module"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Tailgate unlock module"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Door lock latch"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Door lock module (passenger and rear)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Anti-theft alarm horn"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Parking lights and license plate light"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Rear window washer sprayer"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Windshield washer"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Left turn signal"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Windshield wiper - high speed"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Windshield wiper - low speed"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Right turn signal"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Rear window wiper"
+    ]
+   ]
+  }
+ ]
+}

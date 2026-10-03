@@ -1,0 +1,240 @@
+{
+ "make_slug": "chevrolet",
+ "model_slug": "corsa",
+ "brand_db": "Chevrolet",
+ "model_db_name": "Corsa",
+ "model_id": 1121,
+ "generation_name": "1st generation",
+ "generation_code": "S4200 / Corsa B",
+ "year_start": 1994,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/chevrolet/corsa/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-corsa-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Hazard flasher, anti-theft alarm module, horn, triple function indicator, radio, passenger/trunk lighting, ALDL diagnostic connection"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Automatic transmission control module"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Daytime running light"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Automatic transmission control module and anti-slip system"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Radiator fan relay coil (without A/C)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "Radiator fan motor (with A/C)"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Parking lights (left side)"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "Fog lights"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "High beam (left side)"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Reverse light"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Low beam and headlight height adjustment (left side)"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Electric central locking of doors, trunk lid and fuel filler cap"
+    ],
+    [
+     "15",
+     "Fuse MAXI",
+     "30A",
+     "Internal ventilation motor (without A/C)"
+    ],
+    [
+     "15",
+     "Fuse MAXI",
+     "30A",
+     "Radiator fan motor (with A/C)"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Windshield/rear window washer and wiper"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Instrument panel, triple function indicator, buzzer, glove box lighting, A/C & defogger relay coils, switch lighting, power window switches supply, A/C & radiator fan relays supply"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Cigarette lighter, lighter/ashtray lighting"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter & lighting, reverse light, central locking module, starter inhibitor (P/N), electric trunk release"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "15A",
+     "Ignition system and ECM power supply"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Radiator fan motor"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "15A",
+     "Brake light, turn signal & hazard switch lighting, auxiliary rear brake light"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Anti-lock braking system (ABS)"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Parking lights (right side), license plate light, A/C switch lighting"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Front power window motors"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "10A",
+     "High beam (right side) and high beam indicator"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "20A",
+     "Electric fuel pump and ECM"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Low beam and headlight height adjustment (right side)"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "Power window motors"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relay box above the glove compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-chevrolet-corsa-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Relay",
+     "",
+     "Condenser radiator fan K7 B (relay K51)"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Condenser radiator fan K7 B (relay K52)"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Condenser radiator fan K/B (relay K26)"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "A/C"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "A/C blower"
+    ],
+    [
+     "7",
+     "Relay",
+     "",
+     "Condenser radiator fan K/B, 2nd speed"
+    ]
+   ]
+  }
+ ]
+}
