@@ -1,0 +1,312 @@
+{
+ "make_slug": "daewoo",
+ "model_slug": "matiz",
+ "brand_db": "Daewoo",
+ "model_db_name": "Matiz",
+ "model_id": 1406,
+ "generation_name": "2nd generation (\"M200\", \"M250\")",
+ "generation_code": "g2",
+ "year_start": 2005,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/daewoo/matiz/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-matiz-2014-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lights (DRL)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Indicator/warning lights display"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Cabin light"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Door lock"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Brake light"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Rear window wiper/washer"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Front windshield washer"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "Front windshield washer"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Reverse light"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "Drive motor"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Dashboard"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Turn signals"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "EMS (engine management system)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-matiz-2014-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(A/C COMP) Air conditioning compressor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(FAN LOW) Radiator fan low speed"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "(FAN HI) Radiator fan high speed"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Front fog lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Right side lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Left side lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Right side low beam headlight"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Left side headlight (high/low)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(EMS) Engine management system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(H/L HI) Headlights high beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "(RR DEFOG) Rear window defogger"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(ECU) Engine control unit"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 1) Ignition"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 2) Ignition"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(A/C COMP) Air conditioning compressor relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay (low speed)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan relay (high speed)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Tail lamp relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}

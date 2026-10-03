@@ -781,9 +781,11 @@
   "dacia/duster": "done",
   "dacia/logan": "done",
   "dacia/sandero": "done",
-  "dacia/supernova": "no_data"
+  "dacia/supernova": "no_data",
+  "daewoo/matiz": "done",
+  "daewoo/lanos": "done"
  },
- "last_updated": "2026-10-03T23:34:39.463881",
+ "last_updated": "2026-10-03T23:36:19.960135",
  "current_brand": "daewoo",
  "audi_done_models": [
   "a1",
@@ -1530,5 +1532,12 @@
   "logan",
   "sandero",
   "supernova"
+ ],
+ "daewoo_model_slugs": [
+  "kalos",
+  "lanos",
+  "matiz",
+  "nubira",
+  "tacuma"
  ]
 }

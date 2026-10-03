@@ -1,0 +1,294 @@
+{
+ "make_slug": "daewoo",
+ "model_slug": "matiz",
+ "brand_db": "Daewoo",
+ "model_db_name": "Matiz",
+ "model_id": 1406,
+ "generation_name": "1st generation (\"M100\", \"M150\")",
+ "generation_code": "g1",
+ "year_start": 1998,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/daewoo/matiz/info/fusebox/2006/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-matiz-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Fuel cut-off switch (inertia switch)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Fuel, EBCM, generator, VSS, fuel pump relay, main relay, ignition coil"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Blower motor"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Rear window defogger"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Headlamp high beam, right side"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Headlamp high beam, left side"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Headlamp low beam, right side"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Headlamp low beam, left side"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Tail and illumination lamps, right side"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Tail and illumination lamps, left side"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "30A",
+     "Radiator fan"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Headlamp relay, high beam passing, DRL module"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "ECM, main relay"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "20",
+     "Fuse MAXI",
+     "50A",
+     "ABS"
+    ],
+    [
+     "21",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch, instrument panel fuse block (F5, F11-F13)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front fog relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay / airbag"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Illumination relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Head lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-matiz-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "(IGN 1) Cluster, clock, IMMO, anti-theft control unit, DRL relay"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "(IGN 1) SDM"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "25A",
+     "(IGN 1) Hazard switch, DRL module"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "(IGN 1) Turn signal lamp"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "(BAT) Stop lamp"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "(ACC) Audio"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "(ACC) Cigar lighter"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "(IGN 2) Wiper"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "(IGN 2) Rear wiper motor, front & rear washer, backup lamp"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "(IGN 2) Auto mirror switch"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "(Ef2) IMMO, audio, room lamp"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "(Ef2) Hazard, clock"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "(Ef2) Anti-theft control unit, door lock"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "(ST) Starter motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Blinker unit (turn signal lamp relay)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Wiper relay"
+    ]
+   ]
+  }
+ ]
+}

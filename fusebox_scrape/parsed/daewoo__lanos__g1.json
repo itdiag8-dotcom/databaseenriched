@@ -1,0 +1,336 @@
+{
+ "make_slug": "daewoo",
+ "model_slug": "lanos",
+ "brand_db": "Daewoo",
+ "model_db_name": "Lanos",
+ "model_id": 1400,
+ "generation_name": "1st generation (\"T100\", \"T150\")",
+ "generation_code": "g1",
+ "year_start": 1997,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/daewoo/lanos/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-lanos-2013-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Trunk light, interior light, electric antenna, front fog light"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Clock, acoustic warning, door open light switches"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Emergency lights"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Central door locking"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "ECM (Bat.), TCM (Bat.), ABS (Bat.)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Sound system (Bat.)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Brake light"
+    ],
+    [
+     "D8",
+     "Diode MINI",
+     "",
+     "Diode"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Sound system (On)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "I/P group, clock, DRL, rear defogger, seatbelt warning light"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Reverse light"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Injectors, alternator, engine sensor"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Direct injection system"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Turn signals, exterior mirror switch"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "ECM (On), TCM (On), ABS light module, fuel pump relay, VGIS"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Front/rear windshield wipers and washers"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Rear defogger relay, A/C compressor relay, ABS ECU (On), electric fan relay, power window relay"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "A/C fan - 1st, 2nd, 3rd speed"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-daewoo-lanos-2013-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "Main power"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 1"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 2"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan A"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "4-speed fan motor"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "High beam lights"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Low beam light (left)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Low beam light (right)"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Tail light (left)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Tail light (right)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Rear fog light"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "25A",
+     "High beam lights"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Lighting"
+    ],
+    [
+     "A",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "B",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "C",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "D",
+     "Relay",
+     "",
+     "Lighting relay"
+    ],
+    [
+     "E",
+     "Relay",
+     "",
+     "Headlight relay"
+    ],
+    [
+     "F",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "G",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "H",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "I",
+     "Relay",
+     "",
+     "Radiator fan control relay"
+    ],
+    [
+     "J",
+     "Relay",
+     "",
+     "Radiator fan relay A"
+    ],
+    [
+     "K",
+     "Relay",
+     "",
+     "Radiator fan relay B"
+    ],
+    [
+     "D9",
+     "Diode MINI",
+     "",
+     "Diode"
+    ]
+   ]
+  }
+ ]
+}
