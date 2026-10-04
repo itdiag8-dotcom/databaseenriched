@@ -1,0 +1,498 @@
+{
+ "make_slug": "ford",
+ "model_slug": "escape",
+ "brand_db": "Ford",
+ "model_db_name": "Escape",
+ "model_id": 1786,
+ "generation_name": "4th generation (\"CX482\")",
+ "generation_code": "g4",
+ "year_start": 2020,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2026,
+ "source_url": "https://www.startmycar.com/ford/escape/info/fusebox/2026",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-escape-2026-genid-g4-0.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse FMM/MCase",
+     "60A",
+     "Supplemental heating [gasoline]"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "40A",
+     "Supplemental heating [gasoline]"
+    ],
+    [
+     "6",
+     "Fuse FMM/MCase",
+     "40A",
+     "Supplemental heating [gasoline]"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-lock brake system module"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "5A",
+     "Adaptive cruise control"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "5A",
+     "Battery electronic control module [hybrid electric vehicle]"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "5A",
+     "Charging port [hybrid electric vehicle]"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Brake on/off switch"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "5A",
+     "Powertrain control module [hybrid electric vehicle]"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "Electronic stability control [gasoline], transmission oil pump [hybrid electric vehicle]"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "5A",
+     "Electronic power steering"
+    ],
+    [
+     "32",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Front parking assist camera, rear camera, blind spot information system, adaptive cruise control"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "10A",
+     "Headlight leveling"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module [hybrid electric vehicle]"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "42",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power driver's seat"
+    ],
+    [
+     "43",
+     "Fuse FMM/MCase",
+     "50A",
+     "Electric water pump [hybrid electric vehicle]"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "40A",
+     "Trailer module"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power passenger's seat"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "20A",
+     "Transmission oil temperature sensor"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "48",
+     "Fuse FMM/MCase",
+     "40A",
+     "Anti-lock brake control valves"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "60A",
+     "Anti-lock brake control pump"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "30A",
+     "Glass roof"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "5A",
+     "DC/DC converter [hybrid electric vehicle]"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "10A",
+     "Battery charge control module [hybrid electric vehicle]"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "10A",
+     "Data link connector"
+    ],
+    [
+     "58",
+     "Fuse FMM/MCase",
+     "40A",
+     "Auxiliary power distribution box [hybrid electric vehicle]"
+    ],
+    [
+     "59",
+     "Fuse FMM/MCase",
+     "40A",
+     "Body control module"
+    ],
+    [
+     "60",
+     "Fuse MICRO2",
+     "5A",
+     "Smart USB charger"
+    ],
+    [
+     "61",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trunk power outlet"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "30A",
+     "Climate control"
+    ],
+    [
+     "64",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power liftgate"
+    ],
+    [
+     "68",
+     "Fuse MICRO2",
+     "5A",
+     "Port fuel injectors [gasoline]"
+    ],
+    [
+     "69",
+     "Fuse MICRO2",
+     "15A",
+     "Port fuel injectors"
+    ],
+    [
+     "70",
+     "Fuse FMM/MCase",
+     "20A",
+     "Rear console power outlet"
+    ],
+    [
+     "71",
+     "Fuse FMM/MCase",
+     "20A",
+     "Media compartment power outlet"
+    ],
+    [
+     "72",
+     "Fuse MICRO2",
+     "20A",
+     "Rear window wiper, rear window washer pump"
+    ],
+    [
+     "74",
+     "Fuse FMM/MCase",
+     "30A",
+     "Windshield wiper motor"
+    ],
+    [
+     "75",
+     "Fuse MICRO2",
+     "10A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "76",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear window defroster"
+    ],
+    [
+     "78",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "80",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "81",
+     "Fuse MICRO2",
+     "10A",
+     "Rear window wiper, rear window washer pump"
+    ],
+    [
+     "82",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power inverter"
+    ],
+    [
+     "84",
+     "Fuse FMM/MCase",
+     "40A",
+     "Drive axle control module"
+    ],
+    [
+     "85",
+     "Fuse MICRO2",
+     "5A",
+     "Rain sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Body control module fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-escape-2026-genid-g4-1.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Integrated control panel, gateway module"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Lock, unlock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Sunroof"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "8",
+     "Fuse MICRO3",
+     "5A",
+     "All-wheel drive module"
+    ],
+    [
+     "9",
+     "Fuse MICRO3",
+     "5A",
+     "Electrochromic mirror"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Extended electrical module"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "5A",
+     "Power liftgate, telematic control unit module"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "5A",
+     "Keyless entry keypad switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Driver door unlock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Driver door module"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "15A",
+     "Extended electrical module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "SYNC radio transceiver module"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "7.5A",
+     "Accessory wireless charging module"
+    ],
+    [
+     "19",
+     "Fuse MICRO3",
+     "7.5A",
+     "Headlamp switch pack"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control, electronic shifter module, ignition switch"
+    ],
+    [
+     "22",
+     "Fuse MICRO3",
+     "7.5A",
+     "Instrument cluster, steering column control module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Audio unit"
+    ],
+    [
+     "25",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows, exterior mirrors"
+    ]
+   ]
+  }
+ ]
+}

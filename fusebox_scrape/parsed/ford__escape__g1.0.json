@@ -1,0 +1,420 @@
+{
+ "make_slug": "ford",
+ "model_slug": "escape",
+ "brand_db": "Ford",
+ "model_db_name": "Escape",
+ "model_id": 1786,
+ "generation_name": "1st generation pre-facelift (\"ZA\")",
+ "generation_code": "g1.0",
+ "year_start": 2001,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/ford/escape/info/fusebox/2004/1st-gen-pre-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-escape-2004-genid-g1.0-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Canister vent control solenoid"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Blower relay (coil), pressure switch to PCM"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper motor, rear washer motor, rear wiper relay (coil)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Four-wheel drive control module, cluster (restraints control warning)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "ABS unit (EVAC & FILL), ASC unit, restraints control module (RCM), ASC main switch to ASC unit, clock spring switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Flasher unit, reversing lamps, park aid module (PAM)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Passive anti-theft transceiver (PATS), RCM, EEC fuse"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Cluster, shift lock relay (coil), O/D signal to PCM, GEM, E/C autolamp mirror"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "3A",
+     "PCM relay (coil), fan relay 1, 2, 3 (coil), A/C relay (coil)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Front wiper motor, front washer motor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "ACC relay (coil), key interlock solenoid, GEM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Radio"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Park lamp relay, front position lamps, license lamps, tail lamps, park lamp relay (coil), trailer fuse, illumination fuse"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Cluster, power mirror, GEM, heated seats"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Sun roof motor"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Illumination for cluster, heater unit, radio, hazard switch, rear defrost switch, 4WD switch, front fog switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Subwoofer amp"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Turn indicators, front side turn lamps, front turn lamps, rear turn lamps, trailer turn, flasher unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Trailer position lamps"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Stoplamps, high mounted stoplamp, trailer stoplamp, ABS unit, ASC unit (brake pedal position switch), PCM, shift solenoid"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window motors"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power door lock motors, GEM (door lock relay coil), power seat, 4WD relay"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "GEM, audio, cluster, interior lamp, map lamp, cargo lamp, datalink connector"
+    ],
+    [
+     "ACC",
+     "Relay",
+     "",
+     "Accessory relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-escape-2004-genid-g1.0-1.webp",
+   "fuses": [
+    [
+     "HORN",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "H/L LH",
+     "Fuse MINI",
+     "15A",
+     "Headlamp (high/low left, high beams)"
+    ],
+    [
+     "H/L RH",
+     "Fuse MINI",
+     "15A",
+     "Headlamp (high/low right, high beams)"
+    ],
+    [
+     "EEC",
+     "Fuse MINI",
+     "5A",
+     "EEC (KPWR)"
+    ],
+    [
+     "HEGO",
+     "Fuse MINI",
+     "15A",
+     "HEGO 1, 2, CMS 1, 2, VMV"
+    ],
+    [
+     "FUEL",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump, EEC (FPM)"
+    ],
+    [
+     "DIODE1",
+     "Diode MINI",
+     "",
+     ""
+    ],
+    [
+     "DIODE2",
+     "Diode MINI",
+     "",
+     ""
+    ],
+    [
+     "H/L RELAY",
+     "Relay",
+     "",
+     "Headlamp (high/low, right/left relay)"
+    ],
+    [
+     "HTD SEATS",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated seats (if equipped)"
+    ],
+    [
+     "INJ",
+     "Fuse FMX/JCase",
+     "30A",
+     "EEC (VPWR), EVR, MAF, IAC, bulkhead, HEGO fuse"
+    ],
+    [
+     "MAIN",
+     "Fuse",
+     "",
+     "Main"
+    ],
+    [
+     "ALT",
+     "Fuse MINI",
+     "15A",
+     "Alternator/regulator"
+    ],
+    [
+     "DRL",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps (DRL) unit (feed), DRL relay"
+    ],
+    [
+     "DRL2",
+     "Fuse MINI",
+     "15A",
+     "DRL module"
+    ],
+    [
+     "HLEV",
+     "Fuse MINI",
+     "10A",
+     "HLEV"
+    ],
+    [
+     "PWR 1",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary power point"
+    ],
+    [
+     "FOG",
+     "Fuse MINI",
+     "20A",
+     "Foglamps, foglamp indicator"
+    ],
+    [
+     "A/C",
+     "Fuse MINI",
+     "15A",
+     "A/C clutch"
+    ],
+    [
+     "ABS 1",
+     "Fuse MINI",
+     "25A",
+     "Anti-lock brake system (ABS) SOL, EVAC & FILL"
+    ],
+    [
+     "PWR 2",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary power point"
+    ],
+    [
+     "IG MAIN",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "HTR",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor, blower motor relay"
+    ],
+    [
+     "BTN 1",
+     "Fuse FMX/JCase",
+     "40A",
+     "JB - accessory relay, radio, TNS relay, cigar lighter, cluster, power mirror, GEM, accessory delay relay, power windows, power moonroof"
+    ],
+    [
+     "ABS 2",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS motor, EVAC & FILL"
+    ],
+    [
+     "BTN 2",
+     "Fuse FMX/JCase",
+     "40A",
+     "JB - radio, CD changer, cluster, dome lamps, map lamps, cargo lamps, horn relay, GEM, power locks, speed control"
+    ],
+    [
+     "MAIN FAN",
+     "Fuse FMX/JCase",
+     "40A",
+     "Main fan (2.0L engine)"
+    ],
+    [
+     "MAIN FAN",
+     "Fuse FMX/JCase",
+     "50A",
+     "Main fan (3.0L engine)"
+    ],
+    [
+     "R DEF",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "ADD FAN",
+     "Fuse FMX/JCase",
+     "",
+     "Add fan"
+    ],
+    [
+     "EEC MAIN ISO",
+     "Relay",
+     "",
+     "EEC relay"
+    ],
+    [
+     "FUEL PUMP ISO",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "MAIN FAN ISO",
+     "Relay",
+     "",
+     "Low-speed fan control relay (2.0L), high-speed fan control relay 1 (3.0L)"
+    ],
+    [
+     "ADD FAN ISO",
+     "Relay",
+     "",
+     "High-speed fan control relay 1 (2.0L), low-speed fan control relay (3.0L)"
+    ],
+    [
+     "DEF RELAY ISO",
+     "Relay",
+     "",
+     "Rear defroster relay"
+    ],
+    [
+     "ST RELAY ISO",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "ADD FAN 2 ISO",
+     "Relay",
+     "",
+     "High-speed fan control relay 2 (3.0L), medium-speed fan control relay (2.0L)"
+    ],
+    [
+     "FOG RELAY",
+     "Relay",
+     "",
+     "Foglamp relay"
+    ],
+    [
+     "A/C RELAY",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ]
+   ]
+  }
+ ]
+}

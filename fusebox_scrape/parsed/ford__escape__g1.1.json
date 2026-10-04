@@ -1,0 +1,402 @@
+{
+ "make_slug": "ford",
+ "model_slug": "escape",
+ "brand_db": "Ford",
+ "model_db_name": "Escape",
+ "model_id": 1786,
+ "generation_name": "1st generation 1st facelift (\"ZB\")",
+ "generation_code": "g1.1",
+ "year_start": 2004,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/ford/escape/info/fusebox/2004/1st-gen-1st-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-escape-2004-genid-g1.1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow park lamps"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Front and rear park lamps"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "2A",
+     "Powertrain control module (PCM relay), fuel pump relay, main fan relay, high/low speed fan relay 2, PATS module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Center high-mounted stop lamp (CHMSL), stop lamps, PCM, anti-lock brake system (ABS), speed control, brake on-off switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, diagnostic connector, power mirror switch, radio"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power door locks, power seats"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Heated mirrors"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Radio"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Subwoofer"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Low beams"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "4x4"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper motor, rear wiper washer"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Electrochromatic mirror, instrument cluster"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Front wiper motor, front wiper washer"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Climate control system mode switch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Canister vent, speed control cancel switch"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Reverse park aid"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Brake-transmission shift lock"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Air bag module, passenger air bag deactivation (PAD) indicator lamp, occupant classification sensor (OCS)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "ABS module, evac and fill, speed control"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Heated seats module, 4x4"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-escape-2004-genid-g1.1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "25A",
+     "I/P fuse panel (RUN/START)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "25A",
+     "Headlamp power"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "High beams, turn signals, interior lamps, headlamp power"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Keep alive power (KA PWR)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Heated exhaust gas oxygen (HEGO) sensors"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "RUN/ACC relay - electrochromatic mirror, cigar lighter, front and rear wipers"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Powertrain control module (PCM), injectors and coil"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Alternator"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Heated seats"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "PCM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Power point #1"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Fog lamps"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "A/C clutch, A/C relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Anti-lock brake system (ABS) solenoid"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "50A",
+     "Ignition (main)"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "Accessory delay relay - subwoofer and 4x4, low beam"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Horn, CHMSL, cluster, power locks and power seats"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan [4-cylinder engine]"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan [V6]"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster, park lamps relay"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "High/low speed fan [4-cylinder engine]"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "High/low speed fan [V6]"
+    ],
+    [
+     "D1",
+     "Diode MINI",
+     "",
+     "Starter diode"
+    ],
+    [
+     "D2",
+     "Diode MINI",
+     "",
+     "A/C diode"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "High/low speed fan relay 1"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "High/low speed fan relay 2"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "A/C relay"
+    ]
+   ]
+  }
+ ]
+}
