@@ -1,0 +1,757 @@
+{
+ "make_slug": "ford",
+ "model_slug": "f-250",
+ "brand_db": "Ford",
+ "model_db_name": "F-250",
+ "model_id": 1807,
+ "generation_name": "10th generation (\"PN96\")",
+ "generation_code": "ford__f__150_g10",
+ "year_start": 2005,
+ "year_end": 2009,
+ "trim_label": "XL,XLT",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/ford/f-250/info/fusebox/2009/10th-gen_trims-xl-xlt",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-250-2009-genid-ford__f__150_g10-trims-xl%252Cxlt-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Powertrain control module (PCM), instrument cluster"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Lighter, data link connector"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Power mirror switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Speed control module, reverse light, A/C and heating mode switch, automatic DRL relay, digital transmission range (DTR) sensor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, brake shift interlock solenoid, GEM (generic electronic module)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Radio, GEM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Front washer pump relay, wiper run/park relay, high/low wiper relay, wiper motor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "High beam switch (lights), turn signal and hazard flasher"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Battery saver relay, interior light relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "High beam switch (speed control, brake shift interlock), GEM"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Headlights (high beams), instrument cluster (high beam indicator)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Instrument illumination (dimmer switch power)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Audio, GEM, PCM, transmission range sensor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "DTR sensor, clutch switch, starter relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Airbag module, passenger airbag deactivation module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Trailer battery relay, turn signal and hazard flasher, 4x4 solenoids, overhead console, 4WABS module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Function selector switch assembly"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Right low beam headlight"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Fog light relay and indicator, main light switch (up)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Left low beam headlight"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Automatic light control module, transmission overdrive control switch, central security module, belt reminder"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "30A",
+     "Passive anti-theft transceiver, instrument cluster, ignition coils, PCM relay, coil-on-plug, radio noise capacitor, ECC diode"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Interior light relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Battery saver relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "One-touch window down relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Accessory delay relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box [XL]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-250-2009-genid-ford__f__150_g10-trims-xl%252Cxlt-1.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Alternator"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "20A",
+     "A/C clutch"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition B1 and B2"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front fan"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "PCM"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "20A",
+     "Central security"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "20A",
+     "Main light switch"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Multi-function switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition B4 and B5"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery power"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Radio"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "PCM HEGO"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Headlights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Headlights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Left headlight"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Right headlight"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Clutch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Turn signals, high beam, and hazard lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Power mirrors"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Airbags"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Rear anti-lock brake system (RABS)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "30A",
+     "Smart wiper"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Transmission"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Battery saver"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Lighter"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "5A",
+     "RABS"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Turn signals, high beam, and hazard lights"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Backup lights, A/C and heating control"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Radio"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "30A",
+     "Instrument cluster"
+    ],
+    [
+     "Diode 2",
+     "Diode ATO",
+     "",
+     "A/C compressor diode"
+    ],
+    [
+     "Diode 3",
+     "Diode ATO",
+     "",
+     "PCM diode"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "One-touch window open relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Accessory delay relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Interior light relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Box [XLT]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-250-2009-genid-ford__f__150_g10-trims-xl%252Cxlt-2.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Accessory delay relay"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "20A",
+     "Intercooler pump (only supercharged engine)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "Four-wheel anti-lock brake system module (4WABS)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear anti-lock brake system module (RABS), ignition switch"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch battery feed (run and accessory circuits)"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front A/C and heating control fan"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer battery charge"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver's power seat, adjustable pedal switch"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer electric brake"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "4x4 shift motor and clutch"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch battery feed (start and run circuits)"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "50A",
+     "Central junction box"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "HEGO sensor, automatic transmission"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Trailer and RV adapter (left high and turn signal light)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Trailer and RV adapter (right high and turn signal light)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "2A",
+     "Cruise control"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "A/C clutch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Alternator field"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Automatic daytime running lights (DRL), fog lights"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Reverse and trailer parking lights"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "30A",
+     "Main light switch, headlight relay, multifunction switch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "PCM, fuel injectors, fuel pump relay, mass air flow sensor"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Dual fuel injector module, fuel selector switch, alternative fuel injectors (dual fuel vehicles only)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Power door locks, central security module (CSM), lock relays"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Main light switch, parking lights relay"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "30A",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "CB 2",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows"
+    ],
+    [
+     "Diode 2",
+     "Diode ATO",
+     "",
+     "A/C compressor diode"
+    ],
+    [
+     "Diode 3",
+     "Diode ATO",
+     "",
+     "PCM diode"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Trailer battery charge relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front wiper HI/LO relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Intercooler pump relay (only supercharged engine)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Front washer pump relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Trailer reverse light relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Front wiper parking and operation relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Trailer parking lights relay"
+    ],
+    [
+     "305",
+     "Relay",
+     "",
+     "Fuel pump HI/LO relay (only supercharged engine)"
+    ],
+    [
+     "306",
+     "Relay",
+     "",
+     "Inertia switch relay (only supercharged engine)"
+    ]
+   ]
+  }
+ ]
+}

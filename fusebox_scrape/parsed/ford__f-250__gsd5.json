@@ -1,0 +1,775 @@
+{
+ "make_slug": "ford",
+ "model_slug": "f-250",
+ "brand_db": "Ford",
+ "model_db_name": "F-250",
+ "model_id": 1807,
+ "generation_name": "Super Duty (\"P708\")",
+ "generation_code": "gsd5",
+ "year_start": 2023,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/ford/f-250/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Under hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-250-2024-genid-gsd5-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan 1"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "60A",
+     "Interior power distribution box B+"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Vehicle battery 2"
+    ],
+    [
+     "6",
+     "Fuse FMM/MCase",
+     "50A",
+     "Heater"
+    ],
+    [
+     "8",
+     "Fuse FMM/MCase",
+     "50A",
+     "Heater"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "50A",
+     "Heater"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "30A",
+     "Climate controlled seat module"
+    ],
+    [
+     "19",
+     "Fuse FMM/MCase",
+     "40A",
+     "Heated rear windshield"
+    ],
+    [
+     "21",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power sliding rear window"
+    ],
+    [
+     "22",
+     "Fuse FMM/MCase",
+     "40A",
+     "Electronic power assist steering"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "30A",
+     "Four-wheel drive module"
+    ],
+    [
+     "27",
+     "Fuse FMM/MCase",
+     "30A",
+     "Compressed natural gas module switch"
+    ],
+    [
+     "28",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer brake control, aftermarket e-brake access"
+    ],
+    [
+     "29",
+     "Fuse FMM/MCase",
+     "30A",
+     "Compressed natural gas powered at all times"
+    ],
+    [
+     "30",
+     "Fuse FMM/MCase",
+     "25A",
+     "Trailer tow lighting module battery charge"
+    ],
+    [
+     "31",
+     "Fuse FMM/MCase",
+     "30A",
+     "Vehicle battery 1"
+    ],
+    [
+     "34",
+     "Fuse FMM/MCase",
+     "50A",
+     "Customer interface module"
+    ],
+    [
+     "35",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wiper motor"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trailer tow lighting module"
+    ],
+    [
+     "39",
+     "Fuse FMM/MCase",
+     "60A",
+     "Anti-lock brake system pump"
+    ],
+    [
+     "40",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "41",
+     "Fuse FMM/MCase",
+     "40A",
+     "Anti-lock brake system valve"
+    ],
+    [
+     "42",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module RP2 bus"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "15A",
+     "Diesel exhaust fluid tank heater"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "15A",
+     "Diesel exhaust fluid line heater"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "15A",
+     "Glow plug and dosing module"
+    ],
+    [
+     "48",
+     "Fuse FMM/MCase",
+     "50A",
+     "Customer interface module"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 2"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 1"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 3"
+    ],
+    [
+     "52",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "53",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module RP1 bus"
+    ],
+    [
+     "54",
+     "Fuse FMM/MCase",
+     "40A",
+     "Driver power seat"
+    ],
+    [
+     "55",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "60A",
+     "Inverter"
+    ],
+    [
+     "60",
+     "Fuse MICRO2",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "68",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "70",
+     "Fuse MICRO2",
+     "10A",
+     "Trailer tow backup lamps"
+    ],
+    [
+     "71",
+     "Fuse MICRO2",
+     "10A",
+     "Four-wheel drive system"
+    ],
+    [
+     "72",
+     "Fuse MICRO2",
+     "20A",
+     "Vehicle power 1"
+    ],
+    [
+     "73",
+     "Fuse MICRO2",
+     "20A",
+     "Vehicle power 2 [Gasoline]"
+    ],
+    [
+     "73",
+     "Fuse MICRO2",
+     "10A",
+     "Vehicle power 2 [Diesel]"
+    ],
+    [
+     "74",
+     "Fuse MICRO2",
+     "15A",
+     "Vehicle power 3 [Gasoline]"
+    ],
+    [
+     "74",
+     "Fuse MICRO2",
+     "10A",
+     "Vehicle power 3 [Diesel]"
+    ],
+    [
+     "75",
+     "Fuse MICRO2",
+     "20A",
+     "Vehicle power 4"
+    ],
+    [
+     "76",
+     "Fuse MICRO2",
+     "10A",
+     "Vehicle power 5 [Gasoline]"
+    ],
+    [
+     "76",
+     "Fuse MICRO2",
+     "20A",
+     "Vehicle power 5 [Diesel]"
+    ],
+    [
+     "77",
+     "Fuse MICRO2",
+     "5A",
+     "24V alternator"
+    ],
+    [
+     "78",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module, transmission control module"
+    ],
+    [
+     "79",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "80",
+     "Fuse MICRO2",
+     "10A",
+     "Electronic power assist steering"
+    ],
+    [
+     "81",
+     "Fuse MICRO2",
+     "10A",
+     "Blind spot information system, trailer tow TPMS, rear electronic module CAN"
+    ],
+    [
+     "82",
+     "Fuse MICRO2",
+     "10A",
+     "Snowplow"
+    ],
+    [
+     "83",
+     "Fuse MICRO2",
+     "15A",
+     "Interior power distribution box run/start"
+    ],
+    [
+     "85",
+     "Fuse MICRO2",
+     "10A",
+     "Four-wheel drive transfer case control module"
+    ],
+    [
+     "86",
+     "Fuse MICRO2",
+     "5A",
+     "Smart trailer hitch"
+    ],
+    [
+     "87",
+     "Fuse MICRO2",
+     "10A",
+     "Smart data link connector, enhanced central gateway"
+    ],
+    [
+     "90",
+     "Fuse MICRO2",
+     "5A",
+     "Headlamp control module"
+    ],
+    [
+     "91",
+     "Fuse MICRO2",
+     "15A",
+     "Left-hand headlamp"
+    ],
+    [
+     "92",
+     "Fuse MICRO2",
+     "15A",
+     "Right-hand headlamp"
+    ],
+    [
+     "93",
+     "Fuse MICRO2",
+     "5A",
+     "Rain sensor"
+    ],
+    [
+     "94",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "97",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "101",
+     "Fuse MICRO2",
+     "5A",
+     "Glow plug relay coil [Diesel]"
+    ],
+    [
+     "102",
+     "Fuse MICRO2",
+     "10A",
+     "Compressed natural gas module power"
+    ],
+    [
+     "107",
+     "Fuse MICRO2",
+     "20A",
+     "Power point 4, smart charge module"
+    ],
+    [
+     "110",
+     "Fuse MICRO2",
+     "10A",
+     "Tailgate release"
+    ],
+    [
+     "112",
+     "Fuse MICRO2",
+     "25A",
+     "Trailer tow park lamps"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-250-2024-genid-gsd5-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "2",
+     "Fuse FMM/MCase",
+     "30A",
+     "Powered tailgate module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Multi-contour seats"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Advanced driver assistance system module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Delayed accessory logic"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "SYNC"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Center high-mounted stop lamp camera"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Radio transceiver module, four-wheel drive switch, enhanced central gateway"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Inverter"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Upfitter switch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary camera"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Moonroof"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Near field communication module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Trailer brake control switch"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Electrochromatic mirror"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Heating, ventilation and air conditioning"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Brake on-off switch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Steering column control module, instrument cluster"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Rear heated seats"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "Manual shift, select shift switch"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "5A",
+     "Head up display"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "Telematics control unit"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Left-hand door switch, telescopic exterior mirror switch"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Adjustable pedals"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Central security module"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "5A",
+     "Headlamps, ignition switch"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "30A",
+     "Driver door module"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "7.5A",
+     "Wireless accessory charger module, driver front seat module"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "7.5A",
+     "SYNC display screen"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary smart data link connector"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "AUX Upfitter Switches - Relay & Fuse Diagram",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-250-2024-genid-gsd5-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Upfitter 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Upfitter 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Upfitter 3"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Upfitter 4"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Upfitter 5"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Upfitter 6"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "PTO - Power take-off"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "RST - Reset"
+    ],
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Upfitter relay 5"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Upfitter relay 6"
+    ],
+    [
+     "F3",
+     "Fuse FMM/MCase",
+     "20A",
+     "Upfitter run/start relay"
+    ],
+    [
+     "F3",
+     "Fuse FMM/MCase",
+     "25A",
+     "Upfitter run/start relay"
+    ],
+    [
+     "F4A",
+     "Fuse MICRO2",
+     "5A",
+     "Upfitter switch"
+    ],
+    [
+     "F4C",
+     "Fuse MICRO2",
+     "5A",
+     "Upfitter switch"
+    ],
+    [
+     "F5",
+     "Fuse FMM/MCase",
+     "20A",
+     "Upfitter PTO relay"
+    ],
+    [
+     "F5",
+     "Fuse FMM/MCase",
+     "25A",
+     "Upfitter PTO relay"
+    ],
+    [
+     "F6",
+     "Fuse FMM/MCase",
+     "20A",
+     "Customer access"
+    ],
+    [
+     "F7",
+     "Fuse FMM/MCase",
+     "25A",
+     "Upfitter relay 4"
+    ],
+    [
+     "F8",
+     "Fuse FMM/MCase",
+     "25A",
+     "Upfitter relay 3"
+    ],
+    [
+     "F9",
+     "Fuse FMM/MCase",
+     "25A",
+     "Upfitter relay 2"
+    ],
+    [
+     "F10",
+     "Fuse FMM/MCase",
+     "25A",
+     "Upfitter relay 1"
+    ]
+   ]
+  }
+ ]
+}
