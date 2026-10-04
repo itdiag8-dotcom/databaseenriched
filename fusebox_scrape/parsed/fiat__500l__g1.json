@@ -1,0 +1,312 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "500l",
+ "brand_db": "Fiat",
+ "model_db_name": "500L",
+ "model_id": 1666,
+ "generation_name": "1st generation (\"L0\", \"Ellezero\", \"Project 330\")",
+ "generation_code": "g1",
+ "year_start": 2012,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/fiat/500l/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-500l-2020-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "70A",
+     "Body controller"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "60A",
+     "Body controller rear distribution unit"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "40A",
+     "Anti-lock brake pump"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "70A",
+     "Electric power steering"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "Radiator fan - low speed"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "50A",
+     "Radiator fan - high speed"
+    ],
+    [
+     "F08",
+     "Fuse ATO",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "7.5A",
+     "Transmission (Aisin)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Powertrain"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Transmission (Aisin)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "Transmission powertrain"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Powertrain"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "5A",
+     "Powertrain (Multi-Air)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Anti-lock brake valves"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "After-run pump"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "70A",
+     "PTC (secondary)"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "40A",
+     "PTC (primary)"
+    ],
+    [
+     "F85",
+     "Fuse ATO",
+     "15A",
+     "Front power outlet 12V"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "7.5A",
+     "USB charger sockets"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "7.5A",
+     "Heated mirrors"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Powertrain"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-500l-2020-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "Right low beam"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "7.5A",
+     "Front and rear ceiling lights, trunk and door courtesy lights"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel node"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Central door locking"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic socket, vehicle radio, climate control system, TPMS, sunroof"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "7.5A",
+     "Left high beam"
+    ],
+    [
+     "F91",
+     "Fuse MINI",
+     "7.5A",
+     "Right high beam"
+    ],
+    [
+     "F92",
+     "Fuse MINI",
+     "7.5A",
+     "Left fog light"
+    ],
+    [
+     "F93",
+     "Fuse MINI",
+     "7.5A",
+     "Right fog light"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "5A",
+     "BSM, ESP"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "20A",
+     "Rear left passenger window"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "Rear right passenger window"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Bi-directional washer"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Passenger power window"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Left low beam, headlamp leveling"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "5A",
+     "Vehicle radio switch, climate control, stop light, reverse gear, sunroof, parking sensor, rear camera"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "7.5A",
+     "Stop light switch, instrument panel node"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "5A",
+     "Exterior mirror, GPS, electric mirror, parking sensor"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "5A",
+     "Climate control, seat regulation"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "20A",
+     "Driver power window"
+    ]
+   ]
+  }
+ ]
+}
