@@ -1,0 +1,728 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "grandeur",
+ "brand_db": "Hyundai",
+ "model_db_name": "Grandeur",
+ "model_id": 2200,
+ "generation_name": "Grandeur XG",
+ "generation_code": "g3",
+ "year_start": 1998,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/hyundai/grandeur/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel junction box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-grandeur-2004-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "25A",
+     "Power seat"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Seat warmer"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "EPS controls"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "ETS relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "HID headlights, DRL controls, AQS sensor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Blower and A/C controls"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Turn and hazard controls"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Cruise switch, instrument cluster"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Headlight leveling switch, rain sensor, IMS controls"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Rain sensor relay, wiper and washer controls"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Home link, vanity lights, sunroof, A/C controls, EC mirror"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighters, accessory socket"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "IMS controls, driver door module, rheostat"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Stop lights, personal lights, rear door lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Door warning and key illumination, courtesy lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "SRS controls"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "A/T controls, back-up light switch, speed sensor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Fuel filler door and trunk lid opener, door modules"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Check connector, audio, immobilizer, trip computer, clock, A/C, cluster"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Inside lights, HID headlights, fog relay, turn signal RH, rear combination RH"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Stop light failure relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Immobilizer, TCS switch, trip computer, cluster"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "ETACM, hazard switch, auto light sensor"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Antenna, A/C controls, outside mirror and folding motors"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "HID headlights, cigarette lighters, license lights, turn signal LH, rear combination LH"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Burglar alarm relay, transaxle range switch, start relay, ETS controls"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Defogger relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Trunk lid relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Tail lamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Pre-excitation resistor"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Burglar alarm relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Power window relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Under hood junction box (with HID)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-grandeur-2004-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Headlight relay (low LH)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ABS controls, cruise module, ETS module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Injector: limp home valve, ETS controls, injectors"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "A/T control relay, TCM, engine control relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil, A/T pulse generator, ECM, ignition failure sensor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Oxygen sensor: ETS relay, MFI controls"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "ECU"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger relay"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Headlight low RH: HID headlight relay"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Headlight relay (high)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "DRL control module, siren"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Fog light relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Blower relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Power fuse 2 (fuses 4, 20, 24, 25)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Power amp: audio amp module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Sunroof: DLC, sunroof relay, home link"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Tail light relay"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "Power fuse 1 (fuses 1, 7, 17, 18, 19)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "ECU: ETS module, ECM, E/TCM, generator"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "20A",
+     "Condenser: A/C fan relay #1"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window relay, IMS controls"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 1: ignition switch"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS 2 controls"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS 1 controls"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 2: ignition switch"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlight low LH relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "A/C fan 1 relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Radiator fan high relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front fog relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlight high relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Wiper motor relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "A/C fan 2 relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Under hood junction box (without HID)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-grandeur-2004-genid-g3-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Headlight relay (low LH)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ABS controls, cruise module, ETS module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Injector: limp home valve, ETS controls, injectors"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "A/T control relay, TCM, engine control relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil, A/T pulse generator, ECM, ignition failure sensor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor: ETS relay, MFI controls"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Headlight relay (high)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "DRL control module, siren"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Fog light relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Blower relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Power fuse 2 (fuses 4, 20, 24, 25)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Power amp: audio amp module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Sunroof: DLC, sunroof relay, home link"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Tail light relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "Power fuse 1 (fuses 1, 7, 17, 18, 19)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "ECU: ETS module, ECM, E/TCM, generator"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "20A",
+     "Condenser: A/C fan relay #1"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window relay, IMS controls"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 1: ignition switch"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS 2 controls"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS 1 controls"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 2: ignition switch"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlight low LH relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "A/C fan 1 relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Radiator fan high relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front fog relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlight high relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Wiper motor relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "A/C fan 2 relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-grandeur-2004-genid-g3-3.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Flasher unit"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Hazard relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear fog lamp relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay (2.0L/2.5L)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "ETS relay (3.0L/3.5L)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rain sensor relay"
+    ]
+   ]
+  }
+ ]
+}
