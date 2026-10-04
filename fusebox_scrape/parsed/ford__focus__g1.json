@@ -1,0 +1,492 @@
+{
+ "make_slug": "ford",
+ "model_slug": "focus",
+ "brand_db": "Ford",
+ "model_db_name": "Focus",
+ "model_id": 1832,
+ "generation_name": "Mk1 (C170)",
+ "generation_code": "g1",
+ "year_start": 1998,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/ford/focus/info/fusebox/2005/mk1",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-focus-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Parking lamps"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "20A",
+     "Radio"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "15A",
+     "Turn signal (GEM)"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "20A",
+     "Horn"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "20A",
+     "Stand-alone decklid relay [sedan only], power sunroof"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "7.5A",
+     "Interior lamps, power mirrors"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "7.5A",
+     "A/C switch, instrument cluster"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "25A",
+     "Decklid/liftgate release"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "10A",
+     "Back-up lamps [automatic transaxle only]"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "7.5A",
+     "Radio and cluster (accessory)"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "15A",
+     "Stop lamps"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "15A",
+     "Rear wiper, sunroof (ignition)"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "20A",
+     "Fog lamps"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "7.5A",
+     "Recirculated air, air conditioning"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "7.5A",
+     "Anti-lock brake system (ABS)"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "20A",
+     "Cigar lighter / power point"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "10A",
+     "Data link connector"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "25A",
+     "Rear defroster"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "7.5A",
+     "Heated mirror, heated backlite indicator"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "7.5A",
+     "Front passenger sensing system"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "10A",
+     "Back-up lamps [manual transaxle only], speed control"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "25A",
+     "Rear power windows"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "25A",
+     "Front power windows"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "20A",
+     "Front wipers"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "7.5A",
+     "Position and side lights (right-hand side)"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "7.5A",
+     "Position and side lights (left-hand side), license plate lamps"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "7.5A",
+     "Light switch (headlamps)"
+    ],
+    [
+     "60",
+     "Fuse ATO",
+     "7.5A",
+     "Air bag module"
+    ],
+    [
+     "61",
+     "Fuse ATO",
+     "7.5A",
+     "PATS modules, instrument cluster"
+    ],
+    [
+     "62",
+     "Fuse ATO",
+     "7.5A",
+     "Radio (start)"
+    ],
+    [
+     "63",
+     "Fuse ATO",
+     "20A",
+     "Power locks (GEM)"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Rear wiper intermittent relay"
+    ],
+    [
+     "19",
+     "Relay",
+     "",
+     "Front wiper intermittent relay"
+    ],
+    [
+     "22",
+     "Relay",
+     "",
+     "Decklid/liftgate release relay"
+    ],
+    [
+     "23",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "24",
+     "Relay",
+     "",
+     "Battery saver relay"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Rear defrost/heated mirror relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-focus-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "Main power supply (to passenger compartment fuse panel)"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "30A",
+     "Engine cooling fan (secondary fuse)"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Heater blower motor"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "30A",
+     "Air pump motor [PZEV engine only]"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "50A",
+     "Engine cooling fan (primary fuse)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "40A",
+     "Main power supply (to passenger compartment fuse panel)"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "30A",
+     "Ignition switch, starter solenoid"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "20A",
+     "Engine management"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "1A",
+     "Battery voltage sense"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "30A",
+     "ABS (pumps)"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "A/C clutch solenoid"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Low beam (left-hand side)"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Low beam (right-hand side)"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Heated exhaust gas oxygen (HEGO) sensors"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Engine module (KAP)"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "20A",
+     "ABS (valves)"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "Daytime running lights (DRL)"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "30A",
+     "Subwoofer"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "64",
+     "Fuse ATO",
+     "30A",
+     "Heater blower motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Air pump motor relay [PZEV engine only]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan (high-speed)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan (medium-speed)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "High beams relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Low beams relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Engine management relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "A/C clutch solenoid relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "DRL relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "D1",
+     "Diode ATO",
+     "",
+     "PCM diode"
+    ],
+    [
+     "D2",
+     "Diode ATO",
+     "",
+     "Cooling fan diode"
+    ],
+    [
+     "D3",
+     "Diode ATO",
+     "",
+     "A/C clutch diode"
+    ]
+   ]
+  }
+ ]
+}
