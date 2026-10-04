@@ -1,0 +1,162 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "qubo",
+ "brand_db": "Fiat",
+ "model_db_name": "Qubo",
+ "model_id": 1708,
+ "generation_name": "1st generation (\"Typ 225\")",
+ "generation_code": "g1",
+ "year_start": 2009,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/fiat/qubo/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses in the Engine Electrical Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-qubo-2020-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "High beam lights"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Horns"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Available (trailer kit)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window / mirror defoggers"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "+15 reverse lights / flow meter / water-in-diesel sensor / relay coils T02, T05, T14, T17, T19"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "30A",
+     "Lighter / power outlets in the cabin / heated seats"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuses in the Passenger Compartment Electrical Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-qubo-2020-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Low beam light (passenger side)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Timed interior lighting"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel node"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Door/trunk lock actuators"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Radio node / Bluetooth unit / Blue&Me node / EOBD diagnostic socket / volumetric alarm unit / alarm siren unit"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Bidirectional windshield washer / rear window washer pump"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Front window regulator (passenger side)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Low beam light (driver side) / headlight orientation corrector"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "INT radio node / Bluetooth unit / Blue&Me node / electric exterior mirrors movement / clutch switch / brake light control (NC)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel node / stop light control (NA)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Control illumination / parking sensor unit / electric exterior mirrors control / volumetric alarm unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "INT/A relay coils SCM"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Front window regulator (driver side)"
+    ]
+   ]
+  }
+ ]
+}
