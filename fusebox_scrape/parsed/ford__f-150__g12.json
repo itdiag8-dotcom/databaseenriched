@@ -1,0 +1,720 @@
+{
+ "make_slug": "ford",
+ "model_slug": "f-150",
+ "brand_db": "Ford",
+ "model_db_name": "F-150",
+ "model_id": 1800,
+ "generation_name": "12th generation (\"P415\")",
+ "generation_code": "g12",
+ "year_start": 2009,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/ford/f-150/info/fusebox/2015/12th-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-150-2015-genid-g12-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Driver side front window"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "SYNC, display module (8 inch)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Passenger side front window"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Memory module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirror switch, memory seat module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Radio display, GPS module, electric finish panel module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Run/accessory relay"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Interior lighting, puddle lamps, backlighting, cargo lamp"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Right turn signals/stop lamps"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Left turn signals/stop lamps"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Reverse lights, high-mounted stop lamp"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Right low-beam headlamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Left low-beam headlamp"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Brake-shift interlock, keypad illumination, powertrain control module wake-up, passive anti-theft system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Audio amplifier"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Power door locks"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Datalink connector, steering wheel control module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Radio frequency module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Front parking lamps"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Brake on/off - instrument panel, engine"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Delay/accessory - moonroof, power windows, locks, automatic dimming mirror/compass, trailer tow power telescope mirrors"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Rear heated seats"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Reverse sensing system, 4x4 switch, rear video, off-road indicator (SVT Raptor), front video (SVT Raptor), camera splice module (SVT Raptor)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Hill descent switch (SVT Raptor)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Restraint control module, occupant classification system module"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Trailer brake control"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Delayed accessory - 110-volt power point, radio"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "High-beam headlamps"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Rear park lamps"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "Passenger airbag deactivation indicator, auxiliary switch (SVT Raptor)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Overdrive cancel switch"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Climate controls module"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps, exterior mirror turn signals"
+    ],
+    [
+     "48",
+     "Circuit breaker ATO",
+     "",
+     "Power windows, power sliding back window"
+    ],
+    [
+     "49",
+     "Relay",
+     "",
+     "Delayed accessory"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-150-2015-genid-g12-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Relay",
+     "",
+     "Powertrain control module relay (3.7L, 5.0L, 6.2L)"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Rear window defroster relay"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Electric fan relay (high speed)"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Trailer tow park lamp relay"
+    ],
+    [
+     "7",
+     "Relay",
+     "",
+     "Run/start relay"
+    ],
+    [
+     "8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "Trailer tow battery charger relay"
+    ],
+    [
+     "10",
+     "Relay",
+     "",
+     "Powertrain control module relay (3.5L)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power running board motors"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric fan (3.7L, 5.0L)"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "50A",
+     "Electric fan (3.5L, 6.2L max trailer tow, SVT Raptor)"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter relay power"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric fan (3.7L, 5.0L)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "Electric fan (3.5L, 6.2L max trailer tow, SVT Raptor)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "20A",
+     "High-intensity discharge headlamp - passenger side"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer brake control"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auxiliary switch 1 (SVT Raptor)"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auxiliary switch 2 (SVT Raptor)"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "4x4 module (electronic shift)"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow battery charge relay power"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "Auxiliary power point (instrument panel)"
+    ],
+    [
+     "23",
+     "Relay",
+     "",
+     "Air conditioner clutch relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "PCM keep alive power and relay coil, canister vent solenoid (3.7L, 5.0L, 6.2L)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay power"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary switch 4 (SVT Raptor)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "4x4 integrated wheel end solenoid"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner clutch relay power"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Run/start relay power"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defroster relay power, heated mirror relay power"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "40A",
+     "110-volt AC power point"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "PCM relay power (3.7L, 5.0L, 6.2L)"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "PCM relay power (3.5L)"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "20A",
+     "High-intensity discharge headlamps - driver side"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "Roll stability control / anti-lock brake system"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Trailer tow left stop/turn relay"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "Trailer tow right stop/turn relay"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "Trailer tow back-up lamps relay"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "Electric fan relay"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Front camera washer (SVT Raptor)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Run/start relay coil"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow back-up lamp relay power"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary switch 3 (SVT Raptor), trailer tow power folding mirrors"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Alternator sensor (3.5L, 3.7L, 5.0L)"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Brake on/off switch"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "60A",
+     "Roll stability control / anti-lock brake system module"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper relay power"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor relay power"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "5A",
+     "Run/start - electronic power assist steering, blower relay coil"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "5A",
+     "Run/start - powertrain control module"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "5A",
+     "Run/start - 4x4 module, back-up lamps, RSC/ABS, trailer tow battery charge relay coil, rear window defroster relay coil, front camera washer relay coil (SVT Raptor)"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "Heated mirrors"
+    ],
+    [
+     "62",
+     "Relay",
+     "",
+     "Wiper motor relay"
+    ],
+    [
+     "63",
+     "Fuse FMX/JCase",
+     "25A",
+     "Electric fan relay power"
+    ],
+    [
+     "65",
+     "Fuse FMX/JCase",
+     "20A",
+     "Auxiliary power point (instrument panel)"
+    ],
+    [
+     "66",
+     "Fuse FMX/JCase",
+     "20A",
+     "Auxiliary power point (inside center console)"
+    ],
+    [
+     "67",
+     "Fuse FMX/JCase",
+     "20A",
+     "Trailer tow park lamps relay power"
+    ],
+    [
+     "68",
+     "Fuse FMX/JCase",
+     "25A",
+     "4x4 module, 4x2 elocker module"
+    ],
+    [
+     "69",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front heated or heated/cooled seats"
+    ],
+    [
+     "71",
+     "Fuse FMX/JCase",
+     "20A",
+     "Heated rear seats"
+    ],
+    [
+     "72",
+     "Fuse FMX/JCase",
+     "20A",
+     "Auxiliary power point (rear)"
+    ],
+    [
+     "73",
+     "Fuse FMX/JCase",
+     "20A",
+     "Trailer tow stop/turn lamps relay power"
+    ],
+    [
+     "74",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat/memory module"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "15A",
+     "PCM voltage power 1 (3.7L, 5.0L, 6.2L)"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "25A",
+     "PCM voltage power 1 (3.5L)"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "20A",
+     "PCM voltage power 2: general powertrain components"
+    ],
+    [
+     "77",
+     "Fuse MINI",
+     "10A",
+     "PCM voltage power 3 (emission related powertrain components, electric fan relays coil)"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "15A",
+     "PCM voltage power 4 - ignition coils (3.5L, 3.7L, 5.0L)"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "20A",
+     "PCM voltage power 4 - ignition coils (6.2L)"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor"
+    ],
+    [
+     "85",
+     "Relay",
+     "",
+     "Electric fan relay (low speed)"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,535 @@
+{
+ "make_slug": "ford",
+ "model_slug": "f-150",
+ "brand_db": "Ford",
+ "model_db_name": "F-150",
+ "model_id": 1800,
+ "generation_name": "11th generation (\"P221\")",
+ "generation_code": "g11",
+ "year_start": 2003,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/ford/f-150/info/fusebox/2008/11th-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-150-2008-genid-g11-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "Ignition switch feed"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter, diagnostic connector power"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated seats"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat, adjustable pedals, memory module (pedals, seats)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power door locks (BSM)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow battery charge"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric trailer brakes"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "Instrument panel power point"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated backlite, heated mirror power"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wipers and washer pump"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump power"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS valves"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "4x4 motor relays"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Trailer tow right turn/stop lamps"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Instrument cluster high beam indicator, high beam headlamps, DRL disable relay"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "PCM power, IMRC (4.2L)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Shift solenoid, CMS #12 and #22, ignition coils"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Vapor management valve (VMV), A/C clutch relay, canister vent, HEGO sensors #11 and #21, CMCV, MAF sensor, VCT, heated PCV valve (4.2L), CID sensor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Trailer tow left turn/stop lamps"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Delayed accessory power for audio, power door lock switch and moon roof switch illumination"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "RH low beam headlamp"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Battery saver power for demand lamps, flex fuel"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "LH low beam headlamp"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Passenger airbag deactivation (PAD) warning lamp, cluster airbag warning lamp"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "SecuriLock transceiver (PATS), PCM IGN monitor"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "PCM 4x4 power"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "PCM 4x4 power"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Radio power, satellite radio module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Run/accessory - wipers, instrument cluster, audio for XL/STX"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Stop/turn lamps, ABS, trailer tow electric brake module, PCM (BOO signal), turn signal mirrors, CHMSL"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "5A",
+     "Power mirrors, memory seats and pedals"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "DVD battery power, power fold mirror"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "5A",
+     "Keep alive memory for PCM and climate control module"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Parklamps, body security module (BSM), instrument panel illumination"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Radio (start signal)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors, switch indicator"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay, fuel injectors, injector sense"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow back-up lamps relay, trailer tow parklamp relay"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch, 4x4 solenoid"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "15A",
+     "Cluster keep alive power"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Power rail"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Restraints (airbag module)"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "Electrochromatic mirror, heated seats, BSM, compass, reverse sensing system, power rail"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "15A",
+     "Fog lamp relay"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "Brake-shift interlock solenoid"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "5A",
+     "Overdrive cancel, cluster"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp and DRL relay coil, A/C pressure switch, redundant speed control switch, heated PCV (5.4L), ABS"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "10A",
+     "Climate control module power, flasher relay"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "5A",
+     "PCM relay coil"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "20A",
+     "Rear power point"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "25A",
+     "Subwoofer power"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "20A",
+     "Low beam headlamps, DRL"
+    ],
+    [
+     "62",
+     "Circuit breaker MAXI",
+     "",
+     "Delayed accessory power: power windows, power sliding backlite"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn relay (printed circuit board)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Battery saver relay (printed circuit board)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay (printed circuit board)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Trailer tow backup lamps relay (printed circuit board)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Trailer tow park lamps relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Hi-beam headlamps relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Accessory delay relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Starter solenoid relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Trailer tow battery charge relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Heated backlite relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Auxiliary relay box (with DRL)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-150-2008-genid-g11-1.webp",
+   "fuses": [
+    [
+     "F03",
+     "Fuse ATO",
+     "5A",
+     "Clockspring illumination"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "4x4 CCW relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "4x4 CW relay"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "Daytime running lamps (DRL) high beam disable relay"
+    ],
+    [
+     "R201",
+     "Relay",
+     "",
+     "DRL relay"
+    ],
+    [
+     "R202",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "D01",
+     "Diode ATO",
+     "",
+     "A/C clutch diode"
+    ],
+    [
+     "D02",
+     "Diode ATO",
+     "",
+     "One touch integrated start (OTIS) diode"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Auxiliary relay box (without DRL)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-150-2008-genid-g11-2.webp",
+   "fuses": [
+    [
+     "F03",
+     "Fuse ATO",
+     "5A",
+     "Clockspring illumination"
+    ],
+    [
+     "D01",
+     "Diode ATO",
+     "",
+     "A/C clutch diode"
+    ],
+    [
+     "D02",
+     "Diode ATO",
+     "",
+     "One touch integrated start (OTIS) diode"
+    ],
+    [
+     "R202",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ]
+   ]
+  }
+ ]
+}
