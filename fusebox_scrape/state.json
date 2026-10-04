@@ -322,11 +322,11 @@
   "fiat": true,
   "ford": 94,
   "geely": 14,
-  "genesis": 6
+  "genesis": 6,
+  "gmc": 23
  },
  "in_progress": null,
  "queue_next_makes": [
-  "gmc",
   "great-wall",
   "haval",
   "holden",
@@ -1010,10 +1010,11 @@
   "gmc/sonoma": "done",
   "gmc/suburban": "done",
   "gmc/terrain": "done",
-  "gmc/yukon": "done"
+  "gmc/yukon": "done",
+  "gmc/yukon-hybrid": "done_no_db_model"
  },
- "last_updated": "2026-10-04 yukon done (g5 g4 g3 g2; g1 GMT400 pre-2000 skipped)",
- "current_brand": "gmc",
+ "last_updated": "2026-10-04 GMC COMPLETE (23 slugs); next great-wall",
+ "current_brand": "great-wall",
  "audi_done_models": [
   "a1",
   "a2",
