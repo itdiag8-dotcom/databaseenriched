@@ -1,0 +1,516 @@
+{
+ "make_slug": "ford",
+ "model_slug": "explorer",
+ "brand_db": "Ford",
+ "model_db_name": "Explorer",
+ "model_id": 1795,
+ "generation_name": "4th generation (\"U251\")",
+ "generation_code": "g4",
+ "year_start": 2006,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/ford/explorer/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-2010-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Moon roof, adjustable pedals, memory seats, memory lumbar motor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Microcontroller power (SJB)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Radio, navigation amplifier"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "OBD II connector"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Moon roof, door lock switch illumination, rearview mirror with microphone"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Liftglass release motor, door unlock/lock"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Trailer stop/turn"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch power, PATS, cluster"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "2A",
+     "6R TCM/PCM (ignition run/start), fuel pump relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Front wiper RUN/ACC relay in PDB"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Radio start"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Rear wiper motor RUN/ACC, trailer battery charge relay in PDB, radio"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Heated mirror, manual climate rear defrost indicator"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Reverse lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Trailer reverse lamps"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "RCM (restraints), passenger occupancy"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Reverse park aid, IVD switch, IVD, 4x4 module, 4x4 switch, heated seat switches, compass, electrochromatic mirror, AUX climate control"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Manual climate, DEATC, brake shift"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Brake switch, bi-color stop lamps, CHMSL, all turn lamps"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Interior lamps, puddle lamps, battery saver, instrument illumination, Homelink"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Cluster, theft LED"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow park lamps"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "License plate/rear park lamp, front park lamps, manual climate"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Tri-color stop lamps"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Manual/DEATC"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MAXI",
+     "",
+     "Windows"
+    ],
+    [
+     "Relay 1",
+     "Relay",
+     "",
+     "Delay accessory relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-2010-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT 2 (SJB)"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT 3 (SJB)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT 1 (SJB)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel pump, injectors"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Third row seat (left)"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power seat (right)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Third row seat (right)"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow battery charger"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Memory seats (DSM)"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Non-memory seats"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defrost, heated mirrors"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower motor"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer electronic brakes"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auxiliary blower motor"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Running boards"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wiper motor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Rear power point"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "4x4"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "PCM keep alive power, canister vent"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Front power point/cigar lighter"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "4x4 module (4.6L engine only)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "6R transmission module (4.6L engine only)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Headlamps (right)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "25A",
+     "Rear wiper"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Power mirrors"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "30A",
+     "ABS valve"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Headlamps (left)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "AC clutch"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Console bin power point"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "30A",
+     "Driver window motor"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "5R transmission (4.0L engine only)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "PCM power"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Fan clutch, PCV valve, AC clutch relay, GCC fan"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "SDARS, DVD, SYNC"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "Redundant brake switch, EVMV, MAFS, HEGO, EVR, VCT1/VCT2/CMCV (4.6L engine only), CMS"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Coil on plug, coil tower (4.6L engine only)"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Injectors"
+    ],
+    [
+     "45B",
+     "Relay",
+     "",
+     "GCC fan relay"
+    ],
+    [
+     "49",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "50B",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "50A",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "53",
+     "Diode ATO",
+     "",
+     "One Touch Integrated Start (OTIS) (diode)"
+    ],
+    [
+     "54",
+     "Relay",
+     "",
+     "Trailer battery charger relay"
+    ],
+    [
+     "55B",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "55A",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "56B",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "56A",
+     "Relay",
+     "",
+     "Blower relay"
+    ]
+   ]
+  }
+ ]
+}

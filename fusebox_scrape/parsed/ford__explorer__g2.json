@@ -1,0 +1,438 @@
+{
+ "make_slug": "ford",
+ "model_slug": "explorer",
+ "brand_db": "Ford",
+ "model_db_name": "Explorer",
+ "model_id": 1795,
+ "generation_name": "2nd generation (\"UN105\", \"UN150\")",
+ "generation_code": "g2",
+ "year_start": 1995,
+ "year_end": 2001,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/ford/explorer/info/fusebox/2001/2nd-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-2001-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirror switch, power antenna, memory seat"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Blower motor relay, air bag diagnostic monitor"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Left stop/turn trailer tow connector"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Data link connector (DLC)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Rear blower motor (without EATC)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Right stop/turn trailer tow connector"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp, foglamp relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Brake pedal position switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Speed control/amplifier assembly, generic electronic module (GEM), shift lock actuator, blend door actuator, A/C-heater assembly, flasher, overhead console, load leveling module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Washer pump relay, rear washer pump relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Brake pedal position switch, brake pressure switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "4 wheel anti-lock brake system (4WABS) module, 4WABS main relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper motor, wiper hi-lo relay, wiper run/park relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "Cigar lighter"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "25A",
+     "Drivers unlock relay, all unlock relay, all lock relay, power seats"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "PCM power diode"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "RAP module, generic electronic module (GEM), radio"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Flasher (hazard)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power socket"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Clutch pedal position (CPP) switch, starter interrupt relay, anti-theft"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Generic electronic module (GEM), instrument cluster, Securi-Lock"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Battery saver relay, electronic shift relay, interior lamp relay, electronic shift control module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "DRL, backup lamps switch, DTR sensor, electric shift"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Generic electronic module (GEM), radio, memory seat"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "25A",
+     "Radio"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Park lamp/trailer tow relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Headlamps, daytime running lamps (DRL) module, instrument cluster"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Rear integrated control panel, CD"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "Rear blower motor (with EATC)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "EATC memory, CD, rear integrated control panel, memory seat, message center"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-2001-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "60A",
+     "I/P fuse panel fuses 1, 9, and 13"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "40A",
+     "Blower motor relay"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "50A",
+     "4 wheel anti-lock brake system (4WABS) module"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "30A",
+     "Power moon roof, accessory relay delay"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "50A",
+     "Ignition switch, starter relay"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "20A",
+     "Transfer case relay"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "20A",
+     "Air suspension"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "40A",
+     "Air suspension"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "30A",
+     "PCM power relay"
+    ],
+    [
+     "D1",
+     "Diode MINI",
+     "",
+     "DRL diode"
+    ],
+    [
+     "D3",
+     "Diode MINI",
+     "",
+     "Electronic engine controls diode"
+    ],
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "30A",
+     "Heated seats"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "30A",
+     "Heated backlight"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps and daytime running lamps"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "30A",
+     "4 wheel anti-lock system (4WABS) module"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper motor"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay and RAP module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Parklamps relay and mainlight switch"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "30A",
+     "Mainlight switch and multifunction switch"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Heated oxygen sensor, EGR vacuum regulator, EVR solenoid, camshaft position (CMP) sensor, canister vent solenoid"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "30A",
+     "Generator/voltage regulator"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Wiper park relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Wiper high/low relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "PCM power relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Rear wipe down relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Rear wipe up relay"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,609 @@
+{
+ "make_slug": "ford",
+ "model_slug": "explorer",
+ "brand_db": "Ford",
+ "model_db_name": "Explorer",
+ "model_id": 1795,
+ "generation_name": "3rd generation (\"U152\")",
+ "generation_code": "g3",
+ "year_start": 2001,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/ford/explorer/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-2005-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Memory seat module, driver power seat, driver power lumbar"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Radio, amplifier DVD"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Front wiper module"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Flasher relay (turn, hazards)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Key-in-chime"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Heated mirrors"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Heated PCV (4.0L engine only)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Heated backlight relay coil, A/C clutch contact"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "4x4 (switch)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Overdrive cancel switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "PATS"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Rear wiper module, cluster"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Power mirror, manual climate control, TPMS"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Delayed accessory relay coil, battery saver coil and contact, reading and glove box lamps"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Flexible fuel pump"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Restraint control module (RCM)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Memory driver seat switch, driver seat module, body security module (BSM), PATS LED"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, compass, flasher coil"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "ABS, IVD controller"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter, OBD II, neutral tow"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Mode-temperature actuator for auxiliary climate control, trailer tow battery charge relay coil, TPMS"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Reverse park aid, brake shift interlock, IVD switch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "Automatic dimming mirror, digital transmission range sensor, backup lamps"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Radio (start)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Digital transmission range sensor, power feed to fuse 28 (start feed)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "Daytime running lamps (DRL), DEATC climate controller, manual climate control, manual climate temp blend actuator"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-2005-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "PJB #1"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "BSM"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defrost"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system (ABS) pump"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "60A",
+     "Delayed accessory, power windows, audio"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point #2"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "4x4 shift motor"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point #1"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS module (valves)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "50A",
+     "Ignition relay, starter relay"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer tow battery charge, trailer tow turn signals"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lamps (DRL) (Canada)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Memory PCM/DEATC/cluster, courtesy lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Park lamps, autolamp parklamps, front foglamps relay coil"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Two-speed 4x4 (relay coils)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "PCM with two-speed 4x4 clutch"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "20A",
+     "High beam relay"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer electric brake module"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wiper motor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "Low beam, autolamp"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch, PCM diode"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Brake on-off"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow park lamps, trailer tow back-up"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "29",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "PJB #2"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear wiper motor"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auxiliary blower motor"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power seat, adjustable pedals (non-memory)"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "AC clutch relay, transmission"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "HEGO, VMV, CMS, ESM, CVS"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "Injectors, fuel pump relay coil"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "PCM power"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Coil on plug (4.6L engine only), ignition coil (4.0L engine only)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Front foglamps"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "2A",
+     "Brake pressure switch (non-AdvanceTrac vehicles)"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "20A",
+     "High beams"
+    ],
+    [
+     "CB 1",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows circuit breaker"
+    ],
+    [
+     "Diode 1",
+     "Diode MINI",
+     "",
+     "PCM diode"
+    ],
+    [
+     "Diode 2",
+     "Diode MINI",
+     "",
+     "A/C clutch diode"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front foglamps relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "DRL relay (Canada)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Trailer tow right turn relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Trailer tow left turn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "High beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse panel (Top side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-2005-genid-g3-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Relay",
+     "",
+     "Flasher"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Rear defrost"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Delayed accessory"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Battery saver"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-2005-genid-g3-3.webp",
+   "fuses": [
+    [
+     "R4",
+     "Relay",
+     "",
+     "Trailer tow back-up lamps"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Trailer tow battery charge"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Trailer tow park lamps"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Auxiliary relay box (vehicles equipped with 4x4)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-2005-genid-g3-4.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Two-speed 4x4 motor clockwise"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Two-speed 4x4 motor counterclockwise"
+    ]
+   ]
+  }
+ ]
+}
