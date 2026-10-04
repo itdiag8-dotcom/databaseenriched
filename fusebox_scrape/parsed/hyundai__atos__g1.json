@@ -1,0 +1,360 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "atos",
+ "brand_db": "Hyundai",
+ "model_db_name": "Atos",
+ "model_id": 2177,
+ "generation_name": "Atos / Atos Prime (MX)",
+ "generation_code": "g1",
+ "year_start": 1997,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/hyundai/atos/info/fusebox/2012",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-atos-2012-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Horn"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Power window"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "30A",
+     "Power window"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "ABS"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Left headlamp [w/o rear fog]"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Left headlamp, DRL control [with rear fog]"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Right headlamp, DRL control"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Blower, rear window defogger"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Wiper, washer"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Power door lock, door warning control"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Hazard lamp, data link connector"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Stop lamp, shift & key lock control"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Stop lamp, shift & key lock control"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "Rear window defogger"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Digital clock, audio, room lamp, cluster, rear fog lamp, luggage room lamp"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Digital clock, audio, A/T interlock control"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Seat warmer, cigarette lighter"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Backup lamp, generator, TCM, vehicle speed sensor, turn signal lamp, ATM shift lever, check connector"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "ABS, cluster, seat belt timer, EBD, A/T interlock control"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Instrument cluster (airbag indicator)"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "A/C & blower control"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "ECM, ignition coil"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "EBD relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "ABS relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-atos-2012-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Headlamps (DRL)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Left tail lamps"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Right tail lamps"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Engine control"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "ECU B+"
+    ],
+    [
+     "8",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "Battery power source"
+    ],
+    [
+     "9",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Headlamp"
+    ],
+    [
+     "10",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "ABS control"
+    ],
+    [
+     "10",
+     "Fuse FLF/PAL 293",
+     "20A",
+     "ABS control"
+    ],
+    [
+     "11",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Radiator fan control"
+    ],
+    [
+     "11",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Passenger airbag disable"
+    ],
+    [
+     "12",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Power window control"
+    ],
+    [
+     "12",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Satellite radio"
+    ],
+    [
+     "13",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "Ignition power source"
+    ],
+    [
+     "14",
+     "Fuse FLF/PAL 293",
+     "20A",
+     "Blower control"
+    ],
+    [
+     "15",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "ABS control"
+    ],
+    [
+     "16",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Generator (alternator)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Tail lamp 1 relay (DRL)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Tail lamp 2 relay (DRL)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ]
+   ]
+  }
+ ]
+}
