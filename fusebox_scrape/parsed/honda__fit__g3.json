@@ -1,0 +1,414 @@
+{
+ "make_slug": "honda",
+ "model_slug": "fit",
+ "brand_db": "Honda",
+ "model_db_name": "Fit",
+ "model_id": 2137,
+ "generation_name": "Fit (GK, GK3-GK6, GP5, GP6)",
+ "generation_code": "g3",
+ "year_start": 2013,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/honda/fit/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box A",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-fit-2021-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Headlights low beam main"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "CDC (ride control / electronic suspension)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "Wipers"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Ignition (IGP)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Engine oil pressure sensor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan (main fan)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Starter system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Intelligent battery sensor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "UB ECU"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Backup lights main"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan motor (sub fan)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Smart entry auto start"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "ST MG"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Lean air flow sensor (IGP LAF)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS (protects several circuits)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low beam"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Left headlight low beam"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-fit-2021-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Smart entry"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Driver side door unlock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Passenger side door unlock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Driver door unlock"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Driver door lock"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power window"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Driver side door lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Passenger side door lock"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "STS"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Accessory socket console"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Front seat heaters"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "A/C"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Starter cut"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "ABS/VSA"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Power window"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "SRS"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Meter"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "Transmission solenoid"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "ACC key lock"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ]
+   ]
+  }
+ ]
+}
