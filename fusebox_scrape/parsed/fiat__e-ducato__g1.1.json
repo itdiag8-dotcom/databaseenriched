@@ -1,0 +1,296 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "e-ducato",
+ "brand_db": "Fiat",
+ "model_db_name": "E-Ducato",
+ "model_id": null,
+ "generation_name": "1st generation 1st facelift (\"X290\")",
+ "generation_code": "g1.1",
+ "year_start": 2024,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2026,
+ "source_url": "https://www.startmycar.com/fiat/e-ducato/info/fusebox/2026",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-e-ducato-2026-genid-g1.1-0.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse MAXI",
+     "50A",
+     "EPB, electric parking brake"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "60A",
+     "Transmission high-speed cooling fan (+12V battery)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "60A",
+     "Transmission low-speed cooling fan (+12V battery)"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "Passenger compartment fan (+key)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Rear power socket (+12V battery)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Power socket (+12V battery)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter (+12V battery)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Climate control compressor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Windscreen wiper"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Auxiliary control panel for mirror movement and folding (+key)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Mirror defrosting"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Optional Wired Module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-e-ducato-2026-genid-g1.1-1.webp",
+   "fuses": [
+    [
+     "92",
+     "Fuse MINI",
+     "20A",
+     "HV passenger compartment heater"
+    ],
+    [
+     "94",
+     "Fuse MINI",
+     "30A",
+     "Headlight washers"
+    ],
+    [
+     "95",
+     "Fuse MINI",
+     "30A",
+     "EPB, electric parking brake"
+    ],
+    [
+     "96",
+     "Fuse MINI",
+     "30A",
+     "EPB, electric parking brake"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fuse Box B (Optional)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-e-ducato-2026-genid-g1.1-2.webp",
+   "fuses": [
+    [
+     "54",
+     "Fuse MINI",
+     "15A",
+     "Engine intake / ventilation fan"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "Rear passenger power socket"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "10A",
+     "Additional heater under the seat"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "15A",
+     "Left heated rear window"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "15A",
+     "Right heated rear window"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "10A",
+     "Additional passenger heater control"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "30A",
+     "Additional passenger heater fan"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger Compartment Fuse Box A",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-e-ducato-2026-genid-g1.1-3.webp",
+   "fuses": [
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Right dipped beam headlight"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Left dipped beam headlight"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel control unit relay (+key)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Passenger compartment interior ceiling lighting (+12V battery)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Minibus interior lights (emergency)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Radio, climate control, alarm, chronograph, 12V battery disconnect unit, TPMS"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Brake light control (main), instrument panel (+key)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Door lock (+12V battery)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Windscreen wiper (+key)"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "Driver's side electric window"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "Passenger side electric window"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "5A",
+     "Parking sensor unit, radio, steering wheel controls, control panels, 12V battery disconnect unit (+key), rain sensor"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "5A",
+     "Climate control, reversing lights, tachograph (+key), TOM TOM setup, Lane Departure Warning, rear camera, headlight corrector"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel (+12V battery)"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "7.5A",
+     "Left main beam headlight"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "7.5A",
+     "Right main beam headlight"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "7.5A",
+     "Left fog light"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "7.5A",
+     "Right fog light"
+    ]
+   ]
+  }
+ ]
+}
