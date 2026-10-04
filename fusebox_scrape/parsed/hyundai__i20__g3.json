@@ -1,0 +1,1389 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "i20",
+ "brand_db": "Hyundai",
+ "model_db_name": "i20",
+ "model_id": 2208,
+ "generation_name": "3rd generation (BC3/BI3)",
+ "generation_code": "g3",
+ "year_start": 2020,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/hyundai/i20/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i20-2023-genid-g3-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirror: A/C module, power outside mirrors"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "25A",
+     "Safety power window: driver safety window module"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "25A",
+     "Front seat warmer control module"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "25A",
+     "Power window RH: main switch (RHD) / passenger switch (LHD)"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "TCU2: sport mode switch, TCM, range switch, e-clutch module, clutch sensor"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "Battery management: BMS control module (MHEV)"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Module 8: DLC, hazard door lock switch"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "Memory: rain sensor, auto light sensor, A/C module, cluster, mirror folding relay"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "25A",
+     "AMP, low DC-DC converter (audio)"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "Sunroof motor"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "25A",
+     "Power window LH: main switch (LHD) / passenger switch (RHD)"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Module 2: sport mode switch, stop lamp switch"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "25A",
+     "Rear seat warmer control module"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "20A",
+     "Multimedia: audio, display audio, AVN, DC-DC converter"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "10A",
+     "Sensor4: CVVD actuator / electronic oil pump"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock: dead lock, tailgate unlock, door lock/unlock relays"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "7.5A",
+     "E-Call unit"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 3: blower motor, A/C control module"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Module 5: E-Call, shift indicator, audio/AVN, wireless charger, EC mirror, seat warmers, AMP, A/C, DLC, headlamp leveling"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "ABS 3: ESP control module"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "7.5A",
+     "Brake switch: IBU, stop lamp switch"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "7.5A",
+     "Start: IBU / ignition switch, ECM, range switch"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Module 4: PCA unit, IBU, camera unit, crash pad switch, BSW units, audio"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "15A",
+     "IBU 2"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "ACC 1: audio/AVN, E-Call, IBU, PCA, AMP, power outlet, USB charger, mirror switch"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Module 7: seat warmer modules, PCA unit"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "15A",
+     "Washer: multifunction switch"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module 6: IBU"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "IBU 1"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag indicator: A/C module, cluster"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 2: control module, blower/PTC relays"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper relay"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "10A",
+     "ECU 4: ECM/PCM"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "10A",
+     "MDPS 2: MDPS unit"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (Smartstream G 1.0 T-GDi)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i20-2023-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Alternator, multi fuse F2, fuses F31-F36"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCT1: TCM"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "E-Clutch1: electronic clutch module"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCT2: TCM"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU1: main relay"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG1: PDM relay box (IG1, ACC) / ignition switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "ECU3: ECM, clutch switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "ECU2: ECM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C 1 relay"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCT4: smart gear actuator"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "CVVD actuator"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG2: PDM relay box (IG2) / ignition switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT1: ICU junction block (IPS1/3/5/7/8/11)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT3: ICU junction block (F8/F14/F15/F21/F25/F29, latch relay)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "DCT3: TCM"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "E-Clutch2: electronic clutch module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Horn relays"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "AMS: battery sensor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT2: ICU junction block (IPS2/4/6/9/10)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT4: ICU junction block (power window relay, F3/F4/F5/F10/F11/F12)"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "15A",
+     "Cooling fan relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-3"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "ECU5: ECM"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECU6: ECM"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Sensor 1: fan/A-C relays, oil control valves, purge solenoid, RCV, oil pump solenoid"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Sensor 2: oxygen sensors"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger relay"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1: ESP control module"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater relay"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS 2: ESP control module"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power outlet relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Wiper 2: wiper relay, front wiper motor, IBU"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Sensor3: fuel pump relay"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "25A",
+     "Wiper 1: wiper relay, front wiper motor, ignition switch"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Battery management: BMS module"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Wiper high relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper low relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "PTC heater relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box (Smartstream G 1.0 T-GDi 48V MHEV)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i20-2023-genid-g3-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Alternator, multi fuse F2, fuses F31-F36"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCT1: TCM"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "E-Clutch1: electronic clutch module"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCT2: TCM"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU1: main relay"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG1: PDM relay box (IG1, ACC) / ignition switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Battery management: fuses F40/F43"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "ECU3: ECM, clutch switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "ECU2: ECM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C 1 relay"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCT4: smart gear actuator"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "CVVD actuator"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG2: PDM relay box (IG2) / ignition switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT1: ICU junction block (IPS1/3/5/7/8/11)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT3: ICU junction block (F8/F14/F15/F21/F25/F29, latch relay)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "DCT3: TCM"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "E-Clutch2: electronic clutch module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Horn relays"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "AMS: battery sensor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT2: ICU junction block (IPS2/4/6/9/10)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT4: ICU junction block (power window relay, F3/F4/F5/F10/F11/F12)"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "15A",
+     "Cooling fan relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-3"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "ECU5: ECM"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECU6: ECM"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Sensor 1: fan/A-C relays, oil control valves, purge solenoid, RCV, oil pump solenoid"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Sensor 2: oxygen sensors"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger relay"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1: ESP control module"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater relay"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS 2: ESP control module"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power outlet relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Wiper 2: wiper relay, front wiper motor, IBU"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Sensor3: fuel pump relay"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "25A",
+     "Wiper 1: wiper relay, front wiper motor, ignition switch"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "MHSG: mild hybrid starter and generator motor"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Battery cooling fan: BMS cooling fan"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Wiper high relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper low relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "PTC heater relay"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Battery management: BMS module"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment fuse box (Smartstream G 1.2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i20-2023-genid-g3-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Alternator, multi fuse F2, fuses F31-F36"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU1: main relay"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG1: PDM relay box (IG1, ACC) / ignition switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "ECU3: ECM, clutch switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "ECU2: ECM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C 1 relay"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG2: PDM relay box (IG2) / ignition switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT1: ICU junction block (IPS1/3/5/7/8/11)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT3: ICU junction block (F8/F14/F15/F21/F25/F29, latch relay)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Horn relays"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "AMS: battery sensor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT2: ICU junction block (IPS2/4/6/9/10)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT4: ICU junction block (power window relay, F3-F5, F10-F12)"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan high/low relays"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-4"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "ECU5: ECM"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECU6: ECM"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Sensor 1: A-C/fan relays, oil control valves, purge solenoid"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Sensor 2: oxygen sensors"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger relay"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1: ESP control module"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater relay"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS 2: ESP control module"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power outlet relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Wiper 2: wiper relay, front wiper motor, IBU"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Injector1: fuel pump relay, injectors #1-1 to #4-1"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Injector2: injectors #1-2 to #4-2"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "25A",
+     "Wiper 1: wiper relay, front wiper motor, ignition switch"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Wiper high relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper low relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "PTC heater relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine compartment fuse box (Gasoline 1.4)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i20-2023-genid-g3-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Alternator, multi fuse F2, fuses F31-F36"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU1: main relay"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG1: PDM relay box (IG1, ACC) / ignition switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "TCU1: PCM, clutch switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "ECU2: ECM/PCM"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "EOP: electronic oil pump"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG2: PDM relay box (IG2) / ignition switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT1: ICU junction block (IPS1/3/5/7/8/11)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT3: ICU junction block (F8/F14/F15/F21/F25/F29, latch relay)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Horn relays"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "AMS: battery sensor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT2: ICU junction block (IPS2/4/6/9/10)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT4: ICU junction block (power window relay, F3-F5, F10-F12)"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan high/low relays"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-4, condenser"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "ECU5: ECM/PCM"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECU6: ECM/PCM"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Sensor 1: fan relays, oil control valves, purge solenoid, variable intake solenoid"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Sensor 2: oxygen sensors"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger relay"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1: ESP control module"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater relay"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS 2: ESP control module"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power outlet relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Wiper 2: wiper relay, front wiper motor, IBU"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Injector: fuel pump relay, injectors #1-4"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "25A",
+     "Wiper 1: wiper relay, front wiper motor, ignition switch"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Wiper high relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper low relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "PTC heater relay"
+    ]
+   ]
+  }
+ ]
+}
