@@ -1,0 +1,372 @@
+{
+ "make_slug": "holden",
+ "model_slug": "barina-spark",
+ "brand_db": "Holden",
+ "model_db_name": "Barina Spark",
+ "model_id": 2059,
+ "generation_name": "MJ (M300)",
+ "generation_code": "g1",
+ "year_start": 2010,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/holden/barina-spark/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-barina-spark-2013-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Mirror / outside rear view mirror"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Headlamp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Electric outside rear view mirror"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Door lock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Front wiper"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Reverse lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Turn signals"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Rear demister"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Rear lamps"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Blower"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Theft deterrent / data link connector"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Radio / remote keyless entry"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Engine control module (ECM) / theft deterrent"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Front power windows"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Power socket"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Stop lamps"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Starter"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Radio / clock / remote keyless entry"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-barina-spark-2013-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Park relay"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Fan low relay"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fan high"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Fan high relay"
+    ],
+    [
+     "7",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 2"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Park LH"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Park RH"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Front fog"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Fan low"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS 1"
+    ],
+    [
+     "14",
+     "Relay",
+     "",
+     "Front fog relay"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low LH"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low RH"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition 2 / starter"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition 1 / accessory"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Hazard lamps"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "27",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "29",
+     "Relay",
+     "",
+     "Engine main relay"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Ignition"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "EMIS 1"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "EMIS 2"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "50A",
+     "Instrument panel battery"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "25A",
+     "Front window"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Front window relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "Evap relay"
+    ]
+   ]
+  }
+ ]
+}
