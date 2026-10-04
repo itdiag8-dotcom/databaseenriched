@@ -1,0 +1,474 @@
+{
+ "make_slug": "geely",
+ "model_slug": "gx3",
+ "brand_db": "Geely",
+ "model_db_name": "GX3",
+ "model_id": null,
+ "generation_name": "G1 (Vision V3)",
+ "generation_code": "g1",
+ "year_start": 2019,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/geely/gx3/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-gx3-2023-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Vacuum pump"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "EMS & TCU B+"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "TCU"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Valve & sensor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Lambda sensor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "EMS"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Injector"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "ST signal"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Mirror heater"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "EMS & TCU"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "ABS"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Blower & defog"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "Front wiper"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Window FR & RR"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "25A",
+     "Rear defog"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "Window FL & RL"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front blower"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Low fan"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "60A",
+     "IP BOX ALT+"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "40A",
+     "High fan"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Start"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "25A",
+     "ABS pump"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "60A",
+     "IP BOX B+"
+    ],
+    [
+     "48",
+     "Fuse MIDI",
+     "125A",
+     "Alternator"
+    ],
+    [
+     "49",
+     "Fuse MIDI",
+     "80A",
+     "EPS"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "High fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Low wiper relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "High wiper relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear defog relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "TCU relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Vacuum pump relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Front blower relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Low fan relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Horn relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-gx3-2023-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "DRL & position & high-mounted stop lamp"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rear fog & backup lamp"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Central lock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Turn lamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "PEPS B+ 1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "PEPS B+ 2"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "OBD & brake switch B+"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch B+ / T-Box"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Logo & trunk lamp B+"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Memory fuse"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "A/C & sunroof"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Washer motor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "GPS / BCM ACC+"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Power outlet rear"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Power outlet front"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "EPS & SAS IG1"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "ACU IG1"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "IPK & BCM"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "UEC IG1+"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Brake switch & alternator"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Parking & A/C & recorder B+"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "25A",
+     "IG2"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "IG1 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "ACC relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "IG2 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ]
+   ]
+  }
+ ]
+}
