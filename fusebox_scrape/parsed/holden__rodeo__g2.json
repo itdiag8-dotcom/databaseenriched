@@ -1,0 +1,222 @@
+{
+ "make_slug": "holden",
+ "model_slug": "rodeo",
+ "brand_db": "Holden",
+ "model_db_name": "Rodeo",
+ "model_id": 2093,
+ "generation_name": "2nd generation (TF, R7, R9)",
+ "generation_code": "g2",
+ "year_start": 1988,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2002,
+ "source_url": "https://www.startmycar.com/holden/rodeo/info/fusebox/2002",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-rodeo-2002-genid-g2-0.webp",
+   "fuses": [
+    [
+     "CB-25",
+     "Diode MINI",
+     "",
+     "Diode"
+    ],
+    [
+     "CB-26",
+     "Diode MINI",
+     "",
+     "Diode"
+    ],
+    [
+     "CB-1",
+     "Fuse MINI",
+     "10A",
+     "Engine-2"
+    ],
+    [
+     "CB-17",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "CB-21",
+     "Fuse MINI",
+     "10A",
+     "SRS 1"
+    ],
+    [
+     "CB-2",
+     "Fuse MINI",
+     "15A",
+     "Engine-1"
+    ],
+    [
+     "CB-10",
+     "Fuse MINI",
+     "15A",
+     "Backup / turn signals"
+    ],
+    [
+     "CB-14",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "CB-18",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "CB-22",
+     "Fuse MINI",
+     "10A",
+     "SRS 2"
+    ],
+    [
+     "CB-7",
+     "Fuse MINI",
+     "20A",
+     "Front wiper"
+    ],
+    [
+     "CB-15",
+     "Fuse MINI",
+     "10A",
+     "Dome light"
+    ],
+    [
+     "CB-23",
+     "Fuse MINI",
+     "20A",
+     "Power windows"
+    ],
+    [
+     "CB-4",
+     "Fuse MINI",
+     "10A",
+     "Starter"
+    ],
+    [
+     "CB-8",
+     "Fuse MINI",
+     "15A",
+     "Meter"
+    ],
+    [
+     "CB-16",
+     "Fuse MINI",
+     "15A",
+     "Rear defogger"
+    ],
+    [
+     "CB-20",
+     "Fuse MINI",
+     "20A",
+     "Power windows"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-rodeo-2002-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "ECM backup"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Transmission control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Tail lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Right headlight"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Left headlight"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor heater"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "A/C blower motor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Diode"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}
