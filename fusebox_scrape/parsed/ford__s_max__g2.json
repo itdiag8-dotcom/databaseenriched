@@ -1,0 +1,637 @@
+{
+ "make_slug": "ford",
+ "model_slug": "s-max",
+ "brand_db": "Ford",
+ "model_db_name": "S-MAX",
+ "model_id": 1927,
+ "generation_name": "2nd generation (CD539)",
+ "generation_code": "g2",
+ "year_start": 2015,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/ford/s-max/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Main Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-s-max-2019-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "25A",
+     "Windshield wiper motor"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Rear window wiper, rain sensor"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power outlet 3 - rear of console"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Auxiliary heater relay 2"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Powertrain control module, vehicle power 1"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "Powertrain control module, vehicle power 2"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power outlet 1 - front driver side area"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "15A",
+     "Powertrain control module, vehicle power 4"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "15A",
+     "Powertrain control module, vehicle power 3"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "Run/start relay"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power outlet 2 - console"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power outlet 4 - trunk"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Electronic power steering run/start"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Run/start lighting"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "Run/start transmission control, transmission oil pump start/stop"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch solenoid"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "15A",
+     "Run/start: blind spot information system, rear view camera, adaptive cruise control, head-up display, voltage stability module"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "Run/start 7"
+    ],
+    [
+     "25",
+     "Fuse MICRO3",
+     "10A",
+     "Run/start anti-lock braking system"
+    ],
+    [
+     "26",
+     "Fuse MICRO3",
+     "10A",
+     "Run/start powertrain control module"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Rear windshield washer pump"
+    ],
+    [
+     "32",
+     "Relay",
+     "",
+     "Electric fan relay 1"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "Air conditioning clutch relay"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "15A",
+     "Electric steering lock"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "Electric fan relay 2"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "Electric fan relays 2 and 3"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "Headlight washer relay"
+    ],
+    [
+     "41",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "5A",
+     "Heated washer nozzle"
+    ],
+    [
+     "46",
+     "Fuse MICRO3",
+     "10A",
+     "Alternator sensor"
+    ],
+    [
+     "47",
+     "Fuse MICRO3",
+     "10A",
+     "Brake enable/disable switch"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "20A",
+     "Diesel fuel heater"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "10A",
+     "Power transfer unit fan"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "10A",
+     "Power seats"
+    ],
+    [
+     "54",
+     "Fuse MICRO3",
+     "5A",
+     "Fuel-operated heater"
+    ],
+    [
+     "55",
+     "Fuse MICRO3",
+     "5A",
+     "Fuel-operated heater"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Main Fuse Box: Bottom Section",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-s-max-2019-genid-g2-1.webp",
+   "fuses": [
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "20A",
+     "Headlamp washer"
+    ],
+    [
+     "57",
+     "Fuse FMM/MCase",
+     "20A",
+     "Diesel vaporizer"
+    ],
+    [
+     "58",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump supply"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric fan 600W 3"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric fan 600W 1"
+    ],
+    [
+     "61",
+     "Fuse FMM/MCase",
+     "40A",
+     "Left windshield defrost"
+    ],
+    [
+     "62",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module 1"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "25A",
+     "Electric fan 600W 2"
+    ],
+    [
+     "64",
+     "Fuse FMM/MCase",
+     "30A",
+     "Auxiliary heater 3"
+    ],
+    [
+     "65",
+     "Fuse FMM/MCase",
+     "20A",
+     "Heated front seats"
+    ],
+    [
+     "66",
+     "Fuse FMM/MCase",
+     "40A",
+     "Right windshield defrost"
+    ],
+    [
+     "67",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module 2"
+    ],
+    [
+     "68",
+     "Fuse FMM/MCase",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "69",
+     "Fuse FMM/MCase",
+     "30A",
+     "Anti-lock braking system valves"
+    ],
+    [
+     "70",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger seat"
+    ],
+    [
+     "71",
+     "Fuse FMX/JCase",
+     "60A",
+     "Auxiliary heater 2"
+    ],
+    [
+     "72",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power rear seats"
+    ],
+    [
+     "73",
+     "Fuse FMM/MCase",
+     "20A",
+     "Heated rear seats"
+    ],
+    [
+     "74",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver seat module"
+    ],
+    [
+     "75",
+     "Fuse FMM/MCase",
+     "30A",
+     "Auxiliary heater 1"
+    ],
+    [
+     "76",
+     "Fuse FMM/MCase",
+     "20A",
+     "Transmission oil pump"
+    ],
+    [
+     "77",
+     "Fuse FMM/MCase",
+     "30A",
+     "Climate seat module"
+    ],
+    [
+     "78",
+     "Fuse FMM/MCase",
+     "40A",
+     "Trailer hitch module"
+    ],
+    [
+     "79",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "80",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power tailgate module"
+    ],
+    [
+     "81",
+     "Fuse FMM/MCase",
+     "40A",
+     "220V inverter"
+    ],
+    [
+     "82",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock braking system pump"
+    ],
+    [
+     "83",
+     "Fuse FMM/MCase",
+     "25A",
+     "Wiper motor 1"
+    ],
+    [
+     "84",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor solenoid"
+    ],
+    [
+     "85",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel-fired heater"
+    ],
+    [
+     "87",
+     "Fuse FMX/JCase",
+     "50A",
+     "Auxiliary blower motor"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-s-max-2019-genid-g2-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "7.5A",
+     "Memory seats, lumbar support, power mirrors"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Unlock driver door"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "5A",
+     "Spare electronic trailer brake enable/disable switch"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition switch, push button start switch"
+    ],
+    [
+     "6",
+     "Fuse MICRO3",
+     "10A",
+     "Heated seat coil relay"
+    ],
+    [
+     "10",
+     "Fuse MICRO3",
+     "5A",
+     "Keypad, power liftgate module"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Steering wheel lock, instrument cluster, data link logic"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "10A",
+     "Data link gateway module"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "Child lock, trunk release"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "5A",
+     "Ignition, push button start/stop switch"
+    ],
+    [
+     "19",
+     "Fuse MICRO3",
+     "7.5A",
+     "Passenger airbag deactivation indicator, transmission gear indicator"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "Vehicle temperature/humidity sensor, blind spot information system, rear view camera, adaptive cruise control"
+    ],
+    [
+     "22",
+     "Fuse MICRO3",
+     "5A",
+     "Occupant classification sensor"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Delayed accessory (power inverter logic, sunroof logic)"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Central locking system"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "30A",
+     "Driver door (window, mirror)"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger door (window, mirror)"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "30A",
+     "Driver side rear door (window)"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger side rear door (window)"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "GPS, display, voice control, adaptive cruise control, radio frequency receiver"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Radio"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Run/start bus"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "5A",
+     "Restraints control module"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Auto-dimming rear view mirror, heated seat, all-wheel drive"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Voltage stability module power logic"
+    ]
+   ]
+  }
+ ]
+}
