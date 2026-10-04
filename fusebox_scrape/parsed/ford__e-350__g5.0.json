@@ -1,0 +1,661 @@
+{
+ "make_slug": "ford",
+ "model_slug": "e-350",
+ "brand_db": "Ford",
+ "model_db_name": "E-350",
+ "model_id": 1778,
+ "generation_name": "5th generation pre-facelift",
+ "generation_code": "g5.0",
+ "year_start": 2009,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/ford/e-350/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-e-350-2014-genid-g5.0-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Modified vehicle and stripped chassis run/start"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid relay"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Run start relay"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Modified vehicle and stripped chassis battery"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "Auxiliary air conditioning blower"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "Trailer tow battery charge, trailer tow park feed"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric trailer brake, trailer brake controller"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auxiliary switch #1"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auxiliary switch #2"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "50A",
+     "Blower motor"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system pump"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "20A",
+     "Stripped chassis horn"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Powertrain control module relay"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "20A",
+     "Ignition switch (stripped chassis)"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system coil"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "20A",
+     "Trailer tow stop lamp/turn signal"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cutaway"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow battery charge"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point 2 (glove box)"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point 3 (left B-pillar)"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point 1 (instrument panel)"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "50A",
+     "Modified vehicle"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Stripped chassis"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter / power point"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power seat"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Back-up lamp"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Brake on/off switch"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Cluster battery (stripped chassis)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic connector (stripped chassis)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary switch #3"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary switch #4"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module keep alive power, canister vent, PCM relay coil"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Stripped chassis and modified vehicle run/start relay coil"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system run/start feed"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay coil"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow park lamp"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow backup lamp"
+    ],
+    [
+     "55",
+     "Diode MINI",
+     "",
+     "One-touch integrated start (diode)"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 1, powertrain control module power"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 2, PCM - emission related powertrain components"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "Vehicle power 3, PCM - general powertrain components"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 4, fuel pump relay coil"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "10A",
+     "Vehicle power 5, transmission"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "10A",
+     "Cluster run/start (stripped chassis)"
+    ],
+    [
+     "65",
+     "Diode MINI",
+     "",
+     "Fuel pump (diode)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Back up lamp"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower motor"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Powertrain control module"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Wiper"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Trailer tow battery charge"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Trailer tow park lamp"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Auxiliary switch #4"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Auxiliary switch #3"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Modified vehicle and stripped chassis run/start"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Auxiliary switch #2"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Auxiliary switch #1"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Run/start"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Horn relay (stripped chassis)"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Trailer tow stop - left turn signal"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Trailer tow stop - right turn signal"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-e-350-2014-genid-g5.0-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Inverter B+"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Passenger compartment fuse panel, brake-shift interlock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Turn signal, hazard, stop lamps"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Courtesy lamps"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Switch illumination"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Mirrors"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "SYNC, global positioning system module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Door locks"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic connector (except stripped chassis)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Park lamps, license plate lamps"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "High beams"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Horn (except stripped chassis)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Demand lighting"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Cluster (except stripped chassis)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch feed"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Audio mute (start)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Cluster (except stripped chassis)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Restraints module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Trailer brake controller"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Reverse park aid, rear video camera, cutaway run/start"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Passive anti-theft system radio frequency module"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Climate control, stripped chassis instrument panel #1 run/start"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Radio, navigation"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Radio, switch illumination, reverse camera mirror, automatic dimming rear view mirror, inverter"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary switch"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Stripped chassis instrument panel connector #1"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Trailer tow battery charge relay"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "5A",
+     "Wipers, stripped chassis engine connector 3"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "7.5A",
+     "Passenger airbag deactivation indicator"
+    ],
+    [
+     "CB",
+     "Circuit breaker MAXI",
+     "",
+     "Windows accessory delay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Delayed accessory"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Auxiliary Switches (if equipped)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-e-350-2014-genid-g5.0-2.webp",
+   "fuses": [
+    [
+     "AUX 1",
+     "Other",
+     "",
+     "CAC05"
+    ],
+    [
+     "AUX 2",
+     "Other",
+     "",
+     "CAC06"
+    ],
+    [
+     "AUX 3",
+     "Other",
+     "",
+     "CAC07"
+    ],
+    [
+     "AUX 4",
+     "Other",
+     "",
+     "CAC08"
+    ]
+   ]
+  }
+ ]
+}

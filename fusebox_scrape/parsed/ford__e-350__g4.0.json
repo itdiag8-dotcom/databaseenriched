@@ -1,0 +1,462 @@
+{
+ "make_slug": "ford",
+ "model_slug": "e-350",
+ "brand_db": "Ford",
+ "model_db_name": "E-350",
+ "model_id": 1778,
+ "generation_name": "4th generation pre-facelift",
+ "generation_code": "g4.0",
+ "year_start": 1999,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/ford/e-350/info/fusebox/2003/4th-gen-pre-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-e-350-2003-genid-g4.0-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "4WABS module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Brake warning lamp, instrument cluster, warning chime, 4WABS relay, warning indicators, low vacuum warning switch [Diesel only]"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Main light switch, RKE module, radio, instrument illumination, VCP and video screens, overhead console"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Power locks w/RKE, illuminated entry, warning chime, modified vehicle, main light switch, courtesy lamps"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "RKE module, power lock switches, memory lock, power locks with RKE"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Brake shift interlock, speed control, DRL module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Multi-function switch, turn signals"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Radio capacitor(s), ignition coil, PCM diode, PCM power relay, fuel heater [Diesel only], glow plug relay [Diesel only]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Wiper control module, windshield wiper motor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Main light switch, park lamps, license lamp, multi-function switch (flash-to-pass)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Brake pressure switch, multi-function switch (hazards), brake lamp switch, brake lamps"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Transmission range (TR) sensor, backup lamps, auxiliary battery relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Blend door actuator, A/C heater, function selector switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster (air bag and charge indicator)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Trailer battery charge relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Power seats"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Air bag diagnostic monitor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Overdrive cancel switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Memory power radio, rear seat control unit, video screen"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, data link connector (DLC)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (low beam)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Radio"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Power plug"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Headlamps (high beam indicator), DRL"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (low beam), DRL"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Power mirrors"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Power point #2"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Transmission range (TR) sensor"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "30A",
+     "RKE module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Cluster, A/C, illumination, radio, steering column assembly"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Rear power point"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Air bag diagnostic monitor"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Power point #1"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "30A",
+     "Modified vehicle"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "30A",
+     "Modified vehicle"
+    ],
+    [
+     "43",
+     "Circuit breaker ATO",
+     "",
+     "Power windows"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-e-350-2003-genid-g4.0-1.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module (PCM) keep alive memory, instrument cluster, voltmeter"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Right trailer turn signal"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Left trailer turn signal"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Clearance lamps"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "60A",
+     "I/P fuses 4, 5, 10, 11, 16, 22, 23, 28, 32, 38"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "30A",
+     "PCM power relay, engine compartment fuse 4"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "60A",
+     "Auxiliary battery relay, engine compartment fuses 14, 22"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "30A",
+     "IDM relay [Diesel only]"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "60A",
+     "Engine compartment fuses 25, 27"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "50A",
+     "Blower motor relay (blower motor)"
+    ],
+    [
+     "14",
+     "Fuse MAXI",
+     "30A",
+     "Trailer running lamps relay, trailer backup lamps relay"
+    ],
+    [
+     "15",
+     "Fuse MAXI",
+     "40A",
+     "Main light switch, daytime running lights (DRL)"
+    ],
+    [
+     "16",
+     "Fuse MAXI",
+     "50A",
+     "Auxiliary blower motor relay"
+    ],
+    [
+     "17",
+     "Fuse MAXI",
+     "30A",
+     "Fuel pump relay"
+    ],
+    [
+     "18",
+     "Fuse MAXI",
+     "60A",
+     "I/P fuses 33, 37, 39, 40, 41"
+    ],
+    [
+     "19",
+     "Fuse MAXI",
+     "60A",
+     "4WABS module"
+    ],
+    [
+     "20",
+     "Fuse MAXI",
+     "20A",
+     "Electric brake controller"
+    ],
+    [
+     "21",
+     "Fuse MAXI",
+     "50A",
+     "Modified vehicle power"
+    ],
+    [
+     "22",
+     "Fuse MAXI",
+     "40A",
+     "Trailer battery charge relay, modified vehicles"
+    ],
+    [
+     "23",
+     "Fuse MAXI",
+     "60A",
+     "Ignition switch, fuse panel"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Natural gas tank valves (NGV only)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "NGV module (NGV only)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch (4.2L only)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "DRL module, horn relay"
+    ],
+    [
+     "28",
+     "Diode ATO",
+     "",
+     "PCM diode"
+    ],
+    [
+     "A",
+     "Relay",
+     "",
+     "Marker lamps relay"
+    ],
+    [
+     "B",
+     "Relay",
+     "",
+     "Stop lamp relay"
+    ],
+    [
+     "C",
+     "Relay",
+     "",
+     "Trailer backup lamps relay"
+    ],
+    [
+     "D",
+     "Relay",
+     "",
+     "Trailer running lamps relay"
+    ],
+    [
+     "E",
+     "Relay",
+     "",
+     "Trailer battery charge relay"
+    ],
+    [
+     "F",
+     "Relay",
+     "",
+     "IDM relay [Diesel only], A/C clutch relay (4.2L only)"
+    ],
+    [
+     "G",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "H",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "J",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "K",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}
