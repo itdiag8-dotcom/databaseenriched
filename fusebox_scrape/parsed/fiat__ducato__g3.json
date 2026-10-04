@@ -1,0 +1,496 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "ducato",
+ "brand_db": "Fiat",
+ "model_db_name": "Ducato",
+ "model_id": 1685,
+ "generation_name": "3rd generation (\"X250\", \"X290\")",
+ "generation_code": "g3",
+ "year_start": 2006,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/fiat/ducato/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Dashboard Fusebox",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-ducato-2023-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Internal light relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Park sensor unit, automatic transmission unit and lever, electric window panel, front camera, DRVM, tachograph, wireless charger, panels, headlight corrector, TPMS (+key)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel, front radar, central control panel (+key)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Aftermarket radio, steering wheel controls, battery disconnector unit, tow hook, rain sensor, current stabiliser (S&S), ELS, auxiliary panel, blind spot detection, self-levelling suspension (+key)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Battery monitoring sensor for Start&Stop versions (+battery)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Minibus interior lights (emergency)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Radio, climate control, alarm, tachograph, battery disconnecting unit, current stabiliser for radio setup (S&S), TBM (+battery)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Door lock (+battery)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Driver's side electric window"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Passenger side electric window"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Windscreen wiper (+key)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel (+battery)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-ducato-2023-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "ABS pump power supply"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "50A",
+     "ECU for diesel engine preheating"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "30A",
+     "Ignition switch contact - starter"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "20A",
+     "Heating of diesel fuel"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "50A",
+     "Interior ventilation with additional programmable heating (+battery)"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "60A",
+     "Interior fan, max speed (+battery)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "60A",
+     "Interior fan, min speed (+battery)"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "Interior fan (+key)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Rear 12V socket (+battery)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Sound signal"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Front 12V socket (+battery)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter (+battery)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Engine processor (+battery)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Windscreen / headlight washer pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump power supply circuit"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "ABS solenoid valves"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Additional control panel - folding outside rearview mirrors (+key)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Heated exterior mirrors"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-ducato-2023-genid-g3-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "ABS pump supply"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "50A",
+     "Diesel pre-heating unit"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "30A",
+     "Ignition switch - starter"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "Diesel heater"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "20A",
+     "Passenger compartment ventilation with programmable additional heating (+battery)"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "50A",
+     "Passenger compartment ventilation with programmable additional heating (+battery)"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "40A",
+     "Maximum speed passenger compartment cooling fan unit (+battery)"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "60A",
+     "Maximum speed passenger compartment cooling fan unit (+battery)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "40A",
+     "Minimum speed passenger compartment cooling fan unit (+battery)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "50A",
+     "Minimum speed passenger compartment cooling fan unit (+battery)"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "60A",
+     "Minimum speed passenger compartment cooling fan unit (+battery)"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "Passenger compartment cooling fan unit (+key)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Rear 12V socket (+battery)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Front 12V socket (+battery)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter (+battery)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Screenwash/headlamp wash pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump supply"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "ABS solenoid valves"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Auxiliary control panel - door mirror control and folding (+key)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Door mirror defrosting"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Wired Module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-ducato-2023-genid-g3-3.webp",
+   "fuses": [
+    [
+     "93",
+     "Fuse MINI",
+     "7.5A",
+     "Self-levelling suspension"
+    ],
+    [
+     "94",
+     "Fuse MINI",
+     "25A",
+     "220V inverter"
+    ],
+    [
+     "95",
+     "Fuse MINI",
+     "15A",
+     "SCR UREA (urea control module)"
+    ],
+    [
+     "96",
+     "Fuse MINI",
+     "20A",
+     "SCR UREA (urea sensor)"
+    ],
+    [
+     "97",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission control unit"
+    ],
+    [
+     "98",
+     "Fuse MINI",
+     "5A",
+     "Automatic transmission lever"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Optional Wired Module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-ducato-2023-genid-g3-4.webp",
+   "fuses": [
+    [
+     "91",
+     "Fuse MINI",
+     "30A",
+     "Webasto control unit"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "20A",
+     "Passenger compartment fan with Webasto"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "20A",
+     "Trailer hook socket"
+    ],
+    [
+     "95",
+     "Fuse MINI",
+     "15A",
+     "Trailer control unit"
+    ],
+    [
+     "96",
+     "Fuse MINI",
+     "15A",
+     "Trailer control unit"
+    ],
+    [
+     "97",
+     "Fuse MINI",
+     "20A",
+     "Trailer hook socket"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Right Central Pillar Optional Fusebox",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-ducato-2023-genid-g3-5.webp",
+   "fuses": [
+    [
+     "54",
+     "Fuse MINI",
+     "15A",
+     "Engine intake / ventilation fan (MBUS)"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "Rear passenger power socket"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "10A",
+     "Additional heater under the seat"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "15A",
+     "Left heated rear window"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "15A",
+     "Right heated rear window"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "10A",
+     "Additional passenger heater control"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "30A",
+     "Additional passenger heater fan"
+    ]
+   ]
+  }
+ ]
+}

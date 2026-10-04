@@ -1,0 +1,415 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "ducato",
+ "brand_db": "Fiat",
+ "model_db_name": "Ducato",
+ "model_id": 1685,
+ "generation_name": "2nd generation 1st facelift (\"Type 230\", \"Type 244\")",
+ "generation_code": "g2.1",
+ "year_start": 2002,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/fiat/ducato/info/fusebox/2006/2nd-gen-1st-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-ducato-2006-genid-g2.1-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "60A",
+     "CFB protection"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "50A",
+     "Glow plug preheating"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "50A",
+     "ABS control unit"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "30A",
+     "Cab fan (climate control)"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan low-speed resistor / engine cooling fan / engine control unit (2.0 with climate control)"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "40A",
+     "Engine cooling fan 1st speed, engine control unit 1st speed"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "40A",
+     "Engine cooling fan 2nd speed, engine control unit 2nd speed, radiator fan 2nd speed remote switch coil (climate control)"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "60A",
+     "Engine cooling fan 2nd speed, engine control unit 2nd speed, radiator fan 2nd speed remote switch coil"
+    ],
+    [
+     "F08",
+     "Fuse MAXI",
+     "30A",
+     "Windscreen wiper motor - windscreen washer pump"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn, steering column stalk control"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Electronic injection secondary services - engine control unit"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Right dipped beam headlight"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Left dipped beam headlight"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic injection system - Fiat CODE"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "5A",
+     "Electronic injection primary services - engine control unit"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Fiat CODE - engine control unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "PTC"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Electronic injection primary services"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Automatic gearbox control unit"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Automatic gearbox control unit"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Main beam headlights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver's Side Dashboard Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-ducato-2006-genid-g2.1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Headlight washer pump"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "Rear fog lights"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "5A",
+     "Front right side light - rear right side light"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "5A",
+     "Front left side light - rear left side light"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "5A",
+     "Control lights, side/taillight warning light, number plate lights"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "30A",
+     "Cab fan (Webasto system / climate control), Webasto control unit, cab heater fan"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Front current socket"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Windscreen washer pump"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel, hazard lights, direction indicators"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "EOBD diagnostic socket - cab lights"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "PCC - instrument panel"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "7.5A",
+     "Brake lights"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm, remote control, chronotachograph, phone, cruise control, power mirrors"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag control unit"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "7.5A",
+     "ABS control unit"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "7.5A",
+     "Door power window control - ABI"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "7.5A",
+     "Radio"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "PCA (Ambulance - Minibus versions)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger's Side Dashboard Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-ducato-2006-genid-g2.1-2.webp",
+   "fuses": [
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Chronotachograph, phone, alarm, remote control"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "ABI for door lock"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Right heated rear window"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Door mirror defrosting device"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "Driver's seat warmer"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "ABI for left power window"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "ABI for right power window"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "15A",
+     "Left heated rear window"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "30A",
+     "Additional climate control"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "15A",
+     "Additional heater fan"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "5A",
+     "Webasto timer"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "15A",
+     "Food box power"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "10A",
+     "Alarm blinker"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "20A",
+     "Webasto unit"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "30A",
+     "Rotating lights (Ambulance versions)"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "20A",
+     "Rear current socket, siren (Ambulance), suction fan (Minibus)"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "Current socket for special set-up"
+    ]
+   ]
+  }
+ ]
+}
