@@ -1,0 +1,854 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "equus",
+ "brand_db": "Hyundai",
+ "model_db_name": "Equus",
+ "model_id": 2193,
+ "generation_name": "2nd generation (VI)",
+ "generation_code": "g2",
+ "year_start": 2011,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/hyundai/equus/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument fuse panel (driver's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-equus-2015-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "25A",
+     "PDM B+: smart key control module"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Hazard: center facia switch"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "EPB switch, crash pad switch"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "RF receiver, security indicator"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "PDM IG1: smart key control module"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "Shift lever IG1: electric ATM shift lever, indicator"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag indicator: instrument cluster"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Smart key: start/stop button switch"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Power handle: steering tilt & telescopic module"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "Memory: trunk lid module, relax module, door modules, door/mood lamps, cluster, IMS, BCM, clock, LCD switch, A/C module, DLC"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "TPMS module"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "Active head rest sensor module"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Cluster, head-up display"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "Stop lamp switch, smart key module"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "Shift lever B+: electric shift lever, sport mode switch"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "15A",
+     "Multimedia: AVN, monitors, split unit, MTS, DIS/console/audio switches"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "BCM"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "30A",
+     "IG1: E/R junction box (backup lamp, ESC, EHPS, AFLS, injector, cruise, ECU, TCU fuses)"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Module 1: head-up display, rain sensor, rear power seat switch RH"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel filler door switch, front console switch"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "Folding mirror: door modules"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "15A",
+     "Airbag: SRS module, pre-safe seat belts"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "10A",
+     "Module 4: FAM, multifunction switch, door modules"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "15A",
+     "ECS control module"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "Audio IG1: AVN head unit, MTS module"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "AFLS: headlamps, adaptive front lighting module, leveling device"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "15A",
+     "Driver power door latch, power seat switch, door/mood lamps, smart key handle"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "15A",
+     "Rear LH seat heater: CCS + seat warmer modules"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "10A",
+     "Module 2: trunk lid module, EC mirror, EPB switch, console switch"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "A/C: A/C module, AQS sensor, IMS, relax module, CCS/seat warmer modules, alternator resistor"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Rear LH power door latch, window curtain, smart key handle"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "10A",
+     "Module 3: ECS, console/crash pad switches, BSD radars, TPMS, stop lamp switch, tilt module, LDWS camera, EPB, parking sensors"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "10A",
+     "IAP: active accelerator pedal module"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "10A",
+     "Driver door lock: driver door module"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "15A",
+     "Driver seat heater: CCS + seat warmer modules"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "15A",
+     "Passenger door lock: passenger door module"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "30A",
+     "Power trunk lid control module"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seat: relax module"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "30A",
+     "Safety window RH: power window modules RH"
+    ],
+    [
+     "52",
+     "Fuse FMM/MCase",
+     "30A",
+     "Safety window LH: power window modules LH"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument fuse panel (passenger's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-equus-2015-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "USB charge: USB jack (6:4 seat)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "30A",
+     "IG2: wiper/washer fuses"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "A/C: blower relay, A/C module, ionizer, in-car sensor, LCD switch"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Module: smart junction box LH, around view unit, camera module"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "Rear power seat relay box LH, lumbar support module LH"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "E-shifter: USB jack, electric ATM shift lever"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "PDM ACC: smart key module, BCM"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Sunroof motor"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "PDM IG2: smart key module, BCM"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Rear power outlets, accessory socket"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Room lamp: power outlet relay, front room lamp"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Rear RH power door latch, window curtain, smart key handle"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Audio: AVN, clock, split unit, monitors, AMP, MTS, DIS switch, cameras, around view, audio/console switches"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Rear power seat relay box RH, lumbar support module RH"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Passenger seat heater: CCS + seat warmer modules"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Heated steering wheel: clock spring"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Cool box, rear console switch, lumbar module RH"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Passenger power door latch, power seat switch, smart key handle"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Rear RH seat heater: CCS + seat warmer modules"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse panel (driver's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-equus-2015-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "ESC 1: ESC module, check connector"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "ESC 2: ESC module, check connector"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "PDM (IG1) relay"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "PDM (IG2) relay"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat: IMS module, lumbar support valve"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp: stop signal electronic module"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Backup lamp relay"
+    ],
+    [
+     "F9",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "I/P power LH: smart junction box LH, leak current autocut device"
+    ],
+    [
+     "F10",
+     "Fuse MIDI",
+     "200A",
+     "Alternator, E/R fuse box (I/P power RH, EHPS, cooling fan, PDM ACC, ECS, trunk, AMP, headlamp washer, vacuum pump, power outlet fuses)"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "40A",
+     "ECS relay"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "30A",
+     "AMP"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "30A",
+     "PDM (ACC) relay"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Headlamp washer relay"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Vacuum pump relay"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "25A",
+     "Front power outlet relay"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Trunk relay"
+    ],
+    [
+     "F20",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "I/P power RH: I/P junction box RH"
+    ],
+    [
+     "F21",
+     "Fuse FLF/PAL 293",
+     "70A",
+     "Cooling fan relay"
+    ],
+    [
+     "F22",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "EHPS module"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Backup lamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Trunk relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front power outlet relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "ECS relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "PDM (ACC) relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "P/N relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Headlamp washer relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "PDM (IG1) relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "PDM (IG2) relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Vacuum pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment fuse panel (passenger's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-equus-2015-genid-g2-3.webp",
+   "fuses": [
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Passenger pre-safe seat belt"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear heated relay"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Driver pre-safe seat belt"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "A/C control module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "EPB 1: electric parking brake module"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "EPB 2: electric parking brake module"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Cruise B+: headlamp relay, smart cruise control module"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Deicer relay"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Wiper IG2: electronic control wiper module"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Washer relay"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "TCU: TCM, transmission range switch, park position sensor"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "AFLS: headlamps"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "EHPS module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "ESC module, check connector"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "ECU IG1: ECM, alternator [G8BE]"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU relay"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils, condensers"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Injector B+: injector drive box"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Sensor 1: ECM, oxygen sensors #1-4"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Sensor 2: ECM, intake/purge solenoids, oil control valves, cooling fan relay"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Sensor 3: ECM, fuel pump relay, camshaft position sensors"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Headlamp RH"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Headlamp LH"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Injector IG1: injector drive box"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Cruise IG1: smart cruise control module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Backup lamp: alternator, vacuum pump/backup/P-N relays, steering angle sensor, brake vacuum switch"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "ECU B+: ECM/TCM, injector drive box"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Room lamp relay"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "F39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper B+: electronic control wiper module"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "40A",
+     "FAM 2 (B+)"
+    ],
+    [
+     "F41",
+     "Fuse FMX/JCase",
+     "40A",
+     "FAM 1 (B+)"
+    ],
+    [
+     "F42",
+     "Fuse FMX/JCase",
+     "30A",
+     "Start relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear heated relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Deicer relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Washer relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "ECU relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Room lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}
