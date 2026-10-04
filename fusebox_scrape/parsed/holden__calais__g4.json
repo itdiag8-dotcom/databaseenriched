@@ -1,0 +1,734 @@
+{
+ "make_slug": "holden",
+ "model_slug": "calais",
+ "brand_db": "Holden",
+ "model_db_name": "Calais",
+ "model_id": 2064,
+ "generation_name": "4th generation (VE, VF)",
+ "generation_code": "g4",
+ "year_start": 2009,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/holden/calais/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Cabin Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-calais-2013-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "SIR (SRS)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rear end release (sedan)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Rear end release (wagon)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Door locks"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Inadvertent power / LED dim"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Courtesy lights / RH front turn signal"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Turn signal right, side and rear"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "EDI"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "EDI"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Turn signals left"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "BCM logic"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Stop lamps / park assist"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Console lighting"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "2A",
+     "Ignition switch / theft"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Rear lighter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Front auxiliary power outlet"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "2A",
+     "Outside mirror / RPA option"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Phone / key lock / ISRVM / rain sensor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Front lighter / front APO"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel illumination"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "2A",
+     "RAP control power window"
+    ],
+    [
+     "29",
+     "Circuit breaker ATO",
+     "",
+     "Power windows battery"
+    ],
+    [
+     "30",
+     "Circuit breaker ATO",
+     "",
+     "Power windows RAP"
+    ],
+    [
+     "31",
+     "Circuit breaker ATO",
+     "",
+     "Power seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "RAP retained accessory power relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "All door lock relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Passenger door unlock relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear end release relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Driver's door unlock relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Accessory power relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-calais-2013-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Comm enable"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "HVAC battery"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Back-up lamp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Fog lamp"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "ABS valves"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Headlamp wash"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "TCM"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Left low beam"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "VCM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Right low beam"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Theft horn"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Front wash"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Reverse lock / fuel sensor"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "RTD"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECM 1 (V8) / ignition (V6)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "EV coil / injectors"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Emissions 2"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Emissions 1"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "OD coil / injectors"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "HVAC ignition"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Ignition / misc"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Ignition engine"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Right park"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Left park"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "20A",
+     "Brake booster"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defog"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 3"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 1"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 2"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower"
+    ],
+    [
+     "53",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine cooling fan 1"
+    ],
+    [
+     "55",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine cooling fan 2"
+    ],
+    [
+     "63",
+     "Relay",
+     "",
+     "Comm enable"
+    ],
+    [
+     "64",
+     "Relay",
+     "",
+     "A/C clutch compressor"
+    ],
+    [
+     "65",
+     "Relay",
+     "",
+     "Back-up lamp"
+    ],
+    [
+     "66",
+     "Relay",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "67",
+     "Relay",
+     "",
+     "Headlamp low beam"
+    ],
+    [
+     "68",
+     "Relay",
+     "",
+     "Headlamp wash"
+    ],
+    [
+     "69",
+     "Relay",
+     "",
+     "Rear defog"
+    ],
+    [
+     "70",
+     "Relay",
+     "",
+     "Wiper high"
+    ],
+    [
+     "71",
+     "Relay",
+     "",
+     "Wiper low"
+    ],
+    [
+     "72",
+     "Relay",
+     "",
+     "Headlamp high beam"
+    ],
+    [
+     "73",
+     "Relay",
+     "",
+     "Crank"
+    ],
+    [
+     "74",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "75",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "76",
+     "Relay",
+     "",
+     "Front wash"
+    ],
+    [
+     "77",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "78",
+     "Relay",
+     "",
+     "Engine cooling fan 1"
+    ],
+    [
+     "79",
+     "Relay",
+     "",
+     "Park lamp"
+    ],
+    [
+     "80",
+     "Relay",
+     "",
+     "Engine cooling fan 2"
+    ],
+    [
+     "81",
+     "Relay",
+     "",
+     "Engine cooling fan 3"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "LPG fuse/relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-calais-2013-genid-g4-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Vaporiser heater 1"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Vaporiser heater 2"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Vaporiser heater 3"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Vaporiser heater 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Vaporiser heater 2"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Vaporiser heater 3"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-calais-2013-genid-g4-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Rear seat entertainment"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Navigation / telematics / dealer options"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Radio and infotainment"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "25A",
+     "Radio and infotainment"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Instruments/display/RFA/DLC (2012)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory power outlet"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Trailer"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Liftgate module logic"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Fuel shut-off solenoid"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "ECM battery"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "RVC sensor (2012)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Battery (2012)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "RVC sensor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Fuel system control module"
+    ]
+   ]
+  }
+ ]
+}
