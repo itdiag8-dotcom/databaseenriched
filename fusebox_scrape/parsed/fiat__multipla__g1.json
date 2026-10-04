@@ -1,0 +1,308 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "multipla",
+ "brand_db": "Fiat",
+ "model_db_name": "Multipla",
+ "model_id": 1697,
+ "generation_name": "1st generation (\"Type 186\")",
+ "generation_code": "g1",
+ "year_start": 1999,
+ "year_end": 2006,
+ "trim_label": "JTD",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/fiat/multipla/info/fusebox/2006/trims-jtd",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-multipla-2006-genid-g1-trims-jtd-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "7.5A",
+     "Fiat code"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Webasto heater (auxiliary heater)"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "7.5A",
+     "Main relay"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "ABS"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "25A",
+     "Diesel filter heater"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer pump"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "7.5A",
+     "+15 CCM and Fiat code control unit"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-multipla-2006-genid-g1-trims-jtd-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Right high beam light"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Left high beam light, high beam indicator"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "Rear fog light, fog light indicator, position lights power supply"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Left low beam light"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "30A",
+     "Vehicle interior fan"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Right license plate light, front right position light, cigarette lighter light, position lights indicator, radio lighting, rear left position light"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Left license plate light, front left position light, rear right position light, heating system lighting"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Right low beam light, brake fluid level indicator, headlight alignment regulator, headlight washer relay coil"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Cigarette lighter, air conditioning compressor"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "Headlight washer, windshield wiper, rear window wiper"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "Horn"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Instrument panel, ceiling lights, Fiat EOBD tester, radio, connect-nav, navigator, clock, sunroof, Webasto auxiliary heater, anti-theft control unit"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Reverse light, turn signals and indicators, brake lights, third brake light, hazard lights indicator, mobile phone, radio, connect-nav, navigator, anti-theft control unit"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Hazard lights power supply, anti-theft LED, anti-theft control unit"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window, electric mirror defrosting"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "7.5A",
+     "Electric mirror movement, air recirculation, relay coils (cigarette lighter, windshield wiper, electric seat, heater, heated rear window, 12V socket)"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "Front electric windows"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "25A",
+     "Console 12V power socket, trunk 12V power socket"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "25A",
+     "Fridge predisposition, seat adjustment"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "7.5A",
+     "Electric mirror defrosting"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "7.5A",
+     "Airbag circuit"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "7.5A",
+     "ASR activation button"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "ABI control unit (electric windows / front door locking)"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "7.5A",
+     "Radiotelephone predisposition, radio, sunroof relay coil, navigator, remote control receiver, taximeter, airbag, GSM box, ABI control unit"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "7.5A",
+     "+30 taximeter"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "25A",
+     "+30 sunroof"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "25A",
+     "Rear electric windows"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Bulkhead Maxifuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-multipla-2006-genid-g1-trims-jtd-2.webp",
+   "fuses": [
+    [
+     "41",
+     "Fuse MAXI",
+     "40A",
+     "Engine cooling fan (with heater)"
+    ],
+    [
+     "41",
+     "Fuse MAXI",
+     "50A",
+     "Engine cooling fan (with climate control)"
+    ],
+    [
+     "42",
+     "Fuse MAXI",
+     "60A",
+     "Glow plugs"
+    ],
+    [
+     "43",
+     "Fuse MAXI",
+     "60A",
+     "ABS"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Battery Maxifuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-multipla-2006-genid-g1-trims-jtd-3.webp",
+   "fuses": [
+    [
+     "44",
+     "Fuse MAXI",
+     "30A",
+     "Ignition switch (EFI)"
+    ],
+    [
+     "45",
+     "Fuse MAXI",
+     "30A",
+     "Electronic fuel injection (IGN)"
+    ],
+    [
+     "46",
+     "Fuse MAXI",
+     "60A",
+     "Secondary control unit protection"
+    ],
+    [
+     "47",
+     "Fuse MAXI",
+     "80A",
+     "Passenger compartment control unit protection"
+    ],
+    [
+     "48",
+     "Fuse MAXI",
+     "7.5A",
+     "Radio taxi"
+    ]
+   ]
+  }
+ ]
+}
