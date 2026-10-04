@@ -1,0 +1,547 @@
+{
+ "make_slug": "ford",
+ "model_slug": "f-550",
+ "brand_db": "Ford",
+ "model_db_name": "F-550",
+ "model_id": 1813,
+ "generation_name": "1st generation (\"P131\")",
+ "generation_code": "g1",
+ "year_start": 1998,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/ford/f-550/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-550-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Adjustable pedals"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Cluster"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Upfitter #3"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Power point (instrument panel)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Upfitter #4"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "High beam headlamps, flash-to-pass"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Back-up lamps"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Radio (main)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, OBD II"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Power mirrors"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Exterior lamps"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Flasher, brake on-off (BOO) lamps"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Body security module (BSM) (security)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow electric brake controller (EBC)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Engine control"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Engine control [gasoline only] / climate control [Diesel only]"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Tow haul, blower relay, electronic automatic temperature control (EATC)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Airbags"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch RUN feed"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Trailer tow EBC logic"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Customer access"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "High beam headlamps"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Starter relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Radio (start)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Cluster, 4x4, wipers"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "BOO switch (low current)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow park lamps"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "Heated mirrors"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "Delayed accessory"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Fog lamps"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch RUN/START feed"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Left-hand low beam headlamp"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Right-hand low beam headlamp"
+    ],
+    [
+     "101",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow EBC"
+    ],
+    [
+     "102",
+     "Fuse FMX/JCase",
+     "30A",
+     "BSM (door locks)"
+    ],
+    [
+     "103",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "107",
+     "Fuse FMX/JCase",
+     "20A",
+     "Trailer tow battery charge"
+    ],
+    [
+     "108",
+     "Fuse FMX/JCase",
+     "30A",
+     "Upfitter #1"
+    ],
+    [
+     "109",
+     "Fuse FMX/JCase",
+     "30A",
+     "Upfitter #2"
+    ],
+    [
+     "110",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "112",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power seat (driver)"
+    ],
+    [
+     "113",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "114",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power seat (passenger)"
+    ],
+    [
+     "115",
+     "Fuse FMX/JCase",
+     "20A",
+     "Upfitter control"
+    ],
+    [
+     "116",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "601",
+     "Circuit breaker MAXI",
+     "",
+     "Delayed accessory, power windows, moonroof"
+    ],
+    [
+     "211",
+     "Relay",
+     "",
+     "Back-up lamps"
+    ],
+    [
+     "301",
+     "Relay",
+     "",
+     "Trailer tow battery charge"
+    ],
+    [
+     "302",
+     "Relay",
+     "",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "305",
+     "Relay",
+     "",
+     "Upfitter control"
+    ],
+    [
+     "306",
+     "Relay",
+     "",
+     "Delayed accessory"
+    ],
+    [
+     "307",
+     "Relay",
+     "",
+     "Starter"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-550-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wipers"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electronic shift on the fly (ESOF)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "Injector driver module (IDM) [Diesel only]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow turn signals"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "PCM keep alive power, canister vent solenoid [gasoline only]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system (ABS)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "2A",
+     "Brake pressure switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps (DRL)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "IDM logic [Diesel only]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "IDM relay [Diesel only]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Trailer tow back-up lamps"
+    ],
+    [
+     "22",
+     "Fuse MAXI",
+     "60A",
+     "ABS (coils)"
+    ],
+    [
+     "23",
+     "Fuse MAXI",
+     "60A",
+     "ABS (pump)"
+    ],
+    [
+     "201",
+     "Relay",
+     "",
+     "Trailer tow right turn signal/stop lamp"
+    ],
+    [
+     "202",
+     "Relay",
+     "",
+     "Trailer tow left turn signal/stop lamp"
+    ],
+    [
+     "203",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "205",
+     "Relay",
+     "",
+     "DRL #1"
+    ],
+    [
+     "206",
+     "Relay",
+     "",
+     "DRL #2"
+    ],
+    [
+     "301",
+     "Relay",
+     "",
+     "DRL #3"
+    ],
+    [
+     "303",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "304",
+     "Relay",
+     "",
+     "IDM [Diesel only]"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Upfitter controls (if equipped)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-f-550-2006-genid-g1-2.webp",
+   "fuses": [
+    [
+     "AUX 1",
+     "Relay",
+     "",
+     "AUX 1"
+    ],
+    [
+     "AUX 2",
+     "Relay",
+     "",
+     "AUX 2"
+    ],
+    [
+     "AUX 3",
+     "Relay",
+     "",
+     "AUX 3"
+    ],
+    [
+     "AUX 4",
+     "Relay",
+     "",
+     "AUX 4"
+    ],
+    [
+     "FUSE",
+     "Fuse MINI",
+     "5A",
+     "Upfitter fuse"
+    ]
+   ]
+  }
+ ]
+}
