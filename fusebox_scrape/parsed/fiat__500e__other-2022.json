@@ -1,0 +1,162 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "500e",
+ "brand_db": "Fiat",
+ "model_db_name": "500e",
+ "model_id": 1665,
+ "generation_name": "500e",
+ "generation_code": "other-2022",
+ "year_start": 2022,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/fiat/500e/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-500e-2022-0.webp",
+   "fuses": [
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Climate control power supply, Smart Audio, USB data port, Uconnect screen, electric parking brake control, EOBD socket"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Trunk unlocking"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "20A",
+     "Front power window (driver's side)"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Front power window (passenger's side)"
+    ],
+    [
+     "F94",
+     "Fuse MINI",
+     "15A",
+     "12V socket"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-500e-2022-1.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse MINI",
+     "10A",
+     "Driver's side electric lock"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side electric lock"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Audio system amplifier"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Electric sunroof operation"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "12V power outlet in the trunk"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "7.5A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "F89",
+     "Fuse FMX/JCase",
+     "20A",
+     "Heated rear window"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "20A",
+     "Heated windshield"
+    ],
+    [
+     "T02",
+     "Relay",
+     "",
+     "Heated seats"
+    ],
+    [
+     "T03",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "T06",
+     "Relay",
+     "",
+     "Heated seats"
+    ],
+    [
+     "T17",
+     "Relay",
+     "",
+     "Defrosting exterior mirrors / rear heated window"
+    ],
+    [
+     "T90",
+     "Relay",
+     "",
+     "Heated windshield"
+    ],
+    [
+     "T14",
+     "Relay",
+     "",
+     "12V power outlet in the trunk"
+    ]
+   ]
+  }
+ ]
+}

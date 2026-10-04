@@ -1,0 +1,156 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "500",
+ "brand_db": "Fiat",
+ "model_db_name": "500",
+ "model_id": 1659,
+ "generation_name": "3rd generation (\"Type 312\", \"FF\")",
+ "generation_code": "g3",
+ "year_start": 2007,
+ "year_end": 2022,
+ "trim_label": "EU",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/fiat/500/info/fusebox/2022/eu",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Dashboard Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-500-2022-country-eu-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "Headlight alignment corrector"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic socket, car radio, climate control, EOBD"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "5A",
+     "Brake light switch, instrument panel node"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "Central door locking"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "15A",
+     "Windshield/rear window washer pump"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "20A",
+     "Driver side window"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Passenger side window"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "5A",
+     "Parking sensor, control backlighting, electric mirrors"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "7.5A",
+     "Climate control, brake lights, clutch, electric sunroof, rearview mirrors"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel node"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-500-2022-country-eu-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "High beam headlights"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Acoustic warnings"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Electric sunroof motor"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Headlight washers"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Dualogic gearbox control unit"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "Power supply (+key) Dualogic gearbox control unit"
+    ],
+    [
+     "F24",
+     "Fuse MAXI",
+     "20A",
+     "HI-FI"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "30A",
+     "Climate control fan"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "20A",
+     "Front power outlet (with or without lighter)"
+    ]
+   ]
+  }
+ ]
+}
