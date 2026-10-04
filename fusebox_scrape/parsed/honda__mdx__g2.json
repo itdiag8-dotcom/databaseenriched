@@ -1,0 +1,549 @@
+{
+ "make_slug": "honda",
+ "model_slug": "mdx",
+ "brand_db": "Honda",
+ "model_db_name": "MDX",
+ "model_id": 2151,
+ "generation_name": "2nd generation (YD2)",
+ "generation_code": "g2",
+ "year_start": 2006,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/honda/mdx/info/fusebox/2009",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Primary under-hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-mdx-2009-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Main fuse"
+    ],
+    [
+     "2-3",
+     "Other",
+     "",
+     "Rear blower motor"
+    ],
+    [
+     "2-4",
+     "Other",
+     "",
+     "ABS/VSA"
+    ],
+    [
+     "2-5",
+     "Other",
+     "",
+     "Trailer main"
+    ],
+    [
+     "2-6",
+     "Other",
+     "",
+     "Power seats, driver's position memory system, subwoofer"
+    ],
+    [
+     "2-7",
+     "Other",
+     "",
+     "Front heated seats, TPMS, moonroof, driver's lumbar support"
+    ],
+    [
+     "3-1",
+     "Other",
+     "",
+     "Fog lights, front blower motor"
+    ],
+    [
+     "3-2",
+     "Other",
+     "",
+     "Headlights, daytime running lights"
+    ],
+    [
+     "3-3",
+     "Other",
+     "",
+     "Cooling fan, condenser fan, MG clutch, headlight washer [Canadian model]"
+    ],
+    [
+     "3-4",
+     "Other",
+     "",
+     "Ignition switch main"
+    ],
+    [
+     "3-5",
+     "Other",
+     "",
+     "Power windows"
+    ],
+    [
+     "3-6",
+     "Other",
+     "",
+     "SH-AWD, power tailgate, rear accessory socket, cargo area light, rear defroster"
+    ],
+    [
+     "3-7",
+     "Other",
+     "",
+     "ECU (PCM)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Audio, door lock, interior lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Active damper control unit"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Audio amplifier"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Rear entertainment system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Hazard"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Horn, stop lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "ABS/VSA"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Trailer (brake)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "A/C inverter"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Secondary under-hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-mdx-2009-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Left daytime running light"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Right daytime running light"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "7.5A",
+     "Small lights (exterior)"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "30A",
+     "Headlight low beam main"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cooling fan timer"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "15A",
+     "IGP"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "15A",
+     "DBW"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "AFHT"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower motor"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "20A",
+     "Fog lights"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlight washer [Canadian model]"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Condenser fan"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "7.5A",
+     "MG clutch"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "15A",
+     "Left headlight low beam"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "15A",
+     "Right headlight low beam"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "7.5A",
+     "Small lights (interior)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-mdx-2009-genid-g2-2.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Rear accessory socket"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Power tailgate [if equipped]"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Cargo area light"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "SH-AWD"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power tailgate"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-mdx-2009-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "TPMS"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Driver's lumbar support motor"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Moonroof"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Moonroof"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Front heated seats"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Interior light, moonroof"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Accessory socket"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Subwoofer"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power recline"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Driver's power slide"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Telescopic steering wheel"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Driver's power recline"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power slide"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "SH-AWD, active damper control unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Gauges"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Left rear power window"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Right rear power window"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "30A",
+     "Passenger's power window"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "Driver's power window"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Tilt steering wheel"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "ABS/VSA"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "A/C"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Headlight auto leveling, rear wiper, windshield/rear washer"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "ACC"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Interior fuse box - Auxiliary",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-mdx-2009-genid-g2-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Starter DIAG"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "STS"
+    ]
+   ]
+  }
+ ]
+}
