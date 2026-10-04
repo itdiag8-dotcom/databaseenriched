@@ -1,0 +1,624 @@
+{
+ "make_slug": "honda",
+ "model_slug": "cr-v",
+ "brand_db": "Honda",
+ "model_db_name": "CR-V",
+ "model_id": 2126,
+ "generation_name": "6th generation (RS3, RS4)",
+ "generation_code": "g6",
+ "year_start": 2023,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/honda/cr-v/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-cr-v-2024-genid-g6-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Main vehicle power fuse"
+    ],
+    [
+     "2-1",
+     "Other",
+     "",
+     "Ignition switch power supply No.2"
+    ],
+    [
+     "2-3",
+     "Other",
+     "",
+     "Fuse box optional power supply No.1"
+    ],
+    [
+     "2-4",
+     "Other",
+     "",
+     "PTC heater circuit No.1"
+    ],
+    [
+     "2-5",
+     "Other",
+     "",
+     "Fuse box optional power supply No.2"
+    ],
+    [
+     "2-7",
+     "Other",
+     "",
+     "Main interior fuse box power supply"
+    ],
+    [
+     "3-1",
+     "Other",
+     "",
+     "Audio system amplifier"
+    ],
+    [
+     "3-2",
+     "Other",
+     "",
+     "Starter magnetic switch"
+    ],
+    [
+     "3-3",
+     "Other",
+     "",
+     "PTC heater circuit No.3"
+    ],
+    [
+     "3-4",
+     "Other",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "3-6",
+     "Other",
+     "",
+     "Heater blower motor"
+    ],
+    [
+     "3-7",
+     "Other",
+     "",
+     "Power tailgate motor"
+    ],
+    [
+     "4-1",
+     "Other",
+     "",
+     "ABS/VSA fail-safe relay"
+    ],
+    [
+     "4-2",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "4-4",
+     "Other",
+     "",
+     "Electric brake booster"
+    ],
+    [
+     "4-5",
+     "Other",
+     "",
+     "Ignition main power supply No.1"
+    ],
+    [
+     "4-7",
+     "Other",
+     "",
+     "Ignition main power supply No.2"
+    ],
+    [
+     "5-1",
+     "Other",
+     "",
+     "Ignition switch power supply No.1"
+    ],
+    [
+     "5-2",
+     "Other",
+     "",
+     "Windshield wiper motor"
+    ],
+    [
+     "5-3",
+     "Other",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "5-7",
+     "Other",
+     "",
+     "Secondary interior fuse box power supply"
+    ],
+    [
+     "6",
+     "Fuse FMM/MCase",
+     "30A",
+     "Engine cooling sub fan"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "20A",
+     "System relay module No.2"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Backup power (memory, reverse light circuit)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Front windshield wiper deicer"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Audio system sub power"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Front fog lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor magnetic clutch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Front windshield washer motor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "System relay module No.1"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Hazard warning lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Vehicle body unit"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Ignition power"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Transmission control unit"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Left lighting control module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Brake lights"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Right lighting control module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "ICM"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "PCU electric water pump"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Audio main power (VST circuit)"
+    ],
+    [
+     "37",
+     "Fuse",
+     "7.5A",
+     "Audio sub power (VST circuit)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition power supply (VBACT circuit)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition power supply for cooling fan control"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition power for air-fuel ratio sensor"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Ignition line monitoring circuit No.2"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Main Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-cr-v-2024-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power window"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Tailgate motor / trunk actuator"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "RVU"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Meter"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Option 3 (starter cut)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Option 2"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Option 6 (VB solenoid)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Driver's door unlock"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "IMG"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "YOP trailer"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "HAC OP"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "USB charger"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Cargo accessory socket"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Smart entry"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Driver's door lock"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "E-DPS"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Option 5 (ABS)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Left side door unlock"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Right side door unlock"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "USB charger PD (2026 only)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Sun shade"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Rear blower"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Right side door lock"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat slide"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat reclining"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Ethanol"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "A/C"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "5A",
+     "Daytime running lights"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Accessory"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Left side door lock"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat reclining"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Power lumbar driver/passenger"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "Power tailgate closer"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat slide"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "10A",
+     "Option 1"
+    ]
+   ]
+  }
+ ]
+}

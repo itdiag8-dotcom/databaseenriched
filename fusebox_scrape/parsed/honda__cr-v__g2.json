@@ -1,0 +1,276 @@
+{
+ "make_slug": "honda",
+ "model_slug": "cr-v",
+ "brand_db": "Honda",
+ "model_db_name": "CR-V",
+ "model_id": 2126,
+ "generation_name": "2nd generation (RD4-RD8)",
+ "generation_code": "g2",
+ "year_start": 2002,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/honda/cr-v/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-cr-v-2004-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rear accessory power socket"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights [On Canadian models]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Power window relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory, radio"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Rear wiper"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Meter"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights [On Canadian models]"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Remote control mirrors"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "LAF heater"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Heated seat"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Front accessory power socket"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Turn signal lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Front wiper"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Front right power window"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Front left power window"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Under-hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-cr-v-2004-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "AC condenser fan"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Small lights"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Interior lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Electric cooling fan"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Hazard light"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "FI ECU"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Horn; stop lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS motor"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear defroster"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "AC blower motor"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power windows"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Option"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Left headlight"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Right headlight"
+    ],
+    [
+     "18",
+     "Fuse FLD/PAL 283",
+     "30A",
+     "ABS fail-safe"
+    ],
+    [
+     "19",
+     "Fuse FLD/PAL 283",
+     "100A",
+     "Battery and charging system"
+    ],
+    [
+     "20",
+     "Fuse FLD/PAL 283",
+     "50A",
+     "Ignition 1"
+    ]
+   ]
+  }
+ ]
+}
