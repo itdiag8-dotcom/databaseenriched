@@ -1,0 +1,505 @@
+{
+ "make_slug": "holden",
+ "model_slug": "epica",
+ "brand_db": "Holden",
+ "model_db_name": "Epica",
+ "model_id": 2081,
+ "generation_name": "1st generation (V250)",
+ "generation_code": "g1",
+ "year_start": 2007,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/holden/epica/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-epica-2010-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "30A",
+     "A/C blower motor"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "60A",
+     "Body control module"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition (IGN 1)"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Passenger power window"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan high speed relay (petrol)"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan high speed relay (diesel)"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cooling fan low speed relay (petrol)"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan low speed relay (diesel)"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch, starter relay (ST/IG2)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "ABS warning"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "ABS"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Headlights high beam"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Driver power window"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Power control mirror"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Right headlight, parking and rear side lights"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Light control module"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "25A",
+     "Dashboard fuse box"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Stop lights"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Left headlight, parking/tail lights, license plate lighting"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "30A",
+     "Power seats"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Engine control system (ENG2)"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "20A",
+     "Engine control system (ENG3)"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Engine control system (ENG1)"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Low beam left"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Audio amplifier"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Low beam right"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan control relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan high speed relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front fog lights relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan low speed relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Engine main relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Side lamps relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Power windows relay"
+    ],
+    [
+     "ALT",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "Alternator - battery and charging system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-epica-2010-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, info display, LCM, RKE module, TCM, PNP switch"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "25A",
+     "Wiper/washer switch, wiper motor, rain sensor"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "ECU"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "HVAC - ISU, fan relay, MTC/FATC switch, mode/recirculation actuators"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Front courtesy lamp, sunroof switch, LCM, digital clock"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Audio system, navigation module"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "Heated carpet switch - driver/passenger"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Audio system"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, MTC/FATC switch, clock, info display, LCM, key switch, RKE module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "HR"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Passenger airbag / seat belt warning lamp, PPD sensor"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Light control module"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Additional socket, cigarette lighter"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer speaker"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Shift lever, PNP/reverse switches, ECM mirror, brake switch, instrument cluster"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "ECM, fuel pump module, automatic transaxle, MAF sensor"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "BCM - ISU, wiper/washer switch"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Power mirrors, MTC/FATC switch"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "SSPS module"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic link connector, trunk release switch"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "30A",
+     "Electronic stability program"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Auxiliary engine compartment fuses and relays (Diesel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-epica-2010-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Additional heater (PTC3)"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Additional heater (PTC2)"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Additional heater (PTC1)"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel filter heater"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plug control"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Additional heater relay (PTC3)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Additional heater relay (PTC2)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Additional heater relay (PTC1)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel filter heater relay"
+    ]
+   ]
+  }
+ ]
+}
