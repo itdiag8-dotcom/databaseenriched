@@ -1,0 +1,625 @@
+{
+ "make_slug": "hummer",
+ "model_slug": "h2",
+ "brand_db": "Hummer",
+ "model_db_name": "H2",
+ "model_id": 6707,
+ "generation_name": "1st generation (GMT820)",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/hummer/h2/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hummer-h2-2010-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Heated rear seat control module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Rear cargo accessory power outlets"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls backlight"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Driver door module"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Dome lamps, front passenger side turn signal, BCM"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Driver side turn signal and stop lamp, BCM"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel back lighting, BCM"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Passenger side turn signal"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Passenger door module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Power door lock 2 (unlock)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Power door lock 2 (lock)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Stop lamps, center high-mounted stop lamp, BCM"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Rear climate controls"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Body control module (BCM)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Floor console power outlets"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps, BCM"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Power door lock 1 (unlock)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Infotainment video display, remote keyless entry"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Universal home remote (garage door opener)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Power door lock 1 (lock)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Vehicle communication interface module (OnStar)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "25A",
+     "Rear window wiper motor"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Driver seat module"
+    ],
+    [
+     "LT DR_CB",
+     "Circuit breaker ATO",
+     "",
+     "Driver side power window"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Center Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hummer-h2-2010-genid-g1-1.webp",
+   "fuses": [
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Passenger side power window"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Passenger seat"
+    ],
+    [
+     "CB3",
+     "Circuit breaker ATO",
+     "",
+     "Driver seat"
+    ],
+    [
+     "CB4",
+     "Circuit breaker ATO",
+     "",
+     "Rear sliding window"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hummer-h2-2010-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan (high speed) relay"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan (low speed) relay"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter relay"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer brake module"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer connector battery power"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Left bussed electrical center"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "60A",
+     "Mid bussed electrical center 1"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Climate control blower"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Electronically controlled air suspension relay"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "60A",
+     "Vehicle stability system, antilock brake system"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "60A",
+     "Heated windshield washer system"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Four-wheel drive system"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "60A",
+     "Left bussed electrical center 2"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Airbag system"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger (SUV), midgate control module (SUT)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (high beam)"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (high beam)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lamps (DRL)"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Washer fluid pump (front)"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (low beam)"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (low beam)"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "Washer fluid pump (rear)"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "30A",
+     "Upfitter provision"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "30A",
+     "Audio amplifier"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "Upfitter provision"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, BCM"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter, auxiliary power outlet, data link connector"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "Electronically controlled air suspension"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "15A",
+     "Audio system, rear seat audio controller, digital radio receiver"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "2A",
+     "Key ignition system, theft deterrent system"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "10A",
+     "Climate controls (HVAC)"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "10A",
+     "Run, accessory, midgate module"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "15A",
+     "IAT sensor, EVAP canister purge solenoid valve"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensors"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors, ignition coils (right side)"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensors"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors, ignition coils (left side)"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "15A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module, EVAP canister vent solenoid valve"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "15A",
+     "Transmission controls (ignition)"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "10A",
+     "Airbag system"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "10A",
+     "Miscellaneous, cruise control, rear vision camera"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary climate control"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "10A",
+     "Upfitter provision, special equipment option (SEO)"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "30A",
+     "Vehicle stability system, antilock brake system"
+    ],
+    [
+     "F71",
+     "Fuse MINI",
+     "15A",
+     "Trailer park lamps"
+    ],
+    [
+     "F73",
+     "Fuse MINI",
+     "15A",
+     "Left park lamps"
+    ],
+    [
+     "F74",
+     "Fuse MINI",
+     "15A",
+     "Right park lamps"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "10A",
+     "Climate controls"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "15A",
+     "ECM, fuel system control module, electronic brake control module"
+    ],
+    [
+     "F79",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper"
+    ],
+    [
+     "F80",
+     "Fuse MINI",
+     "10A",
+     "Left trailer stop/turn lamp"
+    ],
+    [
+     "F81",
+     "Fuse MINI",
+     "10A",
+     "Right trailer stop/turn lamp"
+    ],
+    [
+     "F82",
+     "Fuse MINI",
+     "10A",
+     "Trailer backup lamps"
+    ],
+    [
+     "F83",
+     "Fuse MINI",
+     "10A",
+     "Backup lamps"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump, ECM"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan (high speed)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan (low speed)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan control"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "A/C compressor"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Powertrain control module"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Switched power"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Headlamp (low beam)"
+    ]
+   ]
+  }
+ ]
+}

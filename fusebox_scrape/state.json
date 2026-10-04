@@ -326,9 +326,11 @@
   "gmc": 23,
   "great-wall": 12,
   "haval": 4,
-  "holden": "done"
+  "holden": "done",
+  "honda": 39,
+  "hummer": 4
  },
- "in_progress": [],
+ "in_progress": "hyundai",
  "queue_next_makes": [
   "holden",
   "honda",
@@ -1104,10 +1106,14 @@
   "honda/prologue": "done",
   "honda/ridgeline": "done",
   "honda/s2000": "done",
-  "honda/stepwagon": "done"
+  "honda/stepwagon": "done",
+  "hummer/h1": "skipped_pre2000",
+  "hummer/h2": "done",
+  "hummer/h3": "done",
+  "hummer/h3t": "no_data"
  },
- "last_updated": "2026-10-04T13:03:47.664663Z",
- "current_brand": "honda",
+ "last_updated": "2026-10-04T13:05:15.128758Z",
+ "current_brand": "hyundai",
  "audi_done_models": [
   "a1",
   "a2",
