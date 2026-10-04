@@ -1,0 +1,422 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "stilo",
+ "brand_db": "Fiat",
+ "model_db_name": "Stilo",
+ "model_id": 1716,
+ "generation_name": "1st generation (\"192\")",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/fiat/stilo/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Control Unit Located in the Dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-stilo-2011-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F07",
+     "Fuse MINI",
+     "15A",
+     "Right low beam light"
+    ],
+    [
+     "F01",
+     "Fuse MINI",
+     "15A",
+     "Left low beam light"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "7.5A",
+     "Brake lights (stop lights) / 3rd stop light"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "7.5A",
+     "Right/left headlight control units [versions with Xenon lights]"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel (positive under key)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "7.5A",
+     "Reverse lights"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "7.5A",
+     "Anti-pollution sensor [dual-zone automatic climate control] / headlight washer relay coil / Body Computer / climate control fan"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Front / rear / rear ceiling lamp"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Door lights"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Headlight orientation regulator"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "7.5A",
+     "+30 Fog light indicator"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel (+30)"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Exterior electric mirror control (movement, ideogram lighting)"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "+30 Radio equipment / Connect-Navigator / climate control heating group / EOBD diagnostic socket / volumetric anti-lift sensors / alarm siren / Bluetooth control unit"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper relay coil, seat heating"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Left rear window lifter"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "20A",
+     "Right rear window lifter"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "30A",
+     "Windscreen wiper / washer / rear window washer"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "Cabin power socket (sedan) / power socket (MultiWagon) / cigarette lighter"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "7.5A",
+     "Exterior mirror defroster / heated windshield washers"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "7.5A",
+     "Cruise control switch"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "7.5A",
+     "Water presence sensor in diesel filter / mass air flow sensor [Multijet versions]"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "7.5A",
+     "Brake pedal switch signal for electronic control units"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "20A",
+     "+30 Electronic door management control unit (door lock actuators, dead lock, trunk, heated rear window) / trailer control unit"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Front window lifter, driver's side"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "20A",
+     "Front window lifter, passenger's side"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "7.5A",
+     "ABS / ASR / ESP control unit (yaw sensor with ESP)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag control unit / OCS sensor [versions with rear side airbags]"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "Laminar sunroof blind"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Laminar sunroof"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "7.5A",
+     "Steering wheel controls, Connect/Navigator, parking sensors, rain/dusk sensor, tunnel control panel, heating/climate control group, Bluetooth control unit, ideogram lighting, light control switch group, volumetric/anti-lift exclusion buttons, front ceiling lamp, sunroof controls (positive under key)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box (Next to the Battery)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-stilo-2011-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "60A",
+     "ABS / ASR / ESP unit"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "70A",
+     "Electric power steering unit"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "50A",
+     "Glow plug preheating [Multijet versions]"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "30A",
+     "Selespeed gearbox pump [2.4 20V versions]"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "Radiator fan low speed [1.4 16V, 1.6 16V, 1.8 16V, Multijet versions]"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "60A",
+     "Fan and radiator [2.4 20V versions]"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "50A",
+     "Radiator fan high speed [1.4 16V, 1.6 16V, 1.8 16V, Multijet versions]"
+    ],
+    [
+     "F08",
+     "Fuse MAXI",
+     "30A",
+     "Air conditioning fan"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "20A",
+     "Headlight washers"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Secondary services (electronic injection)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic injection system / Selespeed system [2.4 20V] / radiator fan unit [2.4 20V] (switched positive)"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Primary services (electronic injection)"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "+30 Electronic injection system"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Primary services electronic injection [gasoline versions]"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Primary services electronic injection [Multijet versions]"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "+30 Selespeed"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "7.5A",
+     "Electric power steering (switched positive)"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse Box on the Positive Terminal of the Battery",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-stilo-2011-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MEGA",
+     "150A",
+     "Engine compartment control unit"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "50A",
+     "Auxiliary heater [Multijet versions]"
+    ],
+    [
+     "3",
+     "Fuse MIDI",
+     "60A",
+     "Dashboard control unit"
+    ],
+    [
+     "4",
+     "Fuse MIDI",
+     "70A",
+     "Dashboard control unit"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Fuse Box in the Trunk",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-stilo-2011-genid-g1-3.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "External radio amplifier"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Passenger's side front seat heating"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Driver's side front seat heating"
+    ]
+   ]
+  }
+ ]
+}
