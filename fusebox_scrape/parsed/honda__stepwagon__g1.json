@@ -1,0 +1,318 @@
+{
+ "make_slug": "honda",
+ "model_slug": "stepwagon",
+ "brand_db": "Honda",
+ "model_db_name": "Stepwgn",
+ "model_id": 2171,
+ "generation_name": "1st generation (RF1, RF2)",
+ "generation_code": "g1",
+ "year_start": 1996,
+ "year_end": 2001,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/honda/stepwagon/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-stepwagon-2001-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLB/PAL 295",
+     "100A",
+     "Main battery fuse"
+    ],
+    [
+     "2",
+     "Fuse FLB/PAL 295",
+     "40A",
+     "Ignition switch (BAT+)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Dome light, data link connector (DLC)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "PGM-FI main relay (fuel pump)"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power windows"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Audio system, navigation control module, PCM"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlight control switch"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear window defogger"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Power sliding door relay [models with power sliding door]"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Horn, brake lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Turn signal flasher relay"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Central locking control module, sunroof motor"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "A/C condenser fan motor, A/C compressor clutch relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Radiator cooling fan motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "A/C condenser fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Radiator cooling fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-stepwagon-2001-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Audio head unit, navigation control module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Central locking control module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper motor, rear washer pump"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Right headlight (high beam)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Left headlight (high beam), high beam indicator"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Rear sunroof motor"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Front sunroof motor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Front passenger power window motor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window motor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Turn signal flasher relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "PGM-FI main relay / SRS control module (VA)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Alternator, VSS, voltage monitoring module, charging indicator"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "ABS control module, rear window defogger relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Rear HVAC unit, A/C solenoid valve"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Blower motor relay, radiator fan motor relay, HVAC control panel"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Reverse light relay"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Right headlight (low beam)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Left headlight (low beam)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "SRS control module (VB)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Rear sunroof relay"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster, shift lock solenoid, overspeed warning module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Front wiper motor, front washer pump, ICU"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Cigarette lighter relay"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel illumination, ICU"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "PCM, PGM-FI main relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Front parking lights, tail lights, license plate lights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Turn signal flasher relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,633 @@
+{
+ "make_slug": "honda",
+ "model_slug": "stepwagon",
+ "brand_db": "Honda",
+ "model_db_name": "Stepwgn",
+ "model_id": 2171,
+ "generation_name": "5th generation (RP1-RP5)",
+ "generation_code": "g5",
+ "year_start": 2019,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/honda/stepwagon/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box (Driver's Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-stepwagon-2020-genid-g5-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioner"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory light [not all models]"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "STS [not all models]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Meter"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Drive by wire"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Mission solenoid"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "VSA/ABS"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Power window"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Auto starter [not all models]"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Fog lights [not all models]"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Sub door [not all models]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Heated door mirrors [not all models]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Rear passenger auto A/C / rear cooler [not all models]"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Right door unlock"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Left door unlock"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Right door lock"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "SRS airbag system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Interior illumination"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "ACC key lock"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "Clearance lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Active cornering light [not all models]"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Honda Smart Key system [not all models]"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Power window - driver's seat"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Power window - passenger seat"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Power window - rear left"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Power window - rear right"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Driver's side power slide door closer / easy door closer [not all models]"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "ACC [not all models]"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel accessory socket"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Left door lock"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse Box in the Engine Room",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-stepwagon-2020-genid-g5-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Backup"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "PGM-FI (VBU)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "MG clutch"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "TCU"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "Auto starter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Brake light"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Clearance lights (main)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Hazard warning lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Battery sensor"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory light [not all models]"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Headlight low beam (main)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "Wiper"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Injection"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "PGM-FI"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Drive by wire"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "ABS/VSA FSR"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Sub fan"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/VSA motor"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Auto starter"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Drive by wire"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel pump"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "LAF sensor"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "PGM-FI (sub)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low beam"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Left headlight low beam"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse Box B",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-stepwagon-2020-genid-g5-2.webp",
+   "fuses": [
+    [
+     "a",
+     "Fuse MIDI",
+     "125A",
+     "Battery main"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment Fuse Box B 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-stepwagon-2020-genid-g5-3.webp",
+   "fuses": [
+    [
+     "b",
+     "Other",
+     "",
+     "Battery main (engine)"
+    ],
+    [
+     "c",
+     "Other",
+     "",
+     "Battery main (fan)"
+    ],
+    [
+     "d",
+     "Other",
+     "",
+     "Battery main (electric power steering)"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-stepwagon-2020-genid-g5-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Left power slide door [not all models]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Fuse box main 1"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Ignition (main 1)"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Real Time AWD unit [not all models]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Fuse box main 2"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Ignition (main 2)"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Right power slide door [not all models]"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Heater motor"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "DC-DC converter 2"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "DC-DC converter 1"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Headlight high beam"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Lift-up seat (raise/lower), winch motor [not all models]"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Lift-up seat (slide) [not all models]"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Winch motor [not all models]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Slack take-up motor / winch switching [not all models]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Third seat passenger side [not all models]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Accessory socket [not all models]"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Auto retract mirrors [not all models]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Seat heaters [not all models]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Winch clutch/solenoid [not all models]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Front glass heater wire [not all models]"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "20A",
+     "Passenger side easy door closer [not all models]"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "VSA/ABS"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "MICU"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Rear defroster (sub door) [not all models]"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Rear defroster (tailgate) [not all models]"
+    ]
+   ]
+  }
+ ]
+}
