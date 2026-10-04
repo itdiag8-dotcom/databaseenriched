@@ -1,0 +1,517 @@
+{
+ "make_slug": "ford",
+ "model_slug": "ecosport",
+ "brand_db": "Ford",
+ "model_db_name": "EcoSport",
+ "model_id": 1783,
+ "generation_name": "Other versions",
+ "generation_code": "other-2022",
+ "year_start": 2004,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/ford/ecosport/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ecosport-2022-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Engine cooling fan relay 2"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Engine cooling fan relay 1"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC/AC inverter"
+    ],
+    [
+     "4",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS with electronic stability program (valves)"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "6",
+     "Fuse FMM/MCase",
+     "40A",
+     "Front blower motor"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "Brake on/off switch"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Rear washer, wiper"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C clutch relay"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "5A",
+     "Power point relay, horn relay, fuel pump relay"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "5A",
+     "Rain sensor relay, rear washer relay"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "Rear window wiper motor"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 1 (or cigar lighter)"
+    ],
+    [
+     "18",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 2"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "20A",
+     "Powertrain control module"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "Oxygen sensor heater, catalyst monitor sensor, canister purge valve, variable camshaft timing solenoid valves, vapor blocking valve"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "A/C clutch control, fan control on/off, coolant pump control, run/on water pump, EGR bypass solenoid, variable oil pump control, variable A/C compressor valve, all-wheel drive relay module [2.0L], active grille shutter"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "15A",
+     "Ignition coils [2.0L]"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "15A",
+     "Subwoofer amplifier"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Left horn"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "10A",
+     "Right horn"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "5A",
+     "Temperature mass air flow sensor [2.0L]"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module (battery voltage)"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS/electronic stability program pump"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "Trailer tow module"
+    ],
+    [
+     "35",
+     "Fuse FMM/MCase",
+     "40A",
+     "Heated backlite"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "40A",
+     "Positive temperature coefficient heater"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "25A",
+     "Heated seats (climate control module)"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "15A",
+     "Subwoofer amplifier"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power window switches"
+    ],
+    [
+     "47",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "20A",
+     "Assisted direct start transmission fluid pump (stop/start) - power"
+    ],
+    [
+     "56",
+     "Fuse MICRO2",
+     "5A",
+     "Electrical power assisted steering module, powertrain control module"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "10A",
+     "Start/stop - transmission fluid pump"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "10A",
+     "Left hand blind spot monitor module, right hand blind spot monitor module, rear video camera"
+    ],
+    [
+     "59",
+     "Fuse MICRO2",
+     "5A",
+     "ABS module"
+    ],
+    [
+     "60",
+     "Fuse MICRO2",
+     "5A",
+     "Heated backlite relay, heated windshield left relay"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "25A",
+     "Front wiper"
+    ],
+    [
+     "64",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module - run/start bus"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "10A",
+     "Heated wiper park"
+    ],
+    [
+     "12",
+     "Relay",
+     "",
+     "Powertrain control module"
+    ],
+    [
+     "13",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "43",
+     "Relay",
+     "",
+     "Auxiliary power point"
+    ],
+    [
+     "44",
+     "Relay",
+     "",
+     "Windshield wiper"
+    ],
+    [
+     "45",
+     "Relay",
+     "",
+     "Front blower motor"
+    ],
+    [
+     "50",
+     "Relay",
+     "",
+     "Run/start"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "Vehicle horn"
+    ],
+    [
+     "54",
+     "Relay",
+     "",
+     "Rear washer"
+    ],
+    [
+     "61",
+     "Relay",
+     "",
+     "Heated backlite / heated mirror"
+    ],
+    [
+     "62",
+     "Relay",
+     "",
+     "Engine cooling fan 2"
+    ],
+    [
+     "65",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "67",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "68",
+     "Relay",
+     "",
+     "Engine cooling fan 1"
+    ],
+    [
+     "73",
+     "Relay",
+     "",
+     "Heated wiper park"
+    ],
+    [
+     "76",
+     "Relay",
+     "",
+     "Positive temperature coefficient heater"
+    ],
+    [
+     "79",
+     "Relay",
+     "",
+     "Positive temperature coefficient heater"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ecosport-2022-1.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse MICRO3",
+     "5A",
+     "Humidity and in-car temperature sensor"
+    ],
+    [
+     "F03",
+     "Fuse MICRO2",
+     "10A",
+     "Reverse parking aid module"
+    ],
+    [
+     "F04",
+     "Fuse MICRO2",
+     "10A",
+     "Ignition switch, key in switch & solenoid, start-stop switch"
+    ],
+    [
+     "F05",
+     "Fuse MICRO2",
+     "20A",
+     "Central lock relay, central unlock relay internal"
+    ],
+    [
+     "F06",
+     "Fuse MICRO2",
+     "10A",
+     "Power window switches, power sunroof switch & module inverter"
+    ],
+    [
+     "F09",
+     "Fuse MICRO3",
+     "5A",
+     "Brake shift interlock, electrochromatic inside mirror"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "10A",
+     "Smart data link connector"
+    ],
+    [
+     "F11",
+     "Fuse MICRO3",
+     "5A",
+     "Telematic control unit (embedded modem)"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "15A",
+     "Driver unlock relay"
+    ],
+    [
+     "F15",
+     "Fuse MICRO3",
+     "15A",
+     "Extended power module relay starter"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "15A",
+     "SYNC, mini electronic finish panel"
+    ],
+    [
+     "F21",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control head"
+    ],
+    [
+     "F22",
+     "Fuse MICRO3",
+     "7.5A",
+     "Steering column control module, smart data link logic, instrument cluster"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "20A",
+     "Audio control module"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "20A",
+     "Extended power mode module"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Battery Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ecosport-2022-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MEGA",
+     "250A",
+     "Engine compartment fuse box"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "60A",
+     "Electric power assist steering"
+    ],
+    [
+     "3",
+     "Fuse MIDI",
+     "100A",
+     "Body control module"
+    ],
+    [
+     "4",
+     "Fuse MIDI",
+     "70A",
+     "Heating control unit"
+    ],
+    [
+     "5",
+     "Fuse MEGA",
+     "275A",
+     "Starter"
+    ]
+   ]
+  }
+ ]
+}
