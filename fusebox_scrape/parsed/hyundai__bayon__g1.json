@@ -1,0 +1,570 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "bayon",
+ "brand_db": "Hyundai",
+ "model_db_name": "Bayon",
+ "model_id": 2182,
+ "generation_name": "1st generation",
+ "generation_code": "g1",
+ "year_start": 2021,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/hyundai/bayon/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-bayon-2023-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Alternator, multi fuse F2, fuses F31-F36"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCT1: TCM"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "E-Clutch1: electronic clutch module"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCT2: TCM"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU1: E/R junction block (RLY.1)"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG1: [smart key] PDM IG1/ACC relays; [w/o] ignition switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump: RLY.5"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Battery mgmt 1: E/R fuses F40/F43"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "ECU3: ECM, clutch switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "ECU2: ECM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C 1: RLY.10"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCT4: smart gear actuator"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "CVVD actuator"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG2: [smart key] PDM IG2 relay; [w/o] ignition switch, start motor relay"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT1: ICU junction block IPS1/3/5/7/8/11"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT3: ICU junction block fuses, long term load latch relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "DCT3: TCM"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "E-Clutch2: electronic clutch module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Horn: RLY.11/RLY.12"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "AMS: battery sensor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT2: ICU junction block IPS2/4/6/9/10"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT4: ICU junction block (power window relay, fuses)"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "15A",
+     "Cooling fan: RLY.2"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-3"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "ECU5: ECM"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECU6: ECM, RLY.2/10, oil control valves #1/#2"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Sensor 1: purge control solenoid, RCV control, variable oil pump solenoid"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Sensor 2: oxygen sensors (up/down)"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger relay (ICU junction block)"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1: ESP control module"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower: RLY.13"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater: RLY.14"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS 2: ESP control module"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power outlet relay (ICU junction block)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Wiper 2: RLY.4, front wiper motor, IBU"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Sensor 3: RLY.5"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "MHSG: mild hybrid starter & generator motor"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Battery cooling fan: BMS cooling fan, fuse F8"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "25A",
+     "Wiper 1: RLY.4, front wiper motor, ignition switch"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Battery mgmt 2: BMS control module, fuse F8"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Wiper high relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper low relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "PTC heater relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-bayon-2023-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror: A/C control module, power outside mirrors"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Safety power window: driver door window safety module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "25A",
+     "Front seat warmer control module"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "Power window RH: main switch, passenger switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "TCU2: sport mode switch, TCM, selector position switch, electronic clutch module, clutch position sensor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Battery mgmt 3: BMS control module [mild HEV G3LE]"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Module 8: DLC, emergency door lock switch"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Memory: rain sensor, A/C module, cluster, mirror folding relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "25A",
+     "AMP: amplifier, low-voltage DC-DC converter (48V)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Sunroof motor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "Power window LH: main switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Module 2: sport mode switch, brake light switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "Rear seat warmer control module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Multimedia: audio, audio display, AVN unit, DC-DC converter"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Sensor 4: [G3LE] CVVD actuator; [G4LC] electric oil pump"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "A/C 3: blower motor, A/C control module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Door lock: double lock relay, trunk lid release relay, door lock/unlock relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "E-Call unit"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Module 5: e-Call, A/T indicator, audio/AVN, wireless charger, mirror, seat heater modules, DC-DC converter, A/C module, DLC, headlight leveling"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "ABS 3: ESC control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Brake switch: IBU, brake light switch"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Start: [smart key] IBU; [ignition switch] ignition switch; [M/T] ECM, selector position switch, RLY.6"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Cluster: instrument cluster"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Module 4: FCA module, IBU, multifunction camera, dashboard switch module, BCW units"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "IBU 2"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "ACC 1: audio/AVN, e-Call, IBU, FCA unit, amplifier, front power socket, USB charger, DC-DC converter, mirror control, power relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Module 7: seat heater modules, PCA control module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Washer: multifunction switch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Module 6: IBU"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Power outlet: front power socket"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "IBU 1"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator: A/C module, instrument cluster"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "7.5A",
+     "A/C 2: A/C module, engine compartment RLY.13/14"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper: RLY.7"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "ECU 4: ECM/PCM"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "MDPS 2: MDPS unit"
+    ]
+   ]
+  }
+ ]
+}
