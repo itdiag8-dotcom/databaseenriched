@@ -1,0 +1,547 @@
+{
+ "make_slug": "ford",
+ "model_slug": "ranger",
+ "brand_db": "Ford",
+ "model_db_name": "Ranger",
+ "model_id": 1920,
+ "generation_name": "3rd generation North America (PN-150)",
+ "generation_code": "g3a",
+ "year_start": 1998,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2002,
+ "source_url": "https://www.startmycar.com/ford/ranger/info/fusebox/2002",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ranger-2002-genid-g3a-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Power mirror switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "DRL, back-up lamps, transmission, passenger air bag deactivation switch, blower motor relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Right stop/turn trailer tow connector"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "4x4 control module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "2A",
+     "Brake pressure switch (ABS)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Left stop/turn trailer tow connector"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Brake pedal position switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Speed control servo/amplifier, GEM, shift lock actuator, turn signals"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster, 4x4, main light switch, truck central security module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Brake pedal position switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "ABS control module [if equipped]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper motor, wiper hi-lo relay, wiper run/park relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, data link connector"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "PCM power diode, ignition, PATS"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "GEM, radio"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Flasher [hazard]"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power socket"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Clutch pedal position switch, starter interrupt relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Battery saver relay, auxiliary relay box, restraint control module, GEM, instrument cluster"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "GEM, radio"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Headlamps, DRL module, instrument cluster"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Horn relay [if not equipped with truck central security module]"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Panel (3.0L & 4.0L engine)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ranger-2002-genid-g3a-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "I/P fuse panel"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS pump motor"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power door locks and remote entry"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "50A",
+     "Starter relay, ignition switch"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power windows"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "20A",
+     "4x4 motor"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "PCM memory"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump motor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Headlamps"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch solenoid"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "4WABS module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Foglamps, DRL"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Park lamp"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp low beam"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Heated oxygen sensors"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp low beam"
+    ],
+    [
+     "45A",
+     "Relay",
+     "",
+     "Wiper high/low"
+    ],
+    [
+     "45B",
+     "Relay",
+     "",
+     "Wiper park/run"
+    ],
+    [
+     "46A",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "46B",
+     "Relay",
+     "",
+     "Trailer tow"
+    ],
+    [
+     "47A",
+     "Relay",
+     "",
+     "A/C clutch solenoid"
+    ],
+    [
+     "47B",
+     "Relay",
+     "",
+     "Front washer pump"
+    ],
+    [
+     "48A",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "48B",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "53",
+     "Diode MINI",
+     "",
+     "Powertrain control module (PCM) diode"
+    ],
+    [
+     "54",
+     "Relay",
+     "",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "55",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "56",
+     "Relay",
+     "",
+     "Starter"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Fuse Panel (2.3L & 2.5L engine)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ranger-2002-genid-g3a-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "I/P fuse panel"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS pump motor"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power door locks and remote entry"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "50A",
+     "Starter relay, ignition switch"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power windows"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "20A",
+     "Auxiliary cooling fan"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "PCM memory"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump motor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Headlamps"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch solenoid"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "4WABS module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Foglamps, DRL"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Park lamp"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp low beam"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Heated oxygen sensors"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp low beam"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "(Resistor)"
+    ],
+    [
+     "45A",
+     "Relay",
+     "",
+     "Wiper HI/LO"
+    ],
+    [
+     "45B",
+     "Relay",
+     "",
+     "Wiper park/run"
+    ],
+    [
+     "46A",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "46B",
+     "Relay",
+     "",
+     "Trailer tow"
+    ],
+    [
+     "47",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "48",
+     "Relay",
+     "",
+     "Auxiliary cooling fan"
+    ],
+    [
+     "53",
+     "Diode ATO",
+     "",
+     "Powertrain control module (PCM) diode"
+    ],
+    [
+     "54",
+     "Relay",
+     "",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "55",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "56A",
+     "Relay",
+     "",
+     "A/C clutch solenoid"
+    ],
+    [
+     "56B",
+     "Relay",
+     "",
+     "Front washer pump"
+    ]
+   ]
+  }
+ ]
+}
