@@ -1,0 +1,600 @@
+{
+ "make_slug": "ford",
+ "model_slug": "territory",
+ "brand_db": "Ford",
+ "model_db_name": "Territory",
+ "model_id": 1939,
+ "generation_name": "All-New Territory (CX743MCA)",
+ "generation_code": "g4",
+ "year_start": 2022,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/ford/territory/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-territory-2025-genid-g4-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Compressor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Brake switch 1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Front wiper"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Transmission control unit (TCU)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Transmission RF module, anti-pinch module, motion sensor"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Electronic stability program (ESP)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Transmission control unit (TCU)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Headlamp leveling motors"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "Adaptive cruise radar"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils 1-4"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Brake switch 2"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Pressure relief valve, exhaust valve, VVT valve, thermostat, oil pump, canister control valve"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "25A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Front and rear oxygen sensor"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Canister cut-off valve, active grille shutter (AGS)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM), DC power supply"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Left low beam (LED), lighting control switch"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Right low beam (LED)"
+    ],
+    [
+     "55",
+     "Fuse FMX/JCase",
+     "40A",
+     "Low-speed cooling fan"
+    ],
+    [
+     "56",
+     "Fuse FMX/JCase",
+     "60A",
+     "High-speed cooling fan"
+    ],
+    [
+     "57",
+     "Fuse FMX/JCase",
+     "25A",
+     "DC power supply"
+    ],
+    [
+     "58",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "25A",
+     "DC power supply"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "25A",
+     "Starter motor solenoid valve"
+    ],
+    [
+     "61",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic stability program (ESP) power 1"
+    ],
+    [
+     "62",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic stability program (ESP) power 2"
+    ],
+    [
+     "63",
+     "Fuse FMX/JCase",
+     "40A",
+     "Engine control module (ECM) main relay fuse"
+    ],
+    [
+     "64",
+     "Fuse FMX/JCase",
+     "40A",
+     "Transmission control unit (TCU)"
+    ],
+    [
+     "65",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power driver seat"
+    ],
+    [
+     "66",
+     "Fuse FMX/JCase",
+     "30A",
+     "Folding front passenger seat"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter relay 1"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter relay 2"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Engine control module (ECM) main relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Low-speed cooling fan relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "High-speed cooling fan relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Front wiper relay (high and low speed)"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Compressor relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-territory-2025-genid-g4-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, steering column multifunction switch"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic OBD connector"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Gateway module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Transmission selector"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning control module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Body control module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Telematics box"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Rain and light sensor, image processing module (IPM)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Interior rearview mirror and its USB"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Entertainment system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Wireless charging module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Ambient light, dome/courtesy/reading lights, A/C control panel, driver's door window switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "USB"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Body control module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Entertainment system, power sunroof, power sunshade"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Front blower relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "Body control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Blind spot information system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Telematics box, steering column multifunction switch, clock spring, instrument cluster, transmission selector"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Multimedia button, center console switch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Driver's seat heating and ventilation"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Image processing module (IPM)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Main ignition fuse under the hood"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Electronic power steering module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Restraint control module"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Anti-pinch module (APM), radar housing, 12V DC power supply"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "Gateway module"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Body control module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Front A/C control panel, air conditioning switch"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Left and right mirror heating"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "25A",
+     "Power sunroof, power sunshade"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition relay 1"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "30A",
+     "Liftgate control module (if equipped)"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "25A",
+     "Window motor (if equipped)"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "30A",
+     "Left side power windows"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "30A",
+     "Right side power windows"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay 2"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Ignition relay 1"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Delay relay 2"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Delay relay 1"
+    ]
+   ]
+  }
+ ]
+}

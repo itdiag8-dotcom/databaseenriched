@@ -1,0 +1,612 @@
+{
+ "make_slug": "ford",
+ "model_slug": "territory",
+ "brand_db": "Ford",
+ "model_db_name": "Territory",
+ "model_id": 1939,
+ "generation_name": "2nd generation (E265A, SZ)",
+ "generation_code": "g2",
+ "year_start": 2011,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/ford/territory/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-territory-2016-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(Ignition) Turn signal switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "(Ignition) Coil driver (petrol engine)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "(Ignition) Airbag"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(Ignition) Reverse lights, reverse park aid"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(Ignition) ABS/DSC"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "(Ignition) HIM"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(Ignition) Stop lights, PCM"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(Ignition) EPAS"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(Ignition) Transmission, AWD (diesel engine)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "(Accessory) Washer pump, wiper"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(Accessory) Wiper rear"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "(Accessory) Power outlet 2"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(Accessory) Mobile phone"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "(Accessory) Power outlet 1"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "(Battery) Amplifier"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(Battery) Turn signal / hazard lights"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "(Battery) Transmission, AWD (diesel engine)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "(Accessory) Power mirrors, rear demister relay, electrochromatic mirror"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(Accessory) Body control module (BEM), interior command centre"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "(Battery) Mobile phone"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "(Battery) Door locks"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(Battery tail relay) Tail/park lights, cluster"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "(Battery) Body control module (BEM)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "(Battery / battery saver) Interior lights, antenna, solar sensor, gearshift, diagnostic connector, DVD"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "30A",
+     "(Battery) Trailer"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(Battery) HIM"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "(Battery) Interior command centre, display"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(Ignition) Instrument cluster, body control module (BEM), interior command centre"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "(Ignition) Injectors (petrol engine)"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "(Battery, BCM/BEM switched) Front power windows"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "(Window relay) Rear power windows"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "(Battery) Power seats"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "(Battery saver) DVD (accessory input)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(Ignition) Ignition relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(BCM/BEM switched) Power windows relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(Accessory) Accessory relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(Light switch) Tail lights relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box - Engine compartment fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-territory-2016-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Other",
+     "",
+     "Multi fuse block: Main"
+    ],
+    [
+     "F2",
+     "Other",
+     "",
+     "Multi fuse block: Batt 1"
+    ],
+    [
+     "F3",
+     "Other",
+     "",
+     "Multi fuse block: Batt 2"
+    ],
+    [
+     "F4",
+     "Other",
+     "",
+     "Multi fuse block: Starter"
+    ],
+    [
+     "F5",
+     "Other",
+     "",
+     "Multi fuse block: Eng"
+    ],
+    [
+     "F6",
+     "Other",
+     "",
+     "Multi fuse block: Ignition"
+    ],
+    [
+     "F7",
+     "Other",
+     "",
+     "Multi fuse block: Backlight (demister)"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plugs 1 (diesel)"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Glow plugs 2 (diesel)"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "80A",
+     "Cooling fan (diesel)"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "100A",
+     "Electric power assist steering (EPAS)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "30A",
+     "EEC (PCM) canister purge, IMCC, VCT, fuel relay coil (petrol)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "30A",
+     "VPWR1 (fuel/WAC relay coil, ECM) (diesel)"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "HEGO (petrol)"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "VPWR2 (MAF) (diesel)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "VPWR3 (PCV, VCV) (diesel)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Air-conditioning compressor"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "5A",
+     "EEC (PCM/ECM) KAP"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "25A",
+     "Wiper front"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "30A",
+     "Glow plugs 3 (diesel)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "25A",
+     "Headlamp-low relay output to F29 left and F28 right fuses"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "30A",
+     "Glow plugs 4 (diesel)"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Cluster"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "30A",
+     "Fuel"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Fog lamp"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high right"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high left"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "VPWR4 (water in fuel sensor, glow plug relay coil) (diesel)"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Headlamp low right (projector lamp)"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "Headlamp low left (projector lamp)"
+    ],
+    [
+     "F30",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fan 1 (petrol)"
+    ],
+    [
+     "F31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Batt 3"
+    ],
+    [
+     "F32",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower fan - climate control"
+    ],
+    [
+     "F33",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS2 DSC2 (DSC VR)"
+    ],
+    [
+     "F34",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS1 DSC1 (DSC VR)"
+    ],
+    [
+     "F36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Accessory"
+    ],
+    [
+     "1",
+     "Relay",
+     "",
+     "Low beam relay (when left high on) (diesel)"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "PCM relay (petrol)"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Low beam relay (when right high on) (diesel)"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Backlite (demister) relay"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Fuel relay"
+    ],
+    [
+     "7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "WAC (A/C compressor) relay"
+    ],
+    [
+     "10",
+     "Relay",
+     "",
+     "Fan 3 relay (petrol)"
+    ],
+    [
+     "10",
+     "Relay",
+     "",
+     "ECM EEC relay (diesel)"
+    ],
+    [
+     "11",
+     "Relay",
+     "",
+     "Fan 1 relay (petrol)"
+    ],
+    [
+     "12",
+     "Relay",
+     "",
+     "Headlamp (low) relay"
+    ],
+    [
+     "13",
+     "Relay",
+     "",
+     "Headlamp (high) relay"
+    ],
+    [
+     "14",
+     "Relay",
+     "",
+     "Reverse relay"
+    ],
+    [
+     "16",
+     "Relay",
+     "",
+     "Fog relay"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp low beam (when right high on) (petrol)"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp low beam (when left high on) (petrol)"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Glow plug relay (diesel)"
+    ],
+    [
+     "21",
+     "Relay",
+     "",
+     "Glow plug relay (diesel)"
+    ],
+    [
+     "15",
+     "Diode MINI",
+     "",
+     "EEC (PCM petrol / ECM diesel)"
+    ],
+    [
+     "17",
+     "Fuse",
+     "",
+     "Starter"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Starter"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,684 @@
+{
+ "make_slug": "ford",
+ "model_slug": "territory",
+ "brand_db": "Ford",
+ "model_db_name": "Territory",
+ "model_id": 1939,
+ "generation_name": "3rd generation (CX743)",
+ "generation_code": "g3",
+ "year_start": 2018,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/ford/territory/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-territory-2022-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "5A",
+     "Gateway"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic interface, combination switch, electric rearview mirror switch"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "10A",
+     "Right rear fog light"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "10A",
+     "Key recognition antenna"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "30A",
+     "Door lock motor"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning control module 1"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Emergency light"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "25A",
+     "Electric seat"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Sun visor"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "25A",
+     "Left rear window (SE)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "25A",
+     "Right rear window (SE)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Brake light, high mount brake light, AT shift lever"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Interior electric rearview mirror, reading/vanity/front roof lights, ambient lighting, trunk light"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Right position light"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Left position light"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "5A",
+     "Wireless charger"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "Rear defogger relay"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning control module 2"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "360-degree monitoring camera"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Window regulator"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel, electric parking brake switch"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "5A",
+     "Yaw rate sensor, left console switch, dashboard switch box, BCM IG"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "ACU"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "5A",
+     "Key recognition antenna, spare"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Seat heater"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Tire pressure monitoring system (TPMS)"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "5A",
+     "Gateway IG"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Rearview mirror regulator, ADC BCM, modem, ACC"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Audio 2"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "15A",
+     "Lighter, USB"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "20A",
+     "Car power supply"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Rearview mirror heater"
+    ],
+    [
+     "DF01",
+     "Fuse FMX/JCase",
+     "40A",
+     "ACC power supply"
+    ],
+    [
+     "DF02",
+     "Fuse FMX/JCase",
+     "50A",
+     "IG1 power supply"
+    ],
+    [
+     "DF03",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG2 power supply"
+    ],
+    [
+     "DF04",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defogger power supply"
+    ],
+    [
+     "DF05",
+     "Fuse FMX/JCase",
+     "20A",
+     "Seat heater"
+    ],
+    [
+     "DF06",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front left window (SE)"
+    ],
+    [
+     "DF06",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front and rear left windows (Titanium)"
+    ],
+    [
+     "DF07",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front right window (SE)"
+    ],
+    [
+     "DF07",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front and rear right windows (Titanium)"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "IG2 relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "IG1 relay"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "ACC relay"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "R06",
+     "Relay",
+     "",
+     "Position light relay"
+    ],
+    [
+     "R07",
+     "Relay",
+     "",
+     "Interior light relay"
+    ],
+    [
+     "R08",
+     "Relay",
+     "",
+     "Position light relay (12V)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-territory-2022-genid-g3-1.webp",
+   "fuses": [
+    [
+     "EF03",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "EF04",
+     "Fuse MINI",
+     "10A",
+     "Rear windshield wiper"
+    ],
+    [
+     "EF05",
+     "Fuse MINI",
+     "10A",
+     "Tire pressure monitoring system (TPMS)"
+    ],
+    [
+     "EF06",
+     "Fuse MINI",
+     "5A",
+     "Brake switch"
+    ],
+    [
+     "EF07",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "EF12",
+     "Fuse MINI",
+     "10A",
+     "Windshield washer motor"
+    ],
+    [
+     "EF13",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "EF14",
+     "Fuse MINI",
+     "15A",
+     "Front windshield wiper"
+    ],
+    [
+     "EF15",
+     "Fuse MINI",
+     "25A",
+     "Transmission control module"
+    ],
+    [
+     "EF16",
+     "Fuse MINI",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "EF18",
+     "Fuse MINI",
+     "25A",
+     "EFI"
+    ],
+    [
+     "EF19",
+     "Fuse MINI",
+     "10A",
+     "Power supply for engine sensors and actuators"
+    ],
+    [
+     "EF21",
+     "Fuse MINI",
+     "10A",
+     "Brake switch"
+    ],
+    [
+     "EF22",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor"
+    ],
+    [
+     "EF23",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "EF24",
+     "Fuse MINI",
+     "10A",
+     "Left low beam headlight"
+    ],
+    [
+     "EF25",
+     "Fuse MINI",
+     "10A",
+     "Right low beam headlight"
+    ],
+    [
+     "EF26",
+     "Fuse MINI",
+     "10A",
+     "Left high beam headlight"
+    ],
+    [
+     "EF27",
+     "Fuse MINI",
+     "10A",
+     "Right high beam headlight"
+    ],
+    [
+     "EF35",
+     "Fuse MINI",
+     "15A",
+     "Fog light"
+    ],
+    [
+     "EF37",
+     "Fuse MINI",
+     "10A",
+     "Modem"
+    ],
+    [
+     "EF38",
+     "Fuse MINI",
+     "5A",
+     "Battery electronic sensor"
+    ],
+    [
+     "EF47",
+     "Fuse MINI",
+     "10A",
+     "Reverse lights"
+    ],
+    [
+     "EF48",
+     "Fuse MINI",
+     "5A",
+     "Stability control module"
+    ],
+    [
+     "EF49",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module"
+    ],
+    [
+     "EF50",
+     "Fuse MINI",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "EF54",
+     "Fuse MINI",
+     "5A",
+     "Semi-automatic parking assist system"
+    ],
+    [
+     "EF55",
+     "Fuse MINI",
+     "15A",
+     "ACC"
+    ],
+    [
+     "EF56",
+     "Fuse MINI",
+     "5A",
+     "360-degree monitoring camera"
+    ],
+    [
+     "SF01",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 1"
+    ],
+    [
+     "SF02",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan 2"
+    ],
+    [
+     "SF03",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC/DC converter"
+    ],
+    [
+     "SF04",
+     "Fuse FMX/JCase",
+     "40A",
+     "Air conditioning fan"
+    ],
+    [
+     "SF06",
+     "Fuse FMX/JCase",
+     "25A",
+     "Starter motor"
+    ],
+    [
+     "SF07",
+     "Fuse FMX/JCase",
+     "40A",
+     "Stability control module 1"
+    ],
+    [
+     "SF08",
+     "Fuse FMX/JCase",
+     "40A",
+     "Stability control module 2"
+    ],
+    [
+     "SF013",
+     "Fuse FMX/JCase",
+     "40A",
+     "Main relay"
+    ],
+    [
+     "SF014",
+     "Fuse FMX/JCase",
+     "",
+     "EMS IG"
+    ],
+    [
+     "SF015",
+     "Fuse FMX/JCase",
+     "",
+     "CCCC IG"
+    ],
+    [
+     "RY01",
+     "Relay",
+     "",
+     "Cooling fan, high speed"
+    ],
+    [
+     "RY02",
+     "Relay",
+     "",
+     "Starter motor relay 1"
+    ],
+    [
+     "RY03",
+     "Relay",
+     "",
+     "Starter motor relay 2"
+    ],
+    [
+     "RY04",
+     "Relay",
+     "",
+     "Air conditioning fan relay"
+    ],
+    [
+     "RY05",
+     "Relay",
+     "",
+     "Cooling fan, low speed"
+    ],
+    [
+     "RY07",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "RY08",
+     "Relay",
+     "",
+     "Brake light relay"
+    ],
+    [
+     "RY09",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "RY010",
+     "Relay",
+     "",
+     "Front windshield wiper switch relay"
+    ],
+    [
+     "RY011",
+     "Relay",
+     "",
+     "Front fog light relay"
+    ],
+    [
+     "RY013",
+     "Relay",
+     "",
+     "Rear windshield wiper relay"
+    ],
+    [
+     "RY014",
+     "Relay",
+     "",
+     "Front windshield wiper relay"
+    ],
+    [
+     "RY015",
+     "Relay",
+     "",
+     "High beam headlight relay"
+    ],
+    [
+     "RY016",
+     "Relay",
+     "",
+     "Low beam headlight relay"
+    ],
+    [
+     "RY017",
+     "Relay",
+     "",
+     "Front windshield wiper high and low speed relay"
+    ],
+    [
+     "RY018",
+     "Relay",
+     "",
+     "Reverse light relay"
+    ],
+    [
+     "RY019",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "RY020",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "RY021",
+     "Relay",
+     "",
+     "Rear windshield wiper relay"
+    ]
+   ]
+  }
+ ]
+}
