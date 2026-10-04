@@ -1,0 +1,498 @@
+{
+ "make_slug": "ford",
+ "model_slug": "transit-connect",
+ "brand_db": "Ford",
+ "model_db_name": "Transit Connect",
+ "model_id": 1946,
+ "generation_name": "1st generation pre-facelift",
+ "generation_code": "g1-0",
+ "year_start": 2002,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/ford/transit-connect/info/fusebox/2006/1st-gen-pre-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-connect-2006-genid-g1.0-0.webp",
+   "fuses": [
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Headlamp switch"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "7.5A",
+     "Battery current monitor relay, interior lamp relay"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "7.5A",
+     "Main ignition circuit relay 1, auxiliary heater control unit"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "7.5A",
+     "SRS electronic control unit"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "7.5A",
+     "Headlamp switch, turn signal switch"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "7.5A",
+     "SRS electronic control unit"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument cluster, audio system"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "15A",
+     "Brake light switch"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "20A",
+     "Rear wiper relay, windshield wiper motor"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "15A",
+     "Trailer socket"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "5A",
+     "Rearview mirror select switch"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument panel, anti-theft system/control module, parking control module, alarm/turn signal relay"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "25A",
+     "Heated rear window"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "7.5A",
+     "Power door mirrors (driver and passenger side)"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "10A",
+     "Reversing lights, windshield washer nozzle heaters"
+    ],
+    [
+     "56",
+     "Fuse ATO",
+     "20A",
+     "Windshield wiper motor relay, rear wiper relay, wiper motor, wiper mode switch"
+    ],
+    [
+     "57",
+     "Fuse ATO",
+     "7.5A",
+     "Headlight (right), fuel pump select switch, trailer connector, rear combination lamp (right)"
+    ],
+    [
+     "58",
+     "Fuse ATO",
+     "7.5A",
+     "Headlamp (left), rear combination lamp (left)"
+    ],
+    [
+     "59",
+     "Fuse ATO",
+     "7.5A",
+     "Auxiliary heater control unit"
+    ],
+    [
+     "61",
+     "Fuse ATO",
+     "15A",
+     "Central locking / anti-theft control module, alarm/turn signal relay"
+    ],
+    [
+     "62",
+     "Fuse ATO",
+     "7.5A",
+     "License plate lights (left and right)"
+    ],
+    [
+     "63",
+     "Fuse ATO",
+     "20A",
+     "Anti-theft / central locking control module (back of fuse panel)"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "19",
+     "Relay",
+     "",
+     "Interior lamp relay"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Windshield wiper motor relay"
+    ],
+    [
+     "23",
+     "Relay",
+     "",
+     "Battery current monitoring relay"
+    ],
+    [
+     "24",
+     "Relay",
+     "",
+     "Main ignition circuits relay 1"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-connect-2006-genid-g1.0-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "Ignition overload, central fusebox"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "30A",
+     "Ignition overload, central fusebox"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "60A",
+     "Heated windscreen"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "60A",
+     "Glow plugs"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "40A",
+     "Ignition overload, central fusebox"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "20A",
+     "Engine management"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Battery, alternator, data link connector"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "Glow plug heater 1, fuel fired heater"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Unknown"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "30A",
+     "ABS"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Main beam"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Dipped beam, daytime running lamps"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Dipped beam, daytime running lamps"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Unknown"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "40A",
+     "Unknown"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "Side and tail lamps"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Instrument cluster, engine management"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "Dipped beam, daytime running lamps"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "20A",
+     "ABS"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "10A",
+     "Main beam"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "10A",
+     "Unknown"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Water-in-fuel"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "20A",
+     "Rear fog lamps"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "30",
+     "Relay",
+     "",
+     "Ignition overload, central fusebox relay"
+    ],
+    [
+     "31",
+     "Relay",
+     "",
+     "Ignition overload, central fusebox relay"
+    ],
+    [
+     "32",
+     "Relay",
+     "",
+     "Heated windscreen relay"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "Headlamp washer relay"
+    ],
+    [
+     "34",
+     "Relay",
+     "",
+     "Main beam relay"
+    ],
+    [
+     "35",
+     "Relay",
+     "",
+     "Dipped beam, daytime running lamps relay"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Engine management relay"
+    ],
+    [
+     "38",
+     "Diode ATO",
+     "",
+     "Engine management diode"
+    ],
+    [
+     "39",
+     "Diode ATO",
+     "",
+     "Cooling fan diode"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "30A",
+     "Heater blower motor"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Glow plugs relay"
+    ],
+    [
+     "43",
+     "Relay",
+     "",
+     "Glow plug heater 1, fuel fired heater relay 2"
+    ],
+    [
+     "44",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "45",
+     "Relay",
+     "",
+     "Dipped beam, daytime running lamps relay"
+    ],
+    [
+     "46",
+     "Relay",
+     "",
+     "Glow plug heater 1, fuel fired heater relay 1"
+    ],
+    [
+     "47",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "48",
+     "Relay",
+     "",
+     "Cooling fan relay 1"
+    ],
+    [
+     "49",
+     "Relay",
+     "",
+     "Cooling fan relay 2"
+    ]
+   ]
+  }
+ ]
+}

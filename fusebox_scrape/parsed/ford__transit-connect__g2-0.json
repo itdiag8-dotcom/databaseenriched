@@ -1,0 +1,625 @@
+{
+ "make_slug": "ford",
+ "model_slug": "transit-connect",
+ "brand_db": "Ford",
+ "model_db_name": "Transit Connect",
+ "model_id": 1946,
+ "generation_name": "2nd generation pre-facelift",
+ "generation_code": "g2-0",
+ "year_start": 2012,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/ford/transit-connect/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-connect-2018-genid-g2.0-0.webp",
+   "fuses": [
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Stability control"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Accessories (van only)"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Powertrain control module"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter relay"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Right-hand heated windshield"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cargo-area / luggage compartment auxiliary power point"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated windshield"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "20A",
+     "Floor console auxiliary power point"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "5A",
+     "ABS with electronic stability control"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "Stop lamp switch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Power supply voltage - powertrain control module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "Relay coils"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "Door control unit (van)"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "5A",
+     "Engine control relay coil feed"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning clutch"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "25A",
+     "Rear power window"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "25A",
+     "Front power window"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch position II output (van only)"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Taxi roof lamp switch"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Fuel injectors"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 4"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "5A",
+     "Active grill shutter"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "5A",
+     "Battery saver relay"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "Engine control module, transmission control module"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "Taxi block connector"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "5A",
+     "Electronic power assist steering"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "15A",
+     "Heated front seat (van)"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Accessories (van)"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "15A",
+     "Headlamp control module"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning switch (taxi)"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "10A",
+     "Power exterior mirror (without door control unit)"
+    ],
+    [
+     "F46",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windshield wiper"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "7.5A",
+     "Heated exterior mirror (without door control unit)"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "25A",
+     "Body control module"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Battery saver relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heated rear window"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear window wiper"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Heated windshield"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Accessory delay, DCU power feed (van)"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Relay (van)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower motor"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Electronic engine control"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Ignition"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-connect-2018-genid-g2.0-1.webp",
+   "fuses": [
+    [
+     "F56",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "5A",
+     "Passive anti-theft system transceiver"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "10A",
+     "Interior lamp, driver door switch pack, glove compartment lamp, overhead console switch bank"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "5A",
+     "Autowipers, auto-dimming interior mirror"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "10A",
+     "Liftgate release"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "20A",
+     "Front door double locking and unlock relay"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "7.5A",
+     "SYNC module, front display interface module, GPS module"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel cluster"
+    ],
+    [
+     "F70",
+     "Fuse MINI",
+     "20A",
+     "Central locking relay"
+    ],
+    [
+     "F71",
+     "Fuse MINI",
+     "10A",
+     "Heating control head / dual automatic temperature control"
+    ],
+    [
+     "F72",
+     "Fuse MINI",
+     "7.5A",
+     "Steering wheel module"
+    ],
+    [
+     "F73",
+     "Fuse MINI",
+     "7.5A",
+     "Data link connector, battery backup sounder"
+    ],
+    [
+     "F74",
+     "Fuse MINI",
+     "15A",
+     "High beam headlamp"
+    ],
+    [
+     "F75",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "F76",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamp"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "20A",
+     "Washer pump"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch"
+    ],
+    [
+     "F79",
+     "Fuse MINI",
+     "15A",
+     "Audio unit, DVD navigation, touchscreen, hazard flasher switch, door lock switch"
+    ],
+    [
+     "F81",
+     "Fuse MINI",
+     "5A",
+     "Power sunroof, interior motion sensor"
+    ],
+    [
+     "F82",
+     "Fuse MINI",
+     "20A",
+     "Washer pump"
+    ],
+    [
+     "F83",
+     "Fuse MINI",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "DD FF unlock supply / double lock (ground fuse)"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition switch"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "10A",
+     "Airbag module, occupant classification system, passenger airbag deactivation switch"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Cargo Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-connect-2018-genid-g2.0-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Rear heating, ventilation and air conditioning"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "25A",
+     "Driver seat adjuster"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "25A",
+     "Driver door module"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "25A",
+     "Passenger door module"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "25A",
+     "Door control unit rear left"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "25A",
+     "Door control unit rear right"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear blower motor"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "40A",
+     "Accessories, trailer tow module"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "40A",
+     "Taxi"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "5A",
+     "Rear view camera"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "Parking aid"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "Driver heated seat"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "15A",
+     "Passenger heated seat"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "Power sunblind"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Taxi"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "10A",
+     "Taxi connector"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "20A",
+     "Taxi connector"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear HVAC, ventilation and air conditioning motor"
+    ]
+   ]
+  }
+ ]
+}
