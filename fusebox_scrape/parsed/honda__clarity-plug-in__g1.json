@@ -1,0 +1,571 @@
+{
+ "make_slug": "honda",
+ "model_slug": "clarity-plug-in",
+ "brand_db": "Honda",
+ "model_db_name": "Clarity Plug-In",
+ "model_id": 2124,
+ "generation_name": "Generation G1 (ZC5)",
+ "generation_code": "g1",
+ "year_start": 2018,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/honda/clarity-plug-in/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box A",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-clarity-plug-in-2019-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "175A",
+     "Battery"
+    ],
+    [
+     "2-1",
+     "Other",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "2-2",
+     "Other",
+     "",
+     "ESB"
+    ],
+    [
+     "2-3",
+     "Other",
+     "",
+     "IG main (smart)"
+    ],
+    [
+     "2-4",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "2-5",
+     "Other",
+     "",
+     "Wiper motor 1"
+    ],
+    [
+     "2-6",
+     "Other",
+     "",
+     "ABS/VSA FSR"
+    ],
+    [
+     "3-1",
+     "Other",
+     "",
+     "Engine electric water pump"
+    ],
+    [
+     "3-2",
+     "Other",
+     "",
+     "Sub fuse box 2-1"
+    ],
+    [
+     "3-3",
+     "Other",
+     "",
+     "Sub fuse box 3-2"
+    ],
+    [
+     "3-4",
+     "Other",
+     "",
+     "IG main 2"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Headlight low beam main"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "EVTC"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "DTWP"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "VBU"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Stop lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "IGP"
+    ],
+    [
+     "12-1",
+     "Other",
+     "",
+     "Fuse box main 1"
+    ],
+    [
+     "12-2",
+     "Other",
+     "",
+     "Fuse box main 2"
+    ],
+    [
+     "12-3",
+     "Other",
+     "",
+     "Fuse box main 3"
+    ],
+    [
+     "12-4",
+     "Other",
+     "",
+     "Headlight high beam main"
+    ],
+    [
+     "12-5",
+     "Other",
+     "",
+     "Small lights main"
+    ],
+    [
+     "12-6",
+     "Other",
+     "",
+     "Sub fuse box 4"
+    ],
+    [
+     "12-8",
+     "Other",
+     "",
+     "Wiper motor 2"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater motor"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Battery sensor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "ES electric water pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "A/C main / daytime running lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "ES valve"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Backup"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "IGPS (LAF)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Right headlight low beam"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Left headlight low beam"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "IGPS"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box C",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-clarity-plug-in-2019-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "RFC1"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "RFC2"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "P-ACT"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "IGB RFC1"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "IGB RFC2"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Driver's Side Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-clarity-plug-in-2019-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "VB solenoid"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Shifter"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Option main"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "SRS option"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Meter"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Option"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Center accessory socket"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right side door lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Left side door unlock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power window"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "P-DRV"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "ACG"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Front sensor camera"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Driver's door lock"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Right side door unlock"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "Interior light"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat reclining"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Front seat heater"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat sliding"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "ABS/VSA"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Lid actuator"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left side door lock"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Driver's door unlock"
+    ],
+    [
+     "c",
+     "Fuse MINI",
+     "10A",
+     "QC CNT"
+    ],
+    [
+     "d",
+     "Fuse MINI",
+     "7.5A",
+     "Right headlight high beam"
+    ],
+    [
+     "e",
+     "Fuse MINI",
+     "7.5A",
+     "Left headlight high beam"
+    ],
+    [
+     "f",
+     "Fuse MINI",
+     "10A",
+     "IGC"
+    ],
+    [
+     "g",
+     "Fuse MINI",
+     "10A",
+     "Hazard"
+    ],
+    [
+     "h",
+     "Fuse MINI",
+     "15A",
+     "IGB"
+    ],
+    [
+     "i",
+     "Fuse MINI",
+     "10A",
+     "Smart entry"
+    ],
+    [
+     "j",
+     "Fuse MINI",
+     "10A",
+     "IGA"
+    ],
+    [
+     "k",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat reclining"
+    ],
+    [
+     "l",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat slide"
+    ],
+    [
+     "m",
+     "Fuse MINI",
+     "7.5A",
+     "Illumination"
+    ],
+    [
+     "n",
+     "Fuse MINI",
+     "7.5A",
+     "Small lights"
+    ]
+   ]
+  }
+ ]
+}
