@@ -1,0 +1,336 @@
+{
+ "make_slug": "honda",
+ "model_slug": "hr-v",
+ "brand_db": "Honda",
+ "model_db_name": "HR-V",
+ "model_id": 2143,
+ "generation_name": "1st generation (GH)",
+ "generation_code": "g1",
+ "year_start": 1998,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/honda/hr-v/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses in the instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-hr-v-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "SRS unit (VA)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "SRS unit (VA), inertia switch (KG/KE), PGM-FI main relay (others)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper motor, windshield washer motor"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Headlight adjuster (KG/KE), rear wiper/washer, power window master switch and relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Integrated control unit, turn signal/hazard relay, backup lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Gauge assembly, clock, keyless door lock unit, HO2S sensors, alternator, VSS, PCM, EVAP purge valve"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Distributor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Rear window defogger"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Blower/radiator/condenser fan relays, A/C switch and compressor clutch relay, ABS modulator, power mirrors, seat heater relay (KG)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "ECM/PCM, PGM-FI main relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Power window"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Power window"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Power window"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Audio unit, cigarette lighter"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Front fog lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "Clock, integrated control unit, ceiling lights, immobilizer indicator, cargo area light, ECM/PCM"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Audio unit"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Keyless / power door lock control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Taillight relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Seat heater main relay (KG) / shift lock relay (KQ/KU with CVT)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Turn signal/hazard relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-hr-v-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Right headlight, high beam indicator"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Taillight relay, taillights, license plate lights, gauge/panel lights, front parking lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Taillight relay, taillights, license plate lights, gauge/panel lights, front parking lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Turn signal/hazard lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Turn signal/hazard lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Rear fog light control unit (KG/KE models)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Brake lights, key interlock solenoid, ABS modulator, ECM/PCM"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Brake lights, key interlock solenoid, ABS modulator, ECM/PCM"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Left headlight"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "ABS modulator assembly"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power window relay, passenger's window motor"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window relay, passenger's window motor"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power window master switch, driver's window motor"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuses 23-25 (under-dash fuse box), option connector B"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "20A",
+     "Seat heaters (KG model)"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Radiator fan motor"
+    ],
+    [
+     "20",
+     "Fuse FLD/PAL 283",
+     "80A",
+     "Battery, power distribution"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Condenser fan motor, A/C compressor clutch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "PGM-FI main relay, data link connector"
+    ],
+    [
+     "23",
+     "Fuse FLD/PAL 283",
+     "50A",
+     "Ignition switch (BAT)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS modulator assembly"
+    ],
+    [
+     "U1",
+     "Relay",
+     "",
+     "Headlight relay 1"
+    ],
+    [
+     "U2",
+     "Relay",
+     "",
+     "Headlight relay 2"
+    ],
+    [
+     "U3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "U4",
+     "Relay",
+     "",
+     "Condenser fan relay"
+    ],
+    [
+     "U5",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "U6",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "U7",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ]
+   ]
+  }
+ ]
+}

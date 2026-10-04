@@ -1,0 +1,378 @@
+{
+ "make_slug": "honda",
+ "model_slug": "hr-v",
+ "brand_db": "Honda",
+ "model_db_name": "HR-V",
+ "model_id": 2143,
+ "generation_name": "Global / Vezel (RV)",
+ "generation_code": "g3a",
+ "year_start": 2021,
+ "year_end": 2026,
+ "trim_label": "Hybrid",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/honda/hr-v/info/fusebox/2022/trims-hybrid",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-hr-v-2022-genid-g3a-trims-hybrid-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Wipers"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Left LCM"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "PCU electric water pump"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Electric VTC"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Ignition (IGP)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle system"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/VSA motor"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan (main fan)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Engine water pump"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Keyless access"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Intelligent battery sensor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Right LCM"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Backup FI-ECU"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Sub audio"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Front fog lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Backup lights"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan motor (sub fan)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/VSA FSR"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "IGP2 sub"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Lean air flow sensor (LAF)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver Side Interior Fuse Box (Type A)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-hr-v-2022-genid-g3a-trims-hybrid-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "ACC key lock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Blind spot information system [not available on all models]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "LCM [not available on all models]"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Option 2"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Meter"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "MON"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right side door lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Left side door unlock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Rear left side power window"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power window"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Transmission"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "USB charger [not available on all models]"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Super locking [not available on all models]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Starter cut relay"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Right side door unlock"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Rear right side power window"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Front accessory power socket"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Heated windscreen [not available on all models]"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Front seat heaters"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "VSA/ABS"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Heated steering wheel [not available on all models]"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left side door lock"
+    ]
+   ]
+  }
+ ]
+}
