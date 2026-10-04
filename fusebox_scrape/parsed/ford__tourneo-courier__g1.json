@@ -1,0 +1,612 @@
+{
+ "make_slug": "ford",
+ "model_slug": "tourneo-courier",
+ "brand_db": "Ford",
+ "model_db_name": "Tourneo Courier",
+ "model_id": 1943,
+ "generation_name": "G1 (B460)",
+ "generation_code": "g1",
+ "year_start": 2021,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/ford/tourneo-courier/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-tourneo-courier-2023-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Anti-lock brake system"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "60A",
+     "Passenger compartment fuse box supply"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Central locking system"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition relay"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plugs"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "60A",
+     "Heated windshield"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "60A",
+     "Selective catalytic reduction system"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Left-hand high beam"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Right-hand high beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Water pump (gasoline), nitrogen oxides sensor (diesel)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil (gasoline)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Active grille shutter, oil pump, A/C compressor (diesel)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "PCM (gasoline); heated oxygen sensor, EGR cooler bypass valve, wastegate solenoid, water-in-fuel sensor (diesel)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Heated oxygen sensor (gasoline)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module (diesel)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Particulate matter sensor (diesel)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning compressor (gasoline)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Fuel delivery module (diesel)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Direction indicators"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Left-hand exterior lamps"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Right-hand exterior lamps"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "Powertrain control module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Anti-lock brake system"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "Nitrogen oxides sensor relay coil supply (diesel)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Heated rear window"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump, fuel heater"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Anti-theft alarm"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Powertrain control module (diesel)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Glow plugs relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Nitrogen oxides sensor relay (diesel)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Air conditioning clutch relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front fog lamps relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Fuel pump, fuel heater relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "PCM relay (diesel), reversing lamp (diesel)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-tourneo-courier-2023-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Heated windshield blower motor, rain sensor module, auto-dimming interior mirror, front interior lamp"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Stoplamp switch"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Reversing lamps, rear parking aid camera"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Windshield heated washer jets, headlamp leveling"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Exterior mirrors"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer pump"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "3A",
+     "USB charger"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Passenger heated seat"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Driver heated seat"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Airbag module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Blower motor relay, engine immobilizer, electronic power assist steering, instrument panel cluster"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "PCM, fuel pump, accelerator pedal position sensor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Audio unit, instrument panel cluster"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Selective catalytic reduction system"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Passenger airbag deactivation indicator"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Data link connector"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Audio unit"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "Front control/display interface module, A/C control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "SYNC module"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Windshield wipers"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "30A",
+     "Voltage quality module"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear auxiliary power points"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter socket, front auxiliary power points"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Left-hand heated windshield element"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "Right-hand heated windshield element"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Central locking system"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "Anti-theft alarm"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "25A",
+     "Driver door module"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "25A",
+     "Passenger door module"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "7.5A",
+     "Rear parking aid camera"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "Dosing control unit"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "Dosing control unit"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "Dosing control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cigar lighter socket, front auxiliary power points relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Central locking system relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heated exterior mirrors relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Selective catalytic reduction system relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Rear auxiliary power points relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Heated windshield relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Windshield washer pump relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Windshield washer pump relay"
+    ]
+   ]
+  }
+ ]
+}
