@@ -1,0 +1,444 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "grand-i10",
+ "brand_db": "Hyundai",
+ "model_db_name": "Grand i10",
+ "model_id": null,
+ "generation_name": "G1 (BA)",
+ "generation_code": "g1",
+ "year_start": 2013,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/hyundai/grand-i10/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-grand-i10-2020-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "25A",
+     "Safety power window ECU"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "25A",
+     "Power window RH: driver/passenger window switches"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "10A",
+     "Outside mirror: MTC unit, mirrors, ECU"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamps LH/RH"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "20A",
+     "Door lock: latches/actuators, tailgate latch, BCM"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "25A",
+     "Power window LH: driver/passenger window switches"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "DRL LH/RH, DRL unit, BCM"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Fog lamps LH/RH, instrument cluster"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "25A",
+     "PDM 1: smart key unit"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Hazard: sound relay, hazard switch"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Audio"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Room lamp"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp: SSEM unit"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "ACC: audio unit, clock, power outlet relay"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "7.5A",
+     "Start: start relay, ECU, smart key, inhibitor switch"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "PDM 2: smart key unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "Rear power outlet"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Sensor: fuel water sensor, vacuum pump relay"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Module 3: console switch"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Rear combination lamp LH, headlamp LH"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Module 2: audio, TPMS, stop switch, BWS sensors"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "TCU: speed sensors, inhibitor switch"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Rear combination lamp RH, headlamp RH"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Brake switch: stop switch"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper motor, multifunction switch"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster unit"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Airbag control unit"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "MOT: ECU, smart key unit"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "7.5A",
+     "Blower: ECU, MTC unit"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Module 5: leveling actuators/switch, mirror, headlamp relays"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "7.5A",
+     "ABS/ESC units"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "Module 1: BCM"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "10A",
+     "Module 4: BCM, smart key unit"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "A/C 2: MTC unit, ionizer, blower relay"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "25A",
+     "Wiper: front wiper motor, multifunction switch"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "10A",
+     "Turn signal"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-grand-i10-2020-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS control module"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "50A",
+     "ESP1 control module"
+    ],
+    [
+     "F06",
+     "Fuse FMX/JCase",
+     "30A",
+     "ESP 2: ESP1 control module"
+    ],
+    [
+     "F07",
+     "Fuse FMX/JCase",
+     "50A",
+     "B+4"
+    ],
+    [
+     "F08",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG1: ignition switch / PDM relay block (IGN1, ACC relays)"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "50A",
+     "B+2: instrument fuse block (F7/F11/F12/F16)"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "40A",
+     "B+3: instrument fuse block (tail light relay, power window relay, F1)"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "50A",
+     "B+1: instrument fuse block (F6/F9/F10/F13/F28, memory fuses F45/F46)"
+    ],
+    [
+     "F13",
+     "Other",
+     "",
+     "Alternator, battery, alternator-fed fuses"
+    ],
+    [
+     "F14",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "ECU4"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Injector: immobilizer, fuel pump relay, injectors"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils, capacitor"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Reverse light: PCM, range switch, BCM, cluster, rear lamps"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Light indicator: instrument"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "ECU3: A/T PCM"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "ECU 2"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Sensor1: PCM, purge solenoid, oil control valves, camshaft/oxygen sensors"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Sensor2: A/T PCM"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Low beam RH"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Low beam LH"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fan: slow/fast fan relays"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU1: engine control relay, ECU3 fuse"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Horn relay, burglar alarm horn relay"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "High beam headlight"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "20A",
+     "Low beam headlight"
+    ],
+    [
+     "F34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan"
+    ],
+    [
+     "F35",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG2: starter relay, ignition switch / PDM relay box (IGN2)"
+    ]
+   ]
+  }
+ ]
+}
