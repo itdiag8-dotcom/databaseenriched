@@ -1,0 +1,492 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "jimmy",
+ "brand_db": "GMC",
+ "model_db_name": "Jimmy",
+ "model_id": 1992,
+ "generation_name": "Jimmy (S-Series) (GMT330)",
+ "generation_code": "g2-s-series",
+ "year_start": 1995,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/gmc/jimmy/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-jimmy-2005-genid-g2%2520(s__series)-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter, data link connector"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Cruise control module and switch, body control module, heated seats"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Gauges, body control module, instrument panel cluster"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Parking lamps, power window switch, body control module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Steering wheel radio controls"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Headlamp switch, body control module, headlamp relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Courtesy lamps, battery run-down protection"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "HVAC control head (manual)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Turn signal"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Cluster, engine control module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Interior lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Auxiliary power"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Power locks motor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "4WD switch, engine controls (VCM, PCM, transmission)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Supplemental inflatable restraint"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Front wiper"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Steering wheel radio controls"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Radio, battery"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "HVAC (manual/automatic), HVAC sensors"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Anti-lock brakes"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Radio, ignition"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-jimmy-2005-genid-g2%2520(s__series)-1.webp",
+   "fuses": [
+    [
+     "INT BAT",
+     "Fuse MAXI",
+     "",
+     "Instrument panel fuse block feed"
+    ],
+    [
+     "ABS",
+     "Fuse MAXI",
+     "",
+     "Anti-lock brake system"
+    ],
+    [
+     "IGN B",
+     "Fuse MAXI",
+     "",
+     "Column feed, ignition 2, 3, 4"
+    ],
+    [
+     "RAP",
+     "Fuse MAXI",
+     "",
+     "Retained accessory power"
+    ],
+    [
+     "IGN A",
+     "Fuse MAXI",
+     "",
+     "Starting and charging ignition 1"
+    ],
+    [
+     "STUD #2",
+     "Fuse MAXI",
+     "",
+     "Accessory feeds, electric brake"
+    ],
+    [
+     "TRL LTRN",
+     "Fuse MINI",
+     "",
+     "Trailer left turn"
+    ],
+    [
+     "LT TRN",
+     "Fuse MINI",
+     "",
+     "Left turn signal rear"
+    ],
+    [
+     "BTSI",
+     "Fuse MINI",
+     "",
+     "Automatic transmission shift lock control system"
+    ],
+    [
+     "PRK LAMP",
+     "Fuse MINI",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "HVAC",
+     "Fuse MINI",
+     "",
+     "HVAC system"
+    ],
+    [
+     "HAZRD LP",
+     "Fuse MINI",
+     "",
+     "Hazard lamps"
+    ],
+    [
+     "TRL RTRN",
+     "Fuse MINI",
+     "",
+     "Trailer right turn"
+    ],
+    [
+     "RT TRN",
+     "Fuse MINI",
+     "",
+     "Right turn signal rear"
+    ],
+    [
+     "TRLCHMSL",
+     "Fuse MINI",
+     "",
+     "Trailer center high mount stop light"
+    ],
+    [
+     "VECHMSL",
+     "Fuse MINI",
+     "",
+     "Vehicle center high-mounted stop lamp"
+    ],
+    [
+     "TRL B/U",
+     "Fuse MINI",
+     "",
+     "Trailer back up lamps"
+    ],
+    [
+     "ECM I",
+     "Fuse MINI",
+     "",
+     "Engine control module injectors"
+    ],
+    [
+     "VEH B/U",
+     "Fuse MINI",
+     "",
+     "Vehicle back up lamps"
+    ],
+    [
+     "ENG I",
+     "Fuse MINI",
+     "",
+     "Engine sensors/solenoids, MAF, CAM, purge, vent"
+    ],
+    [
+     "OXY SNSR",
+     "Fuse MINI",
+     "",
+     "Oxygen sensor"
+    ],
+    [
+     "REAR PRK",
+     "Fuse MINI",
+     "",
+     "Right rear parking lamps"
+    ],
+    [
+     "ECM B",
+     "Fuse MINI",
+     "",
+     "Engine control module, fuel pump module, oil pressure"
+    ],
+    [
+     "B/U LAMP",
+     "Fuse MINI",
+     "",
+     "Back up lamps"
+    ],
+    [
+     "IGN E",
+     "Fuse MINI",
+     "",
+     "Engine"
+    ],
+    [
+     "L RR PRK",
+     "Fuse MINI",
+     "",
+     "Left rear parking lamps"
+    ],
+    [
+     "RR DEFOG",
+     "Fuse MINI",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "TRL PRK",
+     "Fuse MINI",
+     "",
+     "Trailer park lamps"
+    ],
+    [
+     "LT HDLP",
+     "Fuse MINI",
+     "",
+     "Left headlamp"
+    ],
+    [
+     "HTDMIR",
+     "Fuse MINI",
+     "",
+     "Heated mirror"
+    ],
+    [
+     "RT HDLP",
+     "Fuse MINI",
+     "",
+     "Right headlamp"
+    ],
+    [
+     "MIR/LKS",
+     "Fuse MINI",
+     "",
+     "Mirrors, door locks"
+    ],
+    [
+     "ATC",
+     "Fuse MINI",
+     "",
+     "Transfer case (four-wheel drive)"
+    ],
+    [
+     "A/C",
+     "Fuse MINI",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "FOG LAMP",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "TBC",
+     "Fuse MINI",
+     "",
+     "Truck body computer"
+    ],
+    [
+     "RT TURN",
+     "Fuse MINI",
+     "",
+     "Right turn signal front"
+    ],
+    [
+     "CRNK",
+     "Fuse MINI",
+     "",
+     "Clutch switch, NSBU switch"
+    ],
+    [
+     "LT TURN",
+     "Fuse MINI",
+     "",
+     "Left turn signal front"
+    ],
+    [
+     "FT PRK",
+     "Fuse MINI",
+     "",
+     "Front parking lamps"
+    ],
+    [
+     "IGN C",
+     "Fuse MINI",
+     "",
+     "Starter solenoid, fuel pump, PRNDL"
+    ],
+    [
+     "STOP LAMP",
+     "Fuse MINI",
+     "",
+     "Stop lamps"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "HTD/SEAT",
+     "Fuse MINI",
+     "",
+     "Heated seat"
+    ],
+    [
+     "RR W/W",
+     "Fuse MINI",
+     "",
+     "Rear window wiper"
+    ],
+    [
+     "STRTR",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "REAR DEFOG",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "FUEL PUMP",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "HEADLAMP PWR",
+     "Relay",
+     "",
+     "Headlamp power"
+    ],
+    [
+     "DRL",
+     "Relay",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "LG",
+     "Relay",
+     "",
+     "Liftglass"
+    ],
+    [
+     "A/C_R",
+     "Relay",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "FOG LAMP_R",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "HORN_R",
+     "Relay",
+     "",
+     "Horn"
+    ]
+   ]
+  }
+ ]
+}
