@@ -1,0 +1,528 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "freemont",
+ "brand_db": "Fiat",
+ "model_db_name": "Freemont",
+ "model_id": 1687,
+ "generation_name": "1st generation (\"JC49\")",
+ "generation_code": "g1",
+ "year_start": 2012,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/fiat/freemont/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-freemont-2015-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F100",
+     "Fuse FMM/MCase",
+     "30A",
+     "110V AC inverter (if equipped)"
+    ],
+    [
+     "F101",
+     "Fuse MICRO2",
+     "10A",
+     "Interior lights"
+    ],
+    [
+     "F102",
+     "Fuse MICRO2",
+     "20A",
+     "Cigar lighter in instrument panel / left rear power outlet"
+    ],
+    [
+     "F103",
+     "Fuse MICRO2",
+     "20A",
+     "Power outlet in console bin / power outlet in rear of console"
+    ],
+    [
+     "F105",
+     "Fuse MICRO2",
+     "20A",
+     "Heated seats (if equipped)"
+    ],
+    [
+     "F106",
+     "Fuse MICRO2",
+     "20A",
+     "Rear power outlet"
+    ],
+    [
+     "F107",
+     "Fuse MICRO2",
+     "10A",
+     "Rear camera (if equipped)"
+    ],
+    [
+     "F108",
+     "Fuse MICRO2",
+     "15A",
+     "Instrument panel"
+    ],
+    [
+     "F109",
+     "Fuse MICRO2",
+     "10A",
+     "Climate control / HVAC"
+    ],
+    [
+     "F110",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant restraint controller"
+    ],
+    [
+     "F114",
+     "Fuse MICRO2",
+     "20A",
+     "Rear HVAC blower / motor"
+    ],
+    [
+     "F115",
+     "Fuse MICRO2",
+     "20A",
+     "Rear wiper motor"
+    ],
+    [
+     "F116",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defroster (EBL)"
+    ],
+    [
+     "F117",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "F118",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant restraint controller"
+    ],
+    [
+     "F119",
+     "Fuse MICRO2",
+     "10A",
+     "Steering column control module"
+    ],
+    [
+     "F120",
+     "Fuse MICRO2",
+     "10A",
+     "All wheel drive (if equipped)"
+    ],
+    [
+     "F121",
+     "Fuse MICRO2",
+     "15A",
+     "Wireless ignition node"
+    ],
+    [
+     "F122",
+     "Fuse MICRO2",
+     "25A",
+     "Driver door module"
+    ],
+    [
+     "F123",
+     "Fuse MICRO2",
+     "25A",
+     "Passenger door module"
+    ],
+    [
+     "F124",
+     "Fuse MICRO2",
+     "10A",
+     "Mirrors"
+    ],
+    [
+     "F125",
+     "Fuse MICRO2",
+     "10A",
+     "Steering column control module"
+    ],
+    [
+     "F126",
+     "Fuse MICRO2",
+     "25A",
+     "Audio amplifier"
+    ],
+    [
+     "F127",
+     "Fuse MICRO2",
+     "20A",
+     "Trailer tow (if equipped)"
+    ],
+    [
+     "F128",
+     "Fuse MICRO2",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F129",
+     "Fuse MICRO2",
+     "15A",
+     "Video/DVD (if equipped)"
+    ],
+    [
+     "F130",
+     "Fuse MICRO2",
+     "15A",
+     "Climate control / instrument panel"
+    ],
+    [
+     "F131",
+     "Fuse MICRO2",
+     "10A",
+     "Passenger assistance / hands free system (if equipped)"
+    ],
+    [
+     "F132",
+     "Fuse MICRO2",
+     "10A",
+     "Tire pressure module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Underhood Fuses (Power Distribution Center)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-freemont-2015-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F101",
+     "Fuse FMX/JCase",
+     "60A",
+     "Interior power distribution center rail"
+    ],
+    [
+     "F102",
+     "Fuse FMX/JCase",
+     "60A",
+     "Interior power distribution center rail"
+    ],
+    [
+     "F103",
+     "Fuse FMX/JCase",
+     "60A",
+     "Interior power distribution center rail"
+    ],
+    [
+     "F105",
+     "Fuse FMX/JCase",
+     "60A",
+     "Interior power distribution center rail ignition run relay"
+    ],
+    [
+     "F106",
+     "Fuse FMX/JCase",
+     "60A",
+     "Interior power distribution center rail run/accessory relays"
+    ],
+    [
+     "F139",
+     "Fuse FMX/JCase",
+     "40A",
+     "Climate control system blower"
+    ],
+    [
+     "F140",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power locks"
+    ],
+    [
+     "F141",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system"
+    ],
+    [
+     "F142",
+     "Fuse FMX/JCase",
+     "40A",
+     "Glow plugs (if equipped)"
+    ],
+    [
+     "F143",
+     "Fuse FMX/JCase",
+     "40A",
+     "Exterior lights 1"
+    ],
+    [
+     "F144",
+     "Fuse FMX/JCase",
+     "40A",
+     "Exterior lights 2"
+    ],
+    [
+     "F145",
+     "Fuse FMM/MCase",
+     "30A",
+     "To body computer - lamp"
+    ],
+    [
+     "F148",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan motor"
+    ],
+    [
+     "F149",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "F150",
+     "Fuse MINI",
+     "25A",
+     "Powertrain control modules"
+    ],
+    [
+     "F151",
+     "Fuse FMM/MCase",
+     "30A",
+     "Headlamp washer motor (if equipped)"
+    ],
+    [
+     "F152",
+     "Fuse MINI",
+     "25A",
+     "Diesel fuel heater (if equipped)"
+    ],
+    [
+     "F153",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F156",
+     "Fuse MINI",
+     "10A",
+     "Brake / electronic stability control module"
+    ],
+    [
+     "F157",
+     "Fuse MINI",
+     "10A",
+     "Power transfer unit module (if equipped)"
+    ],
+    [
+     "F158",
+     "Fuse MINI",
+     "10A",
+     "Active hood module (if equipped)"
+    ],
+    [
+     "F160",
+     "Fuse MINI",
+     "20A",
+     "Interior lights"
+    ],
+    [
+     "F161",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "F162",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cabin heater #1"
+    ],
+    [
+     "F162",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cabin heater #1 / vacuum pump (if equipped)"
+    ],
+    [
+     "F163",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cabin heater #2 (if equipped)"
+    ],
+    [
+     "F164",
+     "Fuse MINI",
+     "25A",
+     "Powertrain auto shutdown"
+    ],
+    [
+     "F165",
+     "Fuse MINI",
+     "20A",
+     "Powertrain shutdown"
+    ],
+    [
+     "F167",
+     "Fuse MINI",
+     "30A",
+     "Powertrain shutdown"
+    ],
+    [
+     "F168",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner clutch"
+    ],
+    [
+     "F169",
+     "Fuse FMX/JCase",
+     "40A",
+     "Emissions - partial zero emissions vehicle motor"
+    ],
+    [
+     "F170",
+     "Fuse MINI",
+     "15A",
+     "Emissions - partial zero emissions vehicle actuators"
+    ],
+    [
+     "F173",
+     "Fuse MINI",
+     "25A",
+     "Anti-lock brake valves"
+    ],
+    [
+     "F174",
+     "Fuse MINI",
+     "20A",
+     "Siren (if equipped)"
+    ],
+    [
+     "F176",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control modules"
+    ],
+    [
+     "F177",
+     "Fuse MINI",
+     "20A",
+     "All wheel drive module (if equipped)"
+    ],
+    [
+     "F178",
+     "Fuse MINI",
+     "25A",
+     "Sunroof (if equipped)"
+    ],
+    [
+     "F179",
+     "Fuse MINI",
+     "10A",
+     "Battery sensor"
+    ],
+    [
+     "F182",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cabin heater #3 (if equipped)"
+    ],
+    [
+     "F184",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wiper motor"
+    ],
+    [
+     "F181",
+     "Fuse",
+     "",
+     "Electrohydraulic steering (EHPS) (if equipped)"
+    ],
+    [
+     "K133",
+     "Relay",
+     "",
+     "PAD fan low"
+    ],
+    [
+     "K134",
+     "Relay",
+     "",
+     "PAD fan high"
+    ],
+    [
+     "K135",
+     "Relay",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "K136",
+     "Relay",
+     "",
+     "PZEV air pump"
+    ],
+    [
+     "K137",
+     "Relay",
+     "",
+     "Vacuum pump (V6), cabin heater #1 (diesel)"
+    ],
+    [
+     "K138",
+     "Relay",
+     "",
+     "Cabin heater #2"
+    ],
+    [
+     "K139",
+     "Relay",
+     "",
+     "Cabin heater #3"
+    ],
+    [
+     "K140",
+     "Relay",
+     "",
+     "Starter solenoid #2"
+    ],
+    [
+     "K143",
+     "Relay",
+     "",
+     "Diesel fuel heater"
+    ],
+    [
+     "K144",
+     "Relay",
+     "",
+     "PCM/TCM"
+    ],
+    [
+     "K145",
+     "Relay",
+     "",
+     "IGN run/start"
+    ],
+    [
+     "K151",
+     "Relay",
+     "",
+     "Front wiper on/off"
+    ],
+    [
+     "K152",
+     "Relay",
+     "",
+     "Front wiper hi/lo"
+    ]
+   ]
+  }
+ ]
+}
