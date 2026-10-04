@@ -1,0 +1,541 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "i10",
+ "brand_db": "Hyundai",
+ "model_db_name": "i10",
+ "model_id": 2207,
+ "generation_name": "1st generation facelift (PA)",
+ "generation_code": "g1.1",
+ "year_start": 2011,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/hyundai/i10/info/fusebox/2016/1st-gen-1st-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i10-2016-genid-g1.1-0.webp",
+   "fuses": [
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Audio B+: audio system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Room lamp: interior lights"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "Power windows LH"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "25A",
+     "Power windows RH"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Tail light LH"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Tail light RH"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "Door lock / sunroof: power door lock system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Wiper signal: wipers"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "ABS, stop switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Turn signal"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "MDPS / EPS"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Audio ACC: audio system"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Rear power outlet"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter / power outlet"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Starter system"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Headlamps"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "IG2: several circuits"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "25A",
+     "Front wipers"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lights"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "Seat heater"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Front fog lights"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Heated indicator"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Backup lights 2"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment main fuse panel (1.1L / 1.2L)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i10-2016-genid-g1.1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "80A",
+     "EPS control module"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "100A",
+     "Alternator"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "I/P fuse and relay box (fuses F7/F8)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "I/P fuse and relay box (power window relay)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/ESP control module, multipurpose check connector"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/ESP control module"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fan relay"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "Ignition switch"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "E/R box (F18, relay 7); I/P box (connectors F1/F2, fuses F29-F32)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "E/R box (F15, relay R1)"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "E/R box (relay R8)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "E/R box (relay R2)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Heater control module, A/C switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "PCM"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Injectors, idle speed actuator, ECM/PCM, oil control valves, purge solenoid (G4HG/G4LA)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "ECM/PCM, immobilizer, oxygen sensors, camshaft/crankshaft sensors, purge solenoid"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "E/R box (relay R5)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Left headlight"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Right headlight"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "E/R box (fuses F13, F15, F20)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment main fuse panel (1.0L)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i10-2016-genid-g1.1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "80A",
+     "EPS control unit"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "100A",
+     "Alternator"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Passenger compartment fuse box (fuses 7, 8)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Passenger compartment fuse box (relay R2)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS, ESP, diagnostic connector"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS, EPS"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "Ignition switch"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "E/R box fuse 18, relay R7; passenger box fuses 1, 2, 29-32"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "E/R box fuse 15, relay R2"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "E/R box relay R6"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "E/R box relay R1"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Heating controller, A/C switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Injectors, idle speed motor, engine controller, camshaft timing solenoids, purge valve"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Engine controller, immobilizer, oxygen sensors, camshaft/crankshaft sensors"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "E/R box relay R5"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Left front headlight"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Right front headlight"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "E/R box fuses 13, 15, 20"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ]
+   ]
+  }
+ ]
+}

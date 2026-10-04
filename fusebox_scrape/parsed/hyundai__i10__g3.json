@@ -1,0 +1,793 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "i10",
+ "brand_db": "Hyundai",
+ "model_db_name": "i10",
+ "model_id": 2207,
+ "generation_name": "3rd generation (AC3/AI3)",
+ "generation_code": "g3",
+ "year_start": 2019,
+ "year_end": 2024,
+ "trim_label": "Nio",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/hyundai/i10/info/fusebox/2021/ver-nio",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel (ICU)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i10-2021-genid-g3-ver-nio-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Room lamp"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Outside mirror heated"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "25A",
+     "Front power window LH"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "Sensor: fuel water sensor"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "15A",
+     "IBU1: body control module (IBU)"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "20A",
+     "Multimedia: audio"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "25A",
+     "Front power window RH"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "TCU: AT speed sensor, inhibitor switch; AMT lever"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Brake switch: stop switch"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "Memory: A/C (FATC), cluster"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "7.5A",
+     "Start: inhibitor switch, start relay"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "Folding mirror"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module1: stop switch"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Rear fog lamp: multifunction switch"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag: ACU"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "ECU, air flow sensor"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "DRL, DRL position lamp"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "Module6: OBD"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "15A",
+     "Hazard switch, IBU (turn signal)"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Module2: ESC switch, BCM (IBU)"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module3: FATC, AT lever indicator, headlamp projection, audio, AVN"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper motor, washer motor"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "7.5A",
+     "Airbag indicator: cluster"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "IBU2: BCM (IBU)"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "7.5A",
+     "ABS/ESC unit"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Front wiper: multifunction switch, wiper motor"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 2: MTC, FATC, dual switch"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cluster"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "ACC: VDMS extension, USB charger, audio, IBU"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "Modules: VDMS extension"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module4: BCM (IBU)"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "20A",
+     "Rear power outlet"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 1: FATC, blower motor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse panel (PCB)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i10-2021-genid-g3-ver-nio-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "7.5A",
+     "Tail LH: position lamp LH, headlamp LH, rear combination lamp LH"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Outside mirror heated"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "25A",
+     "Front power window LH"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "Sensor: fuel water sensor"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "7.5A",
+     "Tail RH: position lamp RH, headlamp RH, rear combination lamp RH"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "25A",
+     "Front power window RH"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "TCU: AT speed sensor, inhibitor switch; AMT lever"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Brake switch: stop switch"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "Stop lamp, rear combination lamp, HMSL"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "7.5A",
+     "Start: inhibitor switch, start relay"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "Folding mirror"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module1: stop switch"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Rear fog lamp: multifunction switch"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Immobilizer unit"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag: ACU"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "ECU, air flow sensor"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "Module6: OBD"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "15A",
+     "Hazard switch, IBU (turn signal)"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Module2: ESC switch, BCM (IBU)"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module3: FATC, AT lever indicator, headlamp projection, audio, AVN"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp relay"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper motor, washer motor"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "7.5A",
+     "Airbag indicator: cluster"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "Turn signal: hazard switch"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "7.5A",
+     "ABS/ESC unit"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Front wiper: multifunction switch, wiper motor"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 2: MTC, FATC, dual switch"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cluster"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "ACC: VDMS extension, USB charger, audio, IBU"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "Module5: VDMS extension"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "20A",
+     "Rear power outlet"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 1: FATC, blower motor"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "30A",
+     "Audio"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "10A",
+     "Room lamp"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i10-2021-genid-g3-ver-nio-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear heated relay"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 1: starting"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery 3: ICU"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery 2: ICU"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery 2: PCB"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Battery 1: ICU"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery 1: PCB"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "AMT 1"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery 4: ICU"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS/ESC 2 unit"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power outlet: ICU, PCB"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS/ESC 1 unit"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "40A",
+     "AMT 2"
+    ],
+    [
+     "15",
+     "Fuse FMM/MCase",
+     "30A",
+     "ECU 1"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "30A",
+     "Ignition 2: starting, start relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp 1: back-up relay"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Front wiper, ECU"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "ECU 3 (MT, AT, BS6)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Headlamp LH, headlamp projection LH"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Headlamp RH, headlamp projection RH"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "ECU 7: main relay"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "ECU 8: main relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Headlamp high: cluster"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "ECU 2: main relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECU 5: main relay"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "ECU 4: main relay"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "ECU 6: main relay, ignition coil extension"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp 2: back-up relay"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Headlamp relay"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high relay"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Alternator management system: ECU (U2)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump 3: fuel pump relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "AMT"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Vacuum pump: main relay"
+    ],
+    [
+     "39",
+     "Other",
+     "",
+     "Alternator"
+    ],
+    [
+     "40",
+     "Other",
+     "",
+     "MDPS"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay: ECU"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start relay: ECU, start solenoid"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay: PCB, ICU"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Burglar alarm horn relay: IBU"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay: ECU"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Back-up lamp / vacuum pump relay: AMT, ECU"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "A/C relay: ECU"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan relay: radiator fan motor, ECU"
+    ]
+   ]
+  }
+ ]
+}

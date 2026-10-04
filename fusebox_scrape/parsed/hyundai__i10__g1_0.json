@@ -1,0 +1,469 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "i10",
+ "brand_db": "Hyundai",
+ "model_db_name": "i10",
+ "model_id": 2207,
+ "generation_name": "1st generation pre-facelift (PA)",
+ "generation_code": "g1.0",
+ "year_start": 2007,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/hyundai/i10/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Internal compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i10-2010-genid-g1.0-0.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Power window LH: main switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Power window RH: main switch, passenger switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp LH: rear combination LH, DRL module, headlamp LH, license lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp RH: rear combination RH, headlamp RH"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Audio B+"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Room lamp: SRS module, room lamp switch, cluster, PTC heater, clock, luggage/console lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Hazard switch, hazard relay"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Horn relay, horn, dual horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Front fog lamp relay/switch/lamps"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESP module, check connector, ESP switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Turn signal: hazard switch"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil: speed sensor, air flow sensor, ECM/PCM, pulse generator A, fuel heater relay"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp switch, ATM shift lever, range switch, pulse generator B"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator: cluster"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Cluster, ETACM, generator, EPS control module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Audio ACC: clock, audio, mirror switch"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "A/C switch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Heated indicator: ECM, PCM, rear defogger switch"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "DRL control module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "IG2: defogger/power window relays, headlamps, leveling switch, ETACM, PTC heater, SRS, blower"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Headlamp LH, cluster (high beam)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Headlamp RH"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "25A",
+     "Front wiper: multifunction switch, rear wiper motor, sunroof motor"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamp relay/switch"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "Seat heater switches"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper: multifunction switch, rear wiper motor, sunroof motor"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Door lock and sunroof: lock/unlock relays, ETACM, driver lock actuator"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "25A",
+     "Heated glass: rear defogger relay, rear defogger"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Start relay, burglar alarm relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear fog lamp relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Tail lamp relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp high relay (India)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Flasher unit"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Blower relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i10-2010-genid-g1.0-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MIDI",
+     "80A",
+     "MDPS: EPS control module"
+    ],
+    [
+     "F2",
+     "Fuse MIDI",
+     "125A",
+     "Main: generator (diesel)"
+    ],
+    [
+     "F2",
+     "Fuse MIDI",
+     "100A",
+     "Main: generator (petrol)"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "50A",
+     "IGN 2: ignition switch, start relay"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "IGN 1: ignition switch"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT 1: tail lamp relay, power connector (room lamp, audio B+, A/C)"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU: main relay, ECM/PCM, fuel pump relay"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan #1/#2 relays"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT 2: heated glass, door lock/sunroof, hazard, horn, front fog, stop lamp fuses"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window relay"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 2: ABS/ESP module, check connector"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1: ABS/ESP module, check connector"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower relay"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel filter heater relay (diesel)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "ECU 2: ECM, PCM"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Injector: fan/A-C/fuel pump relays, ECM/PCM, idle actuator, VGT/EGR actuators, glow plug relay, injectors"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Sensor: PCM, purge solenoid, crankshaft/camshaft sensors, oxygen sensors, immobilizer, stop lamp switch"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "ECU (diesel): ECM"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump (petrol): relay, check connector, fuel sender and pump motor"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "A/C relay, A/C compressor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay (petrol)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel filter heater relay (diesel)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Radiator fan #1 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Radiator fan #2 relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fusible link box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i10-2010-genid-g1.0-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC heater 1"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater 2"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "80A",
+     "Glow plug"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC heater 3"
+    ]
+   ]
+  }
+ ]
+}
