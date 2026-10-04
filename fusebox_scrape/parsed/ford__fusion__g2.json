@@ -1,0 +1,499 @@
+{
+ "make_slug": "ford",
+ "model_slug": "fusion",
+ "brand_db": "Ford",
+ "model_db_name": "Fusion",
+ "model_id": 1843,
+ "generation_name": "2nd generation (CD391)",
+ "generation_code": "g2",
+ "year_start": 2013,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/ford/fusion/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fusion-2020-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "30A",
+     "Panoramic moonroof"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Rain sensor"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 3 - back of console"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Powertrain control module - vehicle power 1, PCM power"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "Powertrain control module - vehicle power 2, emission components"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 1 - driver front"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "15A",
+     "Powertrain control module - vehicle power 4, ignition coils"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "15A",
+     "Powertrain control module - vehicle power 3, non-emission components"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "Run-start relay"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 2 - console"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Run-start electronic power assist steering"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Adaptive cruise control"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "Run/start transmission control, transmission oil pump start/stop"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioner clutch solenoid"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "15A",
+     "Run-start: blind spot information system, rear view camera, heads-up display, voltage stability module, gear shift actuator"
+    ],
+    [
+     "25",
+     "Fuse MICRO3",
+     "10A",
+     "Run-start anti-lock brake system"
+    ],
+    [
+     "26",
+     "Fuse MICRO3",
+     "10A",
+     "Run-start powertrain control module"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "5A",
+     "Mass air flow monitor"
+    ],
+    [
+     "32",
+     "Relay",
+     "",
+     "Electric fan 1 relay"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "Electric fan 2 relay"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "Electric fan coil 2 and 3 relay"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Fuel pump coil relay"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "20A",
+     "Left hand side headlamp ballast"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "54",
+     "Fuse MICRO3",
+     "10A",
+     "Brake on-off switch"
+    ],
+    [
+     "55",
+     "Fuse MICRO3",
+     "10A",
+     "ALT sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power Distribution Box - Bottom",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fusion-2020-genid-g2-1.webp",
+   "fuses": [
+    [
+     "58",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump feed"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric fan 3"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric fan 1 [1.5L, 2.0L and 2.5L engines]"
+    ],
+    [
+     "62",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module 1"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "25A",
+     "Electric fan 2 [1.5L, 2.0L and 2.5L engines]"
+    ],
+    [
+     "65",
+     "Fuse FMM/MCase",
+     "20A",
+     "Front heated seat"
+    ],
+    [
+     "67",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module 2"
+    ],
+    [
+     "68",
+     "Fuse FMM/MCase",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "69",
+     "Fuse FMM/MCase",
+     "30A",
+     "Anti-lock brake system valves"
+    ],
+    [
+     "70",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger seat"
+    ],
+    [
+     "72",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trans oil pump"
+    ],
+    [
+     "73",
+     "Fuse FMM/MCase",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "74",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver seat module"
+    ],
+    [
+     "75",
+     "Fuse FMM/MCase",
+     "25A",
+     "Wiper motor 1"
+    ],
+    [
+     "77",
+     "Fuse FMM/MCase",
+     "30A",
+     "Climate control seat module"
+    ],
+    [
+     "79",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "80",
+     "Fuse FMM/MCase",
+     "25A",
+     "Wiper motor 2"
+    ],
+    [
+     "83",
+     "Fuse FMM/MCase",
+     "20A",
+     "TRCM shifter"
+    ],
+    [
+     "84",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "87",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brake system pump"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fusion-2020-genid-g2-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "7.5A",
+     "Lumbar"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Driver door unlock"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "20A",
+     "Subwoofer amplifier"
+    ],
+    [
+     "10",
+     "Fuse MICRO3",
+     "5A",
+     "Keypad, cellphone passport module"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control, gear shift"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Steering wheel column lock, cluster, datalink logic"
+    ],
+    [
+     "14",
+     "Fuse MICRO3",
+     "10A",
+     "Extended power module"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "10A",
+     "Datalink gateway module"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "Child lock"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "5A",
+     "Push button stop start switch"
+    ],
+    [
+     "19",
+     "Fuse MICRO3",
+     "7.5A",
+     "Extended power module"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "7.5A",
+     "Adaptive headlamp"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "Humidity and in-car temperature sensor"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Delayed accessory (moonroof logic, driver master switch)"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Central lock/unlock"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "30A",
+     "Driver door (window, mirror)"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Front passenger door (window, mirror)"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "30A",
+     "Moonroof"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "30A",
+     "Rear driver side door (window)"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "30A",
+     "Rear passenger side door (window)"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Global positioning system, display, voice control, radio frequency receiver"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Radio, active noise control"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Run-start bus (fuses 19, 20, 21, 22, 35, 36, 37, circuit breaker)"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Auto-dimming rear view mirror, continuous control damping suspension, rear heated seats"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Heated steering wheel"
+    ]
+   ]
+  }
+ ]
+}
