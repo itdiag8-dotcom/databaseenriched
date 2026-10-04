@@ -1,0 +1,714 @@
+{
+ "make_slug": "ford",
+ "model_slug": "tourneo-custom",
+ "brand_db": "Ford",
+ "model_db_name": "Tourneo Custom",
+ "model_id": 1944,
+ "generation_name": "2nd generation (V710)",
+ "generation_code": "g2",
+ "year_start": 2023,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/ford/tourneo-custom/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Under hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-tourneo-custom-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "15A",
+     "Rear washer motor"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "15A",
+     "Left-hand side rear heated seat"
+    ],
+    [
+     "3",
+     "Fuse FMM/MCase",
+     "40A",
+     "Left-hand side front window defrost"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Auxiliary blower"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "15A",
+     "Power folding mirrors"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "5A",
+     "Rain sensor"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "15A",
+     "Right-hand side rear heated seat"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "5A",
+     "Tachograph"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "5A",
+     "USB smart charger 3"
+    ],
+    [
+     "15",
+     "Fuse FMM/MCase",
+     "40A",
+     "Positive temperature coefficient heater bank 3"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "30A",
+     "Upfitter 1"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "7.5A",
+     "Tachograph"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "5A",
+     "USB smart charger 1"
+    ],
+    [
+     "21",
+     "Fuse FMM/MCase",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Power steering module"
+    ],
+    [
+     "23",
+     "Fuse FMM/MCase",
+     "20A",
+     "Right-hand heated backlight"
+    ],
+    [
+     "24",
+     "Fuse FMM/MCase",
+     "60A",
+     "ABS valve / electric brake booster valve"
+    ],
+    [
+     "25",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 1 power outlet / cigar lighter"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "5A",
+     "USB smart charger 2"
+    ],
+    [
+     "27",
+     "Fuse FMM/MCase",
+     "40A",
+     "Right-hand front window defrost"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "5A",
+     "Interior power distribution box run/start relay coil"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "5A",
+     "All-wheel drive control module"
+    ],
+    [
+     "31",
+     "Fuse FMM/MCase",
+     "25A",
+     "Front wiper motor"
+    ],
+    [
+     "32",
+     "Fuse FMM/MCase",
+     "15A",
+     "Transaxle transmission oil pump"
+    ],
+    [
+     "33",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left-hand heated backlight / lift gate"
+    ],
+    [
+     "34",
+     "Fuse FMM/MCase",
+     "60A",
+     "ABS control module / electric brake booster pump"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "5A",
+     "USB smart charger 6"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "5A",
+     "USB smart charger 5"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "5A",
+     "USB smart charger 4"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-theft horn / battery backed-up sound alarm"
+    ],
+    [
+     "39",
+     "Fuse FMM/MCase",
+     "40A",
+     "Positive temperature coefficient heater bank 2"
+    ],
+    [
+     "40",
+     "Fuse FMM/MCase",
+     "30A",
+     "Upfitter 4"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "Left/right headlamp leveling motors"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "Generator / battery charger control module"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "5A",
+     "Transmission control module / fuel door motor"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 2, rear outlet"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "10A",
+     "ABS control module"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel / mirror / steering control module"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "40A",
+     "Fuel filter heater"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "40A",
+     "Electronic limited slip differential module"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "10A",
+     "Inverter slip control module / hybrid powertrain control module / transaxle"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "10A",
+     "Body security module / cruise control module / heads-up display / camera park assist"
+    ],
+    [
+     "54",
+     "Fuse FMX/JCase",
+     "60A",
+     "DC/AC 400W inverter"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "20A",
+     "Traffic horn"
+    ],
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump / fuel pump control module"
+    ],
+    [
+     "57",
+     "Fuse FMM/MCase",
+     "40A",
+     "Positive temperature coefficient heater bank 1"
+    ],
+    [
+     "61",
+     "Fuse MICRO2",
+     "15A",
+     "Reductant pressure line"
+    ],
+    [
+     "62",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "63",
+     "Fuse MICRO2",
+     "5A",
+     "Glow dosing module, transmission/transaxle"
+    ],
+    [
+     "64",
+     "Fuse MICRO2",
+     "25A",
+     "Power transfer unit pump (all-wheel drive)"
+    ],
+    [
+     "66",
+     "Fuse FMX/JCase",
+     "30A",
+     "Upfitter 2"
+    ],
+    [
+     "68",
+     "Fuse MICRO2",
+     "15A",
+     "Injector pump relay"
+    ],
+    [
+     "70",
+     "Fuse MICRO2",
+     "20A",
+     "Power supply voltage 2"
+    ],
+    [
+     "71",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "72",
+     "Fuse MICRO2",
+     "15A",
+     "Reductant tank heater"
+    ],
+    [
+     "73",
+     "Fuse MICRO2",
+     "5A",
+     "Keep-alive power"
+    ],
+    [
+     "74",
+     "Fuse MICRO2",
+     "15A",
+     "Power supply voltage 1"
+    ],
+    [
+     "75",
+     "Fuse MICRO2",
+     "15A",
+     "Power supply voltage 5"
+    ],
+    [
+     "81",
+     "Fuse FMX/JCase",
+     "30A",
+     "Upfitter 3"
+    ],
+    [
+     "83",
+     "Fuse MICRO2",
+     "20A",
+     "Power supply voltage 5"
+    ],
+    [
+     "84",
+     "Fuse MICRO2",
+     "15A",
+     "Power supply voltage 5"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-tourneo-custom-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "5A",
+     "Left/right power locked door control modules"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "5A",
+     "Intrusion/inclination/heads-up display/rear climate control module"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "5A",
+     "Near field control module / headlamp switch"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "5A",
+     "Ignition switch, keyless start/stop switch"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "5A",
+     "Cargo/cabin camera"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body control module 1"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body control module 2"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "20A",
+     "Advanced driver assistance system module"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer tow control module"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "30A",
+     "Right-hand side power sliding door 2"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left-hand side power sliding door 2"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body control module 3"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "30A",
+     "Moonroof/sunroof module"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Body control module 4"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "7.5A",
+     "Power mirror switch / wireless charger control module"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "7.5A",
+     "Enhanced central gateway control module"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "7.5A",
+     "Steering wheel column control module / cluster"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "Switched ground"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "15A",
+     "Electric steering column lock"
+    ],
+    [
+     "24",
+     "Fuse FMM/MCase",
+     "40A",
+     "Driver door control module"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer tow battery charge"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "Camper interface"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "10A",
+     "Upfitter interface control module"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "15A",
+     "Amplifier 1"
+    ],
+    [
+     "29",
+     "Fuse FMM/MCase",
+     "30A",
+     "Right-hand side power sliding door"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "Wireless buckle monitoring"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "15A",
+     "Amplifier 2"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Brake on/off switch"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "5A",
+     "FHH remote control"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "5A",
+     "Alcohol interlock"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger seat control module"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Radio"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "15A",
+     "Phone voice control module"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "5A",
+     "Headlamp leveling control"
+    ],
+    [
+     "42",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left-hand power sliding door"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "15A",
+     "Right-hand heated front seat"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "10A",
+     "Power window switch"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "15A",
+     "Right-hand power sliding door latch"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "10A",
+     "Integrated control panel, navigation display"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "15A",
+     "Left-hand heated front seat"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "20A",
+     "Retractable towbar module"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver seat control module"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "15A",
+     "Left-hand power sliding door latch"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "10A",
+     "On-board diagnostic port connector"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "30A",
+     "Front passenger window"
+    ],
+    [
+     "55",
+     "Fuse FMM/MCase",
+     "40A",
+     "Left-hand control module, driver power window (LHD)"
+    ],
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel fired heater module"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "10A",
+     "Telematics control unit"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "5A",
+     "Mirror display"
+    ],
+    [
+     "61",
+     "Fuse MICRO2",
+     "20A",
+     "Left-hand cargo latch release, left-hand bottom release"
+    ],
+    [
+     "62",
+     "Fuse MICRO2",
+     "20A",
+     "Right-hand cargo latch release, right-hand bottom release"
+    ]
+   ]
+  }
+ ]
+}
