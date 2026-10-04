@@ -1,0 +1,546 @@
+{
+ "make_slug": "honda",
+ "model_slug": "civic-hybrid",
+ "brand_db": "Honda",
+ "model_db_name": "Civic Hybrid",
+ "model_id": null,
+ "generation_name": "3rd generation (FB4)",
+ "generation_code": "g3",
+ "year_start": 2011,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/honda/civic-hybrid/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-hybrid-2013-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1-1",
+     "Other",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "1-2",
+     "Other",
+     "",
+     "Booster motor"
+    ],
+    [
+     "1-3",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "1-4",
+     "Other",
+     "",
+     "ABS/VSA FSR"
+    ],
+    [
+     "1-6",
+     "Other",
+     "",
+     "Main fuse"
+    ],
+    [
+     "2-1",
+     "Other",
+     "",
+     "IG main"
+    ],
+    [
+     "2-2",
+     "Other",
+     "",
+     "Fuse box main"
+    ],
+    [
+     "2-3",
+     "Other",
+     "",
+     "Fuse box main 2"
+    ],
+    [
+     "2-4",
+     "Other",
+     "",
+     "Headlight main"
+    ],
+    [
+     "2-6",
+     "Other",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "2-8",
+     "Other",
+     "",
+     "Blower"
+    ],
+    [
+     "2-10",
+     "Other",
+     "",
+     "Sub fan motor"
+    ],
+    [
+     "2-11",
+     "Other",
+     "",
+     "Main fan motor"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil 2"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Starter diagnostics, starter magnetic switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil 1"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Oil level"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "LED daytime running lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "IMA 1"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Hazard"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "FI sub"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Stop lights"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "IMA 2"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low beam"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "IGP"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Left headlight low beam"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Booster solenoid"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Small lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Backup"
+    ],
+    [
+     "R 1",
+     "Relay",
+     "",
+     "Fan control relay"
+    ],
+    [
+     "R 2",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R 3",
+     "Relay",
+     "",
+     "PGM-FI main relay 2"
+    ],
+    [
+     "R 4",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R 5",
+     "Relay",
+     "",
+     "Front fog light relay"
+    ],
+    [
+     "R 6",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R 7",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R 8",
+     "Relay",
+     "",
+     "A/C condenser fan relay"
+    ],
+    [
+     "R 9",
+     "Relay",
+     "",
+     "Starter cut relay 1"
+    ],
+    [
+     "R 10",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R 11",
+     "Relay",
+     "",
+     "PGM-FI subrelay"
+    ],
+    [
+     "R 12",
+     "Relay",
+     "",
+     "Starter cut relay 2"
+    ],
+    [
+     "R 13",
+     "Relay",
+     "",
+     "Ignition coil relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-hybrid-2013-genid-g3-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Meter"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Power window"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "VB solenoid (optional)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Door lock motor 2 (unlock)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Door lock motor 1 (unlock)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Accessory power socket (center console) [Some models]"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Seat heaters [Some models]"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Driver's door lock motor (unlock) (optional)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory key lock"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "HAC"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "HAC (optional)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "ABS/VSA"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Accessory power socket (front)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "ODS"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Driver's door lock motor (lock)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Door lock motor 2 (lock)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Door lock motor 1 (lock)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Small lights"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "Illumination"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "7.5A",
+     "TPMS [Some models]"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Rear passenger's side power window (optional)"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's side power window"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "20A",
+     "Rear driver's side power window (optional)"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "ETCS control relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PGM-FI main relay 1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front accessory power socket relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Inhibitor relay"
+    ]
+   ]
+  }
+ ]
+}

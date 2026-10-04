@@ -1,0 +1,582 @@
+{
+ "make_slug": "honda",
+ "model_slug": "civic-hybrid",
+ "brand_db": "Honda",
+ "model_db_name": "Civic Hybrid",
+ "model_id": null,
+ "generation_name": "4th generation",
+ "generation_code": "g4",
+ "year_start": 2022,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/honda/civic-hybrid/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-hybrid-2025-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse",
+     "175A",
+     "Battery"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Fuse box option"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Fuse box option 2"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Fuse box main"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Rear defroster"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "A/C PTC 1 (optional)"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Heater motor"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "A/C PTC 2 (optional)"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "ESB"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "RFC"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "IG main"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "R/M2"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "Option 6"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "Wiper"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "R/M1"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "ABS/VSA FSR"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "Engine electric water pump"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "Fuse box main 2"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "30A",
+     "IG main 2"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Heated steering wheel (optional)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Battery IR"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Backup lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "IGP"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Backup FI-ECU"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "RFC relay CL+"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "PCU electric water pump"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "LCM left"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "LCM right"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "EVTC"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "IG1 MON2"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "IGB"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "IGA"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "IGPS (LAF)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "7.5A",
+     "IG1 ESB"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-hybrid-2025-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power window"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Tailgate motor / trunk actuator"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Meter"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Option 3 (starter cut)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Option 2 (rear wiper)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Option 6 (VB solenoid)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Driver's door unlock (optional)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Sunroof (optional)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "SBW1 [Some models]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lights [Some models]"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Cargo accessory socket [Some models]"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Smart entry [Some models]"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Driver's door lock (optional)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "SBW2 [Some models]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "IMG"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "ACG / D/V / starter cut relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Option 5"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Left side door unlock"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Right side door unlock"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Option 3 (sunshade) [Some models]"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "IGA2 (optional)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Right side door lock"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Power seat reclining / rear height [Some models]"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Power seat sliding / front height [Some models]"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Back light [Some models] [Models with B-type meter]"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "A/C"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Accessory"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Accessory key lock"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Left side door lock"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat reclining [Some models]"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Driver's power lumbar [Some models]"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "Passenger's power lumbar [Some models]"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats [Some models]"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat sliding [Some models]"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "10A",
+     "Option 1 / fuel lid"
+    ],
+    [
+     "55",
+     "Fuse FMM/MCase",
+     "30A",
+     "Audio amplifier [Some models]"
+    ],
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "30A",
+     "ADS [Some models]"
+    ]
+   ]
+  }
+ ]
+}
