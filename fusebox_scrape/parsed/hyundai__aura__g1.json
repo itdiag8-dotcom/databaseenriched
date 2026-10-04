@@ -1,0 +1,1191 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "aura",
+ "brand_db": "Hyundai",
+ "model_db_name": "Aura",
+ "model_id": null,
+ "generation_name": "1st generation (AI3)",
+ "generation_code": "g1",
+ "year_start": 2020,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/hyundai/aura/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Inner compartment fuse panel (ICU) [With BCM (ETACS)]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-aura-2025-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Interior lamp: luggage, front room, room, driver/passenger foot lamps"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirror: ECM/PCM, A/C module, power outside mirrors"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "25A",
+     "Power window LH: main switch, passenger switch"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "15A",
+     "IBU1: IBU"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "20A",
+     "Multimedia: audio"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "25A",
+     "Power window RH: main switch, passenger switch"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "TCU: [AMT] TCM, shift lever; [ATM] transaxle range switch, pulse generators; [MTM] fuse F40, vehicle speed sensor"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Brake switch: IBU, stop lamp switch"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "Memory: A/C control module, instrument cluster"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "7.5A",
+     "Start: [ATM] transaxle range switch; [AMT/MTM] RLY.2, ECM, IBU"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "Folding mirror: power outside mirror switch"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module1: stop lamp switch"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Rear fog lamp relay"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "7.5A",
+     "Emergency call (E-Call) module"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock: tailgate unlock relay, door lock/unlock relay"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "ECU: ECM/PCM"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "DRL relay"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "Module6: data link connector"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "15A",
+     "Hazard: IBU"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Module2: ESP switch, IBU, CNG switch"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module3: headlamp leveling switch, headlamps, shift lever illumination, A/C module, audio, DLC, E-Call module"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper: multifunction switch, rear wiper motor"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "7.5A",
+     "Airbag indicator: instrument cluster"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "IBU2: IBU"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "7.5A",
+     "ABS/ESP control module"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Front wiper motor, multifunction switch"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 2: RLY.3, A/C control module, dual switch"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cluster: instrument cluster"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "ACC: power outlet relay, mirror switch, IBU, USB chargers, audio, E-Call module"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module4: IBU"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "20A",
+     "Rear power outlet"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 1: A/C control module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Inner compartment fuse panel (PCB) [W/O BCM (ETACS)]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-aura-2025-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "7.5A",
+     "Tail lamp LH: headlamp LH, DRL LH, rear combination lamps LH, license lamp"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirror: ECM/PCM, A/C module, power outside mirrors"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "25A",
+     "Power window LH: main switch, passenger switch"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "7.5A",
+     "Tail lamp RH: headlamp RH, DRL RH, rear combination lamps RH, illumination, power window main switch"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "25A",
+     "Power window RH: main switch, passenger switch"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "TCU: [ATM] transaxle range switch, pulse generators; [AMT] shift lever, TCM; [MTM] vehicle speed sensor, fuse F40"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Brake switch: stop lamp switch"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "Stop lamp: stop signal electronic module"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "7.5A",
+     "Start: [ATM-G4LA] transaxle range switch; [AMT/MTM] RLY.2, ECM"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "Folding mirror: power outside mirror switch"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module1: stop lamp switch"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Rear fog lamp relay"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Immobilizer module"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock: tailgate unlock relay, driver door lock latch"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "ECU: ECM/PCM, immobilizer module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "Module6: data link connector"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "15A",
+     "Hazard switch"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Module2: ESP control switch"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module3: headlamp leveling switch, headlamps, shift lever illumination, A/C module, audio, DLC"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp: E/R junction block (RLY.5/RLY.6)"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper: multifunction switch, rear wiper motor"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "7.5A",
+     "Airbag indicator: instrument cluster"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "Turn lamp: hazard switch"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "7.5A",
+     "ABS/ESP control module"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Front wiper motor, multifunction switch"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 2: RLY.3, A/C control module"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cluster: instrument cluster"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "ACC: power outlet relay, mirror switch, USB chargers, audio"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "20A",
+     "Rear power outlet"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 1: A/C control module"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "20A",
+     "Audio"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "10A",
+     "Interior lamp: A/C module, cluster, luggage/room/front room lamps"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box [G3LA: Kappa 1.0L MPI]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-aura-2025-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower: E/R junction block (RLY.3)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger relay (ICU or I/P junction block)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan: RLY.12"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG1: [smart key] PDM IG1/ACC relays; [w/o] ignition switch"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT3: ICU junction block (power window relay, F17/F23) [with BCM]"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT2: ICU junction block IPS [with BCM]"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT2: I/P junction block (power window relay, F17/F23) [w/o BCM]"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "BATT1: I/P junction block (tail lamp relay, fuses) [w/o BCM]"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT1: ICU junction block IPS [with BCM]"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT4: ICU junction block fuses, leak current autocut device [with BCM]"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS2: ABS/ESP control module"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power outlet relay (ICU or I/P junction block)"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS1: ABS/ESP control module"
+    ],
+    [
+     "15",
+     "Fuse FMM/MCase",
+     "30A",
+     "ECU1: E/R junction block (RLY.1)"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "30A",
+     "IG2: RLY.2; [smart key] PDM IG2 relay; [w/o] ignition switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Backup lamp 1: [MTM] backup lamp switch; [ATM w/o BCM] audio, rear combination lamps"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Wiper: front wiper motor, multifunction switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "ECU3: ECM"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Horn: RLY.4/RLY.10"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "A/C: RLY.11"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Headlamp LH, instrument cluster"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Headlamp RH"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Headlamp indicator: instrument cluster"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "ECU2: RLY.11/12, ECM, oil control valves, oxygen sensors, purge solenoid, camshaft sensors"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "ECU4: RLY.7, ECM, injectors #1-3"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "ECU6: ignition coils #1-3, condenser"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Headlamp low: RLY.6 [w/o BCM]"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high: RLY.5"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump: RLY.7"
+    ],
+    [
+     "39",
+     "Other",
+     "",
+     "Alternator, multi fuse F2, fuses F3/F5-F8"
+    ],
+    [
+     "40",
+     "Other",
+     "",
+     "MDPS unit [DC]"
+    ],
+    [
+     "40",
+     "Other",
+     "",
+     "MDPS unit [Economic]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment fuse box [G4LA: Kappa 1.2L MPI]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-aura-2025-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower: E/R junction block (RLY.3)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger relay (ICU or I/P junction block)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan: RLY.12"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG1: [smart key] PDM IG1/ACC relays; [w/o] ignition switch"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT3: ICU junction block (power window relay, F17/F23) [with BCM]"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT2: ICU junction block IPS [with BCM]"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT2: I/P junction block (power window relay, F17/F23) [w/o BCM]"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT1: ICU junction block IPS [with BCM]"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "BATT1: I/P junction block (tail lamp relay, fuses) [w/o BCM]"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "AMT1: TCM"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT4: ICU junction block fuses, leak current autocut device [with BCM]"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS2: ABS/ESP control module"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power outlet relay (ICU or I/P junction block)"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS1: ABS/ESP control module"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "40A",
+     "AMT2: TCM"
+    ],
+    [
+     "15",
+     "Fuse FMM/MCase",
+     "30A",
+     "ECU1: E/R junction block (RLY.1)"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "30A",
+     "IG2: RLY.2; [smart key] PDM IG2 relay; [w/o] ignition switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Backup lamp 1: [MTM] backup lamp switch; [ATM w/o BCM] audio, rear combination lamps"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Wiper: front wiper motor, multifunction switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "ECU3: ECM/PCM"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Horn: RLY.4/RLY.10"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "A/C: RLY.11"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Headlamp LH, instrument cluster"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Headlamp RH"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Headlamp indicator: instrument cluster"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "ECU2: RLY.11/12, ECM/PCM, oil control valves, oxygen sensors, purge solenoid"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECU5: PCM"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "ECU4: RLY.7, ECM/PCM, injectors #1-4"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "ECU6: ignition coil"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Headlamp low: RLY.6"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high: RLY.5"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump: RLY.7"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "AMT3: TCM"
+    ],
+    [
+     "39",
+     "Other",
+     "",
+     "Alternator, multi fuse F2, fuses F3/F5-F8"
+    ],
+    [
+     "40",
+     "Other",
+     "",
+     "MDPS unit [DC]"
+    ],
+    [
+     "40",
+     "Other",
+     "",
+     "MDPS unit [Economic]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine compartment fuse box [CNG: Kappa 1.2L Bi-Fuel]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-aura-2025-genid-g1-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower: E/R junction block (RLY.3)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger relay (ICU junction block)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan: RLY.12"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG1: [smart key] PDM IG1/ACC relays; [w/o] ignition switch"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT3: ICU junction block (power window relay, F17/F23)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT2: ICU junction block IPS"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT1: ICU junction block IPS"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "BATT4: ICU junction block fuses, leak current autocut device"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS2: ABS/ESP control module"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power outlet relay (ICU junction block)"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS1: ABS/ESP control module"
+    ],
+    [
+     "15",
+     "Fuse FMM/MCase",
+     "30A",
+     "ECU1: E/R junction block (RLY.1, F32/F36)"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "30A",
+     "IG2: RLY.2; [smart key] PDM IG2 relay; [w/o] ignition switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Backup lamp 1: backup lamp switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Wiper: front wiper motor, multifunction switch"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Horn: RLY.4/RLY.10"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "A/C: RLY.11"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "ECU75: ECM"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "ECU2: RLY.11/12, ECM, oil control valves, shut off valve, oxygen sensors, purge solenoid"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECU5: ECM"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "ECU4: RLY.7, ECM, [GSL] injectors #1-4, [LPGI] injector connector"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "ECU6: ignition coil"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump: RLY.7"
+    ],
+    [
+     "39",
+     "Other",
+     "",
+     "Alternator, multi fuse F2, fuses F3/F5-F8"
+    ],
+    [
+     "40",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ]
+   ]
+  }
+ ]
+}
