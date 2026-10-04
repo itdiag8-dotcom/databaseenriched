@@ -1,0 +1,1136 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "acadia",
+ "brand_db": "GMC",
+ "model_db_name": "Acadia",
+ "model_id": 1967,
+ "generation_name": "1st generation (GMT960)",
+ "generation_code": "g1",
+ "year_start": 2006,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/gmc/acadia/info/fusebox/2017/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-acadia-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "Power liftgate"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "HVAC blower"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 2"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 1"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 3"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Sunroof"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "All-wheel-drive system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Rear climate control system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Power outlet"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Auxiliary power"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Rear accessory power outlet"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Heated outside rearview mirror"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "ABS motor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Fog lamps [GMC]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Stop lamps [China only]"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Auxiliary vacuum pump"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Left parking lamp"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Right parking lamp"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Trailer parking lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "30A",
+     "Trailer brakes"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "Headlamp washer [China]"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Trailer power"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Fuel pump power module"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "",
+     "Service repair"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Trailer left stop lamp and turn signal"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control sensor"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Trailer right stop lamp and turn signal"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Windshield wiper/washer"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "Right low-beam headlamp"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Left low-beam headlamp"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Trailer back-up lamps"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Airbag system"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Transmission"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Engine control module / fuel pump control module ignition"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "",
+     "Adaptive forward lighting system"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "Emission 1"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "",
+     "Even injector coils"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "",
+     "Engine control module 1"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "",
+     "Emission 2"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "",
+     "Odd injector coils"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "",
+     "Humidity sensor / MAF sensor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan 3 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan 1 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Switched power relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Auxiliary vacuum pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fog lamps relay [GMC]"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Stop lamps relay [China only]"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Trailer back-up lamps relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Parking lamp relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Trailer right stop/turn lamp relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Trailer left stop/turn lamp relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Ignition main relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Cooling fan 2 relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "High-beam headlamps relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "HID low-beam headlamps relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Windshield wiper relay"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "Windshield wiper high speed relay"
+    ],
+    [
+     "R21",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Box - Halogen",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-acadia-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "ABS motor"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Power liftgate"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "",
+     "HVAC blower"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 2"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 1"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 3"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "",
+     "Sunroof"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Heated outside rearview mirror"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "ABS motor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Right daytime running lamp"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Auxiliary vacuum pump"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "All-wheel-drive system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Rear climate control system"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Power outlet"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Auxiliary power"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "",
+     "Rear accessory power outlet"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "Left parking lamp"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Right parking lamp"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Trailer parking lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "",
+     "Trailer brake"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "",
+     "Trailer power"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Fuel pump power module"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Service repair"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "",
+     "Service"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Trailer left stop lamp and turn signal"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control sensor"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "",
+     "Trailer right stop lamp and turn signal"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "",
+     "Windshield wiper/washer"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Left daytime running lamp"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Trailer back-up lamps"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "",
+     "Airbag system"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Transmission"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "",
+     "Engine control module / fuel pump power module ignition"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "",
+     "Emission 1"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "",
+     "Even injector coils"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "",
+     "Engine control module 1"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "",
+     "Emission 2"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "",
+     "Odd injector coils"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "",
+     "Humidity sensor / MAF sensor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan 3 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan 1 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Switched power relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Auxiliary vacuum pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan 2 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Windshield wiper relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Windshield wiper high speed relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Left daytime running lamp relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Right daytime running lamp relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Trailer back-up lamps relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Parking lamp relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Trailer right stop/turn lamp relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Trailer left stop/turn lamp relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Ignition main relay"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "High-beam headlamps relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-acadia-2017-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "",
+     "Front windshield washer"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Steering wheel illumination"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Door locks"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "HVAC"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps relay / low-beam headlamps relay (low beam)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps relay / low-beam headlamps relay (low beam)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Heated/cooling seats"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "High shutter [GMC non-HID] / fog lamps [Chevy] / rear fog [Buick China]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Rear park assist / side blind zone alert / forward collision alert / universal remote system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Airbag"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Power mode"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Display"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "Infotainment / memory seat module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Courtesy lamps"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Canister vent"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "USB charging"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Power mirrors"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Driver side turn signal"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Back-up lamp / stop lamp"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Passenger side turn signal"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Power mirrors, liftgate release"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Body control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Inadvertent power / interior light pipe lamps"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Instrument Panel Relay Side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-acadia-2017-genid-g1-3.webp",
+   "fuses": [
+    [
+     "CB 1",
+     "Circuit breaker MINI",
+     "",
+     "Driver side power seat relay"
+    ],
+    [
+     "CB 2",
+     "Circuit breaker MINI",
+     "",
+     "Passenger side power seat relay"
+    ],
+    [
+     "CB 3",
+     "Circuit breaker MINI",
+     "",
+     "Power windows relay"
+    ],
+    [
+     "CB 4",
+     "Circuit breaker MINI",
+     "",
+     "Power steering column relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power lock relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power unlock relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Driver side unlock relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High shutter relay [GMC with halogen lighting]"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Liftgate relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear window washer relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Daytime running lamps / low-beam headlamps relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Daytime running lamps relay [if equipped]"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Front windshield washer relay"
+    ]
+   ]
+  }
+ ]
+}

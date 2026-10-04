@@ -988,9 +988,10 @@
   "genesis/g90": "no_data",
   "genesis/gv60": "done",
   "genesis/gv70": "done",
-  "genesis/gv80": "done"
+  "genesis/gv80": "done",
+  "gmc/acadia": "done"
  },
- "last_updated": "2026-10-04T09:57:02.679809",
+ "last_updated": "2026-10-04T09:59:19.095457",
  "current_brand": "gmc",
  "audi_done_models": [
   "a1",
@@ -1951,5 +1952,30 @@
   "gv60": 1964,
   "gv70": 1965,
   "gv80": 1966
+ },
+ "gmc_model_slugs": {
+  "acadia": 1967,
+  "canyon": 1977,
+  "envoy": 1981,
+  "envoy-xl": 1982,
+  "hummer-ev-pickup": 1990,
+  "hummer-ev-suv": 1991,
+  "jimmy": 1992,
+  "s-15-jimmy": null,
+  "safari": 2003,
+  "savana": 2004,
+  "savana-1500": null,
+  "savana-2500": null,
+  "savana-3500": null,
+  "sierra": 2005,
+  "sierra-1500": 2006,
+  "sierra-2500": 2007,
+  "sierra-3500": 2009,
+  "sierra-ev": 2011,
+  "sonoma": 2014,
+  "suburban": 2016,
+  "terrain": 2018,
+  "yukon": 2025,
+  "yukon-hybrid": null
  }
 }

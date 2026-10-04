@@ -1,0 +1,781 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "acadia",
+ "brand_db": "GMC",
+ "model_db_name": "Acadia",
+ "model_id": 1967,
+ "generation_name": "2nd generation (C1XX)",
+ "generation_code": "g2",
+ "year_start": 2016,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/gmc/acadia/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-acadia-2023-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Antilock brake system"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter 1"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC-DC transformer 1"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "DC-DC transformer 2"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "",
+     "Amplifier 1"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "",
+     "Front blower"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 3"
+    ],
+    [
+     "F12",
+     "Fuse FMM/MCase",
+     "",
+     "Front wiper"
+    ],
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "25A",
+     "Starter 2"
+    ],
+    [
+     "F14",
+     "Fuse FMM/MCase",
+     "",
+     "LED/automatic headlamp leveling"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper 1"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Automatic headlamp leveling module"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "30A",
+     "Electronic brake control module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Parking/trailer lamps"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Right trailer stop lamp/turn lamp"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "Steering column lock"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Left trailer stop lamp/turn lamp"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "20A",
+     "Washer pump"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Headlamp high-beam left"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high-beam right"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "20A",
+     "Transmission control module 1 / battery 1"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "20A",
+     "Left rear bus electrical center / ignition"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "25A",
+     "Instrument cluster"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "HVAC / central gateway module run-crank"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "25A",
+     "Head-up display / reflective light alert display"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "25A",
+     "Electronic brake control module, electric brake booster / run-crank"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "",
+     "Rear wiper 2"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "15A",
+     "Interior rearview mirror / trailer / rear heated seat run-crank"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "10A",
+     "Fuel system control module / fuel tank zone module run-crank"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "",
+     "Coolant pump"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "15A",
+     "Engine control module / ignition"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module / ignition"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "10A",
+     "Engine control module battery"
+    ],
+    [
+     "F61",
+     "Fuse MINI",
+     "15A",
+     "O2 sensor 1 / aeroshutter / mass air flow sensor"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "10A",
+     "Engine control module - odd"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "15A",
+     "O2 sensor 2"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "10A",
+     "Engine control module - even"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "15A",
+     "Engine control module powertrain 1"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "15A",
+     "Engine control module powertrain 2"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "20A",
+     "Engine control module powertrain 3"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "Starter 1 relay"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Starter 3 relay"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "LED/automatic headlamps relay"
+    ],
+    [
+     "K7",
+     "Relay",
+     "",
+     "Engine control module relay"
+    ],
+    [
+     "K8",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Starter 2 relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-acadia-2023-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 6"
+    ],
+    [
+     "F2",
+     "Fuse MICRO2",
+     "10A",
+     "Diagnostic link / central gateway module"
+    ],
+    [
+     "F3",
+     "Fuse MICRO2",
+     "",
+     "Electric steering column lock"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "",
+     "Logistics"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "15A",
+     "HVAC / humidity sensor"
+    ],
+    [
+     "F7",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 3"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "",
+     "Park aid / electronic range select (hybrid)"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "25A",
+     "Front passenger heated seat"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag / seat belt"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier 2"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "10A",
+     "Body control module 7"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "25A",
+     "Driver heated seat"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "",
+     "Instrument panel switch bank"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "25A",
+     "Sunroof"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "10A",
+     "Body control module 1"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "10A",
+     "Instrument cluster / head-up display"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "10A",
+     "Rear seat entertainment"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module 4"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "10A",
+     "Infotainment USB data / aux jack"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "20A",
+     "Body control module 2"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "",
+     "USB charger / wireless charging"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "5A",
+     "Park aid / electronic transmission range system"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "10A",
+     "Communication integration module"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "10A",
+     "Video / night vision module"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "5A",
+     "HVAC display"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "30A",
+     "Steering wheel adjustment controls"
+    ],
+    [
+     "F31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic brake control module, electric brake booster"
+    ],
+    [
+     "F32",
+     "Fuse FMM/MCase",
+     "30A",
+     "DC-AC inverter"
+    ],
+    [
+     "F33",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "F34",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "",
+     "Battery IEC 1 feed"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "20A",
+     "Electric power steering"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear seat entertainment / USB charge / wireless charging module"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module 8"
+    ],
+    [
+     "F42",
+     "Circuit breaker MINI",
+     "",
+     "Auxiliary power outlet (CB) / lighter (minifuse)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-acadia-2023-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer battery 1"
+    ],
+    [
+     "F3",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver seat belt motor"
+    ],
+    [
+     "F4",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear blower"
+    ],
+    [
+     "F5",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear drive control"
+    ],
+    [
+     "F6",
+     "Fuse FMM/MCase",
+     "",
+     "Passenger seat belt motor"
+    ],
+    [
+     "F7",
+     "Fuse FMM/MCase",
+     "30A",
+     "Right window"
+    ],
+    [
+     "F8",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "F9",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left window"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Trailer reverse"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Trailer module / accessory power module / rechargeable energy storage system, ignition"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Ventilated seats / left front heated seats, run-crank"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Trailer connector"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Passenger window switch"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "30A",
+     "Trailer brake"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Driver ventilated seat / lumbar"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Passive entry / passive start"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Canister vent"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Rechargeable energy storage system"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Liftgate module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "20A",
+     "Fuel system control module / fuel tank zone module"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Passenger ventilated seat / lumbar"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "External amplifier (hybrid)"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Window module"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "15A",
+     "Rear closure"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "20A",
+     "Memory seat module"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "25A",
+     "Automatic occupancy sensor"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "",
+     "Trailer battery 2"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "",
+     "Blower console"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "30A",
+     "Liftgate motor"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "15A",
+     "Rear heated seats"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "",
+     "Glass break sensor"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "10A",
+     "Active dampening system module"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "10A",
+     "External object calculating / side blind zone alert"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "25A",
+     "Universal remote system / rain sensor"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "25A",
+     "Theft deterrent"
+    ],
+    [
+     "CB3",
+     "Circuit breaker",
+     "",
+     "Rear auxiliary power outlet"
+    ]
+   ]
+  }
+ ]
+}
