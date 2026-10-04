@@ -1,0 +1,576 @@
+{
+ "make_slug": "ford",
+ "model_slug": "mondeo",
+ "brand_db": "Ford",
+ "model_db_name": "Mondeo",
+ "model_id": 1905,
+ "generation_name": "Mk3 (CD132)",
+ "generation_code": "g2",
+ "year_start": 2000,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/ford/mondeo/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-mondeo-2006-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Ignition relay"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "60A",
+     "Diesel engine heater"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater blower"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "50A",
+     "Main power"
+    ],
+    [
+     "F8",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Engine cooling, pre-glow relay"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "20A",
+     "PCM relay"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Engine cooling"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "30A",
+     "Heated windscreen"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "30A",
+     "Heated windscreen"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "3A",
+     "Heated windscreen"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "LH xenon headlight"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "RH xenon headlight"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "ABS"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Light switch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Headlight cleaning relay"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "7.5A",
+     "Battery backup sounder [petrol]"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "Central timer unit (direction indicators & hazard lights)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Central timer unit (direction indicators & hazard lights)"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay, windscreen heater"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "30A",
+     "Starter relay"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "7.5A",
+     "Alternator"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "3A",
+     "Automatic transmission, engine control module"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "7.5A",
+     "PCM module relay"
+    ],
+    [
+     "F34",
+     "Diode MINI",
+     "",
+     "EEC"
+    ],
+    [
+     "F35",
+     "Diode MINI",
+     "",
+     "A/C compressor clutch"
+    ],
+    [
+     "F36",
+     "Diode MINI",
+     "",
+     "Diode"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "7.5A",
+     "Engine"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "Engine"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front window heater timer"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump [petrol]; lift pump, common rail, injector driver module power [diesel]"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "PCM module"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "A/C wide open throttle (WOT)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Engine cooling fan"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Pre-glow [diesel]"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "High speed engine cooling fan, reversing lamps [diesel]"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Starter"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-mondeo-2006-genid-g2-1.webp",
+   "fuses": [
+    [
+     "60",
+     "Fuse MINI",
+     "25A",
+     "Electric windows"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "25A",
+     "Electric windows"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "15A",
+     "Light switch"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "7.5A",
+     "Direction indicators / front & rear sidelights one side of car"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "7.5A",
+     "Direction indicators / front & rear sidelights other side of car"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "30A",
+     "Driver's power seat"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "7.5A",
+     "Radio, instrument cluster"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "15A",
+     "RH rear power point [estate models]"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "10A",
+     "Rear seat entertainment (video screens)"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "20A",
+     "Trailer"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "7.5A",
+     "Electric mirrors"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "77",
+     "Fuse MINI",
+     "7.5A",
+     "ABS, traction control"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster, airbag"
+    ],
+    [
+     "80",
+     "Fuse MINI",
+     "7.5A",
+     "Automatic transmission, reverse lights"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "7.5A",
+     "Temperature sensor, automatic transmission, seat sensor"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning, windscreen washer heater, booster heater, cruise control"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "84",
+     "Fuse MINI",
+     "20A",
+     "Light switch"
+    ],
+    [
+     "85",
+     "Fuse MINI",
+     "7.5A",
+     "LH headlight - full beam"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "7.5A",
+     "RH headlight - full beam"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "15A",
+     "Low beam relay, light switch (common power for both dipped beams and full beam relay)"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper motor"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "7.5A",
+     "Electric windows, dimming mirror, sunroof"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "10A",
+     "Trailer"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "10A",
+     "Headlights, brake lights, heater blower relay"
+    ],
+    [
+     "94",
+     "Fuse MINI",
+     "20A",
+     "Wash/wipe"
+    ],
+    [
+     "95",
+     "Fuse MINI",
+     "7.5A",
+     "Low beam headlights - headlight cleaning relay"
+    ],
+    [
+     "97",
+     "Fuse MINI",
+     "7.5A",
+     "License plate lights, glove box light, central timer unit"
+    ],
+    [
+     "98",
+     "Fuse MINI",
+     "7.5A",
+     "Electric mirrors, heated mirrors"
+    ],
+    [
+     "99",
+     "Fuse MINI",
+     "10A",
+     "Interior lights [facelift]"
+    ],
+    [
+     "99",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights [pre-facelift]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear window heater relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Battery saver relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Heater blower relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Windshield wiper relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Ignition relay"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,390 @@
+{
+ "make_slug": "ford",
+ "model_slug": "mondeo",
+ "brand_db": "Ford",
+ "model_db_name": "Mondeo",
+ "model_id": 1905,
+ "generation_name": "Mk1/Mk2 (CDW27)",
+ "generation_code": "g1",
+ "year_start": 1993,
+ "year_end": 2000,
+ "trim_label": "",
+ "representative_year": 1998,
+ "source_url": "https://www.startmycar.com/ford/mondeo/info/fusebox/1998",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-mondeo-1998-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLM",
+     "80A",
+     "Main supply on-board network electrical circuit"
+    ],
+    [
+     "2",
+     "Fuse FLM",
+     "60A",
+     "Radiator fan motor"
+    ],
+    [
+     "3",
+     "Fuse FLM",
+     "60A",
+     "ABS / TCS system; diesel engine under certain conditions"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Ignition"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "30A",
+     "Heated windshield (left side)"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "30A",
+     "Heated windshield (right side)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "Braking system with ABS"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Braking system with ABS"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "30A",
+     "Heated seats, A/C compressor"
+    ],
+    [
+     "9",
+     "Fuse FLM",
+     "20A",
+     "EEC module, cold start solenoid valve [diesel]"
+    ],
+    [
+     "10",
+     "Fuse FLM",
+     "20A",
+     "Ignition lock"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "3A",
+     "EEC ignition module memory, engine control unit"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Sound signal and light alarm"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Lambda probe sensor"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Lambda probe sensor"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Electric fuel pump [carburetor engine]"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Low beam, right"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Low beam, left"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "High beam, right"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "High beam, left"
+    ],
+    [
+     "D1",
+     "Diode MINI",
+     "",
+     "Reverse current protection diode"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Daytime running light relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay (high speed)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Cooling fan relay (low speed)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Main relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-mondeo-1998-genid-g1-1.webp",
+   "fuses": [
+    [
+     "19",
+     "Fuse ATO",
+     "7.5A",
+     "Electric door mirrors"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Windshield wiper/washer, rear window wiper/washer"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "40A",
+     "Power windows, electric sunroof control unit"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "7.5A",
+     "ABS electronic control unit"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "15A",
+     "Direction indicators, active suspension, cruise control, cluster, gearbox control switch, lamp health unit, washer nozzle heaters, fuel filter heater relay"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "15A",
+     "Stop lights"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Central locking, anti-theft system, diagnostic socket"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "20A",
+     "Fog lights"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer pump relay, electric seat"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "7.5A",
+     "Engine management system, instrument cluster, auxiliary alarm unit, clock/trip computer"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument illumination"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "7.5A",
+     "Audio system, radio"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "7.5A",
+     "Front side lights - left"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "7.5A",
+     "Interior lamps, clock, power mirrors, tailgate opening drive"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "7.5A",
+     "Front side lights - right"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "10A",
+     "Airbags"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "15A",
+     "Audio system, output amplifier"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "20A",
+     "Audio system, output amplifier"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "Heater blower motor relay"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "7.5A",
+     "Airbag relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Interior lighting relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Heater fan relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "D2",
+     "Diode MINI",
+     "",
+     "Reverse current protection diode"
+    ]
+   ]
+  }
+ ]
+}
