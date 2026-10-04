@@ -1,0 +1,806 @@
+{
+ "make_slug": "honda",
+ "model_slug": "city",
+ "brand_db": "Honda",
+ "model_db_name": "City",
+ "model_id": 2114,
+ "generation_name": "6th generation (GM4-GM9)",
+ "generation_code": "g6",
+ "year_start": 2013,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/honda/city/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box (type B)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-city-2018-genid-g6-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Main low beam"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "HCA2"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Ignition (IGP)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main fan motor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Starter magnetic switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Battery sensor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary fan"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Fog lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Backup main"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "STRLD"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Starter magnetic"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Vacuum"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Backup"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "IGP LAF"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-city-2018-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Driver power window"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "High beam main"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "ABS/VSA FSR"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Small lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Accessory power socket (console)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Accessory power socket (console)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lights"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "IG main 2 (keyless access models)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Smart key (keyless access models)"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater motor (without keyless) / IG main (with keyless)"
+    ],
+    [
+     "22",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "23",
+     "Other",
+     "",
+     "Heater motor"
+    ],
+    [
+     "24",
+     "Other",
+     "",
+     "Power window main"
+    ],
+    [
+     "25",
+     "Other",
+     "",
+     "IG main (with keyless)"
+    ],
+    [
+     "25",
+     "Other",
+     "",
+     "IG main (without keyless)"
+    ],
+    [
+     "26",
+     "Other",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "27",
+     "Other",
+     "",
+     "Electric power steering (EPS)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Front wiper monitor"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "STS"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "Fan high monitor"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Right side door lock"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Left side door lock"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Right side door unlock"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Left side door unlock"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Accessory power socket (front)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "Front passenger power window"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Driver door lock"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Driver door unlock"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "7.5A",
+     "MISS solenoid"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "7.5A",
+     "Wiper/washer relay (with keyless)"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "15A",
+     "Washer (without keyless)"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "7.5A",
+     "FI ECU (without keyless)"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "7.5A",
+     "Starter cut relay"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "7.5A",
+     "VSA/ABS"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger"
+    ],
+    [
+     "a",
+     "Fuse",
+     "7.5A",
+     "Front fog light relay out"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Upper fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-city-2018-genid-g6-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Smart key"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Driver side door unlock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Passenger side door unlock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Driver door unlock"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Driver door lock"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Driver power window"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Passenger power window"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Driver side door lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Passenger side door lock"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "STS"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Accessory socket (console)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Seat heater"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Starter motor"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "ABS/VSA"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Power window"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag (SRS)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "MISS solenoid"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Accessory power socket (front)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "ACC key lock"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Lower fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-city-2018-genid-g6-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Electric power steering (EPS)"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "IG main (model variants)"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "IG main (rear ventilation + keyless models)"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Fuse box 2 main"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Fuse box main"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heater motor (without rear vent, with keyless)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater motor (other variants)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG main (without rear vent, without keyless)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "ABS/VSA FSR"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Accessory socket (console)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Small lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Accessory socket (console)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Model variants without rear ventilation"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "High blower"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Front wiper (without rear ventilation models)"
+    ]
+   ]
+  }
+ ]
+}

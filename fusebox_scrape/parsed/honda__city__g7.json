@@ -1,0 +1,415 @@
+{
+ "make_slug": "honda",
+ "model_slug": "city",
+ "brand_db": "Honda",
+ "model_db_name": "City",
+ "model_id": 2114,
+ "generation_name": "7th generation (GN)",
+ "generation_code": "g7",
+ "year_start": 2020,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/honda/city/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-city-2024-genid-g7-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Wiper"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Ignition (IGP)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/VSA motor"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main fan"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Starter magnetic switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Battery sensor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Transmission control unit (some models)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Backup FI-ECU"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Front fog lights (some models)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights (some models)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Backup main"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Backup"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Sub fan"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS/VSA FSR"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "IGP2 sub"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "IGPS (LAF)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "Starter diagnostics"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver's Side Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-city-2024-genid-g7-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory key lock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Option 2"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (meter)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory socket"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Monitor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right side door lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Left side door unlock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Front passenger power window"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Transmission control unit"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Starter cut"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Option"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Right side door unlock"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Driver power window"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Smart key"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "ABS/VSA"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "IMG"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left side door lock"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger's Side Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-city-2024-genid-g7-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "60A",
+     "Fuse box main 1"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "IG main"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "IG main 2"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "Relay module 1"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "Relay module 2"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "40A",
+     "Fuse box main 2"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "DC/DC 1"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "Heater motor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Rear demister"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Accessory socket (console 2)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ]
+   ]
+  }
+ ]
+}
