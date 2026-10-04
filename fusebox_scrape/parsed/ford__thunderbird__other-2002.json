@@ -1,0 +1,553 @@
+{
+ "make_slug": "ford",
+ "model_slug": "thunderbird",
+ "brand_db": "Ford",
+ "model_db_name": "Thunderbird",
+ "model_id": 1940,
+ "generation_name": "Other versions (2002)",
+ "generation_code": "other-2002",
+ "year_start": 2002,
+ "year_end": 2002,
+ "trim_label": "",
+ "representative_year": 2002,
+ "source_url": "https://www.startmycar.com/ford/thunderbird/info/fusebox/2002",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-thunderbird-2002-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Starter relay coil"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Radio start signal"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "ABS module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "PCM coil, cluster and fuel pump relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Autolamp system, FEM, T/A switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "OBD II"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "PCM, RKE, sunload sensor"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Right-hand turn/park/side marker"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Right-hand headlamp"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Left-hand turn/park/side marker"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Left-hand headlamp"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Pad switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Cluster"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Air bag, vehicle ID"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Alternator and air bag warning"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Tilt/telescoping motors"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "FEM, DATC, cluster"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "PATS transceiver"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Washer pump"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "3A",
+     "Windshield wiper relay"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Radio, cellphone"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "DATC"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "FEM VBATT2"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Map lamps, interior lighting, S/JB"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "FEM, illumination"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "Outside mirror"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "DGB brake pedal switch, stoplamp switch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Front power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-thunderbird-2002-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Heated wiper park"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Park lamp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Transmission solenoid"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Power point"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "IAC solenoid"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "HEGO sensors"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Coil-on-plug"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS module power"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "PCM"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS motor"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Wiper HI/LO relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Heated wiper park relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Auxiliary coolant pump relay (V8 engines)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Wipers relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Wiper park relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Coil-on-plug and HEGOs relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Horns relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-thunderbird-2002-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Decklid solenoid"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "License plate lamp"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left rear turn and stop lamp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Luggage compartment lamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamps"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Right rear turn and stop lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Center high-mounted stop lamp"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "REM logic (if equipped)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Convertible top relay coil"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Alternator sense"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer amplifier"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "FEM"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "SSP4"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "SSP3"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "P-J/B"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "SSP1"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "30A",
+     "REM"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "SSP2"
+    ],
+    [
+     "Diode02",
+     "Diode ATO",
+     "",
+     "Fuel pump motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "SSP1 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "SSP4 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear defroster relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "SSP3 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "SSP2 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}
