@@ -1,0 +1,492 @@
+{
+ "make_slug": "honda",
+ "model_slug": "insight",
+ "brand_db": "Honda",
+ "model_db_name": "Insight",
+ "model_id": 2144,
+ "generation_name": "3rd generation (ZE4)",
+ "generation_code": "g3",
+ "year_start": 2019,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/honda/insight/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box Type B",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-insight-2022-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Accessory circuits"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Battery ECU"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Shifter"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "P-ACT"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "IG1 MON"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Rear right door lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Rear left door unlock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power window"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Power door lock system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "VB solenoid"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Electric servo brake system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Battery and charging system (ACG)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Driver door lock"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Rear right door unlock"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat recline"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Front seat heaters"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat slide"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "ABS/VSA"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "SRS airbag"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "HAC option"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Battery fan"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Rear left door lock"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Driver door unlock"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box (Type A)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-insight-2022-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1-1",
+     "Other",
+     "",
+     "Main fuse"
+    ],
+    [
+     "1-2",
+     "Other",
+     "",
+     "IG main 1"
+    ],
+    [
+     "1-3",
+     "Other",
+     "",
+     "Sub fan motor"
+    ],
+    [
+     "1-4",
+     "Other",
+     "",
+     "IG main 2"
+    ],
+    [
+     "1-5",
+     "Other",
+     "",
+     "OP fuse main"
+    ],
+    [
+     "1-6",
+     "Other",
+     "",
+     "Electric servo brake"
+    ],
+    [
+     "1-7",
+     "Other",
+     "",
+     "Engine electric water pump"
+    ],
+    [
+     "2-1",
+     "Other",
+     "",
+     "Wiper motor"
+    ],
+    [
+     "2-2",
+     "Other",
+     "",
+     "R/M 2"
+    ],
+    [
+     "2-3",
+     "Other",
+     "",
+     "P-ACT"
+    ],
+    [
+     "2-4",
+     "Other",
+     "",
+     "R/M 1"
+    ],
+    [
+     "2-5",
+     "Other",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "2-6",
+     "Other",
+     "",
+     "EPS"
+    ],
+    [
+     "3-1",
+     "Other",
+     "",
+     "Blower motor"
+    ],
+    [
+     "3-2",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "3-3",
+     "Other",
+     "",
+     "Fuse box option"
+    ],
+    [
+     "3-4",
+     "Other",
+     "",
+     "ABS/VSA FSR"
+    ],
+    [
+     "3-5",
+     "Other",
+     "",
+     "Premium audio"
+    ],
+    [
+     "3-6",
+     "Other",
+     "",
+     "Rear defroster"
+    ],
+    [
+     "4-3",
+     "Other",
+     "",
+     "Fuse box 2"
+    ],
+    [
+     "4-4",
+     "Other",
+     "",
+     "Fuse box 1"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "VBU"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "IG hold 1"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "PCU electric water pump"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "IGP"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Backup"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS (LAF)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Electric VTC"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Hazard"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "DBW"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat recline"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat slide"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Shifter"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Smart entry"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "P-ACT unit"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "IGB"
+    ]
+   ]
+  }
+ ]
+}
