@@ -1,0 +1,619 @@
+{
+ "make_slug": "haval",
+ "model_slug": "h9",
+ "brand_db": "Haval",
+ "model_db_name": "H9",
+ "model_id": null,
+ "generation_name": "1st generation",
+ "generation_code": "g1",
+ "year_start": 2019,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/haval/h9/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-haval-h9-2021-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "25A",
+     "Left door module"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "10A",
+     "(IP) Instrument cluster"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "5A",
+     "RLS (rain/light sensor)"
+    ],
+    [
+     "F05",
+     "Fuse FMX/JCase",
+     "30A",
+     "Window right"
+    ],
+    [
+     "F06",
+     "Fuse FMX/JCase",
+     "40A",
+     "(Fr-Blower) AC blower motor"
+    ],
+    [
+     "F07",
+     "Fuse FMX/JCase",
+     "20A",
+     "KBCM6"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Window left"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "KBCM8"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "25A",
+     "Electric seat front right"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "25A",
+     "Roof"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "(ESCL) Steering lock"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "25A",
+     "ACC power"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "5A",
+     "(Door Module) Power door locks"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Check"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "(IG2) Several circuits"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "25A",
+     "Right door module"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "KBCM2"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "KBCM5"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "KBCM4"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "KBCM3"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "KBCM1"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "KBCM7"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "(IG1) Several circuits"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "25A",
+     "Electric seat front left"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Interior"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "ABM (airbag module)"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "FAPA"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "(ECU-IG1-1) Engine control unit"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "(ECU-IG1-2) Engine control unit"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "5A",
+     "Air cleaner SA"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "15A",
+     "Power 12V"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "(AC) Air conditioning system"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "Amplifier 1 / HUT"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "5A",
+     "T-BOX"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "15A",
+     "Amplifier 2"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "(Front Blower) AC blower motor"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "(IG2) Several circuits"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "(ACC) Accessory circuits"
+    ],
+    [
+     "R08",
+     "Relay",
+     "",
+     "Saving relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(IG1) Several circuits"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-haval-h9-2021-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "5A",
+     "Brake switch"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "15A",
+     "TCU"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "High beam lamp"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Right combination headlamp"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Right combination headlamp"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Left combination headlamp"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Left combination headlamp"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "60A",
+     "ESP1"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "40A",
+     "ESP2"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "5A",
+     "Start feedback"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Washer motor"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Compressor"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "5A",
+     "ACC"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Main relay 2"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "15A",
+     "Main relay 1"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "10A",
+     "ECM"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "High beam lamp relay"
+    ],
+    [
+     "R07",
+     "Relay",
+     "",
+     "Compressor relay"
+    ],
+    [
+     "R09",
+     "Relay",
+     "",
+     "Wiper switch relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Wiper high/low speed relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Starter relay 2"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Starter relay 1"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Front axle control 4WD relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Rear washer relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Front washer relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Front axle control 2WD relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-haval-h9-2021-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "30A",
+     "TOD"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "25A",
+     "ELD"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "5A",
+     "Shifter"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "15A",
+     "Oil pump"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "25A",
+     "Seat folding"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "20A",
+     "Trailer power socket"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "15A",
+     "(Trailer Module) Trailer"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Trailer module"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Windshield heating"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Spare power supply"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Spare power supply (a)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "25A",
+     "(Inverter) Power outlet DC/AC"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "(IG1) Several circuits"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "40A",
+     "On-board power source"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "40A",
+     "(DC/DC) 400W DC-DC transformer"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "30A",
+     "(Rear blower) Rear air conditioning"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "Backup lights"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "30A",
+     "Backup lights"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "(Rear blower) Rear air conditioning"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "(Rear defrost) Rear window defogger"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "(Fuel pump) Fuel pump"
+    ],
+    [
+     "R05",
+     "Relay",
+     "",
+     "(Rear wiper) Rear wiper"
+    ],
+    [
+     "R06",
+     "Relay",
+     "",
+     "On-board power source relay"
+    ]
+   ]
+  }
+ ]
+}

@@ -324,11 +324,11 @@
   "geely": 14,
   "genesis": 6,
   "gmc": 23,
-  "great-wall": 12
+  "great-wall": 12,
+  "haval": 4
  },
  "in_progress": null,
  "queue_next_makes": [
-  "haval",
   "holden",
   "honda",
   "hummer",
@@ -1026,10 +1026,11 @@
   "great-wall/x240": "done",
   "haval/h2": "done_no_db_model",
   "haval/h8": "no_data",
-  "haval/h6": "done_no_db_model"
+  "haval/h6": "done_no_db_model",
+  "haval/h9": "done_no_db_model"
  },
- "last_updated": "2026-10-04 haval h2, h6 (g1,g2,g3) done; h8 no_data; h9 pending",
- "current_brand": "haval",
+ "last_updated": "2026-10-04 HAVAL COMPLETE (4 slugs); next holden",
+ "current_brand": "holden",
  "audi_done_models": [
   "a1",
   "a2",
