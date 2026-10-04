@@ -1,0 +1,704 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "genesis",
+ "brand_db": "Hyundai",
+ "model_db_name": "Genesis",
+ "model_id": 2196,
+ "generation_name": "2nd generation (DH)",
+ "generation_code": "g2",
+ "year_start": 2013,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/hyundai/genesis/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-genesis-2016-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "15A",
+     "Steering tilt & telescopic module"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "20A",
+     "Passenger CCS module, seat warmer module"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "BCM"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "15A",
+     "Passenger door latch"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger power seat relay box"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "30A",
+     "Driver power window module, rear door/window modules LH"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "30A",
+     "Driver IMS module, driver power seat relay box"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "Passenger power outside mirror"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "Driver power outside mirror"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "Keyboard, I-Box, front monitor"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "Instrument cluster, head-up display"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "20A",
+     "Multimedia 2 fuse, AVN head unit"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "Tilt module, buzzer, BCM, clock, A/C module, TPMS, security indicator, HUD, cluster, door modules, trunk module"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "Door modules front/rear"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "15A",
+     "Stop signal electronic module"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "25A",
+     "Sunroof motor"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "15A",
+     "Driver door latch"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "Room/console/glove box/vanity/foot/trunk lamps"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "Gateway (IG1 MCU)"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "Start/stop button switch"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Gateway (B+ MCU), rain sensor, hazard switch, trunk lid switch, EPB switch"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "15A",
+     "Smart key control module"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "Stop lamp switch, smart key module"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Instrument cluster, A/C control module"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "10A",
+     "Multifunction switch"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "10A",
+     "BCM, smart key control module"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "Smart key control module"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "Tilt module, BSD radars, crash pad switch, TPMS, console switches, parking sensors, ECS unit, EPB switch, LKAS module"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "10A",
+     "Blower relay (PCB#1), ionizer CO2 sensor, A/C module"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "10A",
+     "Parking guide unit, HUD, sunroof, lumbar support unit, clock spring"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet & cigarette lighter"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet & cigarette lighter"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "BCM, smart key module, console lamp, clock, AVN, keyboard, I-Box, monitor, parking guide unit"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "BCM, sport mode switch, stop lamp switch, door modules"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "10A",
+     "Check connector, AVN, EC mirror, A/C module, I-Box, AMP, CCS modules, seat switches, seat warmer modules, IMS"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "10A",
+     "Pre-safe seat belt module"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "15A",
+     "SRS control module"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "15A",
+     "Headlamps, auto hold/drive mode switch, leveling device, shift indicator"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel: clock spring"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-genesis-2016-genid-g2-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Other",
+     "",
+     "IGPM (brake switch fuse, leak current autocut device, IPS 1)"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "IGPM (smart key/module 1/burglar alarm fuses, IPS 2/3/5/7)"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "IGPM (door lamp/stop lamp fuses, IPS 4/6)"
+    ],
+    [
+     "6",
+     "Other",
+     "",
+     "Metal core block PCB#1 (ECU3/IG2/module 1 fuses)"
+    ],
+    [
+     "8",
+     "Other",
+     "",
+     "Metal core block PCB#2 (horn/ACC/EPB fuses)"
+    ],
+    [
+     "11",
+     "Other",
+     "",
+     "IGPM (power handle/window/seat/heater/sunroof/door fuses)"
+    ],
+    [
+     "12",
+     "Other",
+     "",
+     "Relay 1: cooling fan relay"
+    ],
+    [
+     "13",
+     "Other",
+     "",
+     "Metal core block PCB#1 (blower/deicer/headlamp washer fuses)"
+    ],
+    [
+     "14",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "40A",
+     "ESC module, check connector"
+    ],
+    [
+     "18",
+     "Fuse FMM/MCase",
+     "40A",
+     "ESC module, check connector"
+    ],
+    [
+     "19",
+     "Fuse FMM/MCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "20",
+     "Fuse FMM/MCase",
+     "40A",
+     "ACC relay"
+    ],
+    [
+     "21",
+     "Fuse FMM/MCase",
+     "30A",
+     "Engine control relay"
+    ],
+    [
+     "22",
+     "Fuse FMM/MCase",
+     "30A",
+     "IG2 relay"
+    ],
+    [
+     "23",
+     "Fuse FMM/MCase",
+     "30A",
+     "Start relay"
+    ],
+    [
+     "24",
+     "Fuse FMM/MCase",
+     "40A",
+     "IG1 relay"
+    ],
+    [
+     "27",
+     "Fuse FMM/MCase",
+     "30A",
+     "4WD ECM"
+    ],
+    [
+     "28",
+     "Fuse FMM/MCase",
+     "30A",
+     "Pre-safe seat belt module"
+    ],
+    [
+     "29",
+     "Fuse FMM/MCase",
+     "30A",
+     "Pre-safe seat belt module"
+    ],
+    [
+     "34",
+     "Fuse FMM/MCase",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "A/C control module"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "25A",
+     "Headlamp washer relay"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Front deicer relay (PCB#2)"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "20A",
+     "Condensers, ignition coils #1-6 [G6DJ] / #1-8 [G8BE]"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "15A",
+     "Injector drive box"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "Cooling fan relay, camshaft position valve [G8BE]"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "ECM, fuel pump relay"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "ECM, oil control valves, canister/purge/intake solenoids"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "10A",
+     "ECM, oxygen sensors #1-4"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "20A",
+     "Washer relay"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "10A",
+     "Wiper relay (PCB#2)"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "10A",
+     "4WD ECM, smart cruise radar, active air flap"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "15A",
+     "Electric parking brake module"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "15A",
+     "Electric parking brake module"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "15A",
+     "TCM, transmission range switch, 4WD ECM"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "10A",
+     "ECM, injector drive box, alternator [G8BE]"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "10A",
+     "Oil pressure solenoid valve [G6DJ]"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "10A",
+     "MDPS unit"
+    ],
+    [
+     "56",
+     "Fuse MICRO2",
+     "10A",
+     "Smart cruise radar, active air flap"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "10A",
+     "ESC module, steering angle sensor"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "20A",
+     "TCM"
+    ],
+    [
+     "59",
+     "Fuse MICRO2",
+     "15A",
+     "ECM, injector drive box"
+    ],
+    [
+     "68",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp high beam solenoid relay (PCB#2)"
+    ],
+    [
+     "70",
+     "Fuse MICRO2",
+     "25A",
+     "Driver CCS module, seat warmer module"
+    ],
+    [
+     "73",
+     "Fuse MICRO2",
+     "10A",
+     "TCM, range switch, rear combination lamps (IN), EC mirror, AVN"
+    ],
+    [
+     "74",
+     "Fuse MICRO2",
+     "10A",
+     "Power seat relay boxes, lumbar support units"
+    ],
+    [
+     "75",
+     "Fuse MICRO2",
+     "25A",
+     "Driver IMS module, power seat switch, relay box"
+    ],
+    [
+     "76",
+     "Fuse MIDI",
+     "200A",
+     "Alternator, multifuse BATT (B+2/B+5/MDPS1/cooling fan), power seat/lumbar/ESC fuses"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Trunk fuse panel (rear fuse box panel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-genesis-2016-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear defogger relay"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "15A",
+     "Rear door latch RH"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Rear door latch LH"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel lid open relay, crash pad switch"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "Driver door module"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "Trunk lid relay, power trunk module buzzer"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "20A",
+     "Rear seat warmer control module LH"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "30A",
+     "Power trunk lid control module"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "Passenger door module"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "25A",
+     "Passenger power seat relay box"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "ECS unit"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "20A",
+     "Rear seat warmer control module RH"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "25A",
+     "AMP"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger power window module, rear power window module RH"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Trunk fuse panel (battery box fuse panel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-genesis-2016-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "80A",
+     "Metal core block PCB#2 (TCU/ECU1/start/IG1 fuses)"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "100A",
+     "Rear junction block (rear defogger, trunk, ECS, fuel lid, rear doors, door lock, AMP, seat/heater, window, fuel pump fuses)"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Battery sensor"
+    ]
+   ]
+  }
+ ]
+}

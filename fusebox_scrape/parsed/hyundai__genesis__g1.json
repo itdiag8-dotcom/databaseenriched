@@ -1,0 +1,806 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "genesis",
+ "brand_db": "Hyundai",
+ "model_db_name": "Genesis",
+ "model_id": 2196,
+ "generation_name": "1st generation (BH)",
+ "generation_code": "g1",
+ "year_start": 2008,
+ "year_end": 2014,
+ "trim_label": "Sedan",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/hyundai/genesis/info/fusebox/2013/trims-sedan",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel (driver's side fuse panel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-genesis-2013-genid-g1-trims-sedan-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "AV head module, audio, active headrest sensor module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "SRS control module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "FAM, IPM, tilt module, PDM, door modules, IMS, multifunction switch, EPB module, trunk module, parking assist module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (airbag indicator)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "E/R junction box fuses (inhibitor switch, ECU-2, EHPS, cruise, TCU, ESP, stop lamp, AFLS)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (indicators)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Console switches, ECS module, steering angle sensor, key lock module, TPMS"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "RF receiver"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Audio, front/rear monitors, AV head module, rear audio switch, media module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "FAM, multifunction switch, tilt module, cluster, door modules, trunk module, IMS, rear curtain module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Headlamp leveling sensor, AFLS module, headlamps"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Intelligent accelerator pedal unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "A/C control module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Multifunction/crash pad switches, A/C module, cluster, seat warmer/CCS modules, generator"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "A/C control module, TPMS"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Driver CCS module, driver seat warmer module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Tilt & telescopic module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "PDM"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Driver door module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Start/stop button, door warning switch, key solenoid/illumination"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Transmission range switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Power trunk lid control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "DLC, auto light sensor, security indicator, rear door modules, shift lock"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Fob holder, start/stop button switch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "30A",
+     "I/P junction box LH fuses (module 3, audio B+, RF receiver, A/C IG1)"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power window module, rear window module RH"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power window module, rear window module LH"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Fuel filler door switch"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "ECS control module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel (passenger's side fuse panel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-genesis-2013-genid-g1-trims-sedan-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Rear curtain module"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Driver/passenger door modules"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Console switches, piezo buzzer"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Passenger door module"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "30A",
+     "E/R junction box fuses (AQS, washer)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Active in-car sensor, A/C control module"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Cluster, rheostat, CCS modules, PDM, IPM"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "Rear power seat relay box, slide limit switch LH"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Rear accessory socket"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "A/C module, IPM, PDM, key lock module"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Sunroof module & switch"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat relay box"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "EC mirror, console lamp, rain sensor, rear curtain, camera module"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "ACC socket relay"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Audio, camera, rear audio switch, monitor, media/AV head modules"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Rear seat warmer modules, rear power seat switch"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Passenger CCS + seat warmer modules"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel heater"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "25A",
+     "PDM"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse panel (driver's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-genesis-2013-genid-g1-trims-sedan-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "30A",
+     "VDC/ESC module, check connector"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "30A",
+     "VDC/ESC module, check connector"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "30A",
+     "PDM (IG1) relay"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "PDM (IG2) relay"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat relay box, IMS, lumbar switch"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "ECS compressor relay"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "AV JBL AMP"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "AMP"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "30A",
+     "PDM (ACC) relay"
+    ],
+    [
+     "F10",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "I/P junction box RH"
+    ],
+    [
+     "F11",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Cooling fan"
+    ],
+    [
+     "F12",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "EHPS module"
+    ],
+    [
+     "F14",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "I/P junction box LH"
+    ],
+    [
+     "F15",
+     "Fuse MIDI",
+     "200A",
+     "Generator"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Stop"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Rear combination lamps (IN), EC mirror, camera, rear curtain"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "Headlamp washer relay"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Brake vacuum pump relay"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Front power outlet"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Trunk lid relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Stop lamp relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Trunk relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "ACC socket relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Brake vacuum pump relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump resistor relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "IMS relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Headlamp washer relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "ECS relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "PDM (ACC) relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "PDM (IG1) relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "PDM (IG2) relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment fuse panel (passenger's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-genesis-2013-genid-g1-trims-sedan-3.webp",
+   "fuses": [
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch (IG2, start), passenger pre-safe seat belt"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear heated"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch (IG1, ACC), driver pre-safe seat belt"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "A/C control module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "EPB module"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "EPB module"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "IPM, low beam relay"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Front heated glass relay"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "AQS sensor, wiper module, blower relay"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Washer relay"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "A/C module, power/folding mirrors"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "TCM"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Headlamps"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "EHPS module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "ESC module, check connector"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "ECM"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control relay"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-6"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Injector drive box"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "ECM, MAF sensor, oxygen sensors #1-4"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Purge/intake/oil control valves, ECM, cooling fan relay, immobilizer"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "ECM, injectors #1-6, fuel pump relay"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Headlamp RH"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Headlamp LH"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Injector drive box"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Smart cruise control module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch/relay, generator, vacuum switch"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "ECM, TCM, injector drive box"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Room lamp relay"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay & resistor"
+    ],
+    [
+     "F39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "F40",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 2"
+    ],
+    [
+     "F41",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 1"
+    ],
+    [
+     "F42",
+     "Fuse FMX/JCase",
+     "30A",
+     "Start solenoid"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "AQS/washer fuses relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Deicer relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Washer relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "ECU relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Room lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}
