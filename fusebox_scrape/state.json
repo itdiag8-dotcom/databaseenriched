@@ -1011,9 +1011,13 @@
   "gmc/suburban": "done",
   "gmc/terrain": "done",
   "gmc/yukon": "done",
-  "gmc/yukon-hybrid": "done_no_db_model"
+  "gmc/yukon-hybrid": "done_no_db_model",
+  "great-wall/gwperi": "no_data",
+  "great-wall/ora": "no_data",
+  "great-wall/v200": "done_no_db_model",
+  "great-wall/v240": "done_no_db_model"
  },
- "last_updated": "2026-10-04 GMC COMPLETE (23 slugs); next great-wall",
+ "last_updated": "2026-10-04 great-wall: gwperi/ora no_data, v200/v240 done",
  "current_brand": "great-wall",
  "audi_done_models": [
   "a1",
