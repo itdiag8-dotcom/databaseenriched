@@ -1,0 +1,324 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "palio",
+ "brand_db": "Fiat",
+ "model_db_name": "Palio",
+ "model_id": 1699,
+ "generation_name": "Novo Palio (\"Type 326\", \"Project 326\")",
+ "generation_code": "g2.0",
+ "year_start": 2012,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/fiat/palio/info/fusebox/2014/g20",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-palio-2014-genid-g2.0-0.webp",
+   "fuses": [
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Low beam right side"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Low beam left side"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "7.5A",
+     "INT A of the electric window lift control unit and fan"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Interior lights, trunk light, glove compartment light"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "20A",
+     "Rear left electric window lift"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "Rear right electric window lift"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "+30 power supply for OBD socket, radio, window lift control unit, alarm"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "+15 power supply for instrument panel and brake switch"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Electric lock"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "7.5A",
+     "+15 power supply for ABS"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Front and rear windshield washer"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "20A",
+     "Driver side electric window lift"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Passenger side electric window lift"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "7.5A",
+     "+15 for rearview mirror, rain/twilight sensor, electric sunroof, alarm, steering wheel controls, cruise control, hazard lights, My Car switches"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "7.5A",
+     "+15 power supply for airbag"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "7.5A",
+     "+15 for power outlet relay, electric locks, air box lighting, radio, reverse gear switch, brake and clutch"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel +30 power supply"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "7.5A",
+     "High beam left side"
+    ],
+    [
+     "F91",
+     "Fuse MINI",
+     "7.5A",
+     "High beam right side"
+    ],
+    [
+     "F92",
+     "Fuse MINI",
+     "7.5A",
+     "Fog light left side"
+    ],
+    [
+     "F93",
+     "Fuse MINI",
+     "7.5A",
+     "Fog light right side"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-palio-2014-genid-g2.0-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "50A",
+     "Battery supply for front wiper, body computer F34, F33, F48, F47, F38, F89"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "70A",
+     "Battery supply for body computer F92, F93, F90, F91, F12, F13, F43, F53, F36"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "20A",
+     "Ignition supply for body computer fuses F51, F37, F42, F49, F50, F31"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "40A",
+     "ABS pump"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "70A",
+     "Electric steering predisposition"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "20A",
+     "Radiator fan (low speed)"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "Radiator fan (low speed)"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "30A",
+     "Radiator fan (high speed)"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan (high speed)"
+    ],
+    [
+     "F08",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "Others"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Canister solenoid valve"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "IE central unit, starter motor, canister solenoid valve, lambda sensor, injector nozzles"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Lambda sensor"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Body computer"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Injector nozzles"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "30A",
+     "ABS valve"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "7.5A",
+     "BS"
+    ],
+    [
+     "F82",
+     "Fuse MAXI",
+     "30A",
+     "Battery supply for Dualogic pump"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "40A",
+     "Air box fan"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "Fog lights (predisposition)"
+    ],
+    [
+     "F85",
+     "Fuse ATO",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "10A",
+     "Fuel level sensor, speedometer, A/C compressor relay sensor"
+    ],
+    [
+     "F112",
+     "Fuse MINI",
+     "10A",
+     "Xenon headlights predisposition"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "palio",
+ "brand_db": "Fiat",
+ "model_db_name": "Palio",
+ "model_id": 1699,
+ "generation_name": "1st generation 3rd facelift (\"Type 178\", \"Project 178\")",
+ "generation_code": "g1.3",
+ "year_start": 2007,
+ "year_end": 2013,
+ "trim_label": "Fire",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/fiat/palio/info/fusebox/2013/1st-gen-3rd-facelift_ver-fire",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-palio-2013-genid-g1.3-ver-fire-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Windshield wiper/washer, rear window wiper"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "25A",
+     "Front power windows"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Front left and rear right position lights, right license plate light, control illumination"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Front right and rear left position lights, left license plate light, power outlet illumination"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "Central door locking"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Brake lights"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "Turn signals, instrument cluster power supply, reverse lights, airbag"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Internal blower fan, power outlet"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Interior light assembly, radio"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "ABS"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Fiat CODE"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-palio-2013-genid-g1.3-ver-fire-1.webp",
+   "fuses": [
+    [
+     "F29",
+     "Fuse MAXI",
+     "30A",
+     "Injection, Fiat Code, electric fuel pump"
+    ],
+    [
+     "F28",
+     "Fuse MAXI",
+     "40A",
+     "Ignition device"
+    ],
+    [
+     "F27",
+     "Fuse MAXI",
+     "50A",
+     "General power supply for services"
+    ],
+    [
+     "F26",
+     "Fuse MAXI",
+     "60A",
+     "General power supply for services"
+    ],
+    [
+     "F30",
+     "Fuse MAXI",
+     "30A",
+     "Radiator fan (40A with air conditioning)"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "10A",
+     "Fiat Code and injection (15A for some versions)"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "15A",
+     "Heated oxygen sensor and canister (10A for some versions)"
+    ],
+    [
+     "F33",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump (only for Tetrafuel version)"
+    ],
+    [
+     "A",
+     "Relay",
+     "",
+     "ABS protection fuse (some versions)"
+    ]
+   ]
+  }
+ ]
+}

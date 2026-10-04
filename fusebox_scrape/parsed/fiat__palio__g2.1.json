@@ -1,0 +1,547 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "palio",
+ "brand_db": "Fiat",
+ "model_db_name": "Palio",
+ "model_id": 1699,
+ "generation_name": "Novo Palio (\"Type 326\", \"Project 326\")",
+ "generation_code": "g2.1",
+ "year_start": 2012,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/fiat/palio/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box (1.6 and 1.3 JTD versions)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-palio-2017-genid-g2.1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "License plate light, A/C controls illumination, car radio illumination, ashtray illumination, console power outlet illumination"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Internal power supply, reversing light, coil, engine compartment fuse box, manual climate control system"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Internal power supply"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "7.5A",
+     "ABS control unit"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Turn signals, hazard warning lights, instrument cluster"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "7.5A",
+     "Service +15, radio internal power supply, electric mirror, dashboard illumination, mirror switch illumination, rain sensor"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Brake light, instrument cluster"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Power supply +30, external lights control switch"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper and bi-directional pump"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Electric door locking"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Front right electric window"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "Rear left electric window"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Front left electric window"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Power supply +30, internal car radio light, diagnostic socket"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Rear right electric window"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Electric seat"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Subwoofer power supply"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-palio-2017-genid-g2.1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "30A",
+     "ABS control unit (valve)"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "40A",
+     "ABS control unit (pump)"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "Radiator cooling fan 1st speed"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "40A",
+     "Radiator cooling fan 2nd speed"
+    ],
+    [
+     "F08",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "30A",
+     "High and low beam light control power supply"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Canister solenoid valve"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper and bidirectional pump"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Electronic injection, fog lights, defoggers, instrument cluster"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit +30 power supply"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper and bidirectional pump"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Injectors and cylinder coil"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Power door locks"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "7.5A",
+     "ABS control unit"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "40A",
+     "Airbox blower fan"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "Rear window wiper"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "10A",
+     "Wiper/washer control unit, power windows control unit, A/C compressor relay, backup light"
+    ],
+    [
+     "F100",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "F101",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "F102",
+     "Fuse MINI",
+     "20A",
+     "Front left power window"
+    ],
+    [
+     "F103",
+     "Fuse MINI",
+     "20A",
+     "Front right power window"
+    ],
+    [
+     "F104",
+     "Fuse MINI",
+     "15A",
+     "Radio, diagnostic connector, alarm control unit, hazard lights"
+    ],
+    [
+     "F105",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, defoggers, dome light, glove box light"
+    ],
+    [
+     "F106",
+     "Fuse MINI",
+     "7.5A",
+     "Left control panel illumination, power outlet and ventilation controls"
+    ],
+    [
+     "F107",
+     "Fuse MINI",
+     "7.5A",
+     "Wiper/washer control unit, power windows control unit"
+    ],
+    [
+     "F108",
+     "Fuse MINI",
+     "10A",
+     "Internal power supply for radio, alarm pre-installation, speedometer"
+    ],
+    [
+     "F109",
+     "Fuse MINI",
+     "15A",
+     "Fog light relay coil and fuses F113 and F115"
+    ],
+    [
+     "F110",
+     "Fuse MINI",
+     "10A",
+     "Brake light, turn signals"
+    ],
+    [
+     "F111",
+     "Fuse MINI",
+     "15A",
+     "Right and left side high beams"
+    ],
+    [
+     "F112",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "F113",
+     "Fuse MINI",
+     "5A",
+     "Front right/rear left position lights, license plate light, instrument cluster illumination, fog lights"
+    ],
+    [
+     "F114",
+     "Fuse MINI",
+     "10A",
+     "Left side low beam"
+    ],
+    [
+     "F115",
+     "Fuse MINI",
+     "5A",
+     "Front left and rear right position light and license plate light"
+    ],
+    [
+     "F116",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "F85",
+     "Fuse ATO",
+     "20A",
+     "Power outlet and cigarette lighter"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Battery Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-palio-2017-genid-g2.1-2.webp",
+   "fuses": [
+    [
+     "F00",
+     "Fuse MAXI",
+     "60A",
+     "Glow plugs (1.3 JTD)"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F01",
+     "Fuse MAXI",
+     "70A",
+     "Instrument panel control unit"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "40A",
+     "Instrument panel control unit"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "1st speed of the radiator cooling fan"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "40A",
+     "2nd speed of the radiator cooling fan"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "50A",
+     "ABS"
+    ],
+    [
+     "F08",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioning cooling fan"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control unit"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Electric fuel pump"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Injectors, ignition coil, electric fuel pump"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Speedometer, lambda sensor, canister, engine control secondary load, glow plug control unit (1.3 JTD)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "+15/54 fog light control, Adventure Locker"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control unit, engine control system relay, cooling system"
+    ]
+   ]
+  }
+ ]
+}
