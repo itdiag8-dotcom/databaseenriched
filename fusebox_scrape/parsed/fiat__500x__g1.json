@@ -1,0 +1,325 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "500x",
+ "brand_db": "Fiat",
+ "model_db_name": "500X",
+ "model_id": 1670,
+ "generation_name": "1st generation (\"Type 334\")",
+ "generation_code": "g1",
+ "year_start": 2015,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/fiat/500x/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Location",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-500x-2022-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "Engine control module"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Air conditioning fan"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "20A",
+     "Controller power supply body computer"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic transmission GSM"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Brake control electronics module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioner compressor"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "70A",
+     "Electric power-assisted steering"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "70A",
+     "Engine cooling fan"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Electronic power four-wheel drive"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "WCAC supply pump"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Engine control module"
+    ],
+    [
+     "15",
+     "Fuse MAXI",
+     "70A",
+     "Body computer module"
+    ],
+    [
+     "16",
+     "Fuse MAXI",
+     "60A",
+     "Body computer module, rear distribution units"
+    ],
+    [
+     "17",
+     "Fuse MAXI",
+     "40A",
+     "Brake control module pump"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "Power all-wheel drive"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Heated windshield"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Power outlet (ignition powered)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Power outlet (battery powered)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Power control module engine"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Supply primary loads"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Supply secondary loads"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Electronic unit supply automatic transmission"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Engine control module power, automatic transmission"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Gear selector automatic transmission"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "Heated outside mirrors"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "IBS sensor (battery state of charge)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Body Computer Fuse Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-500x-2022-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F31",
+     "Fuse MINI",
+     "7.5A",
+     "Fan air conditioning"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "20A",
+     "Power window front (passenger side)"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "Power window front (driver's side)"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Supply Uconnect system"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "System power Forward Collision Warning Plus"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "7.5A",
+     "BSM - brake control module"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Bi-directional pump washer"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "20A",
+     "Power rear window (driver side)"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Power rear window (passenger side)"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "7.5A",
+     "Supply ParkSense"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "7.5A",
+     "Supply airbag"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "7.5A",
+     "Supply IPC / starter device / Keyless Enter 'n Go system"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Cargo Fuse/Relay Distribution Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-500x-2022-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "20A",
+     "Electric sunroof"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "30A",
+     "Power seat (driver side)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Heating front seats"
+    ],
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Audio system"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "7.5A",
+     "Power seat (driver side) lumbar adjustment"
+    ]
+   ]
+  }
+ ]
+}
