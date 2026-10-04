@@ -1,0 +1,837 @@
+{
+ "make_slug": "honda",
+ "model_slug": "odyssey",
+ "brand_db": "Honda",
+ "model_db_name": "Odyssey",
+ "model_id": 2159,
+ "generation_name": "North America (RL5)",
+ "generation_code": "g4b",
+ "year_start": 2011,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/honda/odyssey/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box (Passenger Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-odyssey-2017-genid-g4b-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "ACG FR"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Powertrain control module (VB SOL)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Relay control module (IG1 ECU FR)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "FI sub"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "DBW"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "FI main"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Backup"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "MG clutch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Front fog lights [not all models]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Small lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Right headlight low beam"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Left headlight low beam"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Oil level"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main fan"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Sub fan"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper main"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Taillight relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlight low relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear blower motor relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fan control relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "PGM-FI main relay No. 1"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "PGM-FI sub relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Wiper main relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "A/C condenser fan relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "ETCS control relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Ignition coil relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box (Driver Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-odyssey-2017-genid-g4b-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "125A",
+     "Main fuse"
+    ],
+    [
+     "2-1",
+     "Other",
+     "",
+     "Fan main"
+    ],
+    [
+     "2-2",
+     "Other",
+     "",
+     "Passenger side fuse box 2"
+    ],
+    [
+     "2-3",
+     "Other",
+     "",
+     "HondaVAC [not all models]"
+    ],
+    [
+     "2-4",
+     "Other",
+     "",
+     "Interior lights, FI main"
+    ],
+    [
+     "2-5",
+     "Other",
+     "",
+     "Stop & horn, hazard"
+    ],
+    [
+     "2-6",
+     "Other",
+     "",
+     "Rear blower, battery management system"
+    ],
+    [
+     "2-7",
+     "Other",
+     "",
+     "VSA FSR"
+    ],
+    [
+     "2-8",
+     "Other",
+     "",
+     "VSA motor"
+    ],
+    [
+     "3-1",
+     "Other",
+     "",
+     "Driver side fuse box 2"
+    ],
+    [
+     "3-2",
+     "Other",
+     "",
+     "IG1 main [models without smart entry]"
+    ],
+    [
+     "3-2",
+     "Other",
+     "",
+     "Starter motor [models with smart entry]"
+    ],
+    [
+     "3-3",
+     "Other",
+     "",
+     "Rear fuse box 1"
+    ],
+    [
+     "3-4",
+     "Other",
+     "",
+     "Passenger side fuse box 1"
+    ],
+    [
+     "3-5",
+     "Other",
+     "",
+     "Driver side fuse box 1"
+    ],
+    [
+     "3-6",
+     "Other",
+     "",
+     "Engine compartment fuse box (passenger side) main"
+    ],
+    [
+     "3-7",
+     "Other",
+     "",
+     "Passenger's side power sliding door motor [not all models]"
+    ],
+    [
+     "3-8",
+     "Other",
+     "",
+     "Front blower"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG main 2 [not all models]"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG main 1 [not all models]"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Battery management system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Stop & horn"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Hazard"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Driver Side Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-odyssey-2017-genid-g4b-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Front passenger's door lock"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Rear passenger's door lock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Driver's door lock"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Front passenger's door unlock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Rear passenger's door unlock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Driver's door unlock"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Door lock main"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "HAC option [not all models]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Driver's side power sliding door closer [not all models]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Rear fuse box"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Engine compartment fuse box (passenger side)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "STS [not all models]"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat sliding"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Moonroof [not all models]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Rear driver's side power window"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Smart entry system [not all models]"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Passenger side fuse box"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "VSA"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "ACG AS"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "STRLD"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "HAC"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "ACC key lock"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "Driver's power seat lumbar support [not all models]"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "TPMS"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat reclining"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "40A",
+     "Driver's side power sliding door motor [not all models]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter cut relay No. 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter cut relay No. 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PGM-FI main relay No. 2 (fuel pump)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Ignition relay (IG2 cut)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Ignition relay (ACC cut)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger Side Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-odyssey-2017-genid-g4b-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Premium amp [not all models]"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Rear passenger's side power window"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ACM"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Seat heaters [not all models]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power seat sliding"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power seat reclining"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Passenger's side power sliding door closer [not all models]"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Rear accessory power socket"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Headlight adjuster [not all models]"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "OPDS [not all models]"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "OPDS [not all models]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Illumination (interior)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Front accessory power socket"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power window"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "ECU AS"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Seat heater relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Right rear power window relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Active control engine mount (ACM) relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cargo area accessory power socket relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front lower accessory power socket relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front upper accessory power socket relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Rear Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-odyssey-2017-genid-g4b-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Power tailgate closer [not all models]"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Trailer small light [not all models]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Tailgate [not all models]"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Rear driver's side door lock"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Trailer [not all models]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Trailer charge [not all models]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Trailer back light [not all models]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Trailer hazard"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "ECU RR"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power tailgate motor [not all models]"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "AC inverter"
+    ]
+   ]
+  }
+ ]
+}

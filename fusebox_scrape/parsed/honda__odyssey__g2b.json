@@ -1,0 +1,356 @@
+{
+ "make_slug": "honda",
+ "model_slug": "odyssey",
+ "brand_db": "Honda",
+ "model_db_name": "Odyssey",
+ "model_id": 2159,
+ "generation_name": "North America (RL1)",
+ "generation_code": "g2b",
+ "year_start": 1999,
+ "year_end": 2004,
+ "trim_label": "RL1",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/honda/odyssey/info/fusebox/2004/north-america_trims-rl1",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Primary under-hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-odyssey-2004-genid-g2b-trims-rl1-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Right headlight"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "ACGS"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Hazard"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Stop lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Left headlight"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "ABS F/S"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window motor"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power sliding door [EX and EX-L models]"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Backup, ACC"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power seat [EX and EX-L models]"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater motor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "20",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "Battery"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "Condenser fan"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "MG clutch"
+    ],
+    [
+     "23",
+     "Fuse FLD/PAL 283",
+     "50A",
+     "Ignition switch (IG1 main)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS motor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Secondary under-hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-odyssey-2004-genid-g2b-trims-rl1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear entertainment system [EX-L models]"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Seat heaters [EX-L models]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Driver's power window"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear A/C"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power sliding door [EX and EX-L models]"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior fuse box - Driver's side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-odyssey-2004-genid-g2b-trims-rl1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Heater control, A/C clutch relay, cooling fan relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirrors"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights [Canadian models]"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "ECU (PCM), cruise control"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "ACC relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Backup lights, instrument lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Turn signals"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Starter signal"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Interior fuse box - Passenger's side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-odyssey-2004-genid-g2b-trims-rl1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Driver's side automatic sliding door"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Power seat reclining [EX and EX-L models]"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "BSC [EX and EX-L models]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Power seat sliding [EX and EX-L models]"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Passenger's side automatic sliding door"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights [Canadian models]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Left rear window"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power window"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Accessory socket"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Instrument panel light, license light"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Interior lights, radio"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Power door locks"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Clock, backup"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "ABS motor check"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Right rear window"
+    ]
+   ]
+  }
+ ]
+}
