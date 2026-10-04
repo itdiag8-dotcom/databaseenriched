@@ -1,0 +1,306 @@
+{
+ "make_slug": "holden",
+ "model_slug": "jackaroo",
+ "brand_db": "Holden",
+ "model_db_name": "Jackaroo",
+ "model_id": 2087,
+ "generation_name": "UBS-2",
+ "generation_code": "g2",
+ "year_start": 1993,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/holden/jackaroo/info/fusebox/2003",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses under the dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-jackaroo-2003-genid-g2-0.webp",
+   "fuses": [
+    [
+     "C1",
+     "Fuse ATO",
+     "10A",
+     "Starter"
+    ],
+    [
+     "C2",
+     "Fuse ATO",
+     "15A",
+     "Seat heater"
+    ],
+    [
+     "C3",
+     "Fuse ATO",
+     "10A",
+     "Turn signal light, reverse light"
+    ],
+    [
+     "C4",
+     "Fuse ATO",
+     "10A",
+     "Electronic ignition"
+    ],
+    [
+     "C5",
+     "Fuse ATO",
+     "15A",
+     "Windscreen wiper, washer"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "10A",
+     "Rear wiper, washer"
+    ],
+    [
+     "C7",
+     "Fuse ATO",
+     "10A",
+     "Headlight wiper"
+    ],
+    [
+     "C8",
+     "Fuse ATO",
+     "15A",
+     "Engine"
+    ],
+    [
+     "C9",
+     "Fuse ATO",
+     "15A",
+     "Ignition coil (petrol) / fuel cut (diesel)"
+    ],
+    [
+     "C10",
+     "Fuse ATO",
+     "10A",
+     "Meter gauge"
+    ],
+    [
+     "C11",
+     "Fuse ATO",
+     "10A",
+     "Audio, electric mirrors"
+    ],
+    [
+     "C12",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "C13",
+     "Fuse ATO",
+     "10A",
+     "Anti-theft"
+    ],
+    [
+     "C14",
+     "Fuse ATO",
+     "15A",
+     "Stop lights, automatic transmission"
+    ],
+    [
+     "C15",
+     "Fuse ATO",
+     "20A",
+     "Audio"
+    ],
+    [
+     "C16",
+     "Fuse ATO",
+     "10A",
+     "Clock"
+    ],
+    [
+     "C17",
+     "Fuse ATO",
+     "25A",
+     "Demister"
+    ],
+    [
+     "C18",
+     "Fuse ATO",
+     "20A",
+     "Electric door locking"
+    ],
+    [
+     "C19",
+     "Fuse ATO",
+     "25A",
+     "Blower"
+    ],
+    [
+     "C20",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "C21",
+     "Fuse ATO",
+     "10A",
+     "SRS-1"
+    ],
+    [
+     "C22",
+     "Fuse ATO",
+     "10A",
+     "SRS-2"
+    ],
+    [
+     "C23",
+     "Fuse ATO",
+     "10A",
+     "SRS-3"
+    ],
+    [
+     "C24",
+     "Fuse ATO",
+     "10A",
+     "SRS-4"
+    ],
+    [
+     "CB2",
+     "Circuit breaker",
+     "",
+     "Electric windows, power seat, sunroof"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-jackaroo-2003-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "10A",
+     "Rear sub lamp"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "15A",
+     "ECM (diesel)"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "10A",
+     "O2 sensor heater (petrol)"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "Horn, hazard"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "15A",
+     "Left headlight"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "15A",
+     "Right headlight"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "20A",
+     "Accessory socket"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "20A",
+     "Front fog lights"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "20A",
+     "ABS"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "15A",
+     "ECT (diesel)"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "10A",
+     "Fuel pump (petrol)"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "15A",
+     "Anti-theft"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "15A",
+     "Tail lights"
+    ],
+    [
+     "FL1",
+     "Fuse FLD/PAL 283",
+     "80A",
+     "Main"
+    ],
+    [
+     "FL2",
+     "Fuse FLD/PAL 283",
+     "50A",
+     "Starter switch"
+    ],
+    [
+     "FL3",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "Ceramic heater (diesel)"
+    ],
+    [
+     "FL3",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "ECM (petrol)"
+    ],
+    [
+     "FL4",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "ECM (diesel)"
+    ],
+    [
+     "FL4",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Condenser fan (petrol)"
+    ],
+    [
+     "FL5",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "Glow plugs (diesel)"
+    ],
+    [
+     "FL6",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "ABS"
+    ]
+   ]
+  }
+ ]
+}
