@@ -1,0 +1,450 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "accent",
+ "brand_db": "Hyundai",
+ "model_db_name": "Accent",
+ "model_id": 2176,
+ "generation_name": "4th generation (RB, RC)",
+ "generation_code": "g4",
+ "year_start": 2010,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/hyundai/accent/info/fusebox/2017/4th-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel (Driver's side fuse panel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-accent-2017-genid-g4-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter & power outlet"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter & power outlet"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "ACC: audio, power outside mirror switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (airbag indicator)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "SRS control module, telltale, passenger occupant detection sensor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Turn signal: hazard switch"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "EPS control module (MDPS)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper: multifunction switch, rear wiper motor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Front fog lamp relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Daytime running light relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp switch, battery sensor, stop lamp relay, HAC relay, DLC"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, BCM"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "IG1: stop lamp switch, ECO switch, seat heater modules, TPMS, shift lever illumination, EPS, rheostat"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESC control modules, ESC off switch, multipurpose check connector, HAC relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Backup lamp switch"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "ECM, PCM"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "IG2_2: A/C control module, BCM, SMK unit, wiper control unit"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Hazard relay, hazard switch"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Sunroof motor"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Room lamp 1: cluster, TPMS, BCM, A/C module, luggage/trunk/center room lamps, console lamp, map lamp"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Audio"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "TCU: vehicle speed sensor, transaxle range switch"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "IG2: power window relay, A/C module, cluster, BCM, sunroof motor, blower relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "Front wiper: multifunction switch, front wiper motor"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Door lock/unlock relay, two turn unlock relay, driver door lock actuator"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "25A",
+     "Safety power window module"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Driver/passenger seat heater module"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp LH: rear combination lamp LH, headlamp LH, front turn signal LH, license lamps"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp RH: headlamp RH, rear combination lamp RH, rheostat, audio, illumination, switches"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Start: transaxle range switch, ignition lock switch"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Headlamp: instrument cluster, headlamp relay"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "25A",
+     "Power window LH: main switch, rear switch LH"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "25A",
+     "Power window RH: main switch, rear switch RH, passenger switch"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror: ECM/PCM, rear defogger switch, power outside mirrors"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "A/C control module (auto A/C)"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Blower: ECM/PCM, blower switch, blower resistor, A/C module (manual A/C)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment main fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-accent-2017-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "EPS control module"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "I/P junction box (rear defogger relay)"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "ABS/ESC control modules"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "ABS/ESC control modules, multipurpose check connector"
+    ],
+    [
+     "6",
+     "Other",
+     "",
+     "Alternator, E/R fuse & relay box multi-fuses"
+    ],
+    [
+     "9",
+     "Other",
+     "",
+     "I/P junction box (room lamp, audio, fog lamp, stop lamp fuses, tail lamp relay)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Start relay, ignition switch"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU 2 fuse, engine control relay"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan high/low relays"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "50A",
+     "I/P junction box (seat heater, sunroof, door lock, hazard fuses, power window relay)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Horn relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Headlamp RH"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Headlamp LH"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Headlamp relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "ECM/PCM, oil control valves, oxygen sensors, fuel pump relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ECM/PCM, purge/intake/canister solenoid valves, immobilizer, A/C relay, cooling fan relays"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "ECM, PCM"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils #1-4, condenser"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "PCM, transaxle range switch, cluster, rear combination lamps, shift lever illumination"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "ECM/PCM, multifunction switch, front wiper motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Rear lamp relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Wiper relay"
+    ]
+   ]
+  }
+ ]
+}

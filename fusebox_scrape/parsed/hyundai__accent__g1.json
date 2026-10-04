@@ -1,0 +1,319 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "accent",
+ "brand_db": "Hyundai",
+ "model_db_name": "Accent",
+ "model_id": 2176,
+ "generation_name": "1st generation (X3)",
+ "generation_code": "g1",
+ "year_start": 1994,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/hyundai/accent/info/fusebox/2003/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-accent-2003-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Anti-lock braking system"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Hazard light"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Stop lamp / immobilizer"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Instrument cluster, clock, interior lights, audio, engine control unit"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Rear window defogger"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Rear wiper & washer, siren, lamp relay"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Wipers, windshield washer"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Backup lights, transmission control unit, turn signal"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Instrument cluster, anti-theft system, seat belts"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Cigar lighter / power outlet, power control mirror"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Audio, ATM inter clock"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "TCU / ECT"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Seat heater relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-accent-2003-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "Battery and charging system"
+    ],
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "20A",
+     "Power windows"
+    ],
+    [
+     "3",
+     "Fuse FLF/PAL 293",
+     "20A",
+     "Audio system"
+    ],
+    [
+     "4",
+     "Fuse FLF/PAL 293",
+     "20A",
+     "Anti-lock braking system (ABS2)"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "30A",
+     "AC blower motor"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Left-hand headlight"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Right-hand headlight"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Tail light left-hand"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Tail light right-hand"
+    ],
+    [
+     "11",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Battery and charging system (alternator)"
+    ],
+    [
+     "12",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Ignition"
+    ],
+    [
+     "13",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Anti-lock braking system"
+    ],
+    [
+     "14",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Headlamps"
+    ],
+    [
+     "15",
+     "Fuse FLF/PAL 293",
+     "20A",
+     "Engine control unit"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "AC condenser fan"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Horn"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "AC condenser fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Tail lights relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlamps relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Relays in the passenger compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-accent-2003-genid-g1-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear fog light(s)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay, auxiliary relay, fuel pump"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter relay (manual transmission)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fan control relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Flasher unit"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump control relay"
+    ]
+   ]
+  }
+ ]
+}
