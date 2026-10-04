@@ -1,0 +1,288 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "amica",
+ "brand_db": "Hyundai",
+ "model_db_name": "Amica",
+ "model_id": null,
+ "generation_name": "Generation G2 (MX)",
+ "generation_code": "g2",
+ "year_start": 2006,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/hyundai/amica/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-amica-2007-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Left-hand headlight; rear fog lights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Right-hand headlight"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Wiper & windshield washer"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Power door lock system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Hazard light"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Stop lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Turn signal; backup lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Cigarette lighter; seat belt"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Audio clock; room lamp"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Audio system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Power windows"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock braking system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter / power outlet; seat heater"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-amica-2007-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Headlamps (DRL)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Left tail lamps"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Right tail lamps"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "20A",
+     "Engine control"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "ECU B+"
+    ],
+    [
+     "8",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "Battery power source"
+    ],
+    [
+     "9",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Headlamp"
+    ],
+    [
+     "10",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "ABS control"
+    ],
+    [
+     "11",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Radiator fan control"
+    ],
+    [
+     "12",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Power window control"
+    ],
+    [
+     "13",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "Ignition power source"
+    ],
+    [
+     "14",
+     "Fuse FLF/PAL 293",
+     "20A",
+     "Blower control"
+    ],
+    [
+     "15",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "ABS control"
+    ],
+    [
+     "16",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Generator (alternator)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Tail lamp 1 relay (DRL)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Tail lamp 2 relay (DRL)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ]
+   ]
+  }
+ ]
+}
