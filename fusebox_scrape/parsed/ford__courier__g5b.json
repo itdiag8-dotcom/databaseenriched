@@ -1,0 +1,240 @@
+{
+ "make_slug": "ford",
+ "model_slug": "courier",
+ "brand_db": "Ford",
+ "model_db_name": "Courier",
+ "model_id": null,
+ "generation_name": "Fiesta Courier (Mk4/Mk5) (\"BE91\")",
+ "generation_code": "g5b",
+ "year_start": 1998,
+ "year_end": 2005,
+ "trim_label": "Fiesta-based",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/ford/courier/info/fusebox/2005/fiesta-courier-mk4mk5_ver-fiesta-based",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-courier-2005-genid-g5b-ver-fiesta__based-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "7.5A",
+     "Courtesy lights and electronic dashboard, air conditioning recirculation"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Hazard lights, turn signals, horn"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument panel lighting, radio receiver, cigarette lighter, and heater"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "7.5A",
+     "Right rear position light, right front headlight"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "Windscreen wiper switch"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Brake lights, instrument panel warning lights, reverse lights, and air conditioning"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Ventilation motor"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Turn signal relay"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Glow plugs [Diesel] / ignition coil [Gasoline]"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "7.5A",
+     "Radio receiver, clock"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Third brake light"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic connector"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-courier-2005-genid-g5b-ver-fiesta__based-1.webp",
+   "fuses": [
+    [
+     "F23",
+     "Fuse ATO",
+     "10A",
+     "Left high beam, high beam indicator"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "10A",
+     "Lambda sensor"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump, fan, A/C switch, electronic engine control"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "20A",
+     "Fog light and A/C"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "3A",
+     "Electronic engine control"
+    ],
+    [
+     "F35",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F36",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "Ignition"
+    ],
+    [
+     "F38",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Fan"
+    ],
+    [
+     "F39",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Power supply (+) for the fuse and relay box"
+    ],
+    [
+     "F40",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Ignition switch/multifunction switch"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Accessories"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "High beams"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beams"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fog lights"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Engine radiator fan (low speed)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Engine radiator fan (high speed)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Electronic engine control"
+    ]
+   ]
+  }
+ ]
+}
