@@ -1,0 +1,378 @@
+{
+ "make_slug": "ford",
+ "model_slug": "taurus",
+ "brand_db": "Ford",
+ "model_db_name": "Taurus",
+ "model_id": 1935,
+ "generation_name": "4th generation (DN186)",
+ "generation_code": "g4",
+ "year_start": 2000,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/ford/taurus/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-taurus-2007-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear defrost relay coil feed"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Left headlamp"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Right headlamp"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirrors, rear defrost switch indicator"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "30A",
+     "Front wiper motor"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "ABS, speed control, traction control, brake-shift interlock, A/C function switch, temp blend door, defrost coil"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Blower motor relay coil, EATC logic"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "Backlighting, ashtray light"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "High beam headlamps"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "Restraints (air bag module / OCS module)"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "Turn signals, back-up lamps"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "Cluster, flex fuel module, ICP logic, passive anti-theft module (GEM power), compass"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "2A",
+     "PCM relay, fuel pump relay, A/C clutch"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "15A",
+     "Stop lamp, speed control deactivation switch"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission range sensor"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "20A",
+     "Power point"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "15A",
+     "Hazard flasher, cluster power, ICP power, EATC"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "25A",
+     "Autolamp, DRL, flash-to-pass, headlamp switch"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "15A",
+     "Parklamps, PWM (backlighting), autolamps"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "15A",
+     "Front washer pump, cluster (RUN/ACC), ICP logic, electrochromatic mirror"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "20A",
+     "Power locks, trunk release"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Courtesy lighting, battery saver, power mirrors, decklid lamp, glove box lamp"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "5A",
+     "GEM logic"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "15A",
+     "Horn, diagnostic connector (OBD II)"
+    ],
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Power seats, delayed accessory"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Driver one touch down relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Flasher relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Accessory delay relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear defrost relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-taurus-2007-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "60A",
+     "Fuse junction panel"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "60A",
+     "Fuse junction panel"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan (main)"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "40A",
+     "Starter relay, ignition switch"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "20A",
+     "Cooling fan (passenger side)"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "50A",
+     "Rear defrost"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "40A",
+     "ABS module pump feed"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "30A",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "9",
+     "Circuit breaker MAXI",
+     "",
+     "Low speed cooling fan"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "20A",
+     "Cooling fan (driver side)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch relay, PCM keep alive power"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "CD"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "ABS module valve solenoid"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Heated PCV valve"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "HEGO sensor, transmission shift solenoid, A/C clutch relay, canister vent"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Rear control unit"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fan relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper speed relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Wiper park relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "PCM power relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}

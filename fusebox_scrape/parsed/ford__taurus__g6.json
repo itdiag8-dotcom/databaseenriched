@@ -1,0 +1,558 @@
+{
+ "make_slug": "ford",
+ "model_slug": "taurus",
+ "brand_db": "Ford",
+ "model_db_name": "Taurus",
+ "model_id": 1935,
+ "generation_name": "6th generation (D258)",
+ "generation_code": "g6",
+ "year_start": 2009,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/ford/taurus/info/fusebox/2019/6th-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-taurus-2019-genid-g6-0.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper motor relay"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "Anti-lock brake system pump"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "Moonroof, power sunshade"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Second row power point"
+    ],
+    [
+     "11",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "13",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "14",
+     "Relay",
+     "",
+     "Left-hand cooling fan number 2 relay"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower motor relay"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter relay"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "Storage bin power point"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear heated seat module"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat, memory module"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated rear window relay"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "30A",
+     "Climate controlled seats"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric fan relay 1"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric fan relay 2"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "25A",
+     "Electric fan relay 3"
+    ],
+    [
+     "32",
+     "Relay",
+     "",
+     "Massage control seat relay"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "Right-hand cooling fan relay"
+    ],
+    [
+     "34",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "35",
+     "Relay",
+     "",
+     "Left-hand cooling fan number 1 relay"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "20A",
+     "Anti-lock brake system valves"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "15A",
+     "Heated mirrors"
+    ],
+    [
+     "55",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "20A",
+     "Left-hand high intensity discharge headlamp"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "10A",
+     "Alternator A-line"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "Brake on/off switch"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch relay"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "15A",
+     "Massage control seats"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "30A",
+     "Fuel pump relay, fuel injectors"
+    ],
+    [
+     "66",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "20A",
+     "Oxygen sensor heater, MAF sensor, VCT solenoid, canister vent/purge solenoids"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 1 (powertrain control module)"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "15A",
+     "A/C clutch, fan control relay coils 1-3, variable A/C compressor, aux transmission warmup, turbo wastegate control, compressor bypass valve, AWD module, PCV heater"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "20A",
+     "Right high-intensity discharge headlamp"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "7.5A",
+     "PCM keep-alive power and relay, canister vent solenoid"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "5A",
+     "Run/start relay"
+    ],
+    [
+     "88",
+     "Relay",
+     "",
+     "Run/start relay"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "5A",
+     "Front blower relay coil, electric power assist steering module"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module run/start"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "10A",
+     "Adaptive cruise control module"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system module"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "5A",
+     "Rear window defrost relay"
+    ],
+    [
+     "94",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger compartment fuse panel run/start"
+    ],
+    [
+     "98",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-taurus-2019-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Left front and right rear smart window motors"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Driver seat switch"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Right front smart window motor"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Demand lamps battery saver relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Audio amplifier"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Driver seat module logic, left front door zone module, keypad"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "SYNC module, multi-function displays, electronic finish panel, RF transceiver module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Run accessory relay"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Intelligent access module logic, heads-up display"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Puddle lamp, backlighting LED, interior lighting"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Right-hand direction indicators"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Left-hand direction indicators"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp, backup lamp"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Start button, keypad illumination, brake-shift interlock, PCM wake-up, immobilizer transceiver"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Audio amplifiers"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "All lock motor relay and coil, driver lock motor relay and coil"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Extended power module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel control module logic, instrument cluster"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel control module, datalink"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Decklid release"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch, push button ignition switch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Intelligent access module power"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Radio, GPS module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Front park lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Smart window motors, master window/mirror switch, rear sunshade module, lock switch illumination"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Reverse park aid, auto high beam/lane departure, rear heated seat module, blind spot monitor, rear video camera"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Motorized humidity sensor, heads-up display, traction control switch"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Heated steering wheel"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Auto-dimming mirror, moonroof module and switch"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "High beams"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Rear park lamps"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "Extended power module"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Climate control module"
+    ],
+    [
+     "48",
+     "Circuit breaker ATO",
+     "",
+     "Front passenger power window, rear power windows"
+    ],
+    [
+     "49",
+     "Relay",
+     "",
+     "Delayed accessory"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "make_slug": "ford",
+ "model_slug": "taurus",
+ "brand_db": "Ford",
+ "model_db_name": "Taurus",
+ "model_id": 1935,
+ "generation_name": "7th generation (D568)",
+ "generation_code": "g7",
+ "year_start": 2016,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/ford/taurus/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-taurus-2021-genid-g7-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "20A",
+     "Vehicle power 1"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "20A",
+     "Vehicle power 2"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Vehicle power 3"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "15A",
+     "Vehicle power 4"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "5A",
+     "Rear seat accessory box"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear seat recline device"
+    ],
+    [
+     "14",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "19",
+     "Relay",
+     "",
+     "Rear window defogger high current relay"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Right cooling fan high current relay"
+    ],
+    [
+     "21",
+     "Relay",
+     "",
+     "Left cooling fan high current relay"
+    ],
+    [
+     "22",
+     "Fuse FMM/MCase",
+     "30A",
+     "Cooling fan - series mode"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Front blower high current relay"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "30A",
+     "Anti-lock brake system valve"
+    ],
+    [
+     "29",
+     "Relay",
+     "",
+     "Run/start high current relay"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp leveling"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Electronic power steering"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "10A",
+     "Voltage stabilizer, blind spot modules, adaptive cruise control, rear view camera, 360-degree view module"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Left cooling fan high current relay"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Rear seat recline device high current relay"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "Air conditioning clutch micro relay"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "Horn micro relay"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "50A",
+     "Voltage stabilizer module"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "50A",
+     "Right cooling fan"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "50A",
+     "Left cooling fan"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "50A",
+     "RP1 bus"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "50A",
+     "RP2 bus"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brake system pump"
+    ],
+    [
+     "53",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front air conditioning blower motor"
+    ],
+    [
+     "55",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "60",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "62",
+     "Fuse FMM/MCase",
+     "20A",
+     "Rear power outlet"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "30A",
+     "Climate seat module / front seat heating"
+    ],
+    [
+     "66",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "68",
+     "Fuse FMM/MCase",
+     "15A",
+     "Auxiliary blower"
+    ],
+    [
+     "69",
+     "Fuse FMM/MCase",
+     "20A",
+     "Front armrest power outlet"
+    ],
+    [
+     "72",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat / driver seat module"
+    ],
+    [
+     "74",
+     "Fuse FMM/MCase",
+     "25A",
+     "Wiper motor / washer pump"
+    ],
+    [
+     "78",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor control"
+    ],
+    [
+     "82",
+     "Fuse MICRO2",
+     "10A",
+     "USB charger - rear armrest / inside rearview mirror"
+    ],
+    [
+     "90",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain power control"
+    ],
+    [
+     "91",
+     "Fuse MICRO2",
+     "10A",
+     "Brake switch"
+    ],
+    [
+     "92",
+     "Fuse MICRO2",
+     "10A",
+     "Front multi-contour active massage seats"
+    ],
+    [
+     "93",
+     "Fuse MICRO2",
+     "15A",
+     "Rear multi-contour active massage seats and switch"
+    ],
+    [
+     "94",
+     "Fuse MICRO2",
+     "20A",
+     "Rear climate seat module"
+    ],
+    [
+     "95",
+     "Fuse MICRO2",
+     "20A",
+     "Rear climate seat module"
+    ],
+    [
+     "98",
+     "Fuse MICRO2",
+     "5A",
+     "Rain sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-taurus-2021-genid-g7-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "7.5A",
+     "Wireless charging module"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Driver door unlock / fuel filler door unlock"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "20A",
+     "Audio amplifier fuse 1"
+    ],
+    [
+     "9",
+     "Fuse MICRO3",
+     "10A",
+     "Rear seat entertainment system module"
+    ],
+    [
+     "10",
+     "Fuse MICRO3",
+     "5A",
+     "Telematics control unit, hands-free module, trunk switch module"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Gearshift module / front climate control module"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Steering column control module, smart data communication, instrument cluster"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "10A",
+     "Smart data communication"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "Child safety lock motor / trunk lock motor"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "5A",
+     "Start switch"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "7.5A",
+     "Headlamp control module"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "Interior humidity and temperature sensor / air quality sensor"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Driver side window switch, sunshade, sunroof switch module"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "30A",
+     "Driver side door control module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger side door control module"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "20A",
+     "Audio amplifier fuse 2"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "30A",
+     "Driver side rear door control module"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger side rear door control module"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Wireless receiver module / rear climate control module"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Audio front control module"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Run/start relay"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "5A",
+     "Airbag control module"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Auto-dimming rearview mirror / front camera module (IPMA)"
+    ]
+   ]
+  }
+ ]
+}

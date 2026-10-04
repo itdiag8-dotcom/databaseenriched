@@ -1,0 +1,342 @@
+{
+ "make_slug": "ford",
+ "model_slug": "streetka",
+ "brand_db": "Ford",
+ "model_db_name": "StreetKa",
+ "model_id": 1932,
+ "generation_name": "1st generation (BE146)",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/ford/streetka/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel fusebox",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-streetka-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Heated rear window, central locking, heated exterior mirrors"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Interior lamps, instrument panel lighting, clock, radio, data link connector, A/C"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "30A",
+     "ABS module"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "3A",
+     "Engine control unit, main relay"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Side lamps left-hand side, instrument panel illumination, lights-on warning chime"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Side lamps right-hand side, tail lamps"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Dipped beam left-hand side"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Dipped beam right-hand side"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Main beam left-hand side, main beam indicator"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Main beam right-hand side"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "30A",
+     "Heater blower motor, recirculation motor"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Lighting control (headlights, fog lights), brake lamp, back-up lamp"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "20A",
+     "Lighting control (headlights, fog lights)"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "15A",
+     "Wiper motor, washer pump motor, anti-theft system"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Air conditioning, ignition relay, instrument cluster, central locking, entry illumination"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "7.5A",
+     "Ignition relay, instrument cluster, fuel pump relay, electronic engine management"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Airbag module"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump, ignition transformer"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "15A",
+     "Electronic engine management, ABS module, engine cooling fan relay"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "Rear fog lamp, rear wiper motor, reversing lamp, air conditioning"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "20A",
+     "Rear wiper motor, reversing lamp, air conditioning, heater water valve"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Turn signals"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relays Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-streetka-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "23",
+     "Fuse ATO",
+     "20A",
+     "Alarm, horn"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "40A",
+     "Ignition lock"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "30A",
+     "ABS"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "3A",
+     "Alternator"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Anti-theft system, rear door opening relay"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "10A",
+     "Power mirrors"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "10A",
+     "Rear fog lights"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "15A",
+     "Anti-theft system"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "30A",
+     "Electric fan motor (without A/C)"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "10A",
+     "Anti-theft system, instrument panel, sunroof"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "3A",
+     "ABS"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Electric fan motor (without A/C) 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Windscreen wiper (switching modes)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Interior lighting (with central locking)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fog lights"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Start-off switch relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Headlamps warning buzzer"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlights (low beam)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Headlights (high beam)"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Engine management system"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "A/C"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Anti-theft system interrupter, left (with central locking)"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Anti-theft system interrupter, right (with central locking)"
+    ]
+   ]
+  }
+ ]
+}
