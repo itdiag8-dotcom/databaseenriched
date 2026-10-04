@@ -1,0 +1,222 @@
+{
+ "make_slug": "ford",
+ "model_slug": "escort",
+ "brand_db": "Ford",
+ "model_db_name": "Escort",
+ "model_id": 1787,
+ "generation_name": "North America Gen 3 (\"CT120\")",
+ "generation_code": "g6b",
+ "year_start": 1997,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/ford/escort/info/fusebox/2003",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side - Coupe",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-escort-2003-genid-g6b-0.webp",
+   "fuses": [
+    [
+     "DRL",
+     "Fuse ATO",
+     "10A",
+     "Daytime running lamps"
+    ],
+    [
+     "HAZARD",
+     "Fuse ATO",
+     "15A",
+     "Hazard flasher"
+    ],
+    [
+     "ROOM",
+     "Fuse ATO",
+     "10A",
+     "Engine controls, RAP system, radio, shift lock, courtesy lamps, starting system, warning chime, instrument cluster"
+    ],
+    [
+     "ENGINE",
+     "Fuse ATO",
+     "15A",
+     "Electronic automatic transaxle, ignition system, constant control relay module (PCM relay)"
+    ],
+    [
+     "RADIO",
+     "Fuse ATO",
+     "5A",
+     "Power mirrors, radio, RAP system"
+    ],
+    [
+     "DOOR LOCK",
+     "Fuse ATO",
+     "30A",
+     "Power door locks"
+    ],
+    [
+     "HORN",
+     "Fuse ATO",
+     "15A",
+     "Horn, shift lock"
+    ],
+    [
+     "AIR COND",
+     "Fuse ATO",
+     "15A",
+     "A/C-heater, ABS"
+    ],
+    [
+     "METER",
+     "Fuse ATO",
+     "10A",
+     "Backup lamps, engine coolant level switch, instrument cluster, rear window defrost, shift lock, warning chime, turn signal switch"
+    ],
+    [
+     "WIPER",
+     "Fuse ATO",
+     "20A",
+     "Wiper/washer, blower motor relay"
+    ],
+    [
+     "STOP",
+     "Fuse ATO",
+     "20A",
+     "Stop lamps, brake pressure switch"
+    ],
+    [
+     "TAIL",
+     "Fuse ATO",
+     "15A",
+     "Exterior lamps, instrument illumination"
+    ],
+    [
+     "SUN ROOF",
+     "Fuse ATO",
+     "15A",
+     "Power moonroof"
+    ],
+    [
+     "ASC",
+     "Fuse ATO",
+     "10A",
+     "Speed control"
+    ],
+    [
+     "P. WINDOW",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows"
+    ],
+    [
+     "CIGAR",
+     "Fuse ATO",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "AIR BAG",
+     "Fuse ATO",
+     "10A",
+     "Air bags"
+    ],
+    [
+     "FOG",
+     "Fuse ATO",
+     "10A",
+     "Fog lamps, daytime running lamps (DRL)"
+    ],
+    [
+     "AUDIO",
+     "Fuse ATO",
+     "15A",
+     "Premium sound amplifier, CD changer"
+    ],
+    [
+     "FUEL INJ.",
+     "Fuse ATO",
+     "10A",
+     "HO2S, evaporative emission purge flow sensor"
+    ],
+    [
+     "BLOWER",
+     "Fuse ATO",
+     "30A",
+     "Blower motor relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box - coupe",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-escort-2003-genid-g6b-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLM",
+     "30A",
+     "Air bags, constant control relay module (PCM relay), generator"
+    ],
+    [
+     "2",
+     "Fuse FLM",
+     "30A",
+     "Rear window defrost"
+    ],
+    [
+     "3",
+     "Fuse FLM",
+     "100A",
+     "Overall circuit protection"
+    ],
+    [
+     "4",
+     "Fuse FLM",
+     "40A",
+     "Hazard, stop, door lock, tail, room and horn fuses of the I/P fuse panel"
+    ],
+    [
+     "5",
+     "Fuse FLM",
+     "60A",
+     "ABS main relay"
+    ],
+    [
+     "6",
+     "Fuse FLM",
+     "40A",
+     "Constant control relay module (cooling fan)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Data link connector (DLC), instrument cluster"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "Constant control relay module (fuel pump)"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Headlamps"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Headlamps"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Head lamp relay"
+    ]
+   ]
+  }
+ ]
+}
