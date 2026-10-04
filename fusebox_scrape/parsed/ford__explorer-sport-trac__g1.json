@@ -1,0 +1,432 @@
+{
+ "make_slug": "ford",
+ "model_slug": "explorer-sport-trac",
+ "brand_db": "Ford",
+ "model_db_name": "Explorer Sport Trac",
+ "model_id": 1798,
+ "generation_name": "1st generation (\"U209\")",
+ "generation_code": "g1",
+ "year_start": 2000,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/ford/explorer-sport-trac/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-sport-trac-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Mirrors"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Ignition"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Trailer tow right-hand stop/turn lamps"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Park lamps, autolamps, instrument panel dimming, trailer tow"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Trailer tow left-hand stop/turn lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Speed control, anti-lock brake system (ABS), 4x4, powertrain control module (PCM), park interlock, keyless entry"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Air bags"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Climate control, rear climate control"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Subwoofer"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster, keyless entry, 4x4"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Turn signals, park interlock, overhead console, climate control, 4x4, speed control"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Stop lamps, flashers"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps (DRL), reverse lamps, PCM"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Security module/power locks"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Starter"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster, 4x4"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Interior illumination, battery saver"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster, delayed accessory, front wiper"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster, audio"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Audio"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Rear climate control"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary center high-mounted stop lamp (CHMSL)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "High beam headlamps"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "ABS module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-sport-trac-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "I/P fuse panel"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Powertrain control"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Wiper motor"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear window/roof"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "50A",
+     "Adrenalin audio"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "25A",
+     "Ignition switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear power point"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "Anti-lock brake system (ABS) pump motor"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter, OBD II"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "4x4 motor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "ABS module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "4x4 module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module (PCM) memory"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps (DRL)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "25A",
+     "Headlamps"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Heated exhaust gas oxygen (HEGO) sensors and solenoids"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Delayed accessory"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Injectors, mass air flow (MAF) sensor"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "2A",
+     "Speed control"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "PCM"
+    ],
+    [
+     "45A",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "45B",
+     "Relay",
+     "",
+     "A/C clutch solenoid relay"
+    ],
+    [
+     "46A",
+     "Relay",
+     "",
+     "Trailer tow relay"
+    ],
+    [
+     "46B",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "47A",
+     "Circuit breaker MAXI",
+     "",
+     "Windows, seats"
+    ],
+    [
+     "48",
+     "Relay",
+     "",
+     "Window safety relay"
+    ],
+    [
+     "51",
+     "Diode MINI",
+     "",
+     "Brake on/off (BOO) (750 ohm resistor)"
+    ],
+    [
+     "53",
+     "Diode MINI",
+     "",
+     "PCM diode"
+    ],
+    [
+     "54",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "55",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "56",
+     "Relay",
+     "",
+     "Starter relay"
+    ]
+   ]
+  }
+ ]
+}

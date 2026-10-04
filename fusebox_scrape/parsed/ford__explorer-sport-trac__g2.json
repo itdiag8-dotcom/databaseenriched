@@ -1,0 +1,474 @@
+{
+ "make_slug": "ford",
+ "model_slug": "explorer-sport-trac",
+ "brand_db": "Ford",
+ "model_db_name": "Explorer Sport Trac",
+ "model_id": 1798,
+ "generation_name": "2nd generation (\"U251\")",
+ "generation_code": "g2",
+ "year_start": 2007,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/ford/explorer-sport-trac/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-sport-trac-2011-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Moon roof, adjustable pedals"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Microcontroller power"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Radio, navigation amplifier, GPS module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "On-board diagnostic (OBD II) connector"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Moon roof, power down back window, door lock switch illumination, auto dimming rear view mirror"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Door unlock/lock"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow stop/turn lamps"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch power, passive anti-theft system (PATS), cluster"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "2A",
+     "6-speed transmission control module/PCM (ignition run/start), fuel pump relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Front wiper RUN/ACC relay in power distribution box (PDB)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Radio start"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Radio, trailer tow battery charge (relay in PDB)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Heated mirror"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Reverse lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Trailer tow reverse lamps"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Restraints control module, passenger occupancy"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Roll stability control (RSC) switch, RSC, 4x4 module, 4x4 switch, heated seat switches, reverse park aid"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Climate control system, brake shift"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Brake switch, stop lamps, turn lamps"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Interior lamps, puddle lamps, cargo lamp, battery saver, instrument illumination"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, theft indicator light"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow park lamps"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "License plate lamps, rear park lamps, front park lamps, manual climate control"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Climate controls"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MAXI",
+     "",
+     "Windows"
+    ],
+    [
+     "Relay 1",
+     "Relay",
+     "",
+     "Delayed accessory relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-sport-trac-2011-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery feed 2 (passenger compartment fuse panel)"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery feed 3 (passenger compartment fuse panel)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery feed 1 (passenger compartment fuse panel)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel pump, fuel injectors"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system (ABS) pump"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power down back window"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow battery charge"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power drivers seat"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated mirror"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow electronic brakes"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wiper motor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Rear of console power point"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "4x4 module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "PCM - keep alive power, canister vent"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Front of console power point/cigar lighter"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "4x4 module, all wheel drive (AWD) module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "6-speed transmission control module (TCM) (4.6L engine only)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Right high/low beam headlamp"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Cargo bed power point"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Power mirrors"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "30A",
+     "ABS valves"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Left high/low beam headlamp"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Console bin power point"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "30A",
+     "Driver window motor"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "5-speed transmission (4.0L engine only)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "PCM power"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Fan clutch, positive crankcase ventilation (PCV) valve, A/C clutch relay"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Satellite radio module, SYNC"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "Speed control deactivation switch, electronic vapor management valve, mass air flow sensor, HEGO sensor, EVR, CMS, VCT1, VCT2, CMCV (4.6L only)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Coil on plug (4.6L engine), coil tower (4.0L engine)"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors"
+    ],
+    [
+     "49",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "50B",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "50A",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "53",
+     "Diode ATO",
+     "",
+     "One touch integrated start (OTIS) (diode)"
+    ],
+    [
+     "54",
+     "Relay",
+     "",
+     "Trailer tow battery charge relay"
+    ],
+    [
+     "55B",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "55A",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "56B",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "56A",
+     "Relay",
+     "",
+     "Climate control blower relay"
+    ]
+   ]
+  }
+ ]
+}
