@@ -1,0 +1,643 @@
+{
+ "make_slug": "ford",
+ "model_slug": "galaxy",
+ "brand_db": "Ford",
+ "model_db_name": "Galaxy",
+ "model_id": 1846,
+ "generation_name": "Mk3 (CD340)",
+ "generation_code": "g2",
+ "year_start": 2006,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/ford/galaxy/info/fusebox/2015/mk3",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-galaxy-2015-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module [AWF21]"
+    ],
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module [MPS6]"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "5A",
+     "Glow plug monitoring [diesel engines]"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "70A",
+     "Engine cooling fan - twin fan [2.3L Duratec-HE, 2.2L Duratorq-TDCi automatic]"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "80A",
+     "Electric hydraulic power steering (EHPAS) [1.6L EcoBoost SCTi, 2.0L Duratorq-TDCi]"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plugs"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "60A",
+     "Engine cooling fan [most engines]"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "70A",
+     "Engine cooling fan - twin fan [1.6L EcoBoost SCTi]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "HEGO sensor, CMS sensor, oxygen sensor (engine management)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "5A",
+     "Relay coils"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module, fuel metering unit, MAF sensor, fuel rail pressure control valve"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "MAF sensor, fuel injectors (engine management)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Engine control module [2.0L Duratorq-TDCi]"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "PCV/VCV valves, water-in-fuel sensor, purge valve, swirl control, variable intake, EGR, IVVT oil control valve (engine management)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Coil on plug, canister purge valve, power steering pressure switch (engine management)"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Diesel filter heater [diesel engines]"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter relay"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "80A",
+     "Diesel auxiliary heater (PTC)"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "60A",
+     "Central fuse box supply A"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "60A",
+     "Central fuse box supply B"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "60A",
+     "Rear fuse box supply C"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "60A",
+     "Rear fuse box supply D"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "30A",
+     "VQM/non-VQM: cluster/audio/AC/FLR"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "30A",
+     "Windscreen wiper module"
+    ],
+    [
+     "F23",
+     "Fuse FMX/JCase",
+     "25A",
+     "Heated rear window"
+    ],
+    [
+     "F24",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp washer"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS valves"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "25A",
+     "Fuel fired heater"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater blower"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "ABS 30 feed"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "5A",
+     "Fuel fired heater - remote control"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "5A",
+     "Light switch module, engine compartment fuse box coils"
+    ],
+    [
+     "F34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated windscreen (left-hand side)"
+    ],
+    [
+     "F35",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated windscreen (right-hand side)"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper 15 feed"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "7.5A",
+     "Heated front washer jets / FLR + FSM KL15"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "PCM/TCM/EHPAS 15 feed"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "15A",
+     "Adaptive front lighting system (AFS)"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "5A",
+     "Headlamp levelling / AFS module"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "5A",
+     "Cluster IP"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "15A",
+     "Audio/BVC module"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "5A",
+     "Automatic AC / manual AC"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "5A",
+     "FLR (start-stop)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Central fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-galaxy-2015-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "7.5A",
+     "Steering wheel module"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "5A",
+     "Cluster"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "Engine immobiliser"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Adaptive cruise control (ACC)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Fuel filler flap unlock supply"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Windscreen washers - rear"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Windscreen washers - front"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Luggage compartment release supply"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Fuel filler flap lock supply"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel pump [2.2L Duratorq-TDCi Stage V]"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Remote frequency receiver, interior motion sensor"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "5A",
+     "Battery backup sounder (alarm), OBD II"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "5A",
+     "Steering wheel vibration actuator"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "SRS (airbag) supply"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "ABS, yaw rate sensor (ESP), electric parking brake (EPB), accelerator pedal supply"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic feed, auto-dimming mirror, lane departure warning"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Radio supply"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "5A",
+     "Brake lamp switch"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "5A",
+     "Spare IP 30 feed"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-galaxy-2015-genid-g2-2.webp",
+   "fuses": [
+    [
+     "FA1",
+     "Fuse ATO",
+     "25A",
+     "Door module (left front): window, central locking, folding/heated mirror"
+    ],
+    [
+     "FA2",
+     "Fuse ATO",
+     "25A",
+     "Door module (right front): window, central locking, folding/heated mirror"
+    ],
+    [
+     "FA3",
+     "Fuse ATO",
+     "25A",
+     "Door module (left rear) (window up/down)"
+    ],
+    [
+     "FA4",
+     "Fuse ATO",
+     "25A",
+     "Door module (right rear) (window up/down)"
+    ],
+    [
+     "FA5",
+     "Fuse ATO",
+     "10A",
+     "Rear locking (without rear door modules)"
+    ],
+    [
+     "FA6",
+     "Fuse ATO",
+     "15A",
+     "Auxiliary power socket"
+    ],
+    [
+     "FA7",
+     "Fuse ATO",
+     "5A",
+     "Relay coils"
+    ],
+    [
+     "FA8",
+     "Fuse ATO",
+     "20A",
+     "Keyless vehicle module"
+    ],
+    [
+     "FA9",
+     "Fuse ATO",
+     "5A",
+     "Relay coils VQM (start-stop)"
+    ],
+    [
+     "FA11",
+     "Fuse FMX/JCase",
+     "20A",
+     "Accessories, trailer module"
+    ],
+    [
+     "FA12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric driver's seat"
+    ],
+    [
+     "FB1",
+     "Fuse ATO",
+     "15A",
+     "Sunblind system"
+    ],
+    [
+     "FB2",
+     "Fuse ATO",
+     "15A",
+     "Suspension module"
+    ],
+    [
+     "FB3",
+     "Fuse ATO",
+     "15A",
+     "Heated driver's seat"
+    ],
+    [
+     "FB4",
+     "Fuse ATO",
+     "15A",
+     "Heated front passenger seat"
+    ],
+    [
+     "FB6",
+     "Fuse ATO",
+     "10A",
+     "Rear climate control"
+    ],
+    [
+     "FB8",
+     "Fuse ATO",
+     "5A",
+     "Parking aid, BLIS"
+    ],
+    [
+     "FB9",
+     "Fuse ATO",
+     "30A",
+     "Electric front passenger seat"
+    ],
+    [
+     "FB10",
+     "Fuse ATO",
+     "10A",
+     "Anti-theft alarm horn"
+    ],
+    [
+     "FC1",
+     "Fuse ATO",
+     "7.5A",
+     "Electric rear quarter windows"
+    ],
+    [
+     "FC2",
+     "Fuse ATO",
+     "30A",
+     "Electric parking brake (EPB)"
+    ],
+    [
+     "FC3",
+     "Fuse ATO",
+     "30A",
+     "Electric parking brake (EPB)"
+    ],
+    [
+     "FC4",
+     "Fuse ATO",
+     "10A",
+     "Rear air conditioning"
+    ],
+    [
+     "FC5",
+     "Fuse ATO",
+     "20A",
+     "Keyless vehicle"
+    ],
+    [
+     "FC6",
+     "Fuse ATO",
+     "20A",
+     "Rear air conditioning blower"
+    ],
+    [
+     "FC7",
+     "Fuse ATO",
+     "5A",
+     "Seat memory function module"
+    ],
+    [
+     "FC8",
+     "Fuse ATO",
+     "7.5A",
+     "Rear seat entertainment / CD changer"
+    ],
+    [
+     "FC9",
+     "Fuse ATO",
+     "20A",
+     "Audio amplifier"
+    ],
+    [
+     "FC10",
+     "Fuse ATO",
+     "10A",
+     "Sony audiophile"
+    ]
+   ]
+  }
+ ]
+}
