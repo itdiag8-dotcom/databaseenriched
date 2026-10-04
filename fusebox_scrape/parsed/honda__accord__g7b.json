@@ -1,0 +1,366 @@
+{
+ "make_slug": "honda",
+ "model_slug": "accord",
+ "brand_db": "Honda",
+ "model_db_name": "Accord",
+ "model_id": 2106,
+ "generation_name": "North America (CM5-CM8)",
+ "generation_code": "g7b",
+ "year_start": 2003,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/honda/accord/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Under-hood fuse/relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-2005-genid-g7b-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Left headlight low beam"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Rear defroster coil"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Small lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low beam"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Backup"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "FI ECU"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Condenser fan"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Cooling fan"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Cooling fan (6-cylinder)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Horn, stop lights"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Backup, ACC"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS motor"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "TCS motor (6-cylinder)"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS F/S"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "TCS (6-cylinder)"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition coil, DRL (Canada)"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power seats, seat heaters"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater motor"
+    ],
+    [
+     "22",
+     "Other",
+     "",
+     "Battery"
+    ],
+    [
+     "23",
+     "Other",
+     "",
+     "+B IG1 main / power window main"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-2005-genid-g7b-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire (6-cylinder)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Daytime lights (Canada)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "LAF heater"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Front accessory sockets"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "IG OPDS"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "IG wiper"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Rear fog lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat recline"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat slide"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat recline"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat slide"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "IG ACG"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "IG fuel pump"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "IG washer"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "IG meter"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "IG SRS"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "IGP (PGM-FI ECU)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Left rear power window"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Right rear power window"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Right front power window"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Driver power window"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "IG HAC"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "HAC OP"
+    ]
+   ]
+  }
+ ]
+}

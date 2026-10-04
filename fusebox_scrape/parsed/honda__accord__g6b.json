@@ -1,0 +1,379 @@
+{
+ "make_slug": "honda",
+ "model_slug": "accord",
+ "brand_db": "Honda",
+ "model_db_name": "Accord",
+ "model_id": 2106,
+ "generation_name": "Americas (CG1, CG5, CG6)",
+ "generation_code": "g6b",
+ "year_start": 1998,
+ "year_end": 2002,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/honda/accord/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Under-hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-2001-genid-g6b-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Left headlight"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel lights (dimmer relay)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Right headlight"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "ABS F/S"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Stop lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Battery and charging system (ACG)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS motor"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights"
+    ],
+    [
+     "10",
+     "Fuse FLB/PAL 295",
+     "100A",
+     "Battery and charging system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Electric cooling fan"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Backup lights, ACC"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window motor"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power seats"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "20A",
+     "BSC"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "40A",
+     "A/C blower (heater) motor"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Seat heater"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "A/C condenser fan"
+    ],
+    [
+     "21",
+     "Fuse FLB/PAL 295",
+     "50A",
+     "IG1 main (several circuits)"
+    ],
+    [
+     "U1",
+     "Relay",
+     "",
+     "Lighting relay 1"
+    ],
+    [
+     "U2",
+     "Relay",
+     "",
+     "Lighting relay 2"
+    ],
+    [
+     "U3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "U4",
+     "Relay",
+     "",
+     "Heater motor relay"
+    ],
+    [
+     "U5",
+     "Relay",
+     "",
+     "Condenser fan relay"
+    ],
+    [
+     "U6",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "U7",
+     "Relay",
+     "",
+     "A/C magnetic clutch relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box driver's side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-2001-genid-g6b-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "HAC - heater control, A/C clutch relay, cooling fan relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Remote control mirror"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights (Canada)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "ECU (ECM/PCM), cruise control"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "SRS, moonroof, washer"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "ACC relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel, backup lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Turn signals"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "Wiper"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "STS, starter signal"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior fuse box passenger's side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-2001-genid-g6b-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Moonroof"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat recline"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat recline"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat slide"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat slide"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights (Canada)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "LAF heater (US, except LX)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Moonroof relay (SE, EX, EX-V6)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Front right power window"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Radio, cigarette lighter"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Small lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Interior light, courtesy lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Power door locks"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Clock, backup"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "ABS motor check"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Front left power window"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ]
+   ]
+  }
+ ]
+}

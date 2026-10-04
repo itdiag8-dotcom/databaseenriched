@@ -1,0 +1,630 @@
+{
+ "make_slug": "honda",
+ "model_slug": "accord",
+ "brand_db": "Honda",
+ "model_db_name": "Accord",
+ "model_id": 2106,
+ "generation_name": "10th generation (CV1, CV2, CV3)",
+ "generation_code": "g10",
+ "year_start": 2018,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/honda/accord/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-2020-genid-g10-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Left side door unlock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Right side door unlock"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Accessory (ACC)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "ACC key lock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "IG HOLD2 (some models)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Smart key system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Left side door lock"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Driver door lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Right side door lock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Center accessory socket"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Moonroof (some models)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "SBW ECU (some models)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Driver door unlock"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Premium amplifier"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "IG HOLD3 (some models)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat slide"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat slide"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Option 2"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (meter)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Option 1"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat recline (some models)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat recline (some models)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Driver power lumbar (some models)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "AVS"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "20A",
+     "ADS (some models)"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "Head-up display"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "20A",
+     "Passenger power window"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "20A",
+     "Driver power window"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-2020-genid-g10-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "125A",
+     "Battery"
+    ],
+    [
+     "2B",
+     "Other",
+     "",
+     "Electric power steering (EPS)"
+    ],
+    [
+     "2D",
+     "Other",
+     "",
+     "Fuse box main 2"
+    ],
+    [
+     "2E",
+     "Other",
+     "",
+     "EBB"
+    ],
+    [
+     "2F",
+     "Other",
+     "",
+     "ABS/VSA FSR"
+    ],
+    [
+     "2H",
+     "Other",
+     "",
+     "Ignition main 1"
+    ],
+    [
+     "3A",
+     "Other",
+     "",
+     "Rear defroster"
+    ],
+    [
+     "3B",
+     "Other",
+     "",
+     "Fuse box main 1"
+    ],
+    [
+     "3D",
+     "Other",
+     "",
+     "Heater motor"
+    ],
+    [
+     "3F",
+     "Other",
+     "",
+     "Starter magnetic switch"
+    ],
+    [
+     "3G",
+     "Other",
+     "",
+     "Sub fan motor"
+    ],
+    [
+     "4B",
+     "Other",
+     "",
+     "Fuse box option 2 (some models)"
+    ],
+    [
+     "4D",
+     "Other",
+     "",
+     "Fuse box option 1"
+    ],
+    [
+     "5B",
+     "Other",
+     "",
+     "Main fan motor"
+    ],
+    [
+     "5C",
+     "Other",
+     "",
+     "SPM2"
+    ],
+    [
+     "5D",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "5E",
+     "Other",
+     "",
+     "Ignition main 2"
+    ],
+    [
+     "5F",
+     "Other",
+     "",
+     "Wiper motor"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "SRM1"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "TCU (some models)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "TCU2 (some models)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Ignition (IGP)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "TCU3 (some models)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "FI ECU"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Battery sensor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Heated steering wheel (some models)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats (some models)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Front wiper deicer (some models)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Front fog lights (some models)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "Shutter grille (some models)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Washer motor"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "Audio sub (some models)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS (LAF)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "VB ACT"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "IG1 TCU (some models)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "IG1 fuel pump"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "IG1 ABS/VSA"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "IG1 ACG"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "IG1 starter motor"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "7.5A",
+     "IG1 monitor"
+    ],
+    [
+     "U1",
+     "Relay",
+     "",
+     "Injector relay"
+    ],
+    [
+     "U2",
+     "Relay",
+     "",
+     "Heated windshield wiper area relay (some models)"
+    ],
+    [
+     "U3",
+     "Relay",
+     "",
+     "Fan control relay"
+    ],
+    [
+     "U4",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "U5",
+     "Relay",
+     "",
+     "A/C condenser fan relay"
+    ],
+    [
+     "U6",
+     "Relay",
+     "",
+     "Rear seat heater relay (some models)"
+    ],
+    [
+     "U7",
+     "Relay",
+     "",
+     "Heated steering wheel relay (some models)"
+    ],
+    [
+     "U8",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "U10",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "U11",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "U12",
+     "Relay",
+     "",
+     "Fog light relay (some models)"
+    ],
+    [
+     "U13",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "U14",
+     "Relay",
+     "",
+     "PGM-FI main relay 2"
+    ]
+   ]
+  }
+ ]
+}

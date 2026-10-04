@@ -1,0 +1,534 @@
+{
+ "make_slug": "honda",
+ "model_slug": "accord",
+ "brand_db": "Honda",
+ "model_db_name": "Accord",
+ "model_id": 2106,
+ "generation_name": "9th generation (CR)",
+ "generation_code": "g9",
+ "year_start": 2013,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/honda/accord/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-2013-genid-g9-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Fuse box main 2"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Fuse box option 2"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "IG main 1"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "IG main 1 (smart entry models)"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "IG main 2 (smart entry models)"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Sub fan motor (4-cylinder)"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Sub fan motor (6-cylinder)"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Headlight low beam main"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Fuse box"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Wiper motor"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Main fan motor"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Starter motor (smart entry models)"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Electric power steering (EPS)"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Fuse box main 1"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Fuse box option 1"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "ABS/VSA FSR"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "4",
+     "Fuse MIDI",
+     "125A",
+     "Battery"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater motor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Small lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Heated door mirrors"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "FI main"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors (4-cylinder)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Left headlight low beam"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Left headlight low beam (LED models)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low beam"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Right headlight low beam (LED models)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Fan timer"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "FI sub"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-2013-genid-g9-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster (meter)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag (SRS)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Option (some models)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "MISS solenoid"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "ABS/VSA"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Front wiper"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "ACG"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory power socket (console)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat recline (some models)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Moonroof (some models)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Front seat heaters (some models)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Passenger side door unlock"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Driver side rear door unlock"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Driver door lock"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Passenger side door lock"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Driver door unlock"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Illumination"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Key lock"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Parking lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Lumbar support (some models)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Smart key (some models)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Driver power window"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Front passenger power window"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Rear driver side power window"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Rear passenger side power window"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat slide (some models)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Accessory power socket (console panel)"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Driver side rear door lock"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat recline (some models)"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat slide (some models)"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "7.5A",
+     "Audio (some models)"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "ACM (some models)"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "Rear seat heaters (some models)"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "20A",
+     "Premium amplifier (some models)"
+    ]
+   ]
+  }
+ ]
+}
