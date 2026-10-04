@@ -1,0 +1,330 @@
+{
+ "make_slug": "holden",
+ "model_slug": "barina",
+ "brand_db": "Holden",
+ "model_db_name": "Barina",
+ "model_id": 2057,
+ "generation_name": "5th generation (TK)",
+ "generation_code": "g5",
+ "year_start": 2005,
+ "year_end": 2012,
+ "trim_label": "hatchback",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/holden/barina/info/fusebox/2012/body-hatchback",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-barina-2012-body-hatchback-genid-g5-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Safety systems manager"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Engine room fuse block, TCM, VSS, fuel pump"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "DLC, immobilizer"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Door lock"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "25A",
+     "Wiper switch, wiper motor"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Brake switch"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "25A",
+     "Rear defog"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Mirror control switch, room lamp, A/C switch"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Brake switch, TPMS, anti-theft module"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Hazard switch"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Trunk room lamp, trunk open switch, IPC, room lamp"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "Sunroof module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Stoplamp switch"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Audio, clock, immobilizer"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Power jack"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "PNP switch, reverse lamp switch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Power mirror unit, A/C switch"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "A/C switch, clock, power mirror unit, audio, anti-theft module, TPMS"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-barina-2012-body-hatchback-genid-g5-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Left parking light"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Right parking light"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition 2 / start"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Accessories / ignition 1"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Emergency"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Right low beam headlight"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Left low beam headlight"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Front defogger"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "High beam headlight"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "High-speed fan"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Low-speed fan"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window 2"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Electronic control unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Engine management system"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Engine management system"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "50A",
+     "Anti-lock brakes"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power window 1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Parking lights relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fog lights relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "High beam headlight relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Low beam headlight relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "High-speed fan relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Low-speed fan relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Main relay"
+    ]
+   ]
+  }
+ ]
+}

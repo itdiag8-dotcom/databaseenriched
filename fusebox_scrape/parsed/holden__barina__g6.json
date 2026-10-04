@@ -1,0 +1,516 @@
+{
+ "make_slug": "holden",
+ "model_slug": "barina",
+ "brand_db": "Holden",
+ "model_db_name": "Barina",
+ "model_id": 2057,
+ "generation_name": "6th generation (TM)",
+ "generation_code": "g6",
+ "year_start": 2011,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/holden/barina/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-barina-2014-genid-g6-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "2A",
+     "DLIS"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "DLC / anti-theft system"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Liftgate"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "Body control module 8"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Body control module 7"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Body control module 6"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "25A",
+     "Body control module 5"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Body control module 4"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Body control module 3"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Body control module 2"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Body control module 1"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (IPC)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (DIC)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Trailer"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ChevyStar"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "A/C blower motor"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Headlamp ALC"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (AOS)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Airbag run/crank"
+    ],
+    [
+     "27",
+     "Relay",
+     "",
+     "Run relay"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "Liftgate relay"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Trailer run/crank"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "2A",
+     "Clockspring"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "A/C blower motor"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Sunroof"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter / power outlet"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "25A",
+     "Power windows rear"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "25A",
+     "Power windows front"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "RAP/accessory relay"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power windows, express driver"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-barina-2014-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "ABS valve"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Rear view camera"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "ABS oil"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "AOS/ROS"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Outside rear view mirror"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Rear window defog"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Heated outside rear view mirror"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Heated seat front"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "FSCM 1"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Flex fuel"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Washer"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "ECM"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "FSCM 2"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "TCM"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ECM 1"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Ignition coil"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ECM 4"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "ECM 3"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "ECM 2"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Injectors / ignition coil"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "ECM"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "TCM"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Front fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "High beam LH"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "High beam RH"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "30A",
+     "Run/crank IEC"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan K5"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan K4"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "20A",
+     "EVP"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "25A",
+     "Start"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front wiper speed"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Front wiper control"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear defog"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan K3"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cooling fan K1"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "High beam"
+    ]
+   ]
+  }
+ ]
+}
