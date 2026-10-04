@@ -1,0 +1,486 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "sonoma",
+ "brand_db": "GMC",
+ "model_db_name": "Sonoma",
+ "model_id": 2014,
+ "generation_name": "2nd generation (GMT325)",
+ "generation_code": "g2",
+ "year_start": 1994,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/gmc/sonoma/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sonoma-2004-genid-g2-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter, data link connector"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "",
+     "Cruise control module and switch, body control module, heated seats"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "",
+     "Gages, body control module, instrument panel cluster"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "",
+     "Parking lamps, power window switch, body control module, ashtray lamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "",
+     "Steering wheel radio controls"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "",
+     "Headlamps switch, body control module, headlamp relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "",
+     "Courtesy lamps, battery run-down protection"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "",
+     "HVAC control head (manual)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "",
+     "Turn signal"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "",
+     "Cluster, engine control module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Interior lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "",
+     "Auxiliary power"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "",
+     "Power locks motor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "",
+     "4WD switch, engine controls (VCM, PCM, transmission)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Supplemental inflatable restraint"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "Front wiper"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "",
+     "Steering wheel radio controls"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "",
+     "Radio, battery"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "HVAC (manual/automatic), HVAC sensors (automatic)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Anti-lock brakes"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Radio, ignition"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sonoma-2004-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Trailer left turn"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Trailer right turn"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Trailer back up lamps"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Vehicle back up lamps"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Right turn signal front"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Left turn signal front"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Headlamp power"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Left turn signal rear"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Right turn signal rear"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Right rear parking lamps"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Trailer park lamps"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Left headlamp"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Right headlamp"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Front parking lamps"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Engine sensors/solenoids, MAF, CAM, purge, vent"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Engine control module, fuel pump module, oil pressure"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Engine control module injectors"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Automatic transmission shift lock control system"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Back up lamps"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Engine"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Mirrors, door locks"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Oxygen sensor"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "",
+     "Left rear parking lamps"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "",
+     "Starter solenoid, fuel pump, PRNDL"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "",
+     "Heated seat"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "HVAC system"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "",
+     "Trailer center high mount stop light"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "",
+     "Truck body computer"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "",
+     "Clutch switch, NSBU switch"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "",
+     "Hazard lamps"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "",
+     "Vehicle center high-mounted stop lamp"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "",
+     "Heated mirror"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "",
+     "Transfer case (four-wheel drive)"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "",
+     "Stop lamps"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "",
+     "Rear window wiper"
+    ],
+    [
+     "F61",
+     "Fuse MAXI",
+     "",
+     "Instrument panel fuse block feed"
+    ],
+    [
+     "F62",
+     "Fuse MAXI",
+     "",
+     "Anti-lock brake system"
+    ],
+    [
+     "F65",
+     "Fuse MAXI",
+     "",
+     "Column feed, ignition 2, 3, 4"
+    ],
+    [
+     "F66",
+     "Fuse MAXI",
+     "",
+     "Retained accessory power"
+    ],
+    [
+     "F67",
+     "Fuse MAXI",
+     "",
+     "Starting and charging ignition 1"
+    ],
+    [
+     "F68",
+     "Fuse MAXI",
+     "",
+     "Accessory feeds, electric brake"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Liftglass"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Center high mounted stoplamp"
+    ]
+   ]
+  }
+ ]
+}
