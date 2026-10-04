@@ -1,0 +1,691 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "sierra-3500",
+ "brand_db": "GMC",
+ "model_db_name": "Sierra 3500",
+ "model_id": 2009,
+ "generation_name": "2nd generation (GMT900/GMT910)",
+ "generation_code": "g2",
+ "year_start": 2008,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/gmc/sierra-3500/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-3500-2011-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "",
+     "Driver door module"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "",
+     "Instrument panel back lighting"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "",
+     "Rear climate controls"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "",
+     "Dome lamps, driver side turn signal"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Passenger side turn signal, stoplamp"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Power mirror"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Passenger door module, driver unlock"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Power door lock 2 (unlock feature)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Body control module (BCM)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Power door lock 1 (unlock feature)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Power door lock 1 (lock feature)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Cooled seats"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Power door lock 2 (lock feature)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Accessory power outlets"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Rear seat entertainment"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Driver information center (DIC)"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Driver seat module, remote keyless entry system"
+    ],
+    [
+     "F18a",
+     "Fuse MINI",
+     "",
+     "Rear seats"
+    ],
+    [
+     "F19a",
+     "Fuse MINI",
+     "",
+     "Rear accessory power outlet"
+    ],
+    [
+     "F20a",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls backlight"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Driver side turn signal, stoplamp"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Stoplamps, center high-mounted stoplamp"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Interior lamps"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Ultrasonic rear parking assist, power liftgate"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Driver power door lock (unlock feature)"
+    ],
+    [
+     "F27",
+     "Circuit breaker ATO",
+     "",
+     "Driver side power window circuit breaker"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Center Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-3500-2011-genid-g2-1.webp",
+   "fuses": [
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Passenger side power window circuit breaker"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Passenger seat circuit breaker"
+    ],
+    [
+     "CB3",
+     "Circuit breaker ATO",
+     "",
+     "Driver seat circuit breaker"
+    ],
+    [
+     "CB4",
+     "Circuit breaker ATO",
+     "",
+     "Rear sliding window"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-3500-2011-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "",
+     "Stud 2 (trailer brakes)"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "",
+     "Stud 1 (trailer connector battery power; optional 40A fuse)"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "",
+     "Left bussed electrical center 1"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "",
+     "Mid-bussed electrical center 1"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "",
+     "Climate control blower"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "",
+     "Heavy duty antilock brake system"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system 1"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "",
+     "Heated windshield washer system"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "",
+     "Transfer case"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "",
+     "Left bussed electrical center 2"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Airbag system (battery)"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "",
+     "Passenger side high-beam headlamp"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Driver side high-beam headlamp"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Daytime running lights 2"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Daytime running lamps (DRL)"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "",
+     "Front washer"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "",
+     "Driver side low-beam headlamp"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "",
+     "Passenger side low-beam headlamp"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "SEO B2 upfitter usage (battery)"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "SEO B1 upfitter usage (battery)"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Instrument panel cluster"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter, auxiliary power outlet"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "",
+     "Electric adjustable pedals"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "",
+     "Audio system"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "",
+     "Power take-off"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "Engine control module (battery)"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "",
+     "Key ignition system, theft deterrent system"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "",
+     "Climate controls (battery)"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "",
+     "Engine controls"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "",
+     "Oxygen sensor"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "",
+     "Fuel injectors, ignition coils (right side)"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "",
+     "Oxygen sensors"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "",
+     "Fuel injectors, ignition coils (left side)"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "",
+     "Engine control module, throttle control"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "",
+     "Transmission control module (battery)"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "",
+     "Transmission controls (ignition)"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "",
+     "Airbag system (ignition)"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "",
+     "Miscellaneous (ignition), cruise control"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "",
+     "Auxiliary climate control (ignition)"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "",
+     "SEO upfitter usage"
+    ],
+    [
+     "F68",
+     "Fuse MINI",
+     "",
+     "Electronic suspension control, automatic level control exhaust"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "",
+     "Antilock brakes system 2"
+    ],
+    [
+     "F70",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "F71",
+     "Fuse MINI",
+     "",
+     "Trailer park lamps"
+    ],
+    [
+     "F72",
+     "Fuse MINI",
+     "",
+     "Right trailer stop/turn lamp"
+    ],
+    [
+     "F73",
+     "Fuse MINI",
+     "",
+     "Driver side park lamps"
+    ],
+    [
+     "F74",
+     "Fuse MINI",
+     "",
+     "Passenger side park lamps"
+    ],
+    [
+     "F76",
+     "Fuse MINI",
+     "",
+     "Center high-mounted stoplamp (CHMSL)"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "",
+     "Climate controls (ignition)"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "",
+     "Engine control module, secondary fuel pump (ignition)"
+    ],
+    [
+     "F79",
+     "Fuse MINI",
+     "",
+     "Windshield wiper"
+    ],
+    [
+     "F80",
+     "Fuse MINI",
+     "",
+     "Left trailer stop/turn lamp"
+    ],
+    [
+     "F81",
+     "Fuse MINI",
+     "",
+     "Trailer brake controller"
+    ],
+    [
+     "F82",
+     "Fuse MINI",
+     "",
+     "Trailer back-up lamps"
+    ],
+    [
+     "F83",
+     "Fuse MINI",
+     "",
+     "Vehicle back-up lamps"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "",
+     "Fuel system control module"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan high speed"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan low speed"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan control"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Switched power"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Low-beam headlamp"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,776 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "sierra-3500",
+ "brand_db": "GMC",
+ "model_db_name": "Sierra 3500",
+ "model_id": 2009,
+ "generation_name": "4th generation (T1XX)",
+ "generation_code": "g4",
+ "year_start": 2022,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/gmc/sierra-3500/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-3500-2025-genid-g4-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Headlamp left"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Headlamp right"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "ELM 4 - electronic lighting module 4"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "BCM 3 - body control module 3"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Washer front"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "60A",
+     "IECL 1"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "60A",
+     "DC/AC inverter"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "60A",
+     "IECR 2 (LD)/EBCM 2 (HD)"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "60A",
+     "IECL 2"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fuel heater (DSL)"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "60A",
+     "EBCM 1 - electronic brake control module 1"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Parking lamp mirror/grill (LD)/parking lamp left (HD)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Parking lamp right (HD)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "25A",
+     "ELM 3 - electronic lighting module 3"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Lighting module 1"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Not R/C"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Radars (LD)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "MISC IP headliner ignition"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Seat fan ignition"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Trailer ignition module"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Misc ignition"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Trailer parking lamp"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp left (HD)"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "DEFC/ICCM ignition (LD/HD)/FTZM ignition (HD)"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Secondary axle motor"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Engine control module ignition"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "",
+     "Transmission auxiliary oil pump (LD)"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "30A",
+     "Transfer case control module"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "Center high-mounted stop lamp"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp right (HD)"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "10A",
+     "Trailer back-up lamp"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "20A",
+     "SADS (LD)/fuel tank zone module 2 (HD)"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "10A",
+     "TTPM/SBZA"
+    ],
+    [
+     "58",
+     "Fuse FMM/MCase",
+     "",
+     "Starter motor (LD)"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "10A",
+     "Powertrain sensor 2 (DSL)"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "5A",
+     "Active hydraulic steering (HD)"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "DEFC batt 1/CVS"
+    ],
+    [
+     "63",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer brake"
+    ],
+    [
+     "66",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan motor left (LD)"
+    ],
+    [
+     "68",
+     "Fuse FMX/JCase",
+     "40A",
+     "DEFC batt 2"
+    ],
+    [
+     "69",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter pinion (LD gas)/starter motor (HD)"
+    ],
+    [
+     "71",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan lower (LD)"
+    ],
+    [
+     "72",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan right (LD)"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "10A",
+     "Trailer stop/turn lamp left"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "30A",
+     "Trailer interface module 2"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "20A",
+     "Integrated chassis control module"
+    ],
+    [
+     "76",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electric RNG BDS"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "10A",
+     "Cabin cool pump 17W (LD)/auxiliary battery (HD)"
+    ],
+    [
+     "80",
+     "Fuse MINI",
+     "20A",
+     "Powertrain sensor 1 (DSL)"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "10A",
+     "Trailer stop/turn lamp right"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "30A",
+     "Trailer interface module 1"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "30A",
+     "FTZM 1"
+    ],
+    [
+     "84",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer battery"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "30A",
+     "Engine control module"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "",
+     "Injector B even"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "15A",
+     "O2 B sensor"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "",
+     "O2 A sensor"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "",
+     "Injector A odd"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "15A",
+     "Engine control module, throttle control (HD)"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "10A",
+     "Cool fan clutch (HD DSL)/aeroshutter (LD/HD)"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "DC/AC inverter"
+    ],
+    [
+     "23",
+     "Relay",
+     "",
+     "Fuel heater (DSL)"
+    ],
+    [
+     "35",
+     "Relay",
+     "",
+     "Parking lamp"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "43",
+     "Relay",
+     "",
+     "Secondary axle motor"
+    ],
+    [
+     "59",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "64",
+     "Relay",
+     "",
+     "Starter motor (LD)/cool fan clutch (HD DSL)"
+    ],
+    [
+     "70",
+     "Relay",
+     "",
+     "Starter pinion (LD gas)/starter motor (HD)"
+    ],
+    [
+     "77",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "ELM 6 - electronic lighting module 6"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block (Left)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-3500-2025-genid-g4-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "",
+     "Rear heated seats left/right"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "",
+     "Front heated and ventilated seats"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "",
+     "External object calculation module/park assist"
+    ],
+    [
+     "F12",
+     "Fuse FMM/MCase",
+     "",
+     "Memory seat module 2 / passenger power seat"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "",
+     "Export power take off/special equipment option 1"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "DLC - data link connector"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "",
+     "AMP - amplifier"
+    ],
+    [
+     "F17",
+     "Fuse FMM/MCase",
+     "",
+     "Multi-function end gate"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "",
+     "Tailgate module"
+    ],
+    [
+     "F22",
+     "Fuse FMM/MCase",
+     "",
+     "Rear sliding window"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Driver passenger memory seat module 1/memory booster module"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "Rear sliding window open"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Rear sliding window close"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "MFEG major HI - multi-function end gate major high"
+    ],
+    [
+     "K5",
+     "Relay",
+     "",
+     "MFEG minor - multi-function end gate minor"
+    ],
+    [
+     "K6",
+     "Relay",
+     "",
+     "MFEG major LO - multi-function end gate major low"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Block (Right)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-3500-2025-genid-g4-2.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "",
+     "Left doors"
+    ],
+    [
+     "F4",
+     "Fuse MICRO2",
+     "",
+     "ELM 2 - electronic lighting module 2"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "",
+     "ELM 7 - electronic lighting module 7"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "",
+     "Front blower"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "",
+     "LF window switch"
+    ],
+    [
+     "F10",
+     "Fuse MICRO3",
+     "",
+     "Steering tilt (LD)/UVM (HD)/electronic lighting module 5"
+    ],
+    [
+     "F11",
+     "Fuse MICRO3",
+     "",
+     "VPM/OHC camera"
+    ],
+    [
+     "F12",
+     "Fuse MICRO3",
+     "",
+     "CGM/TCP/COL LCK/DMS"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "F25",
+     "Fuse MICRO3",
+     "",
+     "Spot lamp LT/RT (LD)/USB ports"
+    ],
+    [
+     "F26",
+     "Fuse MICRO3",
+     "",
+     "Special equipment option retained accessory power"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "Accessory power outlet/retained accessory power"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "",
+     "Accessory power outlet/battery"
+    ],
+    [
+     "F30",
+     "Fuse MICRO3",
+     "",
+     "SDM/ICS/IPC/HUD/HMDTY (HD)/HDLM (LD)"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "",
+     "BCM 2 - body control module 2"
+    ],
+    [
+     "F32",
+     "Fuse MICRO3",
+     "",
+     "RFA WCM aux jack/CSM aux jack/TBCS"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "",
+     "BCM 4 - body control module 4"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "",
+     "Electric park brake switch"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "Shifter interface board (LD)"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "",
+     "Radio lo"
+    ],
+    [
+     "F48",
+     "Fuse MICRO2",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "F51",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 1 (HD)"
+    ],
+    [
+     "F52",
+     "Fuse FMX/JCase",
+     "",
+     "Battery 2 (HD)"
+    ],
+    [
+     "F54",
+     "Fuse FMX/JCase",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F55",
+     "Fuse FMM/MCase",
+     "",
+     "Driver power seat"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Back of the Right Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-3500-2025-genid-g4-3.webp",
+   "fuses": [
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Accessory power outlet 1"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Retained accessory power/accessory 1"
+    ],
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "",
+     "Right doors"
+    ]
+   ]
+  }
+ ]
+}
