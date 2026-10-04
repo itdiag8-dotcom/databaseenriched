@@ -1,0 +1,607 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "i40",
+ "brand_db": "Hyundai",
+ "model_db_name": "i40",
+ "model_id": 2213,
+ "generation_name": "1st generation (VF)",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/hyundai/i40/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel (driver's side fuse panel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i40-2015-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Power outlet 2: console and rear power outlets"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Power tailgate"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Module 1: smart key, BCM, audio, AMP, AVN, DC-DC, console lamp, parking guide, mirror switch"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Module 4: HAC relay, stop lamp switch, check connector, air flap unit, fuel filter sensor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Module 3: smart key, BCM, panorama sunroof, rain sensor, CCS modules, headlamp washer relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Power outlet 1: front power outlet"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat manual switch"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors: power mirrors, ECM/PCM, A/C module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "25A",
+     "AMP, JBL AMP, DC-DC converter"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "25A",
+     "Front wiper: rain sensor relay, multifunction switch, wiper relay, wiper motor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "A/C: blower relay, fuel heater relay, PTC heater relays, A/C module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel heater"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Power window LH: relay, main switch, safety modules, rear switch LH"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "PDM 1: tailgate open relay, trunk/tailgate latch, fuel filler relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Driver power seat: IMS module, manual switch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Module 2: BCM, immobilizer, DC-DC, audio, EC mirror, LKA, A/C, headlamps, leveling, seat warmers, TPMS"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper: relay, motor, multifunction switch, rear curtain module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "Power window RH: relay, switches, safety modules"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "PDM 2: smart key module, start/stop button, immobilizer"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Module 5: smart key handles, mirrors, air flap unit, seat warmer switches, light sensor, sport mode switch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "IG1: E/R box fuses F27-F31"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Module 6: cluster, seat warmer switches, AFL module, EPB module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "MDPS: EPS control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Door lock: lock/unlock relay, dead lock relay, actuators"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Front seat heater: CCS/seat warmer modules"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps: door, console, room, glove box, luggage, foot, trunk, personal, vanity lamps"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Multimedia: audio, AVN, DC-DC converter"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Curtain: rear curtain module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "Memory 1: cluster, TPMS, curtain, tilt sensor, A/C, BCM, intrusion sensor, siren, IMS"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag indicator: cluster"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "PDM 3: smart key control module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Rear seat warmer modules"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "Memory 2: RF receiver"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "PDM 1: smart key control module"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Start: start relay, ignition lock/range switch or ECM/PCM"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Sunroof: panorama sunroof"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment main fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i40-2015-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Other",
+     "",
+     "MDPS: EPS control module"
+    ],
+    [
+     "F2",
+     "Other",
+     "",
+     "B+1: I/P junction box (IPS 0-2, fuses F13/F14/F19/F20/F21/F26/F36)"
+    ],
+    [
+     "F3",
+     "Other",
+     "",
+     "ABS1: ESP module, check connector"
+    ],
+    [
+     "F4",
+     "Other",
+     "",
+     "ABS2: ESP module, check connector"
+    ],
+    [
+     "F5",
+     "Other",
+     "",
+     "IG2: start relay, ignition switch / PDM 4 (IG2) relay"
+    ],
+    [
+     "F6",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "F7",
+     "Other",
+     "",
+     "Rear heated: rear defogger relay"
+    ],
+    [
+     "F8",
+     "Other",
+     "",
+     "B+2: I/P junction box (IPS 3/4, F2/F7/F9/F15)"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "30A",
+     "AMP: DC-DC converter"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "EPB1: electric parking brake module"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "30A",
+     "EPB2: electric parking brake module"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan low/high relays"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Deicer: front deicer relay"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Horn relay, front deicer relay"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp: HAC relay, stop signal relay"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "Headlamp washer relay"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "TCU2: TCM (D4FD AT)"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG1: ignition switch / PDM 2 (ACC), PDM 3 (IG1) relays"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "40A",
+     "EMS box"
+    ],
+    [
+     "F23",
+     "Fuse FMX/JCase",
+     "50A",
+     "B+3: I/P junction box (leak current autocut device, F18/F25/F30/F34/F38)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "A/C switch: control module"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Front wiper: PCM/ECM"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "TCU1: TCM (D4FD AT), range switch"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp: MT switch / AT rear lamps, curtain, EC mirror, IPS, AVN"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "ECU3: start relay (D4FD), ECM/PCM, air flow sensor"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "ABS3: ESP control module"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil 2: G4FD/G4NC coils #1-4, condenser"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay (petrol)"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "30A",
+     "Fuel pump relay (diesel)"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "ECU4: ECM / PCM"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Injectors #1-4 (G4NA)"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "ECU2: ECM / fuel pump relay / oil level sensor, pressure regulator (by engine)"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil 1: G4NA coils #1-4, condenser"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "ECU1: ECM / PCM"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "Sensor2: oil control valves, camshaft sensors, PTC heater relay, lambda sensor, VGT solenoid"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "Sensor1: oxygen sensors, intake/purge solenoids / camshaft sensor, EGR bypass, glow relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "ESS relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "PDM 4 (IG2) relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "PDM 2 (ACC) relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "PDM 3 (IG1) relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Rear heated relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "HAC relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Additional diesel block (D4FD)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i40-2015-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Glow relay"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "PTC heater relay #1"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "PTC heater relay #2"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "PTC heater relay #3"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Glow relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PTC heater relay #1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PTC heater relay #2"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "PTC heater relay #3"
+    ]
+   ]
+  }
+ ]
+}
