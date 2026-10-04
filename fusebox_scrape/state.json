@@ -319,11 +319,11 @@
   "dodge": true,
   "ds": true,
   "ferrari": true,
-  "fiat": true
+  "fiat": true,
+  "ford": 94
  },
  "in_progress": null,
  "queue_next_makes": [
-  "ford",
   "geely",
   "genesis",
   "gmc",
@@ -966,10 +966,12 @@
   "ford/transit-350": "done",
   "ford/transit-connect": "done",
   "ford/transit-courier": "done",
-  "ford/transit-custom": "done"
+  "ford/transit-custom": "done",
+  "ford/windstar": "done",
+  "ford/zephyr": "skipped_pre2000"
  },
- "last_updated": "2026-10-04T09:46:10.377973",
- "current_brand": "ford",
+ "last_updated": "2026-10-04T09:47:21.935475",
+ "current_brand": null,
  "audi_done_models": [
   "a1",
   "a2",
