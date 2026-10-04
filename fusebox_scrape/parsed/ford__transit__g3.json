@@ -1,0 +1,632 @@
+{
+ "make_slug": "ford",
+ "model_slug": "transit",
+ "brand_db": "Ford",
+ "model_db_name": "Transit",
+ "model_id": 1945,
+ "generation_name": "3rd generation (Mk6, Mk7, V184, V185, V347, V348)",
+ "generation_code": "g3",
+ "year_start": 2000,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/ford/transit/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Pre-Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-2013-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MEGA",
+     "350A",
+     "Starter motor and alternator"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "60A",
+     "Passenger junction box power supply - start relevant / PJB KL15 for Start-Stop"
+    ],
+    [
+     "3",
+     "Fuse MIDI",
+     "100A",
+     "Engine junction box power supply - non-start relevant"
+    ],
+    [
+     "4",
+     "Fuse MIDI",
+     "40A",
+     "Heated front screen right-hand side"
+    ],
+    [
+     "5",
+     "Fuse MIDI",
+     "100A",
+     "Standard relay box power supply - non-start relevant"
+    ],
+    [
+     "6",
+     "Fuse MIDI",
+     "40A",
+     "Heated front screen left-hand side"
+    ],
+    [
+     "7",
+     "Fuse MIDI",
+     "60A",
+     "Passenger junction box power supply - non-start relevant"
+    ],
+    [
+     "8",
+     "Fuse MIDI",
+     "60A",
+     "Customer connection point"
+    ],
+    [
+     "9",
+     "Fuse MIDI",
+     "60A",
+     "Customer connection point"
+    ],
+    [
+     "10",
+     "Fuse MIDI",
+     "60A",
+     "Customer connection point"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Junction Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-2013-genid-g3-1.webp",
+   "fuses": [
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Engine cooling fan"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow and trailer tow module power supply (KL30)"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS and ESP pump"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plugs"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition relay (KL15 #3)"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter enable"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition feed (KL15) to passenger junction box (without Start-Stop)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "ABS, ESP, steering angle sensor, YAW sensor supply (KL30)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "ABS and ESP valves and control unit"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Fuel pump (without fuel-fired heater)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump (with fuel-fired heater)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "PCM power"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Fuel pump (with fuel-fired heater)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "T-MAF sensor"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Vaporiser glow plug monitoring"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "Sonic purge valve"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "VAP pump/UEGO"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Vaporiser glow plug"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamps"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Trailer KL15 power supply"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Glow plugs"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Trailer tow (KL15)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter enable"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Power feed (KL15 #4)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Power feed (KL15 #3)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Vaporiser glow plug"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Air conditioning clutch solenoid"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Standard Relay Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-2013-genid-g3-2.webp",
+   "fuses": [
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Rear window wiper"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Front and rear air conditioning control"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "5A",
+     "Tachograph"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Headlamp levelling, master light switch (KL15)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Heated front seats"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power point front"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Heated door mirrors, if CAT 1 fitted"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "5A",
+     "Relay coils supply, power mirrors"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power point rear"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Main beam left-hand side"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "Main beam right-hand side"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "10A",
+     "Dipped beam left-hand side"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "Dipped beam right-hand side"
+    ],
+    [
+     "54",
+     "Fuse FMX/JCase",
+     "30A",
+     "Pre-fuse for dipped/main beam, daytime running lamps, tachograph, fuel-fired booster heater blower"
+    ],
+    [
+     "55",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater blower motor"
+    ],
+    [
+     "56",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power windows"
+    ],
+    [
+     "57",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear heater blower motor"
+    ],
+    [
+     "58",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wiper motor"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated rear window, heated door mirrors"
+    ],
+    [
+     "61",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition relay (KL15 #1)"
+    ],
+    [
+     "62",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition relay (KL15 #2)"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlamp dip beam"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Heated door mirrors (if CAT 1 alarm fitted), power outlet (if not)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Headlamp main beam"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Daytime running lamps"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Programmable fuel fired heater"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Heated rear windows and heated door mirrors (or heated rear window LH if CAT 1 alarm fitted)"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Heated rear window RH if CAT 1 alarm fitted"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Power feed (KL15 #2)"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "PJB KL15 (Start-Stop only)"
+    ],
+    [
+     "R21",
+     "Relay",
+     "",
+     "Power feed (KL15 #1)"
+    ],
+    [
+     "R22",
+     "Relay",
+     "",
+     "Heated windscreen right-hand side"
+    ],
+    [
+     "R23",
+     "Relay",
+     "",
+     "Windscreen wiper high and low function"
+    ],
+    [
+     "R24",
+     "Relay",
+     "",
+     "Rear window wiper"
+    ],
+    [
+     "R25",
+     "Relay",
+     "",
+     "Windscreen wiper on and off function"
+    ],
+    [
+     "R26",
+     "Relay",
+     "",
+     "Heated windscreen left-hand side"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger Junction Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-2013-genid-g3-3.webp",
+   "fuses": [
+    [
+     "63",
+     "Fuse MINI",
+     "5A",
+     "Rear parking aid, rain sensor"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "2A",
+     "Acceleration pedal demand sensor"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "15A",
+     "Brake lamp switch"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, PATS supply, tachograph, instrument panel switch illumination"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "15A",
+     "Washer pump"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "10A",
+     "Restraints control module"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "20A",
+     "Exterior lamp switch (KL15)"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "20A",
+     "Battery backed sounder"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "5A",
+     "Exterior lamp switch (KL30)"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "10A",
+     "Battery saver supply, OBDII (KL30)"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "15A",
+     "Radio, navigation unit and phone supply"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, fuel-fired booster heater timer, remote keyless entry, interior motion sensor (KL30)"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "7.5A",
+     "Side lamps right-hand side"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "7.5A",
+     "Side lamps left-hand side"
+    ],
+    [
+     "77",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch supply, battery disconnect switch coils supply"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "15A",
+     "Central locking"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "7.5A",
+     "Number plate lamp, side markers"
+    ],
+    [
+     "80",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamps"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "3A",
+     "Audio and instrument cluster ignition feed"
+    ]
+   ]
+  }
+ ]
+}
