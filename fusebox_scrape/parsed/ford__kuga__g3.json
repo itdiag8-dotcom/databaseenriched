@@ -1,0 +1,552 @@
+{
+ "make_slug": "ford",
+ "model_slug": "kuga",
+ "brand_db": "Ford",
+ "model_db_name": "Kuga",
+ "model_id": 1854,
+ "generation_name": "3rd generation (CX482)",
+ "generation_code": "g3",
+ "year_start": 2019,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/ford/kuga/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-kuga-2021-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel filter heater [diesel]"
+    ],
+    [
+     "2",
+     "Fuse FMM/MCase",
+     "40A",
+     "Left-hand heated windshield"
+    ],
+    [
+     "4",
+     "Fuse FMM/MCase",
+     "60A",
+     "Supplemental heater [gas, diesel]"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "40A",
+     "Supplemental heater [gas, diesel]"
+    ],
+    [
+     "6",
+     "Fuse FMM/MCase",
+     "40A",
+     "Supplemental heater [gas, diesel]"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "40A",
+     "Right-hand heated windshield"
+    ],
+    [
+     "9",
+     "Fuse FMM/MCase",
+     "60A",
+     "Glow plug module [diesel]"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module [diesel]"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "20A",
+     "Steering column lock"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-lock brake system module"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "5A",
+     "Dosing control module [diesel]"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "5A",
+     "Fuel operated heater"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "5A",
+     "Battery electronic control module [hybrid]"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "5A",
+     "Charge port light ring [hybrid]"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "20A",
+     "Pressure line heater [diesel]"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "Reductant dosing control module [diesel]"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "20A",
+     "Tank heater [diesel]"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Brake on-off switch, headlamp switch pack"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "5A",
+     "Powertrain control module [hybrid]"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "Transmission oil pump [hybrid]"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "5A",
+     "Electronic power assist steering"
+    ],
+    [
+     "32",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "10A",
+     "Front parking aid camera, rear view camera, blind spot information system, adaptive cruise control"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp leveling"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module [hybrid], transmission control module [diesel]"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "42",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "43",
+     "Fuse FMM/MCase",
+     "50A",
+     "Electric water pump [hybrid]"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "40A",
+     "Trailer tow module"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "48",
+     "Fuse FMM/MCase",
+     "40A",
+     "Anti-lock brake control valves"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "60A",
+     "Anti-lock brake control pump"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "30A",
+     "Moonroof"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "5A",
+     "Rear console USB charger"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "10A",
+     "Battery charge control module [hybrid]"
+    ],
+    [
+     "55",
+     "Fuse FMM/MCase",
+     "20A",
+     "Transmission control module [diesel]"
+    ],
+    [
+     "56",
+     "Fuse MICRO2",
+     "5A",
+     "DC/DC converter [hybrid]"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "10A",
+     "Data link connector"
+    ],
+    [
+     "58",
+     "Fuse FMM/MCase",
+     "40A",
+     "Auxiliary power distribution box [hybrid]"
+    ],
+    [
+     "59",
+     "Fuse FMM/MCase",
+     "40A",
+     "Body control module"
+    ],
+    [
+     "61",
+     "Fuse FMM/MCase",
+     "20A",
+     "Rear cargo power point"
+    ],
+    [
+     "64",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power liftgate"
+    ],
+    [
+     "66",
+     "Fuse FMM/MCase",
+     "20A",
+     "Rear heated seat module"
+    ],
+    [
+     "67",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel operated heater"
+    ],
+    [
+     "68",
+     "Fuse MICRO2",
+     "5A",
+     "Mass air flow and intake air temperature sensor [gas]"
+    ],
+    [
+     "69",
+     "Fuse MICRO2",
+     "15A",
+     "Port fuel injectors [gas, hybrid]"
+    ],
+    [
+     "71",
+     "Fuse FMM/MCase",
+     "20A",
+     "Media bin power point"
+    ],
+    [
+     "72",
+     "Fuse MICRO2",
+     "20A",
+     "Rear window wiper"
+    ],
+    [
+     "74",
+     "Fuse FMM/MCase",
+     "30A",
+     "Windshield wiper motor"
+    ],
+    [
+     "76",
+     "Fuse FMM/MCase",
+     "30A",
+     "Heated backlight"
+    ],
+    [
+     "78",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "79",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp washer"
+    ],
+    [
+     "80",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "81",
+     "Fuse MICRO2",
+     "10A",
+     "Rear window washer pump"
+    ],
+    [
+     "84",
+     "Fuse FMM/MCase",
+     "40A",
+     "Driveline control module"
+    ],
+    [
+     "85",
+     "Fuse MICRO2",
+     "5A",
+     "Rain sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-kuga-2021-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO3",
+     "5A",
+     "Restraints control module"
+    ],
+    [
+     "2",
+     "Fuse MICRO3",
+     "5A",
+     "Rear heated seats"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Parking assist control module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Lock, unlock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Moonroof"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "9",
+     "Fuse MICRO3",
+     "5A",
+     "Electrochromatic mirror, image processing module A, passenger airbag deactivation indicator"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Telematics control unit module"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "5A",
+     "Power liftgate hands-free liftgate actuation module"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "5A",
+     "Central security module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Driver door lock, child safety locks"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Driver door module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "SYNC, receiver transceiver module, integrated control panel"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "7.5A",
+     "Head up display module, wireless accessory charging module"
+    ],
+    [
+     "19",
+     "Fuse MICRO3",
+     "7.5A",
+     "Battery backed sounder"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control, e-shifter module"
+    ],
+    [
+     "22",
+     "Fuse MICRO3",
+     "7.5A",
+     "Instrument cluster, gateway module, steering column control module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Audio unit"
+    ]
+   ]
+  }
+ ]
+}

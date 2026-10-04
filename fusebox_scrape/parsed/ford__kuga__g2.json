@@ -1,0 +1,709 @@
+{
+ "make_slug": "ford",
+ "model_slug": "kuga",
+ "brand_db": "Ford",
+ "model_db_name": "Kuga",
+ "model_id": 1854,
+ "generation_name": "2nd generation (C520)",
+ "generation_code": "g2",
+ "year_start": 2012,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/ford/kuga/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-kuga-2019-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "50A",
+     "Anti-lock brake system, electronic stability program"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electronic stability program"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Voltage quality module, body control module"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Powertrain control module"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter relay"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "25A",
+     "Cooling fan (600W/750W)"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter, auxiliary power points"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan (600W/730W/750W)"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan (600W/730W/750W)"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "20A",
+     "Headlamp washer"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "5A",
+     "Anti-lock brake system, electronic stability program"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "Brake lamps"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Battery monitor system"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "Relay coils"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "5A",
+     "Lighting control"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "25A",
+     "Aux transmission cooling pump [6F35 transmission]"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module [MPS6]"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning clutch"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "7.5A",
+     "Adaptive cruise control [with start-stop, 2.5L TiVCT VPWR]"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Adaptive cruise control [with start-stop, 2.5L TiVCT VPWR]"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "5A",
+     "Headlamp leveling motor"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "20A",
+     "Fuel operated heater"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "5A",
+     "Engine control relay coil"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Engine control module [2.0L GTDI, 2.5L TiVCT]"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Engine control module [1.5L GTDI, DW10F, DV5F]"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Engine control module [2.0L GTDI, 2.5L TiVCT]"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Engine control module [1.5L GTDI, DW10F, DV5F]"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "15A",
+     "Engine control module [2.0L GTDI, 2.5L TiVCT]"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Engine control module [1.5L GTDI, DW10F]"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "5A",
+     "Engine control module [DV5F]"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "5A",
+     "Active grille shutters"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "5A",
+     "Passenger airbag deactivation indicator feed"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "5A",
+     "Engine control module, transmission control module"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "15A",
+     "Headlamps, headlamp leveling"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "5A",
+     "Electronic power assist steering"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "20A",
+     "Body control module"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "5A",
+     "Adaptive cruise control [without start-stop]"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "10A",
+     "Heated washer nozzle"
+    ],
+    [
+     "F46",
+     "Fuse FMX/JCase",
+     "40A",
+     "Autowipers"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "15A",
+     "Diesel particulate filter vaporizer"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan 750W"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Diesel particulate filter vaporizer"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Cooling fan 750W"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan 600W/750W"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Heated windshield"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower motor"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Cooling fan 600W/750W/730W"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Ignition"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-kuga-2019-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F56",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "5A",
+     "Passive anti-theft transceiver"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "10A",
+     "Interior lighting, driver door switch pack, glove box lamp, overhead console switch bank"
+    ],
+    [
+     "F61",
+     "Fuse MINI",
+     "20A",
+     "Front cigar lighter, second row power outlet"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "5A",
+     "Autowipers, auto-dimming interior mirror"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "10A",
+     "Adaptive cruise control - front sensing module"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "10A",
+     "Liftgate release"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "20A",
+     "Driver door unlocking, burglarproof locking"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "15A",
+     "SYNC module, front control/display interface module, GPS module"
+    ],
+    [
+     "F68",
+     "Fuse MINI",
+     "15A",
+     "Electric steering column lock"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "F70",
+     "Fuse MINI",
+     "20A",
+     "Central lock/unlock supply"
+    ],
+    [
+     "F71",
+     "Fuse MINI",
+     "10A",
+     "Heating control head - manual A/C, dual electronic automatic temperature control"
+    ],
+    [
+     "F72",
+     "Fuse MINI",
+     "7.5A",
+     "Data link connector"
+    ],
+    [
+     "F73",
+     "Fuse MINI",
+     "7.5A",
+     "Steering wheel module, battery backup sounder"
+    ],
+    [
+     "F74",
+     "Fuse MINI",
+     "15A",
+     "High beam"
+    ],
+    [
+     "F75",
+     "Fuse MINI",
+     "15A",
+     "Rear fog lamp"
+    ],
+    [
+     "F76",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamps"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch, push button ignition switch, keyless module"
+    ],
+    [
+     "F79",
+     "Fuse MINI",
+     "15A",
+     "Audio unit, navigation DVD player, touch screen, hazard flasher switch, door lock switch"
+    ],
+    [
+     "F80",
+     "Fuse MINI",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "F81",
+     "Fuse MINI",
+     "5A",
+     "Radio frequency receiver, interior motion sensor"
+    ],
+    [
+     "F82",
+     "Fuse MINI",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "F83",
+     "Fuse MINI",
+     "20A",
+     "Central locking system"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "Central locking system"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition switch"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "10A",
+     "Air bag module, occupant classification system, passenger air bag deactivation indicator"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "15A",
+     "Heated steering"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-kuga-2019-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Hands-free liftgate actuation module"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Keyless vehicle door handles"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "25A",
+     "Front left door control unit"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "25A",
+     "Front right door control unit"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "25A",
+     "Rear left door control unit"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "25A",
+     "Rear right door control unit"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "25A",
+     "Driver seat motor"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "5A",
+     "Memory seat module logic feed"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "5A",
+     "Rear ignition relay coil feed"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "25A",
+     "Rear window defrost"
+    ],
+    [
+     "F24",
+     "Fuse FMX/JCase",
+     "30A",
+     "AC/DC auxiliary power points"
+    ],
+    [
+     "F24",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear auxiliary power points"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "25A",
+     "Power liftgate"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "40A",
+     "Accessories trailer tow module"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "20A",
+     "Luggage compartment auxiliary power points"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "5A",
+     "Blind spot monitor, rear view camera with park assist, voltage quality module ignition signal"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "Parking aid button"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "5A",
+     "DC/AC auxiliary power point ignition signal"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "Driver heated seat"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "20A",
+     "Passenger heated seat"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window defrost"
+    ]
+   ]
+  }
+ ]
+}
