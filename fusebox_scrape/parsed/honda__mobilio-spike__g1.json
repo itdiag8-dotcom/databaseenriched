@@ -1,0 +1,209 @@
+{
+ "make_slug": "honda",
+ "model_slug": "mobilio-spike",
+ "brand_db": "Honda",
+ "model_db_name": "Mobilio Spike",
+ "model_id": null,
+ "generation_name": "1st generation (GK1, GK2)",
+ "generation_code": "g1",
+ "year_start": 2002,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/honda/mobilio-spike/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-mobilio-spike-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Passive safety unit (VB)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Passive safety unit (VA), engine control unit, fuel pump"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Front passenger position detection unit [side airbag models]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Power window relay, driver's door power window control unit, rear window wiper motor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper motor, windshield washer pump"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils (front)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils (rear)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Turn signal and hazard light control circuit (in instrument cluster)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Alternator, oxygen sensor, sunroof unit, EPS unit, selector lock solenoid, cluster, locking remote, ABS unit, voltage monitor, EVAP valve"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Reversing lights, navigation unit, reversing light relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Cooling/condenser fan relays, A/C clutch relay, rear defogger relay, blower relay, air intake drive, HVAC control panel"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirrors"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Accessory socket relay [auto A/C], front accessory socket [manual A/C], cigarette lighter"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition key lock solenoid and control circuit, navigation unit, TV tuner, audio unit"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Right headlight / control unit and mode solenoid [discharge headlights]"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Left headlight / control unit and mode solenoid [discharge headlights]"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic socket, navigation/audio units, central locking remote, interior lighting, TV tuner, sliding door control unit"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front and rear accessory connectors [auto A/C models]"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Switch/cluster/ashtray/HVAC/navigation illumination, parking lights, license plate lights, parking light relay"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Door lock actuators"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Sunroof drive motor"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Fuses 25 and 26 in the under-dash fuse box"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Power window relay"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Driver's door power window"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Left sliding door drive control unit"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Right sliding door drive control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Reversing light relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter cutout relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Parking light relay"
+    ]
+   ]
+  }
+ ]
+}
