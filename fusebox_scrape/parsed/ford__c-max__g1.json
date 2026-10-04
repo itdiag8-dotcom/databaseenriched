@@ -1,0 +1,486 @@
+{
+ "make_slug": "ford",
+ "model_slug": "c-max",
+ "brand_db": "Ford",
+ "model_db_name": "C-Max",
+ "model_id": 1752,
+ "generation_name": "1st generation (\"C214\")",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/ford/c-max/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Junction Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-c-max-2010-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "80A",
+     "Power steering"
+    ],
+    [
+     "3",
+     "Fuse MIDI",
+     "60A",
+     "Passenger junction box supply 1"
+    ],
+    [
+     "4",
+     "Fuse MIDI",
+     "60A",
+     "Passenger junction box supply 2"
+    ],
+    [
+     "5",
+     "Fuse MIDI",
+     "80A",
+     "Climate control"
+    ],
+    [
+     "6",
+     "Fuse MIDI",
+     "60A",
+     "Auxiliary heater [diesel only]"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS, stability control pump"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS, stability control valves"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Powertrain control module"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Climate control blower"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition relay 15I"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "20A",
+     "Starter solenoid"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated windscreen, right-hand side"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan relay"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated windscreen, left-hand side"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "ABS module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary heater"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Power steering module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Headlamp washer"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary heater [diesel only]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Ignition, relays"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Glow plug monitoring [diesel only]"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Dual zone climate control"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "3A",
+     "Powertrain control module, automatic transmission"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Battery sensor smart charging"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Heated oxygen sensors [petrol only]"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Intercooler bypass valve [diesel only]"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Injectors, ignition transformers"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module, valves, solenoids"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Junction Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-c-max-2010-genid-g1-1.webp",
+   "fuses": [
+    [
+     "100",
+     "Fuse MINI",
+     "10A",
+     "Electronic modules ignition supply"
+    ],
+    [
+     "101",
+     "Fuse MINI",
+     "20A",
+     "Electric sunroof control module, driver's electric seat"
+    ],
+    [
+     "102",
+     "Fuse MINI",
+     "10A",
+     "Heater control, steering column, DPF, remote control receiver, DVD player"
+    ],
+    [
+     "103",
+     "Fuse MINI",
+     "10A",
+     "Lighting control battery supply"
+    ],
+    [
+     "104",
+     "Fuse MINI",
+     "10A",
+     "Battery saver, interior lamps"
+    ],
+    [
+     "105",
+     "Fuse MINI",
+     "25A",
+     "Heated rear window"
+    ],
+    [
+     "107",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster battery supply, on-board diagnostics"
+    ],
+    [
+     "108",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory to cluster (audio and navigation unit)"
+    ],
+    [
+     "109",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, rear auxiliary power socket"
+    ],
+    [
+     "110",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lamps ignition supply to lighting control switch"
+    ],
+    [
+     "111",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "112",
+     "Fuse MINI",
+     "15A",
+     "Audio modules battery supply"
+    ],
+    [
+     "113",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lamps (parking lamps)"
+    ],
+    [
+     "114",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster ignition supply, engine immobiliser"
+    ],
+    [
+     "115",
+     "Fuse MINI",
+     "7.5A",
+     "Lighting control ignition supply"
+    ],
+    [
+     "116",
+     "Fuse MINI",
+     "20A",
+     "Fog lamps"
+    ],
+    [
+     "117",
+     "Fuse MINI",
+     "7.5A",
+     "Number plate lamps"
+    ],
+    [
+     "118",
+     "Fuse MINI",
+     "20A",
+     "Door module, left-hand rear"
+    ],
+    [
+     "119",
+     "Fuse MINI",
+     "25A",
+     "Trailer tow module, luggage compartment auxiliary power socket"
+    ],
+    [
+     "120",
+     "Fuse MINI",
+     "20A",
+     "Door module, right-hand rear"
+    ],
+    [
+     "121",
+     "Fuse MINI",
+     "20A",
+     "Heated front seats"
+    ],
+    [
+     "122",
+     "Fuse MINI",
+     "10A",
+     "Airbag module"
+    ],
+    [
+     "123",
+     "Fuse MINI",
+     "7.5A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "124",
+     "Fuse MINI",
+     "7.5A",
+     "Parking lamps, side lamps, tail lamps (left-hand side)"
+    ],
+    [
+     "125",
+     "Fuse MINI",
+     "7.5A",
+     "Parking lamps, side lamps, tail lamps (right-hand side)"
+    ],
+    [
+     "126",
+     "Fuse MINI",
+     "20A",
+     "Key free system"
+    ],
+    [
+     "127",
+     "Fuse MINI",
+     "25A",
+     "Electric windows, cooling unit"
+    ],
+    [
+     "129",
+     "Fuse MINI",
+     "20A",
+     "Windscreen wipers"
+    ],
+    [
+     "131",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "132",
+     "Fuse MINI",
+     "15A",
+     "Brake lamps"
+    ],
+    [
+     "133",
+     "Fuse MINI",
+     "25A",
+     "Central locking relays, passenger door module"
+    ],
+    [
+     "134",
+     "Fuse MINI",
+     "20A",
+     "Central locking, driver door module"
+    ],
+    [
+     "135",
+     "Fuse MINI",
+     "20A",
+     "Daytime running lamps"
+    ],
+    [
+     "136",
+     "Fuse MINI",
+     "15A",
+     "Washer pump, heated washer jets"
+    ],
+    [
+     "137",
+     "Fuse MINI",
+     "10A",
+     "Battery backup sounder, electric folding mirrors"
+    ],
+    [
+     "138",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module, accelerator pedal, automatic transmission"
+    ],
+    [
+     "139",
+     "Fuse MINI",
+     "10A",
+     "Main beam right-hand side"
+    ],
+    [
+     "140",
+     "Fuse MINI",
+     "10A",
+     "Main beam left-hand side"
+    ],
+    [
+     "141",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamp, electric mirrors"
+    ],
+    [
+     "142",
+     "Fuse MINI",
+     "15A",
+     "Dipped beam, right-hand side"
+    ],
+    [
+     "143",
+     "Fuse MINI",
+     "15A",
+     "Dipped beam, left-hand side"
+    ]
+   ]
+  }
+ ]
+}
