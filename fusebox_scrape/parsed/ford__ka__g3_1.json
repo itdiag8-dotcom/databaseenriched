@@ -1,0 +1,301 @@
+{
+ "make_slug": "ford",
+ "model_slug": "ka",
+ "brand_db": "Ford",
+ "model_db_name": "Ka",
+ "model_id": 1851,
+ "generation_name": "Ka+ (B562) facelift",
+ "generation_code": "g3.1",
+ "year_start": 2018,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/ford/ka/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ka-2020-genid-g3.1-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMM/MCase",
+     "40A",
+     "Body control module - battery power supply 2"
+    ],
+    [
+     "F02",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module / ignition bus"
+    ],
+    [
+     "F04",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F06",
+     "Fuse MICRO2",
+     "20A",
+     "Power supply voltage 1"
+    ],
+    [
+     "F07",
+     "Fuse MICRO2",
+     "15A",
+     "Power supply voltage 2"
+    ],
+    [
+     "F08",
+     "Fuse MICRO2",
+     "10A",
+     "Power supply voltage 3"
+    ],
+    [
+     "F09",
+     "Fuse MICRO2",
+     "20A",
+     "Power supply voltage 4"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "10A",
+     "Power supply voltage 5"
+    ],
+    [
+     "F11",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "40A",
+     "Air conditioning fan"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "10A",
+     "Horn"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "5A",
+     "Electric power steering"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "10A",
+     "Engine and transmission control module"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "7.5A",
+     "Rearview camera"
+    ],
+    [
+     "F28",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electronic stability program, ABS valve"
+    ],
+    [
+     "F29",
+     "Fuse FMM/MCase",
+     "50A",
+     "Electronic stability program, ABS pump"
+    ],
+    [
+     "F33",
+     "Fuse FMM/MCase",
+     "20A",
+     "12V power outlet"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "10A",
+     "Washer pump"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel pump relay coil (Dragon), brake pedal switch"
+    ],
+    [
+     "F47",
+     "Fuse FMM/MCase",
+     "30A",
+     "Cooling system fan 1"
+    ],
+    [
+     "F49",
+     "Fuse FMM/MCase",
+     "50A",
+     "Cooling system fan 2"
+    ],
+    [
+     "F50",
+     "Fuse FMM/MCase",
+     "30A",
+     "Heated backlight"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "20A",
+     "Power supply voltage 6"
+    ],
+    [
+     "F69",
+     "Fuse FMM/MCase",
+     "20A",
+     "Front wiper motor"
+    ],
+    [
+     "F71",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper motor"
+    ],
+    [
+     "F160",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel injection"
+    ],
+    [
+     "F180",
+     "Fuse MICRO2",
+     "10A",
+     "12V outlet relay power supply"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ka-2020-genid-g3.1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO3",
+     "5A",
+     "Airbag control module"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Rear parking assist"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Key cylinder. Push-button start"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "Power mirrors"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "Diagnostic connector"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "5A",
+     "Volumetric alarm sensor (left-hand drive)"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "7.5A",
+     "Power mirrors. Power windows"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control module"
+    ],
+    [
+     "22",
+     "Fuse MICRO3",
+     "7.5A",
+     "Dashboard. Diagnostic connector"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "20A",
+     "Radio"
+    ],
+    [
+     "25",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "High current fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ka-2020-genid-g3.1-2.webp",
+   "fuses": [
+    [
+     "F201",
+     "Fuse MEGA",
+     "275A",
+     "Alternator"
+    ],
+    [
+     "F202",
+     "Fuse MIDI",
+     "125A",
+     "Body control module - battery power supply"
+    ],
+    [
+     "F204",
+     "Fuse MIDI",
+     "60A",
+     "Electric power steering motor"
+    ],
+    [
+     "F205",
+     "Fuse MIDI",
+     "70A",
+     "Heater control unit"
+    ]
+   ]
+  }
+ ]
+}

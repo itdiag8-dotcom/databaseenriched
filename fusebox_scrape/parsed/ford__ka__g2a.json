@@ -1,0 +1,288 @@
+{
+ "make_slug": "ford",
+ "model_slug": "ka",
+ "brand_db": "Ford",
+ "model_db_name": "Ka",
+ "model_id": 1851,
+ "generation_name": "2A generation (Typ RU8, B420)",
+ "generation_code": "g2a",
+ "year_start": 2010,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/ford/ka/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Dashboard fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ka-2016-genid-g2a-0.webp",
+   "fuses": [
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "Right dipped beam power supply"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Left dipped headlight and headlight alignment control unit power supply"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "5A",
+     "Remote switch coils on engine compartment fuse box (INT/A)"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "7.5A",
+     "Front and rear roof lights, boot and puddle lights"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Diagnosis socket, radio, climate control, EOBD"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "5A",
+     "Brake light switch, instrument panel node"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Door central locking"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "15A",
+     "Windscreen/rear window washer pump"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "20A",
+     "Driver's side electric windows"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Passenger side electric window"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "5A",
+     "Parking sensor, backlighting switches, electric mirrors"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag control unit"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "7.5A",
+     "Radio switch, convergence, climate control, brake lights, clutch"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel node"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-ka-2016-genid-g2a-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Main beam headlamps"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Horns"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Heated seats / sun roof motor"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control unit [1.2L Duratec]; engine control unit + relay coil [1.3L Duratorq]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "ABS control unit (control unit power supply + solenoids)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Trailer / spare"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window, mirror demisters"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "+15 engine control unit"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "+15 ABS control unit (pump power supply), EPS, yaw sensor"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "+15 reversing lights, debimeter, water-in-diesel sensor, relay coils T02/T05/T14/T19"
+    ],
+    [
+     "F15",
+     "Fuse MAXI",
+     "40A",
+     "High-speed engine cooling fan"
+    ],
+    [
+     "F16",
+     "Fuse MAXI",
+     "60A",
+     "Body computer control unit"
+    ],
+    [
+     "F17",
+     "Fuse MAXI",
+     "40A",
+     "ABS control unit (pump power supply)"
+    ],
+    [
+     "F18",
+     "Fuse MAXI",
+     "70A",
+     "EPS"
+    ],
+    [
+     "F19",
+     "Fuse MAXI",
+     "20A",
+     "Single-speed engine cooling fan"
+    ],
+    [
+     "F19",
+     "Fuse MAXI",
+     "30A",
+     "Single-speed engine cooling fan, low speed engine cooling fan"
+    ],
+    [
+     "F20",
+     "Fuse MAXI",
+     "50A",
+     "Heated windscreen"
+    ],
+    [
+     "F21",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F23",
+     "Fuse MAXI",
+     "50A",
+     "Glow plug control unit [1.3L Duratorq]"
+    ],
+    [
+     "F24",
+     "Fuse MAXI",
+     "20A",
+     "Subwoofer, hi-fi audio amplifier"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Engine control system (secondary loads)"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil, injectors [1.2L Duratec]"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit [1.3L Duratorq]"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "30A",
+     "Climate control system fan"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "15A",
+     "Front socket (with or without cigar lighter plug)"
+    ]
+   ]
+  }
+ ]
+}
