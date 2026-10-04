@@ -1,0 +1,541 @@
+{
+ "make_slug": "geely",
+ "model_slug": "emgrand-7",
+ "brand_db": "Geely",
+ "model_db_name": "Emgrand Ec7",
+ "model_id": 1955,
+ "generation_name": "G1 (FE-1, FE-2)",
+ "generation_code": "g1",
+ "year_start": 2010,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/geely/emgrand-7/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-emgrand-7-2013-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Rear Lambda probe"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Front Lambda probe"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Engine"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "Starter"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Generator"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Right high beam lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "AM1"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Engine"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lights"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "17",
+     "Fuse MIDI",
+     "100A",
+     "Alternator"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "ABS system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Seat heating"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "AM2"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric motor cooling fan"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power seat"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window heating"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery IG1"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment Fuse Panel (variant 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-emgrand-7-2013-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Right high beam lamp"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Left low beam lamp"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Right low beam lamp"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Window lifters"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch AM1"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Rear Lambda probe"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Engine (ECM)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Starter"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Generator"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Motor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lights"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Left high beam lamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Front Lambda probe"
+    ],
+    [
+     "18",
+     "Fuse MIDI",
+     "100A",
+     "Generator"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "25A",
+     "ABS system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Heated seat"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Ignition switch AM2"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric motor cooling fan"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric seat adjustment"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery, fuse box"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery IG1"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater fan"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS system"
+    ],
+    [
+     "32",
+     "Fuse",
+     "30A",
+     "Automatic transmission"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-emgrand-7-2013-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Audio system, power windows"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Sunroof, tire rupture"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Immobilizer"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Electric sunroof, rear view mirror"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Additional socket equipment"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "ABS system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Light switch, reversing light"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Airbag, seat belts"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Heated rear window"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Hazard warning lights, steering"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Locks (trunk, door)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Air conditioner, power fuse, instrument, sunroof buzzer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Stop light"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic interface/system, immobilizer, TPMS tire pressure sensors"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Front light switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Dimensions (side lights)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Horn power"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Combination instrument panel"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "BCM, heater fan"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Washer"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Wipers"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Seat heating"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fog lamp, DRL"
+    ]
+   ]
+  }
+ ]
+}

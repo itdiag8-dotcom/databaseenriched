@@ -1,0 +1,576 @@
+{
+ "make_slug": "geely",
+ "model_slug": "coolray",
+ "brand_db": "Geely",
+ "model_db_name": "Coolray",
+ "model_id": null,
+ "generation_name": "1st generation (SX11)",
+ "generation_code": "g1",
+ "year_start": 2020,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/geely/coolray/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-coolray-2024-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "BCM module / exterior lights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Interior cam / BCM"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Rear view mirrors (BCM), footwell lamps, HPS, anti-theft coils"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Central locking / BCM"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "FCS/EDR"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Gateway"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Screen/IN"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "General illumination lamps / TCM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Independent memory"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Fan relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer motor"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Seat heater"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "BCM/MMI/mirror/USB/EDR ACC+ fuse"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Front heater unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Power socket"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "360/mid pass switch/EPB switch fuse"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Airbags"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "BCM/IP/E-CALL/anti-glare interior rearview mirror/TCM fuse"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "UEC IG1"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "MMI module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "E-Call module"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "Seat adjustment actuator"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Auxiliary relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Wiper relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-coolray-2024-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump fuse"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump fuse"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Heated windshield"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Brake light / OBD switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "TCU/EMS control unit"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "7DCT4"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "7DCT3"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Solenoid valve"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "EMS control unit"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Feedback starter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Starter relay R2"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Heated rear view mirror"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "EPS control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "EMS/TCU/neutral position sensor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "EPB/ESC/clutch pedal sensor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Rear/front seat heater"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning compressor"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Left fog lamp"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Front wiper"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "EGSM/360 panorama/EPB LED+ fuse"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Right fog lamp"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Rear seat heater"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "IBS"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Right window regulator"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "32",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "High speed fan"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "Left window regulator"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "Interior fan"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "Low speed fan"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "60A",
+     "IP BOX ALT+"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "30A",
+     "7DCT2"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "30A",
+     "7DCT1"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "50A",
+     "EPB motor"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "40A",
+     "EPB (electric parking brake) system"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "60A",
+     "IP BOX B+ fuse"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Left high beam headlight"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Right high beam headlight"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Low beam left headlight"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Right low beam headlight"
+    ],
+    [
+     "48",
+     "Fuse MIDI",
+     "150A",
+     "Generator"
+    ],
+    [
+     "49",
+     "Fuse MIDI",
+     "80A",
+     "Power steering"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "High speed cooling fan"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Wiper motor speed low"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "High speed wiper motor"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heated rear window"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear defog relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Front defroster"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fog lights"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Start relay 2"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Start relay 1"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Front fan"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Cooling fan speed low"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "High beam headlights"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Dipped headlights"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Horn (signal)"
+    ]
+   ]
+  }
+ ]
+}
