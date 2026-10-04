@@ -1,0 +1,504 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "creta",
+ "brand_db": "Hyundai",
+ "model_db_name": "Creta",
+ "model_id": 2187,
+ "generation_name": "2nd generation (SU2)",
+ "generation_code": "g2",
+ "year_start": 2019,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/hyundai/creta/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-creta-2023-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1-1",
+     "Other",
+     "",
+     "Alternator; fuses ABS2, rear heated"
+    ],
+    [
+     "F1-2",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear heated 1: ICU junction block (rear heated relay)"
+    ],
+    [
+     "F3",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS2: ESP/ABS control modules"
+    ],
+    [
+     "F7",
+     "Fuse FMM/MCase",
+     "40A",
+     "B+1: ICU junction block (IPS1/4/8/9/10/12)"
+    ],
+    [
+     "F8",
+     "Fuse FMM/MCase",
+     "40A",
+     "B+2: ICU junction block (IPS2/5/8/11)"
+    ],
+    [
+     "F9",
+     "Fuse FMM/MCase",
+     "30A",
+     "ECU1: ICU junction block (main relay)"
+    ],
+    [
+     "F12",
+     "Fuse FMM/MCase",
+     "40A",
+     "IG2: [smart key] ICU start/IG2 relays; [w/o] ignition switch"
+    ],
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "40A",
+     "B+4: ICU junction block (long term load auto cut relay, brake switch/module1/door lock/IBU1 fuses)"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "50A",
+     "Blower relay (ICU junction block)"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS1: ESP/ABS control modules"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "40A",
+     "B+3: ICU junction block (power window main relay, tailgate/sunroof/safety window/AMP/seat vent fuses)"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "50A",
+     "IG1: [smart key] ICU ACC/IG1 relays; [w/o] ignition switch"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan relay (ICU junction block)"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "10A",
+     "Sensor: oxygen sensors, purge solenoid, oil control valves, variable intake solenoid, cooling fan/A/C relays"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "20A",
+     "ECU5: ECM, PCM"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "15A",
+     "TCU: transaxle range switch"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "10A",
+     "ECU6: ECM, PCM"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "20A",
+     "ECU4: ECM, PCM"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "15A",
+     "Injectors #1-4"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coils #1-4"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump relay (ICU junction block)"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "10A",
+     "AMS: battery sensor"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "15A",
+     "Horn: horn relay, burglar alarm horn relay"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "10A",
+     "A/C 1: A/C relay"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "15A",
+     "ECU2: ECM, PCM, ignition lock & clutch switch"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "15A",
+     "ECU3: ECM, PCM"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "ACC relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "IG1 relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "IG2 relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Front wiper low relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Front wiper high relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Rear heated relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-creta-2023-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Seat vent: ventilation seat control modules"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Tailgate open: tailgate relay"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock: center door lock/unlock relays"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "7.5A",
+     "Airbag indicator: instrument cluster"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "15A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "Power outlet 2: luggage power outlet"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module6: IBU"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "25A",
+     "Safety power window LH: driver safety window module"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module1: DLC, A/T shift lever, mirror folding/unfolding relays"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module4: BCW units, ignition lock & clutch switch, parking buzzer, console switch, IBU, front view camera"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module3: stop lamp switch"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "Front/rear USB charger"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper: rear wiper relay, rear wiper motor"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "25A",
+     "Power window RH: main switch, [LHD] passenger switch"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "25A",
+     "AMP"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Front wiper 1: wiper low relay, wiper motor, IBU, ECM, PCM"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "15A",
+     "IBU1"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "15A",
+     "Multimedia: audio"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "ABS3: ABS/ESP control modules, DLC"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cluster: instrument cluster"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "10A",
+     "Module2: audio, IBU, E-Call module, power outside mirror, AMP"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 2: A/C module, dual pressure switch, blower relay"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof motor"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "25A",
+     "Power window LH: main switch, [RHD] passenger switch"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "7.5A",
+     "Start"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "10A",
+     "Emergency call (E-Call) module"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "Module5: headlamps, audio, A/C module, AMP, E-Call, wireless charger, leveling switch, shift indicator, ventilation seat modules"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS2: MDPS unit"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Power outlet 1: front power outlet"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module7: ventilation seat control modules"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "15A",
+     "Washer: multifunction switch"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "Rear heated 2: ECM, PCM, A/C control module"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "Brake switch: IBU, stop lamp switch"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "Memory: instrument cluster, A/C control module"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "25A",
+     "IG1: E/R junction block (TCU/ECU6 fuses)"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU2"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "25A",
+     "Front wiper 2: wiper low relay, wiper motor"
+    ]
+   ]
+  }
+ ]
+}
