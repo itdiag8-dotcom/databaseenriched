@@ -1,0 +1,729 @@
+{
+ "make_slug": "holden",
+ "model_slug": "zafira",
+ "brand_db": "Holden",
+ "model_db_name": "Zafira",
+ "model_id": 2104,
+ "generation_name": "1st generation (TT)",
+ "generation_code": "g1",
+ "year_start": 2002,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/holden/zafira/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-zafira-2004-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MAXI",
+     "30A",
+     "Heater / air conditioner, seat heater"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "10A",
+     "Right headlight low beam, headlight range control"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "10A",
+     "Front/rear side lamps (right), license plate lamp"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "10A",
+     "RH headlamp high beam"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer pump"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "15A",
+     "Buzzer"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "7.5A",
+     "Multifunction display"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper motor"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "7.5A",
+     "Power windows, sunroof, power door mirrors"
+    ],
+    [
+     "F16",
+     "Fuse ATO",
+     "10A",
+     "Rear fog lamp"
+    ],
+    [
+     "F17",
+     "Fuse ATO",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "F18",
+     "Fuse ATO",
+     "7.5A",
+     "Headlight range control"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "7.5A",
+     "Ignition key blocking valve (AT), anti-theft system, audio system"
+    ],
+    [
+     "F22",
+     "Fuse ATO",
+     "15A",
+     "Turn signals / hazard lights, multifunction display, trip computer, indicators"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "10A",
+     "ABS, power steering"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "10A",
+     "Left headlight low beam, headlight range control"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "10A",
+     "Front/rear lamp (left), license plate lamp"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "10A",
+     "LH headlamp high beam"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "20A",
+     "Interior lamp"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "10A",
+     "Turn signal / hazard warning lamp, interior lamp"
+    ],
+    [
+     "F30",
+     "Fuse ATO",
+     "30A",
+     "Hatch"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "10A",
+     "Daytime running lights, anti-theft system"
+    ],
+    [
+     "F33",
+     "Fuse ATO",
+     "20A",
+     "Trailer electrical connector - terminal 30"
+    ],
+    [
+     "F34",
+     "Fuse ATO",
+     "20A",
+     "Audio system, multifunction display"
+    ],
+    [
+     "F35",
+     "Fuse ATO",
+     "10A",
+     "Automatic transmission control unit, cooling fan control unit, A/C"
+    ],
+    [
+     "F36",
+     "Fuse ATO",
+     "20A",
+     "Seat heater, cigarette lighter"
+    ],
+    [
+     "F38",
+     "Fuse ATO",
+     "10A",
+     "Brake lights, AT control, multifunction display, cruise control"
+    ],
+    [
+     "F39",
+     "Fuse ATO",
+     "7.5A",
+     "Automatic transmission control unit, cooling fan control unit, A/C"
+    ],
+    [
+     "F40",
+     "Fuse ATO",
+     "7.5A",
+     "Cooling fan control unit, air conditioning"
+    ],
+    [
+     "F41",
+     "Fuse ATO",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamp high beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Heated mirror relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear fog lamp relay"
+    ],
+    [
+     "R8/9",
+     "Relay",
+     "",
+     "Turn signal relay - right / left"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Phone audio signal transmitter"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Windshield wiper motor relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Multifunctional control unit"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-zafira-2004-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MAXI",
+     "30A",
+     "Fans, A/C"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Low beam headlight (right), headlight range adjustment"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Park and tail lights (right), number plate light"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "High beam headlight (right)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Information display"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Windscreen wipers"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Electric windows and mirrors"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamps"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Automatic transmission"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "CD changer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Electric windows"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Park shift lock, radio, central locking"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights, A/C, control indicators, information display"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ABS, TC, power steering"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Low beam headlight (left), headlight range adjustment"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Park and tail lights (left), number plate lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "High beam headlight (left)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Courtesy light"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights, interior lights, automatic transmission"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Rear window wiper"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Headlights-on chime, immobilizer"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory socket"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Information display, radio"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission, engine cooling, A/C"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Cruise control, brake lights, information display"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "5A",
+     "Automatic transmission, A/C, engine cooling"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "5A",
+     "Engine cooling, A/C"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Interior lighting"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "15A",
+     "Engine controller"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamp high beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Heated mirror relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear fog lamp relay"
+    ],
+    [
+     "R8/9",
+     "Relay",
+     "",
+     "Turn signal interrupter relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Phone audio signal transmitter"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Wheel speed sensor signal converter"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Windshield wiper motor relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Interior lamp relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Multifunctional control unit"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-zafira-2004-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "60A",
+     "Ignition lock"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "60A",
+     "Fuse/relay box: instrument cluster, low beam, DRL, anti-theft, immobilizer, engine management"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "60A",
+     "Power circuits of most electrical equipment"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "20A",
+     "Cooling fan motors (X12XE without A/C)"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "60A",
+     "ABS"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "80A",
+     "Power steering pump"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan motors (gasoline, except X20XE with A/C)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment relay box (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-zafira-2004-genid-g1-3.webp",
+   "fuses": [
+    [
+     "2",
+     "Relay",
+     "",
+     "Cooling fan motor relay (except Z12XE)"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Fuel pump relay (except Z20LET/Z22SE)"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Fuel pump relay (Z22SE/Z20LET)"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Coolant pump motor relay (Z20LET)"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Cooling fan motor relay"
+    ],
+    [
+     "7",
+     "Relay",
+     "",
+     "Headlight washer delay relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine compartment relay box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-zafira-2004-genid-g1-4.webp",
+   "fuses": [
+    [
+     "2",
+     "Relay",
+     "",
+     "Cooling fan motor relay (X16SZR, X18XE1, X20XEV)"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Cooling fan motor relay (X14XE, X16XEL)"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Cooling fan motor relay"
+    ],
+    [
+     "7",
+     "Relay",
+     "",
+     "Headlight washer delay relay"
+    ]
+   ]
+  }
+ ]
+}
