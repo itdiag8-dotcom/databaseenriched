@@ -1,0 +1,390 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "doblo",
+ "brand_db": "Fiat",
+ "model_db_name": "Doblo",
+ "model_id": 1684,
+ "generation_name": "1st generation (\"Type 223\")",
+ "generation_code": "g1",
+ "year_start": 2000,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/fiat/doblo/info/fusebox/2010/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-doblo-2010-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Left dipped beam, headlight beam adjuster"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Right dipped beam"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "Dashboard instrument lights, number plate light"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, supplementary power socket"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Pump system relay, heater fan relay, manual climate control enable, reversing light"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Boot, ceiling light, ABS control unit (ignition switch powered)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "7.5A",
+     "Boot, ceiling light, ABS control unit (ignition switch powered)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Direction indicators, hazard lights, instrument panel warning lights (battery powered)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "7.5A",
+     "Sound system, cellular phone, dashboard control lighting, electric mirrors, trailer, heated seat control lighting, seat belt buzzer muting relay"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Brake lights, instrument panel warning lights (ignition powered), third brake light"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Light system"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "30A",
+     "Windscreen wiper, windscreen/rear window washer pump"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Door locking system"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Right front power window"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Left front power window"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Heated rear view mirrors"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Sound system, cellular phone, diagnostic socket (+30 services)"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Subwoofer system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Heated rear view mirrors relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-doblo-2010-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MAXI",
+     "40A",
+     "Dashboard control unit power, optional functions"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "70A",
+     "Dashboard control unit power, standard functions"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "30A",
+     "Radiator fan first speed (manual climate control versions)"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan first speed (1.3-1.9 Multijet versions)"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "60A",
+     "Radiator fan second speed (1.4-1.6 manual climate control versions)"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan second speed (1.3-1.9 Multijet versions)"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "60A",
+     "ABS power (valve)"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "30A",
+     "ABS power (valve)"
+    ],
+    [
+     "F8",
+     "Fuse MAXI",
+     "50A",
+     "ABS power (pump)"
+    ],
+    [
+     "F8",
+     "Fuse MAXI",
+     "40A",
+     "ABS power (pump)"
+    ],
+    [
+     "F9",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "7.5A",
+     "Engine cooling system relay, engine control unit (+battery)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit (power)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils, injectors, fuel pump"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Engine control secondary loads, fume recirculation solenoid valve, glow plug control unit, tachometer generator, lambda sensors"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "Fuel filter heater"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Right main beam"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "30A",
+     "Passenger compartment fan"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Left main beam"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "7.5A",
+     "Manual climate control compressor"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control unit (ignition powered), engine cooling system relay"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Engine control relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Engine control relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "High beam relay"
+    ]
+   ]
+  }
+ ]
+}

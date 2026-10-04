@@ -1,0 +1,414 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "doblo",
+ "brand_db": "Fiat",
+ "model_db_name": "Doblo",
+ "model_id": 1684,
+ "generation_name": "2nd generation (\"Type 263\")",
+ "generation_code": "g2",
+ "year_start": 2010,
+ "year_end": 2022,
+ "trim_label": "Facelift",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/fiat/doblo/info/fusebox/2019/ver-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-doblo-2019-genid-g2-ver-facelift-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "60A",
+     "BCM - body computer control unit"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "20A",
+     "Rear window winder driver's side, manual gearbox (Doblo/Doblo Combi)"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "40A",
+     "BSM braking system control unit (electropump)"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "50A",
+     "Additional heater PTC2 (diesel engines)"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "Radiator fan (low speed)"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan (high speed, 187/300/350W)"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "60A",
+     "Radiator fan (high speed, 500W)"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "Remote control switch for opening swing door (Cargo version)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Single tone horn"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Engine control system secondary loads"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Main beam headlights"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "30A",
+     "Additional heater PTC1 (diesel engines)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "ECM engine management control unit, ignition management relay 1 with Start&Stop"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "ECM engine control unit (power supply)"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "ECM engine control unit, engine control main relay"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Climate control compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump on tank"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Engine management system primary loads"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "BSM braking system ECU (control unit and solenoid unit)"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "5A",
+     "BSM braking system control unit (supply and key), steering angle sensor"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "60A",
+     "Glow plug pre-heating control unit (diesel)"
+    ],
+    [
+     "F82",
+     "Fuse MAXI",
+     "20A",
+     "Rear window winder passenger's side (manual gearbox)"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "20A",
+     "Headlight washer pump"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "15A",
+     "Rear power socket"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "15A",
+     "Passenger compartment power socket"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "5A",
+     "IBS battery charge status sensor for Start&Stop"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "7.5A",
+     "Wing mirror defrosters"
+    ],
+    [
+     "F08",
+     "Fuse MAXI",
+     "40A",
+     "Passenger compartment fan"
+    ],
+    [
+     "T02",
+     "Relay",
+     "",
+     "High beam headlights"
+    ],
+    [
+     "T03",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "T05",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "T06",
+     "Relay",
+     "",
+     "Cooling fan, low speed"
+    ],
+    [
+     "T07",
+     "Relay",
+     "",
+     "Cooling fan, high speed"
+    ],
+    [
+     "T08",
+     "Relay",
+     "",
+     "Seat heating / 12V socket / climate control fan"
+    ],
+    [
+     "T09",
+     "Relay",
+     "",
+     "Engine management system"
+    ],
+    [
+     "T10",
+     "Relay",
+     "",
+     "Fuel pump / auxiliary fuel pump relay"
+    ],
+    [
+     "T14",
+     "Relay",
+     "",
+     "Fog lights"
+    ],
+    [
+     "T17",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "T19",
+     "Relay",
+     "",
+     "Heated rear window and exterior mirrors"
+    ],
+    [
+     "T20",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "T30",
+     "Relay",
+     "",
+     "Headlight washer"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-doblo-2019-genid-g2-ver-facelift-1.webp",
+   "fuses": [
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "Right low beam"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "7.5A",
+     "Front/rear courtesy lights, sun visor lights, door clearance lights, boot light"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Door locking/unlocking motors, dead lock actuators, tailgate unlocking motor"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Battery supply for EOBD diagnosis socket, radio, tyre pressure monitoring unit"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "15A",
+     "Windscreen/rear window washer pump"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Electric window motor, passenger-side front door"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Left low beam, headlight corrector"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "7.5A",
+     "Brake/clutch pedal switches, interior heater, convergence unit, Blue&Me sound system"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel, brake pedal switch, third brake light"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "5A",
+     "Control panel lights, parking unit, tyre pressure unit, electric door mirrors, rain sensor, electric top unit, My-port infotainment socket"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "5A",
+     "Engine fusebox relay coils and body computer relay coils"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "20A",
+     "Electric window motor, driver-side front door"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "F1",
+     "Fuse ATO",
+     "10A",
+     "Heated driver seat"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "10A",
+     "Heated passenger seat"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "20A",
+     "Third power socket on dashboard"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "20A",
+     "Driver's side rear electric window"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "20A",
+     "Passenger's side rear electric window"
+    ]
+   ]
+  }
+ ]
+}

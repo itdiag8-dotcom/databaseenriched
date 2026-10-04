@@ -1,0 +1,414 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "doblo",
+ "brand_db": "Fiat",
+ "model_db_name": "Doblo",
+ "model_id": 1684,
+ "generation_name": "3rd generation (\"K9\")",
+ "generation_code": "g3",
+ "year_start": 2022,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/fiat/doblo/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuses in the Dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-doblo-2023-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MICRO2",
+     "10A",
+     "Wireless phone charger, electrochromic interior mirror"
+    ],
+    [
+     "F3",
+     "Fuse MICRO2",
+     "5A",
+     "Wireless phone charger"
+    ],
+    [
+     "F4",
+     "Fuse MICRO2",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "20A",
+     "Windshield washer pump"
+    ],
+    [
+     "F7",
+     "Fuse MICRO2",
+     "10A",
+     "12V socket (rear)"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Electric lock module"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "30A",
+     "Central locking"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "10A",
+     "Radio and telematics controls"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "5A",
+     "Alarm, overload indicator, advanced telematics unit"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "3A",
+     "Trailer hitch box"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "3A",
+     "Surround rear view display"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "5A",
+     "Generic trailer hitch box"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "5A",
+     "7-inch touchscreen"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "5A",
+     "Additional heating"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "20A",
+     "Audio system, 10-inch touchscreen"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "15A",
+     "12V socket"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "15A",
+     "12V socket (front)"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "5A",
+     "Mirror control"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "5A",
+     "USB socket"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-doblo-2023-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "40A",
+     "Air conditioner fan"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "60A",
+     "ABS/ESP system computer"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "80A",
+     "Interior fuse box 3"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "40A",
+     "ABS/ESP system computer"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "50A",
+     "Intelligent switch unit (right turn signals, front right side marker, right brake lights, left reverse lights, right fog lights); 20A heated windshield"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "60A",
+     "Two-speed cooling fan control unit (GMV); 20A automatic gearbox computer (thermal)"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "70A",
+     "Intelligent switching box"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Engine control fuel pump, piloted thermostat, oil pump solenoid valve, intake air flow meter, oxygen sensors"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Engine computer / controlled booster pump (diesel)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Piloted lift pump, intake/exhaust solenoid valves, piloted thermostat, oil pump solenoid valve, air flow meter, oxygen sensors"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Engine computer, diesel flow control pump solenoid, turbo pressure control solenoid, purge heater, adjustable intake/exhaust solenoid valves, oxygen sensors"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Engine computer"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "5A",
+     "Instruments, GMV relay, electric water cooling turbo, intelligent service unit"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "Intelligent switch box"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "Battery charge level block"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Electrically heated windshield"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "GMP relay diagnostics, BFRM, BSI1, engine computer, lower NOx sensor, injectors"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "F20",
+     "Fuse ATO",
+     "30A",
+     "Engine computer / charge pump, ignition coils"
+    ],
+    [
+     "F21",
+     "Fuse ATO",
+     "30A",
+     "Starter"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "40A",
+     "Starter/alternator"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "40A",
+     "Fuse box in passenger compartment 5"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "40A",
+     "Interior fuse box 3"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "15A",
+     "Heater"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "20A",
+     "Heater"
+    ],
+    [
+     "F27",
+     "Fuse ATO",
+     "25A",
+     "Intelligent switching unit (right low beam, right reversing lights, left fog lights, left rear parking lights, third brake light)"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "30A",
+     "Urea pump power supply and urea tube heating resistor, NOx sensor, engine computer (AdBlue)"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windshield wiper"
+    ],
+    [
+     "F30",
+     "Fuse MIDI",
+     "80A",
+     "Pre-heating unit"
+    ],
+    [
+     "F31",
+     "Fuse MIDI",
+     "80A",
+     "Switching and protection unit"
+    ],
+    [
+     "F32",
+     "Fuse MIDI",
+     "80A",
+     "Power steering; left low beam, static turn lights, side/left turn indicators, side lights, left brake lights, license plate lights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine control computer / Euro6 diesel (SCR module power supply)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Air conditioning compressor / heated windshield"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter / thermal preconditioning"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fog lights / daytime running lights"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Air conditioner fan"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlights"
+    ]
+   ]
+  }
+ ]
+}
