@@ -1,0 +1,155 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "uno",
+ "brand_db": "Fiat",
+ "model_db_name": "Uno",
+ "model_id": 1728,
+ "generation_name": "1st generation (\"Type 146\")",
+ "generation_code": "g1",
+ "year_start": 1983,
+ "year_end": 2013,
+ "trim_label": "Mille",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/fiat/uno/info/fusebox/2013/trims-mille",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-uno-2013-genid-g1-trims-mille-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument panel lighting / parking lights"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "7.5A",
+     "Parking lights"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Left low beam headlight"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Right low beam headlight"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Left high beam headlight"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Right high beam headlight"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "Door electric locks"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "12V socket / courtesy lights"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "20A",
+     "Rear window defogger"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "Windshield wiper motor"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Turn signals"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Instrument panel / reverse lights / brake lights"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "25A",
+     "Internal ventilation"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "30A",
+     "Cooling system"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "7.5A",
+     "Fuel pump"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Auxiliary ignition relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Door lock relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear window wiper motor relay"
+    ]
+   ]
+  }
+ ]
+}

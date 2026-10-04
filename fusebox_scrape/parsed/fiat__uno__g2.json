@@ -1,0 +1,227 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "uno",
+ "brand_db": "Fiat",
+ "model_db_name": "Uno",
+ "model_id": 1728,
+ "generation_name": "Novo Uno (\"Type 327\")",
+ "generation_code": "g2",
+ "year_start": 2010,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/fiat/uno/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-uno-2021-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "40A",
+     "Body Computer (right high/low beams, front/rear right position lights, license plate light, right direction lights, brake lights, position lights, reverse lights)"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "40A",
+     "Body Computer (left high/low beams, front/rear left position lights, glove box light, interior light, left direction lights, third brake light)"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "Radiator cooling fan"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "40A",
+     "Radiator cooling fan"
+    ],
+    [
+     "F08",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "20A",
+     "Body Computer (windshield wiper and windshield/rear window washer motor)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Electronic injection control unit"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Cold start tank fuel pump motor [Fire Flex engines]"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Body Computer (rear wiper)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Electronic injection control unit [without satellite tracker], start signal for injection control unit, starter motor (relay T17)"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Lambda sensor, canister solenoid valve, phase variator"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Relay T09 - power supply for fuses F11, F17, F22, satellite tracker, electronic injection control unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic socket, power window control unit, original alarm (volumetric sensor and siren), aftermarket alarm unit, radio, USB port, radio stabilization unit"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Injectors and ignition coil, electronic injection control unit"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "30A",
+     "ABS control unit"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "40A",
+     "Air box electric fan"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "10A",
+     "Fog lights (relay T35), heated rear window (relay T08), A/C compressor (relay T05), cold start tank fuel level sensor, cold start tank electric pump"
+    ],
+    [
+     "F101",
+     "Fuse MINI",
+     "5A",
+     "Battery voltage sensor"
+    ],
+    [
+     "F102",
+     "Fuse MINI",
+     "30A",
+     "Front electric power window control unit"
+    ],
+    [
+     "F103",
+     "Fuse MINI",
+     "30A",
+     "Rear electric power window control unit"
+    ],
+    [
+     "F104",
+     "Fuse MINI",
+     "20A",
+     "Body Computer (door locking)"
+    ],
+    [
+     "F105",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "F106",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag control unit"
+    ],
+    [
+     "F107",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition signal for body computer, air box electric fan, power outlet"
+    ],
+    [
+     "F108",
+     "Fuse MINI",
+     "7.5A",
+     "Power outlet lighting, steering wheel button lighting, central dashboard control lighting, aftermarket alarm unit"
+    ],
+    [
+     "F109",
+     "Fuse MINI",
+     "10A",
+     "Brake switch NC contact (body computer signal), reverse switch (lights and injection ECU signal), air box, air box lighting, radio, parking control unit"
+    ],
+    [
+     "F110",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition signal for the body computer"
+    ],
+    [
+     "F116",
+     "Fuse MINI",
+     "10A",
+     "Brake switch NO contact (body computer signal, brake light activation, injection ECU signal), instrument cluster"
+    ],
+    [
+     "F85",
+     "Fuse ATO",
+     "20A",
+     "Power outlet and cigarette lighter"
+    ]
+   ]
+  }
+ ]
+}
