@@ -1,0 +1,402 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "entourage",
+ "brand_db": "Hyundai",
+ "model_db_name": "Entourage",
+ "model_id": 2192,
+ "generation_name": "1st generation (VQ)",
+ "generation_code": "g1",
+ "year_start": 2007,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/hyundai/entourage/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-entourage-2008-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Memory"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "VRS"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "IG2-1: several circuits"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "IG2-2: several circuits"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Key lock"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Illumination"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "25A",
+     "AMP: audio system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Seat heater"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "Sunroof"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "TPMS"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Pedal"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Power outlet 1: cigar lighter"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "ACC: accessory circuits"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Power outlet 2: cigar lighter"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Starter system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag indicator"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "IG1: several circuits"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "ABS"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "26",
+     "Relay",
+     "",
+     "Alternator relay"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "DOM"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "30A",
+     "ADM"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-entourage-2008-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower motor"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear blower motor"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "IPM 3"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "IPM 2"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "RAM 1"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "RAM 2"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "RAM 3"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "IPM 1"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Key switch 2: ignition switch"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "Front wipers"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS 2"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Powertrain"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "ECU 2"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ECU 1"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor (up)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor (down)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Front deicer/defroster"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "ATM"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Stop signal"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "A/C compressor"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "25A",
+     "Key switch 1: ignition switch"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Stop lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Front/rear washer"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Fuel heater"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "IG 2: several circuits"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "IG 2 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ]
+   ]
+  }
+ ]
+}
