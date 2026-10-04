@@ -1,0 +1,746 @@
+{
+ "make_slug": "honda",
+ "model_slug": "ridgeline",
+ "brand_db": "Honda",
+ "model_db_name": "Ridgeline",
+ "model_id": 2165,
+ "generation_name": "2nd generation (YK2, YK3)",
+ "generation_code": "g2",
+ "year_start": 2017,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/honda/ridgeline/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box Type A",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-ridgeline-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "AC inverter [models with AC power outlet]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Rear blower [models without AC power outlet]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "VSA motor"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "VSA FSR"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Main fan [models without AC power outlet]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Main fuse"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Sub fan"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Wiper motor"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Washer"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Tailgate lock main"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "ACM"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Front blower"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Audio amp"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Rear blower [models with AC power outlet]"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Main fan [models with AC power outlet]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Small lights [without AC outlet] / Stop lights [with AC outlet]"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Tailgate lock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Stop lights [without AC outlet] / Small lights [with AC outlet]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Tailgate unlock"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Left headlight low [without AC outlet]"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS [with AC outlet]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Cruise cancel switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low [without AC outlet] / Left headlight low [with AC outlet]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS [without AC outlet]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low [with AC outlet]"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Injector [without AC outlet]"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil [with AC outlet]"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Headlight low main [without AC outlet]"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "DBW [with AC outlet]"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "AC inverter relay [with AC outlet]"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Front fog lights [without AC outlet] / Backup [with AC outlet]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Hazard [without AC outlet] / Main relay [with AC outlet]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat (recline)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat (slide)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "TCU"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "MG clutch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Main relay [without AC outlet] / Hazard [with AC outlet]"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "FI sub"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil [without AC outlet]"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Injector [with AC outlet]"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "DBW [without AC outlet]"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Headlight low main [with AC outlet]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Small/stop main"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Backup [without AC outlet] / Front fog lights [with AC outlet]"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Heated steering wheel"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "VBUM"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box Type B",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-ridgeline-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "4WD"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "IG main"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "IG main 2"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "F/B main 2"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "F/B main"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "EPS"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Trailer e-brake"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "BMS [models with LED parking lights]"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Headlight high main"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "+B trailer hazard"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "+B trailer backup"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Center accessory socket"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Trailer small lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "ACC/IG2 main"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Trailer charge"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "ST cut 1"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Idle stop"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Idle stop"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Front de-icer [models with LED parking lights]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats [with LED parking lights]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "BMS [without LED parking lights]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "STRLD"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior Fuse Box Type A",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-ridgeline-2024-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Smart entry"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power window"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "ACG"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Front wiper"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "ABS/VSA"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Back power window"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Sunroof / fuel lid"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat (recline)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Cargo light"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Front seat heaters"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Driver rear door unlock"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Passenger side door unlock"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Key lock"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "A/C"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "IG1a feedback"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Lumbar support"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "Parking lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "Back left light"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "Starter motor"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "SRS"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Passenger side door lock"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Driver door lock"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Driver door unlock"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat (slide)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "7.5A",
+     "IG1b feedback"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "7.5A",
+     "ACC"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Driver rear door lock"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Interior Fuse Box Type B",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-ridgeline-2024-genid-g2-3.webp",
+   "fuses": [
+    [
+     "A",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "B",
+     "Fuse MINI",
+     "7.5A",
+     "ABS/VSA"
+    ],
+    [
+     "C",
+     "Fuse MINI",
+     "7.5A",
+     "Battery and charging system (ACG)"
+    ],
+    [
+     "D",
+     "Fuse MINI",
+     "7.5A",
+     "Multiplex integrated control unit (MICU)"
+    ],
+    [
+     "E",
+     "Fuse MINI",
+     "20A",
+     "Audio system"
+    ],
+    [
+     "F",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "G",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory circuits (ACC)"
+    ]
+   ]
+  }
+ ]
+}

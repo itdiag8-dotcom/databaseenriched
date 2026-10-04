@@ -1,0 +1,434 @@
+{
+ "make_slug": "honda",
+ "model_slug": "ridgeline",
+ "brand_db": "Honda",
+ "model_db_name": "Ridgeline",
+ "model_id": 2165,
+ "generation_name": "1st generation (YK1)",
+ "generation_code": "g1",
+ "year_start": 2005,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/honda/ridgeline/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-ridgeline-2014-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Bed lights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "LAF sensor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Interior lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Backup"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Rear accessory socket"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "IG OPDS"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "IG wiper"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Driver's power seat lumbar"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat sliding"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat reclining"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "IG ACG"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "IG fuel pump"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "IG washer"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "IG meter"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "IG SRS"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "IGP"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Left rear window"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Right rear window"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Passenger's window"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Back window"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Driver's window"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "VBSOL2"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "IG HAC"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "IG VSA/ABS"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "ACC"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Primary under-hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-ridgeline-2014-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Left headlight low beam"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Small lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low beam"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Backup"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "FI ECU (PCM)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "DBW"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Front fog lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "MG clutch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Horn, stop lights"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "20A",
+     "Defroster"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Backup, ACC"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Hazard"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "40A",
+     "Option 1"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "20A",
+     "AC inverter"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Condenser fan"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater motor"
+    ],
+    [
+     "22",
+     "Other",
+     "",
+     "Seat"
+    ],
+    [
+     "22b",
+     "Other",
+     "",
+     "Battery"
+    ],
+    [
+     "23",
+     "Other",
+     "",
+     "B IG1 main"
+    ],
+    [
+     "23",
+     "Other",
+     "",
+     "Power window"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Secondary under-hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-ridgeline-2014-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Back light"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "20A",
+     "VSA FSR"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "VSA motor"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "20A",
+     "VTM-4"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Front accessory sockets"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Electric brake"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Small lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Stop/turn lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Charge"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "TPMS"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Moonroof"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Interior Fuse Box Upper Area - Driver's Side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-ridgeline-2014-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "STS (starter)"
+    ]
+   ]
+  }
+ ]
+}
