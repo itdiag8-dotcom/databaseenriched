@@ -1,0 +1,414 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "linea",
+ "brand_db": "Fiat",
+ "model_db_name": "Linea",
+ "model_id": 1693,
+ "generation_name": "1st generation (\"Type 323\")",
+ "generation_code": "g1",
+ "year_start": 2008,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/fiat/linea/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse Box on Dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-linea-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F07",
+     "Fuse MINI",
+     "7.5A",
+     "Right dipped beam headlight"
+    ],
+    [
+     "F01",
+     "Fuse MINI",
+     "7.5A",
+     "Left dipped beam headlight, headlight corrector"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "7.5A",
+     "+15 instrument panel, NA brake lights control"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "7.5A",
+     "INT/A for relay coils (T08, T17) in engine compartment fuse box and body computer node"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "7.5A",
+     "Body computer and instrument panel node"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "+15 cruise control, radio setup, Blue&Me setup, parking sensors, climate control node"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Radio node, climate control node, Blue&Me node"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Power window unit, driver's seat adjustment motor"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Power windows control unit (left rear window motor)"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "20A",
+     "Power windows control unit (right rear window motor)"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Windscreen wiper control (two-way pump)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter or socket"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "7.5A",
+     "Mirror defrosters"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "7.5A",
+     "+15 reversing lights, brake lights control NC, air mass meter, glow plug pre-heating unit, water-in-diesel sensor, tachometer generator, level sensor 2"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "7.5A",
+     "Power window unit (+30 for electronics)"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "Body computer node"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Power window unit (driver's side front window motor)"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "20A",
+     "Power window unit (passenger's side front window motor)"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "7.5A",
+     "+15 brake system"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "+15 airbag node"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Boot lock actuator"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "7.5A",
+     "+15 control lighting: steering wheel radio controls, control panel, power mirrors, power window unit, electrochromic mirror, rain sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse Box in Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-linea-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MAXI",
+     "50A",
+     "Heater control unit"
+    ],
+    [
+     "F2",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "70A",
+     "Dashboard"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "20A",
+     "Cooling fan, low speed"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan, low speed"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "20A",
+     "Cooling fan, high speed"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "30A",
+     "Cooling fan, high speed"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "40A",
+     "Cooling fan, high speed"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "30A",
+     "Brake system"
+    ],
+    [
+     "F8",
+     "Fuse MAXI",
+     "40A",
+     "Brake system"
+    ],
+    [
+     "F9",
+     "Fuse MAXI",
+     "30A",
+     "Fan"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Windscreen wiper motor"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Engine control system primary loads"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Engine control system primary loads (injectors, ignition coils)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Engine control system secondary loads"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "30A",
+     "Transmission, hydraulic pump relay"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Right main beam headlight"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Conditioner compressor"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Semi-automatic transmission control, engine control"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "7.5A",
+     "Left main beam headlight"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Horn (beep)"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "7.5A",
+     "Semi-automatic transmission control unit / electronic anti-theft device / engine management / selector lever"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "Transmission, hydraulic pump relay"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "30A",
+     "Transmission, hydraulic pump relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan, high speed"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan, low speed"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Immobilizer relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Transmission, hydraulic pump relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Transmission, hydraulic pump relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fog lights"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn (beep) relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Fan"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "High beam headlight"
+    ]
+   ]
+  }
+ ]
+}
