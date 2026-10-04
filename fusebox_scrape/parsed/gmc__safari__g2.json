@@ -1,0 +1,336 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "safari",
+ "brand_db": "GMC",
+ "model_db_name": "Safari",
+ "model_id": 2003,
+ "generation_name": "2nd generation (M-van)",
+ "generation_code": "g2",
+ "year_start": 1996,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/gmc/safari/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-safari-2005-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "",
+     "Stop/turn/hazard lamps, CHMSL, anti-lock brakes"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "",
+     "Radio accessory, rear seat audio controls"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "",
+     "Courtesy lamps, glove box lamp, dome reading lamps, vanity mirror lamps"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "",
+     "Daytime running lamps relay, instrument panel cluster"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "",
+     "Cruise module, truck body control module, IP cluster, cruise switch, electrochromic mirror"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "",
+     "Power outlets, DLC, subwoofer amplifier"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "",
+     "Crank circuit fuse, park/neutral switch, starter enable relay"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "",
+     "License plate lamp, taillamps, parking lamps, panel lights, trailer taillamps, sidemarker lamps, switch illumination, TBC module"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "",
+     "Air bag system"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "",
+     "Blower motor, rear A/C relay coil, temp door motor, HI blower relay, defogger timer coil"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "",
+     "Cigarette lighter, door lock switches, dutch door release module"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "",
+     "Cluster/climate/radio/switch illumination, chime module, overhead console"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "",
+     "Truck body module, headlamp relay"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "",
+     "Front/rear/trailer turn signals, back-up lamps, BTSI solenoid"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "",
+     "Front wipers, front washer pump"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "",
+     "VCM ign 3, VCM brake, cruise stepper motor signal, ATC module"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "",
+     "Instrument panel radio: ATC (main feed), 2000 series (standby)"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "",
+     "PRNDL/odometer, shift A/B solenoids, 3-2 downshift solenoid, IP cluster, VCM module"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "",
+     "Power adjust mirrors"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "",
+     "Rear wiper, rear washer pump"
+    ],
+    [
+     "A",
+     "Circuit breaker ATO",
+     "",
+     "Power door lock relay, 6-way power seats (circuit breaker)"
+    ],
+    [
+     "B",
+     "Circuit breaker ATO",
+     "",
+     "Power windows (circuit breaker)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-safari-2005-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "30A",
+     "(UPFITTER - BATT) Upfitter battery power stud, trailer wiring harness"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "30A",
+     "(UPFITTER - ACCY) Upfitter accessory relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "(ECM-1B) Fuel pump relay and motor, VCM, oil pressure switch/sender"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "(RR HTR/AC) Rear heater and air conditioning"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Oxygen sensors, camshaft position sensor, MAF sensor, EVAP canister vent solenoid"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "(HORN) Horn relay and horn"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "(ATC) Active transfer case - L van"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(IGN-E) A/C enable relay coil"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(RH HDLMP) Right headlamp (2000-2005)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(A/C COMP) A/C enable relay and compressor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "(FRT HVAC) Front heater and air conditioning"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "(ECM-I) Fuel injectors 1-6, crankshaft position sensor, VCM, coil driver module (EST), ignition coil"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(LH HDLMP) Left headlamp"
+    ],
+    [
+     "20",
+     "Diode MINI",
+     "",
+     "(DIODE-1) Air conditioning"
+    ],
+    [
+     "25",
+     "Fuse MAXI",
+     "40A",
+     "(LIGHTING) Courtesy fuse, power adjust mirrors fuse, TBC battery fuse"
+    ],
+    [
+     "26",
+     "Fuse MAXI",
+     "50A",
+     "(BATT / BATT I/P) Power accessory circuit breaker, stop/hazard fuse, auxiliary power fuse, cigarette lighter fuse, radio battery fuse"
+    ],
+    [
+     "27",
+     "Fuse MAXI",
+     "40A",
+     "(IGN A) Starter relay, ignition switch"
+    ],
+    [
+     "28",
+     "Fuse MAXI",
+     "40A",
+     "(IGN B) Ignition switch"
+    ],
+    [
+     "29",
+     "Fuse MAXI",
+     "50A",
+     "(ABS) Electronic brake control module"
+    ],
+    [
+     "29",
+     "Fuse MAXI",
+     "60A",
+     "(ABS) Electronic brake control module"
+    ],
+    [
+     "30",
+     "Fuse MAXI",
+     "",
+     "(A/C) Rear heat and air conditioning"
+    ],
+    [
+     "31",
+     "Fuse MAXI",
+     "40A",
+     "(RAP) Radio accessory, power windows"
+    ],
+    [
+     "32",
+     "Fuse MAXI",
+     "30A",
+     "(HTD MIR / RR DEFOG) Rear window defogger, climate control head"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(STARTER ENABLE) Starter"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(UPFITTER - ACCY) Upfitter accessory"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(A/C ENABLE) Air conditioning"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(HEAD LAMPS) Headlamps"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(FUEL PUMP) Fuel pump"
+    ]
+   ]
+  }
+ ]
+}
