@@ -320,11 +320,11 @@
   "ds": true,
   "ferrari": true,
   "fiat": true,
-  "ford": 94
+  "ford": 94,
+  "geely": 14
  },
  "in_progress": null,
  "queue_next_makes": [
-  "geely",
   "genesis",
   "gmc",
   "great-wall",
@@ -979,10 +979,13 @@
   "geely/ex3": "no_data",
   "geely/fc": "no_data",
   "geely/gc6": "no_data",
-  "geely/gx3": "done_no_db_model"
+  "geely/gx3": "done_no_db_model",
+  "geely/ha": "no_data",
+  "geely/jimmy": "no_data",
+  "geely/lc": "done"
  },
- "last_updated": "2026-10-04T09:51:05.560916",
- "current_brand": "geely",
+ "last_updated": "2026-10-04T09:51:40.110173",
+ "current_brand": "genesis",
  "audi_done_models": [
   "a1",
   "a2",
