@@ -1,0 +1,649 @@
+{
+ "make_slug": "ford",
+ "model_slug": "c-max-hybrid",
+ "brand_db": "Ford",
+ "model_db_name": "C-Max Hybrid",
+ "model_id": null,
+ "generation_name": "1st generation (\"C344\")",
+ "generation_code": "g1",
+ "year_start": 2013,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/ford/c-max-hybrid/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-c-max-hybrid-2018-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "50A",
+     "Cooling fan module"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "50A",
+     "Electric water pump"
+    ],
+    [
+     "3",
+     "Fuse MIDI",
+     "50A",
+     "Body control module supply 1"
+    ],
+    [
+     "4",
+     "Fuse MIDI",
+     "50A",
+     "Body control module supply 2"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system pump"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Anti-lock brake system valve"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Vacuum pump"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater blower motor"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine management"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "25A",
+     "Powertrain control module relay"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module KL30 supply"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "20A",
+     "Body control module 15 feed"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "20A",
+     "Transmission oil pump [C-MAX Energi]"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front wiper motor"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Anti-lock brake system and electronic stability program module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Stop light switch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Vacuum pump monitoring"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "Engine control module 15, powertrain control module 15, transmission oil pump 15"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Relay coils, light switch module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Motor electronic cooling pump"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Electronic power assist steering module 15"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Mass air flow sensor"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Electronic air conditioning compressor, positive temperature coefficient heater"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Engine control module, powertrain control module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Charge port light ring (C-MAX Energi)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 2"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 4"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Injectors"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Vehicle power 3"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 1"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Hybrid powertrain control"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front and rear wiper high-low"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Ignition feed"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Heater blower"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Engine control relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-c-max-hybrid-2018-genid-g1-1.webp",
+   "fuses": [
+    [
+     "56",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump supply"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "5A",
+     "Passive anti-theft system"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "10A",
+     "Interior light, driver door switch pack, glove box illumination, overhead console switch bank"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, second row power point"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "Autowiper module, auto-dimming rear view mirror"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "Liftgate release"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "20A",
+     "Driver door unlock supply"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "7.5A",
+     "Cell phone passport [C-MAX Energi], multi-function display, GPS module, SYNC"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "20A",
+     "Central lock and unlock supply"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "7.5A",
+     "Climate control module"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "7.5A",
+     "Steering wheel module"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "7.5A",
+     "Data link connector, OBD II supply"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "15A",
+     "Headlamp supply"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "15A",
+     "Fog lamp supply"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamp supply"
+    ],
+    [
+     "77",
+     "Fuse MINI",
+     "20A",
+     "Washer pump"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "5A",
+     "Ignition switch, start button"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "15A",
+     "Radio, hazard light switch"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "5A",
+     "Power sun shade, remote receiver antenna"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "20A",
+     "Washer pump ground"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "20A",
+     "Central locking ground"
+    ],
+    [
+     "84",
+     "Fuse MINI",
+     "20A",
+     "Driver door unlock ground"
+    ],
+    [
+     "85",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic 15 feed"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "10A",
+     "Restraints control module, passenger air bag deactivation indicator"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-c-max-hybrid-2018-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Hands-free liftgate entry module"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Keyless vehicle module"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Keyless vehicle door handles"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "25A",
+     "Door control unit front left"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "25A",
+     "Door control unit front right"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "25A",
+     "Door control unit rear left"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "25A",
+     "Door control unit rear right"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "25A",
+     "Passenger seat motor"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "25A",
+     "Driver seat motor"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "25A",
+     "Heated rear window"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "5A",
+     "Ignition relay"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Battery electronics control module"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Charger [C-MAX Energi]"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Battery electronics control module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Battery electronics control module fan"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Charger fan [C-MAX Energi]"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Smart datalink connector"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Active noise cancellation"
+    ],
+    [
+     "F24",
+     "Fuse FMX/JCase",
+     "30A",
+     "DC/AC power converter"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "25A",
+     "Power liftgate"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "40A",
+     "AC/DC charger [C-MAX Energi]"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "20A",
+     "Luggage compartment outlet"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "5A",
+     "Blind spot detection"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "Parking aid module"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "5A",
+     "Rear view camera"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "5A",
+     "DC/AC power converter"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "Driver seat heater"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "20A",
+     "Passenger seat heater"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "Power sun shade"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "10A",
+     "Fuel system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear 15 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Heated rear window"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel door [C-MAX Energi]"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear wiper"
+    ]
+   ]
+  }
+ ]
+}
