@@ -1,0 +1,624 @@
+{
+ "make_slug": "geely",
+ "model_slug": "askarra",
+ "brand_db": "Geely",
+ "model_db_name": "Askarra",
+ "model_id": null,
+ "generation_name": "Azkarra (NL-3B)",
+ "generation_code": "g1",
+ "year_start": 2021,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/geely/askarra/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-askarra-2025-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "A/C climate control"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Power seat adjustment"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Lane departure warning system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Ignition 2 (IG2) circuit"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "EMS / TCU / electronic control suspension"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Electric power steering / electronic stability control"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Gateway module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Airbag system (SRS)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Battery management system module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Belt starter generator / DC-DC converter"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Electronic steering column lock"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Body control module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Heated/cooled cup holder"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary / backup power supply"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter socket"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Infotainment head unit"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "USB accessory power"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirrors, drive mode switch, wireless phone charger"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Electronic gear shift module / hands-free access"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Infotainment head unit"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Climate control, instrument cluster, rain & light sensor, T-Box"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Gateway module, PEPS, InBlue system"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Power folding side mirrors"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Door courtesy lights"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "BCM central door locking module"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "TPMS / transmission control module"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Exterior lighting control module"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "All-wheel drive system"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "360 panoramic camera system / display screen"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "OBD-II diagnostic port"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Interior lighting control module"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "20A",
+     "Daytime running lights"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "25A",
+     "Left power windows"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power tailgate module"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "25A",
+     "Right power windows"
+    ],
+    [
+     "IF27",
+     "Fuse",
+     "15A",
+     "Electronic steering column lock"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Left Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-askarra-2025-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Brake light switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "TCU / electronic control suspension"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "TCU / electronic control suspension"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump feed"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Intelligent battery sensor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Engine management system module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Dual-clutch transmission 4 / airbag control module 1"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "Dual-clutch transmission 4 / airbag control module 1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Dual-clutch transmission 3 / airbag control module 1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Dual-clutch transmission 3 / airbag control module 1"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Engine sensors"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Engine management system control module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Engine solenoid valves (B+)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Starter drive feed"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Heated exterior side mirrors"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Heated windshield"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Heated rear seats"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "DC-DC converter / battery management system"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Belt starter generator system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "Front windshield wiper"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "Audio amplifier"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "60A",
+     "Radiator cooling fan"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "80A",
+     "Radiator cooling fan"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "25A",
+     "HVAC heating system power supply"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition 2 (IG2)"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "20A",
+     "Heated glass and power mirrors system"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator cooling fan"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power seat adjustments"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "30A",
+     "Dual-clutch transmission 2"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "60A",
+     "Positive battery terminal feed (IP_BOX)"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "30A",
+     "Dual-clutch transmission 1"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock braking system 2"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock braking system 1"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "50A",
+     "Accessory (ACC) & ignition 1 (IG1)"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Left high beam headlight"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Right high beam headlight"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Right low beam headlight"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Left tail / position lamps"
+    ],
+    [
+     "48",
+     "Fuse MIDI",
+     "150A",
+     "Alternator"
+    ],
+    [
+     "49",
+     "Fuse MIDI",
+     "80A",
+     "Electric power steering"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan relay (high speed)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear window wiper relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Windshield wiper relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window defroster relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Heated windshield relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Starter relay 2"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Starter relay 1"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Radiator cooling fan relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Main power relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Cooling fan relay (low speed)"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "High beam headlight relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Low beam headlight relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Horn relay"
+    ]
+   ]
+  }
+ ]
+}
