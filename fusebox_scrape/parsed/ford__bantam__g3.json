@@ -1,0 +1,482 @@
+{
+ "make_slug": "ford",
+ "model_slug": "bantam",
+ "brand_db": "Ford",
+ "model_db_name": "Bantam",
+ "model_id": 1748,
+ "generation_name": "3rd generation",
+ "generation_code": "g3",
+ "year_start": 2002,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/ford/bantam/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Central Fuse Box, Front [Petrol]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-bantam-2011-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Cigar lighter, central locking"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Interior lights, clock, radio station memory, diagnostic plug"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Fuel pump"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Hazard flasher / horn"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "Side lights left-hand side"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "Side lights right-hand side"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Brake light, instrument panel"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Light switch ignition"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Dipped beam left-hand side"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Dipped beam right-hand side"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "Wiper motor, screen washer pump"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "PCM module"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "A/C clutch, fog lamps"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Light switch, battery (positive)"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Heater blower motor"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Direction indicators"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "Power window circuit breaker"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "15A",
+     "Radio/clock"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "15A",
+     "Engine management"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "High beam left-hand side"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "High beam right-hand side"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Central Fuse Box, Front [Diesel]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-bantam-2011-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "25A",
+     "Engine management, PATS"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Interior lighting, OBD, radio clock, instrument cluster"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "3A",
+     "Alternator sensor"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "15A",
+     "Cigar lighter / door lock / power mirror"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Hazard flashers / horn"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "LH side lamps, illumination"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "RH side lamps"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Stop lamps, instrument feed, backup lamps, heater module"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Light switch, ignition, fog lamp relay"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Low beam LH"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Low beam RH"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "Wiper motor, washer motor"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Fuel heater"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Engine management"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Light switch battery"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Heater blower"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Flasher, turn signal"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "Power window switch"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "15A",
+     "Radio, clock, instrument cluster"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "3A",
+     "Engine management battery feed"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "High beam LH"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "High beam RH"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Relays in the Central Fuse Box (Ver.1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-bantam-2011-genid-g3-2.webp",
+   "fuses": [
+    [
+     "42",
+     "Fuse ATO",
+     "20A",
+     "Alarm system battery feed"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "7.5A",
+     "Alarm system ignition feed"
+    ],
+    [
+     "50",
+     "Fuse ATO",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Intermittent wipers"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Anti-theft flasher"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Lights-on warning"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "High beam"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Fuel pump [Petrol]"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Engine management"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "A/C wide open throttle"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Relays in the Central Fuse Box (Ver.2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-bantam-2011-genid-g3-3.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Intermittent wipers"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Ignition switch"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Anti-theft flasher"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Lights-on warning"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "A/C switches"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "High beam"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Fuel pump [Petrol]"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Engine management"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "A/C wide open throttle"
+    ]
+   ]
+  }
+ ]
+}
