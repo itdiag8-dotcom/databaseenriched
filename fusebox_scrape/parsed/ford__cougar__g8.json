@@ -1,0 +1,360 @@
+{
+ "make_slug": "ford",
+ "model_slug": "cougar",
+ "brand_db": "Ford",
+ "model_db_name": "Cougar",
+ "model_id": 1770,
+ "generation_name": "G8",
+ "generation_code": "g8",
+ "year_start": 1998,
+ "year_end": 2002,
+ "trim_label": "",
+ "representative_year": 2000,
+ "source_url": "https://www.startmycar.com/ford/cougar/info/fusebox/2000",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-cougar-2000-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Alternator"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Front fog lamps"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "3A",
+     "Engine management"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Hazard lamps, horn, multifunction switch"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Engine management, ignition, daytime running light [Canada only]"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "HEGO sensors"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Right low beam, bulb outage module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Left low beam, bulb outage module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "Right high beam"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Left high beam, instrument cluster, front fog lamps"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "20A",
+     "Ignition, headlamp switch"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "20A",
+     "Engine management"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater blower"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "60A",
+     "Main power supply to vehicle electrical supply (ignition relay)"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "60A",
+     "Engine cooling fan"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "60A",
+     "Timer module, courtesy lamp, rear window defrost, fuses no. 25, 27, 28, 34, 36"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Engine management"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "High beam"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "High speed engine cooling fan"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Engine cooling fan"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Daytime running lights [Canada only]"
+    ],
+    [
+     "D1",
+     "Diode ATO",
+     "",
+     "Starter relay"
+    ],
+    [
+     "D2",
+     "Diode ATO",
+     "",
+     "Air conditioning"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-cougar-2000-genid-g1-1.webp",
+   "fuses": [
+    [
+     "19",
+     "Fuse ATO",
+     "7.5A",
+     "Mirror heater"
+    ],
+    [
+     "20",
+     "Circuit breaker ATO",
+     "",
+     "Wipers"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "40A",
+     "Power roof, power windows"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "7.5A",
+     "ABS/TCS"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "15A",
+     "Turn signal lamps, backup lamps, speed control, bulb outage module, gearshift lever, A/C clutch, blower motor"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "15A",
+     "Stop lamp, speed control"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Alarm system, locking system"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "7.5A",
+     "High beam, low beam"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "Power seats"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "30A",
+     "Rear window defrost"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "7.5A",
+     "Engine management, locking system, instrument cluster"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "7.5A",
+     "Panel dimmer, license plate illumination, glove box lamp"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "7.5A",
+     "Left side lamps"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "7.5A",
+     "Power mirrors, clock, interior lamps"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "7.5A",
+     "Right side lamps"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "15A",
+     "Radio"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "Heater blower"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "7.5A",
+     "Air bags"
+    ],
+    [
+     "D2",
+     "Diode ATO",
+     "",
+     "Reverse voltage protection"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Courtesy lamps"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Rear window defrost"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Blower motor"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Ignition"
+    ]
+   ]
+  }
+ ]
+}
