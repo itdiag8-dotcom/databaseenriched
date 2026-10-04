@@ -1,0 +1,576 @@
+{
+ "make_slug": "ford",
+ "model_slug": "crown-victoria",
+ "brand_db": "Ford",
+ "model_db_name": "Crown Victoria",
+ "model_id": 1772,
+ "generation_name": "3rd generation (\"EN114\")",
+ "generation_code": "g3",
+ "year_start": 1999,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/ford/crown-victoria/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-crown-victoria-2011-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Ignition (START) - starter relay coil, DTRS"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirrors, mirror switch, keypad switch, decklid switch, adjustable pedal switch, driver's door module, cluster"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Ignition (START) - audio mute, police power distribution box (Police vehicles only)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Lighting control module (LCM) switch illumination, autolamp sensor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition (ON/ACC) - LCM"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "LCM"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Ignition (ON/ACC) - wiper module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Electronic automatic temperature control (EATC) module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition (ON/ACC) - door lock switch illumination, heated seat switch illumination, radio, antenna, electrochromatic mirror, window relay coil, decklid relay coil, police ON/ACC relay coil"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Hazards (non-Police vehicles only)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Hazards (Police vehicles only)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Ignition (ON) - turn signals"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Ignition (ON) - rear air suspension module (RASM), cluster"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Taxi, adjustable pedals"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Ignition (ON) - EATC module, A/C mode switch, A/C blower relay coil"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "On-board diagnostics (OBD II)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Ignition (ON) - A/C mode switch, blend door, heated seat modules"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "LCM (interior lighting)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "LCM (left-hand low beam)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Ignition (ON/START) - back-up lamps, anti-lock brake system (ABS)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "LCM (right-hand low beam)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Ignition (ON/START) - restraint control module (RCM), occupant classification sensor, passenger airbag deactivation indicator"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Multi-function switch (flash-to-pass), LCM (high beams)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Ignition (ON/START) - passive anti-theft system (PATS) module, PCM relay coil, fuel relay coil, ignition relay coil"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "LCM (park lamps, corner lamps, license lamps)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Ignition (ON/START) - cluster, LCM, overdrive cancel switch, traction control switch"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Brake signal, LCM (brake transmission shift interlock), ABS"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "2A",
+     "Hazard in (Police vehicles only)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "2A",
+     "Battery saver (Police vehicles only)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Key in (LCM)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "2A",
+     "Hazard out (Police vehicles only)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Fire suppression module (Police vehicles only)"
+    ],
+    [
+     "K101",
+     "Relay",
+     "",
+     "Window relay, decklid (Police vehicles only)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-crown-victoria-2011-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Spot lights (Police vehicles only)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module (PCM) keep alive power, canister vent"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Fuel relay feed"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Rear air suspension module (RASM)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Alternator regulator"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "PCM relay feed"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Driver's door module (DDM)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil relay feed"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Horn relay feed"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "A/C clutch relay feed"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Audio (subwoofer)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "Police tray lamps (Police vehicles only)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel power point"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Stop lamp switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps (Grand Marquis only), police accessory battery feed 1"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Heated seats (Grand Marquis only), police accessory battery feed 2"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Commercial R/A (Crown Victoria only)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Commercial R/A (Crown Victoria only)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Injectors"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "PCM"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Powertrain loads and sensors"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Police power distribution box outputs (Police vehicles only)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Police PDB outputs (Police vehicles only)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors, rear defrost indicator"
+    ],
+    [
+     "101",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay feed"
+    ],
+    [
+     "102",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "103",
+     "Fuse FMX/JCase",
+     "50A",
+     "Instrument panel fuse box feed #1, I/P fuses 10, 12, 14, 16 and 18"
+    ],
+    [
+     "104",
+     "Fuse FMX/JCase",
+     "50A",
+     "Instrument panel fuse box feed #2, I/P fuses 2, 4, 6, 8, 19, 21, 23 and 25"
+    ],
+    [
+     "105",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter relay feed"
+    ],
+    [
+     "106",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system (ABS) module (pump)"
+    ],
+    [
+     "107",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster relay feed"
+    ],
+    [
+     "108",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter (non-Police), police accessory battery feed 3"
+    ],
+    [
+     "109",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS module (valves)"
+    ],
+    [
+     "110",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper module"
+    ],
+    [
+     "111",
+     "Fuse FMX/JCase",
+     "50A",
+     "Police PDB or police accessory battery feed (Police vehicles only)"
+    ],
+    [
+     "112",
+     "Fuse FMX/JCase",
+     "30A",
+     "Air suspension compressor (non-Police vehicles only)"
+    ],
+    [
+     "112",
+     "Fuse FMX/JCase",
+     "40A",
+     "Police PDB relay feed (Police vehicles only)"
+    ],
+    [
+     "113",
+     "Fuse FMX/JCase",
+     "50A",
+     "Police light bar or police right-hand kick panel accessory battery feed"
+    ],
+    [
+     "114",
+     "Fuse FMX/JCase",
+     "50A",
+     "Police PDB or police accessory battery feed (Police vehicles only)"
+    ],
+    [
+     "115",
+     "Fuse FMX/JCase",
+     "50A",
+     "Rear power point or police right-hand kick panel accessory battery feed"
+    ],
+    [
+     "116",
+     "Fuse FMX/JCase",
+     "50A",
+     "Police accessory and PDB (Police vehicles only)"
+    ],
+    [
+     "117",
+     "Fuse FMX/JCase",
+     "50A",
+     "Police accessory and PDB (Police vehicles only)"
+    ],
+    [
+     "118",
+     "Fuse FMX/JCase",
+     "50A",
+     "Rear power point or police right-hand kick panel accessory battery feed"
+    ],
+    [
+     "201",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "203",
+     "Relay",
+     "",
+     "Ignition coil"
+    ],
+    [
+     "204",
+     "Relay",
+     "",
+     "PCM"
+    ],
+    [
+     "205",
+     "Relay",
+     "",
+     "Fog lamps (Grand Marquis only)"
+    ],
+    [
+     "206",
+     "Relay",
+     "",
+     "Fuel"
+    ],
+    [
+     "209",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "301",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "302",
+     "Relay",
+     "",
+     "Air compressor (non-Police), RUN/ACC relay (Police vehicles only)"
+    ],
+    [
+     "303",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "304",
+     "Relay",
+     "",
+     "Rear defrost relay"
+    ],
+    [
+     "502",
+     "Diode ATO",
+     "",
+     "PCM"
+    ],
+    [
+     "601",
+     "Circuit breaker MAXI",
+     "",
+     "Power seats, lumbar, decklid (Police vehicles only)"
+    ],
+    [
+     "602",
+     "Circuit breaker MAXI",
+     "",
+     "RUN/ACC relay feed - windows, decklid (Police vehicles only)"
+    ]
+   ]
+  }
+ ]
+}
