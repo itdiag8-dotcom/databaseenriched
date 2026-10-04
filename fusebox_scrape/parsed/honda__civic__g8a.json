@@ -1,0 +1,324 @@
+{
+ "make_slug": "honda",
+ "model_slug": "civic",
+ "brand_db": "Honda",
+ "model_db_name": "Civic",
+ "model_id": 2115,
+ "generation_name": "Generation 8A (FD, FA, FG)",
+ "generation_code": "g8a",
+ "year_start": 2005,
+ "year_end": 2011,
+ "trim_label": "Sedan",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/honda/civic/info/fusebox/2008/8a-gen_body-sedan",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Under-hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-2008-body-sedan-genid-g8a-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "100A Main fuse / 70A EPS [If equipped]"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "80A Option main / 50A Ignition switch main"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "30A ABS/VSA fail-safe (40A on models with VSA)"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "50A Headlight main / 40A Power window main"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "20A",
+     "Sub fan motor [If equipped]"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "20A",
+     "Main fan motor (20A M/T or 30A A/T)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Hazard"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "FI sub"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Stop lights and horn"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS oil level"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Audio amplifier [If equipped]"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "FI main"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Interior light"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Backup"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-2008-body-sedan-genid-g8a-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Power window"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "ABS/VSA"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Heated seat [If equipped]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "TPMS [If equipped]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "ODS"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Meter"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Small lights (interior)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Small lights (exterior)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Left headlight low beam"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Headlight high beam main"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Small lights main"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Headlight low beam main"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Moonroof [If equipped]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Rear accessory socket [If equipped]"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Accessory"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power window"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Right rear power window"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Left rear power window"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory, radio"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "HAC"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wiper"
+    ]
+   ]
+  }
+ ]
+}

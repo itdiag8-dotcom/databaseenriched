@@ -1,0 +1,330 @@
+{
+ "make_slug": "honda",
+ "model_slug": "civic",
+ "brand_db": "Honda",
+ "model_db_name": "Civic",
+ "model_id": 2115,
+ "generation_name": "7th generation (EU, ES, EP, EM, EV)",
+ "generation_code": "g7",
+ "year_start": 2000,
+ "year_end": 2005,
+ "trim_label": "Sedan",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/honda/civic/info/fusebox/2004/body-sedan",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-2004-body-sedan-genid-g7-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "AC condenser fan"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Small lights"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Electric cooling fan"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Hazard light"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "FI ECU"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Horn; stop lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "ABS fail-safe"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "AC blower motor"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power windows"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Option"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Left headlight"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Right headlight"
+    ],
+    [
+     "19",
+     "Fuse FLD/PAL 283",
+     "80A",
+     "Battery and charging system"
+    ],
+    [
+     "20",
+     "Fuse FLD/PAL 283",
+     "40A",
+     "Ignition 1"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-2004-body-sedan-genid-g7-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "LAF heater"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights (Canadian models)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Power window relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory, radio"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Meter"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "ABS"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Daytime running lights (Canadian models)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Remote control mirrors"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Accessory power socket"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Turn signal lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Front wiper"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Front right power window"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Front left power window"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Relay"
+    ]
+   ]
+  }
+ ]
+}

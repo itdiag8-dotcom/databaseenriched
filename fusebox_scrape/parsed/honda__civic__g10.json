@@ -1,0 +1,528 @@
+{
+ "make_slug": "honda",
+ "model_slug": "civic",
+ "brand_db": "Honda",
+ "model_db_name": "Civic",
+ "model_id": 2115,
+ "generation_name": "10th generation (FC, FK)",
+ "generation_code": "g10",
+ "year_start": 2016,
+ "year_end": 2021,
+ "trim_label": "Sedan",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/honda/civic/info/fusebox/2018/trims-sedan",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-2018-genid-g10-trims-sedan-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Passenger's power seat, rear seat heaters [Models without SPORT mode]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Adaptive damper system, rear seat heaters [Models with SPORT mode]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Cooling fan [2.0L engine models]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Cooling fan [1.5L engine models]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "IG main [Models with smart entry system]"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Headlight high beam main"
+    ],
+    [
+     "1",
+     "Other",
+     "",
+     "Battery"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "IG main [Models with smart entry system]"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "IG main [Models without smart entry system]"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Fuse box option"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Fuse box"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Front wiper motor"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Headlight low beam main"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Rear defroster"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Starter motor [Models with smart entry system]"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Fuse box"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "ABS/VSA FSR"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Blower motor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Cooling fan"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Washer"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "FI main"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "FI sub"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Injector [1.5L engine models]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "LAF"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "FI ECU"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Parking lights"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Hazard"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Transmission [CVT models]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Backup"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Audio amplifier"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Interior lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Left headlight low beam"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Right headlight low beam"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "VB actuator [1.5L engine models]"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Rear seat heaters"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat sliding [Models without SPORT mode]"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Passenger's power seat reclining [Models without SPORT mode]"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Adaptive damper system [Models with SPORT mode]"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-civic-2018-genid-g10-trims-sedan-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Accessory"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Key lock [Models without smart entry system]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Front sensor camera [Models with smart entry system]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Transmission [CVT models] [Models without smart entry system]"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "SRS indicator"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Meter"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Engine control"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Passenger side door lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Driver side rear door unlock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Rear driver's side power window"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's side power window"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Transmission [CVT models] [Models with smart entry system]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Front sensor camera [Models without smart entry system]"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Moonroof [Models with smart entry system]"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Front sensor camera [Models with smart entry system]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Driver's door lock"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Passenger side door unlock"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Rear passenger's side power window"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Front accessory power socket"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Smart entry [Models with smart entry system]"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat reclining [Models with smart entry system]"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Front seat heater [Models with smart entry system]"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat sliding [Models with smart entry system]"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "VSA/ABS"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Driver side rear door lock"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Driver's door unlock"
+    ]
+   ]
+  }
+ ]
+}
