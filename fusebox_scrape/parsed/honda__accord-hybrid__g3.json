@@ -1,0 +1,552 @@
+{
+ "make_slug": "honda",
+ "model_slug": "accord-hybrid",
+ "brand_db": "Honda",
+ "model_db_name": "Accord Hybrid",
+ "model_id": null,
+ "generation_name": "3rd generation (CV3)",
+ "generation_code": "g3",
+ "year_start": 2018,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/honda/accord-hybrid/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-hybrid-2019-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "150A",
+     "Battery"
+    ],
+    [
+     "2B",
+     "Other",
+     "",
+     "Electric power steering (EPS)"
+    ],
+    [
+     "2D",
+     "Other",
+     "",
+     "Fuse box main 2"
+    ],
+    [
+     "2E",
+     "Other",
+     "",
+     "Electric servo brake"
+    ],
+    [
+     "2F",
+     "Other",
+     "",
+     "ABS/VSA FSR"
+    ],
+    [
+     "2G",
+     "Other",
+     "",
+     "SBW 1"
+    ],
+    [
+     "2H",
+     "Other",
+     "",
+     "IG main 1"
+    ],
+    [
+     "3A",
+     "Other",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "3B",
+     "Other",
+     "",
+     "Fuse box main 1"
+    ],
+    [
+     "3D",
+     "Other",
+     "",
+     "Heater motor"
+    ],
+    [
+     "4B",
+     "Other",
+     "",
+     "Fuse box option 2 (some models)"
+    ],
+    [
+     "4D",
+     "Other",
+     "",
+     "Fuse box option 1"
+    ],
+    [
+     "5A",
+     "Other",
+     "",
+     "RFC"
+    ],
+    [
+     "5C",
+     "Other",
+     "",
+     "SRM2"
+    ],
+    [
+     "5D",
+     "Other",
+     "",
+     "ABS/VSA motor"
+    ],
+    [
+     "5E",
+     "Other",
+     "",
+     "IG main 2"
+    ],
+    [
+     "5F",
+     "Other",
+     "",
+     "Engine electric water pump"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "SRM1"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Brake lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "EVTC"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "PCU electric water pump"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "RFC coil"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Ignition (IGP)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "IG hold"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "FI ECU"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Battery sensor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Drive-by-wire throttle"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Hazard lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "P-ACT ECU"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Heated steering wheel (Canada, some models)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Rear seat heaters (some models)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Heated windshield (Canada)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Front fog lights (some models)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "A/C electric water pump"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Washer motor"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "Audio sub (some models)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "IGPS (LAF)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "IG1 e-parking"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "IG1 IPU"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "IG1 TCU"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "IG1 fuel pump"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "IG1 ABS/VSA"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "IG1 ACG"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "7.5A",
+     "IG1 RFC"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "7.5A",
+     "IG1 monitor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-accord-hybrid-2019-genid-g3-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Left side door unlock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Right side door unlock"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Accessory (ACC)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "ACC key lock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "IG HOLD2 (option)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Smart key system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Left side door lock"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Driver door lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Right side door lock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lights"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Center accessory socket"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Moonroof (option)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "SBW ECU (option)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Driver door unlock"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Premium amplifier (option)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "IG HOLD3 (option)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat slide (option)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat slide (option)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Option 2"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (meter)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Option 1"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Driver power seat recline (option)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Passenger power seat recline (option)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Driver power lumbar (option)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "AVS (option)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Option"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "20A",
+     "ADS (option)"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Airbag (SRS)"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "Head-up display (option)"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "20A",
+     "Passenger power window"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "20A",
+     "Driver power window"
+    ]
+   ]
+  }
+ ]
+}
