@@ -1,0 +1,457 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "azera",
+ "brand_db": "Hyundai",
+ "model_db_name": "Azera",
+ "model_id": 2181,
+ "generation_name": "Generation TG (TG)",
+ "generation_code": "g1",
+ "year_start": 2005,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/hyundai/azera/info/fusebox/2011/tg",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-azera-2011-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MIDI",
+     "150A",
+     "Fusible link (ABS1, ABS2, rear heated, blower)"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/ESC control module, multipurpose check connector"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS/ESC control module, multipurpose check connector"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fuses: front power seat, trunk lid, turn signal, tilt, pedal, rear curtain"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch (ACC, IG1)"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Defogger relay"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window LH/RH fuses"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Start relay, ignition switch (IG2, START)"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control unit relay"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuses: key solenoid, ECS/rear fog; power connector"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESC control module, check connector"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "ECU (IG1): PCM"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Backup light switch, stop light switch, transaxle range switch, vehicle speed sensor"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "ECU: PCM"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "ECU (B+): PCM"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Stop light switch"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Sensor 1: MAF sensor, PCM, immobilizer, oil control valves, variable intake valve"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Sensor 3: injectors #1-6, A/C relay, cooling fan relay"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "ATM control relay"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "Headlight relay (high)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer motor"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "Headlight relay (low)"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-6, condenser"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Sensor 2: oxygen sensors"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Sunroof: overhead console lamp"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Headlight low RH: HID relay"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Front fog light relay"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "DRL: burglar alarm horn relay"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "20A",
+     "Tail light relay"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Inner panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-azera-2011-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Fuel lid opener & trunk lid switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Front lumbar support switch, IMS module, seat manual switches"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Audio-2: ATM key lock module, audio, IMS switch, accessory/seat/power outlet relays, digital clock"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Audio-1: audio"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Start: transaxle range switch, burglar alarm relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "Power window LH: left safety window module, left rear switch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Power window RH: right safety window module, right rear switch"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Rear power seat: right rear ICM relay box"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Module-1: cluster, BCM, rear curtain module, rain sensor, IMS, window main switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Pedal adjust: back warning buzzer"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors & folding motors, A/C control module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Key solenoid, power window main switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Rear fog light relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator: instrument cluster"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Airbag: cut-off switch, SRS control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Tilt & telescopic module, sport mode switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Tail LH: front fog relay, left rear combination light, license light, left headlight"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Tail RH: right rear combination light, license light, right headlight"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Driver seat warmer switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Module-2: cluster, ESC switch, BCM, ATM key lock, yaw rate sensor, multifunction switch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "A/C module, tilt module, rheostat, EC mirror, overhead console lamp"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Turn signal: BCM"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Rear curtain module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Headlight relay, AQS & ambient sensor, HID relay, leveling actuator"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "A/C switch: A/C module, blower relay"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Memory: DLC, A/C module, cluster, multifunction switch, tilt module, BCM, room/foot/door lamps"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Rear power outlet"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "Wiper: washer relay, wiper relays"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "30A",
+     "Power connector: memory/audio-1 fuses"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine auxiliary fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-azera-2011-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "AGCS"
+    ],
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Cooling"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Power amplifier"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "Front seat heater"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "Rear seat heater"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Seat power outlet"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ]
+   ]
+  }
+ ]
+}
