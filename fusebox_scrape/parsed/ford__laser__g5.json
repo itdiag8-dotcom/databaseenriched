@@ -1,0 +1,288 @@
+{
+ "make_slug": "ford",
+ "model_slug": "laser",
+ "brand_db": "Ford",
+ "model_db_name": "Laser",
+ "model_id": null,
+ "generation_name": "5th generation (KN, KQ)",
+ "generation_code": "g5",
+ "year_start": 1999,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/ford/laser/info/fusebox/2003",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel (Driver's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-laser-2003-genid-g5-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "(S/WRM) Various circuits"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(H/CLN) Various circuits"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "(RADIO) Audio system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(A/C) Air conditioner"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(R.WIPER) Various circuits"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(ROOM) Interior lights, trunk light, luggage compartment light"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(MIRR DEF) Mirror defroster"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "(DOOR LOCK) Power door lock"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "(P/WIND) Power windows"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "(WIPER) Windshield wiper and washer"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(ENGINE) Engine control unit"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(METER) Instrument cluster"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "(P/WIND) Power windows"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-laser-2003-genid-g5-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "(INJ OR FIP) Engine control unit"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "(AD FAN) Additional cooling fan for air conditioner"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BTN) Interior lights, power door lock"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "(COOLING FAN) Cooling fan"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "(GLOW) Glow plug heater"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(PTC) Additional heater"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "60A",
+     "(IG KEY) Various circuits"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(HEAD-L) Headlight, left"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Brake lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(TAIL) Taillights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(A/C) Air conditioner"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(HEAD HI) Headlights high beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(HEAD-R) Headlight, right"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "(HEAD C/U) Various circuits"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Hazard warning flashers"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(ST.SIG) Starter signal"
+    ],
+    [
+     "22",
+     "Fuse FLB/PAL 295",
+     "100A",
+     "(MAIN) Protection of all circuits"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "40A",
+     "(HEATER) Heater"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "60A",
+     "(ABS) Antilock brake system, various circuits"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(COOLING FAN RELAY) Electric cooling fan"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(TAIL RELAY) Tail lights"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(HORN RELAY) Horn"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(A/C RELAY) Air conditioning"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(AD FAN RELAY) Additional cooling fan for A/C"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(HEAD RELAY) Headlights"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(MAIN RELAY) Main fuse"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Circuit or SPV relay"
+    ]
+   ]
+  }
+ ]
+}
