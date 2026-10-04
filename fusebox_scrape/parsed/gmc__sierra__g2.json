@@ -1,0 +1,710 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "sierra",
+ "brand_db": "GMC",
+ "model_db_name": "Sierra",
+ "model_id": 2005,
+ "generation_name": "2nd generation (GMT800)",
+ "generation_code": "g2",
+ "year_start": 1999,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/gmc/sierra/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood Electrical Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-2006-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Auxiliary power (single battery and diesels only) / dual battery (TP2)"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Mid bussed electrical center power feed; front seats, right doors"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front climate control fan"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "Left bussed electrical center, door modules, door locks, auxiliary power outlets"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Accessory power/trailer wiring brake feed"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brakes"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Vehicle stability"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition power"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition power"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "Left bussed electrical center, left doors, truck body controller, flasher module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Parking lamps trailer wiring"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right rear parking and sidemarker lamps"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Left rear parking and sidemarker lamps"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "Stoplamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller battery feed"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "Off-road lamps"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "",
+     "Rear HVAC (except H2), sunroof (H2)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power outlet - console"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Electronic throttle control, electronic brake controller (gas), fan clutch (diesel)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "INJ 2 (gas), ECM (diesel)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "INJ 1 (gas), actuator (diesel)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, A/C relay, turn signal/hazard switch, starter relay"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "Ride control"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Backup lamps trailer wiring"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "PCMB (gas), ECMB (diesel)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "O2A (gas), fuel heater (diesel)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Back-up lamps, automatic transmission shift lock control system"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "O2B (gas), ECM 1 (diesel)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Supplemental inflatable restraint system"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Front parking lamps, sidemarker lamps"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Rear defog relay"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller ignition"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "High beam headlamp - left"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lamps"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster/driver information center"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Climate control controller"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Headlamp high beam relay"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "15A",
+     "Mid bussed electrical center, rear heated seats, universal home remote system"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low beam - left"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "Brake transmission shift interlock system"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "",
+     "Starting system"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low beam - right"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer pump"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "15A",
+     "OnStar/rear seat entertainment"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "30A",
+     "Radio amplifier"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "15A",
+     "Supplemental brake assist"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Parking lamps relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "IGN 1 (gas), ECM (diesel)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High beam headlamp - right"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Daytime running lamps relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlamp low beam relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Air conditioning compressor relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Windshield washer pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-2006-genid-g2-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Special equipment option accessory"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Windshield wipers"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller accessory"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Ignition, heated seats"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Four-wheel drive system, auxiliary battery"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Climate control system"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Climate control system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Cruise control, power take off (PTO)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "TCM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Vehicle stoplamps, brake module, electronic throttle control module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Driver door module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Vehicle and trailer high mounted stoplamp"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Left turn signal/stop trailer"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Right turn signal/stop trailer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Left turn signals and sidemarkers"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Right turn signals and sidemarkers"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Truck body controller"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Truck body controller"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Power door lock system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "Flasher module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Truck body controller"
+    ],
+    [
+     "CB 1",
+     "Circuit breaker ATO",
+     "",
+     "Left power windows circuit breaker"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power door lock relay (lock function)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power door lock relay (unlock function)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Power door lock relay (driver door unlock function)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Center Instrument Panel Utility Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-2006-genid-g2-2.webp",
+   "fuses": [
+    [
+     "SEO",
+     "Relay",
+     "",
+     "Special equipment option"
+    ],
+    [
+     "TRAILER",
+     "Relay",
+     "",
+     "Trailer brake wiring"
+    ],
+    [
+     "SL RIDE",
+     "Relay",
+     "",
+     "Ride control harness connection"
+    ],
+    [
+     "HDLR 2",
+     "Relay",
+     "",
+     "Headliner wiring connector"
+    ],
+    [
+     "BODY",
+     "Relay",
+     "",
+     "Body wiring connector"
+    ],
+    [
+     "DEFOG",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "HDLNR 1",
+     "Relay",
+     "",
+     "Headliner wiring connector 1"
+    ],
+    [
+     "CB SEAT",
+     "Circuit breaker ATO",
+     "",
+     "Driver and passenger seat module circuit breaker"
+    ],
+    [
+     "CB RT DOOR",
+     "Circuit breaker ATO",
+     "",
+     "Right power windows circuit breaker"
+    ],
+    [
+     "INFO",
+     "Relay",
+     "",
+     "Infotainment harness connection"
+    ],
+    [
+     "FRT PRK EXPT",
+     "Other",
+     "",
+     "FRT PRK EXPT"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Auxiliary Electric Cooling Fan Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-sierra-2006-genid-g2-3.webp",
+   "fuses": [
+    [
+     "COOL/FAN",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan"
+    ],
+    [
+     "COOL/FAN",
+     "Fuse MINI",
+     "",
+     "Cooling fan relay fuse"
+    ],
+    [
+     "COOL/FAN",
+     "Fuse FMX/JCase",
+     "",
+     "Cooling fan fuse"
+    ],
+    [
+     "COOL/FAN 1",
+     "Relay",
+     "",
+     "Cooling fan relay 1"
+    ],
+    [
+     "COOL/FAN 3",
+     "Relay",
+     "",
+     "Cooling fan relay 3"
+    ],
+    [
+     "COOL/FAN 2",
+     "Relay",
+     "",
+     "Cooling fan relay 2"
+    ]
+   ]
+  }
+ ]
+}
