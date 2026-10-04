@@ -1,0 +1,432 @@
+{
+ "make_slug": "ford",
+ "model_slug": "explorer-ev",
+ "brand_db": "Ford",
+ "model_db_name": "Explorer EV",
+ "model_id": 1796,
+ "generation_name": "1st generation (\"CX740\")",
+ "generation_code": "g1",
+ "year_start": 2025,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/ford/explorer-ev/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Under Hood Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-ev-2025-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse ATO",
+     "7.5A",
+     "Powertrain control module relay, ABS-ESP control module"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "Inverter front powertrain, inverter rear powertrain, onboard charger"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "30A",
+     "Left-hand headlamp"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "30A",
+     "Right-hand headlamp"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "7.5A",
+     "Front radar distance control"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "7.5A",
+     "Air conditioning system"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "7.5A",
+     "Pedestrian alert system"
+    ],
+    [
+     "F13",
+     "Fuse ATO",
+     "25A",
+     "ABS-ESP control module"
+    ],
+    [
+     "F15",
+     "Fuse MAXI",
+     "40A",
+     "ABS-ESP control module"
+    ],
+    [
+     "F16",
+     "Fuse MAXI",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "F23",
+     "Fuse ATO",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "F24",
+     "Fuse ATO",
+     "5A",
+     "Cooling fan control module"
+    ],
+    [
+     "F25",
+     "Fuse ATO",
+     "15A",
+     "Coolant pump, HV traction battery pre-heater"
+    ],
+    [
+     "F26",
+     "Fuse ATO",
+     "15A",
+     "Coolant pump, radiator shutter"
+    ],
+    [
+     "F32",
+     "Fuse MAXI",
+     "50A",
+     "Brake booster"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Air conditioning system relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-explorer-ev-2025-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "Restraints control module"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "25A",
+     "Trailer tow control module"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "7.5A",
+     "Front camera assistance system"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "25A",
+     "Body control module, left-hand exterior lamps"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "30A",
+     "Body control module, interior lighting, ambient lighting module, trunk lighting, vanity mirror"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "Heated front seats"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "30A",
+     "Left-hand front door module, left-hand rear door module"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "15A",
+     "Trailer tow control module"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "40A",
+     "Body control module, liftgate locking system, dual washer system"
+    ],
+    [
+     "14",
+     "Fuse MAXI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Parking assist control module, blind spot detection control modules"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Keyless access control module, keyless access sensors, steering column lock, hands-free liftgate control module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, on-board communication control module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Phone wireless charger"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Top-view camera control module, rear view camera"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "Trans-receiver control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "USB port center console"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "30A",
+     "Right-hand front door module, right-hand rear door module"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "10A",
+     "HV traction battery service disconnect, HV safety line"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "15A",
+     "Trailer tow control module"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "20A",
+     "Multi-function display"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "25A",
+     "Trailer tow control module"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "25A",
+     "Body control module, right-hand exterior lamps"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "15A",
+     "Air conditioning control module"
+    ],
+    [
+     "36",
+     "Fuse MAXI",
+     "40A",
+     "Blower regulator control module"
+    ],
+    [
+     "37",
+     "Fuse MAXI",
+     "30A",
+     "Rear liftgate control module"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "Front seat lumbar control module"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "Steering column control module"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Anti-theft alarm"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "5A",
+     "Data gateway control module"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "USB port second row"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "7.5A",
+     "Interior temperature sensor, heated rear window relay, interior carbon-dioxide sensor"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "7.5A",
+     "Light switch, rain and light sensor, anti-theft sensor, on-board diagnostic interface, external function panel, headliner control module, power window control panel"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "5A",
+     "Steering column control module"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Center display, head-up display"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "15A",
+     "Center display movement system"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "20A",
+     "Trunk 12V power socket"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "7.5A",
+     "Trunk 12V power socket relay"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "7.5A",
+     "On-board diagnostic interface"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "5A",
+     "Inverter front powertrain, inverter rear powertrain"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "7.5A",
+     "Auto-dimming interior mirror"
+    ],
+    [
+     "66",
+     "Fuse ATO",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "67",
+     "Fuse MAXI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Trunk 12V power socket relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Switched positive relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ]
+   ]
+  }
+ ]
+}
