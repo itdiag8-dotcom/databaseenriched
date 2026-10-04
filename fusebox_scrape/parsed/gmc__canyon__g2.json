@@ -1,0 +1,565 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "canyon",
+ "brand_db": "GMC",
+ "model_db_name": "Canyon",
+ "model_id": 1977,
+ "generation_name": "2nd generation (GMT 31XX)",
+ "generation_code": "g2",
+ "year_start": 2015,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/gmc/canyon/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-canyon-2022-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "",
+     "TCM battery power"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "",
+     "ECM battery power"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "",
+     "ECM / ICCM / fuel pump power module run-crank"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "",
+     "Cargo lamp / bed lighting"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "Fuel injectors even"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "",
+     "Fuel injectors odd"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Engine control module ignition"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Misc 1 - oxygen/MAF/humidity/induction air temp/throttle inlet pressure sensors"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "TCM run/crank"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Front axle actuator"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Aeroshutters"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Driver heated seat"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Passenger heated seat"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "Body control module 3 - right low beam, right front turn signal, park lamps"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Fuel pump power module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "Integrated chassis control module"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Center high mounted stop lamp"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Right high-beam headlamp"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "",
+     "Left high-beam headlamp"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "",
+     "Engine control module 2"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "",
+     "Misc 2 - cam phasing / active fuel management / engine oil & canister purge solenoids / oxygen sensor"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "",
+     "Trailer parking lamp"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "",
+     "Washer pump"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "",
+     "Mirror defogger"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "",
+     "Trailer reverse lamps"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "",
+     "Left trailer stop lamp/turn lamp"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "",
+     "Right trailer stop lamp/turn lamp"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "",
+     "Battery regulated voltage control"
+    ],
+    [
+     "F06",
+     "Fuse FMX/JCase",
+     "",
+     "Front wipers"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "",
+     "Front blower"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "",
+     "ABS valves"
+    ],
+    [
+     "F24",
+     "Fuse FMX/JCase",
+     "",
+     "Trailer"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "",
+     "Transfer case electronic control"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "",
+     "ABS pump"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "Trailer brake control module"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "F45",
+     "Fuse FMX/JCase",
+     "",
+     "Brake vacuum pump"
+    ],
+    [
+     "F74",
+     "Fuse MIDI",
+     "",
+     "Generator"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "K04",
+     "Relay",
+     "",
+     "Wiper speed relay"
+    ],
+    [
+     "K05",
+     "Relay",
+     "",
+     "Wiper control relay"
+    ],
+    [
+     "K06",
+     "Relay",
+     "",
+     "Cargo lamp / bed lighting relay"
+    ],
+    [
+     "K11",
+     "Relay",
+     "",
+     "Center high mounted stop lamp relay"
+    ],
+    [
+     "K13",
+     "Relay",
+     "",
+     "Brake vacuum pump relay"
+    ],
+    [
+     "K14",
+     "Relay",
+     "",
+     "Trailer park lamps relay"
+    ],
+    [
+     "K07",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "K15",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "K17",
+     "Relay",
+     "",
+     "Rear window/mirror defogger relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-canyon-2022-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MICRO2",
+     "",
+     "Body control module 1 - indicator, dimming control, RAP, relay coil control, rear license lamp, washer relay, run/crank relay, cruise/torque control signal"
+    ],
+    [
+     "F04",
+     "Fuse MICRO2",
+     "",
+     "Steering wheel controls"
+    ],
+    [
+     "F05",
+     "Fuse MICRO2",
+     "",
+     "Body control module 2 - interior lamp control, accessory voltage, backup lamp relay, park lock solenoid, trailer brake apply signal"
+    ],
+    [
+     "F08",
+     "Fuse MICRO2",
+     "",
+     "Mirror window module"
+    ],
+    [
+     "F09",
+     "Fuse MICRO2",
+     "",
+     "Instrument panel cluster"
+    ],
+    [
+     "F11",
+     "Fuse MICRO2",
+     "",
+     "Body control module 8 - door lock/unlock actuator controls"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "",
+     "Radio / infotainment"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "",
+     "Body control module 6 - LED backlight dimming, interior lamps, reverse/backup lamps, stop lamp relay"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "",
+     "Communication gateway module"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "",
+     "Body control module 4 - left low beam, right park lamp, left rear stop lamp, right rear park lamp"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "",
+     "HVAC ignition / auxiliary heater"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "",
+     "Body control module 7 - right rear stop lamp, left front turn signal, standing lamp relay"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "",
+     "Misc run/crank - rear vision camera / transfer case control module (4WD) / inside rear view mirror"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "",
+     "Front camera / rear park assist"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls backlighting"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "",
+     "Front vented seats"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "",
+     "PRNDL display / wireless charging module / USB rear"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Discrete logic ignition sensor"
+    ],
+    [
+     "F13",
+     "Fuse MICRO3",
+     "",
+     "OnStar / HVAC"
+    ],
+    [
+     "F18",
+     "Fuse MICRO3",
+     "",
+     "Airbag / sensing & diagnostic module / automatic occupant sensing module"
+    ],
+    [
+     "F23",
+     "Fuse MICRO3",
+     "",
+     "Data link connector / USB front"
+    ],
+    [
+     "F28",
+     "Fuse MICRO3",
+     "",
+     "Instrument panel cluster / automatic occupant sensing display"
+    ],
+    [
+     "F33",
+     "Fuse MICRO3",
+     "",
+     "Heated steering wheel / communication gateway module ignition"
+    ],
+    [
+     "F39",
+     "Fuse FMM/MCase",
+     "",
+     "Auxiliary power outlet 2"
+    ],
+    [
+     "F41",
+     "Fuse FMM/MCase",
+     "",
+     "Auxiliary power outlet 1 / cigarette lighter"
+    ],
+    [
+     "F42",
+     "Fuse FMM/MCase",
+     "",
+     "Left power window"
+    ],
+    [
+     "F43",
+     "Fuse FMM/MCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "F45",
+     "Fuse FMM/MCase",
+     "",
+     "Right power window"
+    ],
+    [
+     "F46",
+     "Fuse FMM/MCase",
+     "",
+     "Passenger power seat"
+    ],
+    [
+     "F44",
+     "Fuse FMX/JCase",
+     "",
+     "Auxiliary power outlet"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Block (bottom side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-canyon-2022-genid-g2-2.webp",
+   "fuses": [
+    [
+     "K1",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ]
+   ]
+  }
+ ]
+}
