@@ -1,0 +1,396 @@
+{
+ "make_slug": "holden",
+ "model_slug": "ute",
+ "brand_db": "Holden",
+ "model_db_name": "Ute",
+ "model_id": 2100,
+ "generation_name": "1st generation (VU, VY, VZ)",
+ "generation_code": "g1",
+ "year_start": 2000,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/holden/ute/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-ute-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Circuit breaker ATO",
+     "",
+     "Power windows"
+    ],
+    [
+     "2",
+     "Circuit breaker ATO",
+     "",
+     "Power seats"
+    ],
+    [
+     "3",
+     "Circuit breaker ATO",
+     "",
+     "Sunroof"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Instrument illumination, park lamps"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Stop lamps"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Interior illumination"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Antenna drive / hazard warning"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument illumination"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Turn signal"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "ECC, instruments, trip computer"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Cruise control / power mirrors"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Radio / navigation / phone"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Accessory socket"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Wiper and washer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Theft horn / power door locks / power windows"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Climate control (ECC)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Heated rear window"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Radio / navigation / phone"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer amplifier"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Flasher unit"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory control relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Ignition control relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Blower inhibit relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Park lamps relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Interior illumination relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Defogger relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-ute-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "21",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Engine cooling small fan fusible link"
+    ],
+    [
+     "22",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "Blower fusible link"
+    ],
+    [
+     "23",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Main fusible link"
+    ],
+    [
+     "24",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Engine fusible link"
+    ],
+    [
+     "25",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "ABS fusible link (V6)"
+    ],
+    [
+     "25",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "ABS fusible link (V8)"
+    ],
+    [
+     "26",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Lighting fusible link"
+    ],
+    [
+     "27",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Engine cooling large fan fusible link"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "ECM/TCM/BCM and telematics"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "RH headlamp"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "LH headlamp"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Engine sensor 1"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Injectors/ignition odd"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Injectors/ignition even"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "25A",
+     "ESP / traction control"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Engine cooling fan relay 2"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Engine control relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower fan relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Engine cooling fan relay 1"
+    ]
+   ]
+  }
+ ]
+}

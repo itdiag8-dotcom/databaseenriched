@@ -1,0 +1,534 @@
+{
+ "make_slug": "holden",
+ "model_slug": "ute",
+ "brand_db": "Holden",
+ "model_db_name": "Ute",
+ "model_id": 2100,
+ "generation_name": "2nd generation (VE, VF)",
+ "generation_code": "g2",
+ "year_start": 2007,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/holden/ute/info/fusebox/2009",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-ute-2009-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "SIR (SRS)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rear end release"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Door locks"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Inadvertent power / LED dim"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Courtesy lights / right front turn signal"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Turn signal right, side and rear"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Turn signals left lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "BCM logic"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Stop lamps / park assist"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Console lighting"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "2A",
+     "Ignition switch / theft"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Front auxiliary power outlet"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "2A",
+     "Exterior mirrors"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Phone / key lock / ISRVM / rain sensor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel illumination"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "2A",
+     "RAP control power window"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "20A",
+     "Window battery"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "20A",
+     "Power windows"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "20A",
+     "Power seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Retained accessory power relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "All door lock relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Passenger door unlock relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Boot release relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Driver door unlock relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Accessory power relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Blower relay (LHD only)"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-ute-2009-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Comm enable"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "A/C control - HVAC control module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Backup lamps"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "ABS valves"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Horn main"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "TCM"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Left low beam (base)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Left low beam (HID)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right low beam (base)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Right low beam (HID)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Horn theft"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Front washer"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Reverse lockout"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "Real time damping"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "ECM 1"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Even coils / injectors"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Emission devices 2"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Emission devices 1"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Odd coils / injectors"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "HVAC ignition (LHD only)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Phone / cruise"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Ignition engine"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Airbags"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Right park lamp"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Left park lamp"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 3"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 1"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 2"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower motor"
+    ],
+    [
+     "53",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine cooling fan 1 (right)"
+    ],
+    [
+     "55",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine cooling fan 2 (left)"
+    ],
+    [
+     "63",
+     "Relay",
+     "",
+     "Comms enable relay"
+    ],
+    [
+     "65",
+     "Relay",
+     "",
+     "Backup lamps relay"
+    ],
+    [
+     "66",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "67",
+     "Relay",
+     "",
+     "Headlamp low beam relay (HID)"
+    ],
+    [
+     "69",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "70",
+     "Relay",
+     "",
+     "Front wiper high relay"
+    ],
+    [
+     "71",
+     "Relay",
+     "",
+     "Front wiper low relay"
+    ],
+    [
+     "72",
+     "Relay",
+     "",
+     "Headlamp high beam relay (HID)"
+    ],
+    [
+     "73",
+     "Relay",
+     "",
+     "Crank relay"
+    ],
+    [
+     "74",
+     "Relay",
+     "",
+     "Powertrain relay"
+    ],
+    [
+     "75",
+     "Relay",
+     "",
+     "Ignition main relay"
+    ],
+    [
+     "76",
+     "Relay",
+     "",
+     "Front washer pump relay"
+    ],
+    [
+     "77",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "78",
+     "Relay",
+     "",
+     "Engine cooling fan 1 relay"
+    ],
+    [
+     "79",
+     "Relay",
+     "",
+     "Park lamps relay"
+    ],
+    [
+     "80",
+     "Relay",
+     "",
+     "Engine cooling fan 2 relay"
+    ],
+    [
+     "81",
+     "Relay",
+     "",
+     "Engine cooling fan 3 relay"
+    ]
+   ]
+  }
+ ]
+}
