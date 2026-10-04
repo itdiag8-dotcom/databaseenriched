@@ -1,0 +1,354 @@
+{
+ "make_slug": "great-wall",
+ "model_slug": "voleex-c30",
+ "brand_db": "Great Wall",
+ "model_db_name": "Voleex C30",
+ "model_id": 2029,
+ "generation_name": "1st generation (CH041)",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/great-wall/voleex-c30/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-great-wall-voleex-c30-2021-genid-g1-0.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "ABS brake system control unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner compressor"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "AM2"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan low speed"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan high speed"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Starter"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Power and start system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "25A",
+     "Electronic injection system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "High beam light"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Low beam light"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Electronic injection system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Electronic injection"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Radiator fan (high speed)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Radiator fan (low speed)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "CDMP"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "High beam lights"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Low beam lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-great-wall-voleex-c30-2021-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(INSTRUMENTS) Instrument cluster"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(ROOF LAMP) Dome and interior light"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "(FR FOG) Front fog lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(RR FOG) Rear fog lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "(CENTRAL LOCK) Power door locks"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Brake lamp"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) Audio system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "25A",
+     "(DEF) Rear window defogger"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(POSITION LAMP) Parking lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "(CIGAR LIGHTER) Cigar lighter / power outlet"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(ACC) Accessory circuits"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(ALT-S) Battery and charging system"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BLOWER) AC blower motor"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "(WINDOW) Power windows"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "(AM1) Starter system"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "25A",
+     "(SUN ROOF) Sunroof"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Alarm switch"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "U1"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(TURNING LAMP) Turn signal"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "(REVERSING LAMP) Backup lights"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "(SEAT HEATER) Seat heater"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "(FR WIPER) Front wipers"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "(AIRBAG) Airbag"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(FR FOG RELAY) Front fog lights"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(RR FOG RELAY) Rear fog lights"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(DEF RELAY) Rear window defogger"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "(BLOWER RELAY) AC blower motor"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(BLOWER RELAY 2) AC blower motor"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(WINDOW RELAY) Power windows"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Direction (turn signal) relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "(POSITION LAMP RELAY) Parking lights"
+    ]
+   ]
+  }
+ ]
+}

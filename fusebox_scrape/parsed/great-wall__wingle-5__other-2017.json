@@ -1,0 +1,360 @@
+{
+ "make_slug": "great-wall",
+ "model_slug": "wingle-5",
+ "brand_db": "Great Wall",
+ "model_db_name": "Wingle",
+ "model_id": 2030,
+ "generation_name": "Other versions (Chile 2.0 Diesel)",
+ "generation_code": "other-2017",
+ "year_start": 2017,
+ "year_end": 2017,
+ "trim_label": "Chile 2.0 Diesel",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/great-wall/wingle-5/info/fusebox/2017/chile-engine-2.0-diesel",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-great-wall-wingle-5-2017-country-chile-engine-2.0-engine_fuel-diesel-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Starter"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Engine ignition"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "4WD ignition"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Turn light"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Reverse light"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Instruments"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Left window"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "30A",
+     "Right window"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "4WD battery"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Alarm light"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "CD + roof lamp"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Remote locking"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "CD (radio)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "Seat heater"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "5A",
+     "Reverse mirror"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Wiper"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "5A",
+     "A/C ignition"
+    ],
+    [
+     "J1",
+     "Relay",
+     "",
+     "Left turn signal relay"
+    ],
+    [
+     "J2",
+     "Relay",
+     "",
+     "Window relay"
+    ],
+    [
+     "J3",
+     "Relay",
+     "",
+     "Tail/box light relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-great-wall-wingle-5-2017-country-chile-engine-2.0-engine_fuel-diesel-1.webp",
+   "fuses": [
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Engine ECU"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "(A/C) Air conditioning"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "(COMPRESSOR) A/C compressor"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "(HI BEAM) Headlights high beam"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "(LO BEAM) Headlights low beam"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "(Fr-FOG) Front fog lights"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "(Re-FOG) Rear fog lights"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "I/LP"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "(Re-DEFROST) Rear window defogger"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "(ENGINE) Engine control system"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "(BRAKE LIGHT) Stop lights"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "25A",
+     "(ABS2) Anti-lock braking system"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "(ANTI-THEFT) Anti-theft system"
+    ],
+    [
+     "L8",
+     "Fuse FMX/JCase",
+     "30A",
+     "(BLOWER) AC blower motor"
+    ],
+    [
+     "L9",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "L10",
+     "Fuse FMX/JCase",
+     "60A",
+     "(STARTER FAN) Electric cooling fan"
+    ],
+    [
+     "L10",
+     "Fuse FMX/JCase",
+     "50A",
+     "(STARTER FAN) Electric cooling fan"
+    ],
+    [
+     "L11",
+     "Fuse FMX/JCase",
+     "20A",
+     "(CONDENSER FAN) AC condenser fan"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump relay / condenser fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "High-speed fan relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(REAR-FOG RELAY) Rear fog lights"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(Re-DEFROST RELAY) Rear window defogger"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(BLOWER RELAY) AC blower motor"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(LOW-BEAM RELAY) Headlights low beam"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Low-speed fan relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(COMPRESSOR RELAY) A/C compressor"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(HORN RELAY) Horn"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(MAIN RELAY) Main"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(T/LP RELAY) Tail lights"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "(FRONT-FOG RELAY) Front fog lights"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "R/F relay"
+    ]
+   ]
+  }
+ ]
+}
