@@ -1,0 +1,757 @@
+{
+ "make_slug": "holden",
+ "model_slug": "commodore",
+ "brand_db": "Holden",
+ "model_db_name": "Commodore",
+ "model_id": 2074,
+ "generation_name": "4th generation (VE, VF)",
+ "generation_code": "g4",
+ "year_start": 2006,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/holden/commodore/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse and relay",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-commodore-2017-genid-g4-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear demister"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Spot lamp RH"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "Washer pump"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Emergency vehicle front lamp"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Driving lamps"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "25A",
+     "Headlamp washer"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Spot lamp LH"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS pump"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "30A",
+     "ABS valves"
+    ],
+    [
+     "F18",
+     "Fuse MICRO3",
+     "15A",
+     "Heated front seats"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "7.5A",
+     "Front passenger window switch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "F24",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "F25",
+     "Fuse MICRO3",
+     "5A",
+     "AOS ignition / IPC ignition"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "LRBEC ignition"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "Ignition/injectors even (V8)"
+    ],
+    [
+     "F29",
+     "Fuse MICRO3",
+     "15A",
+     "ECM (V8), ignition odd (V6) / emissions 1"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Ignition - IP / body"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Fuel system control module ignition"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "5A",
+     "ESCL"
+    ],
+    [
+     "F37",
+     "Fuse MICRO3",
+     "15A",
+     "Emissions 2 / ignition even (V6)"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "ECM (V6), injectors/ignition odd (V8)"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "Intercooler pump"
+    ],
+    [
+     "F41",
+     "Fuse MICRO3",
+     "15A",
+     "Transmission control module / electric power steering"
+    ],
+    [
+     "F42",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "15A",
+     "LH HID headlamp"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "15A",
+     "RH HID headlamp"
+    ],
+    [
+     "F46",
+     "Fuse MICRO3",
+     "10A",
+     "LH and RH high beam headlamp"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F48",
+     "Fuse FMX/JCase",
+     "60A",
+     "Engine cooling fan"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "10A",
+     "Automatic headlamp levelling"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module ignition"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "15A",
+     "Engine control module ignition"
+    ],
+    [
+     "F52",
+     "Fuse FMX/JCase",
+     "30A",
+     "Brake vacuum pump"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "10A",
+     "Vaporiser control module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Driving lamps"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear washer pump"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front washer pump"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear demister"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front wiper control"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Wiper speed"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Intercooler pump"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Rear wiper control"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Low beam headlamps"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "High beam headlamps"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Brake vacuum pump"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Air conditioning control"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "Horn"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse and relay index",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-commodore-2017-genid-g4-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver front / LH rear window"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Emergency vehicle accessory"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Boot release"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passive entry passive start - battery 2"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Fuel system control module"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "MRTD"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Decklid flashing lamps / EDI module"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary battery"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Rear seat entertainment"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Automatic headlamp levelling"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "Exhaust valve"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "OnStar"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "5A",
+     "Mirror/window module"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Canister vent solenoid"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "Passive entry passive start - battery 1"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Memory seat module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "F24",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger front / RH rear window"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric park brake"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Tailgate module"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Camera ignition"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Front vent seat ignition"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Trailer module ignition"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Advanced park assist / side blind zone alert"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Engine control module"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary gauges"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Retained accessory power"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "5A",
+     "Battery voltage sensing"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "30A",
+     "Tailgate motor"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory power outlet"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "Interior accessory power outlet"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Front lighter"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Boot release"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Run"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Retained accessory power"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Logistics mode"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Exhaust valve"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Child locks (2014)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Cabin fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-commodore-2017-genid-g4-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Body control module 1"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic link connector"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Body control module 2"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "2A",
+     "Ignition switch"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Electric steering control lock"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "30A",
+     "Shunt 1"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Airbag / AOS"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Instrument cluster"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "HVAC control module"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Rain sensor"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Body control module 3"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "2A",
+     "SWC backlight"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "30A",
+     "Shunt 2"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Body control module 4"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Body control module 5"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Body control module 6"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module 8"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower fan"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "Accessories"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Body control module 7"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Logistics mode"
+    ]
+   ]
+  }
+ ]
+}
