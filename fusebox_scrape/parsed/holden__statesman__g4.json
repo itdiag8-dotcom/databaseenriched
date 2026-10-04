@@ -1,0 +1,625 @@
+{
+ "make_slug": "holden",
+ "model_slug": "statesman",
+ "brand_db": "Holden",
+ "model_db_name": "Statesman",
+ "model_id": 2094,
+ "generation_name": "4th generation (WM)",
+ "generation_code": "g4",
+ "year_start": 2006,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/holden/statesman/info/fusebox/2009",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-statesman-2009-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Reverse lockout"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit (ECM 1)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Emission 2"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Odd coils / injectors"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Even coils / injectors"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Emission 1"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Theft horn"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Front washer"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C blower motor (HVAC IGN)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Ignition engine"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Phone / cruise"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Left low beam (base)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Left low beam (HID)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Right low beam (base)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Right low beam (HID)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "Headlight wash"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Comm enable"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "A/C control - HVAC control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "ABS valves"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "25A",
+     "Realtime damping"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Right parking light"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Left parking light"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Transmission control unit"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "20A",
+     "Brake vacuum pump"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "53",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 1"
+    ],
+    [
+     "54",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 1"
+    ],
+    [
+     "56",
+     "Fuse FMX/JCase",
+     "50A",
+     "Battery main 2"
+    ],
+    [
+     "57",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "58",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower motor"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine cooling fan 1 (right)"
+    ],
+    [
+     "61",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine cooling fan 2 (left)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front wiper high"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front wiper low"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Ignition main"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front windscreen wash"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Parking lights"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Headlight low beam"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlight high beam"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Comm enable"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Reverse lights"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Front fog light"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Headlight washer"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Crank"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Engine cooling fan 1"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Engine cooling fan 3"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "Engine cooling fan 2"
+    ],
+    [
+     "R21",
+     "Relay",
+     "",
+     "Vacuum pump (MY2010-2012)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-statesman-2009-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "SIR (SRS)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rear end release"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Rear end release"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "Power door lock system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Inadvertent power / LED dim"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Courtesy lights / right front turn light"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Right rear turn light / right side indicator"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Instruments / centre display / RFA / DLC"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Left front turn light / left side indicator"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "BCM logic"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Stop lights / parking assist"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Console lighting"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "2A",
+     "Ignition switch / theft deterrent"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter / power outlet"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Front auxiliary power outlet"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "2A",
+     "Outside mirror / RPA option"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Phone / key lock / ISRVM / rain sensor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel illumination"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "2A",
+     "RAP control power window"
+    ],
+    [
+     "29",
+     "Circuit breaker ATO",
+     "",
+     "Power windows battery"
+    ],
+    [
+     "30",
+     "Circuit breaker ATO",
+     "",
+     "Power windows RAP"
+    ],
+    [
+     "31",
+     "Circuit breaker ATO",
+     "",
+     "Power seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Retained accessory power"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "All door lock"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Passenger door unlock"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear end release"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Driver door unlock"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Accessory power"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fuel pump"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-statesman-2009-genid-g4-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Rear seat entertainment"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Amplifier - audio system"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Navigation / telematics / phone"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "25A",
+     "Radio and infotainment"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory power outlet"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Trailer"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit (ECM BATT)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "RVC sense"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ]
+   ]
+  }
+ ]
+}

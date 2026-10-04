@@ -1,0 +1,625 @@
+{
+ "make_slug": "holden",
+ "model_slug": "statesman",
+ "brand_db": "Holden",
+ "model_db_name": "Statesman",
+ "model_id": 2094,
+ "generation_name": "3rd generation (WH, WK, WL)",
+ "generation_code": "g3",
+ "year_start": 1999,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/holden/statesman/info/fusebox/2006/3rd-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Cabin fuses and relays",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-statesman-2006-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Circuit breaker ATO",
+     "",
+     "Power windows"
+    ],
+    [
+     "2",
+     "Circuit breaker ATO",
+     "",
+     "Power seats"
+    ],
+    [
+     "3",
+     "Circuit breaker ATO",
+     "",
+     "Sunroof"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Park lamps"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Stop lamps"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Interior illumination"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Hazard lamps / antenna drive via BCM"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Ignition switch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument illumination"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Turn signals and back-up lamps"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "ECC, trip computer, instruments, telematics"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Cruise, power mirrors, level ride"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Radio, MDF, navigation, cell phone"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Accessory socket"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Front wiper/washer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Power locks, power windows, theft horn"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Instruments and climate control"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Heated rear window"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Radio, cell phone, navigation"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Entertainment system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "SRS"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brakes"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Flasher unit"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory control relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Ignition control relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Blower inhibit relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Park lamps relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Hazard illumination relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Interior illumination relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Defog relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse Panel (Type 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-statesman-2006-genid-g3-1.webp",
+   "fuses": [
+    [
+     "21",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "RAD FAN 1 fusible link"
+    ],
+    [
+     "22",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "Blower fusible link"
+    ],
+    [
+     "23",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Main fusible link"
+    ],
+    [
+     "24",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Engine fusible link"
+    ],
+    [
+     "25",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "ABS fusible link (V8)"
+    ],
+    [
+     "25",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "ABS fusible link (V6)"
+    ],
+    [
+     "26",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Lighting fusible link"
+    ],
+    [
+     "27",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "RAD FAN 2 fusible link"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Engine control BCM"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "RH headlamp"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "LH headlamp"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Auto transmission"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Engine sensor"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Injectors/ignition"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Injectors/ignition"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "25A",
+     "T. relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "ENG SSR 2 (Monaro)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "25A",
+     "Level ride (Monaro)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch (V6 Monaro)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "TAC CM (V8 Monaro)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Level ride relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Left horn relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "BTSI / brake lamp relay (Monaro)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlamp high (Monaro)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Radiator fan high speed relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Engine control relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Heated rear window (Monaro)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower fan relay (Monaro)"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Radiator fan low speed relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse Panel (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-statesman-2006-genid-g3-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "Blower"
+    ],
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Main"
+    ],
+    [
+     "3",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Engine"
+    ],
+    [
+     "4",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "ABS"
+    ],
+    [
+     "5",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Lighting"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Ignition"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Injectors"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Engine sensors"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Engine control"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "LH headlamps"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "RH headlamps"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "High beam"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Engine fan high speed"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Air conditioner"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Theft horn"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Engine control"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Engine fan low speed"
+    ]
+   ]
+  }
+ ]
+}
