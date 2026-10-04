@@ -1,0 +1,246 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "weekend",
+ "brand_db": "Fiat",
+ "model_db_name": "Weekend",
+ "model_id": 1700,
+ "generation_name": "1st generation (\"Project 178\")",
+ "generation_code": "g1",
+ "year_start": 1997,
+ "year_end": 2020,
+ "trim_label": "R3",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/fiat/weekend/info/fusebox/2010/restyle-r3",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-weekend-2010-genid-g1-restyle-r3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Windshield wipers"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Front left power window"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "Front right power window"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Power window control unit"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "7.5A",
+     "Front left and rear right position lights, license plate light, control illumination"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "7.5A",
+     "Front right and rear left position lights"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Brake lights"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "Instrument cluster power supply, reverse lights, airbag, glove box lighting"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Internal blower fan"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Interior light assembly, radio, diagnostic socket, anti-theft"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "ABS"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Fiat Code"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Rear right power window"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuses in the Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-weekend-2010-genid-g1-restyle-r3-1.webp",
+   "fuses": [
+    [
+     "F29",
+     "Fuse MAXI",
+     "30A",
+     "Injection, Fiat Code, electric fuel pump"
+    ],
+    [
+     "F28",
+     "Fuse MAXI",
+     "40A",
+     "Ignition device"
+    ],
+    [
+     "F27",
+     "Fuse MAXI",
+     "50A",
+     "General power supply for services"
+    ],
+    [
+     "F26",
+     "Fuse MAXI",
+     "60A",
+     "General power supply for services"
+    ],
+    [
+     "F30",
+     "Fuse MAXI",
+     "30A",
+     "Radiator electric fan"
+    ],
+    [
+     "F30",
+     "Fuse MAXI",
+     "40A",
+     "Radiator electric fan [with air conditioning]"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "10A",
+     "Fiat Code and injection"
+    ],
+    [
+     "F31",
+     "Fuse ATO",
+     "15A",
+     "Fiat Code and injection [for some versions]"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "15A",
+     "Heated lambda sensor and canister"
+    ],
+    [
+     "F32",
+     "Fuse ATO",
+     "10A",
+     "Heated lambda sensor and canister [for some versions]"
+    ],
+    [
+     "F33",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump [only for Tetrafuel version]"
+    ],
+    [
+     "A",
+     "Relay",
+     "",
+     "ABS protection fuse [some versions]"
+    ]
+   ]
+  }
+ ]
+}
