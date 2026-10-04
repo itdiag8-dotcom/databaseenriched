@@ -1,0 +1,366 @@
+{
+ "make_slug": "ford",
+ "model_slug": "fiesta",
+ "brand_db": "Ford",
+ "model_db_name": "Fiesta",
+ "model_id": 1827,
+ "generation_name": "Mk4",
+ "generation_code": "g4",
+ "year_start": 1996,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/ford/fiesta/info/fusebox/2003/mk4",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Central Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fiesta-2003-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "15A",
+     "Socket"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "7.5A",
+     "Interior lights, clock, radio station memory"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Rear fog light, anti-theft alarm indicator"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "20A",
+     "Heated rear window"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Horn, hazard lights"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "7.5A",
+     "Left side front position lights"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "7.5A",
+     "Right side front position lights"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Unmarked electronic module power"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "25A",
+     "Battery signal from light switch"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Heated front seats"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "30A",
+     "Central locking, electric windows"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "Wiper motor, washer pump"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Brake light, dashboard"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "7.5A",
+     "Heated mirrors"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "Heater fan motor"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Turn signals"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Engine compartment, unmarked electronic module"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "7.5A",
+     "Engine management, radio, auxiliary relay"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "Light switch ignition signal"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "15A",
+     "Central locking, electric control exterior mirror"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Diagnostic connector"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Auxiliary Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fiesta-2003-genid-g4-1.webp",
+   "fuses": [
+    [
+     "D1",
+     "Diode ATO",
+     "",
+     "Engine management (not in use)"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Left side high beam"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "10A",
+     "Right side high beam"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "10A",
+     "Left side low beam"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "10A",
+     "Right side low beam"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Catalyst"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "15A",
+     "Fuel heater [diesel engine]"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "Engine management"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "20A",
+     "Air conditioning, front fog lights"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "3A",
+     "ABS module"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "30A",
+     "ABS module"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "3A",
+     "Engine management"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "30A",
+     "ABS module or engine cooling fan"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "30A",
+     "Octane adjustment [1.4L engine and 1.25L engine with automatic transmission]"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "10A",
+     "Fuel pump [gasoline engines]"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "3A",
+     "PATS module [diesel engine]"
+    ],
+    [
+     "36",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Engine management, electric fan, fuel pump, glow plug [diesel engine only]"
+    ],
+    [
+     "37",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "Heated windshield"
+    ],
+    [
+     "38",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Central locking, heated rear window"
+    ],
+    [
+     "39",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Vehicle interior"
+    ],
+    [
+     "40",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Ignition"
+    ],
+    [
+     "I",
+     "Relay",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "II",
+     "Relay",
+     "",
+     "Engine management"
+    ],
+    [
+     "III",
+     "Relay",
+     "",
+     "Fuel pump [gasoline engines]"
+    ],
+    [
+     "III",
+     "Relay",
+     "",
+     "Fuel heater [diesel engine]"
+    ],
+    [
+     "IV",
+     "Relay",
+     "",
+     "Front fog lights"
+    ],
+    [
+     "V",
+     "Relay",
+     "",
+     "Low beams"
+    ],
+    [
+     "VI",
+     "Relay",
+     "",
+     "High beams"
+    ],
+    [
+     "VII",
+     "Relay",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "VIII",
+     "Relay",
+     "",
+     "Engine cooling fan"
+    ],
+    [
+     "IX",
+     "Relay",
+     "",
+     "Engine cooling fan"
+    ],
+    [
+     "X",
+     "Relay",
+     "",
+     "Glow plug [diesel engine]"
+    ],
+    [
+     "XI",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "XII",
+     "Relay",
+     "",
+     "Air conditioning, front fog lights"
+    ]
+   ]
+  }
+ ]
+}

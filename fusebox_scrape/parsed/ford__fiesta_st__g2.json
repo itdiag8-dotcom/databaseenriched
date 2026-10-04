@@ -1,0 +1,625 @@
+{
+ "make_slug": "ford",
+ "model_slug": "fiesta-st",
+ "brand_db": "Ford",
+ "model_db_name": "Fiesta ST",
+ "model_id": 1828,
+ "generation_name": "2nd generation (Mk6, ST180/ST200)",
+ "generation_code": "g2",
+ "year_start": 2013,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/ford/fiesta-st/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fiesta-st-2018-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system module"
+    ],
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Stability assist, anti-lock brake system module"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan relay"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "60A",
+     "High-speed cooling fan relay [1.6L EcoBoost]"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "60A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "F4",
+     "Fuse FMM/MCase",
+     "20A",
+     "Body control module, power door locks"
+    ],
+    [
+     "F6",
+     "Fuse FMM/MCase",
+     "40A",
+     "Blower motor relay, blower motor"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "7.5A",
+     "Front fog lamp relay, headlamp high beam relay"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module, right-hand exterior lamps"
+    ],
+    [
+     "F11",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module, left-hand exterior lamps"
+    ],
+    [
+     "F19",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel injectors"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "7.5A",
+     "Mass air flow sensor [1.0L and 1.6L EcoBoost]"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel injectors"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "15A",
+     "Camshaft position sensor, heated oxygen sensor"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "15A",
+     "Ignition coil [1.6L Sigma]"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coil [1.0L and 1.6L EcoBoost]"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "10A",
+     "VCT oil control solenoids, EVAP canister purge valve, R57/R45/R50 relay coils"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "7.5A",
+     "ECSS system [1.6L Flex-fuel]"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "15A",
+     "Active grille shutter, water pump, A/C control module [1.0L EcoBoost]"
+    ],
+    [
+     "F32",
+     "Fuse FMX/JCase",
+     "60A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "F33",
+     "Fuse FMX/JCase",
+     "60A",
+     "Power windows"
+    ],
+    [
+     "F34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Transmission control module [6-speed PowerShift]"
+    ],
+    [
+     "F34",
+     "Fuse FMX/JCase",
+     "60A",
+     "High speed cooling fan [1.0L EcoBoost]"
+    ],
+    [
+     "F35",
+     "Fuse FMM/MCase",
+     "40A",
+     "Anti-lock brake system with electronic stability control"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "30A",
+     "Engine start inhibitor, starter motor solenoid"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "30A",
+     "Heated rear window, heated exterior mirrors"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "20A",
+     "Body control module, battery saver, horn"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "15A",
+     "Body control module, direction indicators"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "7.5A",
+     "Powertrain control module, transmission control module, EVAP canister purge valve"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "10A",
+     "Left-hand front fog lamp"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "10A",
+     "Right-hand front fog lamp"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "10A",
+     "Left-hand high beam"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "10A",
+     "Right-hand high beam"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Headlamp high beam relay"
+    ],
+    [
+     "R44",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R45",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R47",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R50",
+     "Relay",
+     "",
+     "High speed cooling fan [1.0L and 1.6L EcoBoost]"
+    ],
+    [
+     "R51",
+     "Relay",
+     "",
+     "Start inhibit relay"
+    ],
+    [
+     "R52",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R54",
+     "Relay",
+     "",
+     "Reversing lamp relay"
+    ],
+    [
+     "R57",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fiesta-st-2018-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Auto-dimming interior mirror, autowipers, heater relay control"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Passenger airbag deactivation switch, passenger sensing system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Secondary on-board diagnostic control module A"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamps"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster, information and entertainment display"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Moonroof"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Remote keyless entry, remote keyless starting"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Audio unit, SYNC module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Windshield wipers"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Climate control"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Remote keyless entry, remote keyless starting"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Windshield wipers"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Exterior mirrors, power windows"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Stoplamps"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Airbags"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic power assist steering, instrument cluster, ignition, windshield wipers, passive anti-theft system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Accelerator pedal position sensor, powertrain control module, ABS, stability assist"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "Transmission control unit"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Audio unit"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Central locking system"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear power windows"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "20A",
+     "Battery back-up sounder, rear auxiliary power points"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front auxiliary power points"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front power windows"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Driver heated seat relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Passenger heated seat relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Accessory mode remote keyless starting relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Ignition mode remote keyless starting relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Battery back-up sounder, battery saver relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Accessory delay relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fusebox (Body Control Module)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fiesta-st-2018-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1/F2",
+     "Fuse MICRO3",
+     "5A",
+     "Restraints control module (RCM) / in-vehicle temperature sensor"
+    ],
+    [
+     "F3",
+     "Fuse MICRO2",
+     "10A",
+     "Parking aid module"
+    ],
+    [
+     "F4",
+     "Fuse MICRO2",
+     "10A",
+     "Ignition switch / push button start / telematics control unit (TCU) module antenna"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "20A",
+     "Central lock relay / central unlock relay"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "10A",
+     "Roof opening panel module"
+    ],
+    [
+     "F7",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger door module (PDM)"
+    ],
+    [
+     "F8/F9",
+     "Fuse MICRO3",
+     "5A",
+     "Auto-dimming interior mirror / passenger airbag deactivation (PAD) indicator / wireless accessory charging module"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "10A",
+     "Data link connector"
+    ],
+    [
+     "F11/F12",
+     "Fuse MICRO3",
+     "5A",
+     "Intrusion sensor"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "15A",
+     "Driver/fuel flap unlock relay / double/aux lock relay"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "30A",
+     "Driver door module (DDM)"
+    ],
+    [
+     "F15/F16",
+     "Fuse MICRO3",
+     "15A",
+     "Steering column control module (SCCM)"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "15A",
+     "Integrated control panel / SYNC module [APIM]"
+    ],
+    [
+     "F18/F19",
+     "Fuse MICRO3",
+     "7.5A",
+     "Anti-theft alarm horn with integral battery"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "10A",
+     "Anti-theft alarm"
+    ]
+   ]
+  }
+ ]
+}

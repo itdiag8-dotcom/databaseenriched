@@ -1,0 +1,421 @@
+{
+ "make_slug": "ford",
+ "model_slug": "fiesta",
+ "brand_db": "Ford",
+ "model_db_name": "Fiesta",
+ "model_id": 1827,
+ "generation_name": "Mk5",
+ "generation_code": "g5",
+ "year_start": 2002,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/ford/fiesta/info/fusebox/2009/mk5",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Central fuse and relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fiesta-2009-genid-g5-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "3A",
+     "Instrument panel, PCM [Gasoline]"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "20A",
+     "Rear window defogger / electric rearview mirror [5 doors]"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "25A",
+     "Rear window defogger [4 doors]"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "3A",
+     "Alternator [Diesel]"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Transmission control module (AT)"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "Electric door lock"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Hazard lights / turn signal / position light / horn switch"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Electric fan / air conditioning"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Alarm horn"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "High beams"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "7.5A",
+     "Courtesy light"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump [Gasoline]"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "Cigarette lighter / DLC diagnostic connector / electric rearview mirror [4 doors]"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Horn"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "3A",
+     "Instrument panel / PCM / air conditioning"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Heating and ventilation system fan"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "Windshield wiper/washer"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "ABS / rear window defogger switch / door lock / air conditioning"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Brake light / multifunction lever on steering column / PCM / transmission lever module (AT)"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "10A",
+     "Turn signals / reverse light"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "7.5A",
+     "Audio system / accessories"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "3A",
+     "Transmission control module (AT)"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "PCM / fuel pump [Gasoline]"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "20A",
+     "PCM / fuel heater [Diesel]"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "3A",
+     "PATS system - electronic engine immobilizer"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "15A",
+     "PCM / engine sensors"
+    ],
+    [
+     "31",
+     "Circuit breaker MAXI",
+     "",
+     "Power window motor (circuit breaker)"
+    ],
+    [
+     "32",
+     "Diode ATO",
+     "",
+     "Powertrain control module (diode) [Gasoline]"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "3A",
+     "PATS system, electronic immobilizer [Gasoline]"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "15A",
+     "PCM [Gasoline]"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "7.5A",
+     "1st and 2nd oxygen sensor, purge valve, vehicle speed sensor [Gasoline]"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "7.5A",
+     "Fuel pump relay, injectors, low/high speed electric fan relays, A/C relay [Gasoline]"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "15A",
+     "Ignition coil [Gasoline]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Windshield wiper/washer"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump [Gasoline]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High beams"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Low beams"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Electronic engine immobilizer (PATS system)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Reverse light [5-door vehicle]"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Rear window defogger [5 doors only]"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "PCM / reverse light [4-door vehicle, Gasoline]"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Ignition"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine relays and fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fiesta-2009-genid-g5-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "High speed cooling fan [vehicles with A/C]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C clutch or low speed cooling fan [without A/C] / A/C [with A/C]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fog lights"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low speed cooling fan [vehicles with A/C]"
+    ],
+    [
+     "R5",
+     "Fuse ATO",
+     "15A",
+     "Low speed cooling fan [vehicles without A/C]"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Maxifuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fiesta-2009-genid-g5-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plugs [Diesel]"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Engine fan [vehicles with A/C]"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS system [Gasoline]"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS system [Gasoline]"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "60A",
+     "High/low beam, fuel pump, cigarette lighter, DLC, horn, A/C, instrument panel, engine control, audio system, multifunction switch, courtesy light, electric rearview mirror (4 doors)"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition relay"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Rear window defogger / rearview mirror / power door locks / power windows"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger (vehicles without door locks)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "60A",
+     "PCM, ignition, airbag, fog lights, fuel pump, fan, audio system, multifunction switch, instrument panel, oxygen sensor, starter inhibitor, PATS, speed sensor, injectors"
+    ]
+   ]
+  }
+ ]
+}

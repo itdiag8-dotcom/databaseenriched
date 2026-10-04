@@ -1,0 +1,343 @@
+{
+ "make_slug": "ford",
+ "model_slug": "figo",
+ "brand_db": "Ford",
+ "model_db_name": "Figo",
+ "model_id": 1829,
+ "generation_name": "Mk1 (B517)",
+ "generation_code": "g1",
+ "year_start": 2010,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/ford/figo/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Side Junction Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-figo-2014-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F4",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning compressor clutch"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "20A",
+     "ABS valve"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "7.5A",
+     "Power mirrors"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "15A",
+     "Automatic transmission control module"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "10A",
+     "Low beam headlight - left side"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "10A",
+     "Low beam headlight - right side"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "20A",
+     "Heated oxygen sensor"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "3A",
+     "Powertrain control module power"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "15A",
+     "Lighting switch"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "15A",
+     "Audio"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument panel"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "7.5A",
+     "Left rear taillight"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "7.5A",
+     "Right rear taillight"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "20A",
+     "Power door locks (GEM)"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "15A",
+     "Turn signal / hazard light"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "20A",
+     "Rear window defroster"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "3A",
+     "Alternator"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet connector"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "15A",
+     "Ignition switch"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "7.5A",
+     "Battery saver (GEM)"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument panel"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "3A",
+     "ABS module"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "7.5A",
+     "HVAC control panel / thermistor / BFC"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "7.5A",
+     "Airbag module"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "10A",
+     "Lighting/dimmer switch"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument panel"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "7.5A",
+     "Automatic transmission control module"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "3A",
+     "Audio"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "15A",
+     "Brake lights"
+    ],
+    [
+     "F46",
+     "Fuse MICRO2",
+     "20A",
+     "Front wiper"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "10A",
+     "Rear wiper park position"
+    ],
+    [
+     "F48",
+     "Fuse MICRO2",
+     "7.5A",
+     "Reverse light"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "20A",
+     "Fog lights"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "10A",
+     "High beam headlight - left side"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "10A",
+     "High beam headlight - right side"
+    ],
+    [
+     "F57",
+     "Fuse ATO",
+     "30A",
+     "Front power windows"
+    ],
+    [
+     "F58",
+     "Fuse ATO",
+     "30A",
+     "Heater fan motor"
+    ],
+    [
+     "F59",
+     "Fuse ATO",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "F60",
+     "Fuse ATO",
+     "30A",
+     "ABS pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Junction Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-figo-2014-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F4",
+     "Fuse MIDI",
+     "40A",
+     "Cooling fan and A/C"
+    ],
+    [
+     "F5",
+     "Fuse MIDI",
+     "60A",
+     "BB1 busbar of the passenger side junction box"
+    ],
+    [
+     "F6",
+     "Fuse MIDI",
+     "60A",
+     "Ignition relay"
+    ],
+    [
+     "F7",
+     "Fuse MIDI",
+     "60A",
+     "BB4 busbar of the passenger side junction box"
+    ],
+    [
+     "F8",
+     "Fuse MIDI",
+     "60A",
+     "BB5 busbar of the passenger side junction box"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Relay Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-figo-2014-genid-g1-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low speed fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High speed fan relay"
+    ]
+   ]
+  }
+ ]
+}

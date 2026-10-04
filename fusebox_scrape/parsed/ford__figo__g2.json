@@ -1,0 +1,372 @@
+{
+ "make_slug": "ford",
+ "model_slug": "figo",
+ "brand_db": "Ford",
+ "model_db_name": "Figo",
+ "model_id": 1829,
+ "generation_name": "Mk2 (B562)",
+ "generation_code": "g2",
+ "year_start": 2015,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/ford/figo/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-figo-2022-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO3",
+     "5A",
+     "Protection systems control module"
+    ],
+    [
+     "2",
+     "Fuse MICRO3",
+     "5A",
+     "Indoor temperature sensor"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Rear parking assist"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Ignition switch; push button start; automatic start-stop (LHD)"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "20A",
+     "Central lock"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "Electric mirrors"
+    ],
+    [
+     "9",
+     "Fuse MICRO3",
+     "5A",
+     "Electrochromatic mirror; passenger airbag deactivated indicator"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "Diagnostic connector"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "5A",
+     "Combined motion sensor (LHD)"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "15A",
+     "SYNC 3"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "7.5A",
+     "Electric mirrors; electric windows"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control system module"
+    ],
+    [
+     "22",
+     "Fuse MICRO3",
+     "7.5A",
+     "Group diagnostic connector"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "20A",
+     "Radio"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Diagnostic connector"
+    ],
+    [
+     "25",
+     "Circuit breaker ATO",
+     "",
+     "Electric windows"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-figo-2022-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMM/MCase",
+     "40A",
+     "Voltage 2 from battery to body control module"
+    ],
+    [
+     "F02",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module: run/start bus"
+    ],
+    [
+     "F04",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F06",
+     "Fuse MICRO2",
+     "20A",
+     "Power supply voltage 1"
+    ],
+    [
+     "F07",
+     "Fuse MICRO2",
+     "15A",
+     "Power supply voltage 2"
+    ],
+    [
+     "F08",
+     "Fuse MICRO2",
+     "10A",
+     "Power supply voltage 3"
+    ],
+    [
+     "F09",
+     "Fuse MICRO2",
+     "20A",
+     "Power supply voltage 4"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "10A",
+     "Power supply voltage 5"
+    ],
+    [
+     "F11",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starting motor"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "40A",
+     "Air conditioning blower"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "10A",
+     "Horn"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "5A",
+     "Headlight leveling"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "5A",
+     "Electric power steering"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "7.5A",
+     "Backup camera; compressed natural gas"
+    ],
+    [
+     "F28",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electronic stability program; ABS valve"
+    ],
+    [
+     "F29",
+     "Fuse FMM/MCase",
+     "50A",
+     "Electronic stability program; ABS pump"
+    ],
+    [
+     "F33",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "10A",
+     "Washer pump"
+    ],
+    [
+     "F39",
+     "Fuse FMM/MCase",
+     "30A",
+     "Heated seat"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "10A",
+     "BOO/Fox or Dragon fuel pump relay coil"
+    ],
+    [
+     "F47",
+     "Fuse FMM/MCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "F49",
+     "Fuse FMM/MCase",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "F50",
+     "Fuse FMM/MCase",
+     "30A",
+     "Heated locket"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "5A",
+     "Heated mirrors"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "20A",
+     "Power supply voltage 6"
+    ],
+    [
+     "F65",
+     "Fuse MICRO2",
+     "5A",
+     "Dragon fuel pump relay coil"
+    ],
+    [
+     "F68",
+     "Fuse FMM/MCase",
+     "20A",
+     "Electric steering column lock"
+    ],
+    [
+     "F69",
+     "Fuse FMM/MCase",
+     "20A",
+     "Front window wiper motor"
+    ],
+    [
+     "F71",
+     "Fuse MICRO2",
+     "15A",
+     "Rear window wiper motor"
+    ],
+    [
+     "F78",
+     "Fuse FMM/MCase",
+     "40A",
+     "Left front window defogger"
+    ],
+    [
+     "F79",
+     "Fuse FMM/MCase",
+     "40A",
+     "Left rear window defogger"
+    ],
+    [
+     "F88",
+     "Fuse FMM/MCase",
+     "20A",
+     "Second horn"
+    ],
+    [
+     "F91",
+     "Fuse FMM/MCase",
+     "40A",
+     "Trailer tow 2"
+    ],
+    [
+     "F121",
+     "Fuse MICRO2",
+     "20A",
+     "Diesel fuel heating"
+    ],
+    [
+     "F124",
+     "Fuse MICRO2",
+     "5A",
+     "Rain sensor"
+    ],
+    [
+     "F134",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trailer tow 1"
+    ],
+    [
+     "F140",
+     "Fuse FMM/MCase",
+     "60A",
+     "Glow plug"
+    ],
+    [
+     "F160",
+     "Fuse MICRO2",
+     "10A",
+     "Port fuel injection"
+    ],
+    [
+     "F180",
+     "Fuse MICRO2",
+     "10A",
+     "Outlet relay power"
+    ]
+   ]
+  }
+ ]
+}
