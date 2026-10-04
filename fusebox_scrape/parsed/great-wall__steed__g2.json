@@ -1,0 +1,571 @@
+{
+ "make_slug": "great-wall",
+ "model_slug": "steed",
+ "brand_db": "Great Wall",
+ "model_db_name": "Steed",
+ "model_id": 2028,
+ "generation_name": "Wingle 5",
+ "generation_code": "g2",
+ "year_start": 2010,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/great-wall/steed/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Panel (Steering wheel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-great-wall-steed-2011-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "(STARTER) Starter system"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "(ENGINE IG) Engine control system"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "(4WD IG) All wheel drive system"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "(TURN LIGHT) Turn signal"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "(REVERSE LIGHT) Backup lights"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "(INSTRUMENTS) Instrument cluster"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "(L-WINDOW) Power windows"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "30A",
+     "(R-WINDOW) Power windows"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "(AIRBAG) Airbag"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "4WD battery"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Alarm light"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "CD + roof lamp"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "(REMOTE LOCKING) Remote keyless entry"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "(CIGAR LIGHTER) Cigar lighter / power outlet"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "(CD RADIO) Audio system"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "(E-H-SEAT) Seat heater"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "5A",
+     "(REVERSE MIRROR) Power control mirror"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "(WIPER) Wipers"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "5A",
+     "(A/C IG) Air conditioning"
+    ],
+    [
+     "J1",
+     "Relay",
+     "",
+     "(WINDOW RELAY) Power windows"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-great-wall-steed-2011-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Fuel"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Engine heater"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Ignition"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Light"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Differential locks"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "BCM"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "ECU ignition"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Rear fog lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "BCM"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Seat heater"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "25A",
+     "ABS 2"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Circuit"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Circuit"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "BCM"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Interior lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "High beam"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Reverse light"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Low beam"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "Power control / power management"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine heater relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High speed cooling fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Power control relay"
+    ],
+    [
+     "S5",
+     "Fuse MINI",
+     "15A",
+     "ECU B+"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "No 2. Fusebox (gasoline)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-great-wall-steed-2011-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Engine ECU"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "(A/C) Air conditioning"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "(COMPRESSOR) A/C compressor"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "(HI BEAM) Headlights high beam"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "(LO BEAM) Headlights low beam"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "(Fr-FOG) Front fog lights"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "(Re-FOG) Rear fog lights"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "I/LP"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "(Re-DEFROST) Rear window defogger"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "(ENGINE) Engine control system"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "(BRAKE LIGHT) Stop lights"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "25A",
+     "(ABS2) Anti-lock braking system"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "(ANTI-THEFT) Anti-theft system"
+    ],
+    [
+     "L8",
+     "Fuse FMX/JCase",
+     "30A",
+     "(BLOWER) AC blower motor"
+    ],
+    [
+     "L9",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "L10",
+     "Fuse FMX/JCase",
+     "60A",
+     "(STARTER FAN) Electric cooling fan"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(FUEL PUMP RELAY) Fuel pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "High-speed fan relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(REAR-FOG RELAY) Rear fog lights"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(Re-DEFROST RELAY) Rear window defogger"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(BLOWER RELAY) AC blower motor"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(LOW-BEAM RELAY) Headlights low beam"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Low-speed fan relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(COMPRESSOR RELAY) A/C compressor"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(HORN RELAY) Horn"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(MAIN RELAY) Main"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(T/LP RELAY) Tail lights"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "(FRONT-FOG RELAY) Front fog lights"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "R/F relay"
+    ]
+   ]
+  }
+ ]
+}
