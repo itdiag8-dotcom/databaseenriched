@@ -1,0 +1,422 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "tipo",
+ "brand_db": "Fiat",
+ "model_db_name": "Tipo",
+ "model_id": 1723,
+ "generation_name": "Tipo (\"Type 356\", \"Project \u00c6gea\")",
+ "generation_code": "g2",
+ "year_start": 2018,
+ "year_end": 2022,
+ "trim_label": "5 Doors",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/fiat/tipo/info/fusebox/2022/trims-5_doors",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-tipo-2022-genid-g2-trims-5%2520doors-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "70A",
+     "+30 for BCM"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "60A",
+     "+30 BCM1"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "20A",
+     "KL30 BCM cranking"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "40A",
+     "+30 ESP pump"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "70A",
+     "+30 for EPS"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "Engine cooling fan (1st speed)"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "40A",
+     "Engine cooling fan (2nd speed)"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "50A",
+     "Engine cooling fan (2nd speed)"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "5A",
+     "KL30 blow-by heater (opt 1.6 / opt 1.3)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Secondary engine loads"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Secondary engine loads"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "KL30 ATX / KL30 for ECU DDCT"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "7.5A",
+     "KL30 for ECU DDCT 2"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "5A",
+     "KL15 ECM + KL15 ATX SLU + KL15 ATX ECU / KL15 ECU DDCT + KL15 SLU DDCT"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "KL15 ECM + KL15 ATX SLU + KL15 ATX ECU / KL15 ECU DDCT + KL15 SLU DDCT"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Primary engine loads"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "5A",
+     "KL30 ECM"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "A/C compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Feed rear window heater"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "KL30 fuel pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Primary engine loads"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Primary engine loads"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "KL30 ESP valves"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "KL30 SLU AT6 / KL30 for SLU DDCT"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "50A",
+     "KL30 glow plug and PTC2 w/o CBA"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "60A",
+     "KL30 glow plug and PTC2 w/o CBA"
+    ],
+    [
+     "F82",
+     "Fuse MAXI",
+     "40A",
+     "KL30 diesel filter heater relay 30"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "30A",
+     "KL30 diesel filter heater relay 30"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "40A",
+     "KL30 PTC1 w/o CBA - KL30 DDCT SDU"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "5A",
+     "Active grille shutter"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "5A",
+     "KL30 SOC SOH battery"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "7.5A",
+     "Heated mirrors / feed defrosting relay 87"
+    ],
+    [
+     "F08",
+     "Fuse MAXI",
+     "30A",
+     "Feed HVAC"
+    ],
+    [
+     "F08",
+     "Fuse MAXI",
+     "40A",
+     "Feed HVAC"
+    ],
+    [
+     "T02",
+     "Relay",
+     "",
+     "Diesel filter heater"
+    ],
+    [
+     "T03",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "T05",
+     "Relay",
+     "",
+     "A/C climate control compressor"
+    ],
+    [
+     "T06",
+     "Relay",
+     "",
+     "Engine cooling fan 1"
+    ],
+    [
+     "T07",
+     "Relay",
+     "",
+     "Engine cooling fan 2"
+    ],
+    [
+     "T08",
+     "Relay",
+     "",
+     "HVAC"
+    ],
+    [
+     "T09",
+     "Relay",
+     "",
+     "To F11/F17/F22 secondary/primary loads"
+    ],
+    [
+     "T10",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "T14",
+     "Relay",
+     "",
+     "Blow-by heater relay (opt 1.3)"
+    ],
+    [
+     "T17",
+     "Relay",
+     "",
+     "Blow-by heater (opt 1.3 / opt 1.6)"
+    ],
+    [
+     "T19",
+     "Relay",
+     "",
+     "Rear window heater"
+    ],
+    [
+     "T20",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "T30",
+     "Relay",
+     "",
+     "KL30 PTC1 w/o CBA - KL30 DDCT SDU"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Dashboard Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-tipo-2022-genid-g2-trims-5%2520doors-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Windscreen washer pump"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Supply for Uconnect system, climate control system, EOBD system, USB port, steering wheel controls"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Dead lock device / door unlocking / central locking / electric tailgate unlocking"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "Front electric window (passenger side)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "Front electric window (driver side)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "Rear right electric window"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "25A",
+     "Rear left electric window"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse Box Under Dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-tipo-2022-genid-g2-trims-5%2520doors-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Front door unlocking (driver side)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Front door unlocking (passenger side)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Rear door unlocking (left)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Rear door unlocking (right)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Boot Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-tipo-2022-genid-g2-trims-5%2520doors-3.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Rear 12V socket"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Driver's seat lumbar adjustment"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Passenger side front seat heater"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Driver's front seat heater"
+    ]
+   ]
+  }
+ ]
+}
