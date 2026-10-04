@@ -1,0 +1,612 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "elantra",
+ "brand_db": "Hyundai",
+ "model_db_name": "Elantra",
+ "model_id": 2188,
+ "generation_name": "Gen7 (CN7)",
+ "generation_code": "g7",
+ "year_start": 2021,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2026,
+ "source_url": "https://www.startmycar.com/hyundai/elantra/info/fusebox/2026",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-elantra-2026-genid-g7-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Memory1: cluster, A/C controller/module, folding mirrors, crash pad switch, surround view monitor"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag2: SRS control module"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "A/C"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Module4: lane keeping assist unit, crash pad switch, IBU, shift indicator, console switch, SVM"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module7: rear seat warmer control module"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "7.5A",
+     "Start: burglar alarm relay, transaxle range switch, PCM/ECM, IBU, start relay"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "E-Call"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Battery management [hybrid only]"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cluster: instrument cluster"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU2"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C1: PTC heater/blower relays, A/C control module, A/C controller"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "Trunk lid latch"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "20A",
+     "Front seat warmer control module"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "25A",
+     "Power window LH: main switch"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "Multimedia: audio, AVN head unit, DC-DC converter"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "10A",
+     "LDC"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "FCA: forward collision avoidance assist unit"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module6: IBU"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "20A",
+     "Rear seat warmer control module"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "25A",
+     "Driver safety power window module"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "25A",
+     "Power window RH: main switch, passenger switch"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "Brake switch: stop light switch, IBU"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "15A",
+     "IBU1"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "10A",
+     "Module2: power outlet relay, AMP, IBU, IAU, audio, mirror switch, DC-DC converter, AVN, SVM"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "15A",
+     "Airbag1: SRS module, occupant detection sensor"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "10A",
+     "Module5: shift indicator, wireless charger, A/C controller, EC mirror, audio/AVN, AMP, DC-DC converter, DLC, seat warmer modules"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "25A",
+     "Passenger safety power window module"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "25A",
+     "AMP, DC-DC converter"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirror: outside mirror heaters, A/C module/controller, ECU [N Line]"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock/unlock actuator"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "IAU: BLE unit, IAU, door NFC modules"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module3: sport mode switch, stop light switch, IAU"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "7.5A",
+     "Airbag indicator: cluster, overhead console lamp"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "15A",
+     "Washer: multifunction switch"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "Wiper: PCM/ECM, IBU"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "Module1: smart key outside handles, DLC, hazard switch, key solenoid"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof motor"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "15A",
+     "Front/rear USB chargers"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "25A",
+     "IG1: PCB block (ABS3, ECU5, EOP2, TCU2 fuses)"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "10A",
+     "A/C"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-elantra-2026-genid-g7-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "40A",
+     "DCT1: TCM [G4FP]"
+    ],
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "40A",
+     "DCT2: TCM [G4FP]"
+    ],
+    [
+     "F3",
+     "Fuse FMM/MCase",
+     "50A",
+     "Rear glass heated"
+    ],
+    [
+     "F4",
+     "Fuse FMM/MCase",
+     "40A",
+     "B+4: ICU junction block (airbag2, IBU1, brake switch, door lock, IAU, module1, sunroof fuses, power window relay)"
+    ],
+    [
+     "F5",
+     "Fuse FMM/MCase",
+     "40A",
+     "CVVD actuator [G4FP]"
+    ],
+    [
+     "F6",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS1: ABS/ESC modules, check connector"
+    ],
+    [
+     "F7",
+     "Fuse FMM/MCase",
+     "30A",
+     "ABS2: ABS/ESC modules, check connector"
+    ],
+    [
+     "F8",
+     "Fuse FMM/MCase",
+     "30A",
+     "EOP1: electronic oil pump [2.0 Atkinson ISG]"
+    ],
+    [
+     "F9",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power outlet 1: front power outlet"
+    ],
+    [
+     "F10",
+     "Fuse FMM/MCase",
+     "40A",
+     "Cooling fan 1 [2.0 Atkinson]"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "25A",
+     "Wiper motor"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "10A",
+     "A/C compressor [G4FM 2.0 Atkinson]"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coils #1-4"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "10A",
+     "Sensor3: fuel pump relay"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "10A",
+     "Sensor2: variable intake/oil pump solenoids, oil control valves, canister close valve, purge solenoid, A/C relay, cooling fan relays, oil level sensor"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "15A",
+     "Sensor1: oxygen sensors (up/down)"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "15A",
+     "Injectors #1-4"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "20A",
+     "ECU1: PCM/ECM"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "15A",
+     "ECU4: PCM/ECM"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "15A",
+     "ECU3: PCM/ECM"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "10A",
+     "ECU2: PCM/ECM [1.6 T-GDi]"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "10A",
+     "ECU5: CVD actuator [1.6 T-GDi], ECM/PCM"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "10A",
+     "ABS3: ABS/ESC modules, check connector"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "10A",
+     "EOP"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "15A",
+     "TCU2: transaxle range switch, TCM [1.6 T-GDi DCT]"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "20A",
+     "Power outlet 2: front power outlet"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "10A",
+     "AMS: battery sensor"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "10A",
+     "TCU1: TCM [DCT]"
+    ],
+    [
+     "F43",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump: control module (T-GDI), fuel pump motor (NU MPI)"
+    ],
+    [
+     "F44",
+     "Other",
+     "",
+     "B+5: PCB block (engine control relay, ECU3/ECU4/horn/wiper/A-C fuses)"
+    ],
+    [
+     "F45",
+     "Other",
+     "",
+     "B+1: ICU junction block (IPS2/3/5/6/7/14)"
+    ],
+    [
+     "F46",
+     "Other",
+     "",
+     "B+2: ICU junction block (IPS1/4/8/9/10)"
+    ],
+    [
+     "F47",
+     "Other",
+     "",
+     "B+3: ICU junction block (trunk, AMP, safety windows, power seats, seat heaters, long term load latch relay)"
+    ],
+    [
+     "F48",
+     "Other",
+     "",
+     "EPB: ESC control module"
+    ],
+    [
+     "F49",
+     "Other",
+     "",
+     "PTC heater"
+    ],
+    [
+     "F50",
+     "Other",
+     "",
+     "Blower motor, check connector"
+    ],
+    [
+     "F51",
+     "Other",
+     "",
+     "IG1: PDM IG1/ACC relays, ignition switch"
+    ],
+    [
+     "F52",
+     "Other",
+     "",
+     "IG2: PDM IG2 relay, start relay, ignition switch"
+    ],
+    [
+     "F53",
+     "Other",
+     "",
+     "Cooling fan 2 controller [G4FP]"
+    ],
+    [
+     "F57",
+     "Other",
+     "",
+     "DCT3: SGA [G4FP]"
+    ],
+    [
+     "F58",
+     "Other",
+     "",
+     "MDPS1: MDPS unit"
+    ],
+    [
+     "F59",
+     "Other",
+     "",
+     "Alternator (ABS1/ABS2/EOP1/power outlet 1 fuses)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PTC heater relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear heated relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "PDM (IG3) relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Power outlet relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "PDM (IG2) relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "PDM (ACC) relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower relay"
+    ]
+   ]
+  }
+ ]
+}

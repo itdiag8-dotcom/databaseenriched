@@ -1,0 +1,366 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "elantra",
+ "brand_db": "Hyundai",
+ "model_db_name": "Elantra",
+ "model_id": 2188,
+ "generation_name": "Gen3 (XD)",
+ "generation_code": "g3",
+ "year_start": 2000,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/hyundai/elantra/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-elantra-2006-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch, start relay"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "20A",
+     "Generator, engine control relay, fuel pump relay, PCM"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Radiator fan relay"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "20A",
+     "Condenser fan relay 1"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fusible link (power windows), tail lamp relay, power connector"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Injectors"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "PCM, heated oxygen sensor, SMATRA, heater relay, glow plug relay"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "DRL control"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Headlamp washer"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Siren, PCM"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "A/C relay, horn relay"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Headlamp high beam"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Headlamp low beam"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS control (motor)"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS control (solenoid)"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower relay"
+    ],
+    [
+     "F21",
+     "Fuse FLF/PAL 293",
+     "120A",
+     "Generator"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Condenser fan relay 1"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Condenser fan relay 2"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Inner panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-elantra-2006-genid-g3-1.webp",
+   "fuses": [
+    [
+     "T/SIG",
+     "Fuse MINI",
+     "10A",
+     "Turn signal lamps, backup lamp"
+    ],
+    [
+     "CLUSTER",
+     "Fuse MINI",
+     "10A",
+     "Pre-excitation resistor, instrument cluster"
+    ],
+    [
+     "A/BAG",
+     "Fuse MINI",
+     "15A",
+     "SRS control"
+    ],
+    [
+     "HAZARD",
+     "Fuse MINI",
+     "10A",
+     "Hazard relay, hazard lamps"
+    ],
+    [
+     "A/C SW",
+     "Fuse MINI",
+     "10A",
+     "A/C control"
+    ],
+    [
+     "TAIL-RH",
+     "Fuse MINI",
+     "10A",
+     "Short connector, illumination lamps, tail lamp RH, headlamp washer"
+    ],
+    [
+     "TAIL-LH",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp LH, exterior lamps"
+    ],
+    [
+     "START",
+     "Fuse MINI",
+     "10A",
+     "Burglar alarm relay"
+    ],
+    [
+     "AUDIO",
+     "Fuse MINI",
+     "10A",
+     "Digital clock, power/folding mirrors, audio"
+    ],
+    [
+     "ECU",
+     "Fuse MINI",
+     "10A",
+     "Cruise control, PCM, vehicle speed sensor, ignition coil"
+    ],
+    [
+     "ABS",
+     "Fuse MINI",
+     "10A",
+     "ABS control"
+    ],
+    [
+     "RRHTR",
+     "Fuse MINI",
+     "30A",
+     "Defogger relay"
+    ],
+    [
+     "AMP",
+     "Fuse MINI",
+     "20A",
+     "Power antenna"
+    ],
+    [
+     "S/ROOF",
+     "Fuse MINI",
+     "15A",
+     "Power door lock control, sunroof"
+    ],
+    [
+     "STOP",
+     "Fuse MINI",
+     "15A",
+     "Stop lamps, power window, mirror folding"
+    ],
+    [
+     "HTDMIR",
+     "Fuse MINI",
+     "10A",
+     "Rear window & mirror defogger, A/C control"
+    ],
+    [
+     "C/LIGHT",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter, power outlet"
+    ],
+    [
+     "RRFOG",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamps"
+    ],
+    [
+     "IGN",
+     "Fuse MINI",
+     "10A",
+     "Headlamp, headlamp washer, fuel filter heating"
+    ],
+    [
+     "R/WIPER",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper & washer"
+    ],
+    [
+     "F/WIPER",
+     "Fuse MINI",
+     "20A",
+     "Front wiper & washer"
+    ],
+    [
+     "S/HTR",
+     "Fuse MINI",
+     "20A",
+     "Seat warmer"
+    ],
+    [
+     "A/CON",
+     "Fuse MINI",
+     "10A",
+     "Blower & A/C control, ETACM, sunroof controller, EC mirror"
+    ],
+    [
+     "ROOMLP",
+     "Fuse MINI",
+     "15A",
+     "Door lamps, cluster, DLC, check connector, room lamps, ETACM, audio"
+    ],
+    [
+     "P/WINDOW",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window"
+    ],
+    [
+     "A/BAG IND",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (airbag indicator)"
+    ]
+   ]
+  }
+ ]
+}
