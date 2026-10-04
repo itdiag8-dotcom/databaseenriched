@@ -1,0 +1,788 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "yukon",
+ "brand_db": "GMC",
+ "model_db_name": "Yukon",
+ "model_id": 2025,
+ "generation_name": "2nd generation (GMT800/GMT820)",
+ "generation_code": "g2",
+ "year_start": 2000,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/gmc/yukon/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2005-genid-g2-0.webp",
+   "fuses": [
+    [
+     "RR WPR",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper switch"
+    ],
+    [
+     "SEO ACCY",
+     "Fuse MINI",
+     "10A",
+     "Special equipment option accessory"
+    ],
+    [
+     "WS WPR",
+     "Fuse MINI",
+     "25A",
+     "Windshield wipers"
+    ],
+    [
+     "TBC ACCY",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller accessory"
+    ],
+    [
+     "IGN 3",
+     "Fuse MINI",
+     "10A",
+     "Ignition, heated seats"
+    ],
+    [
+     "4WD",
+     "Fuse MINI",
+     "15A",
+     "Four-wheel drive system, auxiliary battery"
+    ],
+    [
+     "HTR A/C",
+     "Fuse MINI",
+     "30A",
+     "Climate control system"
+    ],
+    [
+     "LOCK",
+     "Relay",
+     "",
+     "Power door lock relay (lock function)"
+    ],
+    [
+     "HVAC 1",
+     "Fuse MINI",
+     "10A",
+     "Inside rearview mirror, climate control system"
+    ],
+    [
+     "CRUISE",
+     "Fuse MINI",
+     "10A",
+     "Cruise control"
+    ],
+    [
+     "UNLOCK",
+     "Relay",
+     "",
+     "Power door lock relay (unlock function)"
+    ],
+    [
+     "RR FOG LP",
+     "Relay",
+     "",
+     "Rear fog lamp (export only)"
+    ],
+    [
+     "BRAKE",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "DRIVER UNLOCK",
+     "Relay",
+     "",
+     "Power door lock relay (driver's door unlock function)"
+    ],
+    [
+     "IGN 0",
+     "Fuse MINI",
+     "10A",
+     "PCM, TCM"
+    ],
+    [
+     "TBC IGN 0",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller"
+    ],
+    [
+     "VEH CHMSL",
+     "Fuse MINI",
+     "10A",
+     "Vehicle and trailer high mounted stoplamp"
+    ],
+    [
+     "LT TRLR ST/TRN",
+     "Fuse MINI",
+     "10A",
+     "Left turn signal/stop trailer"
+    ],
+    [
+     "LT TRN",
+     "Fuse MINI",
+     "10A",
+     "Left turn signals and sidemarkers"
+    ],
+    [
+     "VEH STOP",
+     "Fuse MINI",
+     "15A",
+     "Vehicle stoplamps, brake module, electronic throttle control module"
+    ],
+    [
+     "RT TRLR ST/TRN",
+     "Fuse MINI",
+     "10A",
+     "Right turn signal/stop trailer"
+    ],
+    [
+     "RT TRN",
+     "Fuse MINI",
+     "10A",
+     "Right turn signals and sidemarkers"
+    ],
+    [
+     "DDM",
+     "Fuse MINI",
+     "15A",
+     "Driver door module"
+    ],
+    [
+     "AUX PWR 2",
+     "Fuse MINI",
+     "20A",
+     "Rear cargo area power outlets"
+    ],
+    [
+     "LOCKS",
+     "Fuse MINI",
+     "20A",
+     "Power door lock system"
+    ],
+    [
+     "ECC",
+     "Fuse MINI",
+     "10A",
+     "Rear electronic climate control, liftgate"
+    ],
+    [
+     "TBC 2C",
+     "Fuse MINI",
+     "15A",
+     "Truck body controller"
+    ],
+    [
+     "FLASH",
+     "Fuse MINI",
+     "25A",
+     "Flasher module"
+    ],
+    [
+     "CB LT DOORS",
+     "Circuit breaker ATO",
+     "",
+     "Left power window circuit breaker"
+    ],
+    [
+     "TBC 2B",
+     "Fuse MINI",
+     "15A",
+     "Truck body controller"
+    ],
+    [
+     "TBC 2A",
+     "Fuse MINI",
+     "15A",
+     "Truck body controller"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Center Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2005-genid-g2-1.webp",
+   "fuses": [
+    [
+     "SEO",
+     "Relay",
+     "",
+     "Special equipment option"
+    ],
+    [
+     "TRAILER",
+     "Relay",
+     "",
+     "Trailer brake wiring"
+    ],
+    [
+     "SL RIDE",
+     "Relay",
+     "",
+     "Ride control harness connection"
+    ],
+    [
+     "HDLR 2",
+     "Relay",
+     "",
+     "Headliner wiring connector"
+    ],
+    [
+     "BODY",
+     "Relay",
+     "",
+     "Body wiring connector"
+    ],
+    [
+     "DEFOG",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "HDLNR 1",
+     "Relay",
+     "",
+     "Headliner wiring connector 1"
+    ],
+    [
+     "CB SEAT",
+     "Circuit breaker ATO",
+     "",
+     "Driver and passenger seat module circuit breaker"
+    ],
+    [
+     "CB RT DOOR",
+     "Circuit breaker ATO",
+     "",
+     "Right power window circuit breaker"
+    ],
+    [
+     "INFO",
+     "Relay",
+     "",
+     "Infotainment harness connection"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Underhood Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2005-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MEGA",
+     "",
+     "GLOW PLUG / CUST FEED (gasoline accessory power) / HYBRID"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Auxiliary power (single battery and diesels only)/dual battery (TP2) do not install fuse"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "Mid bussed electrical center power feed, front seats, right doors"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front climate control fan"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "Left bussed electrical center, door modules, door locks, rear cargo area auxiliary power outlet, instrument panel"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Accessory power/trailer wiring brake feed"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brakes"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "60A",
+     "Vehicle stability"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition power"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition power"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "50A",
+     "Left bussed electrical center, left doors, truck body controller, flasher module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Left rear parking and sidemarker lamps"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller battery feed"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Vent solenoid canister/Quadrasteer module power"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Ride control"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Backup lamps trailer wiring"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Powertrain control module, fuel pump"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Front parking lamps, sidemarker lamps"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "High beam headlamp, left"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "High beam headlamp, right"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low beam, left"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Headlamp low beam, right"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Electronic throttle control, electronic brake controller"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "INJ1 (gas)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "ECMRPV (diesel)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "INJ2 (gas)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "25A",
+     "EDU (diesel)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, A/C relay, turn signal/hazard switch, starter relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "O2A oxygen sensors (gas)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Fuel heater (diesel)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Back-up lamps, automatic transmission shift lock control system"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "O2B oxygen sensors (gas)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "ECMI (diesel)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Daytime running lamps"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "",
+     "Regulated voltage control"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Brake transmission shift interlock system"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "Rear defog relay"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster/driver information center"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Starting system"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "15A",
+     "Windshield and rear window washer pump"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "Electric adjustable pedals"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "25A",
+     "Stoplamps"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "25A",
+     "Sunroof"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "30A",
+     "Off-road lamps"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "30A",
+     "Rear climate control"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power outlet - console"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "15A",
+     "Supplemental inflatable restraint system"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "10A",
+     "Truck body controller ignition"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "Climate control controller"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "25A",
+     "Rear wiper/washer"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "15A",
+     "Mid bussed electrical center, HomeLink, rear heated seats"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "15A",
+     "OnStar/rear seat entertainment"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "30A",
+     "All-wheel drive module"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "30A",
+     "Radio amplifier"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "15A",
+     "Supplemental brake assist"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "15A",
+     "Parking lamps trailer wiring"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "10A",
+     "Right rear parking and sidemarker lamps"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "IGN1 relay (gas)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "EDU (diesel)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Parking lamps relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlamp high beam relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Daytime running lamps relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlamp low beam relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Air conditioning compressor relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Windshield and rear window washer pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Auxiliary Electric Cooling Fan Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2005-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan relay 1 fuse"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan relay 3 fuse"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Cooling fan relay 2 fuse"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan relay 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay 3"
+    ]
+   ]
+  }
+ ]
+}
