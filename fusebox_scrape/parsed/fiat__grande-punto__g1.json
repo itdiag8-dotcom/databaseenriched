@@ -1,0 +1,259 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "grande-punto",
+ "brand_db": "Fiat",
+ "model_db_name": "Grande Punto",
+ "model_id": 1690,
+ "generation_name": "1st generation (\"Type 199\", \"Project 199\")",
+ "generation_code": "g1",
+ "year_start": 2005,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/fiat/grande-punto/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-grande-punto-2018-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F09",
+     "Fuse MINI",
+     "20A",
+     "Hi-Fi audio system with car radio, control unit and subwoofer speaker"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Single-tone horn"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Left high beam, right high beam"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "30A",
+     "Auxiliary heater"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Fuel tank electric pump"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Left fog light, right fog light"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "7.5A",
+     "Solenoid valves for methane system supply management"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "",
+     "Power outlet (pre-installation)"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "15A",
+     "Passenger compartment power outlet, cigarette lighter"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "5A",
+     "IBS battery state of charge sensor"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "7.5A",
+     "Driver's and passenger's side exterior mirror defrosters"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Dashboard Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-grande-punto-2018-genid-g1-1.webp",
+   "fuses": [
+    [
+     "01",
+     "Fuse MINI",
+     "7.5A",
+     "Right low beam (some versions)"
+    ],
+    [
+     "02",
+     "Fuse MINI",
+     "5A",
+     "Front/rear dome lights, sun visor lights, door clearance lights, trunk light, glove compartment light"
+    ],
+    [
+     "03",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel"
+    ],
+    [
+     "04",
+     "Fuse MINI",
+     "20A",
+     "Door lock/unlock motors, Dead Lock activation motors, tailgate unlock motor"
+    ],
+    [
+     "05",
+     "Fuse MINI",
+     "10A",
+     "+battery for EOBD diagnostic socket, automatic climate control unit, alarm sirens, car radio, Blue&Me control unit"
+    ],
+    [
+     "06",
+     "Fuse MINI",
+     "20A",
+     "Windshield/rear window washer electric pump"
+    ],
+    [
+     "07",
+     "Fuse MINI",
+     "20A",
+     "Window regulator motor, passenger's side front door"
+    ],
+    [
+     "08",
+     "Fuse MINI",
+     "7.5A",
+     "Left low beam (some versions)"
+    ],
+    [
+     "08",
+     "Fuse MINI",
+     "5A",
+     "Headlight alignment corrector"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Brake pedal switch (NC), clutch pedal switch, heater unit, Blue&Me, radio pre-installation, voltage stabilizer, reversing light, water-in-diesel sensor, glow plug preheating unit, brake booster sensor, relay coils, flow meter"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel, brake pedal switch (NO), third brake light"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Control panel illumination, parking control unit, tire pressure unit, electric mirror movement, rain sensor, electric roof unit, myport infotelematic port, electrochromic interior mirror"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Relay coils in engine fuse box and Body Computer control unit"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Window regulator motor, driver's side front door"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage Compartment Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-grande-punto-2018-genid-g1-2.webp",
+   "fuses": [
+    [
+     "04",
+     "Fuse MINI",
+     "10A",
+     "Electric lumbar adjustment on the driver's seat"
+    ],
+    [
+     "05",
+     "Fuse MINI",
+     "15A",
+     "Power outlet in the luggage compartment"
+    ],
+    [
+     "07",
+     "Fuse MINI",
+     "",
+     "Tow hook system (housing prepared for fuse installation after purchase)"
+    ],
+    [
+     "08",
+     "Fuse MINI",
+     "10A",
+     "Heated seat element, front driver's seat"
+    ],
+    [
+     "09",
+     "Fuse MINI",
+     "10A",
+     "Heated seat element, front passenger's seat"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Window regulator system (motor, control unit), right-side door"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Window regulator system (motor, control unit), left-side door"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "iTPMS tire pressure detection control unit"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm system management control unit"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Electric opening system for the sunroof"
+    ]
+   ]
+  }
+ ]
+}
