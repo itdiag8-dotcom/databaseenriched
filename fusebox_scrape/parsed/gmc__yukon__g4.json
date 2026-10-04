@@ -1,0 +1,956 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "yukon",
+ "brand_db": "GMC",
+ "model_db_name": "Yukon",
+ "model_id": 2025,
+ "generation_name": "4th generation (K2XX/K2UC)",
+ "generation_code": "g4",
+ "year_start": 2015,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/gmc/yukon/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2020-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "",
+     "Power assist steps"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake system pump"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "",
+     "Interior BEC LT1"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "",
+     "Passenger motorized seat belt"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "Suspension leveling compressor"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "4WD transfer case electronic control"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "",
+     "Electric parking brake"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "",
+     "Interior BEC LT2"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "",
+     "Rear BEC 1"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "",
+     "Driver motorized seat belt"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "",
+     "Automatic headlamp leveling/exhaust solenoid"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "",
+     "Integrated chassis control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "",
+     "Real time dampening"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "",
+     "Fuel pump power module"
+    ],
+    [
+     "26",
+     "Fuse MICRO3",
+     "",
+     "Active hydraulic assist/battery regulated voltage control"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "",
+     "Upfitter 2"
+    ],
+    [
+     "29",
+     "Relay",
+     "",
+     "Upfitter 2 relay"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "Wiper"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "",
+     "Trailer interface module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "",
+     "Reverse lamps"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "",
+     "Antilock brake system valve"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "",
+     "Trailer brakes"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Upfitter 3 relay"
+    ],
+    [
+     "39",
+     "Fuse FMM/MCase",
+     "",
+     "Right trailer stoplamp/turn signal lamp"
+    ],
+    [
+     "40",
+     "Fuse FMM/MCase",
+     "",
+     "Left trailer stoplamp/turn signal lamp"
+    ],
+    [
+     "41",
+     "Fuse FMM/MCase",
+     "",
+     "Trailer parking lamps"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "",
+     "Right parking lamps"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "",
+     "Left parking lamps"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "",
+     "Upfitter 3"
+    ],
+    [
+     "45",
+     "Fuse MICRO3",
+     "",
+     "Automatic level control/run/crank"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "",
+     "Upfitter 4"
+    ],
+    [
+     "48",
+     "Relay",
+     "",
+     "Upfitter 4 relay"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "",
+     "Reverse lamps"
+    ],
+    [
+     "51",
+     "Relay",
+     "",
+     "Parking lamp relay"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "",
+     "Euro trailer"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "",
+     "Air conditioning control"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "",
+     "Upfitter 1"
+    ],
+    [
+     "67",
+     "Fuse FMM/MCase",
+     "",
+     "Trailer battery"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "",
+     "RC upfitter 3 and 4"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "",
+     "VBAT upfitter 3 and 4"
+    ],
+    [
+     "72",
+     "Relay",
+     "",
+     "Upfitter 1 relay"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "",
+     "Engine control module/ignition"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "",
+     "Miscellaneous/ignition"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "",
+     "Transmission/ignition"
+    ],
+    [
+     "77",
+     "Fuse MINI",
+     "",
+     "RC upfitter 1 and 2"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "",
+     "VBAT upfitter 1 and 2"
+    ],
+    [
+     "83",
+     "Fuse MICRO3",
+     "",
+     "Euro trailer/RC"
+    ],
+    [
+     "84",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "",
+     "MAF/IAT/humidity/TIAP sensor"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "",
+     "Injector A - odd"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "",
+     "Injector B - even"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "",
+     "O2 sensor B"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "",
+     "Throttle control"
+    ],
+    [
+     "92",
+     "Relay",
+     "",
+     "Engine control module relay"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "94",
+     "Fuse MINI",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "95",
+     "Fuse MINI",
+     "",
+     "High-beam headlamps"
+    ],
+    [
+     "100",
+     "Fuse MINI",
+     "",
+     "O2 sensor A"
+    ],
+    [
+     "101",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "102",
+     "Fuse MICRO3",
+     "",
+     "Engine control module/transmission control module"
+    ],
+    [
+     "103",
+     "Fuse MINI",
+     "",
+     "Auxiliary interior heater"
+    ],
+    [
+     "104",
+     "Fuse FMX/JCase",
+     "",
+     "Starter"
+    ],
+    [
+     "107",
+     "Fuse MINI",
+     "",
+     "Aeroshutter"
+    ],
+    [
+     "109",
+     "Fuse MINI",
+     "",
+     "Police upfitter"
+    ],
+    [
+     "112",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "114",
+     "Fuse MINI",
+     "",
+     "Front windshield washer"
+    ],
+    [
+     "115",
+     "Fuse MINI",
+     "",
+     "Rear window washer"
+    ],
+    [
+     "116",
+     "Fuse FMX/JCase",
+     "",
+     "Left cooling fan"
+    ],
+    [
+     "121",
+     "Fuse MINI",
+     "",
+     "Right HID headlamp"
+    ],
+    [
+     "122",
+     "Fuse MINI",
+     "",
+     "Left HID headlamp"
+    ],
+    [
+     "123",
+     "Fuse FMX/JCase",
+     "",
+     "Right cooling fan"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "",
+     "Secondary fuel pump"
+    ],
+    [
+     "117",
+     "Fuse MINI",
+     "",
+     "Fuel pump prime"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "64",
+     "Relay",
+     "",
+     "Secondary fuel pump relay"
+    ],
+    [
+     "120",
+     "Relay",
+     "",
+     "Fuel pump prime relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block (Right)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2020-genid-g4-1.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse FMM/MCase",
+     "",
+     "Accessory power outlet 4"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "",
+     "Glove box"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "",
+     "Body control module"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "",
+     "Body control module"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "",
+     "Rear seat entertainment"
+    ],
+    [
+     "21",
+     "Fuse FMM/MCase",
+     "",
+     "Sunroof/beacon upfitter"
+    ],
+    [
+     "26",
+     "Fuse MICRO3",
+     "",
+     "Infotainment/airbag"
+    ],
+    [
+     "27",
+     "Fuse MICRO3",
+     "",
+     "RF window switch/rain sensor"
+    ],
+    [
+     "28",
+     "Fuse MICRO3",
+     "",
+     "Obstacle detection/USB"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "",
+     "Radio"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "",
+     "Special equipment option B2"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "",
+     "Special equipment option"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "",
+     "Body control module"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "",
+     "DC to AC inverter"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "",
+     "Right door window motor"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "",
+     "Front blower"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "",
+     "Body control module 6"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "",
+     "Amplifier"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "",
+     "Right front seat"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "",
+     "Accessory power outlet 3"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "Front blower"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Block (Left)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2020-genid-g4-2.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse FMM/MCase",
+     "",
+     "Accessory power outlet 1"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "",
+     "Accessory power outlet from retained accessory power"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "",
+     "Accessory power outlet from battery power"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "",
+     "Universal garage door opener/SEO roof beacon switch"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "",
+     "SEO/retained accessory power"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "",
+     "Body control module 5"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "",
+     "Steering wheel control backlighting"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "",
+     "Discrete logic ignition sensor"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "",
+     "Video processing module/virtual key module"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "",
+     "Mirror window module"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "",
+     "Body control module 1"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "",
+     "Front bolster"
+    ],
+    [
+     "24",
+     "Fuse MICRO3",
+     "",
+     "HVAC ignition/AUX HVAC ignition"
+    ],
+    [
+     "25",
+     "Fuse MICRO3",
+     "",
+     "Instrument cluster/ignition sensing diagnostic module ignition"
+    ],
+    [
+     "26",
+     "Fuse MICRO3",
+     "",
+     "Tilt column/tilt column lock 1/SEO 1/SEO 2"
+    ],
+    [
+     "27",
+     "Fuse MICRO3",
+     "",
+     "Data link connector/driver seat module"
+    ],
+    [
+     "28",
+     "Fuse MICRO3",
+     "",
+     "Passive entry, passive start/HVAC battery/CGM"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "",
+     "Content theft deterrent"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "",
+     "SEO automatic level control/left heated seat"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "",
+     "Park enable/electric adjustable pedal"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "",
+     "Miscellaneous/run crank"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "",
+     "Steering column lock 2"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "",
+     "Instrument cluster battery"
+    ],
+    [
+     "42",
+     "Fuse FMM/MCase",
+     "",
+     "Euro trailer"
+    ],
+    [
+     "43",
+     "Fuse FMM/MCase",
+     "",
+     "Left doors"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "",
+     "Driver power seat"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "",
+     "Right heated, cooled, or ventilated seat"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "",
+     "Left heated, cooled, or ventilated seat"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "",
+     "Accessory power outlet 2"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "Retained accessory power"
+    ],
+    [
+     "53",
+     "Relay",
+     "",
+     "Run crank"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2020-genid-g4-3.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Right heated second row seat"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "15A",
+     "Heated mirrors"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "",
+     "Liftgate"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "",
+     "Glass breakage"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "Liftglass"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Liftgate module logic"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "30A",
+     "Rear heating, ventilation, and air conditioning blower"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "20A",
+     "Second row seat folding"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "30A",
+     "Liftgate module"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "30A",
+     "Third row seat folding"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "20A",
+     "Rear accessory power outlet"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Rear fog lamp"
+    ],
+    [
+     "1",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "16",
+     "Relay",
+     "",
+     "Liftgate relay"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Liftglass relay"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Rear fog lamp relay"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Heated mirror relay"
+    ]
+   ]
+  }
+ ]
+}

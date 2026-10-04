@@ -1,0 +1,715 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "yukon",
+ "brand_db": "GMC",
+ "model_db_name": "Yukon",
+ "model_id": 2025,
+ "generation_name": "3rd generation (GMT900)",
+ "generation_code": "g3",
+ "year_start": 2007,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/gmc/yukon/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2014-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan 2"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 1"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Stud 2 (trailer brakes)"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Stud 1 (trailer connector battery power)"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Left bussed electrical center 1"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric running boards"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "60A",
+     "Mid-bussed electrical center 1"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Climate control blower"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Automatic level control compressor"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "60A",
+     "Heavy duty antilock braking system"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Antilock brake system 1"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Transfer case"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power liftgate module"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "60A",
+     "Left bussed electrical center 2"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Airbag system (battery)"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Heated mirrors"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Passenger side high-beam headlamp"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Driver side high-beam headlamp"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps 2 (if equipped)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamps (DRL) (if equipped)"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Front washer"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "Driver side low-beam headlamp"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "Passenger side low-beam headlamp"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "Rear windshield washer"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "30A",
+     "SEO B2 upfitter usage (battery)"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "SEO B1 upfitter usage (battery)"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "30A",
+     "Sunroof"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "Accessory power outlet, cigarette lighter (if equipped)"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "Electric adjustable pedals"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (battery)"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "2A",
+     "Key ignition system, theft deterrent system"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "10A",
+     "Climate controls (battery)"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "15A",
+     "Engine controls"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensors"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors, ignition coils (right side)"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensors"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors, ignition coils (left side)"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "15A",
+     "Engine control module, throttle control"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module (battery)"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "15A",
+     "Transmission controls (ignition)"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "10A",
+     "Airbag system (ignition)"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "10A",
+     "Miscellaneous (ignition), cruise control"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary climate control (ignition)"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "10A",
+     "Automatic level control compressor relay"
+    ],
+    [
+     "F68",
+     "Fuse MINI",
+     "30A",
+     "Electronic stability suspension control, automatic level control exhaust"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "25A",
+     "Antilock brakes system 2"
+    ],
+    [
+     "F70",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F71",
+     "Fuse MINI",
+     "15A",
+     "Trailer parking lamps"
+    ],
+    [
+     "F72",
+     "Fuse MINI",
+     "10A",
+     "Right trailer stop/turn lamp"
+    ],
+    [
+     "F73",
+     "Fuse MINI",
+     "15A",
+     "Driver side parking lamps"
+    ],
+    [
+     "F74",
+     "Fuse MINI",
+     "15A",
+     "Passenger side parking lamps"
+    ],
+    [
+     "F75",
+     "Fuse MINI",
+     "15A",
+     "Liftgate release"
+    ],
+    [
+     "F76",
+     "Fuse MINI",
+     "15A",
+     "Center high-mounted stoplamp (CHMSL)"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "10A",
+     "Climate controls (ignition)"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "15A",
+     "Engine control module, secondary fuel pump (ignition)"
+    ],
+    [
+     "F79",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper"
+    ],
+    [
+     "F80",
+     "Fuse MINI",
+     "10A",
+     "Left trailer stop/turn lamp"
+    ],
+    [
+     "F81",
+     "Fuse MINI",
+     "15A",
+     "Trailer brake controller"
+    ],
+    [
+     "F82",
+     "Fuse MINI",
+     "10A",
+     "Trailer back-up lamps"
+    ],
+    [
+     "F83",
+     "Fuse MINI",
+     "10A",
+     "Vehicle back-up lamps"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "Fuel system control module"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "20A",
+     "Headlamp washer"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan high speed"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan low speed"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan control"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Powertrain"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Switched power"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Parking lamps"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Low-beam headlamp"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2014-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Driver door module"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel back lighting"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "30A",
+     "Rear climate controls"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Dome lamps, driver side turn signal"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Passenger side turn signal, stoplamp"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "2A",
+     "Power mirror"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Passenger door module, driver unlock"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Power door lock 2 (unlock feature)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Body control module (BCM)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Power door lock 1 (unlock feature)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Power door lock 1 (lock feature)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "30A",
+     "Cooled seats"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Power door lock 2 (lock feature)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Accessory power outlets"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "5A",
+     "Rear seat entertainment"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Driver information center (DIC)"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Driver seat module, remote keyless entry system"
+    ],
+    [
+     "F18a",
+     "Fuse MINI",
+     "20A",
+     "Rear seats"
+    ],
+    [
+     "F19a",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory power outlet"
+    ],
+    [
+     "F20a",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel controls backlight"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Driver side turn signal, stoplamp"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Stoplamps, center high-mounted stoplamp"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Ultrasonic rear parking assist, power liftgate"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "Rear wiper"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Driver power door lock (unlock feature)"
+    ],
+    [
+     "F27",
+     "Circuit breaker ATO",
+     "",
+     "Driver side power window circuit breaker"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Center Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-yukon-2014-genid-g3-2.webp",
+   "fuses": [
+    [
+     "CB1",
+     "Circuit breaker ATO",
+     "",
+     "Passenger side power window circuit breaker"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Passenger seat circuit breaker"
+    ],
+    [
+     "CB3",
+     "Circuit breaker ATO",
+     "",
+     "Driver seat circuit breaker"
+    ],
+    [
+     "CB4",
+     "Circuit breaker ATO",
+     "",
+     "Rear sliding window"
+    ]
+   ]
+  }
+ ]
+}
