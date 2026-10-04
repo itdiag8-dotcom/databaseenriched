@@ -1,0 +1,342 @@
+{
+ "make_slug": "ford",
+ "model_slug": "contour",
+ "brand_db": "Ford",
+ "model_db_name": "Contour",
+ "model_id": 6694,
+ "generation_name": "1st generation (\"CDW27\")",
+ "generation_code": "g1",
+ "year_start": 1995,
+ "year_end": 2000,
+ "trim_label": "",
+ "representative_year": 2000,
+ "source_url": "https://www.startmycar.com/ford/contour/info/fusebox/2000",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-contour-2000-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Alternator"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Fog lamps"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "3A",
+     "EEC ignition module (memory)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Horn and hazard flasher warning system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Ignition, electronic engine control"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "HEGO sensor"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "ABS module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Low beam headlamp (passenger's side)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Low beam headlamp (driver's side)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "High beam headlamp (passenger's side)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "High beam headlamp (driver's side)"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "20A",
+     "Ignition, light switch, central junction box"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "20A",
+     "EEC relay"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "40A",
+     "Central junction box (fuse 37 to blower relay)"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "60A",
+     "Engine cooling"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "60A",
+     "Central junction box (central timer module, rear window defrost relay, fuses 24, 25, 27, 28, 34)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "EEC module"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air conditioning"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "High beam"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Engine cooling fan (high speed)"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Engine cooling fan"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Daytime running lights"
+    ],
+    [
+     "D1",
+     "Diode ATO",
+     "",
+     "Reverse voltage protection"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-contour-2000-genid-g1-1.webp",
+   "fuses": [
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Wiper motors"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "40A",
+     "Power windows"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "15A",
+     "Backup lamps"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "15A",
+     "Brake lamps"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "20A",
+     "Door locks"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "7.5A",
+     "Main light"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "30A",
+     "Electric seats"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "30A",
+     "Rear window defrost"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "7.5A",
+     "Engine management system"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument panel illumination"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "7.5A",
+     "Radio"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "7.5A",
+     "Parking lamps - driver's side"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "7.5A",
+     "Interior lighting, electric mirror adjustment"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "7.5A",
+     "Parking lamps - passenger's side"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "30A",
+     "Heater blower motor"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Interior lighting"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Rear window defrost"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Heater blower motor"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Wiper motor"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "D2",
+     "Diode MINI",
+     "",
+     "Reverse voltage protection"
+    ]
+   ]
+  }
+ ]
+}
