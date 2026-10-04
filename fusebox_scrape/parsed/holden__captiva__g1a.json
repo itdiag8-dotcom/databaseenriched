@@ -1,0 +1,679 @@
+{
+ "make_slug": "holden",
+ "model_slug": "captiva",
+ "brand_db": "Holden",
+ "model_db_name": "Captiva",
+ "model_id": 2069,
+ "generation_name": "Captiva / Captiva 7 (CG, C100, C140)",
+ "generation_code": "g1a",
+ "year_start": 2006,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/holden/captiva/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-captiva-2017-genid-g1a-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "80A",
+     "PWM fan"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Coil A / oil pump"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil B"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit (ECM)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "ECM powertrain"
+    ],
+    [
+     "10",
+     "Relay",
+     "",
+     "Powertrain relay (electronic throttle control)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Engine sensors"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "Starter system"
+    ],
+    [
+     "13",
+     "Relay",
+     "",
+     "Aux pump relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Transmission control unit (TCM)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Aux pump"
+    ],
+    [
+     "16",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Fuel/vacuum pump relay"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Anti-lock braking system"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 3 / charging system"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic parking brake"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Stop lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "25A",
+     "Front wipers"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Body control module"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "20A",
+     "Fuel/vacuum"
+    ],
+    [
+     "27",
+     "Relay",
+     "",
+     "Stop lamp relay"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 2 / charging system"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Low beam RH"
+    ],
+    [
+     "30",
+     "Relay",
+     "",
+     "Wiper control relay"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Parking lights RH"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Parking lights LH"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 1 / charging system"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Low beam LH"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Wiper speed relay"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Trailer park lamp"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "41",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "Heated washer/mirror"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "44",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "45",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "47",
+     "Relay",
+     "",
+     "Headlamp washer relay"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "Park lamp RH / liftgate"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "High beam LH"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "High beam RH"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "Front fog relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Floor console fuses and relays",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-captiva-2017-genid-g1a-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Sunroof / folding mirror"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "FSCM / vent solenoid"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Front door lock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Trailer"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "APO jack (console)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Heated seat power / rear A/C"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "BCM (park/turn)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power window"
+    ],
+    [
+     "11",
+     "Relay",
+     "",
+     "ACC/RAP relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "BCM (stop)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "BCM (courtesy)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "20A",
+     "Driver power window"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Cigar/APO jack relay"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "20A",
+     "Sunroof battery"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "APO jack rear cargo"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Run/crank"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "BCM (turn signal)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lights"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Run relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Front washer"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Liftgate"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "Run/crank relay"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Heating mat switch"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "FSCM"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "AWD/vent"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Rear heated seat"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Run 2"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "ISRVM/RCM"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Rear fog"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "BCM (dimmer)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Logistic mode"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Cluster"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "SDM (IGN 1)"
+    ],
+    [
+     "41",
+     "Diode MINI",
+     "",
+     "Power diode"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "BCM (VBATT)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "30A",
+     "Trailer battery"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "RVS/HVAC/DLC"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "2A",
+     "Power moding"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "SSPS"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "XBCM"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "BCM (interior light) / trailer fog"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "IPC"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "30A",
+     "DC-DC converter"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "SDM (battery)"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "2A",
+     "OSRVM"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "10A",
+     "Audio / key capture"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "2A",
+     "Steering wheel switch"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Diesel auxiliary fuse and relay block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-holden-captiva-2017-genid-g1a-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC 3"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC 2"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC 1"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel filter heater"
+    ],
+    [
+     "F5",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Glow plug control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Relay PTC 3"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Relay PTC 2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Relay PTC 1"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Relay fuel filter heater"
+    ]
+   ]
+  }
+ ]
+}
