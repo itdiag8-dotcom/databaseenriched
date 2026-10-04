@@ -1,0 +1,354 @@
+{
+ "make_slug": "great-wall",
+ "model_slug": "x200",
+ "brand_db": "Great Wall",
+ "model_db_name": "X200",
+ "model_id": null,
+ "generation_name": "1st generation (K2)",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/great-wall/x200/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-great-wall-x200-2014-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Radio, sunroof"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Trunk unlock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Instruments"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "A/C"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper motor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Front wiper motor"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Brake light"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Right window"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "Left window"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Defogger"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Power seat"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Trunk unlock relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Defogger relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Ignition unload relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "License plate light relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-great-wall-x200-2014-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Engine heater"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Ignition"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Light"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Differential locks"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(BCM) Body control module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(ECU IG) Engine control unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Rear fog lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "(BCM) Body control module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Seat heater"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "25A",
+     "(ABS 2) Anti-lock braking system"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Circuit"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Circuit"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS 1) Anti-lock braking system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(BCM) Body control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Interior lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "High beam"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Reverse light"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Low beam"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "Power control / power management"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine heater relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High speed cooling fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Power control relay"
+    ],
+    [
+     "S5",
+     "Fuse MINI",
+     "15A",
+     "(ECU B+) Engine control unit"
+    ]
+   ]
+  }
+ ]
+}

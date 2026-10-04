@@ -323,11 +323,11 @@
   "ford": 94,
   "geely": 14,
   "genesis": 6,
-  "gmc": 23
+  "gmc": 23,
+  "great-wall": 12
  },
  "in_progress": null,
  "queue_next_makes": [
-  "great-wall",
   "haval",
   "holden",
   "honda",
@@ -1019,10 +1019,14 @@
   "great-wall/steed": "done",
   "great-wall/voleex-c30": "done",
   "great-wall/wingle-3": "done_no_db_model",
-  "great-wall/wingle-5": "done"
+  "great-wall/wingle-5": "done",
+  "great-wall/wingle-6": "no_data",
+  "great-wall/wingle-7": "no_data",
+  "great-wall/x200": "done_no_db_model",
+  "great-wall/x240": "done"
  },
- "last_updated": "2026-10-04 great-wall voleex-c30, wingle-3, wingle-5 done",
- "current_brand": "great-wall",
+ "last_updated": "2026-10-04 GREAT WALL COMPLETE (12 slugs); next haval",
+ "current_brand": "haval",
  "audi_done_models": [
   "a1",
   "a2",
