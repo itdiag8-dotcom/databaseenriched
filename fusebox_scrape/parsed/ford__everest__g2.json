@@ -1,0 +1,426 @@
+{
+ "make_slug": "ford",
+ "model_slug": "everest",
+ "brand_db": "Ford",
+ "model_db_name": "Everest",
+ "model_id": 1790,
+ "generation_name": "2nd generation (\"U375\")",
+ "generation_code": "g2",
+ "year_start": 2016,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/ford/everest/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-everest-2021-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Demand lamp / battery saver - overhead console, automatic transmission gear shifter, glove box lamp, sun visor, grab handle, map lamps"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Driver door latch/fuel flap unlock relay, door double/aux lock relay"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "20A",
+     "Subwoofer amplifier"
+    ],
+    [
+     "8",
+     "Fuse MICRO3",
+     "10A",
+     "Security horn"
+    ],
+    [
+     "10",
+     "Fuse MICRO3",
+     "5A",
+     "Power liftgate module"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "5A",
+     "Interior motion sensor"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Electronic control panel, climate control module, rear auxiliary module"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Instrument cluster, steering column control module, smart data link connector"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "10A",
+     "Gateway module/smart data link connector - OBD II (RHD)"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "Child lock"
+    ],
+    [
+     "17",
+     "Fuse MICRO3",
+     "5A",
+     "Battery backed sounder"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "5A",
+     "Ignition switch"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "7.5A",
+     "Headlamp control module (if fitted)"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "Humidity and in-car temperature sensor"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Inverter, door lock switch, moon roof, driver door window switch (one touch up/down all doors)"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Central locking system"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "30A",
+     "Driver door control module (power window one touch up/down all doors), driver door power window switch memory (one touch up/down driver only)"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger door control module (power window one touch up/down)"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "30A",
+     "Moonroof"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "30A",
+     "Left rear door control module (power window - one touch up/down)"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "30A",
+     "Right rear door control module (power window - one touch up/down)"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Radio transceiver module, SYNC, global positioning system module, multi function display, door entry remote"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Audio unit"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Run/start relay"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "5A",
+     "Restraints control module"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Interior rear view mirror electrochromatic"
+    ],
+    [
+     "38",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows (without door control module - one touch up/down driver only)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-everest-2021-genid-g2-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Relay",
+     "",
+     "Starter motor solenoid relay"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper, rain sensor"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Front blower motor relay"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 3 (console rear)"
+    ],
+    [
+     "6",
+     "Relay",
+     "",
+     "Headlamp low beam relay (high intensity discharge)"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Powertrain control module"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "Powertrain control module - volumetric control valve, EGR cooler bypass, TMAF"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 1 / cigar lighter"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "15A",
+     "Powertrain control module - NOx sensor (if fitted)"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "15A",
+     "Powertrain control module - fan drive, glow plug control module"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "Run/start relay"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 2 / cigar lighter"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 4 - 3rd row power point"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Electric power assisted steering"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp switch, headlamp levelling motor"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "Transfer case control module - terrain management switch"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning compressor"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "15A",
+     "Parking aid rear view camera, blind spot monitoring module, adaptive speed control radar and heads up display (if fitted)"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "5A",
+     "Exhaust emissions - rear dosing control module (if fitted)"
+    ],
+    [
+     "25",
+     "Fuse MICRO3",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "26",
+     "Fuse MICRO3",
+     "10A",
+     "Mirror adjust switch"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "5A",
+     "PTC heater (if fitted)"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "10A",
+     "Rear window washer pump"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "Air conditioning clutch relay"
+    ],
+    [
+     "35",
+     "Fuse MICRO3",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "10A",
+     "Heated exterior mirror"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "41",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Seat third row power fold relay"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "15A",
+     "Exhaust emissions - rear dosing control module (if fitted)"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "25A",
+     "Headlamp washer pump"
+    ],
+    [
+     "47",
+     "Fuse MICRO3",
+     "10A",
+     "Brake pedal switch"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "15A",
+     "Exhaust emissions - rear dosing control module (if fitted)"
+    ],
+    [
+     "54",
+     "Fuse MICRO3",
+     "10A",
+     "Exhaust emissions - rear dosing control module (if fitted)"
+    ],
+    [
+     "55",
+     "Fuse MICRO3",
+     "10A",
+     "Exhaust emissions - rear dosing control module (if fitted)"
+    ],
+    [
+     "86",
+     "Relay",
+     "",
+     "Rear blower motor relay"
+    ]
+   ]
+  }
+ ]
+}
