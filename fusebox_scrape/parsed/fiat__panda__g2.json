@@ -1,0 +1,205 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "panda",
+ "brand_db": "Fiat",
+ "model_db_name": "Panda",
+ "model_id": 1701,
+ "generation_name": "2nd generation (\"Type 169\")",
+ "generation_code": "g2",
+ "year_start": 2003,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/fiat/panda/info/fusebox/2012",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-panda-2012-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "Right dipped beam headlight"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Left dipped beam headlight, headlight aiming adjustment"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "+30 door locking device"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "EOBD diagnosis socket, radio, automatic climate control system, body computer control unit"
+    ],
+    [
+     "F40",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F43",
+     "Fuse ATO",
+     "30A",
+     "Windscreen wiper/washer"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "15A",
+     "Windscreen / rear window washer pump"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "20A",
+     "Front left power window"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "20A",
+     "Front right power window"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-panda-2012-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F35",
+     "Fuse MICRO2",
+     "7.5A",
+     "+15 radio / central dashboard"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "10A",
+     "+15 stop lights"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "7.5A",
+     "Automatic climate control system / water-in-diesel filter sensor"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "5A",
+     "+15 body computer control unit / +15 instrument panel"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-panda-2012-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "7.5A",
+     "Air climate control compressor"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Main beam headlights"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "+30 trailer control unit / differential lock ECU (4x4 versions)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump supply"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Headlamp washers / gas solenoid valves (1.2 LPG Euro 5)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "7.5A",
+     "Headlamp washers / gas solenoid valves (1.2 LPG Euro 5)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "7.5A",
+     "Gas solenoid valves (1.4 Natural Power versions)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Electric sun roof"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "Reversing lights"
+    ],
+    [
+     "F22",
+     "Fuse MAXI",
+     "20A",
+     "Subwoofer"
+    ],
+    [
+     "F28",
+     "Fuse ATO",
+     "30A",
+     "Climate control system fan"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "20A",
+     "Cigar lighter / current socket"
+    ]
+   ]
+  }
+ ]
+}

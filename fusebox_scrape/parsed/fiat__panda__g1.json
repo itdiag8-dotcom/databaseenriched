@@ -1,0 +1,113 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "panda",
+ "brand_db": "Fiat",
+ "model_db_name": "Panda",
+ "model_id": 1701,
+ "generation_name": "1st generation (\"Type 141\")",
+ "generation_code": "g1",
+ "year_start": 1980,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/fiat/panda/info/fusebox/2003",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-panda-2003-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse ATO",
+     "15A",
+     "Hazard warning lights, clock, interior lights, cigarette lighter, radio"
+    ],
+    [
+     "F2",
+     "Fuse ATO",
+     "15A",
+     "Heated rear windscreen"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "25A",
+     "Cooling fan, horn, interior lights"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "10A",
+     "Instrument panel, direction indicators, brake lights"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "10A",
+     "Right main beam"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "10A",
+     "Left main beam"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "10A",
+     "Right dipped beam"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "10A",
+     "Left dipped beam"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument panel, clock, right tail light, left number plate light, front left sidelight"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument panel, front right sidelight, left tail light, right number plate light"
+    ],
+    [
+     "F14",
+     "Fuse ATO",
+     "20A",
+     "Wash/wipe system"
+    ],
+    [
+     "F15",
+     "Fuse ATO",
+     "15A",
+     "Blower"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Heated rear windscreen"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Flasher unit"
+    ]
+   ]
+  }
+ ]
+}

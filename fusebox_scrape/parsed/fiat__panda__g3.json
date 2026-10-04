@@ -1,0 +1,458 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "panda",
+ "brand_db": "Fiat",
+ "model_db_name": "Panda",
+ "model_id": 1701,
+ "generation_name": "3rd generation (\"Type 319\")",
+ "generation_code": "g3",
+ "year_start": 2011,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/fiat/panda/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-panda-2020-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "Electric sliding sunroof"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "20A",
+     "Brake system"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "20A",
+     "Ignition lock"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Air conditioner fan"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "Two speed cooling fan (or 35A) or not used"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "70A",
+     "Electric power steering"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "20A",
+     "Two-speed or single-speed cooling fan"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "30A",
+     "Two-speed or single-speed cooling fan"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Fuel module (fuel pump fuse)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "12V power outlet / cigarette lighter"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Headlights, high beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "15",
+     "Fuse MAXI",
+     "60A",
+     "Body control unit"
+    ],
+    [
+     "16",
+     "Fuse MAXI",
+     "50A",
+     "Heated fuel filter (diesel)"
+    ],
+    [
+     "17",
+     "Fuse MAXI",
+     "70A",
+     "Heated windshield"
+    ],
+    [
+     "18",
+     "Fuse MAXI",
+     "30A",
+     "Transmission pump or glow plug control unit"
+    ],
+    [
+     "18",
+     "Fuse MAXI",
+     "50A",
+     "Transmission pump or glow plug control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Engine management system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Heater fan"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Automatic transmission or differential control unit or CNG injectors"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission or differential control unit or CNG injectors"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Gas supply relay or CNG relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Engine management system or fuel delivery module or CNG injectors"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Engine management system or LPG control unit"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Engine management system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Brake system / electric power steering"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "Engine management system or automatic transmission or CNG injector"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Reverse light switch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "Heated mirrors"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window heating"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Battery sensor"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Heated seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan, high speed relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Engine management system"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window heating"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Heater fan"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Single speed cooling fan relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel filter heater, diesel"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fog lights"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Air conditioning fan"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Air conditioning compressor"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Headlights, high beam"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "12V sockets / cigarette lighter relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "CNG relay or engine start/stop switch"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Gas supply switch / start and stop system / CNG relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-panda-2020-genid-g3-1.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel power supply"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Central locking system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic connector / voltage regulator(s) / power supply"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Front and rear washer pumps"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Passenger side power window"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Headlight correction potentiometer"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Radio / climate control / brake pedal switch / clutch pedal switch / power sunroof / back-up light"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Stoplight switch / dashboard"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Parking sensor / brake system control module / seat heating / transmission solenoid / information display / lighting control"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Power outlet"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Driver's side power window"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Power Fusible Links",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-panda-2020-genid-g3-2.webp",
+   "fuses": [
+    [
+     "SA1",
+     "Fuse MIDI",
+     "30A",
+     "Battery sensor"
+    ],
+    [
+     "SA2",
+     "Fuse MIDI",
+     "30A",
+     "Heater PTC 1"
+    ],
+    [
+     "SA3",
+     "Fuse MIDI",
+     "50A",
+     "Heater PTC 2"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Trunk Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-panda-2020-genid-g3-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Brake system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Heated passenger seat"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Heated driver's seat"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Brake system"
+    ]
+   ]
+  }
+ ]
+}
