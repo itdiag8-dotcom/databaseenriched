@@ -1,0 +1,889 @@
+{
+ "make_slug": "ford",
+ "model_slug": "mustang",
+ "brand_db": "Ford",
+ "model_db_name": "Mustang",
+ "model_id": 1908,
+ "generation_name": "6th generation (S550)",
+ "generation_code": "g6",
+ "year_start": 2015,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/ford/mustang/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-mustang-2023-genid-g6-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electronic fan 1"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic fan 3"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "Automatic brake system pump"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Body control module"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defroster"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left-hand front window"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver seat"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger seat"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "30A",
+     "Climate controlled seat module"
+    ],
+    [
+     "15",
+     "Fuse FMM/MCase",
+     "20A",
+     "Convertible top slave motor"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "20A",
+     "Convertible top master motor"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "20A",
+     "Steering column lock relay"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Brake on-off switch"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module relay"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "24",
+     "Fuse FMM/MCase",
+     "30A",
+     "Voltage quality module"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "25A",
+     "Windshield wiper motor"
+    ],
+    [
+     "28",
+     "Fuse FMM/MCase",
+     "30A",
+     "Automatic brake system valve"
+    ],
+    [
+     "30",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor solenoid"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Latch relay coil"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Run/start"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Exhaust valves"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Alternator sense"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 1"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 2"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 3"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 4"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "20A",
+     "Differential pump"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "50",
+     "Relay",
+     "",
+     "Steering column lock relay"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "53",
+     "Fuse FMM/MCase",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "54",
+     "Fuse FMM/MCase",
+     "20A",
+     "Auxiliary power point"
+    ],
+    [
+     "55",
+     "Fuse FMM/MCase",
+     "25A",
+     "Electronic fan 2"
+    ],
+    [
+     "57",
+     "Relay",
+     "",
+     "Air conditioning clutch relay"
+    ],
+    [
+     "59",
+     "Relay",
+     "",
+     "Exhaust valves relay"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Powertrain control module"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "Anti-lock brakes run/start switch"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "5A",
+     "Electronic power assist steering"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "Blind spot information system, rear view camera, rear defroster relay coils, vehicle dynamics module"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "10A",
+     "Headlamp leveling switch"
+    ],
+    [
+     "69",
+     "Relay",
+     "",
+     "Cigar lighter relay, auxiliary power point relay"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "5A",
+     "Mass air flow sensor"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor module"
+    ],
+    [
+     "76",
+     "Relay",
+     "",
+     "Rear window defroster relay"
+    ],
+    [
+     "77",
+     "Relay",
+     "",
+     "Electronic cooling fan 2 relay"
+    ],
+    [
+     "78",
+     "Relay",
+     "",
+     "Run/start relay"
+    ],
+    [
+     "80",
+     "Relay",
+     "",
+     "Windshield wiper relay"
+    ],
+    [
+     "81",
+     "Relay",
+     "",
+     "Starter motor solenoid relay"
+    ],
+    [
+     "82",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "10A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "89",
+     "Relay",
+     "",
+     "Electronic fan 1 relay"
+    ],
+    [
+     "90",
+     "Relay",
+     "",
+     "Differential pump relay"
+    ],
+    [
+     "91",
+     "Relay",
+     "",
+     "Electronic fan 3 relay"
+    ],
+    [
+     "92",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "94",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power Distribution Box (GT500)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-mustang-2023-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Electronic fan 1"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "Automatic brake system pump"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Body control module"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defroster"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left-hand front window"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver seat"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger seat"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "30A",
+     "Climate controlled seat module"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "15A",
+     "Charge air cooler pump"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Transmission control unit"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Brake on-off switch"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module relay"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "24",
+     "Fuse FMM/MCase",
+     "30A",
+     "Voltage quality module"
+    ],
+    [
+     "25",
+     "Fuse FMM/MCase",
+     "20A",
+     "Steering column lock relay"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "25A",
+     "Windshield wiper motor"
+    ],
+    [
+     "28",
+     "Fuse FMM/MCase",
+     "30A",
+     "Automatic brake system valve"
+    ],
+    [
+     "30",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor solenoid"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Latch relay coil"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Left-hand high-intensity discharge headlamps"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Exhaust valves"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Right-hand high-intensity discharge headlamps"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Alternator sense"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 1"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 2"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 3"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "30A",
+     "Vehicle power 4"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "20A",
+     "Differential pump"
+    ],
+    [
+     "48",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump #2"
+    ],
+    [
+     "49",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "50",
+     "Relay",
+     "",
+     "Steering column lock relay"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "53",
+     "Fuse FMM/MCase",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "54",
+     "Fuse FMM/MCase",
+     "20A",
+     "Auxiliary power point"
+    ],
+    [
+     "57",
+     "Relay",
+     "",
+     "Air conditioning clutch relay"
+    ],
+    [
+     "59",
+     "Relay",
+     "",
+     "Exhaust valves relay"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Powertrain control module"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "Anti-lock brakes run/start switch"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "5A",
+     "Electronic power assist steering"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "Blind spot information system, rear view camera, rear defroster relay coils, vehicle dynamics module"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "10A",
+     "Signature lighting"
+    ],
+    [
+     "69",
+     "Relay",
+     "",
+     "Cigar lighter relay, auxiliary power point relay"
+    ],
+    [
+     "76",
+     "Relay",
+     "",
+     "Rear window defroster relay"
+    ],
+    [
+     "79",
+     "Relay",
+     "",
+     "Charge air cooler pump relay"
+    ],
+    [
+     "80",
+     "Relay",
+     "",
+     "Windshield wiper relay"
+    ],
+    [
+     "81",
+     "Relay",
+     "",
+     "Starter motor solenoid relay"
+    ],
+    [
+     "82",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "83",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "10A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "90",
+     "Relay",
+     "",
+     "Differential pump relay"
+    ],
+    [
+     "92",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "93",
+     "Relay",
+     "",
+     "Fuel pump #2 relay"
+    ],
+    [
+     "94",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-mustang-2023-genid-g6-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Power windows, electrochromic mirror, power door locks"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "7.5A",
+     "Power mirrors [base], memory seats [base]"
+    ],
+    [
+     "8",
+     "Fuse MICRO3",
+     "5A",
+     "Telematic control unit - modem"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Electronic control panel, gateway module, gear shift module [GT500]"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Steering column control module, instrument cluster"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "15A",
+     "SYNC, gauges"
+    ],
+    [
+     "17",
+     "Fuse MICRO3",
+     "7.5A",
+     "Headlamp leveling switch [base]"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "5A",
+     "Intrusion sensor module"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "In-vehicle temperature and humidity sensor"
+    ],
+    [
+     "22",
+     "Fuse MICRO3",
+     "5A",
+     "Auxiliary body module"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "30A",
+     "Vehicle dynamics module"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "20A",
+     "Ambient lighting module [base], auxiliary body module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Right-hand front window motor (power distribution module), passenger door control unit"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "30A",
+     "Left-hand rear-window power [base]"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "30A",
+     "Right-hand rear-window power [base]"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "15A",
+     "Gateway module [base]"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Remote keyless entry"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "20A",
+     "Audio unit"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Run/start bus"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "5A",
+     "Power distribution box run/start relay [base]"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Front camera [base]"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Heated steering wheel module [base]"
+    ]
+   ]
+  }
+ ]
+}

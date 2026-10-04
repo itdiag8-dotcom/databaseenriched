@@ -1,0 +1,564 @@
+{
+ "make_slug": "ford",
+ "model_slug": "mustang",
+ "brand_db": "Ford",
+ "model_db_name": "Mustang",
+ "model_id": 1908,
+ "generation_name": "5th generation (S197)",
+ "generation_code": "g5",
+ "year_start": 2005,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/ford/mustang/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-mustang-2014-genid-g5-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "Passenger compartment fuse panel"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower motor relay"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point (body)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster relay"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan relay"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system pump"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wipers"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Anti-lock brake system valve"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "20A",
+     "Differential fluid pump (Shelby only)"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "20A",
+     "Auxiliary body module"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter relay"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear amplifier (Shaker Pro radio)"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Powertrain relay"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point (instrument panel)"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger front window"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front amplifier (Shaker radio)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver front window motor"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "Convertible top motor"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay (non-Shelby)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "Fuel pump relay (Shelby only)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay #2 (Shelby only)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Intercooler pump relay (Shelby only)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Alternator sense"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module keep-alive power"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Brake on/off power"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor relay"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Left high intensity discharge headlamp relay"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Right high intensity discharge headlamp relay"
+    ],
+    [
+     "36",
+     "Diode MINI",
+     "",
+     "Fuel diode"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors (Shelby only)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "5A",
+     "Heated mirrors"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "PCM vehicle power 4 - ignition coil"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "5A",
+     "PCM run/start"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "PCM vehicle power 3 - general powertrain components"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "PCM vehicle power 1"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "PCM vehicle power 5"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "PCM vehicle power 2 - emissions related powertrain components"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan relay (high)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear defroster relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan relay (low)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Differential fluid pump relay (Shelby only)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Intercooler pump relay (Shelby only)"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Fuel pump relay #2 (Shelby only)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-mustang-2014-genid-g5-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Driver rear window (convertible only)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "SYNC"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "Passenger rear window (convertible only)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Brake transmission shift interlock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Turn signals, hazard flashers"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Left low beam headlamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Right low beam headlamp"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Courtesy lamps"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Switch illumination, pony projection lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Security module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirrors"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Center information display, electronic finish panel, GPS"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Climate control"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Power door locks, trunk release"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Diagnostic connector"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Park lamps, license lamps"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "High beam headlamps"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Demand lighting (battery saver), visor vanity lamps"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Cluster (battery)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch feed"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Audio mute (start)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Camera (run/start)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "Temperature sensor motor"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Restraints control module"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Reverse parking aid (non-Shelby), vehicle dynamics control module (Shelby only)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "Electronic stability control"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "Auxiliary body module run/start"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Anti-theft system"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Rear defroster relay coil"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Radio/navigation"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Accessory delay (windows, auto-dimming mirror, door switch)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Heated seat relay coils"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "5A",
+     "Wiper relay and module, blower relay"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "7.5A",
+     "Passenger airbag deactivation indicator, occupant classification sensor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Accessory delay relay (windows, auto-dimming mirror, door switch)"
+    ]
+   ]
+  }
+ ]
+}
