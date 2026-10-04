@@ -1,0 +1,649 @@
+{
+ "make_slug": "gmc",
+ "model_slug": "terrain",
+ "brand_db": "GMC",
+ "model_db_name": "Terrain",
+ "model_id": 2018,
+ "generation_name": "2nd generation (D2UG)",
+ "generation_code": "g2",
+ "year_start": 2017,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/gmc/terrain/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-terrain-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 1"
+    ],
+    [
+     "F02",
+     "Fuse FMX/JCase",
+     "",
+     "Starter 2"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "",
+     "Lambda sensor 1, purge motor (some models)"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "",
+     "Engine control"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "",
+     "Aero shutter/water pump module"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "",
+     "Air conditioning clutch"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Canister vent solenoid"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Fuel system"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Engine coolant pump"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Lambda sensor 2"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Ignition coils"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "",
+     "DC DC converter 2"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "",
+     "Shift control"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake pump"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "",
+     "Front/rear washer pump"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "Antilock brake valves"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "",
+     "LD trailer"
+    ],
+    [
+     "F29",
+     "Fuse FMX/JCase",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Mirror defroster"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Variable functions"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Horn"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Headlamps/daytime running lamps right"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "",
+     "Automatic headlamp leveling"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "",
+     "Transmission range control module"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "",
+     "Motorized headlamp"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "",
+     "Interior rearview mirror"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "",
+     "Passenger side ventilated seat"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "",
+     "Driver side ventilated seat"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "",
+     "Steering column lock assembly"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "",
+     "Engine control module/transmission control"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "",
+     "Front wiper speed/control"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "",
+     "Headlamps/daytime running lamps left"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "Starter solenoid"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "Air conditioning control"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "K04",
+     "Relay",
+     "",
+     "Front wiper control"
+    ],
+    [
+     "K05",
+     "Relay",
+     "",
+     "Starter solenoid 2"
+    ],
+    [
+     "K09",
+     "Relay",
+     "",
+     "Front wiper speed"
+    ],
+    [
+     "K12",
+     "Relay",
+     "",
+     "Headlamps/daytime running lamps right"
+    ],
+    [
+     "K13",
+     "Relay",
+     "",
+     "Headlamps/daytime running lamps left"
+    ],
+    [
+     "K14",
+     "Relay",
+     "",
+     "Run/crank"
+    ],
+    [
+     "K15",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-terrain-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMM/MCase",
+     "",
+     "DC AC inverter"
+    ],
+    [
+     "F02",
+     "Fuse FMM/MCase",
+     "",
+     "Front windows"
+    ],
+    [
+     "F03",
+     "Fuse FMM/MCase",
+     "",
+     "Trailer brake"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "",
+     "Heating, ventilation, and air conditioning blower"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "",
+     "Central gateway module"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "",
+     "Body control module 3"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "",
+     "Amplifier"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Electronic shifter"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "",
+     "Transmission control module"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "",
+     "Front heated seats"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Left data link connector"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Body control module 7"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "Exterior mirror"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Body control module 4"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "",
+     "Sensing and diagnostic module"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "",
+     "Occupancy sensor"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "",
+     "Power seats"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "",
+     "Rear windows"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "",
+     "Front heated seats switch"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "",
+     "Steering wheel controls"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "",
+     "Body control module 8"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "",
+     "Heating, ventilation, and air conditioning"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "",
+     "Passive entry, passive start"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "",
+     "Liftgate latch"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "",
+     "Wireless charger module/USB accessory"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "",
+     "Cigarette lighter"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "",
+     "OnStar"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "",
+     "Instrument panel USB"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "",
+     "Camera module/liftgate module"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "",
+     "Park assist module/center stack display/HVAC display/universal garage door opener/overhead control switchbank"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "",
+     "Radio"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "Retained accessory power"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Liftgate"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Compartment Fuse Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-gmc-terrain-2024-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "",
+     "Power seat"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "",
+     "Liftgate"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "",
+     "Trailer auxiliary power"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "",
+     "Memory seat module"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "",
+     "Sunroof"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "",
+     "Side blind zone alert"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "",
+     "Trailer reverse lamps"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "",
+     "Rear heated seat 1"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "",
+     "Park lamps"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "",
+     "Rear heated seat 2"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "",
+     "Trailer parking lamp"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "",
+     "Right trailer stoplamp/turn signal lamp"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "",
+     "Video processing module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "",
+     "Left trailer stoplamp/turn signal lamp"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "",
+     "All-wheel drive"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "",
+     "Lumbar"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "",
+     "Rear auxiliary power outlet"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "",
+     "Rear drive unit"
+    ],
+    [
+     "K1",
+     "Relay",
+     "",
+     "Right trailer stoplamp/turn signal lamp"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Trailer reverse lamps"
+    ],
+    [
+     "K3",
+     "Relay",
+     "",
+     "Left trailer stoplamp/turn signal lamp"
+    ],
+    [
+     "K4",
+     "Relay",
+     "",
+     "Park lamps"
+    ]
+   ]
+  }
+ ]
+}
