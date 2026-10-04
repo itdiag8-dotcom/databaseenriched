@@ -1,0 +1,498 @@
+{
+ "make_slug": "ford",
+ "model_slug": "falcon",
+ "brand_db": "Ford",
+ "model_db_name": "Falcon",
+ "model_id": null,
+ "generation_name": "Australia Gen 8 (\"FG\",\"FG X\")",
+ "generation_code": "g8b",
+ "year_start": 2008,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/ford/falcon/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-falcon-2016-genid-g8b-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Turn signal switch / memory module (seat)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Coil driver"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Reverse lights, reverse park aid"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "DSC/ABS control unit, yaw rate sensor, steering angle sensor (with DSC)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Heater integrated module (HIM)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Stop lights (PCM, ABS)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Transmission"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Washer pump, wiper"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Mobile phone"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Turn signal / hazard lights"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Transmission (if F23 not fitted in engine compartment)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirrors, rear demister relay, electrochromatic mirror"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Mobile phone, Bluetooth"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Door locks"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Tail/park lights, switch illumination, display, cluster, interior command centre"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Body control module, memory module, SDLC"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Petrol: interior lights, antenna, solar sensor, gearshift (sports sequential), rain sensor"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "EcoLPi: BCM battery save circuit (preprime PCM, feed fuses 40 & 41)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "30A",
+     "Trailer"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Heater integrated module (HIM), alarm, diagnostic connector"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Interior command centre, display"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, body control module, interior command centre"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Petrol: injectors"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front power windows"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear power windows"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Interior lights, antenna, solar sensor, gearshift (sports sequential)"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "5A",
+     "Fuel tank level sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-falcon-2016-genid-g8b-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Multi fuse block MUSB - Main"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Multi fuse block MUSB - Batt 1"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Multi fuse block MUSB - Batt 3"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "Multi fuse block MUSB - 5.0L Coyote: Starter"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "Multi fuse block MUSB - Eng"
+    ],
+    [
+     "6",
+     "Other",
+     "",
+     "Multi fuse block MUSB - Ignition"
+    ],
+    [
+     "7",
+     "Other",
+     "",
+     "Multi fuse block MUSB - Rear window defroster"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "4.0L Barra (EcoLPi): EEC (PCM), LPG relay coils, LPG bypass and jet pump relay feed, IMCC, VCT"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "2.0L EcoBoost: VPWR 2, HEGO, UEGO, canister purge, Ti-VCT (intake and exhaust)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "2.0L EcoBoost: VPWR 4"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Air conditioning compressor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "4.0L Barra (EcoLPi): EEC (PCM) and LPG module KAP"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Wiper front"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "Headlamps (low beam) - projector lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Cluster"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "4.0L Barra (EcoLPi): Fuel (LPG)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Fog lamp"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch, alternator, relay coil, fan, ignition, accessory, alarm fuse"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Right headlamp (low beam)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Left headlamp (high beam)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "2.0L EcoBoost: VPWR 3 - VRVS, ECBV"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Right headlamp - low/high projector"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Left headlamp - low/high projector"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fan 1 relay (except 2.0L, 5.0L)"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "5.0L Coyote: Batt 3"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower fan - climate control"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS valve relay"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor relay"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Dual fan: fan 2 relay (except 2.0L, 5.0L)"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "Accessory"
+    ],
+    [
+     "D15",
+     "Diode MINI",
+     "",
+     "EEC (PCM)"
+    ],
+    [
+     "D17",
+     "Diode MINI",
+     "",
+     "Starter"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlamp (projector) - keep on with high (LH)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp (projector) - keep on with high (RH)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "EEC (ECM/PCM)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window defroster"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Dual fan: fan 2 (except 2.0L, 5.0L)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "WAC (air conditioning compressor)"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fan 3 (except 2.0L, 5.0L)"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "5.0L Coyote: Starter"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Headlamp (low beam)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Headlamp (high beam)"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Reverse lamps relay (6-speed automatic) - forward of engine compartment fuse box"
+    ]
+   ]
+  }
+ ]
+}

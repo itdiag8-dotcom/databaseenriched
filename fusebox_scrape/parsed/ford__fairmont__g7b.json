@@ -1,0 +1,438 @@
+{
+ "make_slug": "ford",
+ "model_slug": "fairmont",
+ "brand_db": "Ford",
+ "model_db_name": "Fairmont",
+ "model_id": null,
+ "generation_name": "Australia Gen 7 (\"BA\",\"BF\")",
+ "generation_code": "ford__falcon_g7b",
+ "year_start": 2002,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/ford/fairmont/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fairmont-2007-genid-ford__falcon_g7b-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(TURN) Turn signal"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "(IG COIL) Ignition coil"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "(AIR BAG) Airbag"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(REVERSE LAMP) Backup lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "CDU-IGN"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(STOP LAMP) Stop lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "(WIPER) Wipers"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(NAV) Audio system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "MOBILE OFFICE"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "(CIGARETTE) Cigar lighter / power outlet"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "(AMPLIFIER) Audio system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Hazard light"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "(RADIO) Radio and audio system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "CDU-ACCY"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "MOBILE PHONE"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "(DOOR LOCK) Power door lock system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(TAIL) Tail lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "BEM"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "(COURTESY) Interior lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "30A",
+     "(TRAILER) Trailer"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(CLUSTER) Instrument cluster"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "CDU-BATT"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(INSTRUMENT CLUSTER) Instrument cluster"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "(INJ) Fuel injectors"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "(P/WF) Power windows front"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "(P/WR) Power windows rear"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "(SEAT) Power seats"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(IG RELAY) Ignition - protects several circuits"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(P/W RELAY) Power windows"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(ACC RELAY) Protects several accessory circuits"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(TAIL RELAY) Tail lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fairmont-2007-genid-ford__falcon_g7b-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLM",
+     "60A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "2",
+     "Fuse FLM",
+     "140A",
+     "(MAIN) Main fuse"
+    ],
+    [
+     "3",
+     "Fuse FLM",
+     "60A",
+     "IGN"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "(FAN 1) Electric cooling fan"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "(FAN 2) Electric cooling fan"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ACC) Protects several accessory circuits"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "(A/C) Air conditioning"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BACKLIGHT) Backup lights"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BATT 1) Battery and charging system"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BATT 2) Battery and charging system"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ENG) Engine control system"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "(STARTER) Starter system"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS No 2) Anti-lock braking system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(HI LH) Left-hand headlight high beam"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(HI RH) Right-hand headlight high beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "IG SW"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "(FUEL) Fuel pump"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "(LOW RH) Right-hand headlight low beam"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "(LOW LH) Left-hand headlight low beam"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "(HEGO) Heated exhaust gas oxygen sensor"
+    ],
+    [
+     "30",
+     "Diode MINI",
+     "",
+     "Diode (ECC)"
+    ],
+    [
+     "31",
+     "Diode MINI",
+     "",
+     "Diode (ST)"
+    ],
+    [
+     "32",
+     "Diode MINI",
+     "",
+     "Resistor (ST)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(FOG) Fog lights"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(STARTER) Starter system"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(HEAD LAMP HI) Headlights high beam"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(HEAD LAMP LOW) Headlights low beam"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(HORN) Horn"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(BACKLIGHT) Backup lights"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "(FAN 3) Electric cooling fan"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(FAN 2) Electric cooling fan"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(FAN 1) Electric cooling fan"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(FUEL PUMP) Fuel pump"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(ECC POWER) Air conditioning system"
+    ]
+   ]
+  }
+ ]
+}

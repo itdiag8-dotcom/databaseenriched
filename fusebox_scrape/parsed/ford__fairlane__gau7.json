@@ -1,0 +1,330 @@
+{
+ "make_slug": "ford",
+ "model_slug": "fairlane",
+ "brand_db": "Ford",
+ "model_db_name": "Fairlane",
+ "model_id": null,
+ "generation_name": "AU (\"AU\")",
+ "generation_code": "gau7",
+ "year_start": 1999,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2002,
+ "source_url": "https://www.startmycar.com/ford/fairlane/info/fusebox/2002",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passengers Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fairlane-2002-genid-gau7-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Cluster IG"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Reverse lamps"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "(Radio No. 2) Radio and audio system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(Cig ltr) Cigar lighter / power outlet"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(Stop lamps) Stop lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Navigation"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Fan coils"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Demist"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(Radio No. 1) Radio and audio system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "BEM battery"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Courtesy lamps"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "(Wiper) Wipers"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Mobile office"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "(Heater/AC) Air conditioning system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Tail lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(Hazard) Hazard light"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(A/Bag No. 1) Airbag"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(Turn signal) Turn signal"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "(Door locks) Power door lock system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(Cluster batt) Instrument cluster"
+    ],
+    [
+     "24",
+     "Relay",
+     "",
+     "R1 Air conditioning"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "R2 Tail lamps"
+    ],
+    [
+     "26",
+     "Relay",
+     "",
+     "R3 Heated backlite"
+    ],
+    [
+     "27",
+     "Relay",
+     "",
+     "R4 Power windows"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "R5 Flasher"
+    ],
+    [
+     "29",
+     "Circuit breaker MAXI",
+     "",
+     "C/B Power windows"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "20A",
+     "(Amplifier) Audio system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-fairlane-2002-genid-gau7-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLM",
+     "60A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "2",
+     "Fuse FLM",
+     "120A",
+     "(MAIN) Main fuse"
+    ],
+    [
+     "3",
+     "Fuse FLM",
+     "60A",
+     "(IG) Protects several circuits"
+    ],
+    [
+     "4",
+     "Fuse FLM",
+     "30A",
+     "(ENG) Engine control system"
+    ],
+    [
+     "5",
+     "Fuse FLM",
+     "40A",
+     "(BATT) Battery and charging system"
+    ],
+    [
+     "6",
+     "Fuse FLM",
+     "40A",
+     "(FAN-1) Electric cooling fan"
+    ],
+    [
+     "7",
+     "Fuse FLM",
+     "40A",
+     "(FAN-2) Electric cooling fan"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "(HORN) Horn"
+    ],
+    [
+     "9",
+     "Fuse FLM",
+     "40A",
+     "(A/C) Air conditioning"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "(HEGO) Heated exhaust gas oxygen sensor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "WAC (wide open throttle A/C cutout)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(HDLP HI) Headlights high beam"
+    ],
+    [
+     "R3",
+     "Circuit breaker MAXI",
+     "",
+     "(HDLP C/B) Headlights circuit breaker"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(EEC) Engine control unit"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(HORN) Horn"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(STARTER) Starter system"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(FAN-3) Electric cooling fan"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "(FAN-1) Electric cooling fan"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(FUEL) Fuel pump"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(HDLP-LO) Headlights low beam"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(FAN-2) Electric cooling fan"
+    ],
+    [
+     "D1",
+     "Diode MINI",
+     "",
+     "D-1"
+    ],
+    [
+     "D2",
+     "Diode MINI",
+     "",
+     "D-2"
+    ]
+   ]
+  }
+ ]
+}
