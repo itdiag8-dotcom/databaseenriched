@@ -1,0 +1,648 @@
+{
+ "make_slug": "honda",
+ "model_slug": "cr-v-hybrid",
+ "brand_db": "Honda",
+ "model_db_name": "CR-V Hybrid",
+ "model_id": null,
+ "generation_name": "2nd generation",
+ "generation_code": "g2",
+ "year_start": 2022,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/honda/cr-v-hybrid/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-cr-v-hybrid-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Main vehicle power fuse"
+    ],
+    [
+     "2-3",
+     "Other",
+     "",
+     "Power seat / power tailgate fuses (B40-B54)"
+    ],
+    [
+     "2-4",
+     "Other",
+     "",
+     "PTC heater core (via PTC heater A relay)"
+    ],
+    [
+     "2-5",
+     "Other",
+     "",
+     "Fuses B32, B36 (rear seat heater)"
+    ],
+    [
+     "2-7",
+     "Other",
+     "",
+     "Power window fuses (B1-B10), power window relay"
+    ],
+    [
+     "3-1",
+     "Other",
+     "",
+     "Stereo amplifier [With 12 speakers]"
+    ],
+    [
+     "3-3",
+     "Other",
+     "",
+     "PTC heater core (via PTC heater B relay)"
+    ],
+    [
+     "3-4",
+     "Other",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "3-6",
+     "Other",
+     "",
+     "Blower motor"
+    ],
+    [
+     "3-7",
+     "Other",
+     "",
+     "Power tailgate control unit"
+    ],
+    [
+     "4-1",
+     "Other",
+     "",
+     "VSA modulator-control unit"
+    ],
+    [
+     "4-2",
+     "Other",
+     "",
+     "VSA modulator-control unit"
+    ],
+    [
+     "4-3",
+     "Other",
+     "",
+     "Electric engine coolant pump (engine EWP relay)"
+    ],
+    [
+     "4-4",
+     "Other",
+     "",
+     "Electric servo brake control unit / pedal feel simulator"
+    ],
+    [
+     "4-5",
+     "Other",
+     "",
+     "IG1A/ACC relay circuits (fuses B27-B29, B42, B45), body control module"
+    ],
+    [
+     "4-6",
+     "Other",
+     "",
+     "A/C condenser fan motor / RFC unit"
+    ],
+    [
+     "4-7",
+     "Other",
+     "",
+     "IG1B/IG2 relay circuits (fuses B5, B6, B11, B13, B14, B43, B44), body control module"
+    ],
+    [
+     "5-1",
+     "Other",
+     "",
+     "Fuses A38, A39"
+    ],
+    [
+     "5-2",
+     "Other",
+     "",
+     "Windshield wiper control unit/motor"
+    ],
+    [
+     "5-3",
+     "Other",
+     "",
+     "EPS motor/control unit"
+    ],
+    [
+     "5-5",
+     "Other",
+     "",
+     "Radiator fan motor / RFC unit"
+    ],
+    [
+     "5-7",
+     "Other",
+     "",
+     "Fuses B16, B20-B26"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "20A",
+     "Relay control module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Backup power: body control module, headlights, gauge module, DLC, telematics, wireless charger"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Heated windshield wiper area"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "12V battery sensor, audio unit"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Shutter grille"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Horn relay / horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Windshield / rear window washer motors"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Audio unit, center display"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Relay control module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "PGM-FI subrelay (fuse A41, PCM)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Body control module (hazard)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "PCM backup (FI-ECU)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "PGM-FI main relays, injector relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Electric VTC motor"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Left headlight"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors (via injector relay)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Brake lights (pedal position switch, taillights, VSA)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Right headlight"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "ICM"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "PCU electric coolant pump"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "IGHLDA relay, PCU"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Battery condition monitor, IGHLDB relay"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "A/F sensor, EVAP canister purge valve"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "PCM (IG1 MON2)"
+    ],
+    [
+     "43",
+     "Relay",
+     "",
+     "PTC heater A (additional heater) relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PCU electric coolant pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "IGHLDA relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Engine EWP relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Heated windshield wiper area relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Injector relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "PGM-FI subrelay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Electric VTC relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "PTC heater B (additional heater) relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "PGM-FI main relay (fuel pump)"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Ignition coil relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "PGM-FI main relay 2 (fuel pump)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Under-Dash Fuse/Relay Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-cr-v-hybrid-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Power window master switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power window switch"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Right rear power window"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Left rear power window"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Comfort/driver-assist modules: seat heaters, BSI radars, millimeter wave radar, camera, parking sensors, mirrors, headlight"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "SRS unit, passenger airbag cutoff indicator"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Tailgate latch [Without power tailgate]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Front accessory power socket"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Power door lock relay circuits, tailgate release"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "IG1 meter: gauge module, body control module, AWD, shift lock, backup lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Battery condition monitor, CAN gateway, electric servo brake, PCU"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "ICM (IG1 MISS SOL)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Driver's door latch, fuel fill door lock actuator"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "CAN gateway"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Cargo area lights, USB charger units, power tailgate inside switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Cargo area accessory power socket"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Smart entry: body control module, electric steering lock, power switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Driver's door latch, fuel fill door lock actuator"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "AWD control unit"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "SRS unit"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Electric A/C compressor, ICM, HO2S sensor"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Brake light relay circuit, EPS, VSA modulator"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Fuse A42, electric steering lock, fuel tank unit"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Left rear door latch"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Front passenger's door latch, right rear door latch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Moonroof motor-control unit"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Rear seat heater control unit"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Front passenger's door latch, right rear door latch"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat slide/tilt motors"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat height/recline motors"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Climate control units, heater relays, rear window wiper, power mirrors"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "5A",
+     "Body control module (IG2 DRL)"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Accessory: audio unit, power socket relays, USB chargers, wireless charger"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Left rear door latch"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "20A",
+     "Front seat heater control unit"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power seat recline motor"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Driver's power lumbar support motor"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "20A",
+     "Cooling fan (via IGHLD2 relay)"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "Power tailgate control unit"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power seat slide motor"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "10A",
+     "Cable reel, electric parking brake / brake hold switch, heated steering wheel"
+    ]
+   ]
+  }
+ ]
+}
