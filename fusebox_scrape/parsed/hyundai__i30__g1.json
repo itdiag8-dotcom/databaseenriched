@@ -1,0 +1,957 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "i30",
+ "brand_db": "Hyundai",
+ "model_db_name": "i30",
+ "model_id": 2211,
+ "generation_name": "1st generation (FD)",
+ "generation_code": "g1",
+ "year_start": 2007,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/hyundai/i30/info/fusebox/2012",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side fuse panel (LHD)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i30-2012-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Ignition lock switch, anti-theft alarm, transaxle range switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "A/C control module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Outside heated mirror motor"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Seat warmer (switch, power)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Blower relay, A/C module, sunroof module, rain sensor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Headlamp relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "Front wiper relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Daytime running lamp unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamp relay"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "Front and rear power window switch LH"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Digital clock, audio"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Power outlet"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Sunroof module, door lock/unlock relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Front windshield deicer"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Trunk room lamp, dome lamp, map lamp, clock"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Tailgate unlock relay"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "25A",
+     "Front/rear safety power window switch RH"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "Front/rear safety power window switch LH"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "Front and rear power window switch RH"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Power outlet"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Hazard switch, turn signal"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator, SBR"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, TPMS"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "SRS control module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "EPS module, ESP switch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Headlamp relay"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Tail RH: headlamp RH, glove box lamp, rear combination RH, license lamp"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Tail LH: headlamp LH, window main switch, rear combination LH, license lamp"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i30-2012-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU: main relay, powertrain control module (G4GC)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Sensor 2: pulse generators, TCM (D4FB), stop lamp switch, speed sensor"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ECU 2: ignition coils #1-4 (G4FC), PCM (G4GC)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Sensor 1: immobilizer, stop lamp switch, lambda sensor (D4FB)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "ECU 4: ECM (D4FB/D4EA)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Injector: A/C relay, fuel pump relay, injectors, PCM, idle actuator, immobilizer"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "ECU 3: ECM (D4FB/D4EA)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "ABS: ESP/ABS modules, check connector"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp switch, range switch, cruise module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "ECU 1: ECM/PCM (G4FC), TCM (D4FB), generator (D4EA)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Low beam LH, leveling actuator LH/switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Low beam RH, leveling actuator RH"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1: ESP/ABS modules, check connector"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS 2: ESP/ABS modules, check connector"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp relay"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "50A",
+     "B+2: instrument panel junction box"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high relay"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "26",
+     "Other",
+     "",
+     "MDPS: EPS control module"
+    ],
+    [
+     "27",
+     "Other",
+     "",
+     "IGN 2: ignition switch, start relay"
+    ],
+    [
+     "28",
+     "Other",
+     "",
+     "Rear heated: I/P junction box"
+    ],
+    [
+     "29",
+     "Other",
+     "",
+     "Cooling fan: condenser fan #1/#2 relays"
+    ],
+    [
+     "30",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "31",
+     "Other",
+     "",
+     "Alternator: generator, fusible link box (diesel)"
+    ],
+    [
+     "32",
+     "Other",
+     "",
+     "IGN 1: ignition switch"
+    ],
+    [
+     "33",
+     "Other",
+     "",
+     "B+1: instrument panel junction box"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment diesel box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i30-2012-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel filter heater fusible link"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater #3 fusible link"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater #2 fusible link"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater #1 fusible link"
+    ],
+    [
+     "F5",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "Glow plug fusible link, air heater"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fuel filter heater relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PTC heater relay #3"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PTC heater relay #2"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "PTC heater relay #1"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment (diesel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i30-2012-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS 2: anti-lock braking system"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1: anti-lock braking system"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "B+1"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric cooling fan"
+    ],
+    [
+     "9",
+     "Fuse MIDI",
+     "125A",
+     "Alternator"
+    ],
+    [
+     "9",
+     "Fuse MIDI",
+     "150A",
+     "Alternator"
+    ],
+    [
+     "10",
+     "Fuse MIDI",
+     "80A",
+     "MDPS / EPS"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Hazard light"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "ECU 1: engine control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "ECU 3: engine control unit"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "ECU 4: engine control unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Injectors"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Sensor 2: sensors"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "B+2"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "IGN 2: ignition"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "IGN 1: ignition"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU: engine control unit"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "ECU 2: engine control unit"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Low beam RH"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Low beam LH"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Sensor 1: sensors"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Condenser fan #2 relay (high)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Condenser fan #1 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Headlamp relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Main relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "I/P junction box (RHD)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i30-2012-genid-g1-4.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Tail LH: headlamp LH, window main switch, rear combination LH, license lamp"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Tail RH: headlamp RH, glove box lamp, rear combination RH, license lamp"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Rear power outlet"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Cluster, TPMS"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator, SBR"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Turn signal: hazard switch"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Front power outlet"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "25A",
+     "Power window RH switches"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "25A",
+     "Safety power window LH switches"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "25A",
+     "Safety power window RH switches"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Tailgate unlock relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Room lamp: trunk/dome/map lamps, clock"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp switch"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Deicer: front windshield deicer"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Door lock: sunroof module, lock/unlock relay"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter: power outlet"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Clock, audio"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "25A",
+     "Power window LH switches"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamp relay"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "DRL unit"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper relay"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "Front wiper relay"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "A/C: blower relay, A/C module, sunroof module, rain sensor"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Seat heater (switch, power)"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror motor"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "A/C switch: control module"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Start: ignition lock switch, anti-theft alarm, range switch"
+    ]
+   ]
+  }
+ ]
+}
