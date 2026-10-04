@@ -1,0 +1,438 @@
+{
+ "make_slug": "geely",
+ "model_slug": "emgrand-x7",
+ "brand_db": "Geely",
+ "model_db_name": "Emgrand X7",
+ "model_id": null,
+ "generation_name": "G1 (NL-1, GX7)",
+ "generation_code": "g1",
+ "year_start": 2010,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/geely/emgrand-x7/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "EX70185 (Engine compartment)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-emgrand-x7-2018-genid-g1-0.webp",
+   "fuses": [
+    [
+     "ER01",
+     "Relay",
+     "",
+     "Front fog lights"
+    ],
+    [
+     "ER02",
+     "Relay",
+     "",
+     "High beams"
+    ],
+    [
+     "ER03",
+     "Relay",
+     "",
+     "Starter motor"
+    ],
+    [
+     "ER04",
+     "Relay",
+     "",
+     "Air conditioner compressor"
+    ],
+    [
+     "ER05",
+     "Relay",
+     "",
+     "High speed fan"
+    ],
+    [
+     "ER06",
+     "Relay",
+     "",
+     "Low speed fan"
+    ],
+    [
+     "ER07",
+     "Relay",
+     "",
+     "High speed fan"
+    ],
+    [
+     "ER08",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "ER09",
+     "Relay",
+     "",
+     "Engine main"
+    ],
+    [
+     "ER10",
+     "Relay",
+     "",
+     "Oil pump master"
+    ],
+    [
+     "ER11",
+     "Relay",
+     "",
+     "Low beams"
+    ],
+    [
+     "ER13",
+     "Relay",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "U1",
+     "Fuse FMX/JCase",
+     "30A",
+     "AM2 ignition switch"
+    ],
+    [
+     "U2",
+     "Fuse FMX/JCase",
+     "30A",
+     "AM1 ignition switch"
+    ],
+    [
+     "U5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Instrument panel fuse box battery power supply"
+    ],
+    [
+     "U8",
+     "Fuse MINI",
+     "10A",
+     "Engine ECM power supply"
+    ],
+    [
+     "U9",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "U10",
+     "Fuse MINI",
+     "15A",
+     "Oil pump"
+    ],
+    [
+     "U11",
+     "Fuse MINI",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "U15",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "U16",
+     "Fuse MINI",
+     "15A",
+     "Engine injection nozzle"
+    ],
+    [
+     "U17",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "U18",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "U19",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "U20",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "U21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power seat"
+    ],
+    [
+     "U22",
+     "Fuse FMX/JCase",
+     "60A",
+     "Instrument panel fuse box power supply"
+    ],
+    [
+     "U23",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS master power supply"
+    ],
+    [
+     "U24",
+     "Fuse FMX/JCase",
+     "30A",
+     "High speed fan"
+    ],
+    [
+     "U25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Low speed fan"
+    ],
+    [
+     "U27",
+     "Fuse MINI",
+     "25A",
+     "ABS power supply"
+    ],
+    [
+     "U29",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "U30",
+     "Fuse MINI",
+     "10A",
+     "A/C air conditioner"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "EX70188 (Instrument panel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-geely-emgrand-x7-2018-genid-g1-1.webp",
+   "fuses": [
+    [
+     "IR01",
+     "Relay",
+     "",
+     "Rear fog light relay"
+    ],
+    [
+     "IR02",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "IR03",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "IR04",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "IR05",
+     "Relay",
+     "",
+     "Meter combination relay"
+    ],
+    [
+     "IR06",
+     "Relay",
+     "",
+     "Right position light relay"
+    ],
+    [
+     "IR08",
+     "Relay",
+     "",
+     "Left position light relay"
+    ],
+    [
+     "IR09",
+     "Relay",
+     "",
+     "Number plate light relay"
+    ],
+    [
+     "IF01",
+     "Fuse MINI",
+     "20A",
+     "Door lock power supply"
+    ],
+    [
+     "IF02",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic power supply"
+    ],
+    [
+     "IF03",
+     "Fuse MINI",
+     "10A",
+     "Brake light power supply"
+    ],
+    [
+     "IF04",
+     "Fuse MINI",
+     "10A",
+     "Hazard light power supply"
+    ],
+    [
+     "IF05",
+     "Fuse MINI",
+     "10A",
+     "Position light power supply"
+    ],
+    [
+     "IF06",
+     "Fuse MINI",
+     "15A",
+     "AC power supply"
+    ],
+    [
+     "IF11",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light power supply"
+    ],
+    [
+     "IF12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window"
+    ],
+    [
+     "IF13",
+     "Fuse MINI",
+     "20A",
+     "Sunroof power supply"
+    ],
+    [
+     "IF14",
+     "Fuse MINI",
+     "15A",
+     "Audio power supply"
+    ],
+    [
+     "IF16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "IF17",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower fuse"
+    ],
+    [
+     "IF18",
+     "Fuse MINI",
+     "10A",
+     "Rear defogger power supply"
+    ],
+    [
+     "IF20",
+     "Fuse MINI",
+     "10A",
+     "Ignition switch, rearview mirrors power supply"
+    ],
+    [
+     "IF22",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "IF23",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "IF25",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel power supply"
+    ],
+    [
+     "IF26",
+     "Fuse MINI",
+     "10A",
+     "Number plate backlight power supply"
+    ],
+    [
+     "IF27",
+     "Fuse MINI",
+     "10A",
+     "Reverse switch power supply"
+    ],
+    [
+     "IF28",
+     "Fuse MINI",
+     "10A",
+     "Brake lights"
+    ],
+    [
+     "IF29",
+     "Fuse MINI",
+     "15A",
+     "Seat heating"
+    ],
+    [
+     "IF30",
+     "Fuse FMX/JCase",
+     "20A",
+     "Windshield wiper"
+    ],
+    [
+     "IF31",
+     "Fuse MINI",
+     "10A",
+     "IG blower"
+    ],
+    [
+     "IF32",
+     "Fuse MINI",
+     "10A",
+     "Airbag power supply"
+    ],
+    [
+     "IF33",
+     "Fuse MINI",
+     "15A",
+     "Engine ECM power supply"
+    ],
+    [
+     "IF34",
+     "Fuse MINI",
+     "10A",
+     "ABS power supply"
+    ],
+    [
+     "IF35",
+     "Fuse MINI",
+     "10A",
+     "Anti-theft device"
+    ]
+   ]
+  }
+ ]
+}
