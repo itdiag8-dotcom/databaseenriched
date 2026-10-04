@@ -1,0 +1,927 @@
+{
+ "make_slug": "ford",
+ "model_slug": "transit-custom",
+ "brand_db": "Ford",
+ "model_db_name": "Transit Custom",
+ "model_id": 1948,
+ "generation_name": "Mk1 (V362)",
+ "generation_code": "g1",
+ "year_start": 2012,
+ "year_end": 2023,
+ "trim_label": "2.0L EcoBlue",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/ford/transit-custom/info/fusebox/2023/ver-2.0l_diesel",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-custom-2023-genid-g1-ver-2.0l%2520diesel-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Wipers"
+    ],
+    [
+     "3",
+     "Fuse FMM/MCase",
+     "40A",
+     "Right-hand heated windshield element"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Rear window washer pump"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower motor"
+    ],
+    [
+     "8",
+     "Fuse FMM/MCase",
+     "40A",
+     "Left-hand heated windshield element"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Rear door latch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Battery energy control module - MHEV"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "40A",
+     "Auxiliary power point, USB port"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Selective catalytic reduction system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Vehicle power 5"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Right-hand HID headlamps"
+    ],
+    [
+     "18",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear window defroster"
+    ],
+    [
+     "19",
+     "Fuse FMM/MCase",
+     "20A",
+     "Front fog lamps"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Power folding mirrors"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 4"
+    ],
+    [
+     "22",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear blower motor"
+    ],
+    [
+     "23",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "24",
+     "Fuse FMM/MCase",
+     "40A",
+     "Starter relay"
+    ],
+    [
+     "25",
+     "Fuse FMM/MCase",
+     "40A",
+     "Auxiliary power point"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Left-hand HID headlamps"
+    ],
+    [
+     "27",
+     "Fuse FMM/MCase",
+     "40A",
+     "Selective catalytic reduction system"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power 1"
+    ],
+    [
+     "29",
+     "Fuse FMM/MCase",
+     "40A",
+     "Fuel filter heater"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Coolant pump"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Anti-lock brake system"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module"
+    ],
+    [
+     "33",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Selective catalytic reduction system"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 2"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Belt integrated starter generator - MHEV"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "5A",
+     "Glow plugs, powertrain control module"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plugs"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "Selective catalytic reduction system"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Vehicle power 3"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Glow plug monitor"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "Transmission control unit"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brake system pump"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "25A",
+     "Cooling fan"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer socket"
+    ],
+    [
+     "47",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear suspension"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "Nitrogen oxides sensor"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "5A",
+     "Closed crankcase ventilation heater"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "5A",
+     "Active tensioner - MHEV"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "20A",
+     "Backup alarm"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "25A",
+     "Transmission fluid pump"
+    ],
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel fired booster heater"
+    ],
+    [
+     "57",
+     "Fuse FMM/MCase",
+     "25A",
+     "ABS with electronic stability control"
+    ],
+    [
+     "58",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer socket"
+    ],
+    [
+     "59",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-custom-2023-genid-g1-ver-2.0l%2520diesel-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "USB port"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "USB port"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "USB port"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Heated exterior mirrors"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Rear window wiper motor"
+    ],
+    [
+     "21",
+     "Fuse FMM/MCase",
+     "20A",
+     "Heated rear window"
+    ],
+    [
+     "22",
+     "Fuse FMM/MCase",
+     "20A",
+     "Heated rear window"
+    ],
+    [
+     "23",
+     "Fuse FMM/MCase",
+     "20A",
+     "Auxiliary power point"
+    ],
+    [
+     "24",
+     "Fuse FMM/MCase",
+     "20A",
+     "Auxiliary power point"
+    ],
+    [
+     "25",
+     "Fuse FMM/MCase",
+     "25A",
+     "Windshield wiper motor"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "25A",
+     "Windshield wiper motor"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Run/start relay"
+    ],
+    [
+     "43",
+     "Relay",
+     "",
+     "Upfitter relay"
+    ],
+    [
+     "44",
+     "Relay",
+     "",
+     "Run/start relay"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "10A",
+     "Upfitter module"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "15A",
+     "Trailer tow module"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "5A",
+     "Fuel fired heater"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "10A",
+     "Brake pedal switch"
+    ],
+    [
+     "52",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "53",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery"
+    ],
+    [
+     "54",
+     "Fuse FMX/JCase",
+     "60A",
+     "Power inverter"
+    ],
+    [
+     "55",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "10A",
+     "Camper body interface connector, upfitter interface control module, secondary junction box"
+    ],
+    [
+     "61",
+     "Fuse MICRO2",
+     "7.5A",
+     "Tachograph"
+    ],
+    [
+     "62",
+     "Fuse MICRO2",
+     "15A",
+     "Upfitter interface module"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "20A",
+     "Auxiliary power point"
+    ],
+    [
+     "66",
+     "Fuse MICRO2",
+     "10A",
+     "Enhanced cut off relay system"
+    ],
+    [
+     "68",
+     "Fuse MICRO2",
+     "5A",
+     "Trailer tow module"
+    ],
+    [
+     "69",
+     "Fuse MICRO2",
+     "30A",
+     "Electronic power assist steering"
+    ],
+    [
+     "71",
+     "Fuse MICRO2",
+     "10A",
+     "Heated seats"
+    ],
+    [
+     "72",
+     "Fuse MICRO2",
+     "10A",
+     "Heated seats"
+    ],
+    [
+     "73",
+     "Fuse MICRO2",
+     "20A",
+     "Adaptive front lighting module, headlamp leveling"
+    ],
+    [
+     "75",
+     "Fuse MICRO2",
+     "10A",
+     "Power distribution box"
+    ],
+    [
+     "77",
+     "Fuse MICRO2",
+     "5A",
+     "Headlamp switch"
+    ],
+    [
+     "79",
+     "Fuse MICRO2",
+     "5A",
+     "Run/start relay"
+    ],
+    [
+     "83",
+     "Fuse FMM/MCase",
+     "15A",
+     "Vehicle dynamics control module"
+    ],
+    [
+     "84",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module"
+    ],
+    [
+     "86",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-custom-2023-genid-g1-ver-2.0l%2520diesel-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "40A",
+     "Auxiliary switch 1"
+    ],
+    [
+     "2",
+     "Fuse FMM/MCase",
+     "40A",
+     "Auxiliary switch 2"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Beacon switch"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Direction indicators"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "5A",
+     "Auxiliary switch 2 LED"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Interior lighting"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Two-way radio connector"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "5A",
+     "Ignition"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "Ignition"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "20A",
+     "Touchscreen"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "5A",
+     "Power mode relay"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "5A",
+     "Ignition"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "5A",
+     "Power supply"
+    ],
+    [
+     "16",
+     "Relay",
+     "",
+     "Beacon relay"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Auxiliary switch 1 relay"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Auxiliary switch 2 relay"
+    ],
+    [
+     "19",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Left direction indicator relay"
+    ],
+    [
+     "21",
+     "Relay",
+     "",
+     "Power mode relay"
+    ],
+    [
+     "22",
+     "Relay",
+     "",
+     "Exterior lamps relay"
+    ],
+    [
+     "23",
+     "Relay",
+     "",
+     "Right direction indicator relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Pre-fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-custom-2023-genid-g1-ver-2.0l%2520diesel-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "125A",
+     "Body control module"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "80A",
+     "Electronic power assist steering"
+    ],
+    [
+     "3",
+     "Fuse MIDI",
+     "150A",
+     "Auxiliary heater"
+    ],
+    [
+     "6",
+     "Fuse MIDI",
+     "150A",
+     "Passenger compartment fuse box"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Camper"
+    ],
+    [
+     "8",
+     "Fuse MEGA",
+     "",
+     "Battery"
+    ],
+    [
+     "9",
+     "Fuse MEGA",
+     "470A",
+     "DC/DC inverter"
+    ],
+    [
+     "10",
+     "Fuse MEGA",
+     "300A",
+     "Engine compartment fuse box"
+    ],
+    [
+     "12",
+     "Fuse MEGA",
+     "150A",
+     "Driver compartment fuse box"
+    ],
+    [
+     "13",
+     "Relay",
+     "",
+     "Load shed relay"
+    ],
+    [
+     "14",
+     "Fuse MEGA",
+     "180A",
+     "Auxiliary power point 1"
+    ],
+    [
+     "15",
+     "Fuse MEGA",
+     "60A",
+     "Auxiliary power point 2"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Body Control Module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-transit-custom-2023-genid-g1-ver-2.0l%2520diesel-4.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Power inverter"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "7.5A",
+     "Power window switch, power exterior mirrors"
+    ],
+    [
+     "8",
+     "Fuse MICRO3",
+     "5A",
+     "Anti-theft alarm horn"
+    ],
+    [
+     "9",
+     "Fuse MICRO3",
+     "5A",
+     "Intrusion sensor, rear air conditioning"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Data link connector, steering column, instrument cluster"
+    ],
+    [
+     "14",
+     "Fuse MICRO3",
+     "15A",
+     "Battery energy control module - MHEV"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "15A",
+     "SYNC 3 module"
+    ],
+    [
+     "17",
+     "Fuse MICRO3",
+     "7.5A",
+     "Tachograph"
+    ],
+    [
+     "19",
+     "Fuse MICRO3",
+     "5A",
+     "Battery back-up sounder"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "5A",
+     "Ignition switch"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "Positive temperature coefficient heater control"
+    ],
+    [
+     "22",
+     "Fuse MICRO3",
+     "5A",
+     "Pedestrian alert control module"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "20A",
+     "Driver door module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Data link connector, remote key receiver"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "20A",
+     "Radio, telematics module"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Tachograph, message center, PTC heater, DC/AC inverter, lane keeping camera, parking aid, steering column"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Parking aid, lane keeping system camera, steering column control module"
+    ],
+    [
+     "38",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows"
+    ]
+   ]
+  }
+ ]
+}
