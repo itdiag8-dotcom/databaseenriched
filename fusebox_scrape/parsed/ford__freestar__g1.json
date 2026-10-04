@@ -1,0 +1,535 @@
+{
+ "make_slug": "ford",
+ "model_slug": "freestar",
+ "brand_db": "Ford",
+ "model_db_name": "Freestar",
+ "model_id": 1838,
+ "generation_name": "1st generation (V227)",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/ford/freestar/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-freestar-2008-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "B+ feed to outside mirrors"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Vent window power feed / radio feed"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Driver/passenger door switch illumination"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper run feed"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Front wiper motor run feed"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Cluster / EATC B+ feed, DVD"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Passive anti-theft system (PATS) LED feed"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary radio"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary climate control, power liftgate module, power sliding door modules, DLC, clock B+ feeds"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Brake-shift interlock (BSI) run feed, climate control run feed"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Compass, heated seats, reverse sensing system, power liftgate module, power sliding door run feeds"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Underhood fuse box run feed, front blower run feed"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Brake on-off (BOO) switch B+"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Steering angle, cluster, power sliding door/liftgate inhibit LED, electrochromatic mirror run/start, TPMS"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Restraint control module (RCM), PADI, PODS run/start"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "ABS module, brake pressure switch, speed control run/start"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "PATS, cluster, airbag LED, PCM relay run/start"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Liftgate start feed, radio start feed"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Starter relay power START"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Accessory delay relay 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory delay relay 2"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-freestar-2008-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Right cooling fan"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Left cooling fan"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Right-hand power sliding door"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "SJB accessory #2 (driver power window)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auxiliary blower motor"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS #2 (coil power)"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power liftgate"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "SJB accessory #1 (passenger window, radio, vent windows)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Left power seat / heated seat"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS #1 (pump motor)"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front climate control blower motor"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Right power seat / heated seat"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Left-hand power sliding door"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Engine #1 (A/C relay coil, IMRC, HEGO sensors, canister purge, transmission module)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Engine #2 (cooling fan relays, injectors, PCM, MAF sensor, IAC, ignition coil, ESM)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Heated PCV"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "Horn"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "High beams"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Trailer stop/turn lamps"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump, fuel pump shut-off switch"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "PCM KAP, canister vent"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Adjustable pedals (non-memory) or memory module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow park lamps"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "30A",
+     "Front wiper motor"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "Rear wiper motor"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "30A",
+     "Premium sound radio"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Radio (non-premium)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "30A",
+     "SJB #4 - back-up lamps, door locks"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "30A",
+     "SJB #3 - right cornering/auxiliary lamps, right low beam, left front park/turn lamps, left rear park/stop/turn lamps, IP courtesy lamps, step well lamps, left signal mirror, clock, cluster, message center, switch illumination"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "30A",
+     "SJB #2 - left cornering/auxiliary lamps, left low beam, right front park/turn lamps, right rear park/stop/turn lamps, puddle lamps, mirror signals, visors, 2nd/3rd row lamps, cargo lamp, defroster indicator"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel power point, cigar lighter"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "2nd and 3rd row seat power points"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "30A",
+     "SJB #1 - CHMSL, license plate lamps, OBD II, dome lamp, auxiliary blend doors, switch illumination"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch #1 feed"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch #2 feed"
+    ],
+    [
+     "Diode 1",
+     "Diode MINI",
+     "",
+     "PCM"
+    ],
+    [
+     "Diode 2",
+     "Diode MINI",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Powertrain control module (PCM) power"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Auxiliary blower"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear defroster"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "High beams"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Trailer park lamps"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Left trailer stop/turn lamps"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Right trailer stop/turn lamps"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Auxiliary relay box (cooling fans)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-freestar-2008-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Relay",
+     "",
+     "Cooling fan relay #4"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Cooling fan relay #5"
+    ],
+    [
+     "3",
+     "Relay",
+     "",
+     "Cooling fan relay #3"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Cooling fan relay #1"
+    ],
+    [
+     "5",
+     "Relay",
+     "",
+     "Cooling fan relay #2"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "40A",
+     "Right-hand cooling fan motor [trailer tow package only]"
+    ],
+    [
+     "7",
+     "Circuit breaker MAXI",
+     "",
+     "Low-speed cooling fan circuit breaker [trailer tow package only]"
+    ],
+    [
+     "8",
+     "Circuit breaker MAXI",
+     "",
+     "Left-hand cooling fan motor [with trailer tow] / low-speed cooling fan [without trailer tow]"
+    ]
+   ]
+  }
+ ]
+}

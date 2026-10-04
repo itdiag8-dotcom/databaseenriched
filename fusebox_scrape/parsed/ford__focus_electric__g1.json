@@ -1,0 +1,505 @@
+{
+ "make_slug": "ford",
+ "model_slug": "focus-electric",
+ "brand_db": "Ford",
+ "model_db_name": "Focus Electric",
+ "model_id": null,
+ "generation_name": "Mk3 (C346)",
+ "generation_code": "g1",
+ "year_start": 2013,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/ford/focus-electric/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-focus-electric-2016-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F60",
+     "Fuse MINI",
+     "10A",
+     "Interior lamp, driver door switch pack, glove compartment lamp, ambient lighting lamp"
+    ],
+    [
+     "F61",
+     "Fuse MINI",
+     "20A",
+     "Front cigar lighter socket, rear auxiliary power points"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "10A",
+     "Luggage compartment lid release"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "7.5A",
+     "Global positioning sensor, SYNC"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel cluster"
+    ],
+    [
+     "F71",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "F72",
+     "Fuse MINI",
+     "7.5A",
+     "Steering wheel control module"
+    ],
+    [
+     "F73",
+     "Fuse MINI",
+     "7.5A",
+     "Smart data link module"
+    ],
+    [
+     "F74",
+     "Fuse MINI",
+     "15A",
+     "High beam headlamp"
+    ],
+    [
+     "F76",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamp"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "20A",
+     "Washer pump"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "5A",
+     "Push button ignition switch, keyless vehicle module (supply)"
+    ],
+    [
+     "F79",
+     "Fuse MINI",
+     "15A",
+     "Audio unit, hazard flasher switch"
+    ],
+    [
+     "F81",
+     "Fuse MINI",
+     "5A",
+     "Radio frequency receiver"
+    ],
+    [
+     "F82",
+     "Fuse MINI",
+     "20A",
+     "Ground fuse (front/rear washer pump relay supply)"
+    ],
+    [
+     "F83",
+     "Fuse MINI",
+     "20A",
+     "Ground fuse (central lock/unlock supply)"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "Ground fuse (driver door unlock relay, central/double lock relay, release relay supply)"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "7.5A",
+     "Heated seats switch"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "10A",
+     "Restraint system, passenger airbag deactivation switch, occupant weight sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-focus-electric-2016-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "5A",
+     "Cellphone passport module"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Keyless vehicle door handles"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "25A",
+     "Front power window (left), central locking (front left), heated exterior mirror (left)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "25A",
+     "Front power window (right), central locking (front right), heated exterior mirror (right)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "25A",
+     "Rear left door module (KL30 supply)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "25A",
+     "Rear right door module (KL30 supply)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "5A",
+     "Ignition relay"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "25A",
+     "Driver power seat"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "25A",
+     "Heated rear window"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "5A",
+     "High voltage battery (12V B+)"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "5A",
+     "Rear view camera"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "Parking aid module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Mini relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Micro relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Electric Motor Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-focus-electric-2016-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system, stability control (KL30V)"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Anti-lock brake system, stability control (KL30P)"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor module"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Brake vacuum pump"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric motor control relay"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery charging control module"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Coolant heater one"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Body control module (KL30C supply)"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Coolant heater two"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "20A",
+     "Windshield wiper"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "5A",
+     "Anti-lock brake system, stability control (KL15)"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "Stop lamp switch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Battery monitoring system"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "Relay coils"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "5A",
+     "Lighting control switch module"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Charge port light ring"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "5A",
+     "Vacuum pump monitor"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "5A",
+     "Transmission control module (12V supply)"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Smart data link / on-board diagnostic connector"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Coolant valve, air conditioning solenoid, chiller solenoid"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module, A/C compressor PSR feedback"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "High voltage battery"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "20A",
+     "Coolant pump"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "5A",
+     "Vehicle audible signal for pedestrians"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module (KL15 supply)"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "15A",
+     "Heated driver's seat"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "5A",
+     "Electronic power assist steering"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "20A",
+     "Body control module (KL15 supply)"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper motor"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "15A",
+     "Daytime running light"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "15A",
+     "Heated passenger seat"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "5A",
+     "Mechanical relay coil"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High voltage battery, engine control module (contactor sense)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Coolant heater element three"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Coolant heater element one and two"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Brake vacuum pump"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Electronic fan control module"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower motor"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Electric motor control"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Brake vacuum pump mechanical relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Ignition"
+    ]
+   ]
+  }
+ ]
+}

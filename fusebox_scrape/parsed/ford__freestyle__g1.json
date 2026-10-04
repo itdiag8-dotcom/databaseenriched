@@ -1,0 +1,420 @@
+{
+ "make_slug": "ford",
+ "model_slug": "freestyle",
+ "brand_db": "Ford",
+ "model_db_name": "Freestyle",
+ "model_id": 1839,
+ "generation_name": "1st generation",
+ "generation_code": "g1",
+ "year_start": 2005,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/ford/freestyle/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel / Smart Junction Box (SJB)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-freestyle-2007-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Adjustable pedal switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "25A",
+     "Access/security (power door lock actuators, liftgate lock actuator, liftgate solenoid)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Interior lamps (courtesy and demand), delayed accessory (power windows and moonroof)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "High beams"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Park lamps, side markers, trailer tow protect"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Power/keep alive memory (KAM): cluster and PCM, climate control, analog clock"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Audio (subwoofer)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Horns"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamps, electrochromatic mirror, reverse sensing system, trailer tow protect"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Audio, family entertainment system (FES)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Mirrors and memory module, SDARS"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, data link connector (DLC)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Rear defroster indicator, heated mirrors"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Delayed accessory (driver window motor logic, auxiliary climate control switch illumination, moonroof, audio, driver door lock switch illumination)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "Starter relay coil, PCM"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "Audio"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Occupant classification sensor (OCS), passenger airbag deactivation (PAD)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Wiper relay coil, blower relay coil, cluster logic"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Auxiliary climate control relay coils, electrochromatic mirror, compass module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Restraint control module (RCM)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster, climate control"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ABS/traction control module, AWD module, RSS, heated seat modules"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "PCM relay coil, shifter brake-shift interlock (BSI), PATS module, fuel relay coil, brake lamps, CHMSL"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MAXI",
+     "",
+     "Delayed accessory (front passenger window, rear passenger windows via switch, window switch illumination, backlighting)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-freestyle-2007-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "SJB, SJB fuses 1, 2, 3, 4, 5, 8 and 12"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Front and rear wipers (fuses 45 and 47)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Engine cooling fan"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system (ABS) motor"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Powertrain control module (PCM) relay"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS (valves)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Power point (cargo compartment)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Traction control module (TCM)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Power point (console)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Logic feed to SJB, SJB solid state devices"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power seat motors (passenger)"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated seat module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch relay, A/C compressor clutch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Fuel relay (fuel pump driver module, fuel pump)"
+    ],
+    [
+     "28",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "SJB power, SJB (circuit breaker, fuses 6, 7, 9, 10, 11 and 15)"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver window motor"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auxiliary A/C rear blower motor, auxiliary coolant pump"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver seat motors, memory module"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch (to SJB)"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front A/C blower motor"
+    ],
+    [
+     "36",
+     "Diode MINI",
+     "",
+     "Auxiliary coolant pump"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "1A",
+     "PCM"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "1A",
+     "A/C clutch"
+    ],
+    [
+     "41",
+     "Relay",
+     "",
+     "Fog lamps"
+    ],
+    [
+     "43",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "44",
+     "Relay",
+     "",
+     "Fuel pump driver module, fuel pump"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "30A",
+     "Front wiper, front washer"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "5A",
+     "Heated positive crankcase ventilation (PCV) valve"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "25A",
+     "Rear wiper, rear washer"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "TCM, EVMV, canister vent, ESM, exhaust gas oxygen heaters, A/C clutch"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "PCM, injectors, ignition coils, mass air flow (MAF) sensor"
+    ],
+    [
+     "50",
+     "Relay",
+     "",
+     "PCM relay, PDB fuses 40 and 41"
+    ],
+    [
+     "51",
+     "Relay",
+     "",
+     "Starter motor solenoid"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "Front A/C blower motor, coolant pump relay coil"
+    ],
+    [
+     "58",
+     "Relay",
+     "",
+     "Wipers"
+    ]
+   ]
+  }
+ ]
+}
