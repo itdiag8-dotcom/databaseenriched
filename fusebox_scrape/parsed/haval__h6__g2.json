@@ -1,0 +1,588 @@
+{
+ "make_slug": "haval",
+ "model_slug": "h6",
+ "brand_db": "Haval",
+ "model_db_name": "H6",
+ "model_id": null,
+ "generation_name": "2nd generation",
+ "generation_code": "g2",
+ "year_start": 2019,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/haval/h6/info/fusebox/2020/2nd-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-haval-h6-2020-genid-g2-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ACC) Accessory circuits"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IG2) Several circuits"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BLOWER) AC blower motor"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "20A",
+     "(BCM1) Body control module"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(SUNROOF, optional) Sunroof"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(OBD) On-board diagnostics"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "PEPS/IP"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "(PEPS) Passive entry/passive start"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(DCM, optional) Telematics module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "(IG1) Several circuits"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Central control lock"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Driver seat (optional)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "(BCM2) Body control module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "(BCM3) Body control module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "(BCM4) Body control module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Passenger seat (optional)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "(R_DEF) Rear window defogger"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(R_WIPER) Rear wiper"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "(A/C) Air conditioning"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(INT_LAMP) Interior lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "E-Park (optional)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "CD/MP5"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "(SRS) Airbag"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "WND_MOTR_IG1 (optional)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(IP_IG1) Instrument cluster"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "R_RADAR (optional)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "(MIRR_DEF) Mirror heater"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "(IG2) Several circuits"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "30A",
+     "LS_WND_MOTR (left windows)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "30A",
+     "RS_WND_MOTR (right windows)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Backup power"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "ACC feedback"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "(USB_CHARGER) USB charger"
+    ],
+    [
+     "41",
+     "Relay",
+     "",
+     "(LOCK) Power door lock"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Unlock relay"
+    ],
+    [
+     "44",
+     "Relay",
+     "",
+     "(R_WIPER) Rear wiper"
+    ],
+    [
+     "45",
+     "Relay",
+     "",
+     "(IG1) Several circuits"
+    ],
+    [
+     "46",
+     "Relay",
+     "",
+     "(IG2) Several circuits"
+    ],
+    [
+     "47",
+     "Relay",
+     "",
+     "(ACC) Accessory circuits"
+    ],
+    [
+     "49",
+     "Relay",
+     "",
+     "(BLOWER) AC blower motor"
+    ],
+    [
+     "50",
+     "Relay",
+     "",
+     "BSPD blower relay"
+    ],
+    [
+     "51",
+     "Relay",
+     "",
+     "Energy saving relay"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "(R_DEF) Rear window defogger"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "15A",
+     "MP5"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "25A",
+     "(AMP) Audio amplifier"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "10A",
+     "T-BOX"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel heating"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "30A",
+     "WND_MOTR"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "25A",
+     "WND_MOTR"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "25A",
+     "LS_WND_MOTR"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-haval-h6-2020-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Alternate fuse"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Alternate fuse"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Alternate fuse"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Alternate fuse"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "TCU B-pump"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "(ECU-IG) Engine control unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Left low beam"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Start feedback"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Main relay 3"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Main relay 2"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Main relay 1"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "(ECU) Engine control unit"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "30A",
+     "E-Park motor"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "25A",
+     "(TCU 2) Transmission control unit"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "25A",
+     "(TCU 1) Transmission control unit"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Front seat heating"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "(FUEL PUMP) Fuel pump"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Brake lamp"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Low beam"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "(Compressor) A/C compressor"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "High beam"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "(Horn) Horn"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "25A",
+     "(F WIPER) Front wipers"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "40A",
+     "CVVL"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ESP 2) Electronic stability control"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ESP 1) Electronic stability control"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "30A",
+     "(Main Relay) Main"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "High beam"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front wiper high"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(F WIPER) Front wipers"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(FUEL PUMP) Fuel pump"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter 1"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter 2"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(HORN) Horn"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "CVVL"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Backup"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "E-Park motor"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "(MAIN) Main"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "(COMPRESSOR) A/C compressor"
+    ]
+   ]
+  }
+ ]
+}
