@@ -1,0 +1,288 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "punto",
+ "brand_db": "Fiat",
+ "model_db_name": "Punto",
+ "model_id": 1705,
+ "generation_name": "Grande Punto (\"Type 199\", \"Progetto 199\")",
+ "generation_code": "g3",
+ "year_start": 2005,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/fiat/punto/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Central Next to the Battery",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-punto-2019-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F3",
+     "Fuse MAXI",
+     "70A",
+     "Dashboard central"
+    ],
+    [
+     "F4",
+     "Fuse MAXI",
+     "40A",
+     "Dashboard central"
+    ],
+    [
+     "F5",
+     "Fuse MAXI",
+     "20A",
+     "1st speed of the radiator fan"
+    ],
+    [
+     "F6",
+     "Fuse MAXI",
+     "40A",
+     "2nd speed of the radiator fan"
+    ],
+    [
+     "F7",
+     "Fuse MAXI",
+     "30A",
+     "Central solenoid valve"
+    ],
+    [
+     "F8",
+     "Fuse MAXI",
+     "40A",
+     "Electric pump"
+    ],
+    [
+     "F9",
+     "Fuse MAXI",
+     "30A",
+     "Air conditioning electric fan"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit, lambda sensor coil relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit injectors"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Lambda sensor, canister pressure regulation solenoid valves"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Right high beam"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "7.5A",
+     "Left high beam"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "+15/54 fog light control"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control unit, engine control system relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Dashboard Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-punto-2019-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "7.5A",
+     "Left low beam (dipped beam)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "7.5A",
+     "Right low beam (dipped beam)"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "A/C controls illumination, radio illumination, parking sensor, sunroof"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Power outlet, cigarette lighter"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Internal power supply, coil, engine compartment fuse box"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "7.5A",
+     "Reversing light"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "7.5A",
+     "ABS control unit"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "7.5A",
+     "Direction indicators, hazard lights, instrument cluster"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "7.5A",
+     "Service +15, radio internal power, electric mirrors, mirror controls illumination, rain sensor, alarm pre-installation"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Subwoofer"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper and directional pump"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Front right power window"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Front left power window"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Alarm pre-installation, Blue&Me"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper, electric seat adjustment, power window control unit"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "7.5A",
+     "Power window control unit"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,438 @@
+{
+ "make_slug": "fiat",
+ "model_slug": "punto",
+ "brand_db": "Fiat",
+ "model_db_name": "Punto",
+ "model_id": 1705,
+ "generation_name": "2nd generation (\"Type 188\", \"Progetto 188\")",
+ "generation_code": "g2",
+ "year_start": 2000,
+ "year_end": 2011,
+ "trim_label": "Classic",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/fiat/punto/info/fusebox/2011/2nd-gen_trims-classic",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Dashboard Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-punto-2011-genid-g2-trims-classic-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Left low beam, headlight leveling system"
+    ],
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Headlight orientation adjustment"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Right low beam"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "7.5A",
+     "License plate lighting, instrument panel lighting"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Reverse lights"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Manual climate control switch power supply"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Engine compartment control unit relay coils"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Parking assist control unit"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Water-in-fuel sensor (diesel versions)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Electric power steering"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "7.5A",
+     "ABS control unit (switched power)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "7.5A",
+     "Brake pedal switch"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "25A",
+     "Heated rear window"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Turn signals"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster and warning lights (battery power)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "7.5A",
+     "Service +15 (car radio, automatic climate switch, cruise control, ASR exclusion control, phone pre-installation, dashboard control lighting, heated seat switch, ESP sensors, rain sensors, seat belt warning lights)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster and warning lights (switched power)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Brake lights (stop lights)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Third brake light"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Lighting system"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "30A",
+     "Windshield washer pump, rear window washer"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "30A",
+     "Windshield wipers"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Door locking"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Front right power window"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Front left power window"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Heated electric mirrors"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Trunk"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Ceiling light"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Services +30 (car radio, automatic climate unit, phone pre-installation, EOBD diagnostic socket)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Heated front seats"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Subwoofer installation"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Control Unit",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-fiat-punto-2011-genid-g2-trims-classic-1.webp",
+   "fuses": [
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Right high beam"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Left high beam"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "40A",
+     "Dashboard control unit power supply, optional functions"
+    ],
+    [
+     "F01",
+     "Fuse MAXI",
+     "70A",
+     "Dashboard control unit power supply, standard functions"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "60A",
+     "ABS/ESP system power supply"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Injectors"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump (1.2 8V versions)"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Engine control system secondary loads"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Glow plug preheating control unit"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Fuel vapor recirculation solenoid valve"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Speedometer generator"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Lambda sensor"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control unit (+battery)"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Engine cooling system switch"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit (power supply)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control unit (ignition-switched)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control system relay"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Manual climate control compressor"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Heated diesel filter"
+    ],
+    [
+     "F54",
+     "Fuse MAXI",
+     "60A",
+     "Glow plug preheating system"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "20A",
+     "Headlight washers"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "Single speed radiator fan (1.2 8V with heater)"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "First speed radiator fan (1.2 8V with manual climate control)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "50A",
+     "Second speed radiator fan (1.2 8V with manual climate control)"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "60A",
+     "Electric power steering"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "30A",
+     "Passenger compartment fan"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ]
+   ]
+  }
+ ]
+}
