@@ -1,0 +1,542 @@
+{
+ "make_slug": "honda",
+ "model_slug": "pilot",
+ "brand_db": "Honda",
+ "model_db_name": "Pilot",
+ "model_id": 2162,
+ "generation_name": "2nd generation (YF3, YF4)",
+ "generation_code": "g2",
+ "year_start": 2009,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/honda/pilot/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-pilot-2015-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "Main fuse"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "OP main"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "IG main"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Blower"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "A/C inverter"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "Headlight main"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "Power window main"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Condenser fan"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear defogger"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Fog lights [not all models]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Sub"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "ACM"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power seat reclining [not all models]"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power seat slide [not all models]"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "Oil level"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "FI ECU"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Main"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "MG clutch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "DBW"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Interior lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Backup"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Sub Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-pilot-2015-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power tailgate motor [not all models]"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "20A",
+     "VTM-4"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer main"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "VSA FSR"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear blower"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "VSA motor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Hazard"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Power tailgate closer [not all models]"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat reclining [not all models]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Driver's power seat slide [not all models]"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Stop & horn"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Rear console accessory socket"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Trailer e-brake"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Front heated seats [not all models]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Center console accessory socket"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Trailer charge"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Front accessory socket"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Rear accessory socket"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Glass hatch motor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Rear heated seats [not all models]"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Headlight washer motor"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-pilot-2015-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "VTM-4 [not all models]"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ACG"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "VSA"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Auto light"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Auto light"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "ODS"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "SRS"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Right daytime running light"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Left daytime running light"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Small lights (interior)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Small lights (exterior)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Right headlight low beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Left headlight low beam"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Daytime running light main"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Small lights main"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "TPMS"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Headlight low beam main"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "VBSOL2"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "STRLD"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Driver's power window"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "HAC OP"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Front passenger's power window"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "30A",
+     "Audio amp"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Passenger's side rear power window"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Driver's side rear power window"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "ACC"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "HAC"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "Day light"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Cargo Area Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-honda-pilot-2015-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Small light"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Stop light"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "Back light"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Turn light hazard"
+    ]
+   ]
+  }
+ ]
+}
