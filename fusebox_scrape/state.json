@@ -982,9 +982,11 @@
   "geely/gx3": "done_no_db_model",
   "geely/ha": "no_data",
   "geely/jimmy": "no_data",
-  "geely/lc": "done"
+  "geely/lc": "done",
+  "genesis/g70": "done",
+  "genesis/g80": "done"
  },
- "last_updated": "2026-10-04T09:51:40.110173",
+ "last_updated": "2026-10-04T09:54:24.558350",
  "current_brand": "genesis",
  "audi_done_models": [
   "a1",
@@ -1937,5 +1939,13 @@
   "ha": null,
   "jimmy": null,
   "lc": 1958
+ },
+ "genesis_model_slugs": {
+  "g70": 1960,
+  "g80": 1962,
+  "g90": 1963,
+  "gv60": 1964,
+  "gv70": 1965,
+  "gv80": 1966
  }
 }

@@ -1,0 +1,711 @@
+{
+ "make_slug": "genesis",
+ "model_slug": "g80",
+ "brand_db": "Genesis",
+ "model_db_name": "G80",
+ "model_id": 1962,
+ "generation_name": "2nd generation (RG3)",
+ "generation_code": "g2",
+ "year_start": 2023,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/genesis/g80/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-genesis-g80-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE9) Overhead console, AMP, wireless charger, low DC-DC converter, data link connector, power seat modules, electro chromic mirror, A/C controllers, rear seat console switch, A/V & navigation, rear seat heater units"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "25A",
+     "(SUNROOF) Sunroof control unit (master/slave)"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE11) Head lamps LH/RH, multifunction switch, ADAS unit (parking)"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE12) IAU, IBU"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "(A/C3) E/R sub junction block (blower relay), in-car temperature sensor, A/C control module, front/rear A/C controllers"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "(A/BAG IND) Instrument cluster, overhead console"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "(E-SHIFTER2) Electronic ATM shift lever dial"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE10) ICU junction block (ESU)"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE7) Driver door module, IBU, multifunction switch, IAU, stop lamp switch"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "25A",
+     "(MULTI MEDIA) Low DC-DC converter"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE13) A/C controllers, rain sensor, head-up display, security indicator, ROA sensor, power outside mirrors, ICU junction block (ESU), hazard switch"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "(CLUSTER) Instrument cluster, head-up display"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "10A",
+     "(IBU2) IBU"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "15A",
+     "(AIR BAG2) SRS control module, passenger occupant detection sensor"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "(PRESAFETY SEAT BELT3) Pre-active seat belt unit"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE8) Rear corner radars, ECS unit, RWS module, ADAS units, crash pad switch, front console switch, steering tilt & telescopic unit, front view camera"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE5) PTL unit, power seat modules/switches, lumbar support units"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE3) Rear seat console switch, active air flap module, clock spring, steering tilt & telescopic unit, multifunction switch"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "30A",
+     "(P/WINDOW LH) Driver & rear LH power window modules"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "(CURTAIN) IBU"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "25A",
+     "(P/SEAT PASS2) Passenger power seat module"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "(TRUNK) Trunk release relay"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "15A",
+     "(AIR BAG1) SRS control module"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "(E-SHIFTER1) Electronic ATM shift lever dial"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE4) Driver door module, data link connector"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "25A",
+     "(P/SEAT DRV1) Driver power seat module"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "(P/SEAT) Lumbar support units"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "(POWER HANDLE) Steering tilt & telescopic unit"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "10A",
+     "(IBU1) IAU, IBU, BLE unit, door outside handles"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "20A",
+     "(POWER OUTLET) Armrest power outlet"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "25A",
+     "(P/SEAT DRV2) Driver power seat module"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "25A",
+     "(P/SEAT PASS1) Passenger power seat module"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "20A",
+     "(S/HEATER DRV) Driver power seat module"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "20A",
+     "(S/HEATER PASS) Passenger power seat module"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "20A",
+     "(DOOR LOCK) Center door lock/unlock relay, driver door unlock relay"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE6) Armrest lamp, IBU, low DC-DC converter, e-shift lever dial, front tray lamp, IAU"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "10A",
+     "(BRAKE SWITCH) Stop lamp switch, IBU"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-genesis-g80-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "(HEAD LAMP LH) Head lamp LH"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "(START) Start relay"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "(HEAD LAMP RH) Head lamp RH"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "(FUEL PUMP) Fuel pump relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(ECU1) ECM"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "(TCU1) TCM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(HTD IND) Front A/C controller"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "(E-CVT2) ECM"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "(E-CVVT3) ECM"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "(EWP) Electronic water pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(SENSOR5) Electronic oil pump"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(IEB4) IEB unit"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(TCU2) P/N relay, TCM"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(SENSOR2) A/C relay, oil control/pump/purge/RCV solenoid valves, canister close valve, oxygen sensors (engine-dependent)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(IGN COIL) Ignition coils"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "(ECU4) ECM"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(ECU2) ECM"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "(MODULE2) Front radar, front corner radars, 4WD ECU"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(MDPS2) MDPS unit"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(ACTIVE HOOD) Active hood control unit"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(SENSOR3) Oxygen sensors"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(SENSOR1) Injectors, E/R junction block (fuel pump relay)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "(SENSOR4) Cooling fan motor"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "(WASHER) Washer relay"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IG1) IG1 relay"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ECU3) Engine control relay"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IG2) IG2 relay"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ACC) ACC relay"
+    ],
+    [
+     "37",
+     "Other",
+     "",
+     "(MULTI-FUSE / COOLING FAN) Cooling fan motor"
+    ],
+    [
+     "39",
+     "Other",
+     "",
+     "(MULTI-FUSE / IEB1) IEB unit"
+    ],
+    [
+     "40",
+     "Other",
+     "",
+     "(MULTI-FUSE / IEB2) IEB unit"
+    ],
+    [
+     "41",
+     "Other",
+     "",
+     "(MULTI-FUSE / REAR HEATED) Rear heated relay"
+    ],
+    [
+     "42",
+     "Other",
+     "",
+     "(MULTI-FUSE / IEB3) IEB unit"
+    ],
+    [
+     "43",
+     "Other",
+     "",
+     "(MULTI-FUSE / OIL PUMP) Electronic oil pump"
+    ],
+    [
+     "44",
+     "Other",
+     "",
+     "(MULTI-FUSE / E-CVVT1) E-CVVT relay"
+    ],
+    [
+     "45",
+     "Other",
+     "",
+     "(MULTI-FUSE / 4WD) 4WD ECU"
+    ],
+    [
+     "46",
+     "Other",
+     "",
+     "(MULTI-FUSE / WIPER) Wiper motor"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "15A",
+     "(A/C) A/C relay"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "15A",
+     "(HORN) PCB block (horn relay)"
+    ],
+    [
+     "52",
+     "Fuse MIDI",
+     "225A",
+     "(ALT) Alternator"
+    ],
+    [
+     "54",
+     "Fuse MIDI",
+     "125A",
+     "(MDPS1) MDPS unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "E-CVVT relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear heated relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse panel (sub)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-genesis-g80-2024-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Front/rear corner radars, wireless charger, head-up display, instrument cluster, A/C controllers, rear seat console switch, front console keyboard"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "A/C control module"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Blower relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear junction block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-genesis-g80-2024-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "50A",
+     "(B+3) ICU junction block (fuse P/Window LH, S/Heater DRV/PASS, P/Seat DRV1/DRV2/PASS1, Curtain, Power Handle, P/Seat)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "50A",
+     "(B+1) ICU junction block (fuse Brake Switch), IPS1/3/4/7, long/short term load latch relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "(B+2) ICU junction block (fuse IBU1, E-Shifter1, Module5, Air Bag1, IPS2, IPS5)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "50A",
+     "(B+4) ICU junction block (fuse P/Seat PASS2, Module4, Sunroof, Door Lock, Trunk)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(CHILD LOCK) Child lock/unlock relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "(P/WINDOW RH) Passenger & rear RH power window modules"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "(AMP) Low DC-DC converter (AMP)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(P/DOOR RR LH) Rear door latch LH"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(P/DOOR PASS) Passenger door latch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "(PRESAFETY SEAT BELT1) Pre-active seat belt unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "(P/DOOR RR RH) Rear door latch RH"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(ECS) ECS unit"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(P/DOOR DRV) Driver door latch"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "(PRESAFETY SEAT BELT2) Pre-active seat belt unit"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "(S/HEATER RR LH) Rear seat LH heater unit"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "30A",
+     "(POWER TRUNK) PTL unit (power trunk lid)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "(S/HEATER RR RH) Rear seat RH heater unit"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Battery junction block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-genesis-g80-2024-genid-g2-4.webp",
+   "fuses": [
+    [
+     "B+5",
+     "Fuse MIDI",
+     "125A",
+     "(B+5) E/R sub junction block (B+)"
+    ],
+    [
+     "B+6",
+     "Fuse MIDI",
+     "100A",
+     "(B+6) Rear junction block (fuse B+1, AMP, P/Window RH, P/Seat RR, ECS, Presafety Seat Belt1, Child Lock)"
+    ],
+    [
+     "B+7",
+     "Fuse MIDI",
+     "100A",
+     "(B+7) Rear junction block (fuse B+3, S/Heater RR LH/RH, Power Trunk, P/Door DRV/PASS)"
+    ],
+    [
+     "B+8",
+     "Fuse MIDI",
+     "100A",
+     "(B+8) Rear junction block (fuse B+2, B+4, P/Door RR LH/RH, Presafety Seat Belt2)"
+    ],
+    [
+     "AMS",
+     "Fuse MINI",
+     "10A",
+     "(AMS) Battery sensor"
+    ],
+    [
+     "RWS",
+     "Fuse MIDI",
+     "100A",
+     "(RWS) RWS module"
+    ]
+   ]
+  }
+ ]
+}
