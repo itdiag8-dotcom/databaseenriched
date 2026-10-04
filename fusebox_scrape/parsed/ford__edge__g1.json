@@ -1,0 +1,642 @@
+{
+ "make_slug": "ford",
+ "model_slug": "edge",
+ "brand_db": "Ford",
+ "model_db_name": "Edge",
+ "model_id": 1784,
+ "generation_name": "1st generation (\"U387\")",
+ "generation_code": "g1",
+ "year_start": 2006,
+ "year_end": 2014,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/ford/edge/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-edge-2014-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Driver front smart window"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Demand lamps relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Radio frequency module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirror switch, memory seat switch, driver seat module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Power liftgate"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Run/accessory relay"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, heads-up display"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Interior lighting, puddle lamps, backlighting"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Right turn signals"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Left turn signals"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Reverse lamps, stop lamps, high-mounted stop lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Low beam headlamps (right)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Low beam headlamps (left)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Keypad illumination, brake shift interlock, start button LED, passive anti-theft system, PCM wake-up, second row power enable"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Amplifier (Sony)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Lock/unlock relays - vehicles without intelligent access"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel control, intelligent access, headlamp switch"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "On-board diagnostics"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Liftgate release"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Global positioning system module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Intelligent access"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch (without intelligent access), key inhibit solenoid, push button start (with intelligent access)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Radio, multi-function display screen, electronic finish panel, SYNC module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Front park lamps, auxiliary park lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Lock switch backlighting, moonroof, power windows (driver front), compass/auto-dimming rear view mirror"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Reverse sensing system, rearview camera, blind spot monitor"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Heads-up display, headlamp leveling"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Climate control [3.5L/3.7L engines]"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "High beam headlamps"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Rear park lamps, license plate lamps"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "Occupant classification sensor, restraints control module"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Grade assist control switch [2.0L engine]"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Climate control"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "15A",
+     "LED signal mirrors"
+    ],
+    [
+     "48",
+     "Circuit breaker ATO",
+     "",
+     "Power windows"
+    ],
+    [
+     "49",
+     "Relay",
+     "",
+     "Delayed accessory relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-edge-2014-genid-g1-1.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wipers"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system pump"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power liftgate"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point #2 (console rear)"
+    ],
+    [
+     "11",
+     "Relay",
+     "",
+     "Rear window defroster and heated mirror relay"
+    ],
+    [
+     "13",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point #1 (console bin)"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cargo area power point"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver seat module"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defroster"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front power point or lighter"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "30A",
+     "Climate controlled seats"
+    ],
+    [
+     "34",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Rear seat relay"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Right trailer tow stop/turn lamps relay"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan [vehicles with trailer tow]"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan [vehicles without trailer tow]"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan [trailer tow only]"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger seat"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "25A",
+     "Anti-lock brake system valves"
+    ],
+    [
+     "44",
+     "Relay",
+     "",
+     "Rear washer relay"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "15A",
+     "Heated mirror"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "",
+     "Stop lamp relay"
+    ],
+    [
+     "53",
+     "Relay",
+     "",
+     "Left trailer tow stop/turn lamps relay"
+    ],
+    [
+     "55",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module (2.0L engine)"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "20A",
+     "Left high-intensity discharge headlamps"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "10A",
+     "Alternator sensor"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "Brake on/off switch"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "15A",
+     "Stop lamps"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "10A",
+     "Rear seat release"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner clutch"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow stop/turn lamps relay"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper motor"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "66",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power #2"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power #4"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power #1 [3.5/3.7L engines]"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "20A",
+     "Vehicle power #1 [2.0L engine]"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner relay, vehicle power #3, all-wheel drive module [3.5/3.7L engines], active grille shutter [2.0L engine]"
+    ],
+    [
+     "75",
+     "Diode MINI",
+     "",
+     "Air conditioner clutch diode [3.5/3.7L engines]"
+    ],
+    [
+     "77",
+     "Relay",
+     "",
+     "Trailer tow park lamps relay"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "20A",
+     "Right high-intensity discharge headlamps"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "5A",
+     "Adaptive cruise control"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "15A",
+     "Rear washer"
+    ],
+    [
+     "84",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow park lamps"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "7.5A",
+     "Powertrain control module relay, PCM keep-alive [3.5/3.7L engines]"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "5A",
+     "Run/start relay"
+    ],
+    [
+     "88",
+     "Relay",
+     "",
+     "Run/start relay"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "5A",
+     "Headlamp leveling motors [China only]"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module, transmission control module [2.0L engine]"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "10A",
+     "Adaptive cruise control [3.5/3.7L engines]"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "5A",
+     "Automatic transmission warm-up [2.0L engine]"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system module"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "5A",
+     "Blower motor/rear defroster relay"
+    ],
+    [
+     "94",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger compartment fuse panel run/start"
+    ],
+    [
+     "96",
+     "Diode MINI",
+     "",
+     "Canister purge solenoid diode [2.0L engine]"
+    ],
+    [
+     "97",
+     "Diode MINI",
+     "",
+     "Automatic transmission warm-up diode [2.0L engine]"
+    ],
+    [
+     "98",
+     "Relay",
+     "",
+     "Air conditioner clutch relay"
+    ]
+   ]
+  }
+ ]
+}

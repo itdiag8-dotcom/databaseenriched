@@ -1,0 +1,499 @@
+{
+ "make_slug": "ford",
+ "model_slug": "edge",
+ "brand_db": "Ford",
+ "model_db_name": "Edge",
+ "model_id": 1784,
+ "generation_name": "2nd generation (\"CD539\")",
+ "generation_code": "g2",
+ "year_start": 2015,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/ford/edge/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Under Hood Fuse Box - Top",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-edge-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper, rain sensor, rear washer pump relay coil"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 3 - back of console"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "Powertrain control module - vehicle power 1"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "Powertrain control module - vehicle power 2, canister vent, vapor blocking valve, heated oxygen post"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 1 - driver front"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "15A",
+     "Powertrain control module - vehicle power 4"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "15A",
+     "Powertrain control module - vehicle power 3, all-wheel drive module relay coil, active grille shutters, active transmission warm up, auxiliary cooling pump, electric compressor bypass, vacuum on demand valve, A/C compressor"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "Run-start relay"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 2 - console bin"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 4 - luggage compartment"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Run-start electronic power assist steering"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Headlamp leveling"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioner clutch solenoid"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "15A",
+     "Blind spot information system, rear view camera, forward looking radar, voltage quality module (start/stop), front split view camera, front split view camera module"
+    ],
+    [
+     "25",
+     "Fuse MICRO3",
+     "10A",
+     "Run-start anti-lock brake system"
+    ],
+    [
+     "26",
+     "Fuse MICRO3",
+     "10A",
+     "Run-start powertrain control module"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Rear window washer pump"
+    ],
+    [
+     "32",
+     "Relay",
+     "",
+     "Electronic fan 1 relay"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "Electronic fan 2 relay"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "Electronic fan 3 relay"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "41",
+     "Relay",
+     "",
+     "Steering column lock relay"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "2nd row easy fold seat release"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "15A",
+     "Steering column lock relay power"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "54",
+     "Fuse MICRO3",
+     "10A",
+     "Brake on-off switch"
+    ],
+    [
+     "55",
+     "Fuse MICRO3",
+     "10A",
+     "Alternator sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Under Hood Fuse Box - Bottom",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-edge-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "58",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump feed"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic fan 3"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic fan 1"
+    ],
+    [
+     "62",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module 1"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "25A",
+     "Electronic fan 2"
+    ],
+    [
+     "65",
+     "Fuse FMM/MCase",
+     "20A",
+     "Front heated seat"
+    ],
+    [
+     "67",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module 2"
+    ],
+    [
+     "68",
+     "Fuse FMM/MCase",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "69",
+     "Fuse FMM/MCase",
+     "30A",
+     "Anti-lock brake system valves"
+    ],
+    [
+     "70",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger seat"
+    ],
+    [
+     "73",
+     "Fuse FMM/MCase",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "74",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver seat module, driver seat power"
+    ],
+    [
+     "75",
+     "Fuse FMM/MCase",
+     "25A",
+     "Wiper motor 1"
+    ],
+    [
+     "76",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power liftgate module"
+    ],
+    [
+     "77",
+     "Fuse FMM/MCase",
+     "30A",
+     "Climate control seat module"
+    ],
+    [
+     "78",
+     "Fuse FMM/MCase",
+     "40A",
+     "Trailer lighting module"
+    ],
+    [
+     "79",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "80",
+     "Fuse FMM/MCase",
+     "25A",
+     "Wiper motor 2"
+    ],
+    [
+     "81",
+     "Fuse FMM/MCase",
+     "40A",
+     "110 V inverter"
+    ],
+    [
+     "84",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor solenoid"
+    ],
+    [
+     "87",
+     "Fuse FMX/JCase",
+     "60A",
+     "Anti-lock brake system pump"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Body control module fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-ford-edge-2024-genid-g2-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Delayed accessory - power inverter logic, moonroof logic and driver window switch power"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "7.5A",
+     "Memory seats, lumbar, wireless accessory charging"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "20A",
+     "Subwoofer amplifier"
+    ],
+    [
+     "7",
+     "Fuse MICRO3",
+     "10A",
+     "Gearshift module"
+    ],
+    [
+     "8",
+     "Fuse MICRO3",
+     "5A",
+     "Power liftgate module, hands free liftgate module, embedded modem"
+    ],
+    [
+     "9",
+     "Fuse MICRO3",
+     "5A",
+     "Keypad"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control module, enhanced central gateway module"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Instrument cluster, steering column control module"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "15A",
+     "SYNC module"
+    ],
+    [
+     "17",
+     "Fuse MICRO3",
+     "7.5A",
+     "Headlamp control module"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "5A",
+     "Push button ignition switch"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "In-vehicle temperature and humidity sensor"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "30A",
+     "Driver door window and mirror, driver door module, driver door lock indicator, driver lock switch illumination"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "30A",
+     "Moonroof"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Front passenger door window and mirror, front passenger door module, front passenger lock indicator, front passenger switch illumination"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "15A",
+     "Enhanced central gateway power - OBD connector"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Radio transceiver module, multi-function display, integrated control panel"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "20A",
+     "Radio"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Run-start bus (fuses 17, 18, 21, 22, 35, 36, 37, circuit breaker 38)"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "5A",
+     "Passenger airbag deactivation indicator"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Rear heated seat module"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Heated steering wheel, auto-dimming interior mirror, automatic high beam and lane departure mirror module"
+    ],
+    [
+     "38",
+     "Circuit breaker MAXI",
+     "",
+     "Right-hand rear window power, left-hand rear window power"
+    ]
+   ]
+  }
+ ]
+}
