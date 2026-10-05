@@ -1,0 +1,587 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "gladiator",
+ "brand_db": "Jeep",
+ "model_db_name": "Gladiator",
+ "model_id": 2404,
+ "generation_name": "2nd generation (JT)",
+ "generation_code": "g2",
+ "year_start": 2019,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/jeep/gladiator/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power distribution fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-gladiator-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse FMM/MCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "F03",
+     "Fuse MICRO2",
+     "5A",
+     "Intelligent battery sensor (IBS)"
+    ],
+    [
+     "F04",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump motor / FPCM"
+    ],
+    [
+     "F05",
+     "Fuse MICRO2",
+     "5A",
+     "Security gateway"
+    ],
+    [
+     "F08",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission control module (TCM) 8HP"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "15A",
+     "Electric steering column lock (ESCL)"
+    ],
+    [
+     "F11",
+     "Fuse MICRO2",
+     "10A",
+     "UCI port (USB & AUX)"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "25A",
+     "HiFi amplifier"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "15A",
+     "Instrument panel cluster (IPC) / switch bank heavy-duty electrical package"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "10A",
+     "Air conditioning clutch"
+    ],
+    [
+     "F20",
+     "Fuse FMM/MCase",
+     "30A",
+     "Central body controller (CBC) 1 - interior lights"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "10A",
+     "Engine control module (ECM) / powertrain control module (PCM)"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "10A",
+     "Powertrain control module (PCM) / engine control module (ECM)"
+    ],
+    [
+     "F24",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "10A",
+     "Shift-by-wire module (MOD_SBW)"
+    ],
+    [
+     "F26",
+     "Fuse FMM/MCase",
+     "40A",
+     "Central body controller (CBC) 2 - exterior lights #1"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "F28",
+     "Fuse FMM/MCase",
+     "40A",
+     "Central body controller (CBC) 3 - power locks"
+    ],
+    [
+     "F29",
+     "Fuse FMM/MCase",
+     "40A",
+     "Central body controller (CBC) 4 - exterior lights #2"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "10A",
+     "Diagnostic port"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "10A",
+     "HVAC control module / steering column lock (SCL) / occupant classification module (OCM) / driver presence detection module (DPDM)"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "10A",
+     "ParkTronics system (PTS) / infrared camera module (IRCM) / airbag disable lamps"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "10A",
+     "Electronic stability control (ESC) / electro-hydraulic power steering (EHPS) / smart bar control module (SBCM) wake-up"
+    ],
+    [
+     "F35",
+     "Fuse FMM/MCase",
+     "30A",
+     "Brake vacuum pump (if equipped)"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow electric brake module (if equipped)"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow connector 7-way (if equipped)"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "20A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "15A",
+     "Drivetrain control module (DTCM) / axle lock front/rear"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "15A",
+     "Instrument cluster (IC) / security gateway (SGW) wake-up"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "10A",
+     "Power control relay control feed (electric stop/start) (if equipped)"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "10A",
+     "Infrared camera (IRCAM) heaters"
+    ],
+    [
+     "F46",
+     "Fuse MICRO2",
+     "10A",
+     "Auto headlamp leveling module / level motor / headlamp switch"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant restraint controller (ORC)"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "10A",
+     "HD ACC (if equipped)"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "10A",
+     "Humidity light rain sensor (HLRS) / 400W inverter wake-up / USB / inside rearview mirror (ISRVM) / compass module (CSGM) / DTV"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "F53",
+     "Fuse MICRO2",
+     "10A",
+     "Wireless speaker (if equipped)"
+    ],
+    [
+     "F55",
+     "Fuse MICRO2",
+     "10A",
+     "Central vision processing module (CVPM) (if equipped)"
+    ],
+    [
+     "F56",
+     "Fuse MICRO2",
+     "10A",
+     "In-car temp sensor / PTC heater coil feed"
+    ],
+    [
+     "F57",
+     "Fuse MICRO2",
+     "20A",
+     "Front driver heated seat"
+    ],
+    [
+     "F58",
+     "Fuse MICRO2",
+     "20A",
+     "Front passenger heated seat"
+    ],
+    [
+     "F59",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "F60",
+     "Fuse MICRO2",
+     "15A",
+     "Comfort steering wheel module (CSWM) - heated steering wheel"
+    ],
+    [
+     "F61",
+     "Fuse MICRO2",
+     "10A",
+     "Left/right blind spot sensors (LBSS/RBSS)"
+    ],
+    [
+     "F63",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant restraint controller (ORC)"
+    ],
+    [
+     "F65",
+     "Fuse FMM/MCase",
+     "50A",
+     "Power inverter 400W (if equipped)"
+    ],
+    [
+     "F66",
+     "Fuse FMM/MCase",
+     "40A",
+     "HVAC blower motor front"
+    ],
+    [
+     "F69",
+     "Fuse MICRO2",
+     "10A",
+     "KIN / RF hub"
+    ],
+    [
+     "F70",
+     "Fuse MICRO2",
+     "25A",
+     "Injectors / ignition coils"
+    ],
+    [
+     "F72",
+     "Fuse MICRO2",
+     "10A",
+     "HD electrical accessory package (if equipped)"
+    ],
+    [
+     "F76",
+     "Fuse MICRO2",
+     "20A",
+     "ECM"
+    ],
+    [
+     "F77",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "F79",
+     "Fuse MICRO2",
+     "20A",
+     "Smart bar control module"
+    ],
+    [
+     "F80",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module (PCM) / solenoid 12 block shift"
+    ],
+    [
+     "F81",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defroster (EBL)"
+    ],
+    [
+     "F89",
+     "Fuse MICRO2",
+     "10A",
+     "Steering column control module (SCCM) / cruise control / digital TV (DTV) / airbag disable lamp"
+    ],
+    [
+     "F90",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trailer tow park lamp (if equipped)"
+    ],
+    [
+     "F91",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "F92",
+     "Fuse FMM/MCase",
+     "40A",
+     "HD accessory #2 (if equipped)"
+    ],
+    [
+     "F93",
+     "Fuse FMM/MCase",
+     "40A",
+     "HD accessory #1 (if equipped)"
+    ],
+    [
+     "F94",
+     "Fuse MICRO2",
+     "10A",
+     "Dual USB port"
+    ],
+    [
+     "F96",
+     "Fuse MICRO2",
+     "10A",
+     "Power mirror switch"
+    ],
+    [
+     "F97",
+     "Fuse MICRO2",
+     "20A",
+     "Radio"
+    ],
+    [
+     "F98",
+     "Fuse MICRO2",
+     "10A",
+     "Switch bank - HD electrical / off-road"
+    ],
+    [
+     "F100",
+     "Fuse FMM/MCase",
+     "30A",
+     "ESC - ECU & valves"
+    ],
+    [
+     "F101",
+     "Fuse FMM/MCase",
+     "30A",
+     "Drivetrain control module (DTCM)"
+    ],
+    [
+     "F102",
+     "Fuse MICRO2",
+     "15A",
+     "TBM2 / MOD_DCSD"
+    ],
+    [
+     "F103",
+     "Fuse MICRO2",
+     "15A",
+     "HD accessory #3 (if equipped)"
+    ],
+    [
+     "F104",
+     "Fuse MICRO2",
+     "15A",
+     "Lumbar switch (driver/passenger)"
+    ],
+    [
+     "F105",
+     "Fuse MICRO2",
+     "10A",
+     "Integrated center stack (ICS) / HVAC"
+    ],
+    [
+     "F106",
+     "Fuse FMM/MCase",
+     "50A",
+     "Electronic stability control (ESC) pump motor"
+    ],
+    [
+     "F107",
+     "Fuse MICRO2",
+     "20A",
+     "Trailer tow stop/turn left (if equipped)"
+    ],
+    [
+     "F108",
+     "Fuse MICRO2",
+     "15A",
+     "HD accessory #4 (if equipped)"
+    ],
+    [
+     "F109",
+     "Fuse MICRO2",
+     "20A",
+     "Trailer tow stop/turn right (if equipped)"
+    ],
+    [
+     "F110",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power inverter 150W (if equipped)"
+    ],
+    [
+     "F111",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trailer tow backup (if equipped)"
+    ],
+    [
+     "K01",
+     "Relay",
+     "",
+     "Stop/start"
+    ],
+    [
+     "K02",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "K03",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "K04",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "K07",
+     "Relay",
+     "",
+     "Front wiper control"
+    ],
+    [
+     "K08",
+     "Relay",
+     "",
+     "Run/start"
+    ],
+    [
+     "K09",
+     "Relay",
+     "",
+     "Brake vacuum pump (if equipped)"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Front wiper speed"
+    ],
+    [
+     "K11",
+     "Relay",
+     "",
+     "Run #2"
+    ],
+    [
+     "K12",
+     "Relay",
+     "",
+     "HVAC blower motor front"
+    ],
+    [
+     "K13",
+     "Relay",
+     "",
+     "Run #1"
+    ],
+    [
+     "K14",
+     "Relay",
+     "",
+     "Run/acc #1"
+    ],
+    [
+     "K15",
+     "Relay",
+     "",
+     "Run/acc #2"
+    ],
+    [
+     "K16",
+     "Relay",
+     "",
+     "ASD"
+    ],
+    [
+     "K17",
+     "Relay",
+     "",
+     "HD accessory #2 (if equipped)"
+    ],
+    [
+     "K18",
+     "Relay",
+     "",
+     "HD accessory #1 (if equipped)"
+    ],
+    [
+     "K20",
+     "Relay",
+     "",
+     "HD accessory #3 (if equipped)"
+    ],
+    [
+     "K21",
+     "Relay",
+     "",
+     "HD accessory #4 (if equipped)"
+    ]
+   ]
+  }
+ ]
+}
