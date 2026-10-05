@@ -1,0 +1,503 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "grand-cherokee",
+ "brand_db": "Jeep",
+ "model_db_name": "Grand Cherokee",
+ "model_id": 2405,
+ "generation_name": "4th generation (WK2)",
+ "generation_code": "g4",
+ "year_start": 2011,
+ "year_end": 2022,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/jeep/grand-cherokee/info/fusebox/2021/4th-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood power distribution center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-grand-cherokee-2021-genid-g4-0.webp",
+   "fuses": [
+    [
+     "F03",
+     "Fuse FMX/JCase",
+     "60A",
+     "Radiator fan (if equipped)"
+    ],
+    [
+     "F05",
+     "Fuse FMX/JCase",
+     "40A",
+     "Air suspension compressor (if equipped)"
+    ],
+    [
+     "F06",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump motor"
+    ],
+    [
+     "F07",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "F09",
+     "Fuse FMX/JCase",
+     "30A",
+     "Diesel fuel heater (diesel only) / vacuum pump (if equipped)"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "CBC #2 / exterior lights"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow electric brake (if equipped)"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "40A",
+     "CBC #2 / power locks"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower motor"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "40A",
+     "CBC #4 / exterior lights"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "40A",
+     "(LTR) Engine cooling (if equipped)"
+    ],
+    [
+     "F17",
+     "Fuse FMM/MCase",
+     "30A",
+     "Headlamp washer (if equipped)"
+    ],
+    [
+     "F19",
+     "Fuse FMM/MCase",
+     "20A",
+     "Headrest solenoid (if equipped)"
+    ],
+    [
+     "F20",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "F22",
+     "Fuse FMM/MCase",
+     "20A",
+     "Engine control module (ECM/PCM)"
+    ],
+    [
+     "F23",
+     "Fuse FMM/MCase",
+     "30A",
+     "CBC #1 / interior lights"
+    ],
+    [
+     "F24",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver door module"
+    ],
+    [
+     "F25",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "F26",
+     "Fuse FMM/MCase",
+     "30A",
+     "ESP/ECU valves"
+    ],
+    [
+     "F28",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trailer tow backup (if equipped)"
+    ],
+    [
+     "F29",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trailer tow park (if equipped)"
+    ],
+    [
+     "F30",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow power (if equipped)"
+    ],
+    [
+     "F32",
+     "Fuse FMM/MCase",
+     "30A",
+     "DTCM"
+    ],
+    [
+     "F34",
+     "Fuse FMM/MCase",
+     "30A",
+     "ELSD (if equipped)"
+    ],
+    [
+     "F35",
+     "Fuse FMM/MCase",
+     "30A",
+     "Sunroof (if equipped)"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "30A",
+     "EBL (rear defroster)"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "25A",
+     "HVAC rear blower motor (if equipped)"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power inverter 115V AC (if equipped)"
+    ],
+    [
+     "F39",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power liftgate"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "DRL / headlamp leveling (if equipped)"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic port"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "5A",
+     "Cyber security gateway"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "10A",
+     "ICS/HVAC"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "20A",
+     "Air suspension module / ELSD (if equipped)"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "15A",
+     "KIN / RF hub / ESCL (if equipped)"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow left turn/stop (if equipped)"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "15A",
+     "PCM (if equipped)"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "20A",
+     "NOx sensors / PM sensor / fuel heater (if equipped)"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "15A",
+     "HID headlamps left (if equipped)"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "10A",
+     "SCR pumps relay (if equipped)"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "15A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "F61",
+     "Fuse MINI",
+     "10A",
+     "PM sensor"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils / diesel sensors (if equipped)"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "25A",
+     "Fuel injectors / PCM / ECM"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "10A",
+     "Sunroof / LRSM / RVM / DSCR / USB port / DTV (if equipped)"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "15A",
+     "CD/DVD / UCI port / USB port"
+    ],
+    [
+     "F68",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper motor"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "15A",
+     "Spotlight feed (if equipped)"
+    ],
+    [
+     "F70",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump motor"
+    ],
+    [
+     "F71",
+     "Fuse MINI",
+     "30A",
+     "Amplifier / ANCM (if equipped)"
+    ],
+    [
+     "F72",
+     "Fuse MINI",
+     "10A",
+     "ECM / PCM (if equipped)"
+    ],
+    [
+     "F73",
+     "Fuse MINI",
+     "15A",
+     "HID headlamps right (if equipped)"
+    ],
+    [
+     "F75",
+     "Fuse MINI",
+     "10A",
+     "Dual battery control (if equipped)"
+    ],
+    [
+     "F76",
+     "Fuse MINI",
+     "10A",
+     "Electronic stability control (ESP)"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "10A",
+     "DTCM / ELSD (if equipped)"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "10A",
+     "ECM / PCM / EPS"
+    ],
+    [
+     "F80",
+     "Fuse MINI",
+     "10A",
+     "UGDO / ITM / siren"
+    ],
+    [
+     "F81",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow right turn/stop (if equipped)"
+    ],
+    [
+     "F82",
+     "Fuse MINI",
+     "10A",
+     "SCCM / cruise control / DTV"
+    ],
+    [
+     "F83",
+     "Fuse MINI",
+     "10A",
+     "Fuel door"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "15A",
+     "Instrument cluster"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "10A",
+     "ORC (airbag)"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "10A",
+     "ORC (airbag)"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "10A",
+     "Air suspension module (if equipped)"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "15A",
+     "Cluster / SGW / ITBM (if equipped)"
+    ],
+    [
+     "F90/F91",
+     "Fuse MINI",
+     "20A",
+     "Power outlet (rear seats / cargo area), selectable"
+    ],
+    [
+     "F92",
+     "Fuse MINI",
+     "10A",
+     "Rear console lamp (if equipped) / rear power"
+    ],
+    [
+     "F93",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter / power outlet"
+    ],
+    [
+     "F94",
+     "Fuse MINI",
+     "10A",
+     "Shift-by-wire / transfer switch"
+    ],
+    [
+     "F95",
+     "Fuse MINI",
+     "10A",
+     "Rear camera / blind spot sensor"
+    ],
+    [
+     "F96",
+     "Fuse MINI",
+     "10A",
+     "Rear seat heater switch (if equipped)"
+    ],
+    [
+     "F97",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats / heated steering wheel (if equipped)"
+    ],
+    [
+     "F98",
+     "Fuse MINI",
+     "20A",
+     "Front heated seats / ventilated seats (if equipped)"
+    ],
+    [
+     "F99",
+     "Fuse MINI",
+     "10A",
+     "HVAC / DASM / HLFM / ParkTronics"
+    ],
+    [
+     "F100",
+     "Fuse MINI",
+     "10A",
+     "Active damping (if equipped)"
+    ],
+    [
+     "F101",
+     "Fuse MINI",
+     "15A",
+     "ECCM / smart high beams (if equipped)"
+    ],
+    [
+     "F103",
+     "Fuse MINI",
+     "10A",
+     "PTC / rear HVAC (if equipped)"
+    ],
+    [
+     "F104",
+     "Fuse MINI",
+     "20A",
+     "Power outlets - IP / console / trunk"
+    ]
+   ]
+  }
+ ]
+}

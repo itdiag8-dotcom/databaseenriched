@@ -1,0 +1,529 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "grand-cherokee",
+ "brand_db": "Jeep",
+ "model_db_name": "Grand Cherokee",
+ "model_id": 2405,
+ "generation_name": "2nd generation (WJ/WG)",
+ "generation_code": "g2",
+ "year_start": 1999,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/jeep/grand-cherokee/info/fusebox/2003",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-grand-cherokee-2003-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor (MTC) / blower motor controller (AZC)"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defogger relay, cigar lighter relay (trailer tow circuit breaker; passenger compartment fuses 11, 26)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "High beam relay, low beam / DRL relay (passenger compartment fuses 3,4,5,6,11,14,15,16,17)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Gasoline: transmission control relay, TCM (4.7L), transmission solenoid"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Gasoline: automatic shut down relay (ignition coils, capacitor, engine fuses 16, 26)"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "Diesel: glow plug relay No.1 (glow plugs 1, 3, 5)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "Passenger compartment fuses 23, 24, 25, 27, C2"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter relay, ignition switch (passenger compartment fuses 12, 21, 22, 28, 29, 30, 32, C1)"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Diesel: fuel heater relay"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan relay"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "50A",
+     "Diesel: glow plug relay No.2 (glow plugs 2, 4)"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "50A",
+     "Driver/passenger door module, passenger compartment fuse 18"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Diesel: automatic shut down relay (ECM, PCM, engine fuses 16, 26)"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch (passenger compartment fuses 19, 20, 31, 33)"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "Passenger compartment fuses 5, 7, 8, 9"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Gasoline: oxygen sensors, O2 sensor downstream relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Diesel: A/C compressor clutch relay, glow plug relays, EGR solenoid"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Gasoline: powertrain control module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Air conditioner compressor clutch relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Gasoline: fuel pump relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Diesel: powertrain control module, transmission control relay"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "ABS"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Gasoline: fuel injectors; Diesel: fuel injection pump"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Transmission solenoid (4.0L)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Gasoline: fuel pump; Diesel: wiper (on/off)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Gasoline: starter; Diesel: wiper (high/low)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Gasoline: transmission control; Diesel: fuel heater"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Gasoline: wiper (on/off); Diesel: transmission control"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Gasoline: wiper (high/low); Diesel: starter"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Gasoline: oxygen sensor downstream"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Gasoline: oxygen sensor upstream"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Air conditioner compressor clutch"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Automatic shut down"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Diesel: glow plug (No.1)"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Diesel: glow plug (No.2)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-grand-cherokee-2003-genid-g2-1.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (high beam)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Combination flasher"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "Radio, amplifier"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Park lamp relay (park/tail/license lamps, trailer tow connector, headlamp leveling switch)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Body control module, underhood lamp, sentry key immobilizer module, AZC module, auto headlamp light sensor/VTSS LED, remote keyless module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper motor, courtesy/glove box/cargo/map/door handle lamps, vehicle info center, liftgate flip-up switch, security system module, visor/vanity lamp"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Front/rear power outlets, power connector"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Adjustable pedals"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Automatic zone control module (AZC) / manual temperature control (MTC)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay, automatic shut down relay, PCM, transmission control relay (4.7L)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (low beam)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (low beam)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (high beam)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Data link connector, instrument cluster"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow brake lamp relay, electric brake"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "Trailer tow brake lamp relay, electric brake"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Combination flasher, AZC/MTC, temperature valve actuator, transmission solenoid/TRS assembly (4.7L), park/neutral position switch, heated seat switches"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Gasoline: A/C compressor clutch relay, EVAP/purge solenoid, brake transmission shift interlock solenoid"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Diesel: fuel heater relay, engine control module, brake transmission shift interlock solenoid"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Body control module, instrument cluster, sentry key immobilizer module, vehicle info center, auto day/night mirror, security system module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp switch"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp relay, body control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Sunroof delay relay, body control module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Rear fog lamp relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Body control module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Cigar lighter relay, right multi-function switch"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Starter relay, transmission control module (4.7L)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Relay box (upper engine fuse panel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-grand-cherokee-2003-genid-g2-2.webp",
+   "fuses": [
+    [
+     "C1",
+     "Circuit breaker MAXI",
+     "",
+     "Front wiper motor, wiper on/off relay, wiper high/low relay (circuit breaker)"
+    ],
+    [
+     "C2",
+     "Circuit breaker MAXI",
+     "",
+     "Power seats (circuit breaker)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Low beam / daytime running lamp"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cigar lighter"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Combination flasher"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear fog lamp"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Low beam"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "High beam"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Sunroof delay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front fog lamp"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Park lamp"
+    ]
+   ]
+  }
+ ]
+}
