@@ -1,0 +1,476 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "compass",
+ "brand_db": "Jeep",
+ "model_db_name": "Compass",
+ "model_id": 2403,
+ "generation_name": "2nd generation (MP/551)",
+ "generation_code": "g2",
+ "year_start": 2017,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/jeep/compass/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood power distribution center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-compass-2022-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMX/JCase",
+     "50A",
+     "Transmission smart driver unit (TSDU) (gasoline)"
+    ],
+    [
+     "F01",
+     "Fuse FMX/JCase",
+     "60A",
+     "DCTT SDU BATT glow plug (diesel)"
+    ],
+    [
+     "F03",
+     "Fuse FMM/MCase",
+     "40A",
+     "PTC feed 1 (if equipped)"
+    ],
+    [
+     "F04",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defroster (EBL) (if equipped)"
+    ],
+    [
+     "F06",
+     "Fuse FMM/MCase",
+     "40A",
+     "TTM (if equipped)"
+    ],
+    [
+     "F07",
+     "Fuse FMM/MCase",
+     "40A",
+     "SCR (if equipped)"
+    ],
+    [
+     "F08",
+     "Fuse FMM/MCase",
+     "20A",
+     "SLM feed left (if equipped)"
+    ],
+    [
+     "F09",
+     "Fuse FMM/MCase",
+     "30A",
+     "AGSM / DCSM / TCM / DTCM / SCCM"
+    ],
+    [
+     "F10",
+     "Fuse FMM/MCase",
+     "20A",
+     "SLM feed right (if equipped)"
+    ],
+    [
+     "F11",
+     "Fuse FMM/MCase",
+     "20A",
+     "BCM feed 3 (run/start & FB relay, start/stop & FB relay in BCM)"
+    ],
+    [
+     "F11",
+     "Fuse FMM/MCase",
+     "30A",
+     "BCM feed 3 (run/start & FB relay, start/stop & FB relay in BCM) / aux PDC power feed"
+    ],
+    [
+     "F12",
+     "Fuse FMM/MCase",
+     "40A",
+     "BSM pump"
+    ],
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "40A",
+     "BSM valves"
+    ],
+    [
+     "F14",
+     "Fuse FMM/MCase",
+     "40A",
+     "Diesel filter heater (if equipped)"
+    ],
+    [
+     "F15",
+     "Fuse FMM/MCase",
+     "40A",
+     "Starter motor solenoid fuse"
+    ],
+    [
+     "F16",
+     "Fuse FMM/MCase",
+     "40A",
+     "Starter motor solenoid (if equipped)"
+    ],
+    [
+     "F17",
+     "Fuse FMM/MCase",
+     "40A",
+     "HVAC fan"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "2A",
+     "Steering column control module (SCCM)"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "7.5A",
+     "Engine control module (ECM) / radiator fan relay coil"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "7.5A",
+     "AC compressor"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "7.5A",
+     "Side mirrors defrost (if equipped)"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "20A",
+     "Left HID lamp"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "20A",
+     "Lumbar adjust, driver seat (if equipped)"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "25A",
+     "Engine control module (ECM) / fuel injectors"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "20A",
+     "Right HID lamp"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "15A",
+     "Wireless charging pad / switch bank lower 2 / switch bank lower left & right"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel injectors / ignition coils / ignition coil capacitors (gasoline)"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "15A",
+     "UEGO (O2) sensors upstream & downstream / glow plug module / oil pump / mass airflow sensor / EGR cooling bypass / swirl actuator / UREA cooling pump (diesel)"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "10A",
+     "Relay coil power control relay (2.4 dual battery application only)"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "10A",
+     "UCI2 port / CVPM module"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "10A",
+     "ECM / TCM / AGSM / DCSM / STM"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "20A",
+     "Cargo power outlet - ignition power"
+    ],
+    [
+     "F46",
+     "Fuse MICRO2",
+     "30A",
+     "Drivetrain control module (DTCM) AWD power"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "30A",
+     "Front windshield defrost (if equipped)"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "F50",
+     "Fuse MICRO2",
+     "5A",
+     "Drivetrain control module (DTCM) ECU power"
+    ],
+    [
+     "F51",
+     "Fuse MICRO2",
+     "20A",
+     "NOx sensor feed (diesel engine)"
+    ],
+    [
+     "F52",
+     "Fuse MICRO2",
+     "5A",
+     "Automatic gearbox shifter module (AGSM) (diesel & gas)"
+    ],
+    [
+     "F57",
+     "Fuse MICRO2",
+     "20A",
+     "Rear power outlet (12V APO)"
+    ],
+    [
+     "F61",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "5A",
+     "Intelligent battery sensor (IBS)"
+    ],
+    [
+     "F64",
+     "Fuse MICRO2",
+     "10A",
+     "DCSD module / hands-free liftgate / UCI + USB port"
+    ],
+    [
+     "F65",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "F66",
+     "Fuse MICRO2",
+     "20A",
+     "Cigar lighter (if equipped)"
+    ],
+    [
+     "F67",
+     "Fuse MICRO2",
+     "10A",
+     "Engine control module (ECM)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-compass-2022-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Keyless ignition node module, electric park brake, RF hub, cluster"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Washer pump front and rear"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Intrusion module/siren, radio, UCI/USB port, VSU, climate control, electronic steering lock, power folding mirrors, security gateway/DTV"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Door lock/unlock, liftgate release"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Rear right window lifter"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Rear left window lifter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Window motor driver"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Window motor passenger"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel cluster, drivetrain control module, adaptive cruise, ECC (HVAC) blower"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Occupant restraint controller"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Park assist, blind spot, voltage stabilizer, humidity sensor, electronic steering lock, temp sense, mirror, heated seats, light and rain sensor, start/stop switch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic climate control, occupant classification, rear view camera, headlamp leveling, terrain select, heated rear window, trailer tow, haptic lane module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Occupant restraint controller"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Lumbar adjust driver seat, power outlets"
+    ],
+    [
+     "F42",
+     "Fuse",
+     "",
+     "Brake system module, electric power steering"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear cargo fuse/relay distribution unit - access door",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-compass-2022-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "30A",
+     "Power inverter"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "25A",
+     "Memory seat"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "20A",
+     "Sunroof (if equipped)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "30A",
+     "Power seat (passenger side)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "30A",
+     "Power seat (driver side)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "7.5A",
+     "Power lumbar (power seats)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Heated steering wheel / ventilated seats"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear cargo fuse/relay distribution unit - panel cover",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-compass-2022-genid-g2-3.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "TTM ignition feed"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Exterior lighting controller (driver side)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Exterior lighting controller (passenger side)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "TTM jumper battery feed"
+    ]
+   ]
+  }
+ ]
+}
