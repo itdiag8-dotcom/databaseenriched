@@ -1,0 +1,476 @@
+{
+ "make_slug": "land-rover",
+ "model_slug": "defender",
+ "brand_db": "Land Rover",
+ "model_db_name": "Defender",
+ "model_id": 2561,
+ "generation_name": "2nd generation L663",
+ "generation_code": "g2",
+ "year_start": 2019,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/land-rover/defender/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box A",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-land-rover-defender-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Engine management"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "15A",
+     "Engine management"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Engine management"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Engine management [diesel only]"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Engine management"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "15A",
+     "Engine cooling / engine oil pump [diesel only]"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "5A",
+     "Vehicle electrical systems"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "25A",
+     "Rear washer jet"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "Heated washer jets"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "Engine cooling"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "25A",
+     "Fuel pump [diesel only]"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "15A",
+     "Engine cooling"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box B",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-land-rover-defender-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "6",
+     "Fuse MICRO2",
+     "15A",
+     "Horns"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "Driver assistance systems"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Mild hybrid (MHEV) system"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "5A",
+     "Camera systems"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "5A",
+     "Driveline module"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "30A",
+     "Right-side headlight washer pump"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "30A",
+     "Left-side headlight washer pump"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "25A",
+     "Right-side headlight"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "25A",
+     "Left-side headlight"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-land-rover-defender-2024-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "20A",
+     "Front cigar lighter"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "20A",
+     "Front cigar lighter, front accessory socket"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "20A",
+     "Second row accessory sockets, USB ports"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "5A",
+     "Phone signal"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "5A",
+     "Battery back-up sounder"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "20A",
+     "Second row accessory sockets, USB ports"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "5A",
+     "Wireless charger"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "5A",
+     "Rear-view mirror"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "30A",
+     "Front passenger's seat"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "Cool box"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "5A",
+     "Battery cooling fan"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "25A",
+     "Driver's door switches"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "25A",
+     "Front passenger door switches"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "20A",
+     "Driver's seat"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "5A",
+     "Overhead console, RF receiver, auxiliary heater, TPMS, Singapore road pricing"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "5A",
+     "Singapore road pricing connector"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "10A",
+     "Driver assistance systems"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "10A",
+     "Near field sensors"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "5A",
+     "Telematics module"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "Heated steering wheel"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Loadspace fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-land-rover-defender-2024-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "15A",
+     "Battery cooling fan"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "5A",
+     "Blind spot monitor"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "Driver's heated or climate seat"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Front seat switches"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "20A",
+     "Passenger's seat heat"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "20A",
+     "Right-side rear heated seat"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "Rear seat switches"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "20A",
+     "Left-side rear heated seat"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "Trailer socket"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "Diesel Exhaust Fluid (DEF)"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "20A",
+     "Loadspace accessory socket"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "20A",
+     "Second row accessory sockets"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "5A",
+     "Chassis control"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "2A",
+     "Electronic toll collection"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "5A",
+     "Adaptive cruise control"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "30A",
+     "Heated rear screen"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "15A",
+     "Tailgate"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "5A",
+     "Vehicle battery"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "30A",
+     "Driver's seat"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "5A",
+     "Rear climate control, rear console switches"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "30A",
+     "Deployable tow ball"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "15A",
+     "Trailer socket"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "15A",
+     "Fuel tank, powertrain control module"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "10A",
+     "Touchscreen"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "15A",
+     "Touchscreen"
+    ]
+   ]
+  }
+ ]
+}
