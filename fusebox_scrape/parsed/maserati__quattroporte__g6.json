@@ -1,0 +1,534 @@
+{
+ "make_slug": "maserati",
+ "model_slug": "quattroporte",
+ "brand_db": "Maserati",
+ "model_db_name": "Quattroporte",
+ "model_id": 2736,
+ "generation_name": "6th generation M156",
+ "generation_code": "g6",
+ "year_start": 2013,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/maserati/quattroporte/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-quattroporte-2017-genid-g6-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Secondary air pump relay input"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter motor relay input"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS-ESP pump feed"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "AWD module (AWD only)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "25A",
+     "ABS-ESP valve feed"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "AWD module (AWD only)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Electric steering lock"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Horn relay input"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "AC compressor relay input"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm siren"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Washer heated nozzles relay input"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Cooling fan and steering-transmission oil pump relay enable"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp washer relay input"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper motor relay output"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "20A",
+     "LH low beam relay input"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "RH low beam relay input"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument panel control (IPC)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Primary load to PCM module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "ORC airbag module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "ABS-ESP module"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "SCCM and AWD module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Headlights"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Primary load to engine harness LH"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Primary load to engine harness RH"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "30A",
+     "PCM module primary load"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Engine secondary load"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Lambda sensor"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "7.5A",
+     "Flow meters, tank leakage, canister, exhaust bypass valve"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Brake pedal switch - TCM module"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "15A",
+     "+30 PCM module"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "30A",
+     "Primary left fuel pump relay input"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "30A",
+     "Secondary right fuel pump relay input"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-quattroporte-2017-genid-g6-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "BCM module"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "BCM module"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "BCM module"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "BCM module"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver door module"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "KI30 fuses F42-F60-F62-F66"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "High Premium stereo amplifier unit"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC front blower relay coil"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defrost relay coil"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear LH door module"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear RH door module"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "20A",
+     "Electric parking brake"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "Electric parking brake"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Rear HVAC module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Fuel door relay, RF hub module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "ITM module, ceiling lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Inverter"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Cluster module, clock"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "LH rear seat movement"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "25A",
+     "LH front seat movement"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Start/Stop switch, diagnostic outlet"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "RH rear seat movement"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "HFM, MTC display, CSS switch, column module switch"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Rear doors sunshade"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Shift lever, TPMS module, Navtrak"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Radio"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "25A",
+     "RH front seat movement"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "20A",
+     "Trunk power outlet"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "20A",
+     "Premium stereo amplifier unit"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Passenger seat heater module"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Internal mirror, sunroof"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "5A",
+     "Rear camera"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "5A",
+     "Navtrak"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "25A",
+     "Passenger seat and steering wheel heater module"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "25A",
+     "Rear vented seats module"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "7.5A",
+     "Interior temperature sensor, front HVAC blower coil relay, aux illumination"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "10A",
+     "Rear HVAC module, rear blower coil relay"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "5A",
+     "Airbag module"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "ADCM module, EPB module, gear lever, ASBM, rear tunnel switch"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "10A",
+     "ADCM module"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "25A",
+     "Front console power outlet and cigar lighter"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "7.5A",
+     "HVAC module"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "20A",
+     "Rear HVAC blower"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "10A",
+     "Wi-Fi"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "Intelligent battery sensor"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "10A",
+     "Rear seat entertainment, Wi-Fi"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "7.5A",
+     "Rain/light sensor, humidity sensor, USB charge outlet"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "20A",
+     "Rear sunshade module"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "25A",
+     "Rear console power outlet and cigar lighter"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "10A",
+     "HVAC module, AFLM headlights module, parking aid module"
+    ]
+   ]
+  }
+ ]
+}

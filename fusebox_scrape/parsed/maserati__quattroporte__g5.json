@@ -1,0 +1,697 @@
+{
+ "make_slug": "maserati",
+ "model_slug": "quattroporte",
+ "brand_db": "Maserati",
+ "model_db_name": "Quattroporte",
+ "model_id": 2736,
+ "generation_name": "5th generation M139",
+ "generation_code": "g5",
+ "year_start": 2004,
+ "year_end": 2012,
+ "trim_label": "Automatic",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/maserati/quattroporte/info/fusebox/2009/trims-automatic",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuses and relays",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-quattroporte-2009-genid-g5-trims-automatic-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "40A",
+     "+30 relay - fan 1"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "30A",
+     "+30 ABS valves"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "20A",
+     "+30 relay T03 spot lights"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "40A",
+     "+30 ABS pump"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "40A",
+     "+30 AC node"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "60A",
+     "+30 relay - fan 2"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "30A",
+     "+30 relay T07 - I.E. main"
+    ],
+    [
+     "F08",
+     "Fuse ATO",
+     "7.5A",
+     "+30 relay T08 - AC compressor"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "7.5A",
+     "+30 relay T05 - CLA"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "+30 relay T06 - horns"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "LH high beam"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "NQS"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "+30 alternator sensing"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "LH spot light power supply"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "RH high beam"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "+30 I.E. bank"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "+30 relay T02 - DRL lights"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "+30 relay T10 - glove compartment motor"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "+30 relay T14 - fog lights"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "+30 ABS electronics"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "RH spot light power supply"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "30A",
+     "+30 relay T20 - ignition"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "50A",
+     "CPL2"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "50A",
+     "+30 air pump relay"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "+30 ignition switch"
+    ],
+    [
+     "F85",
+     "Fuse ATO",
+     "30A",
+     "Headlight washer power supply"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "15A",
+     "+main relay, injectors/cylinder coils 1-4"
+    ],
+    [
+     "F89",
+     "Fuse MINI",
+     "15A",
+     "+main relay, injectors/cylinder coils 5-8"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "15A",
+     "+main relay I.E. secondary devices"
+    ],
+    [
+     "F91",
+     "Fuse MINI",
+     "10A",
+     "+main relay, I.E. ECU"
+    ],
+    [
+     "F92",
+     "Fuse MINI",
+     "15A",
+     "+main relay, oxygen sensors"
+    ],
+    [
+     "F93",
+     "Fuse MINI",
+     "7.5A",
+     "INT roof panel utilities"
+    ],
+    [
+     "F94",
+     "Fuse MINI",
+     "7.5A",
+     "INT NCS"
+    ],
+    [
+     "F95",
+     "Fuse MINI",
+     "7.5A",
+     "INT CSG"
+    ],
+    [
+     "F96",
+     "Fuse MINI",
+     "7.5A",
+     "INT alternator"
+    ],
+    [
+     "F97",
+     "Fuse MINI",
+     "10A",
+     "INT I.E. ECU"
+    ],
+    [
+     "T02",
+     "Relay",
+     "",
+     "DRL relay"
+    ],
+    [
+     "T03",
+     "Relay",
+     "",
+     "Spot light relay"
+    ],
+    [
+     "T05",
+     "Relay",
+     "",
+     "CLA relay"
+    ],
+    [
+     "T06",
+     "Relay",
+     "",
+     "Horns relay"
+    ],
+    [
+     "T07",
+     "Relay",
+     "",
+     "I.E. main relay"
+    ],
+    [
+     "T08",
+     "Relay",
+     "",
+     "AC compressor relay"
+    ],
+    [
+     "T09",
+     "Relay",
+     "",
+     "High-beam relay"
+    ],
+    [
+     "T10",
+     "Relay",
+     "",
+     "Glove compartment motor relay"
+    ],
+    [
+     "T14",
+     "Relay",
+     "",
+     "Fog light relay"
+    ],
+    [
+     "T15",
+     "Relay",
+     "",
+     "Radiator fan 1st speed relay"
+    ],
+    [
+     "T16",
+     "Relay",
+     "",
+     "Radiator fan 2nd speed relay"
+    ],
+    [
+     "T17",
+     "Relay",
+     "",
+     "Immobilizer relay"
+    ],
+    [
+     "T19",
+     "Relay",
+     "",
+     "Ignition enable relay"
+    ],
+    [
+     "T20",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "T30",
+     "Relay",
+     "",
+     "Air pump relay"
+    ],
+    [
+     "T31",
+     "Relay",
+     "",
+     "Headlight washer pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box (left of steering wheel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-quattroporte-2009-genid-g5-trims-automatic-1.webp",
+   "fuses": [
+    [
+     "F07",
+     "Fuse MINI",
+     "15A",
+     "RH low beam"
+    ],
+    [
+     "F01",
+     "Fuse MINI",
+     "15A",
+     "LH low beam / CAF headlights ECU enable"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "+15 CLA stop lights control, third stop, NQS instrument panel, CAF headlights ECU"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "7.5A",
+     "INT/A for AC unit, NBC body computer node"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Rear dome lights, step lights, luggage compartment lights, front dome light"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "+15 wiper controls, NCA automatic gearbox node"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "+30 NIM roof node, Bose infotainment, NCL climate node, OBDII socket, CSA alarm siren, CAV motion alarm"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Front seats heating (INT/A relay)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "NVB luggage compartment node supply 1"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "20A",
+     "NVB luggage compartment node supply 2"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper/washer (INT/A relay)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter, luggage compartment and dashboard power sockets"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Windshield/rear window washer nozzles, heated windshield"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "7.5A",
+     "+15 SCC cruise satellite, NAC adaptive cruise node, CLA stop lights control"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "+30 (preset position)"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Reverse lights"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "NPG driver's door node supply"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "20A",
+     "NPP passenger's door node supply"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "7.5A",
+     "+15 NFR brake system node"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag system"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "25A",
+     "Headrest recline electromagnets"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Rear window sunshade motor"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "7.5A",
+     "+15 NVO steering wheel node, NCS suspension, NSP parking sensors, CSG power steering, NTV TV node, CSP rain sensor, internal mirror, NIM, Bose panel, dashboard panel, AQS, fog sensor, CTA sunroof ECU"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "Connected devices 2 relay (BC body computer)"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "Connected devices 1 relay (INT/A ignition switch)"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "Low beams relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage compartment relay/fuse boxes",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-quattroporte-2009-genid-g5-trims-automatic-2.webp",
+   "fuses": [
+    [
+     "T21",
+     "Relay",
+     "",
+     "Rear connected devices relay"
+    ],
+    [
+     "T23",
+     "Relay",
+     "",
+     "Side marker relay"
+    ],
+    [
+     "T24",
+     "Relay",
+     "",
+     "Third stop relay"
+    ],
+    [
+     "T25",
+     "Relay",
+     "",
+     "Fuel tank door relay"
+    ],
+    [
+     "T32",
+     "Relay",
+     "",
+     "Key-lock solenoid relay"
+    ],
+    [
+     "T33",
+     "Relay",
+     "",
+     "Rear seat heating relay"
+    ],
+    [
+     "T34",
+     "Relay",
+     "",
+     "Fuel pump 1 relay"
+    ],
+    [
+     "T35",
+     "Relay",
+     "",
+     "Fuel pump 2 relay"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "+30 T32 key-lock solenoid"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "+30 T33 rear seat heating"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "+30 T34, T35 fuel pumps"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "30A",
+     "+30 Hi-Fi amplifier"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "30A",
+     "Driver's seat movement (from T21)"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "10A",
+     "+30 NAG, NTV, Bose tuner, NIT (Japan)"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "30A",
+     "Passenger seat movement (from T21)"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "7.5A",
+     "Front LH, rear RH side marker supply (from T23)"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "7.5A",
+     "+30 NSP"
+    ],
+    [
+     "F61",
+     "Fuse MINI",
+     "7.5A",
+     "+30 T24 third stop"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "20A",
+     "+30 NCA"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "15A",
+     "+30 fuel tank door relay T25"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "7.5A",
+     "Front RH, rear LH side marker supply (from T23)"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "20A",
+     "+30 NPP, NPG, NVB locks"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "20A",
+     "+30 sunroof"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "30A",
+     "Rear LH seat movement (from T21)"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "30A",
+     "Rear RH seat movement (from T21)"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "20A",
+     "Armrest power socket (from T21)"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "20A",
+     "+30 power socket"
+    ],
+    [
+     "F79",
+     "Fuse MINI",
+     "7.5A",
+     "Rear seat movement (from T21)"
+    ],
+    [
+     "F80",
+     "Fuse MINI",
+     "25A",
+     "+30 bass box"
+    ]
+   ]
+  }
+ ]
+}
