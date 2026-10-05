@@ -1,0 +1,528 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "gx-470",
+ "brand_db": "Lexus",
+ "model_db_name": "GX",
+ "model_id": 2586,
+ "generation_name": "1st generation (UZJ120/J120)",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2009,
+ "trim_label": "",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/lexus/gx-470/info/fusebox/2009",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-gx-470-2009-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "140A",
+     "(ALT) Charging system, feeds AM1/HEATER/CDS FAN/DEFOG/AIR SUS and more"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "(HEATER) Air conditioning system"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "(AIR SUS) Rear height control air suspension"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "(AM1) ACC, CIG, IG1, wipers/washers, DIFF, ECU-IG, TEMS, STA"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(TOWING BRK) Trailer brake controller"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "(J/B) Power windows, power seats, TAIL, PANEL, POWER/TI&TE"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "(BATT CHG) Trailer sub battery"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "(TOWING) Trailer lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "(CDS FAN) Electric cooling fan"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "(RR A/C) Rear air conditioning system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(MIR HEATER) Outside rear view mirror defogger"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(STOP) Stop lights, shift lock, VSC, suspension, fuel injection"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(AC INV) Power outlet (115V AC)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(FR FOG) Front fog lights"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "(OBD) On-board diagnosis system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(HEAD (LO RH)) Right headlight low beam"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(HEAD (LO LH)) Left headlight low beam"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(HEAD (HI RH)) Right headlight high beam"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(HEAD (HI LH)) Left headlight high beam"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "(EFI NO.2) Fuel injection system"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "(HEATER NO.2) Air conditioning system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "30A",
+     "(DEFOG) Rear window defogger"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "(AIR SUS NO.2) Rear height control air suspension"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "(SEAT HEATER) Seat heaters"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(DOME) Interior, personal, courtesy and running board lights"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "(RADIO NO.1) Audio system, navigation system"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(ECU-B) Multiplex communication, VSC, wireless remote, A/C, power windows, moon roof"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(ECU-B NO.2) Theft deterrent system"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS MTR) ABS, VSC, traction control, brake assist"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "(AM2) Starting system, IGN, SRS, GAUGE, ST2"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS SOL) ABS, VSC, traction control, brake assist"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "(ALT-S) Charging system"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "(MAYDAY) Lexus Link system"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horns"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "(A/F HEATER) A/F sensor"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "(TRN-HAZ) Turn signal lights"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "(ETCS) Electronic throttle control system"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "(EFI) Fuel injection system"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "(D FR P/W) Driver's power window"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "25A",
+     "(DR/LCK) Power door lock"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "30A",
+     "(TOWING) Towing converter"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "30A",
+     "(RADIO NO.2) Audio system, navigation system"
+    ],
+    [
+     "47",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "(A/PUMP) Fuel injection system air pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "CDS FAN Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "ACC CUT Relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "FR FOG Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "STA Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "IG Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "HEATER Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "MG CLT Relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "DEFOG Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "AC INV Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "FUEL PMP Relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "HEAD Relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "DAC Relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "C/OPN Relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "DOME Relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "EFI Relay"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "A/F HEATER Relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver's side instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-gx-470-2009-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(IGN) Fuel injection system, VSC"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(SRS) SRS airbag system, occupant classification"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "(GAUGE) Gauges and meters"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "(ST2) Fuel injection system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "(FR WIP-WSH) Windshield wipers and washer"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "(TEMS) Electronic modulated suspension"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "(DIFF) Four-wheel drive system"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(RR WIP) Rear window wiper"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "(D P/SEAT) Driver's power seat"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "(P P/SEAT) Front passenger's power seat"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(PWR OUTLET) Power outlet (12V DC)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(IG1 NO.2) Rear A/C, inside mirror, KDSS"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(RR WSH) Rear window washer"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(ECU-IG) Shift lock, power windows, ABS/VSC, A/C, navigation, moon roof, TPMS"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(IG1) A/C, back-up lights, rear defogger, seat heaters, VSC"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "(STA) Fuel injection system"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "(P FR P/W) Front passenger's power window"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "(P RR P/W) Rear right power window"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "(D RR P/W) Rear left power window"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(PANEL) Instrument panel lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(TAIL) Parking, tail, license plate, front fog lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "(ACC) Shift lock, power outlet, mirrors, audio, navigation"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(CIG) Cigarette lighter"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "(POWER OR TI&TE) Power windows, moon roof, tilt and telescopic steering"
+    ]
+   ]
+  }
+ ]
+}
