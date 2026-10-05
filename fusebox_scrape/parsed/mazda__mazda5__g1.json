@@ -1,0 +1,396 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "mazda5",
+ "brand_db": "Mazda",
+ "model_db_name": "5",
+ "model_id": 2756,
+ "generation_name": "Generation CR",
+ "generation_code": "g1",
+ "year_start": 2005,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/mazda/mazda5/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mazda5-2010-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "FAN - cooling fan"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "FAN - cooling fan"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "P.WIND - power windows (without rear ventilation)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "R.BLOWER - rear blower motor (with rear ventilation)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG KEY1 INJ - various circuits (without rear ventilation)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "20A",
+     "IG KEY2 (with rear ventilation)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS-V"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS-P"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "20A",
+     "IG KEY2 (without rear ventilation)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG KEY1 - various circuits (with rear ventilation)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "HEATER DEICER TCM"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "BLOWER - blower motor (without rear ventilation)"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "F.BLOWER - front blower motor (with rear ventilation)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "GLOW IG KEY1 - various circuits (without rear ventilation)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "F.BLOWER - front blower motor (with rear ventilation)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "60A",
+     "BTN - various circuits"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG KEY2"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "20A",
+     "CLOSER P.SLIDE1 - easy closer"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "20A",
+     "CLOSER P.SLIDE RH - easy closer"
+    ],
+    [
+     "15",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "EHPAS - electro-hydraulic power assist steering"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "FOG - fog lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "D.LOCK - power door lock"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "P.WIND H/CLEAN - power windows"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "ETC - accelerator position sensor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "25A",
+     "DEFOG - rear window defroster"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ENG+B - PCM"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "STOP - brake lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "FUEL - fuel pump"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "HAZARD - turn signals, hazard flashers"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "ROOM - overhead/map/luggage lights"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "MAG - magnet clutch"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "GLOW SIG (without rear ventilation)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "HEAD HR - high beam RH"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "HEAD HL - high beam LH"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "HORN"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "SUN ROOF - moonroof"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "MIRROR BURGLAR - theft-deterrent system"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "HEAD LR - low beam RH, headlight leveling"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "HEAD LL - low beam LH"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "ENG BAR2 - O2 heater"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "ENG BAR - air flow sensor, engine control"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "INJ ENG BAR - injector"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "ILLUMI - illumination"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "TAIL - taillights, parking, license plate"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse block (passenger side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mazda5-2010-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "P/W - power windows"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "M.DEF - mirror defroster"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "ENG3 - ignition switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "P.OUTLET - accessory socket"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "SHIFT/L - AT shift"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "CIGAR - lighter"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "MIRROR - power control mirror, audio system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "A/C - air conditioner"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "F.WIP - windshield wipers and washer"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "R.WIP - rear wiper and washer"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "ENG - main relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "METER - instrument cluster"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "SAS - supplemental restraint systems"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "S.WARM - seat warmer"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "ABS/DSC"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "EHPAS - power assist steering"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "ENG2"
+    ]
+   ]
+  }
+ ]
+}
