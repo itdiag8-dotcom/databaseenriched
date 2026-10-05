@@ -1,0 +1,505 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "terracan",
+ "brand_db": "Hyundai",
+ "model_db_name": "Terracan",
+ "model_id": 2253,
+ "generation_name": "1st generation (HP)",
+ "generation_code": "g1",
+ "year_start": 2001,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/hyundai/terracan/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Dashboard fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-terracan-2010-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Defroster"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Hazard lights"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Stop lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Transfer case"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Engine fan"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Power door locks"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Audio, clock"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter, accessory socket"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Folding exterior mirror"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "A/C switch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Rear window defroster, mirror heater"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "TCM, ECM (COVEC-F), TCM (EST), shift switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Rear warning, upper tail light, interior mirror"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Turn signal light"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, ETACM, speed sensor flashers"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator, ABS control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Fan and A/C relay, ETACM, defroster"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Seat heating"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Sunroof, rain sensor, rear wiper"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Starter"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuses (No.1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-terracan-2010-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "(BATT 2) Battery and charging system"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 2) Ignition"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "(A/CON) Air conditioning"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS 1) ABS"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "(P/WDW) Power windows"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "(LAMP) Headlamps"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "20A",
+     "(ABS 2) ABS"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "(FUEL PUMP) Fuel pump"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Fuel filter heater"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(H/LP LO) Headlights low beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(H/LP HI) Headlights high beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(A/CON COMP) A/C compressor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "TCI fan motor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "AV/navigation unit"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Diesel engine ECU"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Diesel engine ECU"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "CRI ECU"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(TAIL LP LH) Tail light left"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(TAIL LP RH) Tail light right"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ABS warning lamp"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Relays"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "ABS unit"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Auto cruise"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "(FR WIPER) Front wipers"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "25A",
+     "(P/SEAT) Power seats"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "(ACC SOCKET) Cigar lighter / power outlet"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Unit"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "(ROOM LP) Interior lights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(C/FAN 1) Electric cooling fan"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(C/FAN 2) Electric cooling fan"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Diesel engine cooling fan 3"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "CRI"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Inhibitor"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "TCI fan"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(T/LP) Tail lights"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "(H/LP LO) Headlights low beam"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(H/LP HI) Headlights high beam"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Resistor with diode"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(COMP) A/C compressor"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "(ACC SOCKET) Power outlet"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "(START) Starter system"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "EBD warning lamp"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "ABS warning lamp"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "(FR WIP) Front wipers"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box (No.2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-terracan-2010-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Heater resistance relay"
+    ],
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "120A",
+     "Engine compartment relay and fuse box #1"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Passenger compartment fuse box (1-5), engine compartment fuse box #2 (8,9)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Alternator"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "20A",
+     "Engine control relay (COVEC-F)/(gasoline)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Horn relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Front fog light"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "EGR control module, ECM (COVEC-F)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Glow, auxiliary heater 1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front fog lights"
+    ]
+   ]
+  }
+ ]
+}
