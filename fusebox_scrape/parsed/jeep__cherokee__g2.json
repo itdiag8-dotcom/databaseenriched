@@ -1,0 +1,408 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "cherokee",
+ "brand_db": "Jeep",
+ "model_db_name": "Cherokee",
+ "model_id": 2395,
+ "generation_name": "2nd generation (XJ)",
+ "generation_code": "g2",
+ "year_start": 1984,
+ "year_end": 2001,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/jeep/cherokee/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-cherokee-2001-genid-g2-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch (cigar lighter relay; passenger compartment fuses 8,9,10,11,17,18,27,28,30)"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch (passenger compartment fuses 12,19,22,24,25,26)"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "50A",
+     "Passenger compartment fuses 1,2,15,20,21,29"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "40A",
+     "Radiator fan relay"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "40A",
+     "Blower motor relay"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "30A",
+     "Headlamp switch, headlamp delay module, daytime running lamp module"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "30A",
+     "Automatic shut down relay"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "20A",
+     "Air conditioner compressor clutch relay, engine compartment fuse 27"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "20A",
+     "Starter relay"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "30A",
+     "Rear window defogger relay, passenger compartment fuse 13"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "40A",
+     "ABS"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "20A",
+     "ABS"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Dome lamp, cargo lamp, instrument cluster, courtesy lamp, radio, TCM, underhood lamp, visor/vanity lamp, overhead console, remote keyless entry module, glove box lamp, compass"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Oxygen sensor downstream/upstream relays"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors, coil rail, coil capacitor"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Headlamp switch, data link connector, power antenna relay"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Combination flasher"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay, powertrain control module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp switch"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Fog lamp relay 2"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Power amplifier"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Sentry key immobilizer module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Air conditioner compressor clutch"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fog lamp No.1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fog lamp No.2"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "ABS"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Oxygen sensor upstream"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Oxygen sensor downstream"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Radiator fan"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Automatic shut down"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-cherokee-2001-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "25A",
+     "Power outlet"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "25A",
+     "Cigar lighter"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (high beam), fog lamp relay No.1"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (low beam), leveling motor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (low beam), leveling motor, headlamp leveling switch, daytime running lamp module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, radio, rear wiper/washer switch, A/C heater control, rear window defogger switch, extended idle switch, fog lamp switches, PRNDL illumination, transfer case switch illumination"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Left tail lamp, left front park lamp, left side marker lamp, trailer tow connector, license lamp, front fog lamp relay/switch"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, overhead console, sentry key immobilizer module, message center (diesel), headlamp delay module, compass"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Back-up lamp, back-up lamp switch (M/T), transmission range sensor (A/T), DRL module, EVAP/purge solenoid (gasoline), radiator fan relay, A/C compressor clutch relay, O2 sensor relays (gasoline)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Gasoline: PCM, TCM, auto shut down relay, fuel pump relay; Diesel: ECM, fuel heater relay"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Combination flasher, rear window defogger relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "25A",
+     "Passenger door module (power window/door lock)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (high beam)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Driver door module, power mirror switch, heated seat switch/relay, rear fog lamp relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Starter relay, clutch interlock switch (M/T)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Trailer tow connector, trailer tow left/right turn relays"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper/washer switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Right tail lamp, right front park lamp, right side marker lamp"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Blower motor relay, blend door actuator, brake transmission shift interlock solenoid, extended idle switch, A/C heater control, ABS relay, ABS"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "28",
+     "Circuit breaker ATO",
+     "",
+     "Driver/passenger door module (power window, door lock)"
+    ],
+    [
+     "29",
+     "Circuit breaker ATO",
+     "",
+     "Power seat, heated seat relay"
+    ],
+    [
+     "30",
+     "Circuit breaker ATO",
+     "",
+     "Front wiper motor, front wiper/washer switch"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cigar lighter"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,528 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "cherokee",
+ "brand_db": "Jeep",
+ "model_db_name": "Cherokee",
+ "model_id": 2395,
+ "generation_name": "5th generation (KL)",
+ "generation_code": "g5",
+ "year_start": 2013,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/jeep/cherokee/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Underhood fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-cherokee-2023-genid-g5-0.webp",
+   "fuses": [
+    [
+     "F07",
+     "Fuse MICRO2",
+     "15A",
+     "Powertrain control module (PCM) / surge solenoid purge valve (if equipped)"
+    ],
+    [
+     "F08",
+     "Fuse MICRO2",
+     "25A",
+     "Fuel injectors / ECM / PCM (if equipped)"
+    ],
+    [
+     "F09",
+     "Fuse MICRO2",
+     "15A",
+     "Coolant pump / UREA coolant pump / PCM (if equipped)"
+    ],
+    [
+     "F09",
+     "Fuse MICRO2",
+     "10A",
+     "UREA coolant pump / PCM (if equipped)"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "20A",
+     "Power transfer unit (PTU) (if equipped)"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "10A",
+     "Supply and purging pump (if equipped)"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "10A",
+     "Voltage stability module (VSM) / PCM / engine control module (ECM)"
+    ],
+    [
+     "F14",
+     "Fuse MICRO3",
+     "10A",
+     "Drivetrain control module (DTCM) / PTU / electric park brake (EPB) / RDM / brake system module (BSM) / brake pedal switch / back-up lamp switch"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coils (if equipped)"
+    ],
+    [
+     "F17",
+     "Fuse FMM/MCase",
+     "30A",
+     "Brake vacuum pump (if equipped)"
+    ],
+    [
+     "F19",
+     "Fuse FMM/MCase",
+     "40A",
+     "Starter solenoid"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "5A",
+     "Radiator fan (PWM) enable"
+    ],
+    [
+     "F23",
+     "Fuse MAXI",
+     "50A",
+     "Voltage stability module (VSM) #2"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "F25B",
+     "Fuse MICRO3",
+     "20A",
+     "Front/rear washer"
+    ],
+    [
+     "F26",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel heater (if equipped)"
+    ],
+    [
+     "F28",
+     "Fuse MICRO3",
+     "15A",
+     "Transmission control module (TCM)/shifter"
+    ],
+    [
+     "F30",
+     "Fuse MICRO3",
+     "10A",
+     "Engine control module (ECM) / EPS / fuel pump relay feed / PCM / gas particulate filter (GPF)"
+    ],
+    [
+     "F38",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plugs (if equipped)"
+    ],
+    [
+     "F39",
+     "Fuse FMM/MCase",
+     "40A",
+     "HVAC blower motor"
+    ],
+    [
+     "F40",
+     "Fuse FMM/MCase",
+     "20A",
+     "Trailer tow park light (if equipped)"
+    ],
+    [
+     "F41",
+     "Fuse FMX/JCase",
+     "50A",
+     "Voltage stability module (VSM) #1"
+    ],
+    [
+     "F42",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow module (if equipped)"
+    ],
+    [
+     "F43",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump motor"
+    ],
+    [
+     "F44",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow receptacle (if equipped)"
+    ],
+    [
+     "F45",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger door module (PDM) (if equipped)"
+    ],
+    [
+     "F46",
+     "Fuse FMM/MCase",
+     "25A",
+     "Sunroof control module (if equipped)"
+    ],
+    [
+     "F48",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver door module (if equipped)"
+    ],
+    [
+     "F49",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power inverter (115V/220V AC) (if equipped)"
+    ],
+    [
+     "F50",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power liftgate module (if equipped)"
+    ],
+    [
+     "F52",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "F53",
+     "Fuse FMM/MCase",
+     "30A",
+     "Brake system module (BSM) ECU and valves"
+    ],
+    [
+     "F54",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module (BCM) feed 3"
+    ],
+    [
+     "F55",
+     "Fuse MICRO3",
+     "10A",
+     "Blind spot sensors / rearview camera / rear heated seat switch"
+    ],
+    [
+     "F56",
+     "Fuse MICRO3",
+     "15A",
+     "Ignition node module (IGNM) / KIN / RF hub / electric steering column lock (ESCL) / dual USB port rear console"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow left stop/turn lights (if equipped)"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "10A",
+     "Occupant classification module / VSM / TT module / ESCL"
+    ],
+    [
+     "F59",
+     "Fuse FMM/MCase",
+     "30A",
+     "Drivetrain control module (DTCM) (if equipped)"
+    ],
+    [
+     "F60",
+     "Fuse MICRO2",
+     "20A",
+     "Power outlet - center console"
+    ],
+    [
+     "F61",
+     "Fuse MICRO2",
+     "20A",
+     "Trailer tow right stop/turn lights (if equipped)"
+    ],
+    [
+     "F62",
+     "Fuse MICRO2",
+     "20A",
+     "Windshield de-icer (if equipped)"
+    ],
+    [
+     "F63",
+     "Fuse MICRO2",
+     "20A",
+     "Front heated/ventilated seats (if equipped)"
+    ],
+    [
+     "F64",
+     "Fuse MICRO2",
+     "20A",
+     "Rear heated seats (if equipped)"
+    ],
+    [
+     "F65",
+     "Fuse MICRO2",
+     "10A",
+     "In-vehicle temperature sensor / humidity sensor / driver assist system module (DASM) / park assist (PAM)"
+    ],
+    [
+     "F66",
+     "Fuse MICRO2",
+     "15A",
+     "HVAC (ECC) / instrument panel cluster (IPC) / gateway module"
+    ],
+    [
+     "F69",
+     "Fuse MICRO3",
+     "10A",
+     "Transfer case switch (TSBM) / active grille shutter (AGS) (if equipped)"
+    ],
+    [
+     "F70",
+     "Fuse MICRO2",
+     "5A",
+     "Intelligent battery sensor (IBS)"
+    ],
+    [
+     "F72",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirrors / PM sensor (if equipped)"
+    ],
+    [
+     "F73",
+     "Fuse FMM/MCase",
+     "20A",
+     "NOx sensors #1 & #2 / trailer tow backup (if equipped)"
+    ],
+    [
+     "F74",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defroster (EBL)"
+    ],
+    [
+     "F75",
+     "Fuse MICRO2",
+     "20A",
+     "Cigar lighter (if equipped)"
+    ],
+    [
+     "F76",
+     "Fuse MICRO2",
+     "20A",
+     "Rear differential module (RDM) (if equipped)"
+    ],
+    [
+     "F77",
+     "Fuse MICRO3",
+     "10A",
+     "Hands-free module / brake pedal switch (if equipped)"
+    ],
+    [
+     "F78",
+     "Fuse MICRO3",
+     "10A",
+     "Diagnostic port / digital TV / TBM"
+    ],
+    [
+     "F79",
+     "Fuse MICRO3",
+     "10A",
+     "Integrated center stack (ICS) / EPB switch / CD module / steering control module (SCCM) / HVAC / instrument panel cluster (IPC)"
+    ],
+    [
+     "F80",
+     "Fuse MICRO2",
+     "20A",
+     "Radio"
+    ],
+    [
+     "F81",
+     "Fuse MICRO2",
+     "",
+     "Customer selectable location (if equipped) / SCU module (if equipped)"
+    ],
+    [
+     "F84",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electric park brake (EPB) - left"
+    ],
+    [
+     "F85",
+     "Fuse MICRO2",
+     "15A",
+     "Heated steering wheel (CSWM) (if equipped)"
+    ],
+    [
+     "F86",
+     "Fuse MICRO2",
+     "20A",
+     "Horns"
+    ],
+    [
+     "F88",
+     "Fuse MICRO2",
+     "10A",
+     "Seat belt reminder (SBR) / smart camera (if equipped)"
+    ],
+    [
+     "F89",
+     "Fuse MICRO2",
+     "10A",
+     "Auto headlamp leveling (if equipped)"
+    ],
+    [
+     "F91",
+     "Fuse MICRO2",
+     "20A",
+     "Power outlet rear, customer selectable (if equipped)"
+    ],
+    [
+     "F93",
+     "Fuse FMM/MCase",
+     "40A",
+     "Brake system module (BSM) - pump motor"
+    ],
+    [
+     "F94",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electric park brake (EPB) - right"
+    ],
+    [
+     "F95",
+     "Fuse MICRO3",
+     "10A",
+     "Sunroof module / rain sensor module (LRSM) / electrochromatic mirror module (ECMM) / dual USB port rear / power outlet console illumination / digital TV"
+    ],
+    [
+     "F96",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant restraint controller (ORC)/(airbag)"
+    ],
+    [
+     "F97",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant restraint controller (ORC)/(airbag)"
+    ],
+    [
+     "F98",
+     "Fuse MICRO2",
+     "25A",
+     "Audio amplifier / ANC (if equipped)"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MINI",
+     "",
+     "Power seat (driver)"
+    ],
+    [
+     "CB2",
+     "Circuit breaker MINI",
+     "",
+     "Power seat (passenger)"
+    ],
+    [
+     "CB3",
+     "Circuit breaker MAXI",
+     "",
+     "Power windows"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-cherokee-2023-genid-g5-1.webp",
+   "fuses": [
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Interior lighting"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Intrusion module/siren (if equipped)"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "7.5A",
+     "UCI port (USB & AUX)"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Deadbolt all unlock"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Washer pump front"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "25A",
+     "Rear fog lamps left/right (if equipped)"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "7.5A",
+     "Lumbar support"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "7.5A",
+     "Driver window switch / power mirrors (if equipped)"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "7.5A",
+     "Passenger lumbar support"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "7.5A",
+     "Wireless charging pad (if equipped)"
+    ]
+   ]
+  }
+ ]
+}
