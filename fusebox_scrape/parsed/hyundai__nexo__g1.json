@@ -1,0 +1,558 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "nexo",
+ "brand_db": "Hyundai",
+ "model_db_name": "NEXO",
+ "model_id": 2236,
+ "generation_name": "1st generation (FE)",
+ "generation_code": "other-2020",
+ "year_start": 2018,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/hyundai/nexo/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-nexo-2020-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Power tailgate module, A/C control module/panel"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Mirror folding relay, AVN (hazard switch), SBW switch, light sensor, power mirrors, cluster"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Tailgate relay"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "25A",
+     "Power window RH relay"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "25A",
+     "Power window LH relay, driver safety window module"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "25A",
+     "Driver seat manual switch"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU, smart parking unit, VESS, EPB switch, LKA unit, blind-spot units, crash pad switch, check connector"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "7.5A",
+     "DLC, crash pad switch, EC mirror"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "20A",
+     "Rear seat heater"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "Power mirrors, A/C control panel"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "20A",
+     "Front ventilation/seat heater control module"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "25A",
+     "AMP"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "AVN head unit, center fascia switch panel"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "Seat modules, AMP, AVN, A/C panel, PTC heater, A/C module, EC mirror, rear seat heater"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper relay, motor"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock/unlock relays, two-turn unlock relay"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "15A",
+     "IBU"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "IBU, stop lamp switch"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "25A",
+     "Passenger seat manual switch"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C module, in-car temp sensor, panel, ionizer, compressor, blower relay"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "SRS control module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "15A",
+     "Multifunction switch"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "7.5A",
+     "Seat modules, AC inverter, rear seat heater, surround view unit, rear power outlet"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof unit"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof unit"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "7.5A",
+     "SCU, SBW switch, IDC, VPD sensor, stop lamp switch, HMU, BMS module"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "7.5A",
+     "FCU, IBU"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cluster, A/C control panel"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "BMS, wireless charger, USB chargers, AVN, fascia panel, AMP, surround view, mirror switch, IBU"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "15A",
+     "SRS module, occupant detection sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuel cell power module compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-nexo-2020-1.webp",
+   "fuses": [
+    [
+     "B+2",
+     "Fuse FMX/JCase",
+     "60A",
+     "ICU junction block (IPS module, IPS1)"
+    ],
+    [
+     "B+3",
+     "Fuse FMX/JCase",
+     "60A",
+     "ICU junction block (IPS module)"
+    ],
+    [
+     "COOLING PE PUMP",
+     "Fuse FMX/JCase",
+     "40A",
+     "PE room coolant pump (CPP)"
+    ],
+    [
+     "EPB2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic brake control module"
+    ],
+    [
+     "IG2",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG2 relay"
+    ],
+    [
+     "EPB1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Brake control module, check connector, B+4"
+    ],
+    [
+     "IMEB",
+     "Fuse FMX/JCase",
+     "80A",
+     "Electronic brake control module"
+    ],
+    [
+     "BLOWER",
+     "Fuse FMX/JCase",
+     "50A",
+     "Blower relay"
+    ],
+    [
+     "MDPS",
+     "Fuse FMX/JCase",
+     "80A",
+     "MDPS unit"
+    ],
+    [
+     "HVJB LV",
+     "Fuse MINI",
+     "15A",
+     "HV junction block"
+    ],
+    [
+     "RCU",
+     "Fuse MINI",
+     "15A",
+     "Auto flush door handle modules"
+    ],
+    [
+     "FUEL DOOR OPEN",
+     "Fuse MINI",
+     "7.5A",
+     "Fuel filler door relay"
+    ],
+    [
+     "E-SHIFTER",
+     "Fuse FMX/JCase",
+     "40A",
+     "E-shifter relay"
+    ],
+    [
+     "INVERTER",
+     "Fuse FMX/JCase",
+     "30A",
+     "AC inverter"
+    ],
+    [
+     "REAR HEATED",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear heated relay"
+    ],
+    [
+     "B+1",
+     "Fuse FMX/JCase",
+     "50A",
+     "ICU junction block (module/airbag/seat/door lock/IBU/brake fuses, leak autocut relay)"
+    ],
+    [
+     "POWER TAIL GATE",
+     "Fuse MINI",
+     "30A",
+     "Power tailgate module"
+    ],
+    [
+     "WIPER FRT",
+     "Fuse MINI",
+     "30A",
+     "Front wiper motor"
+    ],
+    [
+     "COOLING STACK PUMP",
+     "Fuse MINI",
+     "10A",
+     "Stack coolant pump (CSP)"
+    ],
+    [
+     "INVERTER LV",
+     "Fuse MINI",
+     "7.5A",
+     "Inverter"
+    ],
+    [
+     "BHDC",
+     "Fuse MINI",
+     "7.5A",
+     "IDC"
+    ],
+    [
+     "HMU1",
+     "Fuse MINI",
+     "10A",
+     "HMU"
+    ],
+    [
+     "BATTERY MANAGEMENT",
+     "Fuse MINI",
+     "10A",
+     "BMS control module"
+    ],
+    [
+     "FUEL CELL CONTROL UNIT",
+     "Fuse MINI",
+     "15A",
+     "FCU"
+    ],
+    [
+     "BMS FAN",
+     "Fuse MINI",
+     "15A",
+     "BMS fan relay"
+    ],
+    [
+     "B+ 4",
+     "Fuse FMX/JCase",
+     "80A",
+     "B+"
+    ],
+    [
+     "COOLING FAN",
+     "Fuse MINI",
+     "25A",
+     "Cooling fan"
+    ],
+    [
+     "EPB 3",
+     "Fuse MINI",
+     "25A",
+     "EPB"
+    ],
+    [
+     "FCA",
+     "Fuse MINI",
+     "25A",
+     "Forward collision avoidance"
+    ],
+    [
+     "IGL 2",
+     "Fuse MINI",
+     "10A",
+     "IGL"
+    ],
+    [
+     "ACTIVE HOOD",
+     "Fuse MINI",
+     "25A",
+     "Active hood"
+    ],
+    [
+     "FPV",
+     "Fuse MINI",
+     "30A",
+     "FPV"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "CTV",
+     "Fuse MINI",
+     "25A",
+     "CTV"
+    ],
+    [
+     "EPCU",
+     "Fuse MINI",
+     "10A",
+     "EPCU"
+    ],
+    [
+     "FCU LVR",
+     "Fuse MINI",
+     "15A",
+     "FCU LVR"
+    ],
+    [
+     "IGL 1",
+     "Fuse FMX/JCase",
+     "40A",
+     "IGL"
+    ],
+    [
+     "HVU",
+     "Fuse MINI",
+     "30A",
+     "HVU"
+    ],
+    [
+     "SENSOR",
+     "Fuse MINI",
+     "10A",
+     "Sensor"
+    ],
+    [
+     "ACV&APC",
+     "Fuse MINI",
+     "10A",
+     "ACV and APC"
+    ],
+    [
+     "FUV&FPV",
+     "Fuse MINI",
+     "10A",
+     "FUV and FPV"
+    ],
+    [
+     "POWER OUTLET 1",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "POWER OUTLET 2",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "ACC",
+     "Fuse MINI",
+     "15A",
+     "ACC"
+    ],
+    [
+     "VOLTAGE MONITOR",
+     "Fuse MINI",
+     "10A",
+     "Voltage monitor"
+    ],
+    [
+     "OBV",
+     "Fuse MINI",
+     "25A",
+     "OBV"
+    ],
+    [
+     "FDV",
+     "Fuse MINI",
+     "20A",
+     "FDV"
+    ],
+    [
+     "SCU",
+     "Fuse MINI",
+     "10A",
+     "SCU"
+    ],
+    [
+     "IG2 RELAY",
+     "Relay",
+     "",
+     "IG2 relay"
+    ],
+    [
+     "FC RELAY",
+     "Relay",
+     "",
+     "FC relay"
+    ],
+    [
+     "REAR HEATED RELAY",
+     "Relay",
+     "",
+     "Rear heated relay"
+    ],
+    [
+     "BLOWER RELAY",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "EMS FAN RELAY",
+     "Relay",
+     "",
+     "BMS fan relay"
+    ],
+    [
+     "E-SHIFTER RELAY",
+     "Relay",
+     "",
+     "E-shifter relay"
+    ]
+   ]
+  }
+ ]
+}
