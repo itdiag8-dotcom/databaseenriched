@@ -1,0 +1,535 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "mazdaspeed3",
+ "brand_db": "Mazda",
+ "model_db_name": "3 MPS",
+ "model_id": 2753,
+ "generation_name": "1st generation BK",
+ "generation_code": "g1",
+ "year_start": 2007,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/mazda/mazdaspeed3/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment (without turbocharger)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mazdaspeed3-2008-genid-mazda__mazdaspeed3_g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "40A",
+     "FAN - cooling fan"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "80A",
+     "P/ST - power steering"
+    ],
+    [
+     "3",
+     "Fuse MIDI",
+     "40A",
+     "BTN - various circuits"
+    ],
+    [
+     "4",
+     "Fuse MIDI",
+     "40A",
+     "HEAD - headlights"
+    ],
+    [
+     "7",
+     "Multi fuse block MUSB",
+     "",
+     "ABS 1 - ABS, DSC"
+    ],
+    [
+     "8",
+     "Multi fuse block MUSB",
+     "",
+     "ABS 2 - ABS, DSC"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "ENGINE - various circuits"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG KEY 1 - ignition switch"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "STARTER - starter clutch"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG KEY 2 - ignition switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "HEATER - blower motor"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "40A",
+     "DEFOG - rear window defroster"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "AUDIO - Bose audio system"
+    ],
+    [
+     "19",
+     "Multi fuse block MUSB",
+     "",
+     "ABS IG - ABS, DSC"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "FOG - front fog lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "HORN"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "DRL - daytime running lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "F/PUMP - fuel pump"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "P/ST IG - power steering"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "A/C MAG - air conditioner"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "ENG +B - PCM"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "ROOM - interior lights"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "ENG BAR 4 - O2 sensors"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "ENG BAR 3 - O2 sensors"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "EGI INJ - injector"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "ENG BAR 1 - various circuits"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "ENG BAR 2 - PCM, fuel pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment (with turbocharger)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mazdaspeed3-2008-genid-mazda__mazdaspeed3_g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "70A",
+     "FAN - cooling fan"
+    ],
+    [
+     "3",
+     "Fuse MIDI",
+     "40A",
+     "BTN - various circuits"
+    ],
+    [
+     "4",
+     "Fuse MIDI",
+     "40A",
+     "HEAD - headlights"
+    ],
+    [
+     "5",
+     "Fuse MIDI",
+     "30A",
+     "F/PUMP - fuel pump"
+    ],
+    [
+     "7",
+     "Multi fuse block MUSB",
+     "",
+     "ABS 1 - ABS, DSC"
+    ],
+    [
+     "8",
+     "Multi fuse block MUSB",
+     "",
+     "ABS 2 - ABS, DSC"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "ENGINE - various circuits"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "INJECTOR - fuel injector"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG KEY1 - ignition switch"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "STARTER - starter clutch"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG KEY2 - ignition switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "HEATER - blower motor"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "40A",
+     "DEFOG - rear window defroster"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "AUDIO - Bose audio system"
+    ],
+    [
+     "19",
+     "Multi fuse block MUSB",
+     "",
+     "ABS IG - ABS"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "FOG - front fog lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "HORN"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "DRL - daytime running lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "ETC - electric throttle valve"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "A/C MAG - air conditioner"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "P.OUTLET - power outlet"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "ENG +B - PCM"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "ROOM - interior lights"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "ENG BAR 3 - O2 sensors"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "ENG BAR 1 - various circuits"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "ENG BAR 2 - PCM, fuel pump"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse block (passenger side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mazdaspeed3-2008-genid-mazda__mazdaspeed3_g1-2.webp",
+   "fuses": [
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "D/LOCK 2 - double locking system"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "STOP LAMP/HORN"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "HEAD HIGH L - high beam LH"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "HEAD HIGH R - high beam RH"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "CIGAR - lighter"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "7.5A",
+     "RADIO - audio system"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "MIRROR - power mirror"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "7.5A",
+     "TAIL R - taillight RH, parking RH, license plate"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "OBD - various circuits"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "SUN ROOF - moonroof"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "20A",
+     "WASHER - windshield wiper and washer"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "7.5A",
+     "M/DEF - mirror defroster"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "15A",
+     "HEAD LOW R - low beam RH, headlight leveling"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "15A",
+     "HEAD LOW L - low beam LH"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "SAS - supplemental restraint system"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "10A",
+     "METER - instrument cluster, immobilizer"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "20A",
+     "IGNITION - ABS, DSC, power steering"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "20A",
+     "WIPER - windshield wiper and washer"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "20A",
+     "ENGINE - various circuits"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "10A",
+     "IG SIG - auto wiper, power window switch"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "7.5A",
+     "SAS 2 - seat weight sensor"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "20A",
+     "SEAT WARM - seat warmer"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "25A",
+     "D/LOCK 1 - power door lock"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "10A",
+     "A/C - heater control unit"
+    ],
+    [
+     "77",
+     "Fuse MINI",
+     "30A",
+     "P/WIND L - power window LH"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "30A",
+     "P/WIND R - power window RH"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "10A",
+     "BACK - reverse lights"
+    ],
+    [
+     "80",
+     "Fuse MINI",
+     "7.5A",
+     "SUN ROOF - moonroof"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "7.5A",
+     "TAIL L - taillight LH, parking LH"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "7.5A",
+     "ILLUMI - illumination"
+    ]
+   ]
+  }
+ ]
+}
