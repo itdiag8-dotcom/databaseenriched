@@ -1,0 +1,594 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "bt-50",
+ "brand_db": "Mazda",
+ "model_db_name": "Bt-50",
+ "model_id": 2771,
+ "generation_name": "2nd generation UP/UR",
+ "generation_code": "g2",
+ "year_start": 2011,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/mazda/bt-50/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-bt-50-2020-genid-g2-0.webp",
+   "fuses": [
+    [
+     "56",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "5A",
+     "PATS anti-theft system"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "10A",
+     "Interior light, driver door switch pack, ambient lights"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor module"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "5A",
+     "Tachograph"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "20A",
+     "Driver door opening, double central locking"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "5A",
+     "Brake light switch"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "5A",
+     "Instrument cluster, ICP, tracking/locking module"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "20A",
+     "Central locking"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "5A",
+     "Air conditioner"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm siren"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "5A",
+     "OBD II"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "20A",
+     "High beam lights"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "10A",
+     "Reverse light, rearview mirror"
+    ],
+    [
+     "77",
+     "Fuse MINI",
+     "20A",
+     "Washer pump"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "5A",
+     "Ignition key"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "15A",
+     "Audio, multi-function display"
+    ],
+    [
+     "80",
+     "Fuse MINI",
+     "20A",
+     "Multi-function display, high audio, sync module"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "5A",
+     "Interior motion sensor"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "20A",
+     "Washer pump ground"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "20A",
+     "Central locking ground"
+    ],
+    [
+     "84",
+     "Fuse MINI",
+     "20A",
+     "Driver door opening, double central locking ground"
+    ],
+    [
+     "85",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster, parking assist, manual AC, rearview camera/mirror"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "10A",
+     "Safety system, passenger airbag deactivation indicator"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "5A",
+     "Tachograph"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-bt-50-2020-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "60A",
+     "CEM power A"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "60A",
+     "CEM power B"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Engine cooling fan [gasoline]"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plug control module [diesel]"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS module"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "25A",
+     "4x4 motor ground"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power seat"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "25A",
+     "Power windows"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "25A",
+     "4x4 motor power"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "20A",
+     "Starter solenoid"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "20A",
+     "Heated rear window"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Flex fuel pump [gasoline]"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Vaporizer glow plug [diesel]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "25A",
+     "Power windows"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper motor"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "Windshield wiper motor ground"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors / flex fuel valve [gasoline]"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Differential lock solenoid"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power outlet"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils, MAF/temp sensor, glow plug module, vacuum control"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "ECM"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "TCM"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "HEGO sensors, relay coils, fuel cut-off switch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "ECM"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Battery monitoring sensor"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power outlet"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "A/C pressure switch"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "TCM"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "CEM"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "ABS module"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Headlight leveling"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Heated seat"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Power mirrors"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Vaporizer pump [diesel]"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Alarm siren"
+    ],
+    [
+     "43",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated windshield"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated windshield"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "25A",
+     "ABS module"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary power outlet"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer tow module"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "5A",
+     "Ignition relay, relay coils"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "20A",
+     "Trailer tow"
+    ],
+    [
+     "51",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows (variant)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Key interlock relay [diesel]"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Wiper on/off relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Differential lock relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Wiper high/low relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Engine cooling fan low relay [gasoline]"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Engine cooling fan high relay [gasoline]"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Flex fuel pump / vaporizer glow plug relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Heated windshield relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "ECM power hold relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "4x4 motor 2 relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "4x4 motor 1 relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "4x4 motor relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "Security siren relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R26",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R27",
+     "Relay",
+     "",
+     "Power seat relay"
+    ]
+   ]
+  }
+ ]
+}
