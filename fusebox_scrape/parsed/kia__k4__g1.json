@@ -1,0 +1,594 @@
+{
+ "make_slug": "kia",
+ "model_slug": "k4",
+ "brand_db": "Kia",
+ "model_db_name": "K4",
+ "model_id": 2448,
+ "generation_name": "1st generation",
+ "generation_code": "y2026",
+ "year_start": 2025,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2026,
+ "source_url": "https://www.startmycar.com/kia/k4/info/fusebox/2026",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "PDC Junction Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-k4-2026-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "15A",
+     "(P/WINDOW DRV) Power Window DRV Up/Down Relay"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "7.5A",
+     "(A/C2) DATC/MTC, E/R Junction Block PTC Heater Relays 1-2, A/C Compressor [G1.6 T-GDi]"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "7.5A",
+     "(BRAKE SWITCH) BDC (Body Domain Controller), Stop Lamp Switch"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "(MEMORY1) Cluster, MTC, DATC, Mood Lamp, PDW Sensor"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE8) Smart Key Interlock, Rain Sensor, Hazard, MUT/PTG_A (WAG), In-Cabin Camera Unit"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "(CCU) Central Communication Unit"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MEMORY2) Front USB Jack, Wireless Charging"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "7.5A",
+     "(BDC2) BDC, BMS (Battery Management System)"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE2) CCU, DCU (ECALL)"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "7.5A",
+     "(wireless DCU) DCU (Domain Control Unit)"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "25A",
+     "(MULTIMEDIA) CCNC (Connected Car Navigation & Cockpit), LDC 200"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE5) ICC Unit, CCNC, MUT/VDMS, Overhead Console, PAB, I/S Mirror ECM, DATC/MTC Panel, Console Upper, CDU, Wireless Charging, LDC 200/450, AMP, Seat (IMS), Front Door Switch, Head Lamps LH/RH, C/PAD Switch"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "7.5A",
+     "(CLUSTER) Cluster, HUD (Head Up Display)"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "15A",
+     "(OMU) Outside Mirror Motor DRV/PASS"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "20A",
+     "(SUNROOF) Sunroof"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE7) P-LBM (Parking Lithium Battery Module), W/S Heated Glass LH/RH Coil"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "(TRUNK OPEN) Trunk Open Relay"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE3) Power Window Switch (DRV)"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MDPS2) MDPS (Motor Driven Power Steering)"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE1) BDC, DCU, CCU, VDMS, AVN Keyboard, Overhead Console E-CALL, ADAS Parking ECU, AMP, CCNC, LDC, E/R Junction Block Power Outlet Relay"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "25A",
+     "(S/HEATER FRT) Front Seat Heater/Vent"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "15A",
+     "(WASHER) Washer"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "(AIR BAG2) ACU (Airbag Control Unit), Air Bag"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "10A",
+     "(BDC1) BDC, Bluetooth Unit, UWB Unit, ATM Lever [AT/CVT/DCT]"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "10A",
+     "(AIR BAG1) ACU, Air Bag, ODS (Occupant Detection System)"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "15A",
+     "(USB CHARGER1) Rear USB Charger, Start/Stop Button"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "(USB CHARGER2) USB Charger"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "25A",
+     "(P/WINDOW RH) Safety ECU DRV/PASS/RR, Power Window Switch RR/PASS"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE6) BDC"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "25A",
+     "(AMP) Amplifier, LDC 450"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE4) LKAS Camera, ADAS DRV, Console Upper, ADAS Parking ECU"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "30A",
+     "(P/SEAT DRV) Driver Power Seat"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "25A",
+     "(P/WINDOW LH) Safety ECU DRV/PASS/RL, Power Window Switch RL/PASS"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "20A",
+     "(DOOR LOCK) Door Lock/Unlock, Two Turn Unlock/Dead Lock Relays"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "25A",
+     "(S/HEATER RR) Rear Seat Heater"
+    ],
+    [
+     "56",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE9) Power Window Switch (DRV), MS ECU, Digital Key"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "7.5A",
+     "(START) Start Inhibit Relay, Inhibit Switch, IGN Switch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-k4-2026-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Multi fuse block MUSB",
+     "",
+     "(MDPS1) MDPS Unit"
+    ],
+    [
+     "3",
+     "Multi fuse block MUSB",
+     "",
+     "(ALT) Alternator Output, MHSG Output, BATT+"
+    ],
+    [
+     "4",
+     "Multi fuse block MUSB",
+     "",
+     "(B+1) PDC (IPS1-IPS7)"
+    ],
+    [
+     "7",
+     "Multi fuse block MUSB",
+     "",
+     "(B+3) PDC (fuses Spare, P/Seat DRV, S/Heater FRT, P/Window LH/RH/DRV, OMU, Sunroof, wireless DCU, Module8)"
+    ],
+    [
+     "12",
+     "Multi fuse block MUSB",
+     "",
+     "(IG1) IG1 Relay, ACC Relay, IGN SW"
+    ],
+    [
+     "13",
+     "Multi fuse block MUSB",
+     "",
+     "(CVVD) CVVD Actuator"
+    ],
+    [
+     "14",
+     "Multi fuse block MUSB",
+     "",
+     "(COOLING FAN1) Cooling Fan BLDC Motor"
+    ],
+    [
+     "15",
+     "Multi fuse block MUSB",
+     "",
+     "(B+6) E/R Junction Block PCB Block"
+    ],
+    [
+     "16",
+     "Multi fuse block MUSB",
+     "",
+     "(BLOWER) Blower Motor Relay"
+    ],
+    [
+     "17",
+     "Multi fuse block MUSB",
+     "",
+     "(B+2) PDC (IPS8-IPS12)"
+    ],
+    [
+     "18",
+     "Multi fuse block MUSB",
+     "",
+     "(AUX BATT) P-LBM (Lithium Battery)"
+    ],
+    [
+     "19",
+     "Multi fuse block MUSB",
+     "",
+     "(COOLING FAN2) Cooling Fan 1, 2 Relays"
+    ],
+    [
+     "22",
+     "Multi fuse block MUSB",
+     "",
+     "(IG2) IGN SW, IG2 Relay, Start Relay"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "(B+5) PDC (fuses AMP, Air Bag2, BMS, Module9, Battery C/Fan, A/C3, USB Charger2)"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "60A",
+     "(B+4) PDC (Long Term Load Latch, Door Lock/Unlock, Two Turn Unlock/Dead Lock, Trunk/Tailgate Open Relays; fuses Multimedia, Memory1, Memory2, BDC1, Brake Switch, CCU, S/Heater RR, Door Lock, Trunk/Tailgate Open)"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "50A",
+     "(REAR HEATED) Rear Heated Relay"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "50A",
+     "(PTC HEATER) PTC Heater Relay"
+    ],
+    [
+     "33",
+     "Fuse FMM/MCase",
+     "25A",
+     "(ABS1) ESC, ABS, EPB Units"
+    ],
+    [
+     "34",
+     "Fuse FMM/MCase",
+     "15A",
+     "(ABS2) ESC, ABS, EPB Units"
+    ],
+    [
+     "35",
+     "Fuse FMM/MCase",
+     "40A",
+     "(POWER OUTLET1) E/R Junction Block Power Outlet Relay"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "15A",
+     "(HEATED MIRROR) ECU, Driver/Passenger Power Outside Mirror"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "10A",
+     "(WIPER FRT2) BDC"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "20A",
+     "(POWER OUTLET2) Front Power Outlet"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "20A",
+     "(POWER OUTLET3) Luggage Power Outlet"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "30A",
+     "(WIPER FRT1) Wiper Motor, Wiper FRT Low Relay"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "15A",
+     "(SENSOR3) Cooling Fan BLDC Motor, Cooling Fan High/Low Relays"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "15A",
+     "(ECU2) ECM"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "20A",
+     "(ECU1) ECM"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "20A",
+     "(IGN COIL) Ignition Coil"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "15A",
+     "(WIPER RR) Rear Wiper"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "15A",
+     "(SENSOR1) O2 Sensor"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "15A",
+     "(INJECTOR) Injector, MHSG Signal"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "15A",
+     "(TCU2) TCU [7DCT/8AT]"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "10A",
+     "(ECU4) ECM"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "10A",
+     "(FUEL PUMP2) Fuel Pump Relay"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "10A",
+     "(SENSOR2) OCV, Oil Level Sensor, PCSV, VIS/VOP, RCV/OPSV, CCV"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "10A",
+     "(ABS3) ESC, ABS, EPB Units"
+    ],
+    [
+     "59",
+     "Fuse MICRO2",
+     "10A",
+     "(A/C1) A/C Relay"
+    ],
+    [
+     "60",
+     "Fuse MICRO2",
+     "15A",
+     "(ECU3) ECM"
+    ],
+    [
+     "61",
+     "Fuse MICRO2",
+     "15A",
+     "(TCU1) TCU [8AT/6AT/CVT/7DCT]"
+    ],
+    [
+     "62",
+     "Fuse MICRO2",
+     "10A",
+     "(ECU5) ECM"
+    ],
+    [
+     "63",
+     "Fuse MICRO2",
+     "15A",
+     "(HORN) Horn Relay"
+    ],
+    [
+     "67",
+     "Fuse MICRO2",
+     "10A",
+     "(AMS) Battery Sensor"
+    ],
+    [
+     "68",
+     "Fuse MICRO2",
+     "20A",
+     "(FUEL PUMP1) Fuel Pump Relay"
+    ],
+    [
+     "70",
+     "Fuse MICRO2",
+     "20A",
+     "(HEAD LAMP LH) Head Lamp LH"
+    ],
+    [
+     "71",
+     "Fuse MICRO2",
+     "20A",
+     "(HEAD LAMP RH) Head Lamp RH"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear Heated Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling Fan1 Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PTC Heater Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Power Outlet Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Power Window DRV1 Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Power Window DRV2 Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Cooling Fan2 Relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Fuel Pump Relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Blower Relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Wiper RR Relay"
+    ]
+   ]
+  }
+ ]
+}
