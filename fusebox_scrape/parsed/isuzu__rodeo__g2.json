@@ -1,0 +1,547 @@
+{
+ "make_slug": "isuzu",
+ "model_slug": "rodeo",
+ "brand_db": "Isuzu",
+ "model_db_name": "Rodeo",
+ "model_id": 2357,
+ "generation_name": "SUV (UES/UER)",
+ "generation_code": "g2",
+ "year_start": 1998,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2003,
+ "source_url": "https://www.startmycar.com/isuzu/rodeo/info/fusebox/2003",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-rodeo-2003-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "(ACC SOCKET) Accessory sockets, dash fuse box"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "(ACC) Audio (ACC)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Starter"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(TAIL/ILLUM LIGHT) A/T shift indicator, alarm/relay control unit, dash and console lights, engine controls, exterior lights, lighting switch, seat belt/light-on/key-in warning, trailer adapter"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(DOME LIGHT) Alarm/relay control unit, anti-theft and keyless entry, clock, interior lights, seat belt/lights-on/key-in warning, sound system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "(STOP LIGHT) ABS, automatic transmission controls, cruise control, exterior lights, shift interlock, trailer adapter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "(POWER DOOR LOCK) Power door locks"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(MIRROR DEFOG) Power mirror defoggers"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(REAR DEFOG) Rear defogger"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(REAR DEFOG) Rear defogger"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(METER) Alarm/relay unit, ABS, A/T controls, charging system, cruise control, engine controls, gauges, indicators, warning systems, shift-on-the-fly, SRS, vehicle speed sensor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(ENG) A/T controls, charging system, compressor controls, engine controls, ignition system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(IG COIL) Ignition system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(BACK UP/TURN LIGHT) A/T shift indicator, alarm/relay unit, A/T controls, back-up lights, blower controls, cruise control, engine controls, exterior lights, trailer adapter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(ELEC IG) Alarm/relay unit, ABS, cruise control, mirror defoggers, sunroof, power windows, rear defogger, shift interlock, shift-on-the-fly"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(RR WIPER) Rear wiper/washer"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "",
+     "(FRT WIPER) Windshield wiper/washer"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(AUDIO) Sound system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(CIGAR LIGHTER) Accessory sockets, cigarette lighter"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(ANTITHEFT) Anti-theft and keyless entry system"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "(POWER WINDOW) Power sunroof, power windows (circuit breaker)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(SRS) Supplemental restraint system"
+    ],
+    [
+     "D1",
+     "Diode MINI",
+     "",
+     "Dome light, keyless entry and anti-theft system"
+    ],
+    [
+     "D2",
+     "Diode MINI",
+     "",
+     "Keyless entry and anti-theft system, seat belt reminder"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Tail light"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Accessory socket"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Power window"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear defogger"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-rodeo-2003-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "10A",
+     "(A/C) Compressor controls"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "15A",
+     "(BLOWER) Blower controls"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "15A",
+     "(BLOWER) Blower controls"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "10A",
+     "(ACG-S) Generator"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Exterior lights"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "10A",
+     "(H/L LIGHT-LH) Left headlamps"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "(H/L LIGHT-RH) Right headlamps"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "(FOG LIGHT) Fog lights"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "(O2 SENS) Oxygen sensor"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "(FUEL PUMP) Fuel pump, powertrain controls"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "(ECM) Gauges, powertrain controls"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "(ECM) Gauges, powertrain controls"
+    ],
+    [
+     "F15",
+     "Fuse FLD/PAL 283",
+     "60A",
+     "(IGN B1) Gauges, power distribution, powertrain controls, starting system"
+    ],
+    [
+     "F16",
+     "Fuse FLD/PAL 283",
+     "100A",
+     "(MAIN) Blower controls, charging system, power distribution, starting system"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "40A",
+     "(COND FAN) Electric fan"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "50A",
+     "(IGN B2) IG.2"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "50A",
+     "(ABS) ABS"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "Heater relay"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "ECM main relay"
+    ],
+    [
+     "R05",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R08",
+     "Relay",
+     "",
+     "Thermo relay"
+    ],
+    [
+     "R09",
+     "Relay",
+     "",
+     "Headlamp relay LH"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Electric fan (LO) relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Electric fan (HI) relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Electric fan (HI) relay (A/T only)"
+    ],
+    [
+     "Diode 2",
+     "Diode ATO",
+     "",
+     "Diode (brake warning system)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior fuse box (1998)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-rodeo-2003-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "(ACC SOCKET) Accessory sockets, dash fuse box"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(ANTITHEFT) Anti-theft and keyless entry system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(TAIL/ILLUM LIGHT) A/T shift indicator, alarm/relay unit, dash and console lights, engine controls, exterior lights, lighting switch, warning systems, trailer adapter"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(DOME LIGHT) Alarm/relay unit, anti-theft and keyless entry, clock, interior lights, warning systems, sound system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "(STOP LIGHT) ABS, A/T controls, cruise control, exterior lights, shift interlock, trailer adapter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "(POWER DOOR LOCK) Power door locks"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(MIRROR DEFOG) Power mirror defoggers"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(REAR DEFOG) Rear defogger"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(REAR DEFOG) Rear defogger"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(METER) Alarm/relay unit, ABS, A/T controls, charging system, cruise control, engine controls, gauges, indicators, warning systems, shift-on-the-fly, SRS, VSS"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(ENG) A/T controls, charging system, compressor controls, engine controls, ignition system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(IG COIL) Ignition system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(BACK UP/TURN LIGHT) A/T shift indicator, alarm/relay unit, A/T controls, back-up lights, blower controls, cruise control, engine controls, exterior lights, trailer adapter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(ELEC IG) Alarm/relay unit, ABS, cruise control, mirror defoggers, sunroof, power windows, rear defogger, shift interlock, shift-on-the-fly"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "(FRONT WIPER & WASHER) Windshield wiper/washer incl. intermittent, alarm/relay unit"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(REAR WIPER & WASHER) Rear wiper/washer, alarm/relay unit"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(CIGAR LIGHTER) Accessory sockets, cigarette lighter"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) Power mirrors, sound system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(STARTER) Starting system"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "(POWER WINDOW) Power sunroof, power windows (circuit breaker)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(SRS) Supplemental restraint system"
+    ],
+    [
+     "D1",
+     "Diode MINI",
+     "",
+     "Dome light, keyless entry and anti-theft system"
+    ],
+    [
+     "D2",
+     "Diode MINI",
+     "",
+     "Keyless entry and anti-theft system, seat belt reminder"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Tail light"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Accessory socket"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Power window"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear defogger"
+    ]
+   ]
+  }
+ ]
+}
