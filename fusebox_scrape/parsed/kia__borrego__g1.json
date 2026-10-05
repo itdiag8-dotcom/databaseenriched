@@ -1,0 +1,408 @@
+{
+ "make_slug": "kia",
+ "model_slug": "borrego",
+ "brand_db": "Kia",
+ "model_db_name": "Borrego",
+ "model_id": 2425,
+ "generation_name": "1st generation (HM/HM2)",
+ "generation_code": "g1",
+ "year_start": 2008,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/kia/borrego/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-borrego-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) Audio, A/V & Navigation Head Unit, MTS E-Call Module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "(MEMORY) Front/Rear A/C Control Module, Instrument Cluster(IND.), FAM, RAM, Driver/Passenger Door Module, IMS Control Module, Tilt & Telescopic Module, RF Receiver"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "(IG2-1) Front A/C Control Module, Multifunction Switch, Seat Warmer Modules, Rain Sensor, Around View Monitor, Smart Key Control Module, Relay Blocks, Ventilation Control Modules, Dual Pressure Sensor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(HEATED S/WHEEL) Steering Wheel Heated"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "(IG2-2) Rear A/C Control Module, Driver/Passenger Door Module, FAM"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "(OBD-II) Start Stop Button Switch"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "(ROOM) Hazard Switch, Map Lamp, Vanity Lamp Switches, Front/Rear A/C Control Module, Center/Rear Room Lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "(K/LOCK) Sport Mode Switch, Driver/Passenger Door Module, Ignition Key Interlock"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "(ILLUMI) IPM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "(RR S/WARMER) Rear Seat Warmer Relay"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "(SEAT WARMER) Seat Warmer Modules, Ventilation Control Modules"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "(SUNROOF) Sunroof Module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "(TPMS) Tire Pressure Monitoring Module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "(S/TILT) Tilt & Telescopic Module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "(PASS P/SEAT) Passenger Power Seat Switch"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "(DRIVER P/SEAT) Driver Power Seat Switch, Driver Lumbar Support Switch, IMS Control Module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "(ACC) Audio, A/V & Navigation Head Unit, MTS E-Call Module, Smart Key Control Module, Around View Monitor, JBL AMP"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(FRT CIGAR) Cigarette Lighter"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "(START) Burglar Alarm Relay, Start Relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "(AIR BAG IND.) Instrument Cluster (Air Bag IND.)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "(ABS) ABS Control Module, ESP Control Module, DBC Relay, Steering Angle Sensor, Crash Pad Switch"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "(IGN 1) Rheostat, Air Suspension Control Module, Electro Chromic Mirror, Front Wiper Motor, Smart Key Control Module, MTS E-Call Module, Parking Assist, Audio/Navigation, Stop Lamp Switch, Headlamp Leveling, Alternator, TPMS, Blind Spot Radar, Instrument Cluster, Lane Departure Warning, and other modules"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "(ENG) ECM, TCM, 4WD ECM, Air Flow Sensor, Smart Key Control Module, Inhibitor Switch, Multipurpose Check Connector"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "(AIR BAG) SRS Control Module"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ADM) Passenger Door Sensor, Passenger Safety Power Window Motor"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "(DDM) Driver Door Module, Driver Safety Power Window Motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "ALT"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-borrego-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "(4WD) 4WD ECM"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "(IPM 3) IPM (MEMORY, DRIVER P/SEAT, PASS P/SEAT, RR S/WARM, ROOM, AUDIO)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "(IPM 2) IPM (ADM 30A, S/TILT 20A)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "(RAM 1) RAM (CONSOL P/OUT, RR P/OUT, FUEL DR, RR P/WIN-LH/RH, LUGGAGE)"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "50A",
+     "(RAM 2) RAM (RR DEFOG, T/G POWER LATCH, DOOR LOCK, RR WIPER, MODULE)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "(RAM 3) RAM (AMP 30A)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "(IPM 1) IPM (ILLUMI, DDM, SEAT WARMER, OBD-II, SUNROOF, K/LOCK, TPMS)"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "(KEY SW 2) Start 1 Relay, Ignition Switch, PDM Relay Box (IG2 Relay)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "(FRT WIPER) Front Wiper ON Relay"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "20A",
+     "(PDM) Smart Key Control Module"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS 1) ABS Control Module, ESP Control Module"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS 2) ABS Control Module, ESP Control Module, Multipurpose Check Connector"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(FUEL PUMP) Fuel Pump Relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(B/A HORN) Relay Block (B/A Horn Relay)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "(P/TRAIN) ECM, Main Relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(A/SUSP) Air Suspension Control Module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(ATM) TCM"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "(IGN COIL) [G6DA] Ignition Coil #1-#6, Condenser #1,#2"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(ECU 2) [D6EB] EGR Cooling Valve, Electric VGT Actuator / [G6DA] Oil Control Valve, ECM, Variable Intake Manifold Valve, Purge Control Solenoid Valve"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(ECU 1) [D6EB] Immobilizer Module, A/C Comp Relay, Stop Lamp Switch, E/R Sub Block (Glow Relay, PTC Relay), Lambda Sensor / [G6DA] ECM, Mass Air Flow Sensor, Immobilizer Module, A/C Comp Relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(INJECTOR) ECM, Injector #1~#6 [G6DA]"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "(O2 UP) [D6EB] Rail Pressure Regulator Valve, Fuel Meter Unit / [G6DA] Oxygen Sensor #1/#2"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(O2 DN) [G6DA] Oxygen Sensor #3/#4"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "(FRT DEICER) Front Deicer Relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn Relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "(STOP SIGNAL) Stop Lamp Switch, Smart Key Control Module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "(A/C COMP) A/C Comp Relay"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "25A",
+     "(KEY SW 1) Ignition Switch, PDM Relay Box (IG1 Relay, ACC Relay)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "(STOP LAMP) FAM (STOP SIGNAL 7.5A), DBC Relay, Stop Signal Relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(FRT/RR WASHER) Front/Rear Washer Motor Relay"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "(H/LP WASHER) Head Lamp Washer Motor & Washer Level Sensor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start 1 relay (Starter system)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlight washer relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ]
+   ]
+  }
+ ]
+}
