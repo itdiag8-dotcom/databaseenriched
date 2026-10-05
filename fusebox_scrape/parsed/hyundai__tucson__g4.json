@@ -1,0 +1,552 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "tucson",
+ "brand_db": "Hyundai",
+ "model_db_name": "Tucson",
+ "model_id": 2256,
+ "generation_name": "4th generation (NX4)",
+ "generation_code": "g4",
+ "year_start": 2020,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/hyundai/tucson/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-tucson-2024-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "20A",
+     "Center door lock/unlock relay, driver door unlock relay"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "20A",
+     "Rear seat warmer control module"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Driver IMS module, power tailgate unit, mood lamps, ROA sensor, A/C module/switch, low DC-DC converter"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "20A",
+     "Low DC-DC converter"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "SRS control module, passenger occupant detection sensor"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "Console switch, EPB switch, A/T shift lever indicator"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument cluster, overhead console lamp"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU, front view camera, crash pad switch, parking assist unit, AWD ECM"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "7.5A",
+     "Stop lamp switch, overhead console lamp, IAU"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "25A",
+     "Power window main switch, passenger power window switch"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "20A",
+     "Front air ventilation/seat warmer control modules"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof controller (blind motor)"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "SRS control module"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Smart key outside handles, crash pad switch, hazard switch, key solenoid, rain sensor, DLC"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "IBU, ignition switch, sport mode switch, IAU, BLE unit"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "7.5A",
+     "IAU, IBU"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "15A",
+     "Multifunction switch"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "7.5A",
+     "PTC heater relay, A/C control module/switch"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "7.5A",
+     "Electronic shift switch, SCU"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "25A",
+     "Power window main switch"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger power seat switch"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "25A",
+     "Passenger safety power window module"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "30A",
+     "Driver power seat switch, driver IMS module"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "25A",
+     "Low DC-DC converter"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof controller (glass motor)"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "25A",
+     "Driver safety power window module"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "Stop lamp switch, IBU"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "Tailgate relay"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "7.5A",
+     "Front ventilation/warmer and rear warmer seat modules"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "15A",
+     "Front/rear USB charger connector"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "10A",
+     "Low DC-DC converter, mirror switch, IBU, IAU"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "10A",
+     "IMS, seat warmer/ventilation modules, AMP, audio, AVN, A/C module/switch, EC mirror, wireless charger"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "10A",
+     "Ignition switch, start relay, transaxle range switch, IBU, burglar alarm relay"
+    ],
+    [
+     "MULTIMEDIA2",
+     "Fuse",
+     "",
+     "Low DC-DC converter"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-tucson-2024-genid-g4-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "30A",
+     "PDM (IG1) relay"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "30A",
+     "PDM (IG2) relay, RLY.3"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "60A",
+     "ICU junction block (AMP, P/SEAT, safety window, seat heater, sunroof fuses; power window main relay)"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater relay"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "ICU junction block (IPS06-08, IPS11)"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "50A",
+     "ICU junction block (door lock, safety window LH, tailgate, rear heater, airbag2, brake switch, module9, IBU2 fuses; load latch relay)"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer connector"
+    ],
+    [
+     "F12",
+     "Fuse FMM/MCase",
+     "30A",
+     "SCU"
+    ],
+    [
+     "F14",
+     "Fuse FMM/MCase",
+     "40A",
+     "Electronic oil pump"
+    ],
+    [
+     "F16",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power tailgate unit"
+    ],
+    [
+     "F18",
+     "Other",
+     "",
+     "ABS2"
+    ],
+    [
+     "F19",
+     "Other",
+     "",
+     "Rear heated relay"
+    ],
+    [
+     "F20",
+     "Other",
+     "",
+     "ESC module"
+    ],
+    [
+     "F21",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "F22",
+     "Other",
+     "",
+     "E-CVVT relay"
+    ],
+    [
+     "F23",
+     "Other",
+     "",
+     "ICU junction block (IPS01-IPS05)"
+    ],
+    [
+     "F24",
+     "Other",
+     "",
+     "ESC module"
+    ],
+    [
+     "F25",
+     "Other",
+     "",
+     "Cooling fan controller"
+    ],
+    [
+     "F27",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Front wiper (low) relay, front wiper motor"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Electronic oil pump"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper relay, rear wiper motor"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor relay"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "15A",
+     "Front wiper (low) relay, PCM, IBU"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "10A",
+     "PCM"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "15A",
+     "PCM"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "10A",
+     "Front radar"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "10A",
+     "Oil control valve, oil pump/purge/intake solenoids, cooling fan controller, canister valve, A/C comp relay"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "10A",
+     "Horn relay"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "15A",
+     "ICU junction block (MODULE1, MODULE2 fuses)"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "10A",
+     "Front power outlet"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "10A",
+     "ESC module"
+    ],
+    [
+     "F57",
+     "Fuse MINI",
+     "20A",
+     "PCM"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "15A",
+     "Injectors #1-#4"
+    ],
+    [
+     "F59",
+     "Fuse MINI",
+     "15A",
+     "Luggage power outlet"
+    ],
+    [
+     "F61",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensors (up/down)"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "10A",
+     "PCM"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-#4"
+    ],
+    [
+     "F68",
+     "Fuse MINI",
+     "10A",
+     "Rear heated relay, power outside mirrors"
+    ],
+    [
+     "F73",
+     "Fuse MINI",
+     "10A",
+     "SCU, electronic shift switch"
+    ],
+    [
+     "F79",
+     "Fuse MINI",
+     "10A",
+     "Battery sensor"
+    ],
+    [
+     "F81",
+     "Fuse MINI",
+     "20A",
+     "AWD ECM"
+    ],
+    [
+     "F82",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear heated"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "PTC heater"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "E-CVVT"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Blower"
+    ]
+   ]
+  }
+ ]
+}

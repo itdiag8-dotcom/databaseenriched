@@ -1,0 +1,486 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "tucson",
+ "brand_db": "Hyundai",
+ "model_db_name": "Tucson",
+ "model_id": 2256,
+ "generation_name": "2nd generation (LM)",
+ "generation_code": "g2",
+ "year_start": 2009,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/hyundai/tucson/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-tucson-2015-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Transaxle range switch (A/T), speed sensor (M/T), backup lamp switch (M/T)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Check connector, ESC module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "PCM/ECM, clock spring"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Headlamp high relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "EMS box (fuel pump relay)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Cooling fan relays, fuel pump relay, oxygen sensors"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "EMS box (A/C relay)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "EMS box (A/C relay)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Immobilizer, crankshaft/camshaft sensors, oil control valves, purge/intake/canister valves"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(PCM) Engine control unit"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-#4, condenser"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "EMS box (engine control relay)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan LO/HI relays"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defogger relay"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp high"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch, PDM relay box (IGN 1 relay)"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "40A",
+     "Start relay, ignition switch, PDM relay box (IGN 2 relay)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Horn relay, burglar alarm horn relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Deicer relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch, stop signal module, smart key module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Intelligent battery sensor"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "4WD ECM"
+    ],
+    [
+     "27",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "28",
+     "Other",
+     "",
+     "Smart junction box (door lock, hazard, PDM, rear seat heater fuses)"
+    ],
+    [
+     "29",
+     "Other",
+     "",
+     "Check connector, ESC module"
+    ],
+    [
+     "30",
+     "Other",
+     "",
+     "EMS box (TCU 1, ECU 3, A/C, fuel pump fuses)"
+    ],
+    [
+     "31",
+     "Other",
+     "",
+     "Check connector, ESC module"
+    ],
+    [
+     "32",
+     "Other",
+     "",
+     "(Blower relay) A/C blower motor"
+    ],
+    [
+     "33",
+     "Other",
+     "",
+     "Smart junction box (P/SEAT, safety window, smart key, module 5 fuses; audio, room lamp connectors; IPS)"
+    ],
+    [
+     "34",
+     "Other",
+     "",
+     "Smart junction box (power window relay, sunroof, AMP fuses, IPS)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(F/PUMP) Fuel pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(A/CON) Air conditioning"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(MAIN) Main relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front wiper low"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(C/FAN HI) Radiator fan high"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(DEICER) Deicer"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(H/LAMP HI) Headlights high beam"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(BLOWER) A/C blower motor"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "(HORN) Horn"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "(C/FAN LO) Radiator fan low"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "(START) Starter system"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Burglar alarm horn"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "(RR HTD) Rear window defogger"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-tucson-2015-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Audio, AVN head unit, MTS module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "IPS module, BCM, EC mirror, smart key module, rear seat heater relays"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Burglar alarm relay / start relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "BCM, light sensor, DLC, key ILL & door warning, A/C module, luggage lamp, IPS, cluster, EC mirror, interior lamp relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (airbag indicator)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Audio, console switch, cluster, BCM, alternator, AVN, MTS, EC mirror, A/C module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Blower/headlamp high relays, cluster ionizer, A/C module, sunroof motor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "25A",
+     "Cigarette lighter & front power outlet, rear power outlet"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Mirror switch, AMP, BCM, AVN, audio, MTS, smart key module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "SRS control module, occupant detection sensor, telltale lamp"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "IPS module, TPMS, ESC off switch, shift indicator, DBC switch, multifunction switch, stop lamp switch, 4WD ECM"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "Front wiper motor, multifunction switch, wiper front low relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Console switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter & front power outlet"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "MDPS unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "BCM, audio, EC mirror, rear combination lamps, AVN"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Door lock relay, tailgate relay, door unlock relay, two-turn unlock relay"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "BCM, smart key control module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper relay, rear wiper motor, multifunction switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Sunroof motor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Engine room fuse box (ECU 2, ABS 3, TCU 2 fuses)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "A/C control module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Rear seat heater relays"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "25A",
+     "Power window main switch, passenger & rear right window switches"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Driver seat manual switch"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Smart key module, engine start/stop button"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Smart key control module"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "Power window main switch, rear left window switch"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "25A",
+     "AMP"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Rear defogger switch, power outside mirrors"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Driver safety power window module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "ATM shift lever, TPMS"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Flasher sound relay, BCM"
+    ]
+   ]
+  }
+ ]
+}
