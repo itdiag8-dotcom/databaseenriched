@@ -1,0 +1,342 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "wrangler",
+ "brand_db": "Jeep",
+ "model_db_name": "Wrangler",
+ "model_id": 2418,
+ "generation_name": "Generation TJ",
+ "generation_code": "g2",
+ "year_start": 1997,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/jeep/wrangler/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-wrangler-2006-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Park Lights, Skim (Sentry Key)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Stop Lights"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer System"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Door Switch Defeat"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Rear Wiper"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Back-Up Lights, Rear Window Defroster Relay, ABS"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "HEVAC"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Instrument Cluster"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Solenoids, DRL"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Power Distribution Relays, Skim (Sentry Key)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Turn Signals"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "HBL (Rear Window Defroster) Switch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Headlamp Aim (Export Only)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "Front Wiper"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Cigar Lighter"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Underhood Fuses (Power Distribution Center)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-wrangler-2006-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "HEVAC"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "HBL (Rear Window Defroster)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Exterior Lighting"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator Fan"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Transmission Control Unit"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter System"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS Motor (Anti-lock braking system)"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "ASD"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Headlights"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS Valve (Anti-lock braking system)"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Accessories (several accessory circuits)"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "IOD"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Power Windows"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Fog Lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Radio and Audio System"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "A/C Magnetic Clutch"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "Ignition Switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Fuel Pump"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Off Road"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Accessories (several accessory circuits)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "MFSW"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Clutch Override"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "ASD"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C Magnetic Clutch"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Transmission Control Unit"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter System"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "ABS (Anti-lock braking system)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fog Lights"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fuel Pump"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "HBL (Rear Window Defroster)"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Front Differential Locker [Rubicon] or High Speed Fan [2.4L Engines]"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Rear Differential Locker [Rubicon] or Low Speed Fan [2.4L Engines]"
+    ]
+   ]
+  }
+ ]
+}

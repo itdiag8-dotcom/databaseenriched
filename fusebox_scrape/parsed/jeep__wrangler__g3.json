@@ -1,0 +1,347 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "wrangler",
+ "brand_db": "Jeep",
+ "model_db_name": "Wrangler",
+ "model_id": 2418,
+ "generation_name": "Generation JK",
+ "generation_code": "g3",
+ "year_start": 2007,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/jeep/wrangler/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Totally Integrated Power Module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-wrangler-2017-genid-g3-0.webp",
+   "fuses": [
+    [
+     "J2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Transfer Case Module"
+    ],
+    [
+     "J4",
+     "Fuse FMX/JCase",
+     "25A",
+     "Driver Door Node"
+    ],
+    [
+     "J5",
+     "Fuse FMX/JCase",
+     "25A",
+     "Passenger Door Node"
+    ],
+    [
+     "J6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-Lock Brake System (ABS) Pump / Stability Control System"
+    ],
+    [
+     "J7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Brake System (ABS) Valve / Control System"
+    ],
+    [
+     "J9",
+     "Fuse FMX/JCase",
+     "40A",
+     "PZEV Sec Motor / Flex Fuel - If Equipped"
+    ],
+    [
+     "J10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp Wash Relay / Manifold Tuning Valve"
+    ],
+    [
+     "J11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Sway Bar"
+    ],
+    [
+     "J13",
+     "Fuse FMX/JCase",
+     "60A",
+     "Ignition Off Draw (IOD) - Main"
+    ],
+    [
+     "J14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear Defroster"
+    ],
+    [
+     "J15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front Blower"
+    ],
+    [
+     "J17",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter Solenoid"
+    ],
+    [
+     "J18",
+     "Fuse FMX/JCase",
+     "20A",
+     "Powertrain Control Module (PCM) Trans Range"
+    ],
+    [
+     "J19",
+     "Fuse FMX/JCase",
+     "60A",
+     "Radiator Fan"
+    ],
+    [
+     "J20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front Wiper LO/HI"
+    ],
+    [
+     "J21",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front/Rear Washer"
+    ],
+    [
+     "M1",
+     "Fuse MINI",
+     "15A",
+     "Center High-Mounted Stop Light (CHMSL) / Switch Stop Lamp Feed"
+    ],
+    [
+     "M2",
+     "Fuse MINI",
+     "20A",
+     "Relay Trailer Lighting (Stop lamp)"
+    ],
+    [
+     "M3",
+     "Fuse MINI",
+     "20A",
+     "Front/Rear Axle Locker Relay"
+    ],
+    [
+     "M4",
+     "Fuse MINI",
+     "2A",
+     "Clock Spring"
+    ],
+    [
+     "M5",
+     "Fuse MINI",
+     "25A",
+     "Power Inverter - [If Equipped]"
+    ],
+    [
+     "M6",
+     "Fuse MINI",
+     "20A",
+     "Power Outlet #1 / Rain Sensor"
+    ],
+    [
+     "M7",
+     "Fuse MINI",
+     "20A",
+     "Power Outlet #2 (BATT/ACC Select)"
+    ],
+    [
+     "M8",
+     "Fuse MINI",
+     "20A",
+     "Front Heated Seat"
+    ],
+    [
+     "M9",
+     "Fuse MINI",
+     "20A",
+     "Rear Heated Seat - [If Equipped]"
+    ],
+    [
+     "M10",
+     "Fuse MINI",
+     "15A",
+     "Ignition Off Draw - Vehicle Entertainment System, SDARS, DVD, Hands-Free Module, Radio, Antenna, Universal Garage Door Opener, Vanity Lamp"
+    ],
+    [
+     "M11",
+     "Fuse MINI",
+     "10A",
+     "(Ignition Off Draw) Climate Control System, Underhood Lamp"
+    ],
+    [
+     "M12",
+     "Fuse MINI",
+     "30A",
+     "Amplifier"
+    ],
+    [
+     "M13",
+     "Fuse MINI",
+     "20A",
+     "Ignition Off Draw - Cabin Compartment Node, Wireless Control Module, Siren, Multifunction Control Switch"
+    ],
+    [
+     "M14",
+     "Fuse MINI",
+     "20A",
+     "Trailer Tow [Export Only]"
+    ],
+    [
+     "M15",
+     "Fuse MINI",
+     "20A",
+     "Climate Control System, Rear View Mirror, Cabin Compartment Node, Transfer Case Switch, Multi-Function Control Switch, Tire Pressure Monitor, Glow Plug Module - [Export Diesel Only]"
+    ],
+    [
+     "M16",
+     "Fuse MINI",
+     "10A",
+     "Airbag Module"
+    ],
+    [
+     "M17",
+     "Fuse MINI",
+     "15A",
+     "Left Tail/License/Park Lamp"
+    ],
+    [
+     "M18",
+     "Fuse MINI",
+     "15A",
+     "Right Tail/Park/Run Lamp"
+    ],
+    [
+     "M19",
+     "Fuse MINI",
+     "25A",
+     "Auto Shut Down (ASD #1 and #2)"
+    ],
+    [
+     "M20",
+     "Fuse MINI",
+     "15A",
+     "Cabin Compartment Node Interior Light, Switch Bank"
+    ],
+    [
+     "M21",
+     "Fuse MINI",
+     "20A",
+     "Auto Shut Down (ASD #3)"
+    ],
+    [
+     "M22",
+     "Fuse MINI",
+     "10A",
+     "Right Horn (HI/LOW)"
+    ],
+    [
+     "M23",
+     "Fuse MINI",
+     "10A",
+     "Left Horn (HI/LOW)"
+    ],
+    [
+     "M24",
+     "Fuse MINI",
+     "25A",
+     "Rear Wiper"
+    ],
+    [
+     "M25",
+     "Fuse MINI",
+     "20A",
+     "Fuel Pump, Diesel Lift Pump - [Export Only]"
+    ],
+    [
+     "M26",
+     "Fuse MINI",
+     "10A",
+     "Power Window Switch, Driver Window Switch"
+    ],
+    [
+     "M27",
+     "Fuse MINI",
+     "10A",
+     "Ignition Switch Feed, Wireless Module"
+    ],
+    [
+     "M28",
+     "Fuse MINI",
+     "10A",
+     "Powertrain Control Module"
+    ],
+    [
+     "M29",
+     "Fuse MINI",
+     "10A",
+     "Powertrain"
+    ],
+    [
+     "M30",
+     "Fuse MINI",
+     "15A",
+     "Wiper Motor Front, J1962 Diagnostic Feed"
+    ],
+    [
+     "M31",
+     "Fuse MINI",
+     "20A",
+     "Backup Lamps"
+    ],
+    [
+     "M32",
+     "Fuse MINI",
+     "10A",
+     "Airbag Controller, TT Europe"
+    ],
+    [
+     "M33",
+     "Fuse MINI",
+     "10A",
+     "Powertrain Controller"
+    ],
+    [
+     "M34",
+     "Fuse MINI",
+     "10A",
+     "Park Assist, Climate Control System, Headlamp Wash, Compass"
+    ],
+    [
+     "M35",
+     "Fuse MINI",
+     "10A",
+     "Heated Mirrors"
+    ],
+    [
+     "M36",
+     "Fuse MINI",
+     "20A",
+     "Power Outlet"
+    ],
+    [
+     "M37",
+     "Fuse MINI",
+     "10A",
+     "Anti-Lock Brake System, Electronic Stability Control, Stop Lamp Switch, Fuel Pump Relay"
+    ],
+    [
+     "M38",
+     "Fuse MINI",
+     "25A",
+     "Lock/Unlock Motors"
+    ]
+   ]
+  }
+ ]
+}
