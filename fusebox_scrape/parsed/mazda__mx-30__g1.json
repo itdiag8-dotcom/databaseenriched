@@ -1,0 +1,378 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "mx-30",
+ "brand_db": "Mazda",
+ "model_db_name": "MX-30",
+ "model_id": 2810,
+ "generation_name": "1st generation DR",
+ "generation_code": "g1",
+ "year_start": 2020,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/mazda/mx-30/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse box (engine compartment)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mx-30-2022-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMM/MCase",
+     "30A",
+     "Accessory outlets"
+    ],
+    [
+     "F2",
+     "Fuse FMM/MCase",
+     "20A",
+     "Windshield wiper de-icer"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "BEV control system"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Engine control system"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Charging control system"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "BEV control system"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "BEV control system"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Headlight washers"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Various circuits"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Water pump"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Accessory outlets"
+    ],
+    [
+     "F19",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Power steering system"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Headlight LH 1"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Headlight RH 1"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Keyless system"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "30A",
+     "ABS, dynamic stability control"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Headlight LH 2"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Headlight RH 2"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "7.5A",
+     "Onboard diagnostics"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "25A",
+     "Various circuits"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "25A",
+     "Various circuits"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "Windshield washer"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Headlights"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "BEV control system"
+    ],
+    [
+     "F35",
+     "Fuse FMM/MCase",
+     "50A",
+     "ABS, dynamic stability control"
+    ],
+    [
+     "F36",
+     "Fuse FMM/MCase",
+     "30A",
+     "Parking brake"
+    ],
+    [
+     "F37",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "50A",
+     "Various circuits"
+    ],
+    [
+     "F40",
+     "Fuse FMM/MCase",
+     "40A",
+     "Air conditioning"
+    ],
+    [
+     "F42",
+     "Fuse FMM/MCase",
+     "20A",
+     "Windshield wiper"
+    ],
+    [
+     "F44",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter motor"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "10A",
+     "Engine control system"
+    ],
+    [
+     "F46",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "15A",
+     "Various circuits"
+    ],
+    [
+     "F48",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag"
+    ],
+    [
+     "F49",
+     "Fuse MINI",
+     "15A",
+     "Instrument panel"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "15A",
+     "Interior light"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "25A",
+     "Audio"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "10A",
+     "Sunroof"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "15A",
+     "Engine control system"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "10A",
+     "i-ACTIVSENSE"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse box (left side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mx-30-2022-1.webp",
+   "fuses": [
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Central door locking (driver)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Central door locking (passenger)"
+    ],
+    [
+     "F9",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power windows (driver)"
+    ],
+    [
+     "F10",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power windows (passenger)"
+    ],
+    [
+     "F11",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power seat (driver)"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Front seat heater"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Trunk compartment lock"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Lighting"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Stop lights"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Reverse lights"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Rear turn signal lights"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Tail lights"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Tail lights"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "7.5A",
+     "Electronic steering lock"
+    ]
+   ]
+  }
+ ]
+}

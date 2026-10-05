@@ -1,0 +1,210 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "mx-5",
+ "brand_db": "Mazda",
+ "model_db_name": "MX-5",
+ "model_id": 2811,
+ "generation_name": "2nd generation NB",
+ "generation_code": "g2",
+ "year_start": 1998,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/mazda/mx-5/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mx-5-2001-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLM",
+     "40A",
+     "HEAD - headlights, rear defroster, auto antenna"
+    ],
+    [
+     "2",
+     "Fuse FLM",
+     "30A",
+     "FUEL INJ - fuel injection"
+    ],
+    [
+     "3",
+     "Fuse FLM",
+     "100A",
+     "MAIN - protection of all circuits"
+    ],
+    [
+     "4",
+     "Fuse FLM",
+     "60A",
+     "IG KEY - ignition related circuits"
+    ],
+    [
+     "5",
+     "Fuse FLM",
+     "30A",
+     "BLOWER - blower motor"
+    ],
+    [
+     "6",
+     "Fuse FLM",
+     "30A",
+     "FAN - cooling fan, A/C additional fan"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "BTN 1 - taillights, dashboard illumination"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "BTN 2 - audio amp, turn signals"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "ABS - antilock brake system"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "STOP - brake lights, horn, shift lock"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mx-5-2001-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "ROOM - interior light, auto antenna, warning buzzers"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "DEFOG - rear defroster"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "AUDIO - audio amp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "D.LOCK - power door lock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "HAZARD - turn signal lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "A/C - air conditioner"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "PWIND - power windows"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "WIPER - windshield wipers and washer"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "A/B - SRS, antilock brakes"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "TURN - turn signal lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "METER - instrument cluster"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "ENGINE - engine control system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "TAIL - taillights, parking, sidemarkers"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "F.FOG - fog lights"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "RADIO - audio"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "CIGAR - cigar lighter"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "ST.SIG - instrument cluster, cruise control"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "HEAD.RH - headlights RH"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "HEAD.LH - headlights LH"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "ADD FAN - add fan motor, magnet clutch"
+    ]
+   ]
+  }
+ ]
+}
