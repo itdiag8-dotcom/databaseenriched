@@ -1,0 +1,107 @@
+{
+ "make_slug": "lancia",
+ "model_slug": "delta",
+ "brand_db": "Lancia",
+ "model_db_name": "Delta",
+ "model_id": 2529,
+ "generation_name": "Delta III (844)",
+ "generation_code": "g1",
+ "year_start": 2012,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/lancia/delta/info/fusebox/2012",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lancia-delta-2012-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "7.5A",
+     "Air conditioning compressor"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Main beam headlights"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "30A",
+     "PTC1 additional heater"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Engine management node"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "5A",
+     "Brake node (valves)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Fog/cornering lights"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "Headlight washer pump"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "Engine management node"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "Electric steering node"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Electronic injection secondary loads"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Electronic injection primary loads"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Electronic injection primary loads [1.4] / 20A [1.8 & diesel]"
+    ],
+    [
+     "F29",
+     "Fuse ATO",
+     "15A",
+     "Fuel pump"
+    ]
+   ]
+  }
+ ]
+}

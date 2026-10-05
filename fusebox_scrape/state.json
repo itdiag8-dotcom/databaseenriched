@@ -336,11 +336,11 @@
   "jaguar": "22 models processed",
   "jeep": "11 models done",
   "jmc": "0/6 models have data (all no_data); DB model New Generation Transit not on startmycar",
-  "kia": true
+  "kia": true,
+  "lancia": true
  },
  "in_progress": null,
  "queue_next_makes": [
-  "lancia",
   "land-rover",
   "lexus",
   "lincoln",
@@ -1285,10 +1285,20 @@
   "kia/stonic-gt-line": "done",
   "kia/telluride": "done",
   "kia/venga": "done",
-  "kia/xceed": "done"
+  "kia/xceed": "done",
+  "lancia/delta": "done",
+  "lancia/flavia": "no_data",
+  "lancia/kappa": "no_data",
+  "lancia/lybra": "no_data",
+  "lancia/musa": "no_data",
+  "lancia/phedra": "no_data",
+  "lancia/thema": "no_data",
+  "lancia/thesis": "no_data",
+  "lancia/voyager": "no_data",
+  "lancia/ypsilon": "done"
  },
- "last_updated": "2026-10-05T11:17:53.232484",
- "current_brand": "lancia",
+ "last_updated": "2026-10-05T11:19:25.941600",
+ "current_brand": "land-rover",
  "audi_done_models": [
   "a1",
   "a2",
@@ -2536,5 +2546,17 @@
   "telluride",
   "venga",
   "xceed"
+ ],
+ "lancia_model_slugs": [
+  "delta",
+  "flavia",
+  "kappa",
+  "lybra",
+  "musa",
+  "phedra",
+  "thema",
+  "thesis",
+  "voyager",
+  "ypsilon"
  ]
 }
