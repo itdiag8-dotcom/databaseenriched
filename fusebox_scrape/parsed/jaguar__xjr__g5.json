@@ -1,0 +1,607 @@
+{
+ "make_slug": "jaguar",
+ "model_slug": "xjr",
+ "brand_db": "Jaguar",
+ "model_db_name": "XJR",
+ "model_id": 2389,
+ "generation_name": "X351 generation",
+ "generation_code": "g5",
+ "year_start": 2013,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/jaguar/xjr/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xjr-2015-genid-g5-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "Ignition coils [Petrol] or ECM [Diesel]"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "CDCS ECU, EPB, EMS, ECM [Petrol]"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "Power wash pump"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "A/C clutch compressor [Diesel]"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "40A",
+     "RH front screen heater"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "GPC, UHEGO, MAFA [Diesel]"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "EBF, ECFC, EOTL, engine cooling fan, PCM cooling fan [Diesel]"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "ESOV, CRV, EGR CBV, TSOV, MAFB [Diesel]"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "AEM, WIF [Diesel]"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "PCV, MEU, fuel pump relay control [Diesel]"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "TCM, ETS"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "EMS main, EMS secondary control [Petrol]"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Starter"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "40A",
+     "DSC pump"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "25A",
+     "ABS slip valves"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "15A",
+     "Intercooler water pump [Petrol]"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "Horns"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "40A",
+     "Wiper motor"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "ECM, VVT diode [Petrol]"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "5A",
+     "Oil quality, MAFS, DHTL [Petrol]"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Throttle motor [Petrol]"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "10A",
+     "Radiator fan, ECM cooling fan, purge valve, CPS valves, IMTV [Petrol]"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "40A",
+     "Front screen heater"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "20A",
+     "UHEGO bank A heaters [Petrol]"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "20A",
+     "UHEGO bank B heaters [Petrol]"
+    ],
+    [
+     "35",
+     "Fuse MIDI",
+     "100A",
+     "Engine cooling fan"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xjr-2015-genid-g5-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "RF-RX, IMS, TPM system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "DSC module, yaw rate, SAS"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "ACC"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Rear climate control"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Front passenger's seat adjustment"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "EPB"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Air suspension ECM"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Brake pedal switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Heated rear screen"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "KVM supply"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Fuel pump relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "ECM"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Heated steering wheel"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "A/C sensor, front overhead console, front dual climate control module, smog sensor"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "TCM, E-diff, Jaguar Drive selector"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "Headlamp levelling"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "RH front and rear lamp clusters"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "LH front and rear lamp clusters"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Rear seat dual climate control module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Front seat dual climate control module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "25A",
+     "Passenger door module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Rain/light sensor"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "Driver's door module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Front dual climate control module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Fuel filler flap lock"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Battery back-up sounder / tilt sensor"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "KVM"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Front screen wash pump relay"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "25A",
+     "LH rear door module"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "5A",
+     "Driver's window, clock, ICP, rear climate panel, passenger door memory"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "5A",
+     "Power amp"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "30A",
+     "Driver's seat module"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "25A",
+     "RH rear door module"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "30A",
+     "Passenger front seat switch pack"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "30A",
+     "Driver's seat module"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "5A",
+     "RH headlamp motor"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "5A",
+     "LH headlamp motor"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "5A",
+     "Steering wheel switches"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "Front cigar lighter"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "20A",
+     "Rear cigar lighter"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "20A",
+     "Rear accessory socket"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "10A",
+     "RCM/OCS"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "10A",
+     "Glove box and lamp, front and rear overhead consoles, sun visor lamps, vanity lamps"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "10A",
+     "IAU, cluster, cluster fan"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "10A",
+     "Climate control module"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "20A",
+     "Front accessory socket"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "15A",
+     "IAM (head unit)"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "OBD 2"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "10A",
+     "DAB, TVM"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "15A",
+     "HLDF"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xjr-2015-genid-g5-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "40A",
+     "LH seat belt retract module"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "CVD ECU, ACC"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "PAM, RH blind spot monitor, rear view mirror"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Chassis control module"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "20A",
+     "Air suspension"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "30A",
+     "Electronic parking brake (EPB)"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "40A",
+     "RH seat belt retractor module"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "40A",
+     "Power amp"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "5A",
+     "Air suspension"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "40A",
+     "A/C blower"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "Passenger seat switch pack"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "20A",
+     "Front seats"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Rear RH seat heater module, parcel shelf sunblind"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "Driver's seat switch pack"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "Power boot lid"
+    ],
+    [
+     "21",
+     "Fuse MAXI",
+     "30A",
+     "Sunroof module"
+    ],
+    [
+     "22",
+     "Fuse MAXI",
+     "60A",
+     "Air suspension"
+    ],
+    [
+     "23",
+     "Fuse MAXI",
+     "40A",
+     "E-diff module"
+    ]
+   ]
+  }
+ ]
+}
