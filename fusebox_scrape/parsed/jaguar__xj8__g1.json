@@ -1,0 +1,566 @@
+{
+ "make_slug": "jaguar",
+ "model_slug": "xj8",
+ "brand_db": "Jaguar",
+ "model_db_name": "XJ8",
+ "model_id": 2388,
+ "generation_name": "X308 generation",
+ "generation_code": "g1",
+ "year_start": 1998,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2002,
+ "source_url": "https://www.startmycar.com/jaguar/xj8/info/fusebox/2002",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xj8-2002-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Transmission control"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "5A",
+     "Generator regulator; windshield heaters (where fitted)"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "10A",
+     "Fog lamp switches; headlamp leveling (where fitted); ignition relay coils; security sounder"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "ABS control module"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Adaptive damping (where fitted); ECM; EMS relays; starter relay coil"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "RH low beam headlamp"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "30A",
+     "Powerwash pump (where fitted)"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "LH low beam headlamp"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Security sounder"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Rain sensing"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "RH horn"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "30A",
+     "Radiator fans (LH and RH in slow/series, RH in fast/parallel)"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "LH horn"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "30A",
+     "Radiator fans (LH in fast/parallel)"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "A/C coolant pump"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "30A",
+     "ABS control valves"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "30A",
+     "ABS pump motor"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "10A",
+     "RH high beam headlamp"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "10A",
+     "LH high beam headlamp"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "30A",
+     "Windshield wiper motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Air conditioning coolant pump"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Front fog lamps"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamps - high beam"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlamps power wash pump (where fitted)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlamps - low beam"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horns"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Ignition +"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine management fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xj8-2002-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "Adaptive damping (where fitted)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "S/C coolant pump (S/C models only)"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "25A",
+     "Starter solenoid"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "ECM"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "10A",
+     "Fuel injectors"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "5A",
+     "TCM"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "30A",
+     "Throttle motor"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Cruise control VSV (where fitted); ECM; EGR valve (where fitted); park/neutral switch"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "MAFS; VVT solenoids A and B (4.0L NA models only)"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "A/C clutch relay coil; canister close valve; EVAP valve; HO2S heaters; ignition coils relay coil; radiator fan control module coils; throttle motor relay coil"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "30A",
+     "Windshield LH heater"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "5A",
+     "Engine compartment enclosure cooling fan"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "30A",
+     "Windshield RH heater"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Ignition coils; ignition amplifier"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger side dash fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xj8-2002-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "20A",
+     "LH seat control module"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "Door locks relay; door lock actuators"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "BPM"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Door mirror heaters; door mirror folding"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "5A",
+     "Radio telephone"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "A/C"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "BPM"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "Passenger's side rear window switchpack; passenger's door switchpack and memory"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "5A",
+     "Passenger's seat switchpack"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "5A",
+     "Radio telephone; rear interior courtesy and map lamps"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "20A",
+     "A/C RH blower motor"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "5A",
+     "ICE"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "25A",
+     "RH rear door control module"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "25A",
+     "Cigar lighters"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "25A",
+     "RH front door control module"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "25A",
+     "LH and RH front seat heaters (where fitted)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xj8-2002-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "SLCM (back-up lamps, rear fog lamps, stop lamps, electrochromic interior mirror)"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "5A",
+     "Fuel filler flap"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Audio system"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "Radio telephone, E-post lamps, navigation"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "25A",
+     "Cigar lighters"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "HMSL; caravan/trailer stop lamps"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Antenna motor"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "SLCM (trunk release, fuel filler flap relay, inclination sensor, stop lamps)"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "Accessory socket"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Power amplifier (premium ICE systems only)"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "5A",
+     "Navigation"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "20A",
+     "Second fuel pump (S/C models only)"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Caravan/trailer backup lamp supply"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "25A",
+     "Backlight heater"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "Rear seat movement (where fitted)"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "5A",
+     "LH and RH license plate lamps; caravan/trailer RH side/tail lamp"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "20A",
+     "Rear seat movement (where fitted)"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "5A",
+     "LH and RH front and rear side marker lamps; caravan/trailer LH side/tail lamp"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "5A",
+     "Audio / telephone"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Auxiliary positive relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory connector relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Stop lamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay 1"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Side marker / number plate lamp relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Heated backlight relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay 2"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,842 @@
+{
+ "make_slug": "jaguar",
+ "model_slug": "xj8",
+ "brand_db": "Jaguar",
+ "model_db_name": "XJ8",
+ "model_id": 2388,
+ "generation_name": "X350/X358 generation",
+ "generation_code": "g2",
+ "year_start": 2003,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/jaguar/xj8/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box [Gasoline]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xj8-2008-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Front ignition, UHEGO, fuel pump, rear ignition relay coils"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "Throttle (petrol engine only)"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "DSC ECU"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "Powerwash pump"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "40A",
+     "Air suspension compressor"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "40A",
+     "Right-hand front screen heater or wiper park zone heater"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "Right-hand low beam"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "Left-hand low beam"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "Horns"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Engine control module, VTT solenoids"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "10A",
+     "Fuel injectors"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Purge valve, EGR valve, DMTL, V6 intake manifold tuning valves (IMTV), MAFS, air filter solenoid, radiator fan controller"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Right-hand and left-hand high beam"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Engine control module, transmission control module"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Front fog lamps, instrument panel front fog status"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "25A",
+     "Starter solenoid"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "40A",
+     "ABS module (pump)"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "ABS module"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "20A",
+     "Intercooler water pump (supercharged engines)"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "40A",
+     "Wiper system, front electronics module (FEM)"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "5A",
+     "Secondary air injection"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "15A",
+     "Ignition coils"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "40A",
+     "Left-hand front screen heater"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "30A",
+     "A bank heated oxygen sensors"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "30A",
+     "B bank heated oxygen sensors"
+    ],
+    [
+     "35",
+     "Fuse MIDI",
+     "80A",
+     "Radiator cooling fan"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box [Diesel]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xj8-2008-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "5A",
+     "Fuel pump, rear ignition relay coils"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "DSC ECU"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "30A",
+     "Powerwash pump"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "40A",
+     "Air suspension compressor"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "40A",
+     "Right-hand front screen heater or wiper park zone heater"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "20A",
+     "Diesel EMS, VBRs, PCV and VCV"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "Diesel EMS, cooling fan, MAFS, IPDA, glowplug module, AEMs"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "20A",
+     "Right-hand low beam"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Left-hand low beam"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "20A",
+     "Right-hand and left-hand high beam"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Engine control module, transmission control module"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "Front fog lamps, instrument panel front fog status"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "25A",
+     "Starter solenoid"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "40A",
+     "ABS module (pump)"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "",
+     "FFH battery +"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "20A",
+     "ABS module"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "Horn"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "40A",
+     "Wiper system, front electronics module (FEM)"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "5A",
+     "EMS battery +"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "40A",
+     "Left-hand front screen heater"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "10A",
+     "Auxiliary water pump"
+    ],
+    [
+     "35",
+     "Fuse MIDI",
+     "80A",
+     "Radiator cooling fan"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Cabin fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xj8-2008-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Climate control unit, fan, screen heaters and wiper relay coils, smog sensor"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "5A",
+     "Cruise control switch, adaptive cruise control"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "5A",
+     "Rear outer seat, electrochromic mirror, seat heaters, electric parkbrake, HID lamp levelling, seat belt switches, rear seat heater switchpack"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "5A",
+     "Cigar lighter, sunroof module, sunblind motor, electric parkbrake switch illumination, accessory relays"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "5A",
+     "Instrument panel"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Left-hand direction indicator and door mirror repeater"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Glove compartment door motor and lamps"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Radio muting (engine start), ignition feed"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Front electronic module (FEM), passenger mirror"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Rear electronic module (REM), door locks"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Climate control, footwell lamps, FEM, autolamp module"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "ECM, FEM, instrument panel airbag fault lamp, instrument panel ignition (run/start)"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "5A",
+     "Diagnostic connector"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "5A",
+     "ABS module"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "5A",
+     "Ignition relay, ECM, REM, fuel pump relay, start relay"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "5A",
+     "Telephone transceiver, TV module, VICS (Japan), voice module, rear telematics"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "20A",
+     "Passenger's ventilated seat"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "5A",
+     "PATS transponder"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "10A",
+     "Right-hand direction indicator and mirror repeater, front lamp, sunvisor lamps, sidemarkers"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "15A",
+     "Screenwash pump"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "ACC module"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "10A",
+     "Climate control modules (front and rear), driver's door module (DDM)"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "10A",
+     "Airbag module, occupancy sensing module, passenger weight sensor, PAD lamp"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "20A",
+     "Driver's ventilated seat"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "15A",
+     "Sunroof, phone transceiver"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "5A",
+     "Front/rear parking aid, trailer tow module, battery-backed sounder, voice module, telephone receiver"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "5A",
+     "Transmission control, J-gate, alternator"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "5A",
+     "Navigation system, remote power amp"
+    ],
+    [
+     "35",
+     "Fuse ATO",
+     "10A",
+     "Passenger seat movement"
+    ],
+    [
+     "36",
+     "Fuse ATO",
+     "40A",
+     "Passenger seat movement, DSM"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "25A",
+     "Driver window"
+    ],
+    [
+     "38",
+     "Fuse ATO",
+     "15A",
+     "Radio head unit"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "5A",
+     "Transit relay (removed before customer delivery)"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "10A",
+     "Security LED, yaw rate sensor"
+    ],
+    [
+     "41",
+     "Fuse ATO",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "10A",
+     "FEM, REM, DDM, EPB logic"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "5A",
+     "Diagnostic connector"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "5A",
+     "Brake switch"
+    ],
+    [
+     "45",
+     "Fuse ATO",
+     "10A",
+     "Passenger seat movement"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "25A",
+     "Passenger window"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "5A",
+     "Instrument pack"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "20A",
+     "Instrument pack (steering column tilt and reach)"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "40A",
+     "Driver seat movement"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Luggage compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-xj8-2008-genid-g2-3.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse ATO",
+     "40A",
+     "Passenger seat switchpack"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Accessory connector"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "40A",
+     "Front blower motor"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "10A",
+     "Heater circuit water pump"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "25A",
+     "Rear seat motors"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "5A",
+     "Rear footwell lamps, grab handle lamps, overhead console map lamps"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "Air suspension"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "20A",
+     "Rear seat entertainment"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "5A",
+     "Right-hand stop and tail lamps"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Luggage compartment lamps, driver seat switch pack, rear seat switch pack, blower motor relay coil"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "10A",
+     "Left-hand rear fog, direction indicator and reversing lamps"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "10A",
+     "Number plate lamps, side marker lamps"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "Heated door mirrors"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "25A",
+     "Rear seat motors"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "10A",
+     "Accessory connector"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "25A",
+     "Fuel pump driver module"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "15A",
+     "Front accessory socket"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "15A",
+     "Rear accessory socket"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "10A",
+     "Rear CD"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "25A",
+     "Left-hand rear window"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "5A",
+     "VICS (Vehicle Information and Communication System) - Japan only"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "10A",
+     "Alternator, battery-backed sounder, transit relay"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "40A",
+     "Passenger front seat"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "30A",
+     "Electric parkbrake actuator"
+    ],
+    [
+     "33",
+     "Fuse ATO",
+     "20A",
+     "Rear electronic module (fuel pump)"
+    ],
+    [
+     "34",
+     "Fuse ATO",
+     "30A",
+     "Power amplifier"
+    ],
+    [
+     "37",
+     "Fuse ATO",
+     "10A",
+     "TPM system battery +"
+    ],
+    [
+     "39",
+     "Fuse ATO",
+     "15A",
+     "Gateway module"
+    ],
+    [
+     "40",
+     "Fuse ATO",
+     "25A",
+     "Right-hand rear window"
+    ],
+    [
+     "43",
+     "Fuse ATO",
+     "15A",
+     "Rear cigar lighter"
+    ],
+    [
+     "44",
+     "Fuse ATO",
+     "15A",
+     "Front cigar lighter"
+    ],
+    [
+     "46",
+     "Fuse ATO",
+     "10A",
+     "Right-hand rear reverse, direction indicator and fog lamps"
+    ],
+    [
+     "47",
+     "Fuse ATO",
+     "20A",
+     "FEM, front seat heater"
+    ],
+    [
+     "48",
+     "Fuse ATO",
+     "5A",
+     "High mounted stop lamps"
+    ],
+    [
+     "49",
+     "Fuse ATO",
+     "5A",
+     "Left-hand stop and tail lamps"
+    ],
+    [
+     "51",
+     "Fuse ATO",
+     "10A",
+     "Navigation system"
+    ],
+    [
+     "52",
+     "Fuse ATO",
+     "20A",
+     "Air suspension"
+    ],
+    [
+     "53",
+     "Fuse ATO",
+     "20A",
+     "Rear fan motor"
+    ],
+    [
+     "54",
+     "Fuse ATO",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "55",
+     "Fuse ATO",
+     "5A",
+     "TPM system"
+    ]
+   ]
+  }
+ ]
+}
