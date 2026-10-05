@@ -1,0 +1,396 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "mazda2",
+ "brand_db": "Mazda",
+ "model_db_name": "2",
+ "model_id": 2749,
+ "generation_name": "3rd generation DJ/DL",
+ "generation_code": "g3",
+ "year_start": 2014,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2022,
+ "source_url": "https://www.startmycar.com/mazda/mazda2/info/fusebox/2022",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mazda2-2022-genid-g3-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "AUDIO2 - audio system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "ST.HEATER - heated steering wheel"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "F.OUTLET - accessory connectors"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "AT IND - AT shift indicator"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "MIRROR - power mirror"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "25A",
+     "P.WINDOW2 - power windows"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "R.WIPER - rear window wiper and washer"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "P.SEAT D - power seat (driver)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "SRS2/ESCL - electronic steering lock"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "SEAT WARM - seat heater"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "M.DEF - mirror defogger"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mazda2-2022-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "C/U IG1 - various circuits"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "ENGINE IG1 - engine control system"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "SUNROOF"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "INTERIOR - various circuits"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "ENG+B - engine control system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "AUDIO2/ENGINE4 - audio / engine control"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "METER1 - instrument cluster"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "SRS1 - airbag"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "METER2 - instrument cluster"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "RADIO - audio system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "ENGINE3 - engine control system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "ENGINE1 - engine control system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "ENGINE2 - engine control system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "25A",
+     "AUDIO1 - audio system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "A/C MAG - air conditioner"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "AT PUMP - transmission control"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "AT - transmission control"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "25A",
+     "D.LOCK - power door locks"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "H/L1 RH - headlight right"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "ENG+B2 - engine control system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "TAIL - taillights, license plate, parking lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "ST.HEATER - heated steering wheel / adaptive LED headlights (variant)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "ST.HEATER - heated steering wheel / adaptive LED headlights (variant)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "25A",
+     "ROOM - various circuits"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "FOG - fog lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "H/CLEAN - headlight washer"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "STOP - brake lights"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "HORN"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "H/L LH - headlight left"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "30A",
+     "ABS/DSC S - ABS, dynamic stability control"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "HAZARD - hazard flashers, turn signals"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "FUEL PUMP SCR - fuel system"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "FUEL WARM - fuel warmer"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "20A",
+     "WIPER - windshield wiper"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "CABIN+B - various circuits"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "FAN2 EPB L - cooling fan"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "FUEL PUMP"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS/DSC M - ABS, dynamic stability control"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "20A",
+     "EVVT - engine control system"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "20A",
+     "WIPER DEI - wiper de-icer"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "30A",
+     "FAN1 EPB R - cooling fan"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "40A",
+     "FAN3 - cooling fan"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "40A",
+     "ENG.MAIN - engine control system"
+    ],
+    [
+     "43",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "EPS - power steering system"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "40A",
+     "DEFOG - rear window defogger"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG2 - various circuits"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "30A",
+     "INJECTOR ENG.SUB - engine control system"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "40A",
+     "HEATER - air conditioner"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "30A",
+     "P.WINDOW1 - power windows"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "40A",
+     "DCDC DE - various circuits"
+    ]
+   ]
+  }
+ ]
+}
