@@ -1,0 +1,777 @@
+{
+ "make_slug": "kia",
+ "model_slug": "k900",
+ "brand_db": "Kia",
+ "model_db_name": "K900",
+ "model_id": 2452,
+ "generation_name": "1st generation KH",
+ "generation_code": "g1",
+ "year_start": 2014,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/kia/k900/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-k900-2015-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "(AUDIO 2) A/V & Navigation Head Unit, TMU"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE 3) A/C Module, Electro Chromic Mirror, Rear Seat Console Switch, Driver Haptic Module, Rear CCS Modules, IMS Modules, Driver Power Seat Module, Rear Seat Warmer Modules, Rear Smart Junction Box (IPS)"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE 2) Steering Tilt & Telescopic, LDWS Camera, Crash Pad Switch, Stop Lamp Switch, A/T Console Switch, EPB Switch, Console Switch, Smart Cruise Radar, Air Sus, TPMS, PAS"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "(WIPER) Auto Light & Rain Sensor"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE 1) BCM, Trunk Lid Main Switch, Low Panel Switch"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "(MEMORY 2) External Buzzer, Driver/Passenger Smart Connector"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "15A",
+     "(DRV HEAT) Driver Haptic Module, Driver CCS Module"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "(PASS HEAT) Passenger CCS Module"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "30A",
+     "(WINDOW LH) Rear Power Window Modules LH"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "(HEADREST) Active Headrest Sensor"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "(BCM) BCM, Multifunction Switch, Power Seat Switches, Rear Door Modules"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "15A",
+     "(EPB 2) Electric Parking Brake Module"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "15A",
+     "(P/HANDLE) Steering Tilt & Telescopic Module"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "(B/ALARM) BCM"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "(INHIBITOR 1) Sport Mode Switch / Electric ATM Shift Lever"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "15A",
+     "(P/DOOR DRV) Driver Door Latch"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "20A",
+     "(PASS P/SEAT) Passenger Seat Relay Box / Passenger IMS Module"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "15A",
+     "(P/DOOR RR LH) Rear Door Latch LH"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "30A",
+     "(DRV P/SEAT) Driver Lumbar Support Valve/Switch, Driver Power Seat Module"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "(S/ROOF 2) Sunroof Motor"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "(SMART KEY 2) Metal Core Block PCB#2 (P/N Relay), Smart Key Module"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "20A",
+     "(S/ROOF 1) Sunroof Motor"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "(START) Start/Stop Button Switch"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE 5) Surround View, Parking Guide, Head-Up, Cluster, Lumbar Valve, Rear Console Switch, Rear Seat Warmer/Massage Modules, Rear SJB (IPS)"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "(CLUSTER) Instrument Cluster, Head-Up Display"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "25A",
+     "(SMART KEY 1) Smart Key Control Module"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "(DOOR LAMP) Driver/Passenger Door Modules"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "15A",
+     "(STR'G HTD) Clock Spring"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE 6) Smart Key Module, BCM"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "15A",
+     "(A/BAG) Seat Belt Pretensioners, SRS Control Module"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "(A/BAG IND) Instrument Cluster"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "(IGN 1) E/R Fuse & Relay Box LH (F20, F21, F23, F25, F26, F27)"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "10A",
+     "(MEMORY 1) IMS Module, Door Modules, Seat Switches, Power Trunk Module, Cluster, BCM, Security Sensor, Clock, A/C Module, Head-Up Display"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "(MULTI MEDIA) Keyboard, AVN Head Unit, Front Monitor, TMU"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "(ROOM LAMP) Foot/Trunk/Room/Console/Vanity/Garnish/Glove Box Lamps"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "10A",
+     "(MEMORY 3) RF Receiver"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "15A",
+     "(EPB 1) Electric Parking Brake Module"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "20A",
+     "(IGN 2) E/R Fuse & Relay Box LH (F29, F30)"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "(A/CON 1) A/C Module, Ionizer, Metal Core Block PCB#2 (Blower Relay)"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "15A",
+     "(AFLS) Adaptive Front Lighting Module, Head Lamps LH/RH"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "20A",
+     "(P/OUTLET FR) Front Cigarette Lighter"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE 4) Electric ATM Shift Lever, Clock, BCM, Surround View, Overhead Console Lamp, Parking Guide Unit"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "10A",
+     "(AUDIO 1) AVN Head Unit, Monitors, Keyboard, Smart Key Module, Rear Audio Switch, AMP, TMU"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "20A",
+     "(P/OUTLET RR) Rear/Front Power Outlet"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse panel (Driver's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-k900-2015-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "200A",
+     "(ALT) E/R Fuse & Relay Box LH (F9, F15, F16, F18, F19), Alternator"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "70A",
+     "(COOLING) E/R Fuse & Relay Box LH (RLY.6)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "(SMK (IGN1)) E/R Fuse & Relay Box LH (RLY.5)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ESC 1) ESC Control Module"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "(SMK (IGN2)) E/R Fuse & Relay Box LH (RLY.3)"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ESC 2) ESC Control Module"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BATTERY 3) Smart Junction Box (F5, F6, F8, F9, F10)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "(SMK (ACC)) E/R Fuse & Relay Box LH (RLY.9)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(STOP LAMP) Stop Signal Electronic Module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(BRAKE SW) Stop Lamp Switch, Smart Key Module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(INJECTOR 1) Injector Drive Box"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "(VACUUM PUMP 2) E/R Fuse & Relay Box LH (RLY.10)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "(DIAGNOSIS) Multipurpose Check Connector"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(TCU 1) ECM, Transmission Range Switch, Park Position Sensor & Switch"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "(ESC 3) Steering Angle Sensor, ESC Control Module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(B/UP LAMP 1) E/R Fuse & Relay Box LH (RLY.4)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(VACUUM PUMP 1) E/R Fuse & Relay Box LH (RLY.10), Vacuum Pump Switch"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(ECU 1) ECU"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(EHPS 1) EHPS Module"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(INHIBITOR 2) A/T Console Switch, Electric ATM Shift Lever"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "(WASHER) E/R Fuse & Relay Box LH (RLY.8)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "(WIPER 2) E/R Fuse & Relay Box LH (RLY.1)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "(B/UP LAMP 2) Back View Camera & Back-Up Lamp, A/T Console Switch, Electro Chromic Mirror, AVN Head Unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "C/Fan Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Smart Key (ACC) Relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Washer Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "H/Lamp Washer Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Smart Key (IG1) Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "B/Up Lamp Relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Smart Key (IG2) Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Start Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Wiper Relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Vacuum Pump Relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse panel (Passenger's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-k900-2015-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "60A",
+     "(BATTERY 4) Metal Core Block PCB#1 (F2, F4, F6, F10, F11, F12)"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "60A",
+     "(BATTERY 5) Metal Core Block PCB#2 (F7, F11)"
+    ],
+    [
+     "3",
+     "Multi fuse block MUSB",
+     "",
+     "(PRESAFETY SEAT BELT DRV) Driver Seat Belt Pretensioner"
+    ],
+    [
+     "4",
+     "Multi fuse block MUSB",
+     "",
+     "(PRESAFETY SEAT BELT PASS) Passenger Seat Belt Pretensioner"
+    ],
+    [
+     "8",
+     "Multi fuse block MUSB",
+     "",
+     "(BATTERY 2) Smart Junction Box (F13-20, F23, F24, F27, F28, IPS5-8, ARISU-LT2)"
+    ],
+    [
+     "9",
+     "Multi fuse block MUSB",
+     "",
+     "(BATTERY 1) Smart Junction Box (F38, IPS1, 3, ARISU-LT1, leak current autocut device)"
+    ],
+    [
+     "10",
+     "Multi fuse block MUSB",
+     "",
+     "(EHPS 2) EHPS Module"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "40A",
+     "(BLOWER) Metal Core Block PCB (Blower Relay)"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "30A",
+     "(START 1) E/R Fuse Relay Box LH (RLY.2)"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "30A",
+     "(WIPER 3) Wiper Motor"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "30A",
+     "(ECU 3) Metal Core Block PCB#1 (ECU Main Relay)"
+    ],
+    [
+     "15",
+     "Fuse FMM/MCase",
+     "40A",
+     "(ECS 2) Metal Core Block PCB#1 (Air ECS Relay)"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "(SENSOR 1) Purge Control Solenoid Valve, ECM, Variable Intake Solenoid Valve, Oil Control Valves #1-4"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "15A",
+     "(INJECTOR 2) Injectors #1-6 / #1-8"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "(A/CON 2) A/C Control Module"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "(CRUISE) Smart Cruise Control Radar"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "15A",
+     "(TCU 2) TCM"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "(ECU 2) ECM"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "(SENSOR 3) Rear Smart Junction Box (Fuel Pump Relay)"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "15A",
+     "(P/DOOR PASS) Passenger Door Latch"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "15A",
+     "(DEICER) Metal Core Block PCB#1 (Front Deicer Relay), Ignition Coils #1-8"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "20A",
+     "(IGNITION COIL) Ignition Coils #1-6, Condensers #1, #2"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "15A",
+     "(HORN) Metal Core Block PCB#1 (Horn Relay)"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "(SENSOR 2) Mass Air Flow Sensor, Oxygen Sensors #1-4, E/R Fuse & Relay Box LH (RLY.6)"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "15A",
+     "(SENSOR 4) CMP Sensors #1-4"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Trunk fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-k900-2015-genid-g1-3.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "(REAR HTD) Rear Defogger Relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "(AMP) AMP"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(P/SEAT RR 2) Rear Seat Relay Boxes LH/RH, Rear Seat Massage Modules LH/RH"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(DR LOCK RH) Passenger Door Module, Rear Door Module RH"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(DR LOCK LH) Driver Door Module, Rear Door Latch LH"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(S/HEATER RR RH) Rear Seat Warmer Module RH, Rear CCS Module RH"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(S/HEATER RR LH) Rear Seat Warmer Module LH, Rear CCS Module LH"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "(P/WDW RH) Passenger Power Window Module, Rear Power Window Module RH"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "(P/TRUNK) Power Trunk Module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "(F/PUMP) Fuel Pump Relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "(P/SEAT RR 1) Rear Seat Relay Box"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "(ECS 1) ECS Unit"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(P/SEAT PASS) Passenger IMS Control Module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(P/DOOR RR RH) Rear Door Latch RH"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(TRUNK) Trunk Lid Relay, Power Trunk Module Buzzer"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(FOG LAMP RR) Rear Fog Lamp Relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Battery box fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-k900-2015-genid-g1-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "(START 2) Metal Core Block PCB#2 (F8, F9, F12)"
+    ],
+    [
+     "2",
+     "Fuse MIDI",
+     "100A",
+     "(BATTERY 6) Rear Smart Junction Box (F1-F8, F10, F11, F13, F15, F17-F20)"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "(AMS) Battery Sensor"
+    ]
+   ]
+  }
+ ]
+}
