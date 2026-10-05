@@ -1,0 +1,916 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "lc-500",
+ "brand_db": "Lexus",
+ "model_db_name": "LC",
+ "model_id": 2590,
+ "generation_name": "1st generation (Z100)",
+ "generation_code": "g1",
+ "year_start": 2017,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/lexus/lc-500/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Room",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lc-500-2018-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "ETCS"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "P CON MAIN"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "EFI-MAIN NO.1"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "A/F HTR"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "IG2"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "D/C CUT NO.1"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS MTR NO.2"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "EDU NO.1"
+    ],
+    [
+     "10",
+     "Fuse FLF/PAL 293",
+     "180A",
+     "ALT"
+    ],
+    [
+     "12",
+     "Fuse MPF2",
+     "",
+     "ST NO.1"
+    ],
+    [
+     "14",
+     "Fuse MPF2",
+     "",
+     "EDU NO.2"
+    ],
+    [
+     "15",
+     "Multi fuse block MUSB",
+     "",
+     "FAN NO.1"
+    ],
+    [
+     "16",
+     "Multi fuse block MUSB",
+     "",
+     "J/B D-ALT"
+    ],
+    [
+     "17",
+     "Multi fuse block MUSB",
+     "",
+     "J/B P-ALT"
+    ],
+    [
+     "23",
+     "Fuse FLM",
+     "80A",
+     "R/B-B"
+    ],
+    [
+     "24",
+     "Fuse FLM",
+     "60A",
+     "P/I NO.1"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.1"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.2"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "50A",
+     "HTR"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS MTR NO.1"
+    ],
+    [
+     "30",
+     "Fuse FLM",
+     "50A",
+     "R/B-ALT"
+    ],
+    [
+     "31",
+     "Fuse FLM",
+     "80A",
+     "EPS"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "INJ"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "IGN"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "25A",
+     "DEICER"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "30A",
+     "D/C CUT NO.2"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "HORN"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "30A",
+     "P CON MTR"
+    ],
+    [
+     "49",
+     "Fuse MPF2",
+     "",
+     "WIPER NO.1"
+    ],
+    [
+     "50",
+     "Fuse MPF2",
+     "",
+     "WIPER NO.2"
+    ],
+    [
+     "51",
+     "Fuse MPF2",
+     "",
+     "VGRS"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "10A",
+     "R/B-IG1 NO.1"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "R/B-IG1 NO.2"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "7.5A",
+     "EPS-IG1"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "25A",
+     "WASHER"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "20A",
+     "D INJ NO.1"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "20A",
+     "VVT NO.2"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "20A",
+     "D INJ NO.2"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "20A",
+     "VVT NO.1"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "WIPER NO.2 Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "ST NO.1 Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "EDU NO.2 Relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "A/F HTR Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "P CON MTR Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "WIPER NO.1 Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "ABS MTR NO.1 Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "ABS MTR NO.2 Relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "EDU NO.1 Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "IG1 Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "DEICER Relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "HORN Relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "EFI-MAIN NO.1 Relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "IG2 Relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box (driver's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lc-500-2018-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "IG2 D NO.1"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "IG2 D NO.2"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "IG2 D NO.4"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "IG2 D NO.3"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "ACC D"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "P/OUTLET NO.1"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "STRG LOCK"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "HAZ"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "AM2"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "OBD"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "D/L"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "ECU-B D NO.1"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "DOOR D NO.2"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "ABS MAIN NO.2"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "ABS MAIN NO.1"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "FUEL OPN"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "DOOR D NO.1"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "IG1 D NO.5"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "IG1 D NO.4"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "IG1 D NO.2"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "IG1 D NO.1"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "IG1 D NO.3"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "STOP"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "ECU-B D NO.2"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "PANEL D"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "MPX-B D NO.1"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "METER"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "DOME D"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "30A",
+     "TI&TE"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "30A",
+     "S/HTR D"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "ABS MAIN NO.3"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "IG1 D NO.7"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Interior fuse box (passenger's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lc-500-2018-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "ACC P NO.1"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "IG1 P NO.3"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "ECU-B P NO.4"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "IG2 P NO.2"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "A/BAG"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "IG2 P NO.3"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "RADIO NO.2"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "IG1 P NO.2"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "MPX-B P NO.1"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "A/C NO.1"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "IG1 P NO.1"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "RADIO NO.1"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "DCM"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "A/C NO.2"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "SMART"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "PANEL P"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "ECU-B P NO.2"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "ECU-B P NO.1"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "IG1 P NO.6"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "DOME P"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "30A",
+     "DOOR P NO.1"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "30A",
+     "S/HTR P"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger Side J/B #2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lc-500-2018-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "P/SEAT P NO.1"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Luggage Room Relay No. 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lc-500-2018-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLM",
+     "80A",
+     "P/I NO.3"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "ICS"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "DC/DC S"
+    ],
+    [
+     "8",
+     "Fuse MPF2",
+     "",
+     "EPB NO.1"
+    ],
+    [
+     "10",
+     "Fuse MPF2",
+     "",
+     "AMP NO.1"
+    ],
+    [
+     "13",
+     "Fuse MPF2",
+     "",
+     "J/B P-B"
+    ],
+    [
+     "16",
+     "Fuse MPF2",
+     "",
+     "AMP NO.2"
+    ],
+    [
+     "18",
+     "Fuse MPF2",
+     "",
+     "J/B D-B"
+    ],
+    [
+     "19",
+     "Fuse FLM",
+     "120A",
+     "R/B RR NO.3"
+    ],
+    [
+     "20",
+     "Fuse FLM",
+     "80A",
+     "ARS"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "P CON MAIN 2"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "P CON MTR 2"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Luggage Room Relay No. 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lc-500-2018-5.webp",
+   "fuses": [
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "EFI-MAIN NO.2"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "LUG-B NO.3"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "CAPACITOR"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "LUG-B NO.4"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "LUG-B NO.1"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "LUG-B NO.2"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "LUG-IG1 NO.1"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "LUG-IG1 NO.2"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "AVS"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "20A",
+     "ARW"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "EFI NO.5"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "LUG-B NO.5"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "5A",
+     "LUG-B NO.6"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "7.5A",
+     "TRUNK OPN"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "5A",
+     "LUG-ACC NO.1"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "10A",
+     "LUG-IG1 NO.4"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "P CON MTR 2 Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "EFI-MAIN NO.2 Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "EFI NO.5 Relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "LUG-IG1 NO.1 Relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "LUG-IG1 NO.2 Relay"
+    ],
+    [
+     "R18",
+     "Relay",
+     "",
+     "LUG-ACC Relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "TRUNK OPN Relay"
+    ]
+   ]
+  }
+ ]
+}
