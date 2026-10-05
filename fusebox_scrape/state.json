@@ -1295,7 +1295,11 @@
   "lancia/thema": "no_data",
   "lancia/thesis": "no_data",
   "lancia/voyager": "no_data",
-  "lancia/ypsilon": "done"
+  "lancia/ypsilon": "done",
+  "land-rover/defender": "done",
+  "land-rover/discovery": "done",
+  "land-rover/discovery-sport": "done",
+  "land-rover/freelander": "done"
  },
  "last_updated": "2026-10-05T11:19:25.941600",
  "current_brand": "land-rover",
@@ -2558,5 +2562,18 @@
   "thesis",
   "voyager",
   "ypsilon"
+ ],
+ "landrover_model_slugs": [
+  "defender",
+  "discovery",
+  "discovery-sport",
+  "freelander",
+  "lr2",
+  "lr3",
+  "lr4",
+  "range-rover",
+  "range-rover-evoque",
+  "range-rover-sport",
+  "range-rover-velar"
  ]
 }
