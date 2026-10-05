@@ -1,0 +1,397 @@
+{
+ "make_slug": "mahindra",
+ "model_slug": "quanto",
+ "brand_db": "Mahindra",
+ "model_db_name": "Quanto (no DB model)",
+ "model_id": null,
+ "generation_name": "1st generation U203/U215",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/mahindra/quanto/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-quanto-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Power circuit"
+    ],
+    [
+     "F1",
+     "Fuse FLF/PAL 293",
+     "120A",
+     "Power circuit (variant)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Low beam headlight"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "High beam headlight"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "ABS/ESP"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Front fog light"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "30A",
+     "Rear blower"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main ECU supply"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "60A",
+     "Power circuit"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Power circuit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front fog light relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment (Version 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-quanto-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Anti-pinch window"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Condenser fan"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "DDAS, immobilizer, VCT"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Parking lights, rear fog light"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "MBFM CDL, wiper de-icer"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Interior lights (vanity, roof, glove box, cluster, map), audio"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Diagnostic / DRL / intermittent fog"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "MBFM hazard"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Rear fog light, fuel lid"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "MBFM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "ECU K46 / immobilizer"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Reverse switch, RPAS, cluster, VCT"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "ABS/ESP/ignition"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "AC clutch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "ORVM, fog lamp"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Front wiper"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Charging points"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window supply"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower supply"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "4WD ECU"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment (Version 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-quanto-2017-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Anti-pinch power window"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Diagnostic / DRL / fog lamp switch"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "DIS, immobilizer"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Parking lamp, rear fog lamp"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "MBFM / central door locking"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Interior lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "MBFM / hazard"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Rear defogger"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "MBFM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Front wiper motor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper motor"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Exterior rearview mirror"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Compressor clutch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "ABS/ESP"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Reverse / RPAS / instrument cluster"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "ECU K46 / immobilizer"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power windows"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Audio system"
+    ]
+   ]
+  }
+ ]
+}
