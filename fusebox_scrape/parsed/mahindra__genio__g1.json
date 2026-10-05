@@ -1,0 +1,282 @@
+{
+ "make_slug": "mahindra",
+ "model_slug": "genio",
+ "brand_db": "Mahindra",
+ "model_db_name": "Genio (no DB model)",
+ "model_id": null,
+ "generation_name": "1st generation",
+ "generation_code": "g1",
+ "year_start": 2010,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/mahindra/genio/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-genio-2021-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Alternator power circuit"
+    ],
+    [
+     "F1",
+     "Fuse FLF/PAL 293",
+     "120A",
+     "Alternator power circuit (variant)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Low beam headlight"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "High beam headlight"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "25A",
+     "ABS/ESP"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Front fog light"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "30A",
+     "Rear blower"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main ECU supply"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plug (variant)"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 2 power circuit"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 1 power circuit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front fog light relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-genio-2021-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Anti-pinch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "AC condenser fan"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "DIS / immobilizer / MVAC"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Parking lights, rear fog lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "MBFM central door locking"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Interior lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Diagnostics / cargo"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "MBFM hazard"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger, fuel lid opener"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "MBFM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "ECU K71 / immobilizer"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "ECU K28 (variant)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Reverse / RPAS / cluster / MVAC"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "ABS ignition"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Airbag ignition"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Audio system (key-in)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Outside rear view mirrors"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "ORVM / fog lamp (variant)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Front wipers"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter accessory"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power windows"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "AC blower motor"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "4WD ECU"
+    ]
+   ]
+  }
+ ]
+}
