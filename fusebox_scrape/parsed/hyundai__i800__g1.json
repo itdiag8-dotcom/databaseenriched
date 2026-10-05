@@ -1,0 +1,498 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "i800",
+ "brand_db": "Hyundai",
+ "model_db_name": "i800",
+ "model_id": 2214,
+ "generation_name": "1st generation (TQ)",
+ "generation_code": "g1",
+ "year_start": 2008,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/hyundai/i800/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i800-2019-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Driver's seat heating switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "BCM"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "High/low beam headlight relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Rear window wiper"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors: front A/C module, power mirrors, heated windows"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Start relay, burglar alarm relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamp"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Rear electric fan"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "Front wiper relay, front wiper motor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "Power window LH: main switch, left window switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Power window RH: main switch, right window switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Turn signal switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp: relay, switch, transmission range switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESP control unit, ESP switch (D4CB)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Power outlet"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Fuel filler flap relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Hazard: alarm relay, emergency switch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Module: cluster, BCM, immobilizer (D4BH), A/C relay (D4BH), alternator resistor"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "DCU sensor"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator: instrument cluster"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Front fog lamp relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Audio 1 (power connector)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "30A",
+     "IOD"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter, front socket"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Audio 2: audio, clock, BCM, mirror switch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Safety power window"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp switch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Parking sensors"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Door lock/unlock relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Memory"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Interior lights"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Heater: fan relays, A/C modules, condenser fan relay, EC mirror, thermo switch, PTC relay (D4CB), EGR valve (D4BH)"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Rear sunroof"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "Front sunroof"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-i800-2019-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "150A",
+     "Engine room fuse boxes, alternator"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch, starter relay"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Passenger compartment fuses 16, 24, 31, 33, 34"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger compartment fuses 18, 19, 27, check connector, power window relay"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Passenger compartment fuses 28, 31"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control relay"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "20A",
+     "Engine control relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Horn relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Fuel-fired heater control unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Headlight relay, main beam"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Front blower relay"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster relay"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 1 / rear fan"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear blower relay"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 2"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Condenser fan relay 1"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel filter heater relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Air-conditioning relay"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Left headlight, rear left combination light, left license plate light"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Right headlight, rear right combination light, right license plate light"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Left headlight, left headlight leveling"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Right headlight, leveling actuators"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "A/C relay, brake light switch, condenser fan relay, oxygen sensor, PTC heater relay 1"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Camshaft sensor, glow plug relay, EGR actuator, VGT/wastegate solenoids, intake shut-off valve, immobilizer, idle actuator"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil (G4KG)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit ECU1 (D4CB)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit ECU2 (D4CB)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Engine control relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlight main beam relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Tail light relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlight dipped beam relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Air-conditioning relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Condenser fan 1 relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fuel filter heater relay"
+    ]
+   ]
+  }
+ ]
+}
