@@ -1,0 +1,606 @@
+{
+ "make_slug": "kia",
+ "model_slug": "sedona",
+ "brand_db": "Kia",
+ "model_db_name": "Sedona",
+ "model_id": 2470,
+ "generation_name": "3rd generation YP",
+ "generation_code": "g3",
+ "year_start": 2015,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/kia/sedona/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sedona-2021-genid-g3-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission Unit"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger Manual Switch"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "15A",
+     "EPB Unit"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "15A",
+     "EPB Unit"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "H/Lamp HI Solenoid"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "30A",
+     "AC Inverter Unit"
+    ],
+    [
+     "11",
+     "Fuse FMM/MCase",
+     "40A",
+     "ESC Module"
+    ],
+    [
+     "12",
+     "Fuse FMM/MCase",
+     "40A",
+     "ESC Module, Multipurpose Check Connector"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Start Relay; with Smart Key: PDM3 Relay; w/o Smart Key: Ignition Switch"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "With Smart Key: PDM1/2 Relay; w/o Smart Key: Ignition Switch"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "Smart Junction Block (Leak Current Autocut Device, fuses P/SEAT DRV, P/WDW RH, Seat Heater Rear, Interior Lamp, Multimedia, Memory)"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power Tail Gate Module"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "50A",
+     "Smart Junction Block (IPS Control Module, IPS3-6, fuse MODULE7)"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "50A",
+     "Smart Junction Block (IPS Control Module, IPS1, IPS2)"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power Sliding Door Module"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power Sliding Door Module"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "50A",
+     "Smart Junction Block (Motor Driver, Power Outlet Relay, fuses S/ROOF FRT/RR, BRAKE SWITCH, SMART KEY1/3, AMP), Power Outlet1/2"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer Power Outlet"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower Relay"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "50A",
+     "Smart Junction Block (IPS Control Module, fuses P/WDW LH, S/HEATER FRT, DR LOCK)"
+    ],
+    [
+     "29",
+     "Fuse FMM/MCase",
+     "40A",
+     "Blower RR Relay"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Battery Sensor"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "15A",
+     "B/Alarm Horn Relay"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel Lid Relay"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "15A",
+     "Deicer Relay"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "DRL Relay"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Fuel Pump Relay"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "15A",
+     "Horn Relay"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "25A",
+     "Front Wiper (Low) Relay"
+    ],
+    [
+     "39",
+     "Fuse FMM/MCase",
+     "30A",
+     "Engine Control Relay, fuse ECU1"
+    ],
+    [
+     "41",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear Heated Relay"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "10A",
+     "Transmission Range Switch"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "10A",
+     "MDPS Unit (Rack)"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "10A",
+     "Audio, A/V & Navigation Head Unit, Rear Combination Lamp (IN) LH/RH, Electro Chromic Mirror"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "7.5A",
+     "Rear A/C Control Switch, A/C Control Module"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "15A",
+     "PCM"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "7.5A",
+     "ESC Module, Steering Angle Sensor"
+    ],
+    [
+     "56",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel Pump Relay"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "20A",
+     "ECU Unit"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "15A",
+     "Oxygen Sensor #1-#4, PCM, E/R Junction Box (Cooling Fan1 Relay)"
+    ],
+    [
+     "59",
+     "Fuse MICRO2",
+     "10A",
+     "PCM, Canister Close Valve, Variable Intake Solenoid Valves, Purge Control Solenoid Valve, Oil Control Valves (Intake/Exhaust)"
+    ],
+    [
+     "60",
+     "Fuse MICRO2",
+     "10A",
+     "PCM, Injector"
+    ],
+    [
+     "61",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition Coil #1-#6, Condensor #1/#2"
+    ],
+    [
+     "62",
+     "Fuse MICRO2",
+     "20A",
+     "ECU Unit"
+    ],
+    [
+     "68",
+     "Multi fuse block MUSB",
+     "",
+     "Cooling Fan Unit"
+    ],
+    [
+     "72",
+     "Other",
+     "",
+     "MDPS Unit (Rack)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling Fan1 Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PDM1 Relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "PDM2 Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "PDM3 Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling Fan2 Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Blower Relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "PTC Heater 1 Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "PTC Heater 2 Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "PTC Heater 3 Relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sedona-2021-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "PCM, Smart Key Control Module/Immobilizer Module"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "7.5A",
+     "Head Lamp Leveling Actuators, Multipurpose Check Connector, Bezel Switch, Electro Chromic, A/V & Navigation, A/C & Heater Control Modules, Passenger Ventilation Seat Module, Driver IMS, Rear Seat Heater Module, Auto Head Leveling Module, ATM Shift Lever Illumination"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "LDWS Module, Stop Lamp, Front/Rear Parking Assist Sensors & Buzzer, Blind Spot Detection Radar LH/RH, FCA"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "7.5A",
+     "Rear Seat Heater Control Module, AC Inverter Unit, Heater Control Module, Passenger Ventilation Seat Module, Portable Lamp, Around View Unit"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "7.5A",
+     "BCM, Smart Key Control Module"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "15A",
+     "Rear Wiper Motor, Wiper RR Relay"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument Cluster"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "DBL Unit"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C Control Module, Ionizer, Rear A/C Control Switch, PCB Block (Blower Relay, Blower RR Relay)"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "Data Link Connector, Instrument Cluster, Digital Clock, A/C Control Module, BCM, Power Sliding Door Module, Driver Door Module, Passenger Safety Power Window Switch, Driver IMS Control Module"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "Start/Stop Button Switch, Immobilizer Module"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "20A",
+     "Console Power Outlet"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument Cluster, Digital Clock, A/C Control Module (Auto)"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "15A",
+     "Multifunction Switch, BCM"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "Clock Spring (Steering Wheel Switch)"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "Clock Spring (Steering Wheel Switch)"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "25A",
+     "Smart Key Control Module"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "20A",
+     "Rear Power Outlet"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "7.5A",
+     "BCM, Driver Door Module, Passenger Door Module"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "USB Charger #1/#2, A/V & Navigation Head Unit"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "20A",
+     "Front Sunroof Motor"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "25A",
+     "AMP"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "PCB Block (fuses ABS3, TCU, MDPS, CRUISE)"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "7.5A",
+     "Smart Key Control Module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "Portable Lamp, Overhead Console Lamp, Cargo Lamp, Front Vanity Lamp Switches, Glove Box Lamp, Key Warning Switch"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "7.5A",
+     "With IMMO/Smart Key: Transmission Range Switch; w/o IMMO: PCB Block (B/Alarm Relay)"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "25A",
+     "Rear Sunroof Motor"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "20A",
+     "Tail Gate Relay, Door Lock/Unlock Relay, Sliding Door Lock/Unlock Relay"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Audio, A/V & Navigation Head Unit, Around View Unit, BCM, Overhead Console Lamp, MTS Module, Digital Clock, USB Chargers"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "15A",
+     "SRS Control Module, Passenger Occupant Detection Sensor"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C Control Module, Blower Resistor (Manual)"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "Passenger Power Outside Mirror, A/C Control Module"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "7.5A",
+     "Smart Key Control Module, Stop Lamp Switch"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "25A",
+     "Rear Seat Heater Control Module"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "25A",
+     "Driver Safety Window Module, Driver Door Module, Rear Power Window Switch/Safety Modules LH"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "7.5A",
+     "Key Inter Lock Solenoid, Fuel Lid Switch, ATM Lever Switch, Rear A/C Control Switch, Electro Chromic Mirror"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "20A",
+     "Front Power Outlet"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "30A",
+     "Driver Manual Switch, Driver Lumbar Support Switch, Driver IMS Control Module"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "25A",
+     "Passenger Safety Window Module & Motor, Passenger Door Module, Rear Power Window Switch/Safety Modules RH"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "20A",
+     "Heater Control Module, Passenger Ventilation Seat Control Module"
+    ]
+   ]
+  }
+ ]
+}

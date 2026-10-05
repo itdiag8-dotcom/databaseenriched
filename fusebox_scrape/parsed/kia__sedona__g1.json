@@ -1,0 +1,691 @@
+{
+ "make_slug": "kia",
+ "model_slug": "sedona",
+ "brand_db": "Kia",
+ "model_db_name": "Sedona",
+ "model_id": 2470,
+ "generation_name": "1st generation KV-II",
+ "generation_code": "g1",
+ "year_start": 1998,
+ "year_end": 2005,
+ "trim_label": "KV-II",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/kia/sedona/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sedona-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "(W/SHD) Defroster"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(S/ROOF) Sunroof"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(START) Starting system, PCM, ACC"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Turn & Hazard flasher unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "(P/SCK (FRT)) Front Power Socket"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "(CIGAR) Cigar lighter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(OBD-II) Check connector"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "(WIPER (FRT)) Wiper & Washer, Headlight, Front heater & aircon, Cooling system, Defroster"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "(P/SCK (RR)) Rear power socket"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(WIPER (RR)) Wiper & Washer, ETWIS, Heater & Aircon, Trip computer, Sunroof"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(ACC) Power mirror, Cigar lighter, Power Socket, Clock, Keyless entry, Audio"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(F/FOG) Front fog lamp"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(AT) PCM (Powertrain control system)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(ROOM LAMP) Instrument cluster, ETWIS, Headlight, DRL, Keyless entry, Room lamp, Sunvisor lamp, Clock"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "(STOP LAMP) Stop light"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(TURN LAMP) Turn & Hazard flasher unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG) Airbag"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(METER) PCM, ACC, Trip computer, Stop light, DRL, ETWIS, Instrument cluster, Front heater & aircon"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(ENGINE) PCM, Cooling, Speed sensor, Diagnosis connector, ACC, Instrument cluster, ABS"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine fuse panel (Ver 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sedona-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "(MAIN) Main"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(HORN) Horn"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "(ABS2) ABS"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(P/TRN) PCM, Main relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(INJECTOR) PCM"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) Audio"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(HEAD (HI)) Headlight"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(ILLUMI) Key hole illumination"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "(ABS 2) ABS [Some models]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(O2 (DN)) PCM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(HEAD (LO)) Headlight"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(EXT) DRL, License lamp, Tail lamp, Position lamp, Turn lamp"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "(P/W (RH)) Power window"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(O2 (UP)) PCM"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "(DEF) Defroster"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(FUEL) Fuel pump relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "(P/W (LH)) Power window"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(ECU) PCM, Cooling"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(MEMORY) Front heater & aircon, ETWIS, Keyless entry system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(F/FOG) Front Fog Lamps [Some models]"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 2) Ignition switch"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "30A",
+     "(BTN 3) Turn & Hazard flasher unit, Power door lock"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS 1) ABS"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "(R.HTR) Rear heater & aircon"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "(C/FAN 1) Cooling system"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "(F/BLW) Front heater & aircon"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "(C/FAN 2) Cooling system"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BTN 1) Cigar lighter, Power socket"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 1) Ignition switch"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BTN 2) Power seat, PCM"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Defroster Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Front Fog Lamps Relay [Some models]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "TNS Relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Head (Hi) Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Head (Lo) Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "C/Fan (H2) Relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Start Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Main Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Front Blower Relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Power Window Relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "C/Fan (H1) Relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "A/Con Relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "C/Fan (Lo) Relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine fuse panel (Ver 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sedona-2005-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "(MAIN) Main"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(HORN) Horn"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(P/TRN) PCM, Main relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(INJECTOR) PCM"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) Audio"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(HEAD (HI)) Headlight"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(ILLUMI) Key hole illumination"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "(ABS 2) ABS [Some models]"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(O2 (DN)) PCM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(HEAD (LO)) Headlight"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(EXT) DRL, License lamp, Tail lamp, Position lamp, Turn lamp"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "(P/W (RH)) Power window"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(O2 (UP)) PCM"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "(DEF) Defroster"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(FUEL) Fuel pump relay"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "(P/W (LH)) Power window"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(ECU) PCM, Cooling"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(MEMORY) Front heater & aircon, ETWIS, Keyless entry system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(F/FOG) Front Fog Lamps [Some models]"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 2) Ignition switch"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BTN 3) Turn & Hazard flasher unit, Power door lock"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS 1) ABS"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "(R.HTR) Rear heater & aircon"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "20A",
+     "(A/CON) Air conditioning"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "(F/BLW) Front heater & aircon"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "40A",
+     "(C/FAN) Cooling system"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BTN 1) Cigar lighter, Power socket"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 1) Ignition switch"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BTN 2) Power seat, PCM"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Defroster Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Front Fog Lamps Relay [Some models]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "TNS Relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Head (Hi) Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Head (Lo) Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Horn Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "C/Fan (H2) Relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Start Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Main Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Front Blower Relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Power Window Relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "C/Fan 2 Relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "C/Fan 1 Relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "CD/Fan Relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "A/Con Relay"
+    ]
+   ]
+  }
+ ]
+}
