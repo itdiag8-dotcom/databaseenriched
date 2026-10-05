@@ -1,0 +1,683 @@
+{
+ "make_slug": "infiniti",
+ "model_slug": "qx80",
+ "brand_db": "Infiniti",
+ "model_db_name": "QX80",
+ "model_id": 2313,
+ "generation_name": "2nd generation (Z62)",
+ "generation_code": "g2",
+ "year_start": 2013,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/infiniti/qx80/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box No.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx80-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Rear window defogger"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Rear window defogger"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "EGI (engine control)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Steering lock (ESCL)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Position lamp right"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Position lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "A/C magnetic clutch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Right headlight high beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Left headlight high beam"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Left headlight low beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Right headlight low beam"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Automatic transmission controller"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Backup lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock braking system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Ignition relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Electronic throttle control"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box No.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx80-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Accelerator pedal actuator"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Transfer control unit"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "AV control unit, front display, video distributor, headrest displays LH/RH"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Vehicle security horn relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "IPDM"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "F",
+     "Fuse MPF2",
+     "",
+     "Electric brake"
+    ],
+    [
+     "G",
+     "Fuse MPF2",
+     "",
+     "Ignition relay No.1"
+    ],
+    [
+     "H",
+     "Fuse MPF2",
+     "",
+     "IPDM"
+    ],
+    [
+     "I",
+     "Fuse FMX/JCase",
+     "30A",
+     "Air compressor relay"
+    ],
+    [
+     "J",
+     "Fuse FMX/JCase",
+     "30A",
+     "Transfer control unit"
+    ],
+    [
+     "K",
+     "Fuse MPF2",
+     "",
+     "Body control module (BCM)"
+    ],
+    [
+     "L",
+     "Fuse MPF2",
+     "",
+     "ABS"
+    ],
+    [
+     "M",
+     "Fuse MPF2",
+     "",
+     "ABS"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment additional fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx80-2024-genid-g2-2.webp",
+   "fuses": [
+    [
+     "P",
+     "Fuse FMX/JCase",
+     "50A",
+     "Ignition relay"
+    ],
+    [
+     "O",
+     "Fuse FMX/JCase",
+     "50A",
+     "VVEL actuator motor relay"
+    ],
+    [
+     "R",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuse"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "15A",
+     "Wiper deicer relay"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "10A",
+     "Heated steering wheel relay"
+    ],
+    [
+     "77",
+     "Fuse MINI",
+     "30A",
+     "Pre-crash seat belt control unit"
+    ],
+    [
+     "S",
+     "Fuse FMX/JCase",
+     "30A",
+     "Second row seats (power unlock/up/down relays LH/RH)"
+    ],
+    [
+     "79",
+     "Fuse MINI",
+     "30A",
+     "Inverter unit"
+    ],
+    [
+     "80",
+     "Fuse MINI",
+     "10A",
+     "Wiper deicer relay, door mirror"
+    ],
+    [
+     "T",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic back door control module"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx80-2024-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Combination switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Airbag diagnosis sensor unit, occupant classification unit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ICC/ASCD brake switches, stop lamp switch, headlamp aiming motors, DLC, steering angle sensor, meter, heated steering switch, tire pressure unit, power steering unit, CAN gateway, triple switch, AFS unit, AC 120V outlet switch, climate seat relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Rear A/C control, around view monitor, A/C amplifier, ionizer, AV unit, rear A/C relay, odor sensor, automatic back door module, auto-dimming mirror"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "BOSE amplifier"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "DLC, clock, second seat power unlock switches, Intelligent Key buzzer, pre-crash seat belt unit, light/rain sensor, auto-dimming mirror"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch, BCM, ICC brake hold relay, electric brake"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "BOSE amplifier"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Around view monitor, A/C amplifier, automatic back door module, reclining/fold-down switches, back door warning buzzer"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Push-button ignition switch, seat memory switch, BCM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Accessory relay No.2"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "4WD switch, snow/tow mode/VDC off switch assembly"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Second heated seat switches LH/RH"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Front heated seat switches LH/RH"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Rear blower relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Around view monitor, A/C amplifier, multifunction switch, AV unit, front display, video distributor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Front power socket, luggage room power socket, accessory relay No.2"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Front blower motor"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Front blower motor"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Passenger compartment relays box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx80-2024-genid-g2-4.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Ignition No.2"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Accessory"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Additional fuses relay box No.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx80-2024-genid-g2-5.webp",
+   "fuses": [
+    [
+     "71",
+     "Fuse MINI",
+     "30A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "10A",
+     "Electrically controlled cooling fan coupling"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump control module"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "15A",
+     "Injector relay"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "10A",
+     "Daytime running light relay"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "10A",
+     "Daytime running light relay"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "10A",
+     "Daytime running light relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Remote engine start"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Back-up lamp"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Heated steering wheel"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "ICC brake hold"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Wiper deicer"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Rear A/C"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Stop lamp"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Air compressor"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "VVEL actuator motor"
+    ]
+   ]
+  },
+  {
+   "index": 6,
+   "name": "Additional fuses relay box No.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx80-2024-genid-g2-6.webp",
+   "fuses": [
+    [
+     "81",
+     "Fuse MINI",
+     "30A",
+     "Pre-crash seat belt control unit"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "15A",
+     "Climate controlled seat relay"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "15A",
+     "Climate controlled seat relay left"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "15A",
+     "Climate controlled seat relay right"
+    ],
+    [
+     "84",
+     "Fuse MINI",
+     "10A",
+     "Trailer tail lamp relay"
+    ],
+    [
+     "85",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp relay"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "15A",
+     "Trailer turn signal lamp relays LH/RH"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Climate controlled seat"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Trailer turn signal lamp (RH)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamp washer"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Trailer turn signal lamp (LH)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Trailer tail lamp"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Trailer power"
+    ],
+    [
+     "U",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp washer relay"
+    ],
+    [
+     "V",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer power relay"
+    ]
+   ]
+  }
+ ]
+}
