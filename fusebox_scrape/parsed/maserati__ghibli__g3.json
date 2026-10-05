@@ -1,0 +1,517 @@
+{
+ "make_slug": "maserati",
+ "model_slug": "ghibli",
+ "brand_db": "Maserati",
+ "model_db_name": "Ghibli",
+ "model_id": 2712,
+ "generation_name": "3rd generation M157",
+ "generation_code": "g3",
+ "year_start": 2013,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/maserati/ghibli/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Integrated power module",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-ghibli-2020-genid-g3-0.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter motor relay input"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS-ESP pump feed"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "AWD module relay input (AWD only)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS-ESP valve feed"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Horn relay input"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "AC compressor feed relay input"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Alarm siren"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Washer heated nozzles relay input"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Cooling fan and cooling oil pump relay enable"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper motor relay output"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "20A",
+     "LH low beam relay input"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "RH low beam relay input"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Drive assist system module (DASM)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "PCM module, starter solenoid relay coil"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "ORC airbag module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "ABS-ESP module"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "SSCU, AWD module, EPS, AQS"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Headlights - AFLS"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Primary load to engine harness LH"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Primary load to engine harness RH"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "30A",
+     "PCM module primary load"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Engine secondary load"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Lambda sensor"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "7.5A",
+     "Flow meters, tank leakage, canister, exhaust bypass valve"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Brake pedal switch - TCM module"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "15A",
+     "+30 PCM module"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "30A",
+     "Fuel pump relay input"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "5A",
+     "Starter solenoid signal for PCM, voltage stabilizer"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "AWD module (AWD only)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear power distribution center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-ghibli-2020-genid-g3-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "BCM module"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "BCM module"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "BCM module"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "BCM module"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "20A",
+     "Sunroof module"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver door module"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Start&Stop: voltage stabilizer, dashboard"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Start&Stop: voltage stabilizer, body"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Stereo amplifier unit (High Premium)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "20A",
+     "Stereo amplifier unit (Premium, 1)"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC front blower relay coil"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defrost relay coil"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear LH door module"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear RH door module"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "Stereo amplifier unit (Premium, 2)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Fuel door relay, RF hub module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "ITM module, ceiling lights, rain/light sensor"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "25A",
+     "LH front seat movement"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Soft door close latch"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Transmission lever, TPMS, Navtrak, hands-free access"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "25A",
+     "Power liftgate/boot lid module"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "25A",
+     "RH front seat movement"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "20A",
+     "Trunk power outlet"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Passenger seat heater module"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "5A",
+     "Rear camera"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "5A",
+     "Navtrak"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "5A",
+     "Surround view"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Interior temperature/humidity sensor, internal mirror, HALF"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "25A",
+     "Rear seat and steering wheel heater module"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "7.5A",
+     "Blind spot module"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "7.5A",
+     "Front HVAC blower coil relay"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "SDC module, transmission lever, ASBM, rear tunnel switch"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "10A",
+     "SDC module"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "25A",
+     "Front console power outlet and cigar lighter"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "7.5A",
+     "Front HVAC module"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "10A",
+     "Wi-Fi"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "Intelligent battery sensor"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "10A",
+     "Wi-Fi"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "7.5A",
+     "USB charge outlet, sunroof"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "20A",
+     "Rear central console power outlet"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "25A",
+     "Rear console power outlet and cigar lighter"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "10A",
+     "Front HVAC module, parking aid module"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse box under the dashboard",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-ghibli-2020-genid-g3-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster module, CSS, SGW, DSRC (Japan)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Cluster module, clock"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "DSRC and DTV system (Japan)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "5A",
+     "E-call"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "7.5A",
+     "Security gateway"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "25A",
+     "Radio"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Column software module, CSS, USB auxiliary port"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Start&Stop switch, diagnostic outlet"
+    ]
+   ]
+  }
+ ]
+}
