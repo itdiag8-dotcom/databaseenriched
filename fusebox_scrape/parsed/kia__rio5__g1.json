@@ -1,0 +1,662 @@
+{
+ "make_slug": "kia",
+ "model_slug": "rio5",
+ "brand_db": "Kia",
+ "model_db_name": "Rio5",
+ "model_id": 6756,
+ "generation_name": "1st generation JB",
+ "generation_code": "g1",
+ "year_start": 2006,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/kia/rio5/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver-side knee bolster",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-rio5-2011-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "25A",
+     "Power window (left)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Outside rearview mirror heater"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Taillight (left)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Taillight (right)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Hazard warning light"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Turn signal light"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Air bag warning"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Start motor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "25A",
+     "Power window (right)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Ignition"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "Rear window defroster"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Air bag"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Automatic transaxle control"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Sensors"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Cluster, ETACS, A/C, Clock, Room lamp"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "Cigar lighter"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Outside rearview mirror folding"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Seat warmer"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "Amplifier"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Front fog light"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Cluster"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Headlight (left)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "25A",
+     "Front wiper"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Blower"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Headlight (right)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Stop light"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Central door lock"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Back-up light"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment [Type 1-1]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-rio5-2011-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Injector"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Sensors"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "50A",
+     "Alternator, Battery"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control unit"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Condenser fan"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Alternator, Battery"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "21",
+     "Fuse MIDI",
+     "80A",
+     "Power steering"
+    ],
+    [
+     "22",
+     "Fuse MIDI",
+     "125A",
+     "Alternator"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel filter heater relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start motor relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Condenser fan relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Condenser fan relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment (Type 1-2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-rio5-2011-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FLD/PAL 283",
+     "125A",
+     "Alternator"
+    ],
+    [
+     "F2",
+     "Fuse FLD/PAL 283",
+     "80A",
+     "Power steering"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "50A",
+     "Alternator, Battery"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control unit"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Condenser fan"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Alternator, Battery"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Engine control unit"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Injector"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Sensors"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel filter heater relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start motor relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Condenser fan relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Condenser fan relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment [Type 2 - Diesel Only]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-rio5-2011-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "PTC heater 1 [Diesel]"
+    ],
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "Glow plug [Diesel]"
+    ],
+    [
+     "3",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "PTC heater 2 [Diesel]"
+    ],
+    [
+     "4",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "Fuel filter [Diesel]"
+    ],
+    [
+     "5",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "PTC heater 3 [Diesel]"
+    ]
+   ]
+  }
+ ]
+}

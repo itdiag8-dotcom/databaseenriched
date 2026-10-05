@@ -1,0 +1,516 @@
+{
+ "make_slug": "kia",
+ "model_slug": "rondo",
+ "brand_db": "Kia",
+ "model_db_name": "Rondo",
+ "model_id": 2469,
+ "generation_name": "3rd generation RP",
+ "generation_code": "g3",
+ "year_start": 2014,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/kia/rondo/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-rondo-2020-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "(Horn Relay) Horn"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "PCM (A/T), ECM (M/T)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "B/Alarm Horn Relay, Horn Relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "G4NA: Injectors #1-#4"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "G4FD/G4NC: PCM (A/T), ECM (M/T)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Ignition Coils #1-#4, Condenser"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Oil Control Valves #1/#2, Camshaft Position Sensors (G4NA/G4NC), Oil Level Sensor, E/R Junction Block (RLY.1, RLY.5)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "PCM (A/T), ECM (M/T)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Oxygen Sensors (Up/Down), Variable Intake Solenoid Valve, Purge Control Solenoid Valve"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "RLY.8 (Head Lamp Washer Relay)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Stop Lamp Switch, Smart Key Control Module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "RLY.7 (Power Outlet Relay)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "RLY.12 (Fuel Pump Relay)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "RLY.4 (Deicer Relay)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Stop Signal Electronic Module"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "Smart Junction Block (Leak Current Autocut Device; fuses F30/F32/F33/F39)"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "40A",
+     "RLY.9 (PDM 1 ACC Relay), RLY.11 (PDM 2 IG1 Relay), Ignition Switch"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "EMS Block (fuses F32/F33/F34; Engine Control Relay)"
+    ],
+    [
+     "22",
+     "Multi fuse block MUSB",
+     "",
+     "(MDPS Unit) Motor Driven Power Steering"
+    ],
+    [
+     "23",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block (IPS 1-4; fuses F2/F9/F22/F29/F36)"
+    ],
+    [
+     "24",
+     "Multi fuse block MUSB",
+     "",
+     "RLY.10 (Start Relay), Ignition Switch (w/o Button Start), RLY.3 (PDM 3 IG2 Relay, w/ Button Start)"
+    ],
+    [
+     "25",
+     "Multi fuse block MUSB",
+     "",
+     "ABS/ESC Control Module"
+    ],
+    [
+     "26",
+     "Multi fuse block MUSB",
+     "",
+     "RLY.6 (Rear Defogger Relay)"
+    ],
+    [
+     "27",
+     "Multi fuse block MUSB",
+     "",
+     "RLY.2 (Blower Relay)"
+    ],
+    [
+     "28",
+     "Multi fuse block MUSB",
+     "",
+     "ABS/ESC Control Module, Multipurpose Check Connector"
+    ],
+    [
+     "29",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block (IPS 5-8; fuses F31/F37/F38)"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "50A",
+     "E/R Junction Block (fuses F29/F30/F31)"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric Parking Brake Module"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "50A",
+     "RLY.1 (C/Fan 1 Relay), RLY.5 (C/Fan 2 Relay)"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric Parking Brake Module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "[M/T] Back-Up Lamp Switch; [A/T] Rear Combination Lamps (In), Electrochromic Mirror, A/V & Navigation, Audio, Cluster"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "25A",
+     "Front Wiper Motor LH"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "25A",
+     "Front Wiper Motor RH"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "(ECM/PCM) Engine control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(C/FAN 1) Electric cooling fan"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(BLOWER) A/C blower motor"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PDM 3 (IG2)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(DEICER) Deicer"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(RR HTD) Rear window defogger"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(POWER OUTLET 2) Auxiliary power outlet"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(H/LAMP WASHER) Headlight washer"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "PDM 1 (ACC)"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(START) Starter"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "PDM 2 (IG1)"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(C/FAN 2) Electric cooling fan"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(F/PUMP) Fuel pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-rondo-2020-genid-g3-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Start/Stop Button Switch, Immobilizer Module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "DC-DC Converter (Audio), A/V & Navigation Head Unit, Audio"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "Seat Warmer Modules, DC-DC Converter (AMP), Auto Headlamp Leveling Module/Actuators/Switch, Rain Sensor, A/C Module, Electrochromic Mirror, A/V & Navigation"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument Cluster, DC-DC Converter (Audio)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "MDPS Unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "ICM Relay Box (B/Alarm Relay), Ignition Lock Switch, Transaxle Range Switch (A/T); [M/T] E/R Junction Block (RLY.10), ECM/PCM, Smart Key Module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Power Outside Mirrors, Foot Lamps, Key Ill. & Door Warning Switch, Overhead Console/Room/Vanity/Rear Personal/Luggage/Portable Lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Smart Key Control Module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "RF Receiver"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Smart Key Module, Immobilizer, Vehicle Speed Sensor, ECM/PCM, Air Flow Sensor (D4FD), Glow Relay Unit"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESC Control Module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "TCM (D4FD), Transaxle Range Switch (A/T, DCT), E/R Junction Block fuse F27 (M/T)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "BCM"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "A/C Control Module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Cluster, Auto Light & Photo Sensor, TPMS, Ultrasonic Intrusion Sensor, A/C Module, DLC, Siren Module, Clock, BCM"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "Smart Parking Assist Module, Stop Lamp Switch, TPMS, Clutch Sensor, Parking Assist Sensors/Buzzer, Crash Pad Switch, Sport Mode Switch, Multipurpose Check Connector, EPB Module, LDWS, Blind Spot Radars"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Rear Power Outlet, Cigarette Lighter, Front Power Outlet"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "A/V & Navigation, DC-DC Converters, Audio, Clock, Smart Key Module, BCM, E/R Junction Block (RLY.7), AMP, Mirror Switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "SBR Control Module, Seat Belt Reminder IND, Cluster, SRS Module, A/C Module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "Rear Safety Window Module LH, Safety Window Modules, Power Window LH Relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "A/C Module, ECM/PCM, Power Outside Mirrors"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Portable Lamp, Rear Seat Warmer Module, Panorama Sunroof, CCS Modules, Seat Warmer Modules, E/R Junction Block (RLY.8)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "BCM, Smart Key Control Module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Steering Wheel Heater"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Rear Seat Warmer Module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "25A",
+     "DC-DC Converter (AMP), AMP"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Panorama Sunroof Assembly"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "CCS Control Modules, Seat Warmer Control Modules"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "ICM Relay Box (Turn Signal Sound/Folding Relays), Key Solenoid, Sport Mode Switch, Console Switches, Rear Window Switches"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "Diesel Block (RLY.2/3), E/R Junction Block (RLY.2), A/C Module, Cluster Ionizer"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Rear Wiper Motor, ICM Relay Box (Rear Wiper Relay), Multifunction Switch"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "25A",
+     "Rear Safety Window Module RH, Safety Window Modules, Power Window RH Relay"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "30A",
+     "Driver Seat Manual Switch"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "ICM Relay Box (Rear Fog Lamp Relay)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Tailgate Open Relay, Door Lock/Unlock Relay, ICM Relay Box (Dead Lock Relay)"
+    ]
+   ]
+  }
+ ]
+}
