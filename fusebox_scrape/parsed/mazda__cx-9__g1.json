@@ -1,0 +1,397 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "cx-9",
+ "brand_db": "Mazda",
+ "model_db_name": "Cx-9",
+ "model_id": 2783,
+ "generation_name": "1st generation TB",
+ "generation_code": "g1",
+ "year_start": 2006,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/mazda/cx-9/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse block (engine compartment)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-cx-9-2015-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "150A",
+     "MAIN - protection of all circuits"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "ENGINE - engine control system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "H/L R - headlight RH (halogen)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "H/L HI RY - various circuits (halogen)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "R HEATER - heater"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "P.SEAT R - power seat RH"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "HEATER"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "IGKEY 2 - various circuits"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "FAN 1 - cooling fan (variant)"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "FAN 1 - cooling fan (variant)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "P.SEAT L - power seat LH"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "DEFOG - rear window defroster"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "50A",
+     "BTN - various circuits"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "FUEL PUMP"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "IGKEY 1 - various circuits"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "FOG - fog lights"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "ABS (SOL)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "D/L - power door locks"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "ROOM - overhead light"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "OUTLET CTR - accessory socket (center)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "OUTLET RR - accessory socket (rear)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "AC PWR - moonroof, DC/AC inverter"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "S.WARM - seat warmer"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "A/C MAG - air conditioner"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "BOSE audio system"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "FAN 2 - cooling fan (variant)"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "FAN 2 - cooling fan (variant)"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "25A",
+     "IG COIL - engine control system"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "H/L L - headlight LH (xenon)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "H/L LOW - headlight low beam LH (halogen)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "H/L LOW R - headlight low beam RH (halogen)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "H/L HIGH - headlight high beam (halogen)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "HAZARD - hazard flashers, turn signals"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "ENG +B - engine control system"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "HORN"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "STOP - brake lights"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "EGI INJ - engine control system"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "ENG BAR - engine control system"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "ENG BAR 2 - engine control system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relay box (engine compartment)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-cx-9-2015-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Engine control system"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Fuse block (glove box)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-cx-9-2015-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "OUTLET FR - accessory socket (front)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "MIRROR - power control mirror"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "C/U-IG1 - various circuits"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "METER - instrument cluster"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "SAS - ABS, airbag"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "ENG.IGA - engine control system"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "STA - engine control system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "A/C - air conditioner"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "R.WIPER - rear window wiper"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "P.LIFT GATE - power liftgate"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "SUNROOF - moonroof"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "AUDIO - audio system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "M.DEF - mirror defroster"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "25A",
+     "P/W - power windows (passenger side)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "TAIL - taillights, parking lights, license plate, side markers"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "ILLUMI - instrument panel illumination"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "INJ - engine control system"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "WIPER - windshield wiper and washer"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "P.WIND - power windows (driver side)"
+    ]
+   ]
+  }
+ ]
+}
