@@ -1,0 +1,613 @@
+{
+ "make_slug": "lincoln",
+ "model_slug": "ls",
+ "brand_db": "Lincoln",
+ "model_db_name": "LS",
+ "model_id": 2607,
+ "generation_name": "1st generation DEW98",
+ "generation_code": "g1",
+ "year_start": 2000,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/lincoln/ls/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-ls-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Starter relay coil"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Radio"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "ABS/TCS/AdvanceTrac"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Cluster, PCM relay, fuel pump relay, REM"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Restraints control module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "OBD II"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "DDM, DSM, anti-theft LED, mirror switch, park brake switch, PCM"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Right front turn/sidemarker/park lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Right front low beam/HID"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Left front turn/sidemarker/park lamps"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Left front high beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Electrochromic mirror"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Cluster"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "DATC"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "O/D cancel, ABS/traction-assist switch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Heated seat controls, climate seat module"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "RCM, alternator warning lamp"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Radio, CIA, navigation unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Tilt/telescopic motors"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "FEM, DATC, cluster, REM"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "DDM, driver door mirror"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Right front high beam"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "PATS"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Left front low beam/HID"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Wiper module"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Radio, navigation unit"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "FEM, reverse park assist"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "FEM, passenger power mirror"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Switch backlighting, FEM"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Stop lamp signal"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Front power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-ls-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch, coolant control valve, aux coolant pump"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors, cooling fan, MAF sensor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Transmission solenoid, EGR"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "HEGOs"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Coil-on-plug"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated wiper park"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS module"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric park brake"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "Diode",
+     "Diode ATO",
+     "",
+     "PCM diode"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Right HID headlamp relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Auxiliary coolant pump relay (V8)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Heated wiper park relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "PCM power relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Starter motor relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Coil-on-plug and HEGOs relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Left HID headlamp relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-ls-2006-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Decklid release solenoid, passenger door lock motors"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Right rear turn lamp, license plate lamp"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Left rear stop/tail lamp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Fuel door release solenoid, decklid lamp"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Courtesy and map lamps, radio antenna module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Left rear turn and back-up lamps"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Right rear stop/tail lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "Center high-mounted stop lamp"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Heated mirror"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Power point - console"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Power point - ashtray"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Navigation unit"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Alternator sense"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump motor"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer amp"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "THX amp, subwoofer amp"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "20A",
+     "REM - left rear window"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Front window motors"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "20A",
+     "Driver lumbar, power seats"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "SSP4"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "SSP3"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "P-J/B"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "Climate control seat module"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "SSP1"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "20A",
+     "Passenger lumbar, power seats"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "20A",
+     "REM - right rear window"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Powertrain main power"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "SSP2"
+    ],
+    [
+     "Diode02",
+     "Diode ATO",
+     "",
+     "Fuel pump motor diode"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "SSP1 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "SSP4 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear defroster relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "SSP3 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "SSP2 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump motor relay"
+    ]
+   ]
+  }
+ ]
+}
