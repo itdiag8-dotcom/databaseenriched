@@ -1,0 +1,595 @@
+{
+ "make_slug": "maserati",
+ "model_slug": "grecale",
+ "brand_db": "Maserati",
+ "model_db_name": "Grecale",
+ "model_id": 2723,
+ "generation_name": "1st generation M182",
+ "generation_code": "g1",
+ "year_start": 2022,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/maserati/grecale/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box (front right)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-grecale-2024-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "25A",
+     "ECM input"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "48V loads (DC/DC & e-booster) [MHEV]"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "5A",
+     "Eldor battery input [3.0 V6]"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "20A",
+     "Primary loads ECM [MHEV]"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "25A",
+     "Primary loads ECM LT input [3.0 V6]"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Fan battery 48V [MHEV] / secondary loads LT input [3.0 V6]"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Secondary loads input [MHEV] / RT input [3.0 V6]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "7.5A",
+     "48V pyro [MHEV]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Primary loads ECM RT input [3.0 V6]"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "7.5A",
+     "Radio frequency hub input"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "7.5A",
+     "Dome console input"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Electrical water pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "HVAC blower relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear HVAC blower relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start&Stop relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "ADAS relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cigarette lighter relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (rear right)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-grecale-2024-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "60A",
+     "EPS module"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "60A",
+     "IBS module"
+    ],
+    [
+     "F03",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigarette lighter / power outlet input"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "40A",
+     "IBS valves module"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "60A",
+     "EPS module"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "30A",
+     "ETM R1 module"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "50A",
+     "Engine main relay"
+    ],
+    [
+     "F08",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower input"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "20A",
+     "BCM module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Horn input"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "EPS module"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "TCM module"
+    ],
+    [
+     "F15",
+     "Fuse MAXI",
+     "20A",
+     "Starter input"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "3A",
+     "Clockspring input"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "EPS module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "BCM module"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Devio, HUD & ICS module"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Top LT headlamp input"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Top RT headlamp input"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "Master F24, F87, F90, FXX"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Electrical water pump input"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "DLC module"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "25A",
+     "Rear window wiper input"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "25A",
+     "DTCM AWD module"
+    ],
+    [
+     "F82",
+     "Fuse FMX/JCase",
+     "20A",
+     "Wiper input"
+    ],
+    [
+     "F83",
+     "Fuse FMX/JCase",
+     "20A",
+     "HVAC rear blower input"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "7.5A",
+     "ECM module [MHEV]"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "5A",
+     "ADAS input"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor module"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "10A",
+     "ECM/DTCM module"
+    ],
+    [
+     "FXX",
+     "Fuse MINI",
+     "10A",
+     "ECU HVAC / AQS / RLS module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "BCM module relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Trunk compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-grecale-2024-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "60A",
+     "MCO seats / inverter / F24 / FXX input"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "30A",
+     "BCM1 module"
+    ],
+    [
+     "F03",
+     "Fuse FMX/JCase",
+     "30A",
+     "TVM power module [3.0 V6]"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger door module"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "30A",
+     "Driver door module"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "25A",
+     "BCM2 module"
+    ],
+    [
+     "F08",
+     "Fuse FMX/JCase",
+     "30A",
+     "Hi-Fi module"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "20A",
+     "ECU VDCM module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "ORC module"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "5A",
+     "Wireless charger input"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "ITM module"
+    ],
+    [
+     "F15",
+     "Fuse MAXI",
+     "40A",
+     "VDCM module"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "SOC & SOH battery sensor input"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "7.5A",
+     "USB charger input"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "CADM module"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Steering wheel heater input"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Rear & CADM relay"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Sunroof module"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "12V trunk compartment power outlet"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "25A",
+     "H001 heated & comfort input"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "25A",
+     "MCO e-latch input"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "30A",
+     "PLGM module"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "40A",
+     "Rear right & left power window input"
+    ],
+    [
+     "F82",
+     "Fuse FMX/JCase",
+     "30A",
+     "Hi-Fi module"
+    ],
+    [
+     "F83",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel pump module"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "10A",
+     "VDCM module"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "10A",
+     "ORC module"
+    ],
+    [
+     "F89",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear window defroster module"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "15A",
+     "CVPAM / H001 / H002 / I025 / ALM module"
+    ],
+    [
+     "FXX",
+     "Fuse MINI",
+     "25A",
+     "H002 heated & comfort input"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power outlet relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Defrost relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Power LG seats relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "CADM BCM coil relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "ECU VDCM relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Steering wheel heater relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Power seats relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Seat heater relay"
+    ]
+   ]
+  }
+ ]
+}
