@@ -1,0 +1,564 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "sonata-hybrid",
+ "brand_db": "Hyundai",
+ "model_db_name": "Sonata Hybrid",
+ "model_id": 2247,
+ "generation_name": "2nd generation (LF facelift)",
+ "generation_code": "g2",
+ "year_start": 2018,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/hyundai/sonata-hybrid/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-sonata-hybrid-2019-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MICRO2",
+     "25A",
+     "Driver safety power window module"
+    ],
+    [
+     "F2",
+     "Fuse MICRO2",
+     "7.5A",
+     "BCM, smart key control module"
+    ],
+    [
+     "F3",
+     "Fuse MICRO2",
+     "10A",
+     "Trunk lid relay, fuel filler door & trunk lid switch"
+    ],
+    [
+     "F4",
+     "Fuse MICRO2",
+     "10A",
+     "Rear curtain module"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "7.5A",
+     "Front ventilation/warmer seat modules, rear seat warmer, rear curtain module"
+    ],
+    [
+     "F6",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C control module, blower relay, electric A/C compressor"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "15A",
+     "Multifunction switch (wiper low & washer)"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger seat manual switch"
+    ],
+    [
+     "F11",
+     "Fuse MICRO2",
+     "10A",
+     "Door modules, electric parking brake module, AMP, digital clock, BSD radars, rear parking sensors"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "10A",
+     "AMP, mirror switch, clock, audio/AVN, smart key module, BCM, wireless charger, USB charger, power outlet relay"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "15A",
+     "BCM"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "20A",
+     "Power window main switch, rear power window module LH"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "25A",
+     "Passenger safety power window module"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "10A",
+     "Glove box/door/vanity/overhead/room/personal/trunk lamps"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "10A",
+     "Smart key control module"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "10A",
+     "BCM, sport mode switch, stop lamp switch, headlamps, DBL control module"
+    ],
+    [
+     "F22",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "20A",
+     "Cigarette lighter & front power outlet #2"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "25A",
+     "Power window main switch, rear window module RH, passenger door module/window switch"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "10A",
+     "BMS control module"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "7.5A",
+     "Electro chromic mirror"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "15A",
+     "Audio, A/V & navigation head unit"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "10A",
+     "Check connector, A/C module, AVN, EC mirror, VESS, seat warmer modules, headlamps, shift lever IND, headlamp leveling, battery C/fan relay"
+    ],
+    [
+     "F31",
+     "Fuse MICRO2",
+     "10A",
+     "Console switch, active air flap, BMS, fuel door switch, smart cruise, TPMS, IMS module, VPD, multi-function camera"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "10A",
+     "IGPM (gateway)"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock/unlock relays"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "15A",
+     "Smart key control module"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "30A",
+     "Driver seat manual switch, driver IMS module"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "10A",
+     "Door modules, cluster, clock, IMS, auto light sensor, A/C module, rear curtain, DLC, BCM, TPMS, wireless charger"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "7.5A",
+     "NVLD, door modules, smart key outside handles, IGPM, power mirrors, active air flap unit"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "25A",
+     "PCB block (TCU2/ECU3/HEV ECU2/OPCU2/EWP/AHB3 fuses)"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "15A",
+     "SRS control module, occupant detection sensor"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "25A",
+     "Front air ventilation/seat warmer modules"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "25A",
+     "Rear seat warmer module"
+    ],
+    [
+     "F43",
+     "Fuse MICRO2",
+     "20A",
+     "Panorama sunroof motor"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "25A",
+     "AMP"
+    ],
+    [
+     "F47",
+     "Fuse MICRO2",
+     "10A",
+     "Stop lamp switch, smart key control module"
+    ],
+    [
+     "F48",
+     "Fuse MICRO2",
+     "20A",
+     "Panorama sunroof motor"
+    ],
+    [
+     "F49",
+     "Fuse MICRO2",
+     "7.5A",
+     "Transmission range switch, HPCU"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment main fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-sonata-hybrid-2019-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "PCB block (IG2 relay)"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Integrated brake actuation unit, check connector"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "Integrated brake actuation unit, check connector"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "Rear heated relay"
+    ],
+    [
+     "7",
+     "Other",
+     "",
+     "IGPM (IPS2, IPS3, stop lamp/module 1 fuses)"
+    ],
+    [
+     "8",
+     "Other",
+     "",
+     "PCM block (wiper1/horn/battery C/fan/AMS/TCU1/ECU2/engine control relay)"
+    ],
+    [
+     "9",
+     "Other",
+     "",
+     "Electric water pump"
+    ],
+    [
+     "10",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "12",
+     "Other",
+     "",
+     "PCB block (IG1 relay)"
+    ],
+    [
+     "14",
+     "Other",
+     "",
+     "Power outlet relay"
+    ],
+    [
+     "17",
+     "Other",
+     "",
+     "IGPM (IPS1, IPS4-IPS7, AMP fuse)"
+    ],
+    [
+     "18",
+     "Other",
+     "",
+     "IGPM (P/SEAT, S/HEATER RR, sunroof, safety power window, trunk, curtain, module1, power window relay)"
+    ],
+    [
+     "19",
+     "Other",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Electric oil pump unit"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "HPCU"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high relay"
+    ],
+    [
+     "29",
+     "Fuse FMM/MCase",
+     "40A",
+     "IGPM (leak current autocut device; interior lamp/memory/multimedia, brake switch/smart key/seat heater/battery management/door lock fuses)"
+    ],
+    [
+     "30",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electric parking brake module"
+    ],
+    [
+     "31",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electric parking brake module"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "PCM"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "HPCU"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Front power outlet #1"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Horn relay, burglar alarm horn relay"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "30A",
+     "Wiper power relay"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Battery cooling fan relay"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Transmission range switch, electric water pump (engine)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Integrated brake actuation unit"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Rear power outlet"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "PCM, transmission range switch, EC mirror, rear combination lamps"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensors (up/down)"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils #1-#4"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "PCM"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "PCM"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Electric oil pump unit (control)"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Electric water pump (HEV)"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "20A",
+     "PCM"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "10A",
+     "MAF sensor, oil control valves, purge valve, camshaft sensors, cooling fan/fuel pump relays"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "10A",
+     "Battery sensor"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Battery cooling fan relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Headlamp washer relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Power outlet relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Rear heated relay"
+    ]
+   ]
+  }
+ ]
+}
