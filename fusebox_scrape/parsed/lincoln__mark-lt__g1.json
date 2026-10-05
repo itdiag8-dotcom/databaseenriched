@@ -1,0 +1,517 @@
+{
+ "make_slug": "lincoln",
+ "model_slug": "mark-lt",
+ "brand_db": "Lincoln",
+ "model_db_name": "Mark LT",
+ "model_id": 2608,
+ "generation_name": "1st generation",
+ "generation_code": "g1",
+ "year_start": 2006,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/lincoln/mark-lt/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-mark-lt-2008-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "Ignition switch feed"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter, diagnostic connector power (2007-2008)"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated seats"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat, adjustable pedals, memory module"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power door locks (BSM)"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow battery charge"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Electric trailer brakes"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "Instrument panel power point (2007)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "20A",
+     "Moonroof (2007-2008)"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated backlite, heated mirror power"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wipers and washer pump"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump power"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS valves"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "30A",
+     "4x4 relays"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Trailer tow right turn/stop lamps"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "High beam headlamps, high beam indicator"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Fuel injectors and PCM power"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Shift solenoid, CMS"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "VMV, A/C clutch relay, canister vent, HEGO sensors, MAF, VCT, fan clutch"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Trailer tow left turn/stop lamps"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Delayed accessory power - audio, lock/moonroof switch illumination"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Right low beam headlamp"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Battery saver power for demand lamps"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Left low beam headlamp"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Horn relay, horn power"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "PAD warning lamp, cluster run/start power"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "SecuriLock transceiver (PATS)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "PCM 4x4 power"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "PCM 4x4 power"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Radio power, satellite radio module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Run/accessory - wipers, instrument cluster"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Stop/turn lamps, brake on/off switch, hazard flashers"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "5A",
+     "Power mirrors, memory seats/pedals, driver power seat"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "DVD battery power, power fold mirror"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "7.5A",
+     "Keep alive memory - PCM and climate control module"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "Parklamps, BSM, instrument panel illumination"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Radio (start signal)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors, switch indicator"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay, fuel injectors (2007-2008)"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow back-up lamps relay, park lamp relay"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch, 4x4 solenoid"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter, diagnostic connector (2006 only)"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "15A",
+     "Cluster keep alive power"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Overhead power point battery feed"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Restraints (air bag module), OCS"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "Run/start feed - overhead power point, EC mirror, heated seats, BSM, compass, RSS"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "15A",
+     "Fog lamp relay"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "Brake-shift interlock solenoid"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "5A",
+     "Overdrive cancel, cluster, traction control switch"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp/DRL relay coil, A/C pressure switch, heated PCV, ABS, park aid"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "10A",
+     "Climate control module power, flasher relay"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "5A",
+     "PCM relay coil (2007-2008)"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "20A",
+     "Rear power point, center console power point"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "25A",
+     "Subwoofer power"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel power point (2006 only)"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "20A",
+     "Low beam headlamps, DRL"
+    ],
+    [
+     "62",
+     "Circuit breaker MAXI",
+     "",
+     "Delayed accessory power: windows, moonroof, sliding backlite"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Trailer tow park lamps relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "High beam headlamps relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Accessory delay relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Starter solenoid relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Trailer tow battery charge relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Heated backlite relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Auxiliary relay box (DRL)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-mark-lt-2008-genid-g1-1.webp",
+   "fuses": [
+    [
+     "D01",
+     "Diode MINI",
+     "",
+     "A/C clutch diode"
+    ],
+    [
+     "D02",
+     "Diode MINI",
+     "",
+     "One Touch Integrated Start (2008)"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "5A",
+     "Clockspring illumination"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "4x4 CCW relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "4x4 CW relay"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "DRL high beam disable relay"
+    ],
+    [
+     "R201",
+     "Relay",
+     "",
+     "DRL relay"
+    ],
+    [
+     "R202",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Auxiliary relay box (No DRL)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-mark-lt-2008-genid-g1-2.webp",
+   "fuses": [
+    [
+     "D01",
+     "Diode MINI",
+     "",
+     "A/C clutch diode"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "5A",
+     "Clockspring illumination"
+    ],
+    [
+     "R202",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ]
+   ]
+  }
+ ]
+}
