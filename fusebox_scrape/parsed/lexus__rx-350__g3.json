@@ -1,0 +1,654 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "rx-350",
+ "brand_db": "Lexus",
+ "model_db_name": "Rx",
+ "model_id": 2598,
+ "generation_name": "3rd generation AL10",
+ "generation_code": "g3",
+ "year_start": 2008,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/lexus/rx-350/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-rx-350-2015-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "RDI FAN NO.1 - electric cooling fans"
+    ],
+    [
+     "2",
+     "Multi fuse block MUSB",
+     "",
+     "RR DEF - rear window defogger"
+    ],
+    [
+     "3",
+     "Multi fuse block MUSB",
+     "",
+     "AIR SUS - air suspension"
+    ],
+    [
+     "4",
+     "Multi fuse block MUSB",
+     "",
+     "HTR - air conditioning"
+    ],
+    [
+     "7",
+     "Multi fuse block MUSB",
+     "",
+     "ABS NO.2 - anti-lock brakes"
+    ],
+    [
+     "8",
+     "Multi fuse block MUSB",
+     "",
+     "H-LP CLN - headlight cleaner"
+    ],
+    [
+     "9",
+     "Multi fuse block MUSB",
+     "",
+     "PBD - power back door"
+    ],
+    [
+     "14",
+     "Multi fuse block MUSB",
+     "",
+     "ST - starter system"
+    ],
+    [
+     "15",
+     "Multi fuse block MUSB",
+     "",
+     "PD - headlights, DRL, horn, multiplex, fuel injection"
+    ],
+    [
+     "16",
+     "Multi fuse block MUSB",
+     "",
+     "ABS NO.1 - anti-lock brakes"
+    ],
+    [
+     "17",
+     "Multi fuse block MUSB",
+     "",
+     "EPS - electric power steering"
+    ],
+    [
+     "18",
+     "Multi fuse block MUSB",
+     "",
+     "ALT - charging, interior circuits"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "AMP1 - audio system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "EFI MAIN - fuel injection"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "AMP2 - audio system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "IG2 - starter, IGN, gauges"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "IP JB - power door locks"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "STR LOCK - steering lock"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "RAD NO.3 - meters, navigation, audio, RSE"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "HAZ - emergency flashers"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "ETCS - fuel injection"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "RAD NO.1 - audio system"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "AM2 - starting system"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-B NO.2 - A/C, occupant classification, starter"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "MAYDAY/TEL - mayday system"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "IMMOBI - immobiliser"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "ALT-S - charging system"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "DRL - daytime running lights"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "IGN - starter, fuel injection"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "DOME - interior lights"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-B NO.1 - body electronics (lights, windows, memory, A/C)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.1 - fuel injection"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "7.5A",
+     "WIP-S - wipers and washer"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "AFS - adaptive front lighting"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG1 NO.4"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "7.5A",
+     "BK/UP LP - back-up lights"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "7.5A",
+     "HEATER NO.2 - A/C, AWD"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "ECU-IG1 NO.5"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG1 - AFS, headlight cleaner, cooling fan, cruise, VSC"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.2 - fuel injection"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "15A",
+     "F/PUMP - fuel pump"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "25A",
+     "DEICER - wiper deicer"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "7.5A",
+     "STOP - VSC, stop lights"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "TOWING BATT - trailer battery"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "30A",
+     "TOWING - trailer lights"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "FILTER - condenser"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "30A",
+     "IG1 MAIN - ECU-IG1, BK/UP LP, HEATER NO.2, AFS"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "15A",
+     "H-LP RH HI - right headlight high beam"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "15A",
+     "H-LP LH HI - left headlight high beam"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "10A",
+     "BIXENON - discharge headlights"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "H-LP RH LO - right headlight low beam"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "15A",
+     "H-LP LH LO - left headlight low beam"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "10A",
+     "HORN - horn"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "20A",
+     "A/F - fuel injection"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "7.5A",
+     "S-HORN - security horn"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "DEICER relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "IG1 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "MG/CLT relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "ST relay - starter"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "EFI MAIN relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "AIR SUS relay (some models)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "DRL relay (some models)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "RR DEF relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "C/OPN relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "RDI FAN NO.1 relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "IG2 relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "F/PMP relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver's side instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-rx-350-2015-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - diagnostics"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "25A",
+     "FR DOOR - front right power window"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "RR DOOR - rear right power window"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "25A",
+     "FL DOOR - front left power window"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "RL DOOR - rear left power window"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "FR WASH - washer"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "RR WIP - rear wiper"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "RR WASH - rear washer"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "FR WIP - front wipers"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG2 - starter, parking assist, AWD"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "GAUGE NO.2 - starter system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "RH S-HTR - right seat heater"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "LH S-HTR - left seat heater"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "30A",
+     "P-SEAT LH - left power seat"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "4WD - AWD system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "INVERTER - power inverter"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "RR FOG - rear fog light"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "D/L ALT B - multiplex"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "HEATER - air conditioning"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG1 NO.2 - A/C, fuel injection, SRS, display"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "PANEL - switch illumination, navigation, A/C"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "TAIL - parking/marker/tail/license lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "AIR SUS - air suspension"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "30A",
+     "P-SEAT RH - right power seat"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "P/POINT - power outlet"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "ECU-ACC - navigation, mirrors, display"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "CIG - power outlet"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "RADIO NO.2 - audio, power outlet"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "GAUGE NO.1 - flashers, navigation, head-up display"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG1 NO.3 - mirrors, wipers, seat heaters, moon roof"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG1 NO.1 - multiplex, EPS, shift lock, back door, TPMS"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "30A",
+     "S/ROOF - moon roof"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "FUEL OPN - fuel door opener"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "30A",
+     "PSB - pre-collision seat belt"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "30A",
+     "TI&TE - tilt/telescopic steering"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "DR LOCK - power door locks"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "FR FOG - front fog lights"
+    ]
+   ]
+  }
+ ]
+}
