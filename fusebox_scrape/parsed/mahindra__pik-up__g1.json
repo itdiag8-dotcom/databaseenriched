@@ -1,0 +1,806 @@
+{
+ "make_slug": "mahindra",
+ "model_slug": "pik-up",
+ "brand_db": "Mahindra",
+ "model_db_name": "Pik Up (no DB model)",
+ "model_id": null,
+ "generation_name": "1st generation Project Scorpio",
+ "generation_code": "g1",
+ "year_start": 2007,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/mahindra/pik-up/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-pik-up-2025-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plug"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cab battery 2"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cab battery 1"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS ECU"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "AC compressor"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Fog lamp"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Headlamp high beam"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Headlamp low beam"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "60A",
+     "Starter"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "DRL (version S11)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "30A",
+     "ABS solenoid"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Back flow pump"
+    ],
+    [
+     "F24",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cab battery 3"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU supply"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "EGR bypass and WIF"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "NOx 2"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Brake switch and AC pressure switch"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "EMS 1"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Static bending (version S11)"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "EMS 2"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "20A",
+     "HFM and fuel metering unit"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Water pump/PCJ/VOP"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "AC compressor / cooling fan / clutch start relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "ECU relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Static bending relay (S11)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlamp high beam relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "AC compressor relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Back flow pump relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Headlamp low beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-pik-up-2025-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cab battery 3"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS motor"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "60A",
+     "Starter solenoid"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "EMS main relay input"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cab battery 1"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cab battery 2"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "60A",
+     "EC mini fuse B+"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plug"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "SCR main relay"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "HCU"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "25A",
+     "ABS"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Brake switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Per Mbat"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "HFM/lambda sensor"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "Condenser fan"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "A/C comp / water pump / SCR / HCU / glow plug / GNS"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Static bending"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "WIF/ESS/pressure"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "High beam"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "EMS battery 1"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Low beam"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "EMS battery 2 E4/ES-E6"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "EMS battery 2 E4/ES-E6 (variant)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "EGR/FMU/BPA"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Water pump"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "NOx/HUC supply"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Inhibitor switch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Fuel lid"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "ECU relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "GNS relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Condenser fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Water pump relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Static bending relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fuel lid relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "AC compressor relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fog lamp relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Horn relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-pik-up-2025-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F7",
+     "Fuse MINI",
+     "5A",
+     "Immobilizer"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Infotainment/IC/FATC B+ (S11)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Infotainment/IC/HVAC (version S)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "5A",
+     "Crank"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Reverse / RPAS ignition / ITC"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "MBFM/IC/FATC/IS T15"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "ABS T15"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Airbag"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Rear defogger (S11)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "Driver door actuator (version S)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "MBFM 3"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "MBFM 2"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "5A",
+     "BMS"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "5A",
+     "Ignition"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Rear power outlet"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "5A",
+     "ECU K18 (version S)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Rear defogger"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "MBFM"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "Fuel lid / anti-pinch"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "5A",
+     "Diagnostic/ITC"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Parking lights"
+    ],
+    [
+     "F31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power windows"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "EMS/immobilizer/T15"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "ORVM (S11)"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "Front wiper"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper (S11)"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "5A",
+     "MBFM/FATC T15"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "5A",
+     "Audio key-in"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Demister relay (S11)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Wiper hi/low relay (S11)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Clutch start relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Extended power window relay (version S)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Auto roll down relay (S11)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel lid relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Inner fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-pik-up-2025-genid-g1-4.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "EGR / DMY"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "IPMF"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "PERM"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Stop lights (brake switch)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "ECU supply"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "ECU supply"
+    ]
+   ]
+  }
+ ]
+}
