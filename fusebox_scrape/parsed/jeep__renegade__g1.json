@@ -1,0 +1,356 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "renegade",
+ "brand_db": "Jeep",
+ "model_db_name": "Renegade",
+ "model_id": 2414,
+ "generation_name": "1st generation (BU/520/BV)",
+ "generation_code": "g1",
+ "year_start": 2015,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/jeep/renegade/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Location",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-renegade-2023-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MAXI",
+     "70A",
+     "Electric Power-Assisted Steering"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "70A",
+     "Engine Cooling Fan"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "20A",
+     "Engine Cooling Fan"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "70A",
+     "Module Body Computer"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "70A",
+     "Module Body Computer, Rear Distribution Unit"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "40A",
+     "Brake Control Module Pump"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power Control Module Engine"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Air Conditioning Fan"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "Controller Power Supply Body Computer"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic Transmission, GSM"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Brake Control Electronics Module"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated Rear Window"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Heated Windshield [If Equipped]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "Power Supply All Wheel Drive"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Intelligent Battery Sensor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Control Module Engine"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "WCAC Pump/Active Grille Shutters"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Electronic Power Four-Wheel Drive"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Fuel Pump"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Heated Outside Mirrors"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Supply Secondary Loads"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Power Control Module Engine"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "Supply Primary Loads"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Gear Selector Automatic Transmission"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Engine Control Module Power, Automatic Transmission"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Electronic Unit Supply Automatic Transmission"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Air Conditioner 1.3L Compressor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Body Computer Fuse Center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-renegade-2023-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Supply IPC/Starter Device/System Keyless Enter 'n Go"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Bi-directional Pump Washer"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Supply Uconnect System, Air Conditioning, USB Port, Rear Ceiling Lights (With Sunroof), E-Call, SGW"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Central Locking"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Power Rear Window (Passenger Side)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Power Rear Window (Driver Side)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Power Window Front (Driver Side)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Power Window Front (Passenger Side)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "System Power Forward Collision Warning Plus, All Wheel Drive (AWD), IPC, Brake Pedal Switch (NC)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "Supply Air Bag"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Supply ParkSense, SGW, Mirror, Heated Front Seats, Stabilizer Battery, ESC System, S&S Inhibition Command, Blind Spot, Rain/Light Sensor, Humidity Sensor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Air Conditioning, Lane Departure Warning, Terrain Selector, Trailer Tow Module, Compass Module, Rear View Camera"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "Flashes/Electrical Movement Front Seats/Fan Air Conditioning"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Power Socket"
+    ],
+    [
+     "F42",
+     "Fuse",
+     "",
+     "Power Under Lock and Key, Brake Control Electronics Module, Electric Power-Assisted Steering"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Cargo Fuse/Relay Distribution Unit 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-renegade-2023-genid-g1-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "MY SKY"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "HIFI Audio System"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Sun Visor (Retractable Roof) Or External Fuse"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "Power Inverter"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Heating Front Seats"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "Lumbar Adjustment Front Seat (Driver Side)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Power Seat (Driver Side)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Rear Cargo Fuse/Relay Distribution Unit 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-renegade-2023-genid-g1-3.webp",
+   "fuses": [
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Controller Exterior Lighting Lights (Passenger Side)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Controller Exterior Lighting Lights (Driver Side)"
+    ]
+   ]
+  }
+ ]
+}
