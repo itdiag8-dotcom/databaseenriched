@@ -1,0 +1,594 @@
+{
+ "make_slug": "kia",
+ "model_slug": "ev6",
+ "brand_db": "Kia",
+ "model_db_name": "EV6",
+ "model_id": 2442,
+ "generation_name": "1st generation CV",
+ "generation_code": "g1",
+ "year_start": 2021,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/kia/ev6/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-ev6-2024-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "15A",
+     "(CHILD LOCK) Child Lock/Unlock Relays"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "20A",
+     "(AFCU) Active Air Flap Control Unit"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "7.5A",
+     "(A/BAG IND) Overhead Console"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "(MEMORY2) ADP, Head-Up Display, ADAS Unit"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "7.5A",
+     "(START) VCU, IBU"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "(HEATED MIRROR) Outside Mirror"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "15A",
+     "(TAILGATE OPEN) Liftgate Latch"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "(EPCU) Rear Inverter"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE3) Multifunction Switch, Stop Lamp Switch, Driver Door Module"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "7.5A",
+     "(CLUSTER) Head-Up Display, Instrument Cluster"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "(IG3 8) V2L Unit, ICCU, VCMS, SCU, Rear Electronic Oil Pump, CDM"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "(IG3 7) In-car Temperature Sensor, AVN Head Unit, A/C PTC Heater, A/C Control Module, Instrument Cluster, Charger Indicator"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "(IAU) Driver/Passenger Door Outside Handle"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE8) Driver/Passenger Power Seat Modules & Manual Seat Switches"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "20A",
+     "(S/HEATER FRT) Front Air Ventilation Seat & Seat Warmer Control Modules"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "(WASHER) Multifunction Switch"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "7.5A",
+     "(IBU2) IBU"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "(IG3 10) Rear Inverter, BMU"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "10A",
+     "(BATTERY MANAGEMENT) BMU"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "10A",
+     "(AIR BAG2) SRS Control Module"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "25A",
+     "(SUNROOF) Sunroof Control Unit (Glass/Roller)"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "25A",
+     "(P/WINDOW LH) Driver Safety Power Window Module, Rear Power Window Switch LH"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "(E-SHIFTER3) Electronic ATM Shift Dial"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE4) Corner Radars, Inverters, ADAS Units, VESS Unit, SCC Radar, Front View Camera, Console Upper Cover Switch"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "15A",
+     "(USB CHARGER) Seat/Front/Island USB Chargers"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "15A",
+     "(MEMORY1) ICU Junction Block (fuse Memory2), Instrument Cluster, A/C Module, Mood Lamps, Console Floor Switch"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "(A/C2) A/C Control Module, High Pressure/Refrigerant Valves, P/R Junction Block (Blower Relay), BSA Chiller #1, A/C Coolant Valve"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "25A",
+     "(AMP) Amplifier"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "25A",
+     "(P/WINDOW RH) Passenger Safety Power Window Module, Rear Power Window Switch RH"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE6) IBU"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE5) Data Link Connector, EC Mirror, ADP, AVN, Crash Pad Switch, AMP, Seat Warmer/Ventilation Modules, Wireless Charger, Power Seat Modules, Console Floor Switch"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "15A",
+     "(IBU1) IBU"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "10A",
+     "(BRAKE SWITCH) Stop Lamp Switch, IBU"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "30A",
+     "(P/SEAT DRV) Driver Power Seat Switch & Module (IMS)"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "7.5A",
+     "(A/C1) A/C Control Module"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "15A",
+     "(AIR BAG1) SRS Control Module"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE2) AMP, ADP, P/E Junction Block (Power Outlet Relay), IBU, ADAS Unit, AVN Keyboard & Head Unit"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "15A",
+     "(MULTIMEDIA) A/V & Navigation Head Unit"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "20A",
+     "(DOOR LOCK) Door Lock/Unlock Relays, Two Turn Unlock Relay"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE1) Hazard Switch, Multifunction Switch, Data Link Connector, Rain Sensor, Puddle Lamp, PTG Unit, Driver Door Module, Outside Mirror Units"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "30A",
+     "(P/SEAT PASS) Passenger Power Seat Switch & Module"
+    ],
+    [
+     "56",
+     "Fuse MICRO2",
+     "25A",
+     "(S/HEATER REAR) Rear Seat Warmer Control Module"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Motor compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-ev6-2024-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(E-SHIFTER2) P/R Junction Block (E-Shifter Relay), SCU, Electronic ATM Shift Dial"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "(POWER OUTLET3) Rear Power Outlet"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "(POWER OUTLET2) Front Power Outlet"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "IG3"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "IG3"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(IG3 4) Front Inverter (AWD), Electronic Water Pumps, Electronic A/C Compressor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(IG3 5) BMS Coolant 3-Way Valve"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(IG3 1) ICU Junction Block (fuses IG3 7-10)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "(WIPER2) IBU"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "(WIPER1) PCB Block (Wiper Main Relay)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(EPCU1) Front Inverter (AWD)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(HORN) PCB Block (Horn Relay)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(VCU2) VCU"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(IG3 3) Electronic Water Pump"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(VCU3) VCU"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(MDPS) EPS"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(CHARGER1) P/R Junction Block (Charger Lock/Unlock Relay), ICCU, VCMS"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(CHARGER2) CDM"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(AMS) 12V Battery Sensor"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "(EWP1) Electronic Water Pump #1"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "(EWP2) Electronic Water Pump #2"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "(VESS) VESS Unit"
+    ],
+    [
+     "39",
+     "Fuse FMM/MCase",
+     "30A",
+     "(POWER TAILGATE) PTG Unit"
+    ],
+    [
+     "42",
+     "Multi fuse block MUSB",
+     "",
+     "(IG2) P/R Junction Block (IG2 Relay)"
+    ],
+    [
+     "43",
+     "Multi fuse block MUSB",
+     "",
+     "(IG1) P/R Junction Block (ACC Relay, IG1 Relay)"
+    ],
+    [
+     "45",
+     "Multi fuse block MUSB",
+     "",
+     "(IEB2) IEB Unit"
+    ],
+    [
+     "46",
+     "Multi fuse block MUSB",
+     "",
+     "(IEB1) IEB Unit"
+    ],
+    [
+     "47",
+     "Multi fuse block MUSB",
+     "",
+     "(B+1) ICU Junction Block (IPS2, IPS5, IPS7, IPS13)"
+    ],
+    [
+     "48",
+     "Multi fuse block MUSB",
+     "",
+     "(B+2) ICU Junction Block (IPS1, IPS6, IPS8, IPS9, IPS10)"
+    ],
+    [
+     "49",
+     "Multi fuse block MUSB",
+     "",
+     "(B+3) ICU Junction Block (fuses EPCU3, P/SEAT DRV, P/WINDOW LH/RH, AFCU, E-LSD, SUNROOF, S/HEATER FRT/RR, AMP, MODULE4, TAILGATE OPEN, CHILD LOCK)"
+    ],
+    [
+     "50",
+     "Multi fuse block MUSB",
+     "",
+     "(B+5) PCB Block (IG3 Main Relay, fuses EPCU1, VCU2, WIPER1, HORN)"
+    ],
+    [
+     "52",
+     "Multi fuse block MUSB",
+     "",
+     "(BLOWER) P/R Junction Block (Blower Relay)"
+    ],
+    [
+     "53",
+     "Multi fuse block MUSB",
+     "",
+     "(TRAILER1) Trailer Connector Unit"
+    ],
+    [
+     "54",
+     "Multi fuse block MUSB",
+     "",
+     "(REAR HEATED) P/R Junction Block (Rear Heated Relay)"
+    ],
+    [
+     "55",
+     "Multi fuse block MUSB",
+     "",
+     "(COOLING FAN) Cooling Fan Motor"
+    ],
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "40A",
+     "(EOP1) Rear Electronic Oil Pump"
+    ],
+    [
+     "57",
+     "Fuse FMM/MCase",
+     "40A",
+     "(EOP2) Front Electronic Oil Pump (AWD)"
+    ],
+    [
+     "58",
+     "Multi fuse block MUSB",
+     "",
+     "(LDC) P/R Junction Block (fuses POWER TAILGATE, EOP1, EOP2, POWER OUTLET1)"
+    ],
+    [
+     "59",
+     "Multi fuse block MUSB",
+     "",
+     "(MDPS1) EPS Unit"
+    ],
+    [
+     "60",
+     "Fuse FMM/MCase",
+     "40A",
+     "(POWER OUTLET1) P/R Junction Block (Power Outlet Relay)"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "40A",
+     "(VCU1) VCU"
+    ],
+    [
+     "64",
+     "Fuse FMM/MCase",
+     "40A",
+     "(B+4) ICU Junction Block (Long Term Load Latch Relay, fuses IBU1, BRAKE SWITCH, AIR BAG2, A/C2, ECS, BATTERY MANAGEMENT, MODULE1, IAU)"
+    ],
+    [
+     "66",
+     "Fuse FMM/MCase",
+     "40A",
+     "(E-SHIFTER1) P/R Junction Block (E-Shifter Relay, fuse E-SHIFTER2)"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "Power Outlet Relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "IG2 Relay"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "Blower Relay"
+    ],
+    [
+     "R05",
+     "Relay",
+     "",
+     "IG1 Relay"
+    ],
+    [
+     "R07",
+     "Relay",
+     "",
+     "ACC Relay"
+    ],
+    [
+     "R09",
+     "Relay",
+     "",
+     "Rear Heated Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Charger Lock Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "E-Shifter Relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Charger Unlock Relay"
+    ]
+   ]
+  }
+ ]
+}
