@@ -1,0 +1,589 @@
+{
+ "make_slug": "kia",
+ "model_slug": "venga",
+ "brand_db": "Kia",
+ "model_db_name": "Venga",
+ "model_id": 2484,
+ "generation_name": "1st generation YN",
+ "generation_code": "g1",
+ "year_start": 2009,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/kia/venga/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-venga-2013-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "PCM, start relay [G4FA/G4FC]; glow/PTC1 relay, fuel pressure regulator valve [D4FC/D4FB]"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Head lamp RH"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "20A",
+     "PCM [G4FA/G4FC], ECM [D4FC]"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Head lamp LH"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "BCM"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "[GSL] Rear combination lamps, electrochromic mirror, PCM, transaxle range switch, BCM, audio"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "A/C relay, cooling fan LO/HI relays, stop lamp switch, immobilizer, camshaft position sensor, oxygen/lambda sensors"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Injectors #1-#4, WGT/VGT control solenoid valves, camshaft sensor, EGR valve [diesel]"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "[GSL] PCM; [DSL] ECM, air heater #2 [D4FC]"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Rain sensor, ECM, wiper FRT relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Head lamp relay"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Horn relay, burglar alarm horn relay, battery sensor"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Head lamp HI relay"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "50A",
+     "I/P junction box (power window relay, fuses F1/F23/F24/F26/F31/F32/F33/F34)"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main relay, fuse F21 [G4FA/G4FC]"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan LO/HI relays"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch, PDM relay box"
+    ],
+    [
+     "FB1",
+     "Multi fuse block MUSB",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "FB2",
+     "Multi fuse block MUSB",
+     "",
+     "Blower relay"
+    ],
+    [
+     "FB3",
+     "Multi fuse block MUSB",
+     "",
+     "I/P junction box (rear heated relay)"
+    ],
+    [
+     "FB4",
+     "Multi fuse block MUSB",
+     "",
+     "ABS/ESP control module"
+    ],
+    [
+     "FB5",
+     "Multi fuse block MUSB",
+     "",
+     "ABS/ESP control module"
+    ],
+    [
+     "FB6",
+     "Multi fuse block MUSB",
+     "",
+     "(150A diesel) Diesel fuse & relay box (GLOW 80A, PTC 50A), alternator, E/R fuse box"
+    ],
+    [
+     "FB7",
+     "Multi fuse block MUSB",
+     "",
+     "[DSL] Fuel heater relay"
+    ],
+    [
+     "FB8",
+     "Multi fuse block MUSB",
+     "",
+     "I/P junction box (tail relay, fuses F12-F15, power connector F35/F36)"
+    ],
+    [
+     "FB9",
+     "Multi fuse block MUSB",
+     "",
+     "Ignition switch, PDM relay box, start relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay [GSL] / fuel heater relay [DSL]"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Head lamp relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan LO relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Wiper FRT relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Head lamp HI relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan HI relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Wiper RR relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "ESS relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-venga-2013-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "I/P junction box (front deicer relay)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Front power outlet"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "25A",
+     "Rear/center power outlets"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Mirror switch, audio, DC-DC converter, BCM, smart key module, sunroof module, trip computer"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (air bag indicator)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "SRS control module"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Multifunction switch (turn signal)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "MDPS unit"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Multifunction switch, rear wiper motor, rain sensor, RLY.12"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Driver/passenger seat warmer"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Rear fog relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Front fog relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Data link connector, auto cut relay"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp relay"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Cluster, BCM, trip computer"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Center facia switches, ISG switch, seat warmers, fuel filter warning sensor, TPMS"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "ESP switch, ABS/ESP modules, yaw rate sensor, RLY.14"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp switch"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Air flow sensor, ECM, PCM, stop lamp switch, start relay, smart key module"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay, PTC 2/3 relays, rain sensor relay"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Smart key control module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Driver center facia panel switch"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "25A",
+     "Smart key control module"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Smart key module, stop lamp switch, start/stop button"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Pulse generators, vehicle speed sensor, transaxle range switch"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils #1-#4, condenser"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Headlamp leveling switch, BCM, head lamps, electrochromic mirror, parking assist sensors, sunroof module, A/C module"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "25A",
+     "Multifunction switch, front wiper motor, wiper FRT relay"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "20A",
+     "I/P junction box (door lock/unlock, dead lock, tailgate unlock relays)"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "20A",
+     "Sunroof control module"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Driver safety power window module"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Center facia panel switches, mirror switch"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Key illumination/door warning switch, cluster, A/C module, luggage lamp, BCM, trip computer, auto light sensor, TPMS"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "20A",
+     "Audio, DC-DC converter"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Rear combination/head/license lamps LH, DRL relay, cluster"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Head/rear combination/license lamps RH, facia switches, audio, multifunction switch, AUX/USB, trip computer, cluster, A/C module, illumination"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "ECM, PCM, smart key module, clutch switch, start relay, transaxle range switch"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "25A",
+     "Power window main/passenger switches"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "25A",
+     "Power window main/passenger switches"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "10A",
+     "PCM, A/C module, power outside mirrors"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "Cluster, head lamps, head lamp HI relay"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "10A",
+     "A/C module, ECM, PCM, blower resistor/motor"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Diesel fuse & relay box [D4FC/D4FB]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-venga-2013-genid-g1-2.webp",
+   "fuses": [
+    [
+     "FB1",
+     "Multi fuse block MUSB",
+     "",
+     "PTC 3 relay"
+    ],
+    [
+     "FB2",
+     "Multi fuse block MUSB",
+     "",
+     "PTC 2 relay"
+    ],
+    [
+     "FB3",
+     "Multi fuse block MUSB",
+     "",
+     "PTC 1 relay"
+    ],
+    [
+     "FB4",
+     "Multi fuse block MUSB",
+     "",
+     "Glow, air heater relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Glow relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PTC 3 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PTC 2 relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "PTC 1 relay"
+    ]
+   ]
+  }
+ ]
+}
