@@ -1,0 +1,678 @@
+{
+ "make_slug": "infiniti",
+ "model_slug": "q70",
+ "brand_db": "Infiniti",
+ "model_db_name": "Q70",
+ "model_id": 2302,
+ "generation_name": "1st generation (Y51)",
+ "generation_code": "g1",
+ "year_start": 2014,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/infiniti/q70/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-q70-2016-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Heated steering wheel relay"
+    ],
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Hybrid: steering angle sensor, warning buzzer, ADAS control unit, camera unit, ICC brake hold relay, ABS"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Airbag diagnosis sensor unit, occupant classification unit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Headlamp aiming motors, wiper reverse relay, shift lock relay, AFS, ASCD/stop lamp switches, ICC, sunshade unit, tire pressure unit, climate seat relay, heated seat switches, compressor, sonar unit, around view, CAN gateway, tel adapter, A/C amplifier, AV unit, inside mirror, DLC, headlamp swivel actuators, odor sensors, 4WAS front unit, ionizer"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Combination meter, back-up lamp relay, meter control switch, VSP control unit (Hybrid)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Trunk closure assembly"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Trunk closure assembly, clock, auto-dimming mirror, meter, triple switch, DLC, pre-crash seat belt control unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch, BCM, ICC brake hold relay (Hybrid)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "BOSE amplifier"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "AWD control unit, CAN gateway, push-button ignition switch, VSP control unit (Hybrid)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "BOSE amplifier"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "BCM, seat memory switch, Intelligent Key warning buzzer, daytime running lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Mirror defogger"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Hybrid: heater pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter socket, console power socket"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "A/C amplifier, satellite tuner, tel adapter, power window main switch, BOSE amp, AV unit, microphones (active noise control), telematics switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Blower motor"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Blower motor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-q70-2016-genid-g1-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Accessory"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front blower"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box No.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-q70-2016-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Horn relay, alternator"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Injector relay No.2 (5.6L VK56VD)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Daytime running light relay (Hybrid)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "AWD control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "AV control unit, BOSE amplifier, active noise control unit, radio tuner, display unit, tel adapter"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "4WAS rear motor relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Accelerator pedal actuator (Hybrid)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Vehicle security horn relay"
+    ],
+    [
+     "9",
+     "Fuse MPF2",
+     "",
+     "Except Hybrid: VVEL actuator motor relay"
+    ],
+    [
+     "9",
+     "Fuse MPF2",
+     "",
+     "Cooling fan relay No.1 (Hybrid)"
+    ],
+    [
+     "10",
+     "Fuse MPF2",
+     "",
+     "Ignition relay (fuses 1-4, 16)"
+    ],
+    [
+     "11",
+     "Fuse MPF2",
+     "",
+     "Injector relay No.1 (5.6L VK56VD)"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Pre-crash seat belt control unit (driver side)"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Pre-crash seat belt control unit (passenger side)"
+    ],
+    [
+     "14",
+     "Fuse MPF2",
+     "",
+     "BCM, circuit breaker (drive positioner, power seat)"
+    ],
+    [
+     "15",
+     "Fuse MPF2",
+     "",
+     "ABS"
+    ],
+    [
+     "16",
+     "Fuse MPF2",
+     "",
+     "ABS"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "50A",
+     "Except Hybrid: cooling fan relay No.1"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "50A",
+     "Except Hybrid: fuses 61, 62, 63"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment fuse box No.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-q70-2016-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Except Hybrid: cooling fan relay No.1, injector relays 1-2 (5.6L VK56VD)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Hybrid: cooling fan relay No.1, sub electric oil pump relay/inverter"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Except Hybrid: TCM"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Hybrid: HPCM, Li-ion battery, traction motor inverter, TCM"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "ECM, fuel injectors (VQ engines and Hybrid)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Air-fuel ratio sensors, heated oxygen sensors"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Except Hybrid: accelerator pedal actuator/position sensor, ICC sensor, ICC brake hold relay, ABS, steering angle sensor, driver assistance buzzer, AWD unit, ADAS unit, side radars, lane camera, power steering unit, yaw rate sensor, 4WAS main unit"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Hybrid: accelerator pedal actuator, ICC sensor, EDIB unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Front wiper motor, washer pump"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Except Hybrid: air conditioner relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Throttle control motor relay"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "ECM relay (ECM, EVAP vent/purge valves, condenser, ignition coils, MAF sensor, valve timing solenoids, VVEL control module), NATS antenna amplifier"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Map lamp, rear combination lamp LH, illumination, combination switch, glove box lamp, trunk opener switch, switches, clock, cigarette lighter socket, heated/climate seat switches, A/T shift illumination, drive mode switch, IBA off switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (high beam)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (high beam)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Left headlamp (low beam)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Right headlamp (low beam)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Daytime running light relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp relay"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Front wiper main relay (Hi/Lo relay), wiper reverse relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Except Hybrid: starter control"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine compartment relay box No.1 (except Hybrid)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-q70-2016-genid-g1-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Accelerator pedal actuator / position sensor"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Climate controlled seat relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Front heated seat relay, climate controlled seat relay"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "4WAS front control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Injector No.1 (5.6L VK56VD)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Shift lock"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "ICC brake hold"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front wiper reverse"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Cooling fan No.1"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "VVEL actuator motor"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Vehicle security horn"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Daytime running light"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Engine compartment relay box No.2 (5.6L VK56VD)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-q70-2016-genid-g1-5.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan relay No.2"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan No.2"
+    ]
+   ]
+  },
+  {
+   "index": 6,
+   "name": "Engine compartment fuse box No.3 (Hybrid)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-q70-2016-genid-g1-6.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Hybrid powertrain control module (HPCM)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Battery cooling fan relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Brake power supply backup unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Electrically-driven intelligent brake (EDIB) unit"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Li-ion battery controller"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "DC/DC converter, Li-ion battery controller"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Electric water pump"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Traction motor inverter"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Hybrid powertrain control module (HPCM)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Heated seat relay, climate controlled seat relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Climate controlled seat relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Trunk closure control unit"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "Self shut-off relay (fuses 70-73), fuse 74"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "Fuses 61, 62, 63"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Self shut-off"
+    ]
+   ]
+  },
+  {
+   "index": 7,
+   "name": "Engine compartment fuse box No.4 (Hybrid)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-q70-2016-genid-g1-7.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "80A",
+     "Power steering control module"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "60A",
+     "Headlamp high relay (fuses 54, 55), headlamp low relay (fuses 56, 57), tail lamp relay (fuse 53), fuses 59, 60"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "80A",
+     "Ignition relay (fuses 41-47), fuses 50, 51"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "100A",
+     "Accessory relay (fuses 18-20), rear defogger relay (fuses 13-15), blower relay (fuses 21, 22), fuses 5-11"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "100A",
+     "Fuses G, H, J, K, L, M, N, 31, 32, 34, 36, 37, 38"
+    ]
+   ]
+  }
+ ]
+}
