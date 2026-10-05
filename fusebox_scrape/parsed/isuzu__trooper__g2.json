@@ -1,0 +1,818 @@
+{
+ "make_slug": "isuzu",
+ "model_slug": "trooper",
+ "brand_db": "Isuzu",
+ "model_db_name": "Trooper",
+ "model_id": 2364,
+ "generation_name": "2nd generation (UBS)",
+ "generation_code": "g2",
+ "year_start": 1991,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/isuzu/trooper/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box (Ver. 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-trooper-2005-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse ATO",
+     "10A",
+     "(O2 SENSOR HEATER) Oxygen sensor, lambda probe"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "(HORN HAZARD) Horn, horn relay/switch, hazard switch, flasher unit, anti-theft horn/controller"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "15A",
+     "(H/LAMP-LH) Left headlight, high beam indicator, dimmer pass switch, cornering/fog light switches and relays"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "10A",
+     "(H/LAMP-LH HI) Left headlight (high beam)"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "15A",
+     "(H/LAMP-RH) Right headlight, dimmer pass switch"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "10A",
+     "(H/LAMP-RH HI) Right headlight (high beam)"
+    ],
+    [
+     "F6",
+     "Fuse ATO",
+     "10A",
+     "(H/LAMP-LH LOW) Left headlight (low beam)"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "10A",
+     "(H/LAMP-RH LOW) Right headlight (low beam)"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "15A",
+     "(ANTI-THEFT) Exclusive anti-theft alarm system"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "",
+     "(FRT FOG) Fog light, fog light relay"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "20A",
+     "(ABS) Hydraulic unit, rear wheel anti-lock brake controller, EBCM"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "15A",
+     "(FUEL PUMP) Fuel pump"
+    ],
+    [
+     "F11",
+     "Fuse ATO",
+     "10A",
+     "(TAIL LH) Tail light left side"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "15A",
+     "(TAIL) Tail relay, illumination switch/controller/light, front side marker, parking light, tail light, trailer connector, glove box switch, license plate light, A/T shift indicator unit"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "10A",
+     "(TAIL RH) Tail light right side"
+    ],
+    [
+     "FL1",
+     "Fuse FLD/PAL 283",
+     "80A",
+     "(MAIN) Battery"
+    ],
+    [
+     "FL2",
+     "Fuse FLD/PAL 283",
+     "50A",
+     "(KEY SW) Ignition switch, starter"
+    ],
+    [
+     "FL3",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(ECM) Engine control module, main relay"
+    ],
+    [
+     "FL4",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(CONDENSER FAN) Condenser fan"
+    ],
+    [
+     "FL5",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "(GLOW) 4JG2: glow plug"
+    ],
+    [
+     "FL6",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "(ABS, 4 wheels only) ABS hydraulic unit, fuse F9"
+    ],
+    [
+     "1",
+     "Diode MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "2",
+     "Diode MINI",
+     "",
+     "Cornering light"
+    ],
+    [
+     "X1",
+     "Relay",
+     "",
+     "Lights"
+    ],
+    [
+     "X3",
+     "Relay",
+     "",
+     "Dimmer control"
+    ],
+    [
+     "X5",
+     "Relay",
+     "",
+     "A/C thermostat"
+    ],
+    [
+     "X7",
+     "Relay",
+     "",
+     "A/C compressor"
+    ],
+    [
+     "X8",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "X9",
+     "Relay",
+     "",
+     "Horn or tail light"
+    ],
+    [
+     "X11",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "X12",
+     "Relay",
+     "",
+     "ECM main"
+    ],
+    [
+     "X13",
+     "Relay",
+     "",
+     "Windshield wipers"
+    ],
+    [
+     "X16",
+     "Relay",
+     "",
+     "Upshift-1 (M/T) or anti-theft alarm"
+    ],
+    [
+     "X17",
+     "Relay",
+     "",
+     "Starter (gasoline)"
+    ],
+    [
+     "X18",
+     "Relay",
+     "",
+     "Shift up"
+    ],
+    [
+     "X19",
+     "Relay",
+     "",
+     "Condenser fan"
+    ],
+    [
+     "X20",
+     "Relay",
+     "",
+     "Cruise control"
+    ],
+    [
+     "X21",
+     "Relay",
+     "",
+     "Upshift-2 (M/T; with ABS)"
+    ],
+    [
+     "X22",
+     "Relay",
+     "",
+     "Cornering light or rear fog light"
+    ],
+    [
+     "X23",
+     "Relay",
+     "",
+     "Fog headlight"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (Ver. 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-trooper-2005-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse ATO",
+     "20A",
+     "(O2 SENSOR HEATER) Lambda sensor"
+    ],
+    [
+     "F3",
+     "Fuse ATO",
+     "15A",
+     "(HORN-HAZARD) Horn, horn relay/switch, hazard switch, flasher unit, anti-theft horn/controller"
+    ],
+    [
+     "F4",
+     "Fuse ATO",
+     "15A",
+     "(H/LIGHT-LH) Left headlight, high beam indicator, dimmer passing switch, cornering/fog light switches and relays"
+    ],
+    [
+     "F5",
+     "Fuse ATO",
+     "15A",
+     "(H/LIGHT-RH) Right headlight, dimmer passing switch"
+    ],
+    [
+     "F7",
+     "Fuse ATO",
+     "",
+     "Accessory socket"
+    ],
+    [
+     "F8",
+     "Fuse ATO",
+     "15A",
+     "(FRT FOG) Fog light, fog light relay"
+    ],
+    [
+     "F9",
+     "Fuse ATO",
+     "20A",
+     "(ABS) Hydraulic unit, rear wheel anti-lock brake controller, EBCM"
+    ],
+    [
+     "F10",
+     "Fuse ATO",
+     "15A",
+     "(FUEL PUMP) Fuel pump"
+    ],
+    [
+     "F12",
+     "Fuse ATO",
+     "15A",
+     "(TAIL LIGHT) Tail relay, illumination switch/controller/light, front side marker, parking light, tail light, trailer connector, glove box switch, license plate light, A/T shift indicator unit"
+    ],
+    [
+     "FL1",
+     "Fuse FLD/PAL 283",
+     "80A",
+     "(MAIN) Battery"
+    ],
+    [
+     "FL2",
+     "Fuse FLD/PAL 283",
+     "50A",
+     "(KEY SW) Ignition switch, starter"
+    ],
+    [
+     "FL3",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(ECM) Engine control module, main relay"
+    ],
+    [
+     "FL6",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "(ABS) ABS hydraulic unit, fuse F9"
+    ],
+    [
+     "1",
+     "Diode MINI",
+     "",
+     "Engine control module"
+    ],
+    [
+     "2",
+     "Diode MINI",
+     "",
+     "Cornering light"
+    ],
+    [
+     "X1",
+     "Relay",
+     "",
+     "Lights"
+    ],
+    [
+     "X5",
+     "Relay",
+     "",
+     "A/C thermostat"
+    ],
+    [
+     "X7",
+     "Relay",
+     "",
+     "A/C compressor"
+    ],
+    [
+     "X8",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "X9",
+     "Relay",
+     "",
+     "Horn or tail light"
+    ],
+    [
+     "X11",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "X12",
+     "Relay",
+     "",
+     "ECM main"
+    ],
+    [
+     "X13",
+     "Relay",
+     "",
+     "Windshield wiper"
+    ],
+    [
+     "X16",
+     "Relay",
+     "",
+     "Upshift-1 (M/T) or anti-theft alarm"
+    ],
+    [
+     "X17",
+     "Relay",
+     "",
+     "Starter (gasoline)"
+    ],
+    [
+     "X18",
+     "Relay",
+     "",
+     "Shift on the fly"
+    ],
+    [
+     "X19",
+     "Relay",
+     "",
+     "Condenser fan"
+    ],
+    [
+     "X21",
+     "Relay",
+     "",
+     "Upshift-2 (M/T; with ABS)"
+    ],
+    [
+     "X21",
+     "Relay",
+     "",
+     "Accessory socket"
+    ],
+    [
+     "X22",
+     "Relay",
+     "",
+     "Cornering light or rear fog light"
+    ],
+    [
+     "X23",
+     "Relay",
+     "",
+     "Fog light"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Cabin fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-trooper-2005-genid-g2-2.webp",
+   "fuses": [
+    [
+     "C1",
+     "Fuse ATO",
+     "10A",
+     "Starter relay, clutch start switch (M/T), mode switch (A/T), anti-theft controller, DERM (SRS)"
+    ],
+    [
+     "C2",
+     "Fuse ATO",
+     "15A",
+     "Seat heater switches and heaters (LH & RH)"
+    ],
+    [
+     "C3",
+     "Fuse ATO",
+     "10A",
+     "TCM, turn signal switch/lights/indicator, flasher unit, curve light relay, backup light switch (M/T), mode switch (A/T), A/T shift indicator/lock units, cruise control unit, cancel switch"
+    ],
+    [
+     "C3",
+     "Fuse ATO",
+     "15A",
+     "TCM, turn signal switch/lights/indicator, flasher unit, curve light relay, backup light switch (M/T), mode switch (A/T), A/T shift indicator/lock units, cruise control unit, cancel switch"
+    ],
+    [
+     "C4",
+     "Fuse ATO",
+     "10A",
+     "Cruise control unit/switches, rear defogger switch/relay/indicator, clutch switch, transmission switches (M/T), rearview mirror, door mirror defogger switch, A/T shift lock unit, window lift relay, EBCM, TCM, G sensor, upshift-2 relay, upshift indicator"
+    ],
+    [
+     "C5",
+     "Fuse ATO",
+     "15A",
+     "Windshield wiper/washer switch, wiper motor, washer motor, wiper flasher relay"
+    ],
+    [
+     "C6",
+     "Fuse ATO",
+     "10A",
+     "Rear wiper/washer switch, rear washer and wiper motors, rear wiper flasher relay"
+    ],
+    [
+     "C7",
+     "Fuse ATO",
+     "10A",
+     "Headlight wiper motor/washer motor/timer, wiper switch"
+    ],
+    [
+     "C8",
+     "Fuse ATO",
+     "15A",
+     "Generator, main ECM relay, VSV: EGR/canister/intake air (DOHC)"
+    ],
+    [
+     "C9",
+     "Fuse ATO",
+     "15A",
+     "Fuel cut (4JG2)"
+    ],
+    [
+     "C10",
+     "Fuse ATO",
+     "10A",
+     "Vehicle speed sensor, remind buzzer, gauges (voltmeter, coolant temp, tachometer, speedometer, oil pressure, fuel), indicator/warning lights (ABS, RWAL, seat belt, check engine, low fuel, 4WD, oil pressure, upshift, brake, charge, A/T oil temp, cruise, trans check, drive modes), 4WD/parking brake/seat belt switches, EBCM, ECM, RWAL controller"
+    ],
+    [
+     "C11",
+     "Fuse ATO",
+     "10A",
+     "Audio, door mirror and control switch, folding mirror switch, digital clock, speaker"
+    ],
+    [
+     "C12",
+     "Fuse ATO",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "C13",
+     "Fuse ATO",
+     "10A",
+     "Anti-theft controller"
+    ],
+    [
+     "C14",
+     "Fuse ATO",
+     "15A",
+     "Turn signal switch (w/o cruise), brake switch (with cruise), RWAL controller, turn signal, TCM, EBCM, trailer connector, cruise control unit, A/T shift lock unit, shutdown lock relay"
+    ],
+    [
+     "C15",
+     "Fuse ATO",
+     "20A",
+     "Horn, horn relay/switch, hazard switch/light, flasher unit, anti-theft horn, audio/telephone"
+    ],
+    [
+     "C16",
+     "Fuse ATO",
+     "10A",
+     "Digital clock, audio, dome/map/luggage/courtesy lights, door switches, antenna, anti-theft controller, key reminder switch, seat belt, reminder buzzer"
+    ],
+    [
+     "C17",
+     "Fuse ATO",
+     "25A",
+     "Rear defogger, rear defogger relay"
+    ],
+    [
+     "C18",
+     "Fuse ATO",
+     "20A",
+     "Anti-theft indicator, front door lock and window switch, door lock key switch, door lock actuators"
+    ],
+    [
+     "C19",
+     "Fuse ATO",
+     "25A",
+     "Blower motor, fan resistor, fan switch"
+    ],
+    [
+     "C20",
+     "Fuse ATO",
+     "10A",
+     "Pressure switch, A/C thermostat/compressor relays, magnetic clutch, A/C switch, fan switch"
+    ],
+    [
+     "C21",
+     "Fuse ATO",
+     "10A",
+     "SRS warning light (gauge)"
+    ],
+    [
+     "C22",
+     "Fuse ATO",
+     "10A",
+     "DERM"
+    ],
+    [
+     "C23",
+     "Fuse ATO",
+     "10A",
+     "Passenger inflator module, DERM"
+    ],
+    [
+     "C24",
+     "Fuse ATO",
+     "10A",
+     "Dual pole arming sensor, DERM, SRS coil assembly, inflator module controller"
+    ],
+    [
+     "CB2",
+     "Circuit breaker ATO",
+     "",
+     "Power window relay/switch/motor, sunroof motor/control unit/switches, power seat switches and motors"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Heater and air conditioning"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Power windows"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Turn signal indicator switch"
+    ],
+    [
+     "3",
+     "Diode MINI",
+     "",
+     "Dome light anti-theft"
+    ],
+    [
+     "4",
+     "Diode MINI",
+     "",
+     "Anti-theft (DOHC)"
+    ],
+    [
+     "5",
+     "Diode MINI",
+     "",
+     "Anti-theft reminder light"
+    ],
+    [
+     "6",
+     "Diode MINI",
+     "",
+     "Mode switch (DOHC)"
+    ],
+    [
+     "7",
+     "Diode MINI",
+     "",
+     "Cruise control RWAL"
+    ],
+    [
+     "9",
+     "Diode MINI",
+     "",
+     "Electronic brake control module (DOHC)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger compartment fuse box (Type 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-trooper-2005-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "(Starter) Starter system"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "(Seat heater) Seat heater"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Low beam and backup lights"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "(Elec. IG) Protects several circuits"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "15A",
+     "Front windshield washer"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "10A",
+     "Rear windshield washer"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "Headlight washer"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "(Engine) Engine control system"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "(IG coil) Ignition coil"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "7.5A",
+     "Instrument panel gauges"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "(Audio, mirror) Audio system, power mirror"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "20A",
+     "(Cigar) Cigar lighter / power outlet"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "(Tail, illumi) Tail lights, illumination"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "15A",
+     "(Stop, A/T cont.) Stop lights, automatic transmission controller"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "(Horn, hazard) Horn, hazard light"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "25A",
+     "(RR def.) Rear window defogger"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "7.5A",
+     "(Clock, room) Instrument cluster, interior lights"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "20A",
+     "(Door lock) Power door lock system"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "25A",
+     "(Blower) A/C blower motor"
+    ],
+    [
+     "27",
+     "Circuit breaker",
+     "",
+     "(P/Window, S/Roof, P/Seat) Power windows, sunroof, power seats (circuit breaker MAXI)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(RR DEF) Rear window defogger"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(Blower) A/C blower motor"
+    ]
+   ]
+  }
+ ]
+}
