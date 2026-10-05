@@ -1,0 +1,619 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "cx-70",
+ "brand_db": "Mazda",
+ "model_db_name": "CX-70",
+ "model_id": 2780,
+ "generation_name": "1st generation KJ",
+ "generation_code": "g1",
+ "year_start": 2025,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2026,
+ "source_url": "https://www.startmycar.com/mazda/cx-70/info/fusebox/2026",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-cx-70-2026-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Accessory socket"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "7.5A",
+     "Accessory socket"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Accessory socket"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Parking assist / 360 view monitor"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag system"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Audio system"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "25A",
+     "Audio system"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "Front seat warmer"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "25A",
+     "Power liftgate system"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "30A",
+     "Power windows, body control system"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "30A",
+     "Power windows, body control system"
+    ],
+    [
+     "F25",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front seat warmer, passenger-side power seat"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Door lock system, body control system"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Door lock system, body control system"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Electric tilt/telescoping mechanism"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "20A",
+     "Second-row seat warmer, rear one-touch walk-in seat"
+    ],
+    [
+     "F31",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver-side power seat"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (LHD)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-cx-70-2026-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLM",
+     "60A",
+     "Electric parking brake, dynamic stability control"
+    ],
+    [
+     "2",
+     "Fuse FMM/MCase",
+     "30A",
+     "Control system (PYUL)"
+    ],
+    [
+     "3",
+     "Fuse FMM/MCase",
+     "30A",
+     "Control system (PYUL)"
+    ],
+    [
+     "4",
+     "Fuse FMM/MCase",
+     "40A",
+     "Control system (PYUL)"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starting system (PYUL)"
+    ],
+    [
+     "6",
+     "Fuse FMM/MCase",
+     "40A",
+     "Automatic transmission control system"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "8",
+     "Fuse FMM/MCase",
+     "30A",
+     "Various circuits"
+    ],
+    [
+     "9",
+     "Fuse FMM/MCase",
+     "50A",
+     "Various circuits"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Control system (PYUL)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Control system (PYUL)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Control system (PYUL)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Control system (PHEV)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Various circuits"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Various circuits"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Control system"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "Various circuits"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "25A",
+     "Control system (PHEV)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Heater and air conditioner system"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Automatic transmission control system"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "25A",
+     "Various circuits"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "30A",
+     "Electric parking brake, dynamic stability control"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Wiper and washer system, body control system"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "25A",
+     "Wiper and washer system"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Accessory socket"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Control system (PHEV)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Electric variable valve timing relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Supply relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Electric water pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Sub relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Main relay No. 1"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "QBC contactor (-) drive relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Rear window defogger relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Charger relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "CBC contactor (+) drive relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Electric AT oil pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box (RHD)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-cx-70-2026-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Accessory socket"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Various circuits"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "Control system"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "7.5A",
+     "Various circuits"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Accessory socket"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "25A",
+     "Accessory socket"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "25A",
+     "Accessory socket"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "25A",
+     "Various circuits"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "7.5A",
+     "Various circuits"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Various circuits"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Electric driving system"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "Fuel system (PYUL)"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "30A",
+     "Electric driving system"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "30A",
+     "Rear one-touch walk-in seat"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "20A",
+     "Heater and air conditioner system"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "40A",
+     "Heater and air conditioner system"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "Windshield wiper de-icer system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Windshield wiper de-icer relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear blower relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Main relay No. 2"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "DCAC relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Inverter relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "ACC relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Blower relay"
+    ]
+   ]
+  }
+ ]
+}
