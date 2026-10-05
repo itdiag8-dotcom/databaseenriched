@@ -1,0 +1,790 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "ls-460",
+ "brand_db": "Lexus",
+ "model_db_name": "Ls",
+ "model_id": 2593,
+ "generation_name": "4th generation XF40",
+ "generation_code": "g4",
+ "year_start": 2006,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/lexus/ls-460/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Panel Fuse Box (Driver Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-460-2015-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "D-IG1-3"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "D-IG1-2"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "D-IG1-4"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "D-IG1-1"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "PWR OUTLET - auxiliary power outlet"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "D-ACC"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "D-IG1-5"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "S/ROOF - sunroof"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "TI&TE - power tilt/telescopic"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "AM1 - starter system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "D RR SEAT - power seats"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "D P/SEAT - power seats"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "D S/HTR - seat heater"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "D RR S/HTR - rear seat heater"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "D MPX-B 1"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "DOME - dome and interior lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "D MPX-B 2"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "PANEL - instrument panel lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "SECURITY - anti-theft system"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "AMP - audio system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "STR LOCK - steering lock"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "D DOOR 2 - power windows"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "HAZ - hazard lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "25A",
+     "D RR DOOR - power windows"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "D DOOR 1 - power windows"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "STOP - stop lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Panel Fuse Box (Passenger Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-460-2015-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "P-IG1-2 - body/engine/driver-assist circuits"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "P-IG1-3 - VGRS system"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "P-IG1-1 - A/C, locks, parking brake, windows, VDIM"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "P-IG1-4 - climate control seats, seat heaters"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "P-CIG - cigarette lighter"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "P-ACC - audio, navigation, smart access, accessories"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "RR SEAT - front passenger/rear power seats"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "A/C - air conditioning"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "P S/HTR - front climate control seats"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "RR SEAT - vibration seat"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "P P/SEAT 1 - front passenger power seat"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "P RR S/HTR - rear climate control seat, seat heater"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "P IG2 - smart access, power control, CAN, starting"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "P RR-IG2 - SRS"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "P MPX-B - multiplex, A/C, audio, locks, windows, seats"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "DRL - headlight"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "AIR SUS - air suspension"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "AM2 - power control, immobiliser, smart access, starting"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "RR SEAT - vibration seat"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "RADIO NO.1 - audio, navigation, Enform, parking assist"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "PMG - power control, immobiliser, smart access, starting"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "P-D/C CUT - body and driver-assist battery circuits"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "P DOOR 2 - door closer/lock, windows, mirrors"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "25A",
+     "P RR DOOR - rear door systems, windows, sunshade"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "25A",
+     "P DOOR 1 - door closer/lock, windows, mirrors"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-460-2015-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "A/F - engine control"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "25A",
+     "EDU2 - engine control"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "FR CTRL ALT - front controller (lights, horn, wiper, deicer)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "25A",
+     "EDU1 - engine control"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "FR FOG - fog lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "H-LP LVL - headlight leveling"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "P-J/B - passenger junction box feed (many circuits)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "INJ - meter, engine control"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "E/G RM-IG1-2 - EPS"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "E/G RM-IG1-1 - front controller circuits"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "H-LP LL - left headlight low beam"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "ABS MAIN1 - brake hold, radar cruise, VDIM"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "H-LP RL - right headlight low beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "ETCS - engine control, cruise"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "NV IR - night view, LKA, pre-collision"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "IGN - ignition, Enform, SRS"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG - engine control, cruise, VDIM, smart access"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "ECU-B - front controller circuits"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "25A",
+     "DEICER - front window deicer"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "WIP - wiper and washer"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "ABS MAIN2 - brake hold, radar cruise, VDIM"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "EPS ECU - electric power steering"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "FR CTRL BAT - front controller battery feed"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "ST - starting, immobiliser, smart access"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS MTR1 - VDIM, pre-collision"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS MTR2 - VDIM, pre-collision"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "VVT - engine control"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "5A",
+     "ECU-B2 - electric parking brake"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "ABS MAIN3 - brake hold, radar cruise, VDIM"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "25A",
+     "EFI MAIN2 - engine control, cruise"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "25A",
+     "EFI MAIN - engine control, cruise"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "EFI - engine control, A/T indicator"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "EFI-B - engine control"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "IG2 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "IG1 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "EFI MAIN relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "EFI MAIN2 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "ST CUT relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "C/OPN relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "VVT RH relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "F/PMP relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "ST relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "VVT LH relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Additional Relay Box #1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-460-2015-genid-g1-3.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "DEICER relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "ABS MTR2 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "DEFOG relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Additional Relay Box #2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-460-2015-genid-g1-4.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "PTC HTR 3 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PTC HTR 1 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PTC HTR 2 relay"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-460-2015-genid-g1-5.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "RR-IG1-3 - climate control seats"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "RR-IG1-4 - LKA, night view, pre-collision, rear seat heater"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "RR-IG1-2 - rear body circuits (trunk, sunshade, outlets)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "RR-IG1-1 - parking brake, pre-collision, VDIM"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "RR-ACC - audio, navigation, rear entertainment"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "RR-CIG - cigarette lighter, 12V outlet"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "AC100/120V - 120V power outlet"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "RL SEAT - rear power seat"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "B/ANC - power shoulder belt anchorage"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "RR S/SHADE - rear sunshade"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "PSB - pre-collision system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "PTL - power trunk opener/closer"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "FUEL OPN - fuel lid opener"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "OBD - data link connector"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "RR MPX-B 1 - rear multiplex circuits"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "RR MPX-B 2 - rear multiplex circuits"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "E-PKB - electric parking brake"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ABS MAIN 4 - VDIM"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "STOP LP 1 - stop lights, brake hold"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "STOP LP 2 - stop lights, brake hold"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "RR ECU-B2 - audio, navigation, rear entertainment"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "TAIL - taillights, auto light control"
+    ]
+   ]
+  }
+ ]
+}

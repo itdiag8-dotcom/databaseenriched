@@ -1331,7 +1331,14 @@
   "lexus/is-f": "skipped_no_db_model",
   "lexus/lbx": "no_data",
   "lexus/lm": "no_data",
-  "lexus/tz": "no_data"
+  "lexus/tz": "no_data",
+  "lexus/is": "done",
+  "lexus/ls-400": "done",
+  "lexus/ls-430": "done",
+  "lexus/ls-460": "done",
+  "lexus/ls-500": "done",
+  "lexus/ls-500h": "done_covered_by_ls-500",
+  "lexus/ls-hybrid": "done_covered_by_ls-500_and_ls-460"
  },
  "last_updated": "2026-10-05",
  "current_brand": "lexus",

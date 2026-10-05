@@ -1,0 +1,721 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "ls-430",
+ "brand_db": "Lexus",
+ "model_db_name": "Ls",
+ "model_id": 2593,
+ "generation_name": "3rd generation XF30",
+ "generation_code": "g3",
+ "year_start": 2000,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/lexus/ls-430/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment Fuse Box No.1 (Driver Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-430-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "TI&TE - tilt/telescopic steering"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "PANEL - panel illumination, park assist, audio, clock, VSC, AFS"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "D P/SEAT - driver power seat"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "GAUGE - gauges, park assist, shift lock"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "MPX-IG - steering, door lock, power seat, immobilizer"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "D S/HTR - seat heater, climate control seat"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "AIR SUS - electronically modulated air suspension"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "D-ACC - shift lock, theft deterrent"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "PWR OUTLET - power outlet"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "D-CIG - rear cigarette lighter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - on-board diagnostics"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "AM1 - starting system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "ABS-IG - vehicle stability control"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "D B/ANC - seat belts"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "SECURITY - theft deterrent"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "A/C - air conditioning"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "STOP - stop lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "D RR-IG - refreshing seat"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relays in the passenger Compartment Fuse Box No.1 (Driver Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-430-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Accessory relay (D-ACC)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Ignition relay (D-IG1)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fuse Box No.2 (Passenger Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-430-2006-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "RADIO NO.1 - audio system"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "RR DOOR LH - door lock, window, closer, courtesy lights"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "P DOOR - locks, mirrors, closer, windows"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "TEL - audio, navigation"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "P B/ANC - seat belts, buckle illumination"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "RR DOOR RH - door lock, window, closer, courtesy lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "D DOOR - locks, closer, mirrors, windows"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "P RR-IG - refreshing seat"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "H-LP LVL - headlight leveling, AFS"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "P-IG - rain sensor, A/C, moon roof, display, clock"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "P S/HTR - seat heater, climate control seat"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "P-ACC - A/C, audio, clock, display, illuminated entry"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "P-CIG - front cigarette lighter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "HAZ - emergency flashers"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "STR LOCK - steering lock"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "IG2 - SRS, immobilizer, steering lock, starting"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "AM2 - STA and IG2 components, starting"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "MPX-B1 - door lock, immobilizer, power seats"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "MPX-B3 - steering, headlight/wiper/turn switches"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "DOME - vanity/foot/interior/personal lights, clock, meters"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "MPX-B2 - gauges, VSC, illuminated entry, TEL"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "IG2 - SRS, immobilizer, steering lock, starting"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Relays in the passenger Compartment Fuse Box No.1 (Passenger Side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-430-2006-genid-g1-3.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Accessory relay (P-ACC)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Ignition relay (P-IG1)"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-430-2006-genid-g1-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "RR IG - park assist, air suspension, theft deterrent, TEL"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "RR ACC - audio, TEL"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "RR ECU-B - rear A/C, theft deterrent, trunk light, refreshing seat"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "RR A/C - rear air conditioning, air purifier"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "RR S/HTR - seat heater, climate control seat"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "RR S/SHADE - sunshade"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "LCE LP - license plate lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "S/ROOF - moon roof"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "FUEL OPN - fuel opener, trunk lid closer"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "AMP - audio system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "P P/SEAT - passenger power seat"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "RR SEAT LH - rear power seat"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "RR SEAT RH - rear power seat"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Accessory relay (L-ACC)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Ignition relay (L-IG1)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Sunshade relay (RR S/SHADE)"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-430-2006-genid-g1-5.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "H-LP R LWR - right headlight low beam"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "H-LP L LWR - left headlight low beam"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "EFI NO.2 - fuel injection"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "STA - fuel injection"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "INJ - fuel injection"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "IGN - fuel injection"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "FR IG - cooling fan, cleaner, charging, starting, defogger"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "A/C IG - air conditioning"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "WIP - windshield wiper"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "FR FOG - fog lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "WASHER - windshield washer"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "TAIL - tail/parking/side marker lights"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "H-LP CLN - headlight cleaner"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "25A",
+     "EFI NO.1 - fuel injection (2003)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "EFI NO.1 - fuel injection (2004-2006)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "HORN - horns"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "ETCS - fuel injection"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "H-LP HI - headlight high beams"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Ignition relay (IG1)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Circuit opening relay (C/OPN fuel pump)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay (F/PMP)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "EFI MAIN relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Ignition relay (IG2)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlight relay (HEAD LP)"
+    ]
+   ]
+  },
+  {
+   "index": 6,
+   "name": "Fusible Link Block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-430-2006-genid-g1-6.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS 2 - vehicle stability control"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "HEATER - air conditioning"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS - vehicle stability control"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "DEFOG - rear window defogger"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "AIR SUS - air suspension"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "FAN (100W) - air conditioning"
+    ],
+    [
+     "8",
+     "Fuse FLM",
+     "60A",
+     "R/B - FR FOG, TAIL, WASHER, FR IG, WIP, H-LP CLN, A/C IG"
+    ],
+    [
+     "9",
+     "Fuse FLM",
+     "80A",
+     "FAN (200W) - air conditioning"
+    ],
+    [
+     "9",
+     "Fuse FLM",
+     "60A",
+     "LUG J/B - luggage junction box circuits, tail and stop lights"
+    ],
+    [
+     "10",
+     "Fuse FLM",
+     "80A",
+     "D-J/B - driver junction box circuits"
+    ],
+    [
+     "11",
+     "Fuse FLM",
+     "140A",
+     "ALT - charging system"
+    ],
+    [
+     "12",
+     "Fuse FLM",
+     "80A",
+     "P-J/B - passenger junction box circuits"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "30A",
+     "BATT - RADIO NO.1, AM2, HAZ, STR LOCK"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "ST - starting system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "D/C CUT - DOME, MPX-B1, MPX-B3"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "ALT-S - charging system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "AIR SUS relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "FAN relay"
+    ]
+   ]
+  },
+  {
+   "index": 7,
+   "name": "Engine Compartment Relay Box No.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-430-2006-genid-g1-7.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear window defogger relay (DEFOG)"
+    ]
+   ]
+  },
+  {
+   "index": 8,
+   "name": "Engine Compartment Relay Box No.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ls-430-2006-genid-g1-8.webp",
+   "fuses": [
+    [
+     "R2",
+     "Relay",
+     "",
+     "ABS MTR relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "ABS SOL relay"
+    ]
+   ]
+  }
+ ]
+}
