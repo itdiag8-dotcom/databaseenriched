@@ -1,0 +1,510 @@
+{
+ "make_slug": "lincoln",
+ "model_slug": "town-car",
+ "brand_db": "Lincoln",
+ "model_db_name": "Town Car",
+ "model_id": 2617,
+ "generation_name": "3rd generation FN145",
+ "generation_code": "g3",
+ "year_start": 1998,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/lincoln/town-car/info/fusebox/2009",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-town-car-2009-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Starter relay coil"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "RCM, occupant classification sensor, PADI"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamps, ABS"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "Lighting control module (LCM)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "PATS, PCM relay coil, ignition relay coil, fuel relay coil"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Wiper module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Power decklid module, O/D cancel switch, cluster, compass, LCM"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Door lock/heated seat switch illumination, EC mirror"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Hazards"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Turn signal"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Extended rear park aid module, cluster"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Adjustable pedals, delayed accessory relay coil"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "DATC module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "OBD II"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "A/C cycle switch, heated seat modules"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "LCM (interior lighting)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Driver door module switches, PDM, power mirrors, PATS LED"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "LCM (right low beam)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Analog clock, LCM (illumination)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "LCM (left low beam)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "LCM"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "LCM (high beams), flash-to-pass"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "DATC module, cluster"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "LCM (park, cornering, license lamps)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Brake signal, LCM (BTSI), ABS"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "LCM (key-in)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "Delayed accessory (audio)"
+    ],
+    [
+     "K101",
+     "Relay",
+     "",
+     "Delayed accessory relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-town-car-2009-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "PCM keep alive power and canister vent"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Fuel relay feed"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Instrument panel power point"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Alternator regulator"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "PCM relay feed"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Driver door module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil relay feed"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Horn relay feed"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "A/C clutch relay feed"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Audio"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Rear air suspension module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Stop lamp switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Lumbar, fuel door"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Heated seats"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Injectors"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "PCM"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Powertrain loads and sensors"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "101",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay feed"
+    ],
+    [
+     "102",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "103",
+     "Fuse FMX/JCase",
+     "50A",
+     "Instrument panel fuse box feed #1"
+    ],
+    [
+     "104",
+     "Fuse FMX/JCase",
+     "50A",
+     "Instrument panel fuse box feed #2"
+    ],
+    [
+     "105",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter relay feed"
+    ],
+    [
+     "106",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS module (pump)"
+    ],
+    [
+     "107",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear defroster relay feed"
+    ],
+    [
+     "108",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power decklid module"
+    ],
+    [
+     "109",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS module (valves)"
+    ],
+    [
+     "110",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper module"
+    ],
+    [
+     "111",
+     "Fuse FMX/JCase",
+     "20A",
+     "Left rear power point"
+    ],
+    [
+     "112",
+     "Fuse FMX/JCase",
+     "30A",
+     "RASM (air compressor)"
+    ],
+    [
+     "113",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear power point #2"
+    ],
+    [
+     "114",
+     "Fuse FMX/JCase",
+     "20A",
+     "Instrument panel fuse box feed #3"
+    ],
+    [
+     "115",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear cigar lighters"
+    ],
+    [
+     "116",
+     "Fuse FMX/JCase",
+     "30A",
+     "Decklid pulldown module"
+    ],
+    [
+     "117",
+     "Fuse FMX/JCase",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "201",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "203",
+     "Relay",
+     "",
+     "Ignition coil relay"
+    ],
+    [
+     "204",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "206",
+     "Relay",
+     "",
+     "Fuel relay"
+    ],
+    [
+     "209",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "301",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "302",
+     "Relay",
+     "",
+     "RASM air compressor relay"
+    ],
+    [
+     "303",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "304",
+     "Relay",
+     "",
+     "Rear defroster relay"
+    ],
+    [
+     "502",
+     "Diode ATO",
+     "",
+     "Reverse battery diode"
+    ],
+    [
+     "503",
+     "Diode ATO",
+     "",
+     "Horn, door latch diode"
+    ],
+    [
+     "601",
+     "Circuit breaker MAXI",
+     "",
+     "Power seats, driver seat module"
+    ],
+    [
+     "602",
+     "Circuit breaker MAXI",
+     "",
+     "Delayed accessory relay for windows, audio"
+    ]
+   ]
+  }
+ ]
+}
