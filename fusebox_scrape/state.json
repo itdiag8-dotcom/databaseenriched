@@ -1196,9 +1196,10 @@
   "infiniti/qx60-hybrid": "no_data",
   "infiniti/qx70": "done",
   "infiniti/qx70-hybrid": "no_data",
-  "infiniti/qx80": "done"
+  "infiniti/qx80": "done",
+  "isuzu/ascender": "done"
  },
- "last_updated": "2026-10-05T09:29:21.622625",
+ "last_updated": "2026-10-05T09:30:21.487057",
  "current_brand": "isuzu",
  "audi_done_models": [
   "a1",
@@ -2358,5 +2359,14 @@
   "qx70": 2312,
   "qx70-hybrid": null,
   "qx80": 2313
- }
+ },
+ "isuzu_model_slugs": [
+  "ascender",
+  "d-max",
+  "i-series",
+  "mu-x",
+  "rodeo",
+  "trooper",
+  "vehicross"
+ ]
 }

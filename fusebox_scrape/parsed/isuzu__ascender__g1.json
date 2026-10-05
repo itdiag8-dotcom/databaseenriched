@@ -1,0 +1,648 @@
+{
+ "make_slug": "isuzu",
+ "model_slug": "ascender",
+ "brand_db": "Isuzu",
+ "model_db_name": "Ascender",
+ "model_id": 2320,
+ "generation_name": "1st generation (GMT360/GMT370)",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/isuzu/ascender/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-ascender-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MEGA",
+     "125A",
+     "(I/P BATT) Fuse block rear - B+ bus"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "(TRLR) Trailer connector"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "60A",
+     "(ABS) Electronic brake control module (EBCM)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "60A",
+     "(AIR PUMP) Secondary air injection pump relay"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "60A",
+     "(VSES) Electronic brake control module (EBCM)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BLWR) Blower motor control module, blower motor resistor"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IGN A) Ignition switch - ACCY/RUN/START, RUN, START bus"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IGN B) Ignition switch - ACCY/RUN, RUN/START bus"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "(ECAS) Air suspension compressor assembly"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(HI HEADLAMP-RT) Right headlamp high beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(LO HEADLAMP-RT) Right headlamp low beam"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(TRLR BCK/UP) Trailer connector"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(HI HEADLAMP-LT) Left headlamp high beam"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(LO HEADLAMP-LT) Left headlamp low beam"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "(ATC) Transfer case encoder motor, transfer case shift control module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(WSW) Windshield washer relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "(WPR) Headlamp wiper relay, rear wiper relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(TRLR LT TRN) Trailer connector"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "(PCM B) Fuel pump relay, powertrain control module (PCM)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "25A",
+     "(STOP LAMP) Stop lamp switch"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "(LTR) Cigar lighter, data link connector (DLC)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(TRLR RT TRN) Trailer connector"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(O2 SNSR) Heated oxygen sensors 1/2"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "(EAP) Electronic adjustable pedals relay; 2006: also auxiliary water pump relay 1"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(CRNK) Powertrain control module (PCM)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "(BTSI) Automatic transmission shift lock actuator, stop lamp switch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "(HDM) HDM relay"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "25A",
+     "(HAZRD) Turn signal/hazard flasher module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "(TBC IGN1) Body control module (BCM)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "(AIR BAG) Passenger pressure system module, sensing and diagnostic module (SDM), rollover sensor"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "(FAN) Cooling fan relay"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "(IGN E) A/C relay, headlamp leveling actuators, headlamp switch, inside mirror, instrument cluster, PNP switch, stop lamp switch, turn signal/multifunction switch"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "(BCK/UP) EAP relay, park/neutral position switch"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "(PCM I) Fuel injectors, ignition coils, PCM"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "(AIR SOL) AIR solenoid relay, secondary air injection pump relay"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "(ETC) MAF/IAT sensor, PCM"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "(TCM CNSTR) EVAP purge/vent solenoids, theft deterrent alarm"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "30A",
+     "(ELEC BRK) Trailer brake wiring"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn relay"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "(IPC/DIC) Instrument panel cluster"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "15A",
+     "(RVC) 2007: regulated voltage control module"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "(FOG LAMP) Fog lamp relay"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "(A/C) A/C relay"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "(TBC I) BCM, theft deterrent alarm/control module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(PWR/TRN) ETC, O2 sensor"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(STRTR) Starter"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(HEADLAMP WPR) Headlamp washer fluid pump"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(REAR/WPR) Rear window washer fluid pump"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(FOG LAMP) Front fog lamps"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(HORN) Horn assembly"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(FAN) Cooling fan"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "(HDM) Low beam headlamps LT/RT"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(FUEL PUMP) Fuel pump and sender assembly"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(WSW) Windshield washer fluid pump"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(HI HEADLAMP) High beam headlamps LT/RT"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(A/C) A/C compressor clutch assembly"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "(AIR SOL) Secondary air injection solenoid"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "(EAP) Electronic adjustable pedals switch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Rear underseat",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-ascender-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "30A",
+     "(LGM #2) Liftgate module (LGM)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "(RR FOG) Tail lamp circuit board left"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "(TBC 3) Body control module (BCM)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "(TBC 2) Body control module (BCM)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "(RR WIPER) Rear window wiper motor"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "(DDM) Driver door module"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "(AMP) Audio amplifier"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "(PDM) Front passenger door module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "30A",
+     "(RR HVAC) 2006: auxiliary blower motor and control processor; 2007: not used"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "(LR PARK) License lamps, tail lamp circuit board left"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "(VEH CHMSL) Center high mounted stop lamp"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "(RR PARK) Clearance lamps, tail lamp circuit board right"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "(LGM/DSM) Intrusion sensor module, inclination sensor, liftgate module, driver memory seat module"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "(LOCKS) Lock relay, unlock relay"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "(OH BATT/ONSTAR) DVD player, garage door opener, communication interface module"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "(SUNROOF) Sunroof motor"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "(RAIN) 2006: outside moisture sensor; 2007: not used"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "3A",
+     "(TBC ACC) Body control module (BCM)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "(FRT WPR) Windshield wiper motor"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "(TCM) Transmission control module"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "(TBC 5) Body control module (BCM)"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "(VEH STOP) ECM, PCM, tail lamp circuit boards, trailer brake wiring, TCM"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "(HVAC B) HVAC control module, auxiliary HVAC module"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "(F PARK) Marker lamps, park lamps, park/turn signal lamps, turn signal/multifunction switch"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "(LT TURN) Driver door module, instrument cluster, marker lamp, LF park/turn signal lamp, tail lamp circuit board left, LF turn signal lamp"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "(HVAC I) Air temperature actuators, console/defrost/mode/recirculation actuators, HVAC modules, steering wheel speed/position sensor, turn signal/multifunction switch"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "(TBC 4) Body control module (BCM)"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "(RADIO) Digital radio receiver, radio"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "(TR PARK) Trailer connector"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "(RT TURN) Front passenger door module, instrument cluster, RF marker lamp, RF park/turn signal lamp, tail lamp circuit board right, RF turn signal lamp"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "30A",
+     "(HVAC) HVAC control module"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "20A",
+     "(AUX PWR 1) Auxiliary power outlets"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "(IGN 0) Automatic transmission, shift lock actuator, ECM, PCM, theft deterrent control module"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "15A",
+     "(4WD) Air suspension compressor, auxiliary water pump relay 1, front axle actuator, transfer case shift control switch"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "3A",
+     "(TBC IG) Body control module (BCM)"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "10A",
+     "(BRAKE) Electronic brake control module (EBCM)"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "3A",
+     "(TBC RUN) Body control module (BCM)"
+    ],
+    [
+     "F50",
+     "Circuit breaker ATO",
+     "",
+     "(RT DOORS) Front passenger door module, RR window switch"
+    ],
+    [
+     "F51",
+     "Circuit breaker ATO",
+     "",
+     "(LT DOORS) Driver door module, LR window switch"
+    ],
+    [
+     "F52",
+     "Circuit breaker ATO",
+     "",
+     "(SEATS) Lumbar adjuster switches, driver memory seat module, seat adjuster switches"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(LOCK) Rear door latch assemblies"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(UNLOCK) Rear door latch assemblies"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(RAP) Quarter glass switches, sunroof motor"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(PARK LP) Front/LR/RR/trailer park lamps"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(RR FOG LP) Rear fog lamp"
+    ]
+   ]
+  }
+ ]
+}
