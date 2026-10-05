@@ -1,0 +1,565 @@
+{
+ "make_slug": "lincoln",
+ "model_slug": "mkc",
+ "brand_db": "Lincoln",
+ "model_db_name": "MKC",
+ "model_id": 2609,
+ "generation_name": "1st generation C489",
+ "generation_code": "g1",
+ "year_start": 2015,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2019,
+ "source_url": "https://www.startmycar.com/lincoln/mkc/info/fusebox/2019",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-mkc-2019-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS module"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS module"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor relay"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Run start relay"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Powertrain control module relay"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "30A",
+     "Starter relay"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Memory seat"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wipers and washers relay"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "25A",
+     "Cooling fan"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 1 (600W)"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan 1 (750W)"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 2 (600W)"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan 2 (750W)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "5A",
+     "ABS module run/start"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Horn relay"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Brake pedal switch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "25A",
+     "Windshield wipers and washer"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "5A",
+     "Run/start relay coil"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "Transmission range control module"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "5A",
+     "PCM relay coil"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Washer pump relay"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Alternator sensor"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "Rain sensor, rear wiper, rear washer pump relay coil"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 1 (PCM)"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 2 (canister vent, O2 sensors, VCT, purge solenoid)"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 3 (A/C clutch relay, fan relay, bypass valve, grille shutters)"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "15A",
+     "Vehicle power 4 (ignition coils)"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "Voltage quality module run/start (stop/start)"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "5A",
+     "Powertrain control ignition start power - run"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "Electronic power assist steering run/start"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "10A",
+     "Extended power module run/start"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "Adaptive cruise, BLIS, head-up display, rear camera (stop/start)"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "5A",
+     "Heated rear window relay coil, heated wiper park, trans pump run/stop"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "5A",
+     "Transmission range control module run/start"
+    ],
+    [
+     "F46",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated rear window relay, heated wiper park"
+    ],
+    [
+     "F47",
+     "Fuse MINI",
+     "30A",
+     "Electronic transmission pump B+ feed (stop/start)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Run start relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear window washer pump relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Cooling fan relay 3 (750W)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Windshield wipers relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan relay 1 (600W) / relay 5 (750W)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cooling fan relay 4 (750W)"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan relay 1 (750W) / relay 3 (600W)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Cooling fan relay 2"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Heated rear window/heated wiper park relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-mkc-2019-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Demand lamp battery saver"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "7.5A",
+     "Memory seats"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Driver door unlock"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "20A",
+     "Subwoofer amplifier, THX amplifier"
+    ],
+    [
+     "10",
+     "Fuse MICRO3",
+     "5A",
+     "Keypad, power liftgate logic"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control, gear shift module, push-button ignition"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Cluster, datalink module logic, steering column module logic"
+    ],
+    [
+     "14",
+     "Fuse MICRO3",
+     "10A",
+     "Extended power module (RCM, occupant classification)"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "10A",
+     "Datalink module"
+    ],
+    [
+     "17",
+     "Fuse MICRO3",
+     "5A",
+     "Cellphone passport module"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "Humidity and in-car temperature"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Delayed accessory (window switch, moonroof logic, inverter logic)"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Central lock and unlock"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "30A",
+     "Driver door (window, mirror)"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Front passenger door (window, mirror)"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "30A",
+     "Moonroof"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "20A",
+     "THX amplifier"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "30A",
+     "Rear driver side door window"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "30A",
+     "Rear passenger side door window"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Display, GPS, RF receiver, voice control"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Radio and active noise control"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Run/start bus"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Auto-dimming mirror, CCD suspension, lane keeping, rear heated seats"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "All-wheel drive relay, heated steering wheel"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear Cargo Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-mkc-2019-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Hands free liftgate"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear heated seats"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power cinch latch, power liftgate"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Heated front seats"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Trailer tow"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Climate control seats"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power seats"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point - inside floor console"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point - rear of floor console"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "20A",
+     "Power point - cargo area"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "40A",
+     "Inverter power outlet"
+    ]
+   ]
+  }
+ ]
+}
