@@ -1,0 +1,342 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "mpv",
+ "brand_db": "Mazda",
+ "model_db_name": "MPV",
+ "model_id": 2808,
+ "generation_name": "3rd generation LY",
+ "generation_code": "g3",
+ "year_start": 2006,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/mazda/mpv/info/fusebox/2009",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mpv-2009-genid-g3-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "P.WIND - power windows (passenger and rear)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "ENG.IGA - engine control system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "SAS - ABS, airbag"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "METER - instrument cluster"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "ENG.IGA2 - engine control system"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "R.WIPER - rear wiper"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "25A",
+     "WIPER - front wiper"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "A/C - air conditioner"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "25A",
+     "P.WIND - power window (driver)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "P.SLIDE LH - power sliding door left"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "P.SLIDE RH - power sliding door right"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "M.DEF - mirror defogger"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "MIRROR - electric mirror"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "CIGAR - cigarette lighter"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "BACK - reversing light"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "AFS - adaptive front lighting"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "25A",
+     "SEAT.SET RH - electric third seat right"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "SEAT.SET LH - electric third seat left"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "P.LIFT GATE - power lift gate"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ILLUMI - illumination"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "TAIL - taillights, license plate, side lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mpv-2009-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "150A",
+     "MAIN - various power supplies"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "25A",
+     "FUEL PUMP"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "ENGINE - engine control system"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "R HEATER - rear heater"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "50A",
+     "HEATER - front heater"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "IGKEY2 - various power supplies"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "FAN1 - cooling fan"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "DEFOG - rear window defogger"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "BTN - various power supplies"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "50A",
+     "IGKEY1 - various power supplies"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "FOG - fog lamp"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "ABS (SOL) - ABS, DSC"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "D/L - power door lock"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "ROOM - room lamp"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "DEICER"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "S.WARM - seat heater"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "A/C MAG - air conditioner"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "BOSE - Bose sound system"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "P.SEAT - power seat"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS - ABS, DSC"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "H/L LOW R - low beam right"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "H/L LOW L - low beam left"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "H/L HIGH R - high beam right"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "H/L HIGH L - high beam left"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "HAZARD - hazard flashers"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "ENG +B - PCM"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "HORN"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "STOP - brake light"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "EGI INJ - engine control system"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "A BAR - air flow sensor, engine control"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "ETC - engine control system"
+    ]
+   ]
+  }
+ ]
+}
