@@ -1,0 +1,313 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "is-300",
+ "brand_db": "Lexus",
+ "model_db_name": "IS",
+ "model_id": 2588,
+ "generation_name": "Generation XE10",
+ "generation_code": "g1",
+ "year_start": 1999,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/lexus/is-300/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel: Driver's side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-is-300-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "(D FR P/W) Power window system"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(TAIL) Tail, side marker, license plate, parking lights"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(GAUGE) Back-up lights, gauges, flashers, defoggers"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "(DOOR) Door lock system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "(PANEL) Instrument panel lights, seat heater, cigarette lighter, A/T, TRC"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "(WASHER) Windshield washer, headlight cleaner"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "(STARTER) Starting system"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "(FR DEF) No circuit"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(A/C) Air conditioning system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(SEAT HTR) Seat heater"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(CIG) Cigarette lighter, power outlet"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "(S/ROOF) Moon roof"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(ECU-IG) Radiator fan, ABS, moon roof, shift lock, A/C, door lock, theft deterrent"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(SRS-ACC) SRS system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop lights, shift lock, ABS"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "25A",
+     "(WIPER) Windshield wipers"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(RADIO NO.2) Audio, A/C, outside mirror, shift lock"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "(D P/SEAT) Power seat system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse panel: Passenger's side",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-is-300-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "(DOME) Interior, trunk, vanity, map, courtesy lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(FR FOG) Fog lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "(P FR P/W) Power window system"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "(TV) Television"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "(ECU-B2) Theft deterrent, door lock system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "(D RR P/W) Power window system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(MIR HTR) Outside rear view mirror"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(MPX-B) Power windows, A/C, gauges, theft deterrent"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "(P RR P/W) Power window system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "(SRS-B) SRS system, door lock system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "(P P/SEAT) Power seat system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "(OBD) On-board diagnosis system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "(IGN) SRS, fuel injection, cruise control"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-is-300-2005-genid-g1-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(ECU-B1) Theft deterrent, door locks, interior lights, power windows, A/C, gauges"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "(ALT-S) Charging system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(ETCS) Electronic throttle control system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "(AM2) Starting system, SRS, fuel injection, cruise control"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "(TEL) Telephone"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "(RADIO NO.1) Audio"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(TURN-HAZ) Turn signal lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "(EFI) Fuel injection, emission control, immobiliser"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "(DRL NO.2) Daytime running light system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "(DRL NO.1) Daytime running light system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(H-LP L LWR) Left headlight low beam, fog lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(H-LP R LWR) Right headlight low beam"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(H-LP L UPR) Left headlight high beam"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(H-LP R UPR) Right headlight high beam, reminder buzzers"
+    ]
+   ]
+  }
+ ]
+}
