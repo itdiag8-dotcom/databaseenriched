@@ -1,0 +1,763 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "grand-wagoneer",
+ "brand_db": "Jeep",
+ "model_db_name": "Grand Wagoneer",
+ "model_id": 2407,
+ "generation_name": "Generation WS",
+ "generation_code": "g2",
+ "year_start": 2022,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/jeep/grand-wagoneer/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power distribution center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-grand-wagoneer-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "GNMM / VPMS (if equipped)"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "ECM (if equipped)"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "Cluster"
+    ],
+    [
+     "17A",
+     "Fuse MICRO2",
+     "10A",
+     "EPS"
+    ],
+    [
+     "17B",
+     "Fuse MICRO2",
+     "10A",
+     "ATMM (if equipped)"
+    ],
+    [
+     "19",
+     "Fuse FMM/MCase",
+     "30A",
+     "BSM #2 valves (if equipped)"
+    ],
+    [
+     "23A",
+     "Fuse MICRO3",
+     "10A",
+     "ECM / PPU / MGU / BSM / SLM (if equipped)"
+    ],
+    [
+     "23B",
+     "Fuse MICRO3",
+     "10A",
+     "Air suspension / ELSD rear / EPS"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Transfer fuel pump (if equipped)"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "50A",
+     "BSM motor #2 (if equipped)"
+    ],
+    [
+     "27",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear defroster"
+    ],
+    [
+     "31",
+     "Fuse FMM/MCase",
+     "40A",
+     "BCM feed #3"
+    ],
+    [
+     "33",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power side steps (if equipped)"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "50A",
+     "BCM feed #1"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "30A",
+     "DTCM"
+    ],
+    [
+     "38",
+     "Fuse FMM/MCase",
+     "50A",
+     "BCM feed #2"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "5A",
+     "Battery sensor #1"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "20A",
+     "CADM MAP (if equipped)"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "ECM"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "5A",
+     "Battery sensor #2 (if equipped)"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "10A",
+     "BPCM"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "10A",
+     "CVPAM"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "30A",
+     "Air suspension valves"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump / FPCM (if equipped)"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "20A",
+     "Headlamp left"
+    ],
+    [
+     "59",
+     "Fuse FMM/MCase",
+     "50A",
+     "Air suspension"
+    ],
+    [
+     "63",
+     "Fuse MICRO2",
+     "20A",
+     "Camera washer front"
+    ],
+    [
+     "65",
+     "Fuse MICRO2",
+     "15A",
+     "Active grille shutter / active air dam / coolant valve LCVM (if equipped)"
+    ],
+    [
+     "66",
+     "Fuse MICRO2",
+     "20A",
+     "Horns"
+    ],
+    [
+     "67",
+     "Fuse MICRO2",
+     "10A",
+     "DTCM / ASBS / switchable engine mount / BSM #2"
+    ],
+    [
+     "68",
+     "Fuse MICRO2",
+     "20A",
+     "Headlamp right"
+    ],
+    [
+     "70",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coil / ignition capacitors / fuel injectors / ISCM (if equipped)"
+    ],
+    [
+     "74",
+     "Fuse MICRO2",
+     "5A",
+     "MGU (if equipped)"
+    ],
+    [
+     "75",
+     "Fuse FMM/MCase",
+     "30A",
+     "Front wiper"
+    ],
+    [
+     "77",
+     "Fuse MICRO2",
+     "20A",
+     "TCM shift-by-wire"
+    ],
+    [
+     "78",
+     "Fuse MICRO2",
+     "20A",
+     "Short runner valve / ECM"
+    ],
+    [
+     "79",
+     "Fuse MICRO2",
+     "15A",
+     "Fuel injectors / surge solenoid / oil sensor / air valve / OBD bypass / O2 heaters (if equipped)"
+    ],
+    [
+     "80",
+     "Fuse FMM/MCase",
+     "20A",
+     "ECM"
+    ],
+    [
+     "81",
+     "Fuse FMM/MCase",
+     "40A",
+     "BCM feed #4"
+    ],
+    [
+     "85",
+     "Fuse MICRO2",
+     "10A",
+     "PCR (if equipped)"
+    ],
+    [
+     "86",
+     "Fuse FMM/MCase",
+     "50A",
+     "BSM feed 1"
+    ],
+    [
+     "88",
+     "Fuse FMM/MCase",
+     "50A",
+     "BSM feed 2"
+    ],
+    [
+     "92",
+     "Fuse FMM/MCase",
+     "20A",
+     "Front de-icer (if equipped)"
+    ],
+    [
+     "93",
+     "Fuse FMM/MCase",
+     "25A",
+     "Fuel pump (if equipped)"
+    ],
+    [
+     "94",
+     "Fuse MICRO2",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "98A",
+     "Fuse MICRO3",
+     "15A",
+     "Cooling fan (if equipped)"
+    ],
+    [
+     "98B",
+     "Fuse MICRO3",
+     "15A",
+     "Battery cooling pump (if equipped)"
+    ],
+    [
+     "102",
+     "Fuse FMM/MCase",
+     "25A",
+     "Fuel pump (if equipped)"
+    ],
+    [
+     "105B",
+     "Fuse MICRO3",
+     "15A",
+     "LTR coolant pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior power distribution center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-grand-wagoneer-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Front seat heater module (steering wheel) (if equipped)"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Night vision module / driver monitoring camera (DMC)"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Automatic gearbox shifter module (AGSM) / steering column lock / HUD"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "40A",
+     "HVAC blower motor"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "20A",
+     "Cigar lighter assembly"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "Inside rearview mirror / sunroof (single/dual pane) / UC1 dual USB rear port / interior monitoring camera"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Refrigerator box / in-vehicle safe (if equipped)"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "ORC module"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Overhead console (OHC) with sunshade / intrusion module"
+    ],
+    [
+     "21",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow electric brake (aftermarket)"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "ICS switch bank module / upper switch bank / EPB switch / aux switch bank module (ASBM) / front HVAC control / humidity rain light sensor (HRLS)"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "15A",
+     "Transfer case switch / lower switch bank / ICS switch bank rear / climate control display / suspension switch (if equipped)"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "IRCAM heater"
+    ],
+    [
+     "42B",
+     "Fuse MICRO3",
+     "10A",
+     "Front HVAC control module"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "15A",
+     "Cluster module (CCN) / SGW module (cybersecurity)"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "30A",
+     "Inverter module 150W"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "7.5A",
+     "RF hub module / ignition module (KIN)"
+    ],
+    [
+     "50A",
+     "Fuse MICRO3",
+     "10A",
+     "UCI dual USB rear port"
+    ],
+    [
+     "50B",
+     "Fuse MICRO3",
+     "10A",
+     "Diagnostics ports 1 & 2"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "20A",
+     "CMCM module (radio)"
+    ],
+    [
+     "63A",
+     "Fuse MICRO3",
+     "15A",
+     "UC1 dual USB front port / wireless charging pad module (WCPM)"
+    ],
+    [
+     "63B",
+     "Fuse MICRO3",
+     "15A",
+     "Telematics box module (TBM) / DCSD module / FPDM module / RSE video USB console front"
+    ],
+    [
+     "64A",
+     "Fuse MICRO3",
+     "10A",
+     "ORC module"
+    ],
+    [
+     "64B",
+     "Fuse MICRO3",
+     "10A",
+     "Steering column control module (SCCM)"
+    ],
+    [
+     "65",
+     "Fuse MICRO2",
+     "5A",
+     "SGW module (cybersecurity)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Rear power distribution center",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-grand-wagoneer-2024-genid-g2-2.webp",
+   "fuses": [
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "30A",
+     "Air compressor (tire inflator)"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "25A",
+     "Sunroof sunshade motor"
+    ],
+    [
+     "15B",
+     "Fuse MICRO2",
+     "10A",
+     "Hands-free liftgate / rear window switches / rear HVAC control module"
+    ],
+    [
+     "18",
+     "Fuse FMM/MCase",
+     "25A",
+     "Power liftgate module"
+    ],
+    [
+     "19A",
+     "Fuse MICRO2",
+     "10A",
+     "L2+ driver alert lighting module"
+    ],
+    [
+     "19B",
+     "Fuse MICRO2",
+     "10A",
+     "Animation lighting rear-left"
+    ],
+    [
+     "20A",
+     "Fuse MICRO2",
+     "15A",
+     "Central ADAS decision module (CADM) LO"
+    ],
+    [
+     "21B",
+     "Fuse MICRO3",
+     "10A",
+     "Sunroof dual pane / 2nd & 3rd row seat switch illumination"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Rear seat entertainment (driver/passenger)"
+    ],
+    [
+     "25",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger door MUX module"
+    ],
+    [
+     "28",
+     "Fuse FMM/MCase",
+     "30A",
+     "Memory / power seat module (front passenger)"
+    ],
+    [
+     "29A",
+     "Fuse MICRO2",
+     "10A",
+     "Animation lighting rear-right"
+    ],
+    [
+     "29B",
+     "Fuse MICRO2",
+     "10A",
+     "Animation lighting rear-left"
+    ],
+    [
+     "30",
+     "Fuse FMM/MCase",
+     "30A",
+     "Memory / power seat module (front driver)"
+    ],
+    [
+     "34",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver door MUX module"
+    ],
+    [
+     "35",
+     "Fuse FMM/MCase",
+     "25A",
+     "Integrated trailer tow module #2"
+    ],
+    [
+     "36A",
+     "Fuse MICRO3",
+     "10A",
+     "Intelligent event-based lighting module"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "25A",
+     "Integrated trailer tow module #1"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "30A",
+     "Audio amplifier module #1A"
+    ],
+    [
+     "44A",
+     "Fuse MICRO3",
+     "20A",
+     "12V power outlet cargo area (ignition)"
+    ],
+    [
+     "44B",
+     "Fuse MICRO3",
+     "20A",
+     "12V power outlet cargo area (battery)"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "20A",
+     "CRSM module (heated seat rear right)"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "30A",
+     "Folding seat module 3rd row feed #1 (if equipped)"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "15A",
+     "Seat massage driver/passenger modules (SSMD/SSMP) (if equipped)"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "20A",
+     "CRSM module (heated seat rear left) (if equipped)"
+    ],
+    [
+     "53",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electronic limited slip differential (ELSD) rear #1 (if equipped)"
+    ],
+    [
+     "55",
+     "Fuse FMM/MCase",
+     "30A",
+     "Folding seat modules 3rd row feed #2 (if equipped)"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "10A",
+     "Rear HVAC module / occupant classification module / CVPAM / ParkTronics module / ITCM"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "15A",
+     "3rd row additional USB charge / USB console power port"
+    ],
+    [
+     "60",
+     "Fuse FMM/MCase",
+     "25A",
+     "Rear HVAC blower"
+    ],
+    [
+     "62",
+     "Fuse MICRO2",
+     "20A",
+     "Front seat heater module (driver) (if equipped)"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer tow receptacle assembly B+"
+    ],
+    [
+     "64",
+     "Fuse MICRO2",
+     "10A",
+     "Smart phone as key module"
+    ],
+    [
+     "66",
+     "Fuse FMM/MCase",
+     "20A",
+     "Passenger rear door MUX smart motor module"
+    ],
+    [
+     "67",
+     "Fuse MICRO2",
+     "30A",
+     "Audio amplifier module #1B"
+    ],
+    [
+     "69",
+     "Fuse MICRO2",
+     "20A",
+     "L2+ central ADAS decision module (CADM) MID (if equipped)"
+    ],
+    [
+     "70",
+     "Fuse MICRO2",
+     "10A",
+     "Video routing module (VRM)"
+    ],
+    [
+     "71",
+     "Fuse MICRO2",
+     "5A",
+     "Smart door handle driver"
+    ],
+    [
+     "75",
+     "Fuse MICRO2",
+     "5A",
+     "Smart door handle rear left"
+    ],
+    [
+     "76",
+     "Fuse MICRO2",
+     "5A",
+     "Smart door handle passenger"
+    ],
+    [
+     "81",
+     "Fuse MICRO2",
+     "20A",
+     "Front seat heater module (passenger) (if equipped)"
+    ],
+    [
+     "82",
+     "Fuse MICRO2",
+     "10A",
+     "Animation lighting rear / air compressor (tire inflator) / liftgate taillamp animation lighting"
+    ],
+    [
+     "84",
+     "Fuse MICRO2",
+     "15A",
+     "UWB sensors (1-7)"
+    ],
+    [
+     "86",
+     "Fuse MICRO2",
+     "15A",
+     "Lumbar support driver/passenger switch (if equipped)"
+    ],
+    [
+     "88",
+     "Fuse FMM/MCase",
+     "20A",
+     "Driver rear door MUX smart motor module"
+    ],
+    [
+     "CB1",
+     "Circuit breaker MINI",
+     "",
+     "Power outlet rear"
+    ]
+   ]
+  }
+ ]
+}
