@@ -1,0 +1,288 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "patriot",
+ "brand_db": "Jeep",
+ "model_db_name": "Patriot",
+ "model_id": 2412,
+ "generation_name": "1st generation (MK74)",
+ "generation_code": "g1",
+ "year_start": 2006,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/jeep/patriot/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Integrated Power Module (IPM)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-patriot-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "Trailer Tow - [If Equipped]"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "AWD / 4WD Control Module - [If Equipped]"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Rear Center Brake Light Switch"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Ignition Switch / Clock Spring"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Battery Feed For Power Tech"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Power Mirror / Steering Control Satellite Radio / Hands-Free Phone"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Ignition Off Draw"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Ignition Off Draw"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power Seats"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Power Locks / Interior Lighting"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Power Outlet"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "115V AC Inverter - [If Equipped]"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Cigar Lighter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Instrument Cluster"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator Fan"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Dome Lamp / Sunroof / Rear Wiper Motor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Wireless Control Module"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Auto Shutdown Relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Radio Amplifiers"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Radio"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Intrusion Module / Siren - [If Equipped]"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Heating, AC / Compass"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Auto Shutdown Relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Power Sunroof - [If Equipped]"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Heated Mirror - [If Equipped]"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Auto Shutdown Relay"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Airbag Control Module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Airbag Control Module / Occupant Classification Module"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "",
+     "Hot Vehicle (No Fuse Required)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Heated Seat - [If Equipped]"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Headlamp Washer - [If Equipped]"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Auto Shutdown Relay"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "J1962 Conn / Powertrain Control Module"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "Antilock Brake Valve"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "40A",
+     "Antilock Brake Pump"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlamp / Washer Control / Smart Glass - [If Equipped]"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "25A",
+     "Diesel Heater and H2 / MOD power top"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-patriot-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Radiator Fan - Series/Parallel relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Radiator Fan - Low / High speed relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Spare (not used); Lamp Activation relay (if equipped)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "ASD relay (Main relay)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Spare (not used); Turbo Coolant pump (if equipped)"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Radiator Fan - Medium / High speed relay"
+    ]
+   ]
+  }
+ ]
+}
