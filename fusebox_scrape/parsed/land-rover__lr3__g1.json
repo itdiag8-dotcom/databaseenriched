@@ -1,0 +1,714 @@
+{
+ "make_slug": "land-rover",
+ "model_slug": "lr3",
+ "brand_db": "Land Rover",
+ "model_db_name": "LR3",
+ "model_id": 2571,
+ "generation_name": "LR3 (L319, Discovery 3)",
+ "generation_code": "g1",
+ "year_start": 2004,
+ "year_end": 2009,
+ "trim_label": "",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/land-rover/lr3/info/fusebox/2009",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-land-rover-lr3-2009-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "25A",
+     "Fuel pump"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "5A",
+     "Pump leak detection"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Air suspension ECU"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "25A",
+     "Diesel EMS (ECU & fuel pump relay control) [diesel]"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Petrol EMS (purge valve, EGR, inlet manifold tune valve), E-box fan [petrol]"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Petrol EMS (coils) / Diesel EMS (sensors and glow plug relay control, from 2007)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "25A",
+     "HEVAC - front seat heat"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "25A",
+     "Rear seat heat"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "Active roll control (up to 2005)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Petrol EMS (throttle motor, MAF), cooling fan"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Petrol EMS (rear oxygen sensors)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Heated wash jets"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Petrol EMS (ECU, VVTs and fuel pump relay control)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Petrol EMS (front oxygen sensors)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "30A",
+     "Heated front windshield"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Heated door mirrors"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "15A",
+     "Petrol EMS (injectors)"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "30A",
+     "Heated front windshield"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "5A",
+     "Alternator"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "30A",
+     "Rear blower"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "25A",
+     "Dynamic Stability Control system"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "Petrol brake boost pump"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Lighting switch"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "Air suspension ECU"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "5A",
+     "Engine control module (EMS)"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary heater [diesel]"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "30A",
+     "Front wipers"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Auto transmission ECU"
+    ],
+    [
+     "FL1",
+     "Fuse FMX/JCase",
+     "50A",
+     "Glow plugs A"
+    ],
+    [
+     "FL2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Interior light"
+    ],
+    [
+     "FL3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Transmission"
+    ],
+    [
+     "FL4",
+     "Fuse FMX/JCase",
+     "50A",
+     "Glow plugs B"
+    ],
+    [
+     "FL6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer, brakes"
+    ],
+    [
+     "FL7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Lamps washer"
+    ],
+    [
+     "FL8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Parking brake"
+    ],
+    [
+     "FL10",
+     "Fuse FMX/JCase",
+     "60A",
+     "Air suspension"
+    ],
+    [
+     "FL12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fan"
+    ],
+    [
+     "FL13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Locking differential"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear wipers"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front wipers"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Mirror heater"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Front fog lights"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Air suspension"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Heated front windshield"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Rear blower"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Lamps washer"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Glow plugs A"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Fan"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Glow plugs B"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-land-rover-lr3-2009-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Interior lamps (glovebox, vanity mirror, map, roof lamps), electric seats (non memory)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Right-hand side lamps"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Theatre lamps (up to 2005)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Left-hand side lamps"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Reverse lamps"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Trailer reverse lamp"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "Driver's window"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Trailer pick-up (battery feed)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "SRS/airbags"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A/10A",
+     "Washer pump"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "Heated rear window"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Trailer side lamp"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Brake lamps, brake switch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Powerfold mirror"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Rear right-hand window"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor, ambient light sensor (auto lamps)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary power socket - 2nd row seats"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "Passenger window"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Trailer pick-up (ignition feed)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Transfer box - centre differential, Terrain Response"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "Battery back-up sounder"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Adaptive front lighting / headlamp levelling"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Engine compartment fuse box - ignition"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "30A",
+     "Passenger electric seat"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Rear left-hand window"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Rear fog lamps"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Mirror adjust, automatic transmission selector, passenger electric seat (up to 2005)"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary power socket - front seats"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Air suspension ECU"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Park distance control, TPMS"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "5A",
+     "Dynamic Stability Control"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "5A",
+     "Instrument pack"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "5A",
+     "Key-in sense"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "5A",
+     "Electric parking brake (EPB)"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "30A",
+     "Audio amplifier"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "RF receiver, TPMS"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "5A",
+     "Automatic transmission selector"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "30A",
+     "Driver's electric seat"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "15A",
+     "Auxiliary power socket - 3rd row seats"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "30A",
+     "Central door locking"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "Electric fuel flap actuator"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "Climate control ECU"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "5A",
+     "Telephone, traffic message centre"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "15A",
+     "Multi-media module, audio unit, DVD player"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "5A",
+     "Electric seat - memory, lumbar pump"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "10A",
+     "Adaptive front lighting (left-hand unit)"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "10A",
+     "Rear seat entertainment module"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "10A",
+     "Telephone, touch screen display, multi-media module, TV tuner"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "Cubby box cooler"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Engine control module (ECM)"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "10A",
+     "Adaptive front lighting (right-hand unit)"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "5A",
+     "Low beam, auto lamps"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "10A",
+     "Diagnostic socket"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "5A",
+     "Automatic transmission ECU"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "HDC switch, brake switch, steering angle sensor, DSC switch"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "5A",
+     "Auto lamps"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "5A",
+     "Instrument pack"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "5A",
+     "Auto-dimming interior mirror, Homelink (up to 2005)"
+    ]
+   ]
+  }
+ ]
+}
