@@ -1,0 +1,355 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "tiburon",
+ "brand_db": "Hyundai",
+ "model_db_name": "Tiburon",
+ "model_id": 2254,
+ "generation_name": "1st generation (RD)",
+ "generation_code": "g1",
+ "year_start": 1996,
+ "year_end": 2001,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/hyundai/tiburon/info/fusebox/2001/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-tiburon-2001-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLM",
+     "30A",
+     "(BLR) A/C blower motor"
+    ],
+    [
+     "2",
+     "Fuse FLM",
+     "40A",
+     "(H/LP) Headlamps"
+    ],
+    [
+     "3",
+     "Fuse FLM",
+     "30A",
+     "(IGN) Ignition"
+    ],
+    [
+     "4",
+     "Fuse FLM",
+     "30A",
+     "(P/WDW) Power windows"
+    ],
+    [
+     "5",
+     "Fuse FLM",
+     "20A",
+     "(ABS) ABS"
+    ],
+    [
+     "5",
+     "Fuse FLM",
+     "30A",
+     "(ABS) ABS"
+    ],
+    [
+     "6",
+     "Fuse FLM",
+     "20A",
+     "(ECU) Engine control unit"
+    ],
+    [
+     "7",
+     "Fuse FLM",
+     "20A",
+     "(CON) Air conditioning"
+    ],
+    [
+     "8",
+     "Fuse FLM",
+     "100A",
+     "(ALT) Battery and charging system"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "(T/LP LH) Tail light left"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "(CON FAN) A/C condenser fan"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "(T/LP RH) Tail light right"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "10A",
+     "(A/CON) Air conditioning"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "(FRT FOG) Front fog lights"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "(H/LP LO) Headlights low beam"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "(BURG ALARM B+) Anti-theft system"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "(H/LP HI) Headlights high beam"
+    ],
+    [
+     "19",
+     "Fuse FLM",
+     "50A",
+     "B+"
+    ],
+    [
+     "20",
+     "Fuse FLM",
+     "30A",
+     "(ABS) ABS"
+    ],
+    [
+     "21",
+     "Fuse FLM",
+     "30A",
+     "(RAD) Audio system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(H/LP HI) Headlights high beam"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(TAIL 2) Tail lights"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Wiper / burglar alarm"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(H/LP LO) Headlights low beam"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(FRT FOG) Front fog lights"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(BLOWER) A/C blower motor"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(START) Starter system"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "(RAD FAN) Radiator fan"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(HORN) Horn"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(A/CON) Air conditioning"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(TAIL 1) Tail lights"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(CON FAN) A/C condenser fan"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Internal compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-tiburon-2001-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "10A",
+     "Air conditioning controls"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "15A",
+     "Power door locks"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "15A",
+     "Brake lights, ignition key lock, A/T shift lock"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "10A",
+     "Hazard warning"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "30A",
+     "Rear window defogger"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "15A",
+     "Room lamp, clock"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "Rear wiper and washer"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "15A",
+     "Front wiper and washer, ETACS"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "10A",
+     "Backup lights, TCM, ECM"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "10A",
+     "ABS"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "Cigarette lighter, power mirrors, clock"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "Audio, automatic transmission lock"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "10A",
+     "EPS, sunroof, O/D switch, power/normal switch"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "10A",
+     "Cruise control, headlights, fog lights, power windows, blower controls"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment relay box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-tiburon-2001-genid-g1-2.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Pre-excitation resistor"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Flasher unit"
+    ]
+   ]
+  }
+ ]
+}
