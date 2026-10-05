@@ -1,0 +1,697 @@
+{
+ "make_slug": "kia",
+ "model_slug": "ceed",
+ "brand_db": "Kia",
+ "model_db_name": "CEE'D Hatchback (ED)",
+ "model_id": 4494,
+ "generation_name": "Generation ED",
+ "generation_code": "g1",
+ "year_start": 2006,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/kia/ceed/info/fusebox/2012",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-ceed-2012-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(START) Starter relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(A/CON SW) Air conditioner control unit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(HTD MIRR) Heated exterior mirrors"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(SEAT HTR) Seat heating"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) Air Conditioning"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "(HEAD LAMP) High beam lamps"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "(FR WIPER) Windshield wiper"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(RR WIPER) Tailgate wiper"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(DRL OFF) Daytime running lights control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "(RR FOG) Rear fog lamps"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW LH) Window lifter control unit"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(CLOCK) Clock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(C/LIGHTER) Cigarette lighter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "(DR LOCK) Door lock, ignition control unit relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(DEICER) Windshield heater relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(ROOM LP) Interior lighting"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) Audio system, trip computer"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(T/LID) Tailgate"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "25A",
+     "(SAFETY P/WDW RH) Safety power windows (right side)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "(SAFETY P/WDW LH) Safety power windows (left side)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW) Power Windows"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(P/OUTLET) Power socket"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(SIG) Switch Block"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG IND) Airbag Warning Lamp"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "(CLUSTER) Instrument panel"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "(A/BAG) Airbag"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "(IGN1-A) Door or ignition control unit"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "(RR P/OUTLET) Rear Power Outlet"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(TAIL RH) Rear right marker lamp"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(TAIL LH) Rear left marker lamp"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment Type 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-ceed-2012-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "(ABS2) ABS and ESP"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS and ESP"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "(B+1) Cabin electrical equipment control unit"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "(RR HTD) Heated mirrors / rear defogger"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BLOWER) Blower fan"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "(C/FAN) Cooling fan"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "(H/LP WASHER) Headlight washer"
+    ],
+    [
+     "9",
+     "Fuse MIDI",
+     "125A",
+     "(ALTERNATOR) Generator"
+    ],
+    [
+     "10",
+     "Fuse MIDI",
+     "80A",
+     "(MDPS) Electric power steering"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(FR FOG) Front fog lamps"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) Air Conditioning"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Hazard lights"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(F/PUMP) Fuel pump"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(ECU1) Engine control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(ECU2) Engine control unit"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "(ECU3) Engine control unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "(INJ) Fuel injectors, air conditioning"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(SNSR2) Sensors"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "(B+2) Cabin electrical equipment control unit"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IGN2) Starter, ignition switch"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN1) Ignition switch"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ECU) Main relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(ABS) ESP, ABS, yaw rate sensor"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(ECU2) Ignition system"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(B/UP) Reversing light switch"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(H/LP LO RH) Right headlight low beam"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(H/LP LO LH) Left headlight low beam"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "(H/LP HI) High beam headlights"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "(SNSR1) Sensors"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(C/FAN2) Cooling fan relay (low speed)"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(C/FAN1) Cooling fan relay (high speed)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(START) Starter relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(F/PUMP) Fuel Pump Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(A/CON) Air conditioner relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(H/LP LO) Low Beam Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(HORN) Horn relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "(H/LP HI) High Beam Relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(FOG LP) Rear fog lamp relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(WIPER) Wiper relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(MAIN) Main relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment Type 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-ceed-2012-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Sensors"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Sensors"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors, air conditioning system"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESP"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Reversing lamp switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Main relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Low beam left"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Low beam right"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/ESP"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS/ESP"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cabin electronics unit"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Horn and its relay"
+    ],
+    [
+     "26",
+     "Multi fuse block MUSB",
+     "",
+     "Electric power steering"
+    ],
+    [
+     "27",
+     "Multi fuse block MUSB",
+     "",
+     "Starter and ignition switch"
+    ],
+    [
+     "28",
+     "Multi fuse block MUSB",
+     "",
+     "Heated mirrors"
+    ],
+    [
+     "29",
+     "Multi fuse block MUSB",
+     "",
+     "Fan (air conditioner)"
+    ],
+    [
+     "30",
+     "Multi fuse block MUSB",
+     "",
+     "Blower fan"
+    ],
+    [
+     "31",
+     "Multi fuse block MUSB",
+     "",
+     "Generator"
+    ],
+    [
+     "32",
+     "Multi fuse block MUSB",
+     "",
+     "Ignition lock"
+    ],
+    [
+     "33",
+     "Multi fuse block MUSB",
+     "",
+     "Cabin electrical control unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "High beam relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Rear fog lights relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "High fan speed relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Low fan speed relay"
+    ]
+   ]
+  }
+ ]
+}

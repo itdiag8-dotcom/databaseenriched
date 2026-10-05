@@ -1,0 +1,654 @@
+{
+ "make_slug": "kia",
+ "model_slug": "ceed",
+ "brand_db": "Kia",
+ "model_db_name": "Ceed",
+ "model_id": 2433,
+ "generation_name": "Generation CD",
+ "generation_code": "g3",
+ "year_start": 2018,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/kia/ceed/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-ceed-2020-genid-g3-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Driver IMS Module, A/C Control Module, Power Tail Gate Module"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "10A",
+     "Active Air Flap, Data Link Connector, Instrument Cluster, Hazard Switch, ICM Relay Box (Mirror Folding Relay), Auto Light & Photo Sensor, Console Switch, Smart Key Outside Handles"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Tail Gate Relay"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "25A",
+     "Power Window RH Relay, Driver/Passenger Safety Power Window Modules, Rear Safety Power Window Module RH"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "25A",
+     "Power Window LH Relay, Driver/Passenger Safety Power Window Modules, Rear Safety Power Window Module LH"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "25A",
+     "Driver IMS Module, Driver Seat Manual Switch"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "7.5A",
+     "Smart Parking Assist Module, Crash Pad Switch, IBU, LKA Unit, BCW Units, EPB Switch, Dosing Control Module, Active Air Flap, FCA Unit"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "MTS E-Call Module"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "20A",
+     "Rear Seat Warmer Control Module"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "Power Outside Mirrors, A/C Control Module, ECM/PCM"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "20A",
+     "Front Seat Warmer & Air Ventilation Control Modules"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "25A",
+     "Low DC-DC Converter (AMP), Amplifier"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "Low DC-DC Converter (Audio/AMP), Audio, AVN Head Unit"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "10A",
+     "EPB Switch, Rear/Front Seat Warmer Modules, MTS E-Call Module, EC Mirror, Audio, AVN, AT Shift Lever Illumination, A/C Module, Low DC-DC Converter, Driver IMS, Head Lamps"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "15A",
+     "Rear Wiper Motor, ICM Relay Box (Rear Wiper Relay)"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "20A",
+     "Door Lock/Unlock Relay"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "15A",
+     "IBU (Integrated Body Control Unit)"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "IBU, Stop Lamp Switch"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "Front Seat Warmer & Air Ventilation Control Modules"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "25A",
+     "Engine Room Junction Block (fuses ECU5, SENSOR4, ABS3, TCU2)"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "E/R Junction Block (Front Wiper Low Relay), Front Wiper Motor, IBU, ECM/PCM"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "7.5A",
+     "E/R Junction Block (Cooling Fan 3, PTC Heater 1/2/3, Blower Relays), A/C Control Module"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "10A",
+     "SRS Control Module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "15A",
+     "Multifunction Switch"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS Unit"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "7.5A",
+     "Rear/Front Seat Warmer & Ventilation Modules, Nozzle Heater, E/R Junction Block (Head Lamp High Relay, DCU Relay), Cooling Fan Motor"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "20A",
+     "Panorama Sunroof Motor"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Panorama Sunroof Motor"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument Cluster"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "7.5A",
+     "Sport Mode Switch, Stop Lamp Switch"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "7.5A",
+     "ICM Relay Box (Burglar Alarm Relay), Transaxle Range Switch, E/R Junction Block (PDM 3 IG1 Relay), IBU, ECM, PCM"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument Cluster, Hazard Switch"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "Audio, AVN, Low DC-DC Converter, IBU, MTS E-Call Module, Wireless Charger, E/R Junction Block (Power Outlet Relay), AMP, Power Outside Mirror Switch"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "15A",
+     "SRS Control Module"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "10A",
+     "E/R Junction Block (Blower Relay), A/C Control Module, Blower Resistor & Motor, ECM/PCM"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "15A",
+     "Audio, AVN, Instrument Cluster, A/C Control Module, Low DC-DC Converter"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "20A",
+     "Front Power Outlet, Power Outlet LH"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-ceed-2020-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "(SENSOR 2) Purge/Variable Intake/RCV Solenoid Valves, Cooling Fan Relays, Oil Control Valves, A/C Compressor Relay; [Diesel] PTC Heater 1 Relay, PM Sensor, Electronic VGT Actuator, Oil Level Switch (engine-dependent)"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "(ECU 2) ECM/PCM (engine-dependent)"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "(ECU 1) ECM/PCM"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "15A",
+     "(INJECTOR) Injectors #1-#4 (MPI engines)"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "15A",
+     "(SENSOR 1) Oxygen Sensors (Up/Down); [Diesel] Lambda Sensors, Air Flow Sensor, Oil Pressure Solenoid Valve"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "20A",
+     "(IGNITION COIL) Ignition Coils, Condenser; [Diesel] Front/Rear NOx Sensor"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "15A",
+     "(ECU 3) ECM/PCM"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "(AIR CONDITIONER) Air Conditioner Compressor (T-GDI/Diesel)"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "(ECU 5) ECM/PCM"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "(SENSOR 4) [1.4 T-GDI] Vacuum Pump; [Diesel] Fuel Filter Warning Sensor, Glow Unit"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "(ABS 3) ESC Control Module, Clutch Master Cylinder"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "15A",
+     "(TCU 2) TCM, Transaxle Range Switch"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "(SENSOR 3) Fuel Pump Relay; [Diesel] also Fuel Heater Relay"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "(ECU 4) ECM/PCM"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "25A",
+     "(WIPER) Wiper Relay"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "15A",
+     "(HORN) Horn Relay"
+    ],
+    [
+     "24",
+     "Multi fuse block MUSB",
+     "",
+     "(BATTERY 5) Fuses Cooling Fan1, Rear Heated, PTC Heater2/3, Fuel Heater, Engine Control Relay"
+    ],
+    [
+     "25",
+     "Multi fuse block MUSB",
+     "",
+     "(BATTERY 2) Instrument Panel Junction Block"
+    ],
+    [
+     "26",
+     "Multi fuse block MUSB",
+     "",
+     "(BATTERY 3) Instrument Panel Junction Block"
+    ],
+    [
+     "27",
+     "Multi fuse block MUSB",
+     "",
+     "(BATTERY 4) Instrument Panel Junction Block (fuses Tail Gate, Power Window RH/LH, Power Seat Driver, Seat Heater Front, AMP, Power Seat Passenger, Sunroof1/2)"
+    ],
+    [
+     "28",
+     "Multi fuse block MUSB",
+     "",
+     "(COOLING FAN 1) Cooling Fan 1/2 Relays"
+    ],
+    [
+     "29",
+     "Multi fuse block MUSB",
+     "",
+     "(REAR HEATED) Rear Heated Relay"
+    ],
+    [
+     "30",
+     "Multi fuse block MUSB",
+     "",
+     "(BLOWER) Blower Relay"
+    ],
+    [
+     "31",
+     "Multi fuse block MUSB",
+     "",
+     "(IG1) Ignition Switch, PDM 3 (IG1) Relay, PDM 2 (ACC) Relay"
+    ],
+    [
+     "32",
+     "Multi fuse block MUSB",
+     "",
+     "(IG2) Ignition Switch, Start Relay, PDM 4 (IG2) Relay"
+    ],
+    [
+     "33",
+     "Multi fuse block MUSB",
+     "",
+     "(GLOW) Glow Unit"
+    ],
+    [
+     "34",
+     "Multi fuse block MUSB",
+     "",
+     "(PTC HEATER 1) PTC Heater 1 Relay"
+    ],
+    [
+     "35",
+     "Multi fuse block MUSB",
+     "",
+     "(PTC HEATER 2) PTC Heater 2 Relay"
+    ],
+    [
+     "36",
+     "Multi fuse block MUSB",
+     "",
+     "(PTC HEATER 3) PTC Heater 3 Relay"
+    ],
+    [
+     "37",
+     "Multi fuse block MUSB",
+     "",
+     "(FUEL HEATER) Fuel Heater Relay"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "20A",
+     "(POWER OUTLET 3) Rear Power Outlet"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "20A",
+     "(POWER OUTLET 2) Front Power Outlet, Power Outlet RH"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "20A",
+     "(DCU 2) Dosing Control Module"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "15A",
+     "(TCU 1) TCM"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "20A",
+     "(VACUUM PUMP) Vacuum Pump"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "20A",
+     "(FUEL PUMP) Fuel Pump Relay"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "40A",
+     "(COOLING FAN 2) Cooling Fan 2/3 Relays"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "40A",
+     "(BATTERY 1) Instrument Panel Junction Block (Long Term Load Latch Relay, fuses Module1, Seat Heater Rear, Door Lock, IBU1, Brake Switch, Air Bag2)"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "40A",
+     "(DCT 1) TCM"
+    ],
+    [
+     "47",
+     "Fuse FMM/MCase",
+     "40A",
+     "(DCT 2) TCM"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "10A",
+     "(BURGLAR ALARM) Burglar Alarm Relay"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "10A",
+     "(HEAD LAMP HIGH) Head Lamp High Relay"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "40A",
+     "(ABS 1) ESC Control Module"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "30A",
+     "(ABS 2) ESC Control Module"
+    ],
+    [
+     "52",
+     "Fuse FMM/MCase",
+     "40A",
+     "(DCU 1) DCU (Dosing Control Unit) Relay"
+    ],
+    [
+     "53",
+     "Fuse FMM/MCase",
+     "30A",
+     "(POWER TAIL GATE MODULE) Power Tail Gate Module"
+    ],
+    [
+     "54",
+     "Fuse FMM/MCase",
+     "40A",
+     "(POWER OUTLET 1) Power Outlet Relay"
+    ],
+    [
+     "55",
+     "Multi fuse block MUSB",
+     "",
+     "(ALTERNATOR) Fuses Burglar Alarm, Head Lamp High, ABS1/2, DCU1, Power Tail Gate Module, Power Outlet1; Alternator"
+    ],
+    [
+     "56",
+     "Multi fuse block MUSB",
+     "",
+     "(MDPS 1) MDPS Unit"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "20A",
+     "(DCU 4) Dosing Control Module"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "15A",
+     "(DCU 3) Dosing Control Module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling Fan 3 Relay, PTC Heater 2 Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling Fan 2 Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PDM 3 (IG1) Relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Start Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Fuel Heater Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "PDM 4 (IG2) Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel Pump Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "PDM 2 (ACC) Relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling Fan 1 Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Blower Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "PTC Heater 1 Relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Rear Heated Relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "PTC Heater 3 Relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Power Outlet Relay"
+    ]
+   ]
+  }
+ ]
+}
