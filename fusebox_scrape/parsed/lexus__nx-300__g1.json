@@ -1,0 +1,776 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "nx-300",
+ "brand_db": "Lexus",
+ "model_db_name": "NX",
+ "model_id": 2595,
+ "generation_name": "1st generation AZ10",
+ "generation_code": "g1",
+ "year_start": 2014,
+ "year_end": 2021,
+ "trim_label": "",
+ "representative_year": 2021,
+ "source_url": "https://www.startmycar.com/lexus/nx-300/info/fusebox/2021",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment main fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-nx-300-2021-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "EPS"
+    ],
+    [
+     "3",
+     "Fuse FLF/PAL 293",
+     "140A",
+     "ALT - charging system"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "H-LP MAIN LH / H-LP MAIN HI"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "BBC NO.2"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "H-LP MAIN RH / H-LP MAIN LO"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS MAIN"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS MTR"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "ST NO.1 - starting"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "D/L NO.1 - door locks"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "EFI-MAIN NO.1"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "STRG LOCK - steering lock"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "EFI-MAIN NO.2"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "TURN&HAZ - turn signals and hazard lights"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "EPB NO.2 - electric parking brake"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "EPB NO.1 - electric parking brake"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "EDU"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.5"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ETCS"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "IG2-MAIN"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "AM2"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "EFI-MAIN NO.3"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "D/C CUT"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "",
+     "S/HTR RL - rear left seat heater"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "",
+     "S/HTR RR - rear right seat heater"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "H-LP LH / H-LP LH-HI - left headlight high beam"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "H-LP RH-HI - right headlight high beam"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "IGN - ignition"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "30A",
+     "AMP - audio system"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "5A",
+     "ECU-B NO.4"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "5A",
+     "METER NO.1"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.1"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "DOME - interior lights"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.1"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "H-LP LH / DIMMER relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "EFI-MAIN NO.2 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "IG2-MAIN relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "EDU relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "EFI-MAIN NO.1 relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "EFI-MAIN NO.3 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "ST relay - starter"
+    ],
+    [
+     "R/B RH-B 1",
+     "Fuse",
+     "20A",
+     "R/B RH-B"
+    ],
+    [
+     "R/B RH-B 2",
+     "Fuse",
+     "25A",
+     "R/B RH-B"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment secondary fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-nx-300-2021-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "OBD"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.2"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "IMMOBI - immobiliser"
+    ],
+    [
+     "4",
+     "Fuse MPF2",
+     "",
+     "DEF - rear window defogger"
+    ],
+    [
+     "5",
+     "Fuse MPF2",
+     "",
+     "PTC HTR NO.1 - additional heater"
+    ],
+    [
+     "6",
+     "Fuse MPF2",
+     "",
+     "PTC HTR NO.3 - additional heater"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "CAPACITOR"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "P/SEAT F/R - front passenger power seat"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "MIRROR - power mirrors"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "STRG HTR - heated steering wheel"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "50A",
+     "FAN NO.2 - cooling fan"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "H-LP CLN - headlight cleaner"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "WIPER-S"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "MIR HTR - mirror heater"
+    ],
+    [
+     "18",
+     "Fuse MPF2",
+     "",
+     "PTC HTR NO.2 - additional heater"
+    ],
+    [
+     "19",
+     "Fuse MPF2",
+     "",
+     "FAN NO.1 - cooling fan"
+    ],
+    [
+     "20",
+     "Fuse MPF2",
+     "",
+     "HTR - air conditioning"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "DRL - daytime running lights"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "FOG FR - front fog lights"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "IG1"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "INV - power outlet inverter"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "DOOR R/R - rear right door"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "DEICER - windshield deicer"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "H-LP LH-LO - left headlight low beam"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "H-LP RH / H-LP RH-LO - right headlight low beam"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG NO.6"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "AVS - adaptive variable suspension"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "S/HTR F/R - front passenger seat heater"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "WASHER-S"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.5"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "5A",
+     "DCM - telematics"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "HORN"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "H-LP (LO) relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PTC HTR NO.2 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "DEF relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "DRL RH relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "IG1 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "FAN NO.1 relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "HORN relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "H-LP CLN relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "DRL LH relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "STRG HTR relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "S-HORN relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "FOG FR relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "PTC HTR NO.1 relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "DEICER relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "FAN NO.2 relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument panel fuse box No.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-nx-300-2021-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "30A",
+     "P/SEAT R/L - rear left power seat"
+    ],
+    [
+     "2",
+     "Fuse FMM/MCase",
+     "30A",
+     "P/SEAT R/R - rear right power seat"
+    ],
+    [
+     "3",
+     "Fuse FMM/MCase",
+     "30A",
+     "PBD - power back door"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Instrument panel fuse box No.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-nx-300-2021-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "WASHER - windshield washer"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "25A",
+     "WIPER - windshield wiper"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "BKUP LP - backup lights"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "WIPER RR - rear wiper"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "DOOR R/L - rear left door"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "DOOR F/L - front left door"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "DOOR F/R - front right door"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "P/OUTLET NO.1 - power outlet"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "D/L NO.2 - door locks"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "TI&TE - tilt/telescopic steering"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "S/ROOF - sunroof"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - diagnostics"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "P/SEAT F/L - driver power seat"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "STOP - stop lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG NO.5"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "METER NO.2"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "IG2 NO.3"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "IG2 NO.2"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "A/BAG - airbag"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "IG2 NO.1"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "5A",
+     "EPS-IG"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG NO.2"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "S/HTR F/L - driver seat heater"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "ECU-IG NO.4"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG NO.1"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG NO.3"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "TAIL - tail lights"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "PANEL - panel illumination"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "ACC - accessories"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "P/OUTLET NO.2 - power outlet"
+    ]
+   ]
+  }
+ ]
+}
