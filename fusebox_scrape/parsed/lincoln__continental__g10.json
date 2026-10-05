@@ -1,0 +1,624 @@
+{
+ "make_slug": "lincoln",
+ "model_slug": "continental",
+ "brand_db": "Lincoln",
+ "model_db_name": "Continental",
+ "model_id": 2605,
+ "generation_name": "10th generation CD4",
+ "generation_code": "g10",
+ "year_start": 2017,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/lincoln/continental/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-continental-2020-genid-g10-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Powertrain control module power"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Engine emissions (MIL)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "A/C clutch relay coil, active grille shutters, cooling fan relays, AWD module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Fuel injectors (3.7L)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Rear recline relay box"
+    ],
+    [
+     "11",
+     "Relay",
+     "",
+     "Torque vectoring relay (3.0L)"
+    ],
+    [
+     "13",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear seat recline"
+    ],
+    [
+     "14",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "A/C clutch"
+    ],
+    [
+     "19",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "20",
+     "Relay",
+     "",
+     "Electric cooling fan relay"
+    ],
+    [
+     "21",
+     "Relay",
+     "",
+     "Electric cooling fan relay"
+    ],
+    [
+     "22",
+     "Fuse FMM/MCase",
+     "30A",
+     "Electric cooling fan"
+    ],
+    [
+     "25",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "30A",
+     "ABS valves"
+    ],
+    [
+     "28",
+     "Fuse FMM/MCase",
+     "30A",
+     "Rear climate controlled seats"
+    ],
+    [
+     "29",
+     "Relay",
+     "",
+     "Run/start relay"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Electric power steering, electric parking brake"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "ABS module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "BLIS, adaptive cruise, cameras, transmission range module"
+    ],
+    [
+     "36",
+     "Relay",
+     "",
+     "Electric cooling fan relay"
+    ],
+    [
+     "37",
+     "Relay",
+     "",
+     "Rear seat recline relay"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "42",
+     "Fuse FMM/MCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module/voltage quality module bus"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "50A",
+     "Electric cooling fan"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "50A",
+     "Electric cooling fan"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module RP1 bus"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "40A",
+     "Torque vectoring (3.0L)"
+    ],
+    [
+     "50",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module RP2 bus"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS pump"
+    ],
+    [
+     "53",
+     "Fuse FMX/JCase",
+     "40A",
+     "Adaptive front steering"
+    ],
+    [
+     "54",
+     "Fuse FMM/MCase",
+     "40A",
+     "Heated windshield"
+    ],
+    [
+     "55",
+     "Fuse FMM/MCase",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "56",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power inverter"
+    ],
+    [
+     "57",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power deck lid module"
+    ],
+    [
+     "60",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump"
+    ],
+    [
+     "62",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 2A"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power seat module, front heated seats"
+    ],
+    [
+     "65",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump 2"
+    ],
+    [
+     "66",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "67",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 1B"
+    ],
+    [
+     "68",
+     "Fuse FMM/MCase",
+     "15A",
+     "Auxiliary blower"
+    ],
+    [
+     "69",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 1A"
+    ],
+    [
+     "72",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat module"
+    ],
+    [
+     "74",
+     "Fuse FMM/MCase",
+     "25A",
+     "Wiper motor"
+    ],
+    [
+     "78",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter"
+    ],
+    [
+     "79",
+     "Fuse FMM/MCase",
+     "20A",
+     "Auxiliary transmission pump (2.0L start-stop)"
+    ],
+    [
+     "81",
+     "Fuse MINI",
+     "5A",
+     "USB smart charge - passenger side"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "5A",
+     "USB smart charge - console"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "20A",
+     "Electronic door latch (left rear)"
+    ],
+    [
+     "84",
+     "Fuse MINI",
+     "5A",
+     "USB smart charge - driver side"
+    ],
+    [
+     "85",
+     "Fuse MINI",
+     "20A",
+     "Electronic door latch (right front)"
+    ],
+    [
+     "86",
+     "Fuse MINI",
+     "20A",
+     "Electronic door latch (right rear)"
+    ],
+    [
+     "87",
+     "Fuse MINI",
+     "15A",
+     "Transmission range control module"
+    ],
+    [
+     "88",
+     "Fuse MINI",
+     "5A",
+     "Rear recline"
+    ],
+    [
+     "89",
+     "Fuse MINI",
+     "20A",
+     "Electronic door latch (left front)"
+    ],
+    [
+     "90",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module relay"
+    ],
+    [
+     "91",
+     "Fuse MINI",
+     "10A",
+     "Brake on/off switch"
+    ],
+    [
+     "92",
+     "Fuse MINI",
+     "15A",
+     "Front multi-contour seat module"
+    ],
+    [
+     "93",
+     "Fuse MINI",
+     "15A",
+     "Rear multi-contour seats"
+    ],
+    [
+     "94",
+     "Fuse MINI",
+     "20A",
+     "Right HID headlamp"
+    ],
+    [
+     "95",
+     "Fuse MINI",
+     "20A",
+     "Left HID headlamp"
+    ],
+    [
+     "96",
+     "Fuse MINI",
+     "10A",
+     "Wiper park heater"
+    ],
+    [
+     "97",
+     "Fuse MINI",
+     "10A",
+     "Alternator sense line"
+    ],
+    [
+     "98",
+     "Fuse MINI",
+     "5A",
+     "Rain sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-continental-2020-genid-g10-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "7.5A",
+     "Driver/passenger seat switches"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Driver unlock relay"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "20A",
+     "Subwoofer amplifier, Revel DSP amplifier"
+    ],
+    [
+     "8",
+     "Fuse MICRO3",
+     "10A",
+     "Security horn"
+    ],
+    [
+     "10",
+     "Fuse MICRO3",
+     "5A",
+     "Telematics module, power decklid module"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "5A",
+     "Keypad, outside lock switch, security sensor module"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control interface, gear shift module, rear climate module"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Instrument cluster, smart data link, steering column module"
+    ],
+    [
+     "14",
+     "Fuse MICRO3",
+     "10A",
+     "Restraints control module"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "10A",
+     "Smart datalink connector power"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "5A",
+     "Decklid release relay"
+    ],
+    [
+     "18",
+     "Fuse MICRO3",
+     "5A",
+     "Push button start switch"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "7.5A",
+     "Headlamp control module"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "Humidity sensor"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Delayed accessory power, window switch, moonroof, sunshade, DC inverter"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "30A",
+     "Central lock relay"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "30A",
+     "Left front door zone module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Right front door zone module"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "30A",
+     "Moonroof"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "20A",
+     "Revel DSP amplifier"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "30A",
+     "Left rear door zone module"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "30A",
+     "Right rear door zone module"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "15A",
+     "Column memory module, head-up display"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "SYNC, RF receiver, rear seat entertainment"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Radio, remote CD mechanism"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Run/start relay"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "5A",
+     "Restraint control module"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Lane keeping, auto high beam, EC mirrors, rear heated seats"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "Heated steering wheel, steering control modules"
+    ]
+   ]
+  }
+ ]
+}

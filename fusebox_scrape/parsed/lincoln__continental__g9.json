@@ -1,0 +1,408 @@
+{
+ "make_slug": "lincoln",
+ "model_slug": "continental",
+ "brand_db": "Lincoln",
+ "model_db_name": "Continental",
+ "model_id": 2605,
+ "generation_name": "9th generation FN74",
+ "generation_code": "g9",
+ "year_start": 1995,
+ "year_end": 2002,
+ "trim_label": "",
+ "representative_year": 2000,
+ "source_url": "https://www.startmycar.com/lincoln/continental/info/fusebox/2000",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-continental-2000-genid-g9-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Lighting control module: anti-theft indicator, dimming, switch illumination"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Data link connector, PCM"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Multi-function switch, cornering lamps, high beam/turn input to LCM"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Lock/window switch backlights, radio, phone, LCM run/acc sense, day/night mirror"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, LCM run/start sense, autolamp sensor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, RF park/turn lamp"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Power point"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Fuel filler door release, trunk lid relay"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Air bag monitor, EATC module, blower relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Windshield wiper motor/module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Ignition coils, PCM power relay, PATS transceiver"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Lighting control module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "LCM: RF turn, tail lamps, license lamps, LR stop/turn, clock illumination"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "ABS evac and fill connector"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Moonroof switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Lighting control module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "LCM: left headlamp, DRL"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Multi-function switch: flash to pass, hazard input to LCM"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Digital transmission range sensor"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster LF turn indicator/signal"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "LCM: right headlamp"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, EATC module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Shift lock, dynamics module, cluster, defrost, heated seat switch, tire pressure"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "LCM: courtesy/map/reading/visor/trunk/glove box lamps"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Speed control deactivation switch, brake on/off switch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Console shift illumination, A/C clutch switches, intake runner control, backup lamps"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "30A",
+     "Subwoofer amplifier, radio"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Analog clock, CD player, phone transceiver, RESCU"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Door locks, power seats, mirrors, keyless entry, LF seat/door modules"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Cornering lamps"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Door locks"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "High current fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-continental-2000-genid-g9-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MAXI",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "2",
+     "Fuse MAXI",
+     "60A",
+     "High speed cooling fan"
+    ],
+    [
+     "3",
+     "Fuse MAXI",
+     "60A",
+     "Compressor relay"
+    ],
+    [
+     "4",
+     "Fuse MAXI",
+     "60A",
+     "ABS control module"
+    ],
+    [
+     "5",
+     "Fuse MAXI",
+     "60A",
+     "I/P fuse panel"
+    ],
+    [
+     "6",
+     "Fuse MAXI",
+     "60A",
+     "Lighting control module"
+    ],
+    [
+     "7",
+     "Fuse MAXI",
+     "30A",
+     "Powertrain control module"
+    ],
+    [
+     "8",
+     "Fuse MAXI",
+     "40A",
+     "Rear window defrost control"
+    ],
+    [
+     "9",
+     "Fuse MAXI",
+     "40A",
+     "Driver window"
+    ],
+    [
+     "10",
+     "Fuse MAXI",
+     "30A",
+     "Low speed cooling fan"
+    ],
+    [
+     "11",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "12",
+     "Fuse MAXI",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "13",
+     "Fuse MAXI",
+     "30A",
+     "Driver's seat module"
+    ],
+    [
+     "14",
+     "Fuse MAXI",
+     "30A",
+     "Passenger's seat module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Horns"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "High beam"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "Right front passenger window"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "PCM"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Alternator sense"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "Right rear passenger window"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Air suspension"
+    ],
+    [
+     "24",
+     "Diode ATO",
+     "",
+     "A/C diode"
+    ],
+    [
+     "25",
+     "Diode ATO",
+     "",
+     "PCM diode"
+    ],
+    [
+     "26",
+     "Relay",
+     "",
+     "PCM power relay"
+    ],
+    [
+     "27",
+     "Relay",
+     "",
+     "Starter solenoid relay"
+    ],
+    [
+     "28",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "29",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "30",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "31",
+     "Relay",
+     "",
+     "High beam relay"
+    ]
+   ]
+  }
+ ]
+}
