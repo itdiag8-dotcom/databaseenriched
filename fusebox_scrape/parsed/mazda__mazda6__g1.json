@@ -1,0 +1,318 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "mazda6",
+ "brand_db": "Mazda",
+ "model_db_name": "6",
+ "model_id": 2758,
+ "generation_name": "Generation G1 GG/GY",
+ "generation_code": "g1",
+ "year_start": 2002,
+ "year_end": 2009,
+ "trim_label": "Facelift",
+ "representative_year": 2009,
+ "source_url": "https://www.startmycar.com/mazda/mazda6/info/fusebox/2009/g1_ver-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse block (engine compartment)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mazda6-2009-genid-g1-ver-facelift-0.webp",
+   "fuses": [
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "M.DEF - mirror defroster"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "INJ - injector"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "ENG BAR - air flow, EGR control valve (variant)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "ENG BAR - air flow, EGR control valve (variant)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "ENG BB - cooling fan (3.0L)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "HEAD LR - low beam RH"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "HEAD LL - low beam LH"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "HEAD HL - high beam LH"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "HEAD HR - high beam RH"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "ETC - accelerator position sensor"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "HAZARD - turn signal lights"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "STOP - brake lights, horn"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "TCM (2.3L)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "TCM (3.0L)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "ENG+B - PCM, TCM"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "FUEL PUMP"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "30A",
+     "IG KEY1 - engine control unit, lighter"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "P.WIND - power windows"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "DRL - daytime running lights"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "BLOWER - blower motor"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "40A",
+     "BTN - overhead light, power door lock"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG KEY2 - rear wiper, heater control, wiper/washer"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "40A",
+     "DEFOG - rear window defroster"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "30A",
+     "AD FAN (2.3L) / FAN2 (3.0L) - cooling fan"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "FAN (2.3L) / FAN1 (3.0L) - cooling fan"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "TAIL - taillights, license plate, parking"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "ILLUMI - dashboard illumination"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "MAG - magnet clutch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "AUDIO - audio system"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "30A",
+     "P.SEAT - power seat"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "OPENER - trunk opener motor"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "IG1 - CAT SSR (3.0L)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "FOG - fog lights"
+    ],
+    [
+     "40",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "MAIN - protection of all circuits"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Fuse block (driver side kick-panel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-mazda6-2009-genid-g1-ver-facelift-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "CIGAR - accessory socket"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "ENGINE IG - engine control system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "A/C - heater"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "MIRROR - power control mirror"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "SAS - ABS unit, SAS unit"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "SEAT - seat warmer"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "METER ACC - audio light off unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "METER IG - instrument cluster"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "R.WIP - rear wiper"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "D.LOCK - power door locks"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "R.CIGAR - accessory socket"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "WIPER - windshield wiper and washer"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "ROOM - overhead light"
+    ]
+   ]
+  }
+ ]
+}
