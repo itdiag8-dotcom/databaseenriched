@@ -1,0 +1,444 @@
+{
+ "make_slug": "kia",
+ "model_slug": "spectra5",
+ "brand_db": "Kia",
+ "model_db_name": "Spectra5",
+ "model_id": 6755,
+ "generation_name": "1st generation LD",
+ "generation_code": "g1",
+ "year_start": 2005,
+ "year_end": 2009,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/kia/spectra5/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-spectra5-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "Alternator"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Anti-lock brake system"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Anti-lock brake system"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "In panel B+"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Condenser fan"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Automatic transaxle control"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Stop light"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Deicer"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Engine control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Injection"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "O2 sensor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Front wiper"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Trunk lid opener"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Outside rearview mirror folding"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Front fog light"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Headlight (low)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Headlight (high)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start motor relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Condenser fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Automatic transaxle control relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Daytime running light relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front fog light relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlight relay (low)"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Headlight relay (high)"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Condenser fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-spectra5-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "10A",
+     "Hazard warning flasher"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "10A",
+     "Remote keyless entry"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "15A",
+     "Room lamp"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "30A",
+     "Rear window defroster"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "10A",
+     "Outside rearview mirror heater"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "20A",
+     "Seat warmer"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Ignition"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Start motor"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Sunroof, door lock"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Cluster"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Air bag"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock brake system"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Turn signal light"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "25A",
+     "Power window (left)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "25A",
+     "Power window (right)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Accessory / power socket"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Tail light (right)"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Tail light (left)"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "Rear window defroster relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "Resistor"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "Power window relay"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "Accessory / power socket relay"
+    ],
+    [
+     "R05",
+     "Relay",
+     "",
+     "Tail light relay"
+    ]
+   ]
+  }
+ ]
+}
