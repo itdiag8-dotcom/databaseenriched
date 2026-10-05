@@ -334,11 +334,11 @@
   "isuzu": 7,
   "jac": 1,
   "jaguar": "22 models processed",
-  "jeep": "11 models done"
+  "jeep": "11 models done",
+  "jmc": "0/6 models have data (all no_data); DB model New Generation Transit not on startmycar"
  },
  "in_progress": null,
  "queue_next_makes": [
-  "jmc",
   "kia",
   "lancia",
   "land-rover",
@@ -1237,10 +1237,16 @@
   "jeep/patriot": "done",
   "jeep/renegade": "done",
   "jeep/wagoneer": "done",
-  "jeep/wrangler": "done"
+  "jeep/wrangler": "done",
+  "jmc/grand-avenue": "no_data",
+  "jmc/grand-vigus": "no_data",
+  "jmc/touring": "no_data",
+  "jmc/touring-ev": "no_data",
+  "jmc/vigus": "no_data",
+  "jmc/vigus-ev": "no_data"
  },
- "last_updated": "2026-10-05T10:17:38.915412",
- "current_brand": "jmc",
+ "last_updated": "2026-10-05T10:18:12.115843",
+ "current_brand": "kia",
  "audi_done_models": [
   "a1",
   "a2",
