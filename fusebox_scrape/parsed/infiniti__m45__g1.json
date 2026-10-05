@@ -1,0 +1,453 @@
+{
+ "make_slug": "infiniti",
+ "model_slug": "m45",
+ "brand_db": "Infiniti",
+ "model_db_name": "M45",
+ "model_id": 2294,
+ "generation_name": "Y50",
+ "generation_code": "g1",
+ "year_start": 2006,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/infiniti/m45/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-m45-2010-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "BCM, ECM, fuel injectors, power window, door lock, turn/hazard lamps, room lamps, sunroof"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "Power sockets (floor console inside/rear)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Multi-function switch, meter/A/C amplifier, AV control unit, satellite tuner, tel adapter, displays, CD changer, iPod adapter, camera unit, BOSE amp, DVD, BCM, Intelligent Key unit, meter, room lamps"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter socket"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Blower motor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Blower motor"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "ICC brake switch, LDW switch/camera/buzzer, meter/A/C amp, DLC, shift lock relay, A/C compressor, AV unit, Intelligent Key unit, ASCD brake switch, cooling fan relay, rear sunshade, auto-dimming mirror, defogger relay, AFS, tire pressure unit, front wiper relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Airbag diagnosis sensor unit, occupant classification unit"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Meter, back-up lamp relay, AV control unit, camera control unit"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Pre-crash seat belt control unit"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "BOSE amplifier"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "BOSE amplifier"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Meter/A/C amplifier, DLC, auto-dimming mirror, Homelink transceiver, compass, rain sensor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch, ICC brake hold relay, Intelligent Key unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Meter, BCM, power window, door lock, drive positioner, power seat, turn/hazard lamps, room lamps, sunroof"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Key slot, push-button ignition switch, Intelligent Key unit/buzzer, PDU"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box (back side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-m45-2010-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-m45-2010-2.webp",
+   "fuses": [
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger relay"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner relay"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "IPDM CPU"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "ECM relay (ECM, ignition coils, condenser, valve timing solenoids/magnet retarder, MAF sensor, EVAP purge/vent valves, position sensors, VIAS solenoid)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Right headlamp (low beam)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger relay"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (high beam)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "30A",
+     "Front wiper relays"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (high beam)"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "15A",
+     "IPDM CPU, tail lamp relay (combination lamps, license lamps, illumination, rear sunshade)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp relay"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Throttle control motor relay"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "Left headlamp (low beam)"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "15A",
+     "Air-fuel ratio sensors, heated oxygen sensors"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Front wiper motor, front washer pump"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "TCM, snow mode switch"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "ICC sensor unit, steering angle sensor, ABS/VDC/TCS unit, yaw rate sensor, power steering unit, RAS unit, AWD unit"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp high"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamp low"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Heated seat"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Throttle control motor"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Front fog lamp"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment fuse box 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-m45-2010-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Heated seat relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Multi-function switch, AV control unit, satellite tuner, tel adapter, displays, CD changer, iPod adapter, camera unit, DVD, security indicator"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "5",
+     "Fuse MPF",
+     "",
+     "Starter, power distribution unit (PDU)"
+    ],
+    [
+     "7",
+     "Fuse MPF",
+     "",
+     "ABS/VDC/TCS control unit"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS/VDC/TCS control unit"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan relay"
+    ],
+    [
+     "10",
+     "Fuse MPF",
+     "",
+     "Ignition, power distribution unit (PDU)"
+    ],
+    [
+     "11",
+     "Fuse MPF",
+     "",
+     "Pre-crash seat belt control unit"
+    ],
+    [
+     "12",
+     "Fuse MPF",
+     "",
+     "BCM, power window, door lock, power seat, turn/hazard lamps, room lamps, sunroof, drive positioner"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "AWD control unit"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Daytime light relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Rear active steer (RAS) motor relay"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Back-up lamp relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine compartment fuse box 3",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-m45-2010-4.webp",
+   "fuses": [
+    [
+     "41",
+     "Fuse ATO",
+     "15A",
+     "Climate controlled seat relay (passenger side)"
+    ],
+    [
+     "42",
+     "Fuse ATO",
+     "15A",
+     "Climate controlled seat relay (driver side)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Climate controlled seat relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "ICC brake hold relay"
+    ]
+   ]
+  }
+ ]
+}
