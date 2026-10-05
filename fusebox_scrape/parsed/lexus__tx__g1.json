@@ -1,0 +1,675 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "tx",
+ "brand_db": "Lexus",
+ "model_db_name": "TX",
+ "model_id": 2601,
+ "generation_name": "1st generation AU10",
+ "generation_code": "g1",
+ "year_start": 2023,
+ "year_end": 2026,
+ "trim_label": "TX 350",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/lexus/tx/info/fusebox/2025/models-tx_350",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-tx-2025-genid-g1-models-tx%2520350-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "EDU NO.1 - emissions control"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "EFI-B NO.2 - fuel injection"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "EDU NO.2 - emissions control"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.4 - transmission, engine control"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.6 - transmission, engine control"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "IGP-MAIN NO.2 - transmission, engine control, power source"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "WIPER - front/rear wipers and washers"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "IGP-MAIN NO.1 - transmission, engine control, power source"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "D/C CUT - power source"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "HORN - horn"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "R/B NO.3 - power source"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "EFI-MAIN NO.3 - transmission, engine control"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "BATT-S NO.2 - charging"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "AMP NO.2 - audio system"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "EFI-MAIN NO.1 - fuel injection"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "TV - audio, navigation, back guide monitor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "INJ - fuel injectors"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "ABS NO.3 - anti-lock brakes"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "BATT-S NO.1 - charging system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "30A",
+     "TOWING-B - trailer lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.1 - transmission, engine control"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "EFI-B NO.1 - fuel injection"
+    ],
+    [
+     "29",
+     "Fuse MPF2",
+     "",
+     "ABS NO.2 - anti-lock brakes"
+    ],
+    [
+     "30",
+     "Fuse MPF2",
+     "",
+     "ST NO.1 - starter system"
+    ],
+    [
+     "31",
+     "Fuse MPF2",
+     "",
+     "D INJ - injectors"
+    ],
+    [
+     "32",
+     "Fuse MPF2",
+     "",
+     "BBC NO.2 - Stop & Start system"
+    ],
+    [
+     "33",
+     "Fuse MPF2",
+     "",
+     "IGCT - ignition"
+    ],
+    [
+     "34",
+     "Fuse MPF2",
+     "",
+     "ABS NO.1 - anti-lock brakes"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "BBC NO.1 - Stop & Start system"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "30A",
+     "EFI-MAIN NO.2 - fuel injection"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "DMC - driver monitor camera, advanced drive"
+    ],
+    [
+     "39",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "HTR - air conditioning"
+    ],
+    [
+     "40",
+     "Fuse FMX/JCase",
+     "50A",
+     "INP STD NO.1"
+    ],
+    [
+     "41",
+     "Fuse FMX/JCase",
+     "30A",
+     "P CON MTR"
+    ],
+    [
+     "42",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "INP STD NO.3"
+    ],
+    [
+     "43",
+     "Other",
+     "",
+     "P/I - power source"
+    ],
+    [
+     "44",
+     "Other",
+     "",
+     "EPS - electric power steering"
+    ],
+    [
+     "45",
+     "Other",
+     "",
+     "ALT - charging system"
+    ],
+    [
+     "46",
+     "Other",
+     "",
+     "R/B NO.2"
+    ],
+    [
+     "47",
+     "Other",
+     "",
+     "FAN NO.1 - electric cooling fan"
+    ],
+    [
+     "48",
+     "Other",
+     "",
+     "INP STD NO.2"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Room R/B",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-tx-2025-genid-g1-models-tx%2520350-1.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "P/SEAT F/R - front right power seat"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "A/C RR - rear air conditioning"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "S/HTR R/L - rear left seat heater/climate seat"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "S/HTR R/R - rear right seat heater/climate seat"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "EFI NO.5 - cooling fan"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "EFI NO.8 - transmission, engine control"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "STRG HTR - heated steering wheel"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "FUEL OPN NO.2 - fuel lid opener"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "INV - power outlet inverter (100W)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "DEICER - windshield deicer"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "30A",
+     "S/HTR-MAIN NO.2 - rear seat heaters"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "20A",
+     "WASHER - washers"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "7.5A",
+     "G/SHUTTER - grille shutter"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IGP NO.3 - A/C, climate seats, CAN, outlets, deicer"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "7.5A",
+     "PM-IGCT / ECU-IGP NO.2"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IGP NO.1 - transmission, engine control"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "7.5A",
+     "S-HORN - lights, theft deterrent, seat belt warning"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "7.5A",
+     "EFI NO.7 - Stop & Start system"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "S-HORN relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "DEICER relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "IGP NO.3 relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage Room R/B",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-tx-2025-genid-g1-models-tx%2520350-2.webp",
+   "fuses": [
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "TOWING-B - trailer towing connector"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "BATT-S NO.1 - charging"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "BATT FAN relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-tx-2025-genid-g1-models-tx%2520350-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "+BA NO.1 - turn signals, meter, taillights, BSM"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "+BA NO.2 - turn signals, meter, taillights, BSM"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "DOOR R/R - power window"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "DOOR R/L - power window"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.3 - A/C, audio, navigation, seats, wireless charging"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - data link connector"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "DOOR F/R - power window, mirror"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "DOOR F/L - power window, mirror, mirror heater"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "D/L - door lock control"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-DCC NO.1 - lights, wipers, theft deterrent"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "HAZ - turn signals, meter, taillights"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "FUEL OPN - fuel lid opener"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "TAIL - taillights, meter, towing connector"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "PANEL - illumination, Stop & Start"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IGR NO.2 - driver assist, lights, wipers, engine control"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "WIPER RR - rear wiper and washer"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.1 - driver assist, audio, navigation, CAN, SRS"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "A/BAG-IGR - SRS airbags"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.3 - driver assist, mirrors, moon roof, meter"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-B NO.1 - immobiliser, smart access, starting"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-B NO.2 - AVAS, lights, windows, CAN, TPMS"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "STOP - ABS, brake systems, stop light, VSC"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-ACC - navigation, CAN, outlets, wireless charging"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "AM2 - smart access, starting"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "DCM - Safety Connect"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "BKUP LP - back-up light, audio, monitors"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "TI&TE - power source"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "30A",
+     "AMP NO.1 - audio amplifier"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IGR NO.4 - lights, AWD, wipers"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "5A",
+     "METER-IGR - combination meter"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "P/OUTLET NO.1 - power outlet"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "7.5A",
+     "DOME - interior lights, audio"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "USB NO.1 - power outlet"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "7.5A",
+     "USB NO.2 - power outlet"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "S/HTR F/L - front left seat heater/climate seat"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "S/HTR F/R - front right seat heater/climate seat"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Instrument panel fuse box (rear view)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-tx-2025-genid-g1-models-tx%2520350-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "30A",
+     "PBD - power back door"
+    ],
+    [
+     "2",
+     "Fuse FMM/MCase",
+     "30A",
+     "P/SEAT F/L - driver power seat"
+    ],
+    [
+     "3",
+     "Fuse FMM/MCase",
+     "30A",
+     "S/ROOF - panoramic moon roof / sliding roof"
+    ]
+   ]
+  }
+ ]
+}
