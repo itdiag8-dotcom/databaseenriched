@@ -4,9 +4,9 @@
  "brand_db": "Kia",
  "model_db_name": "Carens",
  "model_id": 2428,
- "generation_name": "2nd generation (UN)",
+ "generation_name": "2nd generation UN",
  "generation_code": "g2",
- "year_start": 2007,
+ "year_start": 2006,
  "year_end": 2014,
  "trim_label": "",
  "representative_year": 2014,
@@ -27,13 +27,13 @@
      "2",
      "Fuse MINI",
      "15A",
-     "(MEMORY) BCM, Digital clock, Mirror folding relay, Cluster, Room lamp, Sunvisor lamp, Door warning switch, A/C control module"
+     "(MEMORY) BCM, digital clock, mirror folding relay, cluster, room/sunvisor lamps, door warning switch, A/C module"
     ],
     [
      "3",
      "Fuse MINI",
      "10A",
-     "(MIRROR HEATED) Outside mirror motor & Defogger, A/C control module"
+     "(MIRROR HEATED) Outside mirror motor & defogger, A/C module"
     ],
     [
      "4",
@@ -45,7 +45,7 @@
      "5",
      "Fuse MINI",
      "10A",
-     "(DIGITAL CLOCK) Power outside mirror switch, Audio, BCM, Digital clock, ATM key lock control module"
+     "(DIGITAL CLOCK) Mirror switch, audio, BCM, digital clock, ATM key lock module"
     ],
     [
      "6",
@@ -57,13 +57,13 @@
      "7",
      "Fuse MINI",
      "10A",
-     "(CLUSTER) Instrument cluster, Pre-excitation resistor"
+     "(CLUSTER) Instrument cluster, pre-excitation resistor"
     ],
     [
      "8",
      "Fuse MINI",
      "10A",
-     "(TELL TALE) Digital clock, PAB cut off switch"
+     "(TELL TALE) Digital clock, PAB cut-off switch"
     ],
     [
      "9",
@@ -81,7 +81,7 @@
      "11",
      "Fuse MINI",
      "10A",
-     "(MODULE-1) ATM key lock module, Steering angle sensor, Cluster, Back warning buzzer, ESP switch, BCM, Auto light module"
+     "(MODULE-1) ATM key lock module, steering angle sensor, cluster, back warning buzzer, ESP switch, BCM, auto light module"
     ],
     [
      "12",
@@ -99,43 +99,43 @@
      "15",
      "Fuse MINI",
      "15A",
-     "(REAR WIPER) Rear wiper motor & relay, Multifunction switch"
+     "(REAR WIPER) Rear wiper motor/relay, multifunction switch"
     ],
     [
      "16",
      "Fuse MINI",
      "10A",
-     "(HEADLAMP) Head lamp relay, AQS sensor, HLLD actuator, PTC heater relays #2/#3, Fuel filter heater relay"
+     "(HEADLAMP) Head lamp relay, AQS sensor, HLLD actuator, PTC heater #2/#3, fuel filter heater relay"
     ],
     [
      "18",
      "Fuse MINI",
      "10A",
-     "(AIR CONDITIONING) A/C control module, Blower relay"
+     "(AIR CONDITIONING) A/C module, blower relay"
     ],
     [
      "19",
      "Fuse MINI",
      "25A",
-     "(FRONT WIPER) Wiper relay & motor, Multifunction switch"
+     "(FRONT WIPER) Wiper relay/motor, multifunction switch"
     ],
     [
      "20",
      "Fuse MINI",
      "10A",
-     "(MODULE-2) Sunroof, Rain sensor, Seat warmer relay, EC mirror, BCM"
+     "(MODULE-2) Sunroof, rain sensor, seat warmer relay, electrochromic mirror, BCM"
     ],
     [
      "22",
      "Fuse MINI",
      "10A",
-     "(TAIL RIGHT HAND) Head lamp RH, Rear combination lamp RH, License lamp, DRL module, IP illumination"
+     "(TAIL RH) Head lamp RH, rear combination lamp RH, license lamp, DRL module, panel illumination"
     ],
     [
      "23",
      "Fuse MINI",
      "15A",
-     "(TAILGATE OPEN) Fuel filler door switch, Tailgate relay"
+     "(TAILGATE OPEN) Fuel filler door switch, tailgate relay"
     ],
     [
      "24",
@@ -147,7 +147,7 @@
      "25",
      "Fuse MINI",
      "10A",
-     "(TAIL LEFT HAND) Head lamp LH, Rear combination lamp LH, Front fog lamp relay"
+     "(TAIL LH) Head lamp LH, rear combination lamp LH, front fog relay"
     ],
     [
      "26",
@@ -159,7 +159,7 @@
      "27",
      "Fuse MINI",
      "10A",
-     "(START) Burglar alarm relay, Start relay coil, Inhibitor switch"
+     "(START) Burglar alarm relay, start relay coil, inhibitor switch"
     ],
     [
      "28",
@@ -171,7 +171,7 @@
      "29",
      "Fuse MINI",
      "15A",
-     "(HAZARD) Hazard switch, Hazard relay"
+     "(HAZARD) Hazard switch/relay"
     ],
     [
      "30",
@@ -183,19 +183,19 @@
      "31",
      "Fuse MINI",
      "25A",
-     "(POWER WINDOW LEFT HAND) Power window main switch, Power window switch LH"
+     "(POWER WINDOW LH) Power window main switch, switch LH"
     ],
     [
      "32",
      "Fuse MINI",
      "10A",
-     "(AUTOMATIC TRANSMISSION LOCK) Sports mode switch, Data link connector, A/C module, Check connector"
+     "(ATM LOCK) Sports mode switch, DLC, A/C module, check connector"
     ],
     [
      "33",
      "Fuse MINI",
      "25A",
-     "(POWER WINDOW RIGHT HAND) Power window main switch, Power window switch RH"
+     "(POWER WINDOW RH) Power window main switch, switch RH"
     ],
     [
      "35",
@@ -207,7 +207,7 @@
      "36",
      "Fuse MINI",
      "30A",
-     "(POWER SEAT LEFT HAND) Driver power seat control switch"
+     "(POWER SEAT LH) Driver power seat control switch"
     ]
    ]
   },
@@ -274,13 +274,13 @@
      "10",
      "Fuse FMX/JCase",
      "30A",
-     "(IGN 2) Ignition switch (IG2, START), Start relay"
+     "(IGN 2) Ignition switch (IG2, START), start relay"
     ],
     [
      "11",
      "Fuse MINI",
      "15A",
-     "(H/LP HI) Head lamp relay (High)"
+     "(H/LP HI) Head lamp relay (high)"
     ],
     [
      "12",
@@ -292,13 +292,13 @@
      "13",
      "Fuse MINI",
      "15A",
-     "(HORN) Horn relay, Burglar horn relay"
+     "(HORN) Horn relay, burglar horn relay"
     ],
     [
      "14",
      "Fuse MINI",
      "15A",
-     "(H/LP LOW) Head lamp relay (Low)"
+     "(H/LP LOW) Head lamp relay (low)"
     ],
     [
      "15",
@@ -310,7 +310,7 @@
      "16",
      "Fuse MINI",
      "10A",
-     "(ECU) TCM, Generator, ECM"
+     "(ECU) TCM, generator, ECM"
     ],
     [
      "21",
@@ -346,19 +346,19 @@
      "29",
      "Fuse MINI",
      "10A",
-     "(PCU) Pulse generator, ECM, Radiator fan relay, Stop lamp switch, Fuel water sensor"
+     "(PCU) Pulse generator, ECM, radiator fan relay, stop lamp switch, fuel water sensor"
     ],
     [
      "30",
      "Fuse MINI",
      "10A",
-     "(BACK-UP) Vehicle speed sensor, Back-up lamp switch, Transaxle range switch"
+     "(BACK-UP) Speed sensor, back-up lamp switch, transaxle range switch"
     ],
     [
      "31",
      "Fuse MINI",
      "10A",
-     "(ABS) ABS/ESP control module, Multipurpose check connector"
+     "(ABS) ABS/ESP module, check connector"
     ],
     [
      "32",
@@ -382,37 +382,31 @@
      "35",
      "Fuse MINI",
      "20A",
-     "(IGN COIL) Ignition coil [Gasoline]"
+     "(IGN COIL) Ignition coil [gasoline]"
     ],
     [
      "36",
      "Fuse MINI",
      "15A",
-     "(SNSR 3) A/C relay, Injector, Lambda sensor, VGT actuator, Radiator fan relay, Stop switch"
+     "(SNSR 3) A/C relay, injector, lambda sensor, VGT actuator, radiator fan relay, stop switch"
     ],
     [
      "37",
      "Fuse MINI",
      "15A",
-     "(SNSR 2) Fuel pump relay, Oxygen sensor, EGR actuator, Glow plug relay, PTC heater relay #1"
+     "(SNSR 2) Fuel pump relay, oxygen sensor, EGR actuator, glow plug relay, PTC heater #1"
     ],
     [
      "38",
      "Fuse MINI",
      "15A",
-     "(SNSR 1) Immobilizer module, Camshaft position sensor, MAF sensor, Oil control valve, Purge valve, Idle speed actuator, ETC actuator"
+     "(SNSR 1) Immobilizer, camshaft sensor, MAF sensor, oil control valve, purge valve, ISC/ETC actuators"
     ],
     [
      "39",
      "Fuse MIDI",
      "150A",
-     "(ALTERNATOR) Generator [Diesel]"
-    ],
-    [
-     "39",
-     "Fuse MIDI",
-     "125A",
-     "(ALTERNATOR) Generator [Gasoline]"
+     "(ALTERNATOR) Generator [diesel]; 125A [gasoline]"
     ],
     [
      "R1",
@@ -424,25 +418,25 @@
      "R2",
      "Relay",
      "",
-     "Head lamp (Low) relay"
+     "Head lamp (low) relay"
     ],
     [
      "R3",
      "Relay",
      "",
-     "Head lamp (High) relay"
+     "Head lamp (high) relay"
     ],
     [
      "R4",
      "Relay",
      "",
-     "Radiator fan (High) relay"
+     "Radiator fan (high) relay"
     ],
     [
      "R5",
      "Relay",
      "",
-     "Radiator fan (Low) relay"
+     "Radiator fan (low) relay"
     ],
     [
      "R6",
