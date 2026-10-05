@@ -1,0 +1,816 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "rz",
+ "brand_db": "Lexus",
+ "model_db_name": "RZ",
+ "model_id": 2599,
+ "generation_name": "1st generation EB10/EB20",
+ "generation_code": "g1",
+ "year_start": 2023,
+ "year_end": 2026,
+ "trim_label": "450e",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/lexus/rz/info/fusebox/2024/trims-450e",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-rz-2024-genid-g1-trims-450e-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "7.5A",
+     "AM2 NO.2"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.5"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.4"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "HORN - horn"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "CAPACITOR"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "FR OIL PMP - front oil pump"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "15A",
+     "E-LATCH F/R - electronic door latch"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "E-LATCH F/L"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "E-LATCH R/R"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "E-LATCH R/L"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "7.5A",
+     "BATT-S NO.2 - battery sensor"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "5A",
+     "BATT-S NO.1"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "5A",
+     "ECU-B NO.8"
+    ],
+    [
+     "F15",
+     "Fuse MPF2",
+     "",
+     "BATT HTR NO.2 - battery heater"
+    ],
+    [
+     "F16",
+     "Fuse MPF2",
+     "",
+     "IGCT-IG NO.1"
+    ],
+    [
+     "F17",
+     "Fuse MPF2",
+     "",
+     "ABS NO.2 - anti-lock brakes"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "30A",
+     "IGP-MAIN NO.1"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "30A",
+     "WIPER - wipers"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "INV W/P NO.2 - inverter water pump"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "RR OIL PMP - rear oil pump"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "RADIO - audio system"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "PCU RR - rear power control unit"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "30A",
+     "D/C CUT"
+    ],
+    [
+     "F26",
+     "Multi fuse block MUSB",
+     "",
+     "DC/DC - DC/DC converter"
+    ],
+    [
+     "F27",
+     "Multi fuse block MUSB",
+     "",
+     "IGCT-SCENE"
+    ],
+    [
+     "F28",
+     "Multi fuse block MUSB",
+     "",
+     "ABS MTR - ABS motor"
+    ],
+    [
+     "F29",
+     "Multi fuse block MUSB",
+     "",
+     "ABS NO.1 - anti-lock brakes"
+    ],
+    [
+     "F30",
+     "Multi fuse block MUSB",
+     "",
+     "INP STD NO.3"
+    ],
+    [
+     "F31",
+     "Multi fuse block MUSB",
+     "",
+     "ABS MAIN"
+    ],
+    [
+     "F32",
+     "Multi fuse block MUSB",
+     "",
+     "BATT HTR NO.1 - battery heater"
+    ],
+    [
+     "F33",
+     "Multi fuse block MUSB",
+     "",
+     "STD PI NO.1"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "PLUG LOCK - charging plug lock"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "7.5A",
+     "P CON MAIN"
+    ],
+    [
+     "F46",
+     "Fuse FMX/JCase",
+     "30A",
+     "PBD - power back door"
+    ],
+    [
+     "F47",
+     "Fuse MPF2",
+     "",
+     "A/C-MAIN - air conditioning"
+    ],
+    [
+     "F48",
+     "Fuse MPF2",
+     "",
+     "P CON MTR"
+    ],
+    [
+     "F49",
+     "Fuse MPF2",
+     "",
+     "HTR - heater"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "10A",
+     "FAN NO.2 - cooling fan"
+    ],
+    [
+     "F51",
+     "Fuse MINI",
+     "10A",
+     "A/C NO.1 - air conditioning"
+    ],
+    [
+     "F52",
+     "Fuse MINI",
+     "10A",
+     "A/C NO.2 - air conditioning"
+    ],
+    [
+     "F53",
+     "Fuse MINI",
+     "15A",
+     "HTR W/PMP - heater water pump"
+    ],
+    [
+     "F54",
+     "Multi fuse block MUSB",
+     "",
+     "INP STD NO.1"
+    ],
+    [
+     "F55",
+     "Multi fuse block MUSB",
+     "",
+     "FAN NO.1 - cooling fan"
+    ],
+    [
+     "F56",
+     "Multi fuse block MUSB",
+     "",
+     "INP STD NO.2"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "30A",
+     "TOWING-ALT"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "20A",
+     "TI&TE - tilt/telescopic steering"
+    ],
+    [
+     "F61",
+     "Fuse MINI",
+     "15A",
+     "DEICER - wiper deicer"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "10A",
+     "E-SHADE - electric sunshade"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "10A",
+     "DCB"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "15A",
+     "AC INV - AC inverter"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.6"
+    ],
+    [
+     "F67",
+     "Fuse MINI",
+     "7.5A",
+     "SIREN - security siren"
+    ],
+    [
+     "F68",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.7"
+    ],
+    [
+     "F69",
+     "Fuse MINI",
+     "30A",
+     "TOWING-B - trailer lights"
+    ],
+    [
+     "F72",
+     "Fuse MINI",
+     "30A",
+     "IGP-MAIN NO.2"
+    ],
+    [
+     "F74",
+     "Fuse MINI",
+     "15A",
+     "S/HTR R/R - rear right seat heater"
+    ],
+    [
+     "F75",
+     "Fuse MINI",
+     "15A",
+     "S/HTR R/L - rear left seat heater"
+    ],
+    [
+     "F76",
+     "Fuse MINI",
+     "20A",
+     "FOOT HTR P - passenger foot heater"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "15A",
+     "FOOT HTR D - driver foot heater"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "10A",
+     "FOOT HTR R/R - rear foot heater"
+    ],
+    [
+     "F79",
+     "Fuse FMX/JCase",
+     "30A",
+     "H-LP CLN - headlight cleaner"
+    ],
+    [
+     "F86",
+     "Fuse MINI",
+     "10A",
+     "PCU FR - front power control unit"
+    ],
+    [
+     "F87",
+     "Fuse MINI",
+     "10A",
+     "IGCT NO.4"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "7.5A",
+     "G/SHUTTER - grille shutter"
+    ],
+    [
+     "F91",
+     "Fuse MINI",
+     "7.5A",
+     "IGCT NO.5"
+    ],
+    [
+     "F92",
+     "Fuse MINI",
+     "7.5A",
+     "INV W/P NO.1 - inverter water pump"
+    ],
+    [
+     "F93",
+     "Fuse MINI",
+     "7.5A",
+     "IGCT NO.3"
+    ],
+    [
+     "F94",
+     "Fuse MINI",
+     "7.5A",
+     "IGCT NO.1"
+    ],
+    [
+     "F95",
+     "Fuse MINI",
+     "7.5A",
+     "IGCT NO.2"
+    ],
+    [
+     "F96",
+     "Fuse MINI",
+     "20A",
+     "WASHER - washer"
+    ],
+    [
+     "F97",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IGP NO.1"
+    ],
+    [
+     "F99",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGP NO.2"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PLUG LOCK NO.2 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PLUG LOCK NO.1 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "DCB relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "A/C-MAIN relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "IGCT-SCENE relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "IGP NO.1 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "IGCT-IG NO.1 relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "FR OIL PMP relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "WIPER relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "IGCT-IG NO.2 relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "RR OIL PMP relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "HORN relay"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "E-SHADE relay"
+    ],
+    [
+     "R21",
+     "Relay",
+     "",
+     "HWD NO.3/DEICER relay"
+    ],
+    [
+     "R22",
+     "Relay",
+     "",
+     "DVR relay"
+    ],
+    [
+     "R24",
+     "Relay",
+     "",
+     "H-LP CLN relay"
+    ],
+    [
+     "R26",
+     "Relay",
+     "",
+     "IGP NO.2 relay"
+    ],
+    [
+     "R27",
+     "Relay",
+     "",
+     "AC INV relay"
+    ],
+    [
+     "R28",
+     "Relay",
+     "",
+     "INV W/P relay"
+    ],
+    [
+     "R30",
+     "Relay",
+     "",
+     "BATT HTR NO.2 relay"
+    ],
+    [
+     "R31",
+     "Relay",
+     "",
+     "BATT HTR NO.1 relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-rz-2024-genid-g1-trims-450e-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "+BA NO.1"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "5A",
+     "+BA NO.2"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "30A",
+     "DOOR R/R - rear right door"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "30A",
+     "DOOR R/L - rear left door"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "DOOR BACK"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - diagnostics"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "30A",
+     "DOOR F/R - front right door"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "30A",
+     "DOOR F/L - front left door lock"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "30A",
+     "D/L - power door locks"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "5A",
+     "ECU-DCC NO.1"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "ECU-DCC NO.3"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "HAZ - hazard lights"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "TAIL - tail lights"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "PANEL - panel illumination"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.2"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "5A",
+     "EPS-IGR - power steering"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.1"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "A/BAG-IGR - airbags"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.3"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.1"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.2"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "STOP - stop lights"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "ECU-ACC"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "STRG LOCK - steering lock"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "7.5A",
+     "AM2 - starter system"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "DCM - telematics"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.5"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "STRG HTR - heated steering wheel"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "30A",
+     "AMP NO.1 - audio amplifier"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "5A",
+     "METER-IGR - instrument cluster"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "P/OUTLET NO.1 - power outlet"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "DOME - interior lights"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "25A",
+     "DOOR DBL/L - door double locking"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "7.5A",
+     "USB NO.1 - USB charger"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "7.5A",
+     "USB NO.2 - USB charger"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "15A",
+     "S/HTR F/L - front left seat heater"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "15A",
+     "S/HTR F/R - front right seat heater"
+    ]
+   ]
+  }
+ ]
+}
