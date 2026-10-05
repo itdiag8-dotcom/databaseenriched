@@ -1,0 +1,539 @@
+{
+ "make_slug": "infiniti",
+ "model_slug": "fx35",
+ "brand_db": "Infiniti",
+ "model_db_name": "FX35",
+ "model_id": 2273,
+ "generation_name": "1st generation (S50)",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/infiniti/fx35/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-fx35-2008-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "BCM, ECM, fuel injectors"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Luggage room power socket"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Rear power socket"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Front power socket 2"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Audio, display unit, satellite tuner, meter & A/C amp, A/C-AV switch, antenna amp, BCM, rear view camera unit, NAVI unit, DVD player, tel adapter, intelligent key unit, key antenna, meter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Front power socket 1"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Heated mirror"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Combination meter, drive positioner unit"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Blower motor, meter & A/C amplifier"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Blower motor, meter & A/C amplifier"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "ICC system/sensor/brake switch/hold relay, ECM, meter & A/C amp, stop lamp switch, shift lock solenoid, ECV solenoid, display/NAVI units, tel adapter, intelligent key unit, steering angle sensor, snow mode switch, LDW system, auto-dimming mirror, ASCD brake switch, defogger relay, AWD unit"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Airbag diagnosis sensor unit, occupant classification unit"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Combination meter"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Heated seat switch"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Oxygen/air-fuel ratio sensors (2003-2005)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "BOSE speaker amplifier"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Back door closure control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Meter, meter & A/C amp, DLC, rear view camera unit, security lamp, clock"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch, ICC, brake hold relay, ABS, meter & A/C amp, rear combination lamp unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "AWD control unit"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "BCM, key switch, ignition knob switch, NATS antenna amp, drive positioner unit"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box (relays)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-fx35-2008-genid-g1-1.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-fx35-2008-genid-g1-2.webp",
+   "fuses": [
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger relay, fuse 8"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "IPDM CPU, windshield wiper de-icer"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "ECM, ECM relay, intake valve timing solenoid, MAF sensor, crankshaft/camshaft sensors, EVAP purge solenoid, ignition coils, condenser"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "Right headlamp (low beam)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Rear window defogger relay"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp (high beam)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "30A",
+     "Front wiper relay"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp (high beam)"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp relay, parking/tail/side marker lamps, IPDM CPU, headlamp aiming, rear combination lamp unit, license/glove box lamps, combination switch, illumination"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "DLC, EVAP vent valve, VIAS solenoid (VK45DE)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp relay"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Throttle control motor relay, ECM"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "Left headlamp (low beam)"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "Air-fuel ratio sensors, heated oxygen sensors"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Combination switch, front/rear washer system"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "TCM, back-up lamp relay, display/NAVI units, rear view camera unit"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay, fuel level sensor/pump, ECM"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Engine control module"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp high"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamp low"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Ignition"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan 3"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Throttle control motor"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Front fog lamp"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment fuse box 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-fx35-2008-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Trailer tow lights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Audio, subwoofer, display unit, A/C-AV switch, NAVI unit, DVD player, tel adapter"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "5",
+     "Fuse MPF",
+     "",
+     "Ignition switch, starter relay"
+    ],
+    [
+     "6",
+     "Fuse MPF",
+     "",
+     "Cooling fan relays 1 and 3"
+    ],
+    [
+     "7",
+     "Fuse MPF",
+     "",
+     "Cooling fan relay 2"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS"
+    ],
+    [
+     "10",
+     "Fuse MPF",
+     "",
+     "Accessory relay 2 (fuses 2, 3)"
+    ],
+    [
+     "11",
+     "Fuse MPF",
+     "",
+     "ABS"
+    ],
+    [
+     "12",
+     "Fuse MPF",
+     "",
+     "BCM, drive positioner, power seat/window, sunroof, rear wiper, interior lighting, turn signals, hazard"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Intelligent cruise control (ICC)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "Daytime light relay"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "TCM"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Intelligent key unit, key/ignition knob switch, unlock relay, steering lock unit, key warning buzzer"
+    ],
+    [
+     "17",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "18",
+     "Relay",
+     "",
+     "Accessory 2"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Battery positive terminal fusible link block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-fx35-2008-genid-g1-4.webp",
+   "fuses": [
+    [
+     "A",
+     "Other",
+     "",
+     "Alternator, fuses B, C"
+    ],
+    [
+     "B",
+     "Other",
+     "",
+     "Fuses 32-38, F, G, H, I, K, L, M"
+    ],
+    [
+     "C",
+     "Other",
+     "",
+     "Headlamp high relay (fuses 72, 74), headlamp low relay (fuses 76, 86), fuses 71, 73, 75, 87, 88"
+    ],
+    [
+     "D",
+     "Other",
+     "",
+     "Accessory relay (fuses 4, 6, 7), blower relay (fuses 10, 11), fuses 17-22"
+    ],
+    [
+     "E",
+     "Other",
+     "",
+     "Ignition relay (A/C, front wiper relays, fuses 81-85, 89), fuses 77-80"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Relay box 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-fx35-2008-genid-g1-5.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Daytime light"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "ICC brake hold"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ]
+   ]
+  },
+  {
+   "index": 6,
+   "name": "Relay box 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-fx35-2008-genid-g1-6.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Back-up lamp"
+    ]
+   ]
+  }
+ ]
+}
