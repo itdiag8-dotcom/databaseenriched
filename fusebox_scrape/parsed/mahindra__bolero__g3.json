@@ -1,0 +1,508 @@
+{
+ "make_slug": "mahindra",
+ "model_slug": "bolero",
+ "brand_db": "Mahindra",
+ "model_db_name": "Bolero",
+ "model_id": 2663,
+ "generation_name": "3rd generation",
+ "generation_code": "g3",
+ "year_start": 2011,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/mahindra/bolero/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-bolero-2024-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Blower fan"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Central door locking"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Roof lamp"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Park lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Audio/cluster"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "Diagnostics/immobilizer"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Flasher control"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "ECU pin 49/immobilizer"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Cluster"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "RWAL ECU"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Demister (LCCR LX model)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper/washer"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Front wiper/washer"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Turn/reverse"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Heater"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window switch"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "Accessory cut-off relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse panel (Ver. 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-bolero-2024-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Wipers, windshield washer"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "12V output / stereo"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Turn / reverse / engine compartment lamp"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Immobilizer (anti-theft system)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Diagnostic tool / cluster"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Fuel feed pump"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Parking lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Dome light and interior light"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Accessory / stereo"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Flasher control"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Power eco"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Ignition supply ECU / cluster"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Headlights low beam"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Headlights high beam"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-bolero-2024-genid-g3-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Alternator, battery and charging system"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Headlights low beam"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Headlights high beam"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control unit"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter system"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment fuse panel (Ver. 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-bolero-2024-genid-g3-3.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Alternator, battery and charging system"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Headlights low beam"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Headlights high beam"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "30A",
+     "AC condenser fan"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control unit"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 2"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 1"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Reverse lamp relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "GNS relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Engine compartment fuse panel (Ver. 3)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-bolero-2024-genid-g3-4.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Alternator, battery and charging system"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Fog lights"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Headlights low beam"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Headlights high beam"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "30A",
+     "AC condenser fan"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control unit"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 2"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 1"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Reverse lamp relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "GNS relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low beam relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "High beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 5,
+   "name": "Engine compartment relay block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-bolero-2024-genid-g3-5.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "GNS relay"
+    ]
+   ]
+  }
+ ]
+}
