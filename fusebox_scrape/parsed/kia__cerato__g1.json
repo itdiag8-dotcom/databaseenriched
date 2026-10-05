@@ -1,0 +1,511 @@
+{
+ "make_slug": "kia",
+ "model_slug": "cerato",
+ "brand_db": "Kia",
+ "model_db_name": "CERATO (LD)",
+ "model_id": 5441,
+ "generation_name": "Generation LD",
+ "generation_code": "g1",
+ "year_start": 2002,
+ "year_end": 2008,
+ "trim_label": "",
+ "representative_year": 2008,
+ "source_url": "https://www.startmycar.com/kia/cerato/info/fusebox/2008",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-cerato-2008-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "(ALT) Alternator [Gasoline]"
+    ],
+    [
+     "1",
+     "Fuse FLD/PAL 283",
+     "140A",
+     "(ALT) Alternator [Diesel]"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS2) Anti-lock brake system"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS1) Anti-lock brake system"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "(IP B+) In panel B+"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "(BLOWER) Blower"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN2) Ignition switch"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN1) Ignition switch"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "(RAD) Radiator fan [Gasoline]"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "(RAD) Radiator fan [Diesel]"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "(COND) Condenser fan"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(ECU1) Engine control unit"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop light"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) Air conditioner"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(F/PUMP) Fuel pump"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "(ECU2) Engine control unit"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(INJ) Injector"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(SNSR) O2 sensor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "(F/WIPER) Front wiper"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(R/FOG) Rear fog light"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "(T/OPEN) Trunk lid opener"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "(SAFETY P/WINDOW) Safety power window module"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "(F/FOG) Front fog light"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "(HDLP) Headlight (low)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "(HI HDLP) Headlight (high)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(MAIN) Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(START) Starter motor relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(RAD) Radiator fan relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(COND2) Condenser fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(ATM) Automatic transaxle control relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(A/CON) Air conditioner relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(WIPER) Wiper relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "(F/PUMP) Fuel pump relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(DRL) Daytime running light relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(F/FOG) Front fog light relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(LO HDLP) Low beam relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(HI HDLP) High beam relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "(HORN) Horn relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "(COND) Condenser fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver-side knee bolster",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-cerato-2008-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "10A",
+     "Emergency Flashers"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "10A",
+     "Keyless Entry"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "15A",
+     "Interior Light"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "30A",
+     "Rear Window Defroster"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "10A",
+     "Exterior Mirror Heating"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "10A",
+     "Rear Fog Light"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "10A",
+     "Air Conditioning System"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "20A",
+     "Seat Heating"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "15A",
+     "Rear Windshield Wiper"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Ignition"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Starter Motor"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Cigarette Lighter"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Sound System"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Sunroof, Door Lock"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Cluster"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Airbag"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Anti-lock Braking System"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Engine Control Unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Turn Signal"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "25A",
+     "Power Window (Left)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "25A",
+     "Power Window (Right)"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Accessories / Power Outlet"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Right Tail Light"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Left Tail Light"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "Rear Window Defroster Relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "Resistor"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "Power Window Relay"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "Accessories / Power Outlet Relay"
+    ],
+    [
+     "R05",
+     "Relay",
+     "",
+     "Tail Light Relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment [Diesel only]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-cerato-2008-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel filter heater"
+    ],
+    [
+     "F02",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC heater 3"
+    ],
+    [
+     "F03",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC heater 2"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plug"
+    ],
+    [
+     "F05",
+     "Fuse FMX/JCase",
+     "40A",
+     "PTC heater 1"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "Fuel filter heater relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "PTC heater relay 3"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "PTC heater relay 2"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ],
+    [
+     "R05",
+     "Relay",
+     "",
+     "PTC heater relay 1"
+    ]
+   ]
+  }
+ ]
+}

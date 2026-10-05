@@ -1,0 +1,492 @@
+{
+ "make_slug": "kia",
+ "model_slug": "cerato",
+ "brand_db": "Kia",
+ "model_db_name": "CERATO II Saloon (TD)",
+ "model_id": 6099,
+ "generation_name": "Generation TD",
+ "generation_code": "g2",
+ "year_start": 2010,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/kia/cerato/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-cerato-2013-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "(IGN COIL) Condenser (G4KF), Ignition Coil #1-#4"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(SNSR 2) Oil Control Valves, Camshaft Position Sensors, F/Pump Relay, C/Fan Lo Relay, Immobilizer Module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(ECU 2) PCM, Purge Control Solenoid Valve, Oxygen Sensor (Down)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(INJECTOR) A/CON Relay, Crankshaft Position Sensor, Oxygen Sensor (Up), Injectors #1-#4, Variable Intake Sensor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(SNSR 1) PCM, Canister Close Valve"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "(ECU 1) PCM"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "(ECU 1) PCM"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) A/CON Relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(F/PUMP) Fuel Pump Relay"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ECU) Engine Control Relay"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "50A",
+     "(BATT 2) Battery and charging system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(B/UP LP) Inhibitor Switch, Pulse Generator B, Back Up Lamp Switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(ECU 3) Ignition Coils #1-#4, Condenser, PCM"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(ABS) Multipurpose Check Connector, ESC/ABS Control Modules"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(SNSR 3) ECM, PCM, Vehicle Speed Sensor, Pulse Generator A, Stop Lamp Switch"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(H/LP LO (LH)) Head Lamp LH"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(H/LP LO (RH)) Head Lamp RH"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(FOG LP (FR)) Check Connector, Front Fog Relay, Battery Sensor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(AMS) Battery Sensor"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS 1) ESC/ABS Control Modules"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS 1) Anti-lock braking system"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 1) Ignition Switch, Button Relay Box (ESCL Relay IGN1)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "(BATT 2) I/P Junction Box (Power Connector AUDIO/ROOM LAMP, fuses STOP LP, DEICER, HAZARD LP, DR LOCK, TRUNK OPEN)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "ISG"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "(H/LP HI) Head Lamp High Relay"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn Relay"
+    ],
+    [
+     "27",
+     "Multi fuse block MUSB",
+     "",
+     "(MDPS) EPS Control Module"
+    ],
+    [
+     "28",
+     "Multi fuse block MUSB",
+     "",
+     "(ABS 2) ESC/ABS Control Modules"
+    ],
+    [
+     "29",
+     "Multi fuse block MUSB",
+     "",
+     "(C/FAN) C/Fan Lo/Hi Relay"
+    ],
+    [
+     "30",
+     "Multi fuse block MUSB",
+     "",
+     "(BLOWER) Blower Relay"
+    ],
+    [
+     "31",
+     "Multi fuse block MUSB",
+     "",
+     "(HTD GLASS) I/P Junction Box (Rear Defogger Relay)"
+    ],
+    [
+     "32",
+     "Multi fuse block MUSB",
+     "",
+     "(ALT) Generator; fuses MDPS, HTD GLASS, C/FAN, ABS 2, BLOWER, IGN 1, FOG LP (FR), ABS 1"
+    ],
+    [
+     "33",
+     "Multi fuse block MUSB",
+     "",
+     "(IGN 2) Ignition Switch, Start Relay, Button Relay Box (ESCL Relay)"
+    ],
+    [
+     "34",
+     "Multi fuse block MUSB",
+     "",
+     "(BATT 1) I/P Junction Box (fuses Tail Lamps, P/WDW DR/ASS, FOG LP RR/SSB, SMK, PDM; Tail Lamp & Power Window Relays)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "(MAIN) Main Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "(F/PUMP) Fuel Pump Relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(A/CON) A/C Relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(BLOWER) Blower Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "(START) Start Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(H/LP HI) High Beam Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "(FOG) Fog Lights Relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "(HORN) Horn Relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "(WIPER) Wiper Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "(H/LP LO) Low Beam Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "(C/FAN HI) Cooling Fan High Relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "(C/FAN LO) Cooling Fan Low Relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-cerato-2013-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Transaxle Range Switch (A/T), Ignition Lock Switch (M/T), E/R Box (Start Relay)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "E/R Box (Blower Relay), BCM, Incar Temperature Sensor, Sunroof Control Module, A/C Control Module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Power Outside Mirror Defoggers, A/C Control Module (Rear Defogger SW)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Front Seat Warmer LH/RH"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Air Conditioning"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "E/R Box (H/LP Hi/Lo Relay), DRL Control Module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "Multifunction Switch (Wiper & Washer), E/R Box (Wiper Relay), Front Wiper Motor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "DRL Control Module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "FOG LP (RR)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "SMK (Smart Key)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "Power Window Main Switch, Rear Power Window Switch LH"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Audio, BCM, Clock, Power Outside Mirror Switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Cigarette Lighter"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Sunroof Control Module, ICM Relay Box (Door Lock/Unlock Relay, Two Turn Unlock Relay)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "ICM Relay Box (Windshield Defogger Relay)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Stop Lamp Switch, Sport Mode Switch, Key Solenoid"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Trunk Room Lamp, BCM, Clock, Instrument Cluster, Data Link Connector, A/C Module, Ignition Key Illumination & Door Warning Switch, Room/Map Lamps"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Trunk Open Relay"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "25A",
+     "PDM"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "Safety Power Window"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "Power Window Main Switch, Passenger & Rear RH Power Window Switches"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Power Outlet"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Hazard Switch"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Instrument Cluster (IND.)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Instrument Cluster, BCM, Electro Chromic Mirror, Rheostat, Steering Angle Sensor"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "SRS Control Module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "(IGN1-A) PDM, ESC Switch, EPS Control Module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "ICM Relay Box (Hazard Relay), Hazard Switch"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(TAIL LP (RH)) Rear Combination Lamp RH, Head Lamp RH, Shunt Connector, Passenger Power Window Switch, License Lamp RH, Illuminations, Rheostat Relay (DRL)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(TAIL LP (LH)) Head Lamp LH, Rear Combination Lamp LH, Power Window Main Switch, License Lamps"
+    ]
+   ]
+  }
+ ]
+}
