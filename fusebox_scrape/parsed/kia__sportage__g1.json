@@ -1,0 +1,560 @@
+{
+ "make_slug": "kia",
+ "model_slug": "sportage",
+ "brand_db": "Kia",
+ "model_db_name": "Sportage",
+ "model_id": 2477,
+ "generation_name": "1st generation NB-7",
+ "generation_code": "g1",
+ "year_start": 1993,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/kia/sportage/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel (Ver. 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sportage-2004-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "25A",
+     "TNS"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Hazard light"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "(D/LOCK) Power door lock system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "T.G.O"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "(ROOM) Interior lights"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(TAIL) Tail lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(WIPER) Wipers"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(RR WIPER) Rear wiper"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "(HEATER) Air conditioning system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(F/PUMP) Fuel pump"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "O2 sensor"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(RADIO) Radio and audio system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(CIGAR) Cigar lighter / power outlet"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(ECU) Engine control unit"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "(RR DEF) Rear window defogger"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(S/ROOF) Sunroof"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop lights"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG) Airbag"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "(ENG) Engine control system"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "(METER) Instrument cluster"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "(TURN) Turn signal"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "(P/WINDOW) Power windows"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "20A",
+     "(HEAD) Headlights"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "(MEMORY) Memory"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse panel (Ver. 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sportage-2004-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "25A",
+     "TNS"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(P/OUTLET) Cigar lighter / power outlet"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "(D/LOCK) Power door lock system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(OBD-II) On-board diagnostics"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "(HEAD LOW) Headlights low beam"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(HEAD HI) Headlights high beam"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(TAIL 1) Tail lights"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "(TAIL 2) Tail lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(ST. SIGN) Starter system"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(WIPER) Wipers"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(RR WIPER) Rear wiper"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(ROOM) Interior lights"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "(RR DEF 2) Rear window defogger"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop lights"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(S/ROOF) Sunroof"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Hazard light"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "(RR DEF 1) Rear window defogger"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "T.G.O"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Mirror defroster"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(CIGAR) Cigar lighter / power outlet"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(RADIO) Radio and audio system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG) Airbag"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "(ENG) Engine control system"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(METER) Instrument cluster"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(TURN) Turn signal"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "20A",
+     "(C/FAN) Electric cooling fan"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "(HEATER) Air conditioning system"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment (Ver. 1)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sportage-2004-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(FUEL INJ.) Fuel injectors"
+    ],
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "ADD"
+    ],
+    [
+     "3",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "(MAIN) Main fuse"
+    ],
+    [
+     "4",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "BTN"
+    ],
+    [
+     "5",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "(IGN) Ignition"
+    ],
+    [
+     "6",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "(P/WIN) Power windows"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "15A",
+     "(MAIN) Main fuse"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "30A",
+     "(ABS) Anti-lock braking system"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "20A",
+     "(HEAD) Headlights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "EGI main relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "(FUEL PUMP) Fuel pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment (Ver. 2)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sportage-2004-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Headlights"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Brake lights, license plate light, interior lights, alarm"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Interior lights, instrument panel, audio system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "ABS"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Engine management system"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump, injector, main relay, fuel pump relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump, diagnostic connector"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Injector"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "60A",
+     "Injector"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "40A",
+     "Air conditioning"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Brake lights, license plate light, interior lights, alarm"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power windows"
+    ],
+    [
+     "17",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "Main fuse"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  }
+ ]
+}

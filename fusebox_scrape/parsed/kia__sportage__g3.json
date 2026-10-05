@@ -1,0 +1,516 @@
+{
+ "make_slug": "kia",
+ "model_slug": "sportage",
+ "brand_db": "Kia",
+ "model_db_name": "Sportage",
+ "model_id": 2477,
+ "generation_name": "3rd generation SL",
+ "generation_code": "g3",
+ "year_start": 2010,
+ "year_end": 2016,
+ "trim_label": "",
+ "representative_year": 2016,
+ "source_url": "https://www.startmycar.com/kia/sportage/info/fusebox/2016",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sportage-2016-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "(AUDIO) Audio"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "(RF_ANT) RF receiver"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "(SAFETY POWER WINDOW) Driver safety power window module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "(P/SEAT DRV) Driver seat manual switch"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(MODULE B+) Check connector, data link connector, driver CCS switch, rear parking assist buzzer"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "(SUNROOF) Sunroof motor, sunroof control module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "(AMP) Amplifier"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "(ATM K/LOCK) ATM shift lever, key solenoid"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(SEAT VENT) Driver CCS seat warmer"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW RH) Power window main/passenger/rear RH switches"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW LH) Rear power window switch LH, power window main switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(ROOM LP) BCM, map/room/vanity/luggage lamps, electrochromic mirror, key illumination, TPMS, cluster, A/C module, IPS module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(PDM B) Start/stop button, smart key control module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "(DR LOCK) Door lock/unlock relays, tailgate relay, two-turn unlock relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) BCM"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(HTD_STRG) Heated steering wheel"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(PDM A) Smart key control module"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(START) Burglar alarm relay, start relay, smart key control module"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(MODULE IG1) EPS module, shift lever illumination, 4WD ECM, stop lamp switch, IPS module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "(UH_BOX) E/R fuse box (ECU 2, ABS, TCU 2)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG IND) Instrument cluster airbag indicator"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(SMART KEY 2) Smart key control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "25A",
+     "(WIPER FRT) Front wiper motor, multifunction switch, wiper relays"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "(POWER OUTLET 1) Front power outlet RH"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(SMART KEY 1) BCM, smart key control module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(ACC) Audio, AMP, sunroof control module, mirror switch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(CLUSTER) Seat warmer switches, CCS module, cluster, TPMS, audio, alternator, BCM, A/C module"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(IG2 A) BCM, smart key control module, IPS module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "(WIPER RR) Rear wiper motor, multifunction switch, rear wiper relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(IG2 B) Cluster ionizer, A/C module, rain sensor, sunroof motor, electrochromic mirror, blower relay"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "(POWER OUTLET 2) Rear power outlet, front power outlet LH, cigarette lighter"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "(A/BAG) SRS control module, occupant detection sensor"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "(S/HEATER FRT) Front seat warmer switches"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "(S/HEATER RR) Rear seat warmers"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "7.5A",
+     "(A/CON) A/C control module (auto)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "(HTD MIRR) A/C module, power outside mirror heaters"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sportage-2016-genid-g3-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "(C/FAN) Cooling fan high/low relays"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "(RR HTD) Rear defogger relay"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IG 1) PDM relay box (IGN1/ACC relay) / ignition switch"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IG 2) PDM relay box (IGN2 relay) / ignition switch"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "20A",
+     "(V_PUMP) Vacuum pump relay [T-GDI]"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ECU 3) Engine control relay"
+    ],
+    [
+     "8",
+     "Multi fuse block MUSB",
+     "",
+     "(MDPS1) EPS control module"
+    ],
+    [
+     "9",
+     "Multi fuse block MUSB",
+     "",
+     "(B+1) I/P junction box (PDM A, DR LOCK, HAZARD, IPS 4-7)"
+    ],
+    [
+     "10",
+     "Multi fuse block MUSB",
+     "",
+     "(ABS 2) ESC module"
+    ],
+    [
+     "11",
+     "Multi fuse block MUSB",
+     "",
+     "(EMS) EMS box (TCU 1, ECU, A/CON, F/PUMP)"
+    ],
+    [
+     "12",
+     "Multi fuse block MUSB",
+     "",
+     "(ABS 1) ESC module"
+    ],
+    [
+     "13",
+     "Multi fuse block MUSB",
+     "",
+     "(BLOWER2) Blower 2"
+    ],
+    [
+     "14",
+     "Multi fuse block MUSB",
+     "",
+     "(B+3) I/P junction box (P/SEAT DRV, SAFETY POWER WINDOW, PDM B, ATM K/LOCK, SEAT VENT, AUDIO, RF_ANT, ROOM LP)"
+    ],
+    [
+     "15",
+     "Multi fuse block MUSB",
+     "",
+     "(B+2) I/P junction box (power window relay, SUNROOF, AMP, MODULE B+, IPS 0-3, 8-10)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "(TCU 2) Transaxle range switch [MPI] / vacuum switch+pump relay [T-GDI]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "(ABS) ESC module, DBC relay, multi switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "(ECU 2) ATM P/N relay, PCM, multifunction switch"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(MDPS2) MDPS"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(B/UP LAMP) Back-up lamp"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(F/PUMP) Fuel pump relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(SENSOR 4) Fuel pump relay, PCM, oxygen sensors, cooling fan relays"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(SENSOR 3) A/C relay, injectors #1-#4"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "(TCU 1) PCM"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) A/C relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(SENSOR 1) Immobilizer, crank/cam sensors, oil control/purge/intake/canister valves, RCV [T-GDI]"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "(ECU 1) Ignition coils #1-#4, condenser"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn relay"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "(DEICER) Front wiper deicer relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(STOP LP) Stop lamp switch, smart key module, DBC relay"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "(4WD) 4WD ECU"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "(AMS) Battery sensor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump 2 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C 2 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rain sensor relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Front wiper low relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan 1 relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Deicer 2 relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Vacuum pump relay [T-GDI]"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Horn 2 relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Cooling fan 2 relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Rear heated 2 relay"
+    ]
+   ]
+  }
+ ]
+}
