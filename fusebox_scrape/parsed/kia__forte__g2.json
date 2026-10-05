@@ -1,0 +1,486 @@
+{
+ "make_slug": "kia",
+ "model_slug": "forte",
+ "brand_db": "Kia",
+ "model_db_name": "Forte",
+ "model_id": 2444,
+ "generation_name": "2nd generation YD",
+ "generation_code": "g2",
+ "year_start": 2014,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/kia/forte/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-forte-2018-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Fuel Pump"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "ECU"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "A/CON"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "INJECTOR"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "ECU"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "IGN COIL"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "ECU"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "[FFV 1.6] Sub pump relay"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "[Gasoline 1.6 / 1.6 T-GDI] ECM/PCM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Horn relay, ICM relay box (Burglar alarm horn relay)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Driver/Passenger air ventilation seat & seat warmer control modules"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Stop signal electronic module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "ICM relay box (Front deicer relay)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "[FFV / 1.6 T-GDI] TCM"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "[1.6 T-GDI] Gasoline PTC heater relay"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "40A",
+     "EMS Block (Engine Control Relay)"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "50A",
+     "Smart Junction Block"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "[1.6 T-GDI DCT] TCM"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Wiper relay, Wiper motor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "A/C Control Module, ECM/PCM (Manual A/C)"
+    ],
+    [
+     "22",
+     "Multi fuse block MUSB",
+     "",
+     "MDPS Unit"
+    ],
+    [
+     "23",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block"
+    ],
+    [
+     "24",
+     "Multi fuse block MUSB",
+     "",
+     "ABS/ESC Control Modules"
+    ],
+    [
+     "25",
+     "Multi fuse block MUSB",
+     "",
+     "Cooling fan low/high relay ([1.6 T-GDI] Cooling fan relay)"
+    ],
+    [
+     "26",
+     "Multi fuse block MUSB",
+     "",
+     "Rear heater relay"
+    ],
+    [
+     "27",
+     "Multi fuse block MUSB",
+     "",
+     "Blower Relay"
+    ],
+    [
+     "28",
+     "Multi fuse block MUSB",
+     "",
+     "[Except 1.6 T-GDI] Gasoline PTC heater relay"
+    ],
+    [
+     "29",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "40A",
+     "[1.6 T-GDI DCT] TCM"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "W/O Smart Key: Ignition Switch; With Smart Key: PDM 2 (ACC) Relay, PDM 3 (IG1) Relay"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/ESC Control Modules"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "[1.6 T-GDI] Vacuum pump"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "50A",
+     "[Diesel 1.6] Cooling fan low/high relay"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "W/O Smart Key: Ignition switch, Start relay; With Smart Key: PDM 4 (IG2) relay, Start relay"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fuel heater relay"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "[A/T, DCT] EC Mirror, Audio, SJB (IPS Control Module), Rear Combination Lamps (Inside); [M/T] Back-Up Lamp Switch"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "[A/T, DCT] TCM, Transaxle Range Switch; [M/T] Vehicle Speed Sensor, Back-up lamp fuse"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "ICM Relay Box (Rear Wiper Relay), Rear Wiper Motor, Multifunction Switch"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "[Diesel 1.6] Fuel Filter Warning Sensor, Glow Relay Unit"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESC Control Modules"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "ECM/PCM, Vacuum Pump [1.6 T-GDI]"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver's side fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-forte-2018-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Sunroof"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "With Smart Key: Smart Key Control Module; W/O: Immobilizer Module"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "ICM Relay Box (Turn Signal Lamp Sound Relay, Mirror Folding/Unfolding Relays)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Smart Key Control Module"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Smart Junction Box (Door Lock/Unlock Relays)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "Sport Mode Switch, Key Interlock"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "Driver IMS, Smart Key Outside Handles, BCM, TPMS Module, Auto Light & Photo Sensor, Instrument Cluster, Data Link & Check Connectors, Digital Clock, A/C Control Module"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Stop Lamp Switch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "Smart Junction Box (Power Window LH Relay)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Power Outside Mirrors, Smart Key Outside Handles"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Trunk Room Lamp, Spot Lamps, Glove Box Lamp, Vanity Lamps, Room Lamp, Overhead Console Lamp, Ignition Key Illumination & Door Warning Switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "MTS E-call Module"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Audio, A/V & Navigation Head Unit"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Smart Junction Box (Trunk Relay)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "ECM, A/C Control Module, Outside Mirror (heated)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "Wiper Motor, E/R Fuse & Relay Box (Wiper Relay), Multifunction Switch"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Burglar Alarm Relay (if equipped) / Transaxle Range Switch, Start Relay, Smart Key Control Module, ECM"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "SRS Control Module"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "Smart Junction Box (Power Window RH Relay)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "BCM, Smart Key Control Module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Sunroof, Driver CCS Control Module, Passenger Seat Warmer Module, Rear Seat Heater"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "W/O Smart Key: E/R Fuse & Relay Box (fuses TCU 1, ECU 3, ABS 3)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument Cluster"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Crash Pad Switch, TPMS Module, Stop Lamp Switch, Digital Clock, BCM, Parking Assist Sensors"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Rear Seat Warmer LH/RH"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "A/C Control Module, Cluster Ionizer, Blower Relay, Gasoline PTC Relay"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Steering Wheel Heater"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "EPS Control Module"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "Instrument Cluster"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "30A",
+     "Driver Seat Module (Power Seat, Lumbar Support)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Cigarette Lighter & Power Outlet"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Smart Key Control Module, BCM, Digital Clock, Audio, AVN, Power Outside Mirror Switch"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "EC Mirror, Check Connector, Head Lamp Leveling Switch & Actuators, A/C Module, Driver CCS Module, Driver IMS, Passenger Seat Warmer Module"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "With Smart Key: Smart Key Control Module; W/O: Immobilizer Module"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Power Outlet"
+    ]
+   ]
+  }
+ ]
+}
