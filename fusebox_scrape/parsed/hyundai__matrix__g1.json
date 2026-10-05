@@ -1,0 +1,644 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "matrix",
+ "brand_db": "Hyundai",
+ "model_db_name": "Matrix",
+ "model_id": 2234,
+ "generation_name": "1st generation (FC)",
+ "generation_code": "g1",
+ "year_start": 2001,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/hyundai/matrix/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment (petrol engine)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-matrix-2010-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FLF/PAL 293",
+     "120A",
+     "Alternator: generator"
+    ],
+    [
+     "F02",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "F03",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window relay"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS module, bleeding connector, ESP"
+    ],
+    [
+     "F05",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS module, bleeding connector, ESP"
+    ],
+    [
+     "F06",
+     "Fuse FMX/JCase",
+     "20A",
+     "Condenser fan relay #1"
+    ],
+    [
+     "F07",
+     "Fuse FMX/JCase",
+     "40A",
+     "B+: A/C, rear defogger, stop, door lock, hazard fuses"
+    ],
+    [
+     "F08",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU: ECM, TCM"
+    ],
+    [
+     "F09",
+     "Fuse FMX/JCase",
+     "40A",
+     "IGN: start relay, ignition switch"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "20A",
+     "Radiator fan relay"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Tail lamp relay"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Right head lamp, headlamp indicator fuse"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Left head lamp"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "ECM, TCM"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Horn relay"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "DRL control module"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Room lamp: audio, room/console lamps, cluster"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Injectors, ignition coil"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Sensors: MAP, oxygen, CP, knock, throttle position"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump relay"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Tail LH: left rear combi, position, license lamps"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Tail RH: right rear combi, position, license lamps"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "",
+     "Fuel pump check"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "Tail relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "Condenser 1 relay"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "Front fog relay"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R05",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R06",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R08",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "R09",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Condenser 2 relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Main relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment (diesel engine)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-matrix-2010-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse FLF/PAL 293",
+     "140A",
+     "Alternator: generator"
+    ],
+    [
+     "F02",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "F03",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window relay"
+    ],
+    [
+     "F04",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS module, bleeding connector, ESP"
+    ],
+    [
+     "F05",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS 2: module, bleeding connector, ESP"
+    ],
+    [
+     "F06",
+     "Fuse FMX/JCase",
+     "30A",
+     "Condenser fan relay #1"
+    ],
+    [
+     "F07",
+     "Fuse FMX/JCase",
+     "40A",
+     "B+: A/C, rear defogger, stop, door lock, hazard fuses, deicer"
+    ],
+    [
+     "F08",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU: generator, engine control relay, ECM"
+    ],
+    [
+     "F09",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan relay"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "IGN: start relay, ignition switch"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Tail lamp relay"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamp relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Right head lamp, headlamp indicator fuse"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Left head lamp"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "ECU4: ECM, TCM"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Horn relay"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "DRL control module"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Room lamp: audio, lamps, cluster, ETACM, luggage lamp"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Sensors: glow plug relay, assistor heater relays, stop lamp switch, TDC sensor, EGR/throttle actuators, VGT vacuum"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "30A",
+     "ECU2: ECM No.5 (Batt+)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "ECU3: ECM No.4 (Batt+), stop lamp switch, PTC heater relay #1"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Tail LH: left rear combi, position, license lamps"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Tail RH: right rear combi, position, license lamps"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "Tail relay"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "Condenser relay"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "Front fog relay"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R05",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R06",
+     "Relay",
+     "",
+     "Wiper relay"
+    ],
+    [
+     "R08",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R09",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Condenser 2 relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Additional fuse box (diesel engine)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-matrix-2010-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "PTC heater relay #1"
+    ],
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "Glow relay"
+    ],
+    [
+     "3",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "PTC heater relay #2"
+    ],
+    [
+     "4",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "FFHS relay"
+    ],
+    [
+     "5",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "PTC heater relay #3"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Inner panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-matrix-2010-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F04",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper motor, relay"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "10A",
+     "Head lamp indicator"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "10A",
+     "Start relay"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "Heated indicator: defogger relay, mirror motors, rear window motor"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Front wiper: relay, washer motor, wiper/defogger timer"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "A/C switch"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Front seat warmer switches"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator: SRS"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "30A",
+     "Rear defogger relay"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "25A",
+     "Front/rear power outlets"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Turn signal: hazard switch, seat belt timer, cluster, ABS, resistor, washer motor"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp switch, power window relay"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "IG2: ETACM, window/defogger/sunroof/headlamp/blower relays"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "ECU: ECM, speed sensor, TCM, ignition coil"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "Door lock/unlock relay, ETACM, sunroof relay"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Outside mirror switch, rear fog relay"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "ETACS: ETACM, AT shift lever"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Hazard: burglar alarm relay, hazard relay"
+    ]
+   ]
+  }
+ ]
+}
