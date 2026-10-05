@@ -332,11 +332,11 @@
   "hyundai": 53,
   "infiniti": 36,
   "isuzu": 7,
-  "jac": 1
+  "jac": 1,
+  "jaguar": "22 models processed"
  },
- "in_progress": "hyundai",
+ "in_progress": null,
  "queue_next_makes": [
-  "jaguar",
   "jeep",
   "jmc",
   "kia",
@@ -1225,10 +1225,11 @@
   "jaguar/xjr": "done",
   "jaguar/xjs": "no_data",
   "jaguar/xk": "done",
-  "jaguar/xk8": "done"
+  "jaguar/xk8": "done",
+  "jaguar/xkr": "done"
  },
- "last_updated": "2026-10-05T10:06:02.984460",
- "current_brand": "jaguar",
+ "last_updated": "2026-10-05T10:06:23.422476",
+ "current_brand": "jeep",
  "audi_done_models": [
   "a1",
   "a2",
