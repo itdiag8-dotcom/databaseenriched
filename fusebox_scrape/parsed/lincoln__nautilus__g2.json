@@ -1,0 +1,648 @@
+{
+ "make_slug": "lincoln",
+ "model_slug": "nautilus",
+ "brand_db": "Lincoln",
+ "model_db_name": "Nautilus",
+ "model_id": 2614,
+ "generation_name": "2nd generation CDX707",
+ "generation_code": "g2",
+ "year_start": 2024,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/lincoln/nautilus/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Under hood fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-nautilus-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FMM/MCase",
+     "60A",
+     "ABS power 1, ESP power 1"
+    ],
+    [
+     "4",
+     "Fuse FMM/MCase",
+     "40A",
+     "ABS power 2, ESP power 2"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module ignition 1 supply"
+    ],
+    [
+     "7",
+     "Fuse FMM/MCase",
+     "40A",
+     "Electric coolant heater 3"
+    ],
+    [
+     "8",
+     "Fuse FMM/MCase",
+     "25A",
+     "Hybrid transmission oil pump"
+    ],
+    [
+     "9",
+     "Fuse FMM/MCase",
+     "40A",
+     "Electric coolant heater 1"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Audio amplifier 1"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "High voltage/12V transformer (hybrid)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Traction battery coolant pump, acoustic vehicle alerting system (hybrid)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "USB smart charging type A, high mount camera"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "USB charging port 3 (console dual port - left)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "USB charging port 3 (console dual port - right)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Hybrid drive system control module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Audio amplifier 2"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "E-Drive electronics coolant pump (hybrid)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "Traction battery low voltage service disconnect (hybrid)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Heated windscreen wiper park area"
+    ],
+    [
+     "32",
+     "Fuse FMM/MCase",
+     "20A",
+     "Center/front console power outlet"
+    ],
+    [
+     "33",
+     "Fuse FMM/MCase",
+     "20A",
+     "Cargo area power outlet"
+    ],
+    [
+     "34",
+     "Fuse FMM/MCase",
+     "15A",
+     "Engine fuel injectors power"
+    ],
+    [
+     "35",
+     "Fuse FMM/MCase",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "40A",
+     "Trailer tow module"
+    ],
+    [
+     "38",
+     "Fuse FMM/MCase",
+     "60A",
+     "Digital sound processor, amplifier"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "40A",
+     "Rear window heater"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "USB smart dedicated charging port 3 (console)"
+    ],
+    [
+     "43",
+     "Fuse FMM/MCase",
+     "60A",
+     "Electric coolant heater 2"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "20A",
+     "Running board - left"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "30A",
+     "Second row captain chairs control"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESP/brakes ignition supply"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "15A",
+     "Heated steering wheel"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Headlamp leveling motors"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "5A",
+     "Hybrid drive controller permanent power"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "20A",
+     "Running board - right"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "10A",
+     "Traction battery control module (hybrid)"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "5A",
+     "Windshield rain sensor"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper motor"
+    ],
+    [
+     "55",
+     "Fuse FMM/MCase",
+     "30A",
+     "Windshield wiper motor"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "Rear window washer"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "10A",
+     "Powertrain control module ignition"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "5A",
+     "Electric steering assist ignition supply"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "10A",
+     "Interior air quality sensor"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "10A",
+     "Hybrid drive controller active power"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "20A",
+     "Interior fuse box supply"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "30A",
+     "Smart headlamp - left"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "5A",
+     "Smart headlamp control module"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "10A",
+     "OBD port power"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "15A",
+     "Exhaust gas sensors, fuel system"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "20A",
+     "Exhaust gas sensors downstream"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "15A",
+     "A/C clutch, grille shutter"
+    ],
+    [
+     "71",
+     "Fuse FMM/MCase",
+     "40A",
+     "All wheel drive control module"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "30A",
+     "Smart headlamp - right"
+    ],
+    [
+     "73",
+     "Fuse FMM/MCase",
+     "40A",
+     "Front cooling pack blower motor"
+    ],
+    [
+     "74",
+     "Fuse FMM/MCase",
+     "30A",
+     "Second row seat electric fold"
+    ],
+    [
+     "75",
+     "Fuse FMM/MCase",
+     "30A",
+     "Engine starter motor"
+    ],
+    [
+     "76",
+     "Fuse FMM/MCase",
+     "40A",
+     "Body control module permanent power"
+    ],
+    [
+     "77",
+     "Fuse FMM/MCase",
+     "30A",
+     "Moonroof control module"
+    ],
+    [
+     "78",
+     "Fuse FMM/MCase",
+     "40A",
+     "Body control module permanent power"
+    ],
+    [
+     "79",
+     "Fuse FMM/MCase",
+     "30A",
+     "Body control module ignition 2"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-nautilus-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F03",
+     "Fuse MINI",
+     "7.5A",
+     "Seat control switch, wireless accessory control module"
+    ],
+    [
+     "F06",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver seat climate control"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "7.5A",
+     "Gear shift module"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "7.5A",
+     "Telematics control module"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "5A",
+     "Interior anti-theft alarm sensor, rear seat heater control module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Driver seat massage"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "Steering column module"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "7.5A",
+     "Bluetooth connectivity module"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "5A",
+     "Exterior lights switch"
+    ],
+    [
+     "F23",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver door control module"
+    ],
+    [
+     "F26",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger door control module"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "7.5A",
+     "A/C control unit"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "20A",
+     "Voice control unit, center display"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "20A",
+     "Multifunction display 2"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "5A",
+     "Electronic toll collection module 1"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "5A",
+     "Toll module ignition, interior air particulate sensor"
+    ],
+    [
+     "F38",
+     "Fuse FMM/MCase",
+     "40A",
+     "High voltage power outlet"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "5A",
+     "Hands-free power liftgate"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "20A",
+     "Multifunction display 3"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "Keyless start remote key receiver"
+    ],
+    [
+     "F43",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power liftgate"
+    ],
+    [
+     "F44",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "F45",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "F50",
+     "Fuse MINI",
+     "10A",
+     "Left multi-contour seat control"
+    ],
+    [
+     "F55",
+     "Fuse MINI",
+     "5A",
+     "Electrochromatic rear view mirror"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "10A",
+     "Moonroof control module"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "20A",
+     "Driver power door latch"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "20A",
+     "Passenger power door latch"
+    ],
+    [
+     "F64",
+     "Fuse MINI",
+     "20A",
+     "Right rear power door latch"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "20A",
+     "Left rear power door latch"
+    ],
+    [
+     "F70",
+     "Fuse MINI",
+     "20A",
+     "Advanced driver assistance module"
+    ],
+    [
+     "F75",
+     "Fuse MINI",
+     "10A",
+     "Rear multi-contour seat 2"
+    ],
+    [
+     "F76",
+     "Fuse MINI",
+     "7.5A",
+     "Driver status monitor"
+    ],
+    [
+     "F77",
+     "Fuse MINI",
+     "20A",
+     "Radio control unit"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "10A",
+     "A/C vents control"
+    ],
+    [
+     "F79",
+     "Fuse MINI",
+     "10A",
+     "Multifunction display 1"
+    ],
+    [
+     "F80",
+     "Fuse MINI",
+     "5A",
+     "Digital scent module"
+    ],
+    [
+     "F81",
+     "Fuse FMM/MCase",
+     "20A",
+     "Passenger door control module 2"
+    ],
+    [
+     "F82",
+     "Fuse FMM/MCase",
+     "20A",
+     "Driver door control module 2"
+    ],
+    [
+     "F83",
+     "Fuse MINI",
+     "5A",
+     "Driver keypad"
+    ],
+    [
+     "F85",
+     "Fuse MINI",
+     "5A",
+     "All wheel drive ignition power"
+    ],
+    [
+     "F112",
+     "Fuse FMM/MCase",
+     "30A",
+     "Left rear power seat"
+    ],
+    [
+     "F113",
+     "Fuse FMM/MCase",
+     "30A",
+     "Right rear power seat"
+    ],
+    [
+     "F84",
+     "Fuse",
+     "10A",
+     "Rear electric multi-contour seat"
+    ]
+   ]
+  }
+ ]
+}
