@@ -1,0 +1,588 @@
+{
+ "make_slug": "kia",
+ "model_slug": "optima",
+ "brand_db": "Kia",
+ "model_db_name": "Optima",
+ "model_id": 2459,
+ "generation_name": "3rd generation TF",
+ "generation_code": "g3",
+ "year_start": 2010,
+ "year_end": 2015,
+ "trim_label": "Nafta",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/kia/optima/info/fusebox/2015/nafta",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger Compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-2015-engine_fuel-nafta-genid-g3-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "15A",
+     "ISG LDC audio system, Audio UVO/PA30A,B, Navi 1.5/3.0/4.0, TMU"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "25A",
+     "Smart key control module [with smart key]"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "10A",
+     "Fog light relay"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "10A",
+     "SMK unit, start button switch"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "20A",
+     "Passenger seat manual switch"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "30A",
+     "AMP"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "30A",
+     "Driver IMS module, driver seat manual switch, driver lumbar support switch"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "7.5A",
+     "PIC RF receiver"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "Trunk door relay, trunk light"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Sport mode switch, rear power window switch"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "Door lock/unlock relay, interlock relay (RHD), turn signal sound relay"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "20A",
+     "Left/Right rear seat heater relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "25A",
+     "Safety power window modules (driver RHD/passenger LHD), right rear safety module, right power window relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "25A",
+     "Safety power window modules (driver LHD/passenger RHD), rear safety power, left power window module/relay"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "BCM, panoramic sunroof, rain sensor"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Smart key control module, start/stop button, FOB holder, brake light switch"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Seat extension (IMS), door trim extension (folding), instrument panel, A/C, ECM, auto folding relay, TPMS, power outlet, photosensor, muffler"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "Panoramic sunroof"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "Seat extension (heating/ventilation)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Sport mode switch, key solenoid [without smart key]"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "CCS control modules / seat heater modules, front seat heater & CCS switch, oil pump inverter, ISG low DC-DC converter, tire pressure module"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "SRS control module, warning light [Europe], seat belt reminder [Australia]"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Smart key exterior handles, door lights, A/C module, key illumination/door warning switch, RF receiver, driver IMS, BCM, DLC, door trim lights, mirror switch, auto light sensor, auto light cut relay, instrument panel"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel (ENC1)"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "7.5A",
+     "Protection panel switch, EPS control module [MDPS], steering angle sensor, ATM lever indicator, EPB switch & control module"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "7.5A",
+     "Smart key control module [with smart key]"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "EPB"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Headlight leveling module/switch/actuators, BCM, front parking assist sensor module, instrument panel, electrochromic mirror, A/C module, driver IMS, rear parking buzzer, lane keeping assist"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "7.5A",
+     "Anti-theft alarm relay"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "Steering wheel heater"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "7.5A",
+     "Smart key module, rear seat heater relays, E/R relay box (Relay 2), diesel box (fuel filter relay)"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "7.5A",
+     "A/C control module, E/R fuse box (Relay 14)"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "25A",
+     "E/R fuse box (Relays 11/12), multifunction switch, front wiper motor"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "7.5A",
+     "Panoramic sunroof (ENC 2), ionizer, DSL box, rear seat heater"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "10A",
+     "Driver/Passenger power exterior mirror"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Main Fuse Box in the Engine Compartment (For Gasoline Engine)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-2015-engine_fuel-nafta-genid-g3-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Ignition Coils 1-4, Capacitor"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Oil Control Valves 1/2, Purge Control Solenoid Valve, Crankshaft Position Sensor, Variable Intake Solenoid Valve"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Camshaft Position Sensors 1/2, Immobilizer Module"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Horn Relay / Injectors 1-4 (G4KD/G4KE), Relay 1 (Fuel Pump Relay)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Fuel Pump Relay / Oxygen Sensors (Up/Downstream), Fan Relay (Low)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "O2 Sensor, Cooling Fan Relay (TGDI) / PCM"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Engine Injector / Relay 1 (Fuel Pump Relay)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "CMP, SMATRA Immobilizer / Alarm Horn & Horn Relays"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Engine CKP, DSL Box, OCV, PCSV, CCV / Relay 3 (Engine Control Relay)"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Engine Ignition Coil"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Engine ECU"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "ECU Relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "PCM (G4KD/G4KE)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Fuel Water Sensor U2, Brake System Vacuum Pump"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Battery Sensor"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "20A",
+     "TCU"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Relay 10 (HAC Relay), Brake Light Relay"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "Relay 7 (Defroster Relay)"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "20A",
+     "Relay 2 (Headlamp Washer Relay)"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition Switch"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "50A",
+     "B+"
+    ],
+    [
+     "F23",
+     "Multi fuse block MUSB",
+     "",
+     "B+"
+    ],
+    [
+     "F24",
+     "Multi fuse block MUSB",
+     "",
+     "Relay 14 (Fan Relay)"
+    ],
+    [
+     "F25",
+     "Multi fuse block MUSB",
+     "",
+     "Ignition Switch, IGN2 Relay"
+    ],
+    [
+     "F26",
+     "Multi fuse block MUSB",
+     "",
+     "ABS Unit, ESC Unit, Diagnostic"
+    ],
+    [
+     "F27",
+     "Multi fuse block MUSB",
+     "",
+     "ABS Unit, ESC Unit"
+    ],
+    [
+     "F28",
+     "Multi fuse block MUSB",
+     "",
+     "Relay 1 (Rear HTD Relay)"
+    ],
+    [
+     "F29",
+     "Multi fuse block MUSB",
+     "",
+     "EPS Control Module"
+    ],
+    [
+     "F30",
+     "Multi fuse block MUSB",
+     "",
+     "B+"
+    ],
+    [
+     "F32",
+     "Fuse FMX/JCase",
+     "50A",
+     "Relay 3 (Fan Relay High), Relay 4 (Fan Relay Low)"
+    ],
+    [
+     "F33",
+     "Fuse FMX/JCase",
+     "50A",
+     "Oil Pump Inverter"
+    ],
+    [
+     "F34",
+     "Fuse FMX/JCase",
+     "50A",
+     "TCM (A/T)"
+    ],
+    [
+     "F35",
+     "Fuse FMX/JCase",
+     "30A",
+     "EPB Unit"
+    ],
+    [
+     "F36",
+     "Fuse FMX/JCase",
+     "30A",
+     "EPB Unit"
+    ],
+    [
+     "F37",
+     "Fuse FMX/JCase",
+     "40A",
+     "EMS Box (B+)"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Engine ECU"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "15A",
+     "Speed Sensor, Position Switch, Oil Pump Switch"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESC Unit, Steering Angle Sensor"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "10A",
+     "Electrochromic Mirror, BCM, Rear Combination Lights (IN)"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "A/C Control Module (Auto A/C)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear HTD Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel Pump Motor"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn (Left/Right)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Main Relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlamp Washer Motor"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling Fan (TGDI)"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling Fan (REG, PWM)"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Starter Solenoid"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "SMK Unit"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "SMK Unit"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "SMK Unit"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Multifunction Switch, Wiper Motor"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "BCM, Rain Sensor, Wiper Motor"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "Anti-Theft Horn"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Fan Motor"
+    ]
+   ]
+  }
+ ]
+}

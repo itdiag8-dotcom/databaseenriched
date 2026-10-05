@@ -1,0 +1,510 @@
+{
+ "make_slug": "kia",
+ "model_slug": "optima",
+ "brand_db": "Kia",
+ "model_db_name": "Optima",
+ "model_id": 2459,
+ "generation_name": "2nd generation MG",
+ "generation_code": "g2",
+ "year_start": 2006,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/kia/optima/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse replacement",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-2010-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "(I/P B+2) Power Window Relay; fuses RR Fog, Power Seats LH/RH, W/Deicer, Power Connector, PDM 1/2"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS2) ABS/ESP Unit"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "(ABS1) ABS/ESP Unit"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ECU RLY) PCU, Ignition Coil, Injector, Sensors"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "(RAD FAN) Radiator Fan Motor [2.4L]"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "(RAD FAN) Radiator Fan Motor [2.7L]"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "(RR HTD) Mirror Heated, Rear Heated Relay"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN1) Fuses A/Bag, Turn, Cluster, Telltail, A/Bag IND, 21, PCU, Module-1"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "(I/P B+1) Fuses Hazard, Stop Lamp, TPMS, T/Lid, Pedal Adj, Door Lock"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "(BLOWER) Blower Motor; fuse A/Con Switch"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN2) Fuses Module-2, Head Lamp, A/Con, Wiper, Start; Button Relay"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(HEAD LP HI) Headlamp High"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(DRL) DRL Control Module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn, Burglar Alarm Horn, Horn Switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(HEAD LP LOW) Headlamp Low"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "(F/PUMP) Fuel Pump Motor"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(ECU) PCU"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(FRT FOG) Front Fog Lamp"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "(P/AMP) Power AMP, AV-AMP"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "(P/OUTLET) Power Outlet"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "25A",
+     "(S/WARMER) Seat Warmer LH/RH"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "(ATM) TCU, ATM Solenoid"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "(S/ROOF) Sunroof Motor"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(PCU) PCU, Speed Sensor"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(BACK UP) Back-Up Lamp, ECM Mirror, BWS Unit"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(ABS) ABS/ESP Unit"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "(TAIL) Tail Lamp LH/RH"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) A/C Compressor"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "(ECU-1) PCU"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "(IGN COIL) Ignition Coil, PCU, O2 Sensor"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "(SNSR3) Injector, PCU"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "(SNSR2) O2 Sensor, EGR Actuator"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "(SNSR1) MAP, MAF, CMP, CCV, VIS, CPSV, ISCA, OCV, EGR, CAM, CKP, TDC Sensors"
+    ],
+    [
+     "39",
+     "Fuse MIDI",
+     "125A",
+     "(ALT) Fusible Link, Fuse [2.4L]"
+    ],
+    [
+     "39",
+     "Fuse MIDI",
+     "150A",
+     "(ALT) Fusible Link, Fuse [2.7L]"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp Low"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Headlamp High"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Radiator Fan Hi"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Radiator Fan Low"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel Pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Main"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Wiper"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "ATM Control"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "A/Con"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver's side fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-2010-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(H/LP) Headlamp Low/High Relay Coils"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(A/CON S/W) A/C Auto 2"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(START) Start Relay Coil, Inhibitor Switch, Clutch Lock Switch, Burglar Alarm Relay"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "30A",
+     "(P/SEAT RH) Power Seat RH"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW RH) Power Window Motor RH"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "(WIPER) Washer Motor, Wiper Motor, Wiper Relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(MIRR HTD) Outside Mirror Heated, A/C Unit"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(ECS/RR FOG) Rear Fog Switch (IND), Rear Fog Lamp, ETACS"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "(P/SEAT LH) Power Seat LH"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW LH) Power Window Motor LH"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(MODULE-2) Blower Relay Coil, ETACS, Sunroof, Wiper Hi Relay Coil, Cluster, Rain Sensor, Rheostat, Seat Warmer Relay Coil, AIH Sensor, ECM, H/Link"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(W/DEICER) Front Glass Heated, ETACS, Front Heated Switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(TAIL RH) Position Lamp RH, Glove Box Lamp, Combi Lamp RH, License Lamp RH, RR Fog/P.Window/ESP/Hazard/A/C/Seat Warmer/Remocon/Sport Mode Switches"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(TAIL LH) Front Fog Relay Coil, Combi Lamp LH, License Lamp LH, Position Lamp LH"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(EPS) EPS Unit, PDM Unit B"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) A/C Auto 1, PCU"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "(SAFETY PWR) Safety Window"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG IND) Cluster"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(A/BAG) ACU, PAB Display, PAB Off Switch, D/Clock Passenger OC"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "(DR LOCK) Door Lock Motor, Two-Turn Unlock Motor, ETACS"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "(CLUSTER) Cluster, ETACS, PDM Unit B, Handle Switch, Resistor W/D"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(MODULE-1) Remocon Switch, BWS Buzzer, PIC Unit A, Steering Angle Sensor, ESP Switch, ATM Key Lock, TPMS"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Turn Lamp, Side Repeater Lamp, Cluster, ETACS, OBDII"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "(STOP LP) Stop Lamp, High Mounted Stop Lamp"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(TELL TAIL) D/Clock (Telltale)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "(T/LID OPEN) Fuel Filler Actuator, Latch Trunk Lid, ETACS"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(ADJ PEDAL) Key Solenoid, ATM Solenoid, Adjust Pedal Switch/Motor, ATM & Key Lock Control Unit"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(T/SIG) Turn Lamp, Side Repeater Lamp, Multifunction Switch, Hazard Switch, Cluster, Handle Switch"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "(TPMS) TPMS"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "(BLOWER MTR) Blower Motor"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "(C/LIGHTER) Cigarette Lighter, OIC"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "(D/CLOCK) Outside Mirror Switch, Audio, ETACS, D/Clock, ATM Key Lock, PDM, Overhead Console Lamp"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "(MEMORY) Trunk Room Lamp, ETACS, Cluster, D/Clock, A/C Manu/Auto, Key Illumination, Sun Visor/Room/Overhead Console/Door Lamps, RF Module, H/Link"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) AV, Audio"
+    ]
+   ]
+  }
+ ]
+}

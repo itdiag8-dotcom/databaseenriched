@@ -1,0 +1,926 @@
+{
+ "make_slug": "kia",
+ "model_slug": "optima",
+ "brand_db": "Kia",
+ "model_db_name": "Optima",
+ "model_id": 2459,
+ "generation_name": "4th generation JF",
+ "generation_code": "g4",
+ "year_start": 2016,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/kia/optima/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-2020-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 7) Around View Unit, Front Seat Ventilation/Warmer Modules, Rear Seat Warmer Module"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 5) A/C Module, Electrochromic Mirror, Crash Pad Switch, Head Lamps, Auto Leveling Module, AVN Head Unit, Fuel Lid & Trunk Switch, Shift Indicator, Driver IMS, Seat Warmer/Ventilation Modules"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 6) BCM, Smart Key Control Module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(WIPER RR) Rear Wiper"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) A/C Control Module, E/R Junction Block (Blower Relay)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(START) ICM Relay Box (Burglar Alarm Relay) / Transaxle Range Switch, PCM"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(A/BAG) SRS Control Module, Passenger Occupant Detection"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 3) BCM, ATM Shift Lever, Stop Lamp Switch, DBL Unit, Keyboard, A/C Module"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 4) Console Switch, Blind Spot Radars, Smart Cruise Unit, AEB Module, Lane Keeping Assist"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(INTERIOR LAMP) Trunk/Glove Box/Vanity/Console/Room/Personal/Scuff Lamps, Key Illumination, Smart Key Handles"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(MDPS) MDPS Unit (Column/Rack), Steering Angle Sensor"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "25A",
+     "(IG1) PCB Block (fuses TCU2, ABS3, ECU3, Vacuum Pump2)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 9) Immobilizer Module, Smart Key Module"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(WASHER) Multifunction Switch (Wiper Low & Washer)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 8) A/C Module, Door Modules"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(CLUSTER) Instrument Cluster (IG1)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "(MULTI MEDIA) Audio, AVN Head Unit, Keyboard"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(HEATED STEERING) BCM (Steering Wheel Heated)"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 1) Console Switch, Key Solenoid, Door Modules, BCM"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "(DR LOCK) Door Lock/Unlock Relays"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "(SMART KEY) Smart Key Control Module"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG IND) Instrument Cluster (Air Bag IND Power)"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(TRUNK) Trunk Lid Relay/Motor, Fuel Filler & Trunk Switch, ICM Relay Box (Fuel Filler Relay)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "(SUNROOF 2) Sunroof Control Unit (Roller)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(MEMORY 1) Cluster, A/C Module, DLC, Wireless Charger, Driver IMS, Rain Sensor, Mirror Fold Relay, Security Indicator, Auto Light Sensor, Door Modules, Electrochromic Mirror"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "(FOG LAMP REAR) Rear Fog Lamp"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "25A",
+     "(S/HEATER RR) Rear Seat Warmer Control Module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "(SUNROOF 1) Sunroof Control Unit (Glass)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "25A",
+     "(S/HEATER FRT) Front Seat Ventilation/Warmer Modules"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "15A",
+     "(ECS) ECS"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 2) Audio, AVN, Keyboard, Around View, AMP, Mirror Switch, Smart Key Module, BCM, Wireless/USB Chargers, E/R Junction Block (Power Outlet Relay)"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "25A",
+     "(P/WINDOW RH) Power Window RH Relay, Window Switches, Passenger Safety Module"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "25A",
+     "(P/SEAT PASS) Passenger Seat Manual Switch, Walk In Relay Module, Reclining Limit Switch"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "25A",
+     "(AMP) AMP (JBL)"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "(BRAKE SWITCH) Stop Lamp Switch, Immobilizer, Smart Key Module, Start/Stop Button"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "25A",
+     "(P/WINDOW LH) Power Window LH Relay, Window Switches, Driver Safety Module"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "30A",
+     "(P/SEAT DRV) Driver Seat Manual Switch, Driver IMS Module"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "(POWER OUTLET) Front Power Outlets, Cigarette Lighter"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment Box N.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-2020-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Vacuum Pump, Vacuum Switch"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "PCM/ECM"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Front Power Outlet #1"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "20A",
+     "Horn Relay, ICM Relay Box (Burglar Alarm Horn Relay)"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "30A",
+     "Wiper Power Relay"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "15A",
+     "Transaxle Range Switch, TCM"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "ESC Module, Multipurpose Check Connector"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "20A",
+     "Rear Power Outlet"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "PCM/TCM, Transaxle Range Switch, Audio, Electrochromic Mirror, Rear Combination Lamps (IN)"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "Oxygen Sensor (Up/Down)"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition Coils #1-#4"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "PCM/ECM"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "PCM/TCM"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "20A",
+     "PCM/ECM"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "15A",
+     "Injector"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "E/R Junction Block (Fuel Pump, Cooling Fan Relays); Oil Control Valve, Purge/RCV/Variable Intake Solenoid Valves, Canister Close Valve (engine variants)"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Battery Sensor"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "20A",
+     "Deicer Relay"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "20A",
+     "Vacuum Pump"
+    ],
+    [
+     "31",
+     "Fuse FMM/MCase",
+     "40A",
+     "E-CVVT Relay"
+    ],
+    [
+     "33",
+     "Fuse FMM/MCase",
+     "40A",
+     "Smart Junction Block (Leak Current Autocut fuses Interior Lamp, Memory1, Multi Media; fuses Door Lock, Module1, Smart Key, Brake Switch)"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel Pump Relay"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "20A",
+     "PCM"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "10A",
+     "A/C Control Module"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "20A",
+     "PCM"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "10A",
+     "A/C Module, Power Outside Mirrors, ECM"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "10A",
+     "BCM, PCM/ECM"
+    ],
+    [
+     "49",
+     "Multi fuse block MUSB",
+     "",
+     "Start Relay, Ignition Switch / PCB Block (IG2 Relay)"
+    ],
+    [
+     "50",
+     "Multi fuse block MUSB",
+     "",
+     "Power Outlet Relay"
+    ],
+    [
+     "51",
+     "Multi fuse block MUSB",
+     "",
+     "Blower Relay"
+    ],
+    [
+     "53",
+     "Multi fuse block MUSB",
+     "",
+     "Rear Heated Relay"
+    ],
+    [
+     "54",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block (IPS 2/5, 3/6, 7, 8)"
+    ],
+    [
+     "55",
+     "Multi fuse block MUSB",
+     "",
+     "[G4K] Cooling Fan1 Relay"
+    ],
+    [
+     "57",
+     "Multi fuse block MUSB",
+     "",
+     "[G4KH/G4FJ] Cooling Fan1/2 Relays"
+    ],
+    [
+     "58",
+     "Multi fuse block MUSB",
+     "",
+     "MDPS Unit (Column)"
+    ],
+    [
+     "59",
+     "Multi fuse block MUSB",
+     "",
+     "ESC Module, Multipurpose Check Connector"
+    ],
+    [
+     "61",
+     "Multi fuse block MUSB",
+     "",
+     "Ignition Switch / PCB Block (IG1/ACC Relay)"
+    ],
+    [
+     "62",
+     "Multi fuse block MUSB",
+     "",
+     "ESC Module"
+    ],
+    [
+     "64",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block (IPS 1, 4; fuses AMP, S/Heater FRT)"
+    ],
+    [
+     "65",
+     "Multi fuse block MUSB",
+     "",
+     "PCB Block (Engine Control Relay; fuses TCU1, ECU2, Fuel Pump, Horn, Wiper1)"
+    ],
+    [
+     "66",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block (fuses Sunroof1/2, S/Heater RR, Power Seats, Power Windows, Trunk)"
+    ],
+    [
+     "68",
+     "Multi fuse block MUSB",
+     "",
+     "MDPS Unit (Rack)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling Fan"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling Fan"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel Pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Power Outlet"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "E-CVVT"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "B/Alarm Horn"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Deicer"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Rear Heated"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment Box N.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-2020-genid-g4-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Vacuum Pump, Vacuum Switch"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "PCM/ECM"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Front Power Outlet #1"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "20A",
+     "Horn Relay, ICM Relay Box (Burglar Alarm Horn Relay)"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "30A",
+     "Wiper Power Relay"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "15A",
+     "Transaxle Range Switch, TCM"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "ESC Module, Multipurpose Check Connector"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "20A",
+     "Rear Power Outlet"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "PCM/TCM, Transaxle Range Switch, Audio, Electrochromic Mirror, Rear Combination Lamps (IN)"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "Oxygen Sensor (Up/Down)"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition Coils #1-#4"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "PCM/ECM"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "PCM/TCM"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "20A",
+     "PCM/ECM"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "15A",
+     "Injector"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "10A",
+     "E/R Junction Block (Fuel Pump, Cooling Fan Relays); Oil Control Valve, Purge/RCV/Variable Intake Solenoid Valves, Canister Close Valve (engine variants)"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Battery Sensor"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "20A",
+     "Deicer Relay"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "20A",
+     "Vacuum Pump"
+    ],
+    [
+     "31",
+     "Fuse FMM/MCase",
+     "40A",
+     "E-CVVT Relay"
+    ],
+    [
+     "33",
+     "Fuse FMM/MCase",
+     "40A",
+     "Smart Junction Block (Leak Current Autocut fuses Interior Lamp, Memory1, Multi Media; fuses Door Lock, Module1, Smart Key, Brake Switch)"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel Pump Relay"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "20A",
+     "PCM"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "10A",
+     "A/C Control Module"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "20A",
+     "PCM"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "10A",
+     "A/C Module, Power Outside Mirrors, ECM"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "10A",
+     "BCM, PCM/ECM"
+    ],
+    [
+     "49",
+     "Multi fuse block MUSB",
+     "",
+     "Start Relay, Ignition Switch / PCB Block (IG2 Relay)"
+    ],
+    [
+     "50",
+     "Multi fuse block MUSB",
+     "",
+     "Power Outlet Relay"
+    ],
+    [
+     "51",
+     "Multi fuse block MUSB",
+     "",
+     "Blower Relay"
+    ],
+    [
+     "52",
+     "Multi fuse block MUSB",
+     "",
+     "[G4FJ-DCT] TCM"
+    ],
+    [
+     "53",
+     "Multi fuse block MUSB",
+     "",
+     "Rear Heated Relay"
+    ],
+    [
+     "54",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block (IPS 2/5, 3/6, 7, 8)"
+    ],
+    [
+     "55",
+     "Multi fuse block MUSB",
+     "",
+     "[G4K] Cooling Fan1 Relay"
+    ],
+    [
+     "56",
+     "Multi fuse block MUSB",
+     "",
+     "CVVL"
+    ],
+    [
+     "57",
+     "Multi fuse block MUSB",
+     "",
+     "[G4KH/G4FJ] Cooling Fan1/2 Relays"
+    ],
+    [
+     "58",
+     "Multi fuse block MUSB",
+     "",
+     "MDPS Unit (Column)"
+    ],
+    [
+     "59",
+     "Multi fuse block MUSB",
+     "",
+     "ESC Module, Multipurpose Check Connector"
+    ],
+    [
+     "60",
+     "Multi fuse block MUSB",
+     "",
+     "[G4FJ-DCT] TCM"
+    ],
+    [
+     "61",
+     "Multi fuse block MUSB",
+     "",
+     "Ignition Switch / PCB Block (IG1/ACC Relay)"
+    ],
+    [
+     "62",
+     "Multi fuse block MUSB",
+     "",
+     "ESC Module"
+    ],
+    [
+     "64",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block (IPS 1, 4; fuses AMP, S/Heater FRT)"
+    ],
+    [
+     "65",
+     "Multi fuse block MUSB",
+     "",
+     "PCB Block (Engine Control Relay; fuses TCU1, ECU2, Fuel Pump, Horn, Wiper1)"
+    ],
+    [
+     "66",
+     "Multi fuse block MUSB",
+     "",
+     "Smart Junction Block (fuses Sunroof1/2, S/Heater RR, Power Seats, Power Windows, Trunk)"
+    ],
+    [
+     "68",
+     "Multi fuse block MUSB",
+     "",
+     "MDPS Unit (Rack)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling Fan"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling Fan"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel Pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Power Outlet"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "E-CVVT"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "B/Alarm Horn"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Deicer"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Rear Heated"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "CVVL Relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Battery terminal cover",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-2020-genid-g4-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MIDI",
+     "180A",
+     "Alternator"
+    ]
+   ]
+  }
+ ]
+}
