@@ -1,0 +1,324 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "sc",
+ "brand_db": "Lexus",
+ "model_db_name": "SC",
+ "model_id": 2600,
+ "generation_name": "1st generation (Z30)",
+ "generation_code": "g1",
+ "year_start": 1991,
+ "year_end": 2000,
+ "trim_label": "",
+ "representative_year": 2000,
+ "source_url": "https://www.startmycar.com/lexus/sc/info/fusebox/2000",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-sc-2000-genid-g1-0.webp",
+   "fuses": [
+    [
+     "10",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "(ABS NO.1) Anti-lock brake system"
+    ],
+    [
+     "11",
+     "Fuse FLM",
+     "100A",
+     "(AM1) Power source"
+    ],
+    [
+     "12",
+     "Fuse FLM",
+     "120A",
+     "(ALT) Charging system"
+    ],
+    [
+     "13",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "(MAIN) Power source"
+    ],
+    [
+     "14",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(AM2) Power source"
+    ],
+    [
+     "15",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "(ABS NO.2) Anti-lock brake system"
+    ],
+    [
+     "16",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "(HTR) Heater"
+    ],
+    [
+     "17",
+     "Fuse FLF/PAL 293",
+     "50A",
+     "(DEF) Defogger"
+    ],
+    [
+     "18",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(CDS) Cooling fan"
+    ],
+    [
+     "20",
+     "Fuse ATO",
+     "10A",
+     "(DOME) Interior lights, moon roof, mirrors, theft deterrent"
+    ],
+    [
+     "21",
+     "Fuse ATO",
+     "30A",
+     "(EFI) Fuel injection system"
+    ],
+    [
+     "22",
+     "Fuse ATO",
+     "15A",
+     "(HAZ-HORN) Emergency flashers, horns"
+    ],
+    [
+     "23",
+     "Fuse ATO",
+     "20A",
+     "(RADIO NO.1) Audio system, power antenna"
+    ],
+    [
+     "24",
+     "Fuse ATO",
+     "15A",
+     "(TEL) Telephone"
+    ],
+    [
+     "25",
+     "Fuse ATO",
+     "7.5A",
+     "(ALT-S) Charging system"
+    ],
+    [
+     "26",
+     "Fuse ATO",
+     "15A",
+     "(TRAC) Traction control system"
+    ],
+    [
+     "27",
+     "Fuse ATO",
+     "15A",
+     "(HEAD R) Right headlight low beam"
+    ],
+    [
+     "28",
+     "Fuse ATO",
+     "15A",
+     "(HEAD L) Left headlight low beam"
+    ],
+    [
+     "29",
+     "Fuse ATO",
+     "15A",
+     "(HEAD R UP) Right headlight high beam"
+    ],
+    [
+     "30",
+     "Fuse ATO",
+     "15A",
+     "(HEAD L UP) Left headlight high beam"
+    ],
+    [
+     "31",
+     "Fuse ATO",
+     "30A",
+     "(INJ) Starting system"
+    ],
+    [
+     "32",
+     "Fuse ATO",
+     "7.5A",
+     "(DRL) Daytime running light system"
+    ],
+    [
+     "FLASHER1",
+     "Relay",
+     "",
+     "DEF flasher"
+    ],
+    [
+     "FLASHER3",
+     "Relay",
+     "",
+     "EFI MAIN flasher"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "HTR"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "HEAD"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "ST (starter)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "MG CLT"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-sc-2000-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse ATO",
+     "7.5A",
+     "(ENGINE) Charging system"
+    ],
+    [
+     "2",
+     "Fuse ATO",
+     "10A",
+     "(HTR) A/C, rear window defogger"
+    ],
+    [
+     "3",
+     "Fuse ATO",
+     "20A",
+     "(WIPER) Windshield wipers and washer"
+    ],
+    [
+     "4",
+     "Fuse ATO",
+     "7.5A",
+     "(ST) Starting, cruise, fuel injection, panel lights"
+    ],
+    [
+     "5",
+     "Fuse ATO",
+     "7.5A",
+     "(IGN) Discharge warning, fuel injection, SRS"
+    ],
+    [
+     "6",
+     "Fuse ATO",
+     "7.5A",
+     "(PANEL) Instrument panel lights, glovebox light"
+    ],
+    [
+     "7",
+     "Fuse ATO",
+     "10A",
+     "(MIR-HTR) Mirror defogger"
+    ],
+    [
+     "8",
+     "Fuse ATO",
+     "7.5A",
+     "(TURN) Turn signal lights"
+    ],
+    [
+     "9",
+     "Fuse ATO",
+     "15A",
+     "(STOP) Stop lights, cruise cancel"
+    ],
+    [
+     "10",
+     "Fuse ATO",
+     "15A",
+     "(CIG) Cigarette lighter, theft deterrent, shift lock, SRS"
+    ],
+    [
+     "11",
+     "Fuse ATO",
+     "7.5A",
+     "(RADIO NO.2) Audio system, antenna, mirrors"
+    ],
+    [
+     "12",
+     "Fuse ATO",
+     "15A",
+     "(TAIL) Tail, parking, marker, license plate lights"
+    ],
+    [
+     "13",
+     "Fuse ATO",
+     "15A",
+     "(ECU-IG) Cruise, power steering, ABS, SRS, door locks, TRAC"
+    ],
+    [
+     "14",
+     "Fuse ATO",
+     "10A",
+     "(GAUGE) Gauges, meters, back-up lights, A/T"
+    ],
+    [
+     "15",
+     "Fuse ATO",
+     "15A",
+     "(ECU-B) SRS airbag, power mirrors"
+    ],
+    [
+     "16",
+     "Fuse ATO",
+     "7.5A",
+     "(OBD) On-board diagnosis system"
+    ],
+    [
+     "17",
+     "Fuse ATO",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "18",
+     "Fuse ATO",
+     "15A",
+     "(ST-HTR) Seat heater"
+    ],
+    [
+     "19",
+     "Fuse ATO",
+     "30A",
+     "(PWR) Preset steering, moon roof, power windows"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IG SW) Starting system"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "30A",
+     "(DOOR) Theft deterrent, seats, fuel opener, door locks"
+    ]
+   ]
+  }
+ ]
+}
