@@ -1,0 +1,366 @@
+{
+ "make_slug": "kia",
+ "model_slug": "rio",
+ "brand_db": "Kia",
+ "model_db_name": "Rio",
+ "model_id": 2468,
+ "generation_name": "Generation DC",
+ "generation_code": "g1",
+ "year_start": 1999,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2005,
+ "source_url": "https://www.startmycar.com/kia/rio/info/fusebox/2005",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side kick panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-rio-2005-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Illumination"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit, ECAT unit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Airbag [optional]"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Meterset, Backup lamp, Warning sound"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Mirror defroster"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Trunk room lamp, Power socket"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Hazard lamp"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp, ABS"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp (Right-Rear/Left-Front), Switch illumination"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp (Left-Rear/Right-Front)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Audio, Electric rearview mirror"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Wiper (front), Washer (front), Sunroof"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Wiper (rear), Washer (rear)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Seat warmer [optional]"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Turn signal lamp"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-rio-2005-genid-g1-1.webp",
+   "fuses": [
+    [
+     "ABS",
+     "Fuse MINI",
+     "15A",
+     "ABS [optional]"
+    ],
+    [
+     "RR FOG",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light [if equipped]"
+    ],
+    [
+     "F/FOG",
+     "Fuse MINI",
+     "15A",
+     "Front fog light [if equipped]"
+    ],
+    [
+     "MAIN",
+     "Fuse FLD/PAL 283",
+     "80A",
+     "Main fuse"
+    ],
+    [
+     "IG 1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Secondary fuses: Cigar, Audio, IG Coil, Turn Lamp, A/Bag, Wipers, Relay, Start"
+    ],
+    [
+     "BLOWER",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heater"
+    ],
+    [
+     "COOLING",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cooling fan"
+    ],
+    [
+     "ABS 1",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS [optional]"
+    ],
+    [
+     "COND. FAN",
+     "Fuse FMX/JCase",
+     "20A",
+     "Condenser fan"
+    ],
+    [
+     "HEAD-HI",
+     "Fuse MINI",
+     "15A",
+     "Head lamp high"
+    ],
+    [
+     "HEAD-LOW",
+     "Fuse MINI",
+     "15A",
+     "Head lamp low"
+    ],
+    [
+     "EMS",
+     "Fuse MINI",
+     "10A",
+     "Engine sensors"
+    ],
+    [
+     "INJECTOR",
+     "Fuse MINI",
+     "15A",
+     "Injector, O2 sensor"
+    ],
+    [
+     "F/PUMP",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump"
+    ],
+    [
+     "ECU",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit, ECAT unit, Main relay"
+    ],
+    [
+     "RELAY",
+     "Fuse MINI",
+     "10A",
+     "Blower motor, Power window, Rear window defroster, Head lamp [Airbag vehicle]"
+    ],
+    [
+     "HLLD",
+     "Fuse MINI",
+     "10A",
+     "Headlamp leveling [optional]"
+    ],
+    [
+     "MAIN RELAY",
+     "Fuse MINI",
+     "25A",
+     "Secondary fuses: EMS, Injector, F/Pump, ECU"
+    ],
+    [
+     "S/ROOF",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "HEAD",
+     "Fuse MINI",
+     "25A",
+     "Secondary fuses: Head-Hi, Head-Low, Rear Fog"
+    ],
+    [
+     "TNS",
+     "Fuse MINI",
+     "15A",
+     "Secondary fuses: Tail LH, Tail RH"
+    ],
+    [
+     "HORN",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "RR DEF",
+     "Fuse MINI",
+     "25A",
+     "Rear window defroster"
+    ],
+    [
+     "ABS 2",
+     "Fuse MINI",
+     "20A",
+     "ABS [optional]"
+    ],
+    [
+     "P/WIN",
+     "Fuse MINI",
+     "30A",
+     "Power window"
+    ],
+    [
+     "BTN",
+     "Fuse MINI",
+     "30A",
+     "Secondary fuses: Memory/Room, Stop, Hazard"
+    ],
+    [
+     "D/LOCK",
+     "Fuse MINI",
+     "25A",
+     "Power door lock"
+    ],
+    [
+     "IG COIL",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "ROOM",
+     "Fuse MINI",
+     "15A",
+     "Room lamp, Audio, Meterset, Warning sound"
+    ],
+    [
+     "U1",
+     "Relay",
+     "",
+     "A/Con"
+    ],
+    [
+     "U2",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "U3",
+     "Relay",
+     "",
+     "Main"
+    ],
+    [
+     "U4",
+     "Relay",
+     "",
+     "Condenser Fan"
+    ],
+    [
+     "U5",
+     "Relay",
+     "",
+     "TNS"
+    ],
+    [
+     "U6",
+     "Relay",
+     "",
+     "Cooling Fan"
+    ],
+    [
+     "U7",
+     "Relay",
+     "",
+     "Front Fog"
+    ],
+    [
+     "U8",
+     "Relay",
+     "",
+     "Fuel Pump"
+    ],
+    [
+     "U9",
+     "Relay",
+     "",
+     "Head Lamp"
+    ],
+    [
+     "U10",
+     "Relay",
+     "",
+     "Power Window"
+    ],
+    [
+     "U11",
+     "Relay",
+     "",
+     "Start"
+    ]
+   ]
+  }
+ ]
+}
