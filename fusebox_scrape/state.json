@@ -340,7 +340,8 @@
   "lancia": 10,
   "land-rover": "11 models: defender, discovery, discovery-sport, freelander, lr2, lr3, lr4, range-rover, range-rover-evoque, range-rover-sport, range-rover-velar all done (lr2/lr3/lr4 twin-derived)",
   "lexus": true,
-  "lincoln": "done"
+  "lincoln": "done",
+  "lynk-co": "done_all_no_data"
  },
  "in_progress": "land-rover",
  "queue_next_makes": [
@@ -1378,10 +1379,16 @@
   "lincoln/navigator": "done",
   "lincoln/navigator-l": "done",
   "lincoln/town-car": "done",
-  "lincoln/zephyr": "done"
+  "lincoln/zephyr": "done",
+  "lynk-co/01": "no_data",
+  "lynk-co/02": "no_data",
+  "lynk-co/06": "no_data",
+  "lynk-co/08": "no_data",
+  "lynk-co/09": "no_data",
+  "lynk-co/09-phev": "no_data"
  },
  "last_updated": "2026-10-05",
- "current_brand": null,
+ "current_brand": "mahindra",
  "audi_done_models": [
   "a1",
   "a2",
@@ -2648,5 +2655,13 @@
   "navigator-l",
   "town-car",
   "zephyr"
+ ],
+ "lynk-co_model_slugs": [
+  "01",
+  "02",
+  "06",
+  "08",
+  "09",
+  "09-phev"
  ]
 }
