@@ -1,0 +1,692 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "liberty",
+ "brand_db": "Jeep",
+ "model_db_name": "Liberty",
+ "model_id": 2411,
+ "generation_name": "1st generation (KJ)",
+ "generation_code": "g1",
+ "year_start": 2001,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/jeep/liberty/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-liberty-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Horn relay, power sunroof relay, power window relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lights (export only)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Headlight low beam right"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Headlight low beam left"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "Body control module / power door locks"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Left park light / left tail lamp / license plate lamp"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Right park light / right tail lamp / license plate lamp / cluster"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Flasher"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Stop lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Body control module / CMTC / cluster / passenger airbag on-off indicator / auto daylight mirror / light bar switch (Renegade only)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "PDC fuel pump / AC clutch / starter relay / engine controller / transmission controller (diesel only)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Power outlet (rear)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Radio choke & relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Front fog lights / trailer tow stop and turn lights"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Radio"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "Power sunroof relay / antenna module (export only)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "PDC blower motor"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Heated seat switches / HVAC control head / trailer tow battery charge"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Headlight high beam right"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "Headlight high beam left"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors / rear window defroster indicator"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Heated seat module"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Wiper switch / front and rear wipers"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "SKIM module / data link connector"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "Body control module / cluster / interior lights / hands-free module / radio / CMTC / ITM module & siren (export only)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module / occupant classification module (right front seat)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Airbag control module"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "ABS controller / shifter assembly"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "Hazard flasher (turn signals) / backup lamp switch (manual transmission) / transmission range switch (automatic transmission)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "High beam"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Daytime running lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Underhood power distribution center (gasoline)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-liberty-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "50A",
+     "JB power"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "20A",
+     "Automatic transmission control relay (PCM, transmission solenoid/pressure switch assembly, variable line pressure sensor)"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "ASD"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "50A",
+     "JB power"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition/start"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "50A",
+     "JB power"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Light bar"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windows"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "50A",
+     "JB power"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger (HBL)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "A/C clutch"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "ABS valves"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module, fuel injectors"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "25A",
+     "Powertrain control module, fuel injectors"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Starter"
+    ],
+    [
+     "R29",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R30",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R31",
+     "Relay",
+     "",
+     "Wiper on/off"
+    ],
+    [
+     "R32",
+     "Relay",
+     "",
+     "Wiper hi/lo"
+    ],
+    [
+     "R33",
+     "Relay",
+     "",
+     "Heater blower"
+    ],
+    [
+     "R34",
+     "Relay",
+     "",
+     "Radiator fan high"
+    ],
+    [
+     "R35",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "R36",
+     "Relay",
+     "",
+     "Rear O2 sensor"
+    ],
+    [
+     "R37",
+     "Relay",
+     "",
+     "Clutch switch override (M/T), transmission control (A/T)"
+    ],
+    [
+     "R39",
+     "Relay",
+     "",
+     "ASD"
+    ],
+    [
+     "R40",
+     "Relay",
+     "",
+     "Radiator fan low"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Underhood power distribution center (diesel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-liberty-2006-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "50A",
+     "JB power"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "30A",
+     "Automatic transmission control relay (TCM, transmission solenoid/TRS assembly)"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "ASD"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "50A",
+     "JB power"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition/start"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "50A",
+     "JB power"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer tow"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "20A",
+     "Fuel heater"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Light bar"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windows"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "50A",
+     "JB power"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "ASD feed"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "30A",
+     "Rear window defogger (HBL)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "20A",
+     "A/C clutch"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "ABS valves"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Engine control module"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "25A",
+     "Engine control module"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Starter"
+    ],
+    [
+     "R29",
+     "Relay",
+     "",
+     "Fuel heater"
+    ],
+    [
+     "R30",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R31",
+     "Relay",
+     "",
+     "Wiper on/off"
+    ],
+    [
+     "R32",
+     "Relay",
+     "",
+     "Wiper hi/lo"
+    ],
+    [
+     "R33",
+     "Relay",
+     "",
+     "Heater blower"
+    ],
+    [
+     "R34",
+     "Relay",
+     "",
+     "Glow plug heater (No.1)"
+    ],
+    [
+     "R35",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "R36",
+     "Relay",
+     "",
+     "Cabin heater"
+    ],
+    [
+     "R39",
+     "Relay",
+     "",
+     "ASD"
+    ],
+    [
+     "R40",
+     "Relay",
+     "",
+     "Glow plug heater (No.2)"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Relay panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-liberty-2006-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Circuit breaker MAXI",
+     "",
+     "Fused ignition switch output (Run-Acc)"
+    ],
+    [
+     "3",
+     "Circuit breaker MAXI",
+     "",
+     "Fused B(+)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Rear fog lamp relay - rear fog lights"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Park lamp relay - parking lights"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Driver door unlock relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Passenger door unlock relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Front fog lamp relay - front fog lights"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Door lock relay - power door lock system"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Defogger relay - rear window defogger"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Headlights low beam"
+    ]
+   ]
+  }
+ ]
+}
