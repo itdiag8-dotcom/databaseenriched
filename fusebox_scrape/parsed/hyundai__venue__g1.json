@@ -1,0 +1,486 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "venue",
+ "brand_db": "Hyundai",
+ "model_db_name": "Venue",
+ "model_id": 2261,
+ "generation_name": "1st generation (QX/QXi)",
+ "generation_code": "g1",
+ "year_start": 2019,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/hyundai/venue/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-venue-2024-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MICRO2",
+     "20A",
+     "USB charger"
+    ],
+    [
+     "F2",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "F5",
+     "Fuse MICRO2",
+     "10A",
+     "DRL relay"
+    ],
+    [
+     "F7",
+     "Fuse MICRO2",
+     "25A",
+     "Front wiper low relay, front wiper motor"
+    ],
+    [
+     "F8",
+     "Fuse MICRO2",
+     "10A",
+     "Vanity/room/map lamps"
+    ],
+    [
+     "F9",
+     "Fuse MICRO2",
+     "15A",
+     "IBU"
+    ],
+    [
+     "F10",
+     "Fuse MICRO2",
+     "10A",
+     "IBU, stop lamp switch"
+    ],
+    [
+     "F12",
+     "Fuse MICRO2",
+     "10A",
+     "Data link connector, key interlock solenoid"
+    ],
+    [
+     "F13",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper relay, rear wiper motor"
+    ],
+    [
+     "F14",
+     "Fuse MICRO2",
+     "7.5A",
+     "Blower relay, A/C control module"
+    ],
+    [
+     "F15",
+     "Fuse MICRO2",
+     "10A",
+     "IBU, front seat warmer control module"
+    ],
+    [
+     "F16",
+     "Fuse MICRO2",
+     "10A",
+     "Power outside mirrors, A/C module"
+    ],
+    [
+     "F17",
+     "Fuse MICRO2",
+     "20A",
+     "Audio, A/V & navigation head unit"
+    ],
+    [
+     "F18",
+     "Fuse MICRO2",
+     "10A",
+     "Cluster, A/C control module"
+    ],
+    [
+     "F19",
+     "Fuse MICRO2",
+     "7.5A",
+     "SRS control module"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "15A",
+     "IBU"
+    ],
+    [
+     "F21",
+     "Fuse MICRO2",
+     "15A",
+     "Multifunction switch"
+    ],
+    [
+     "F23",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU"
+    ],
+    [
+     "F25",
+     "Fuse MICRO2",
+     "25A",
+     "Driver safety power window module"
+    ],
+    [
+     "F26",
+     "Fuse MICRO2",
+     "7.5A",
+     "ECM, IBU / transmission range switch (IVT)"
+    ],
+    [
+     "F27",
+     "Fuse MICRO2",
+     "10A",
+     "Occupant detection sensor, SRS module"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "10A",
+     "Crash pad switch, multifunction camera, BCW units"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "7.5A",
+     "Center facia switch, cluster"
+    ],
+    [
+     "F30",
+     "Fuse MICRO2",
+     "7.5A",
+     "Instrument cluster"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "25A",
+     "Power window main switch"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "25A",
+     "Power window main switch, passenger window switch"
+    ],
+    [
+     "F34",
+     "Fuse MICRO2",
+     "20A",
+     "Front seat warmer control module"
+    ],
+    [
+     "F35",
+     "Fuse MICRO2",
+     "20A",
+     "Tailgate relay, two-turn unlock relay, door lock/unlock relays"
+    ],
+    [
+     "F36",
+     "Fuse MICRO2",
+     "15A",
+     "Sunroof motor"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "7.5A",
+     "IBU"
+    ],
+    [
+     "F38",
+     "Fuse MICRO2",
+     "10A",
+     "Power outlet relay, mirror switch, IBU, audio/AVN"
+    ],
+    [
+     "F39",
+     "Fuse MICRO2",
+     "7.5A",
+     "Blower motor, A/C control module"
+    ],
+    [
+     "F40",
+     "Fuse MICRO2",
+     "10A",
+     "Forward collision avoidance assist unit"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "15A",
+     "Transaxle range switch, backup lamp switch"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "7.5A",
+     "Stop lamp switch, ATM shift lever"
+    ],
+    [
+     "F43",
+     "Fuse MICRO2",
+     "10A",
+     "ECM, PCM"
+    ],
+    [
+     "F44",
+     "Fuse MICRO2",
+     "7.5A",
+     "Console switch, shift indicator, A/C module, audio, seat warmer module"
+    ],
+    [
+     "F45",
+     "Fuse MICRO2",
+     "7.5A",
+     "Check connector, ESC module"
+    ],
+    [
+     "F46",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-venue-2024-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "F2",
+     "Other",
+     "",
+     "Alternator; MDPS 1 multi fuse; rear heated, blower, ABS 1/2 fuses"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater relay"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "50A",
+     "ICU junction block (door lock, seat heater, safety window, sunroof fuses; power window relay)"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Start relay, PDM (IG2) relay, ignition switch"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan 1/2 relay"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear heated relay"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "F9",
+     "Fuse FMM/MCase",
+     "40A",
+     "Check connector, ESC module"
+    ],
+    [
+     "F10",
+     "Fuse FMM/MCase",
+     "40A",
+     "ESC module"
+    ],
+    [
+     "F11",
+     "Fuse FMM/MCase",
+     "40A",
+     "ICU junction block (module 6, brake switch, turn signal, DRL, IBU 1 fuses; leak current autocut)"
+    ],
+    [
+     "F13",
+     "Fuse FMM/MCase",
+     "30A",
+     "Main relay; ECU 4, ECU 5 fuses"
+    ],
+    [
+     "F15",
+     "Fuse FMM/MCase",
+     "30A",
+     "ICU junction block (IPS E-switch)"
+    ],
+    [
+     "F16",
+     "Fuse FMM/MCase",
+     "30A",
+     "PDM (IG1) relay / ignition switch"
+    ],
+    [
+     "F17",
+     "Fuse FMM/MCase",
+     "40A",
+     "Power outlet relay"
+    ],
+    [
+     "F19",
+     "Fuse FMM/MCase",
+     "30A",
+     "ICU junction block (IPS E-switch)"
+    ],
+    [
+     "F20",
+     "Fuse MICRO2",
+     "10A",
+     "Front wiper low relay, IBU"
+    ],
+    [
+     "F24",
+     "Fuse MICRO2",
+     "15A",
+     "ECM/PCM"
+    ],
+    [
+     "F28",
+     "Fuse MICRO2",
+     "15A",
+     "ECM/PCM"
+    ],
+    [
+     "F29",
+     "Fuse MICRO2",
+     "15A",
+     "ECM/PCM"
+    ],
+    [
+     "F32",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coils #1-#4"
+    ],
+    [
+     "F33",
+     "Fuse MICRO2",
+     "15A",
+     "ECM/PCM, injectors #1-#4, fuel pump relay"
+    ],
+    [
+     "F37",
+     "Fuse MICRO2",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "F41",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "F42",
+     "Fuse MICRO2",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Front wiper high"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "PTC heater"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front wiper low"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "A/C"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Horn"
+    ]
+   ]
+  }
+ ]
+}
