@@ -1,0 +1,733 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "sonata",
+ "brand_db": "Hyundai",
+ "model_db_name": "Sonata",
+ "model_id": 2246,
+ "generation_name": "4th generation pre-facelift (EF)",
+ "generation_code": "g4.0",
+ "year_start": 1998,
+ "year_end": 2001,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/hyundai/sonata/info/fusebox/2001/4th-gen-pre-facelift",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Inside fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-sonata-2001-genid-g4.0-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(EPS) Electric power steering"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(CRUISE) Cruise control"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(AUDIO) Audio system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(MIRROR) Power control mirror"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "(B/UP) Backup lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "(RR FOG) Rear fog lights"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(H/LP) Headlamps"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(ETACS) ETACS module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(C/LIGHTER) Cigar lighter / power outlet"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "(CLUSTER) Instrument cluster"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG IND) Airbag indicator"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(HAZARD) Hazard light"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(P/SEAT) Power seats"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "(A/BAG) Airbag"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(T/SIG) Turn signal"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "(STOP LP) Stop lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(B/ALARM) Anti-theft system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(ROOM LP) Interior lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(D/CLOCK) Instrument cluster"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(LH TAIL) Tail light left"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(A/CON SW) Air conditioning"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "(S/HTR) Seat heater"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(RH TAIL) Tail light right"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(START) Starter system"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "(WIPER) Wipers"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(RR HTD IND)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "(DR LOCK) Power door lock system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box type 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-sonata-2001-genid-g4.0-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Headlights (low)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Headlights (low)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Injector"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "ATM relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Engine control unit relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Headlights (high)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Headlamp washer"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "DRL"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "DRL"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Blower"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Power fuse 2"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Power amp"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Tail lights"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "Power fuse 1"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "ECU"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "30A",
+     "Rear window defroster"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "20A",
+     "Condenser fan"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan motor"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Condenser fan HI-1"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp low"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Radiator fan HI-1"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Condenser fan low"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Condenser fan HI-2"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Radiator fan HI-2"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front fog"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlamp high"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Wiper motor"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Radiator fan low"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box type 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-sonata-2001-genid-g4.0-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Headlights (low)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Headlights (low)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ABS"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Injector"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "ATM relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Engine control unit relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Oxygen sensor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Engine control unit"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Headlights (high)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "DRL"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "DRL"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Front fog lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "Blower"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "Power fuse 2"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Power amp"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Sunroof"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "Tail lights"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "Power fuse 1"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "ECU"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "30A",
+     "Rear window defroster"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Headlight (low)"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "20A",
+     "Condenser fan"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS"
+    ],
+    [
+     "37",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "38",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan motor"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlamp low"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Radiator fan HI-1"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Condenser fan low"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Condenser fan HI-2"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Radiator fan HI"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Front fog"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlamp high"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Wiper motor"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Radiator fan 2"
+    ]
+   ]
+  }
+ ]
+}

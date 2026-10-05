@@ -1,0 +1,474 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "sonata",
+ "brand_db": "Hyundai",
+ "model_db_name": "Sonata",
+ "model_id": 2246,
+ "generation_name": "5th generation (NF)",
+ "generation_code": "g5",
+ "year_start": 2004,
+ "year_end": 2013,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/hyundai/sonata/info/fusebox/2010/5th-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Inner panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-sonata-2010-genid-g5-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Seat warmer switch"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(ETACS) BCM, sunroof control module, EC mirror"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(EPS) ESC module, high blower relay, humidity sensor"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "(C/LIGHTER) Cigarette lighter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(TAIL RH) Illumination lights; RH license/rear combination/headlight, glove box light"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(TAIL LH) Front fog relay; LH license/rear combination/headlight"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(IONIZER) Headlight washer relay, RH headlight leveling actuator"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "(H/LP) DRL module, headlight relay, AQS/ambient sensor, LH leveling actuator"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "25A",
+     "(WIPER) Wiper and washer"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) A/C control module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(A/BAG) SRS control module, passenger airbag switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "(P/OUTLET) Front accessory socket, rear power outlet"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(D/CLOCK) Digital clock, audio, A/T shift lock module, power mirror & folding"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "25A",
+     "(SAFETY POWER) Safety window module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "(ATM KEY LOCK) A/T shift lock control module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW LH) Window main switch, left rear window switch"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "(P/WDW RH) Window main switch, right window switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "(P/AMP) Audio amp"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "(DR/LOCK) Door lock/unlock relay"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "(HAZARD) Hazard switch, hazard relay"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "(P/SEAT RH) Power seat manual switch (RHD)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG IND) Instrument cluster"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "(T/SIG) Hazard switch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(CLUSTER) BCM, cluster, yaw rate sensor, ESC switch"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(START) Burglar alarm relay"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "(ECS/RR DEFOG) Rear fog light relay"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "(T/LID OPEN) Trunk lid relay, fuel filler door & trunk lid switch"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "30A",
+     "(P/SEAT LH) Power seat manual switch"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "(SPORT MODE) Sport mode switch, key solenoid"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "(MIRR HTD) A/C module, mirror & folding motor"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) Audio"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "(MEMORY) BCM, clock, cluster, A/C module, courtesy lights"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-sonata-2010-genid-g5-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MIDI",
+     "150A",
+     "Fusible link (ABS 1/2, rear heated, blower)"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS/ESC control module, check connector"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS/ESC control module, check connector"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Fuses 23, 24, 30-35"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch (ACC, IG1)"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Defogger relay"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower relay"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power window relay, fuse 16"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Start relay, ignition switch (IG2, START)"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control unit relay"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power connectors 1/2, fuses 21, 22"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "(ABS) ABS/ESC module, check connector"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "(ECU IG1) PCM"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "(B/UP) Back-up light switch, pulse generator, speed sensor"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "(ECU) PCM"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "(ECU) TCM"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop light relay"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "(SNSR.1) MAF sensor, crank/cam sensors, oil control valve, SMATRA"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "(SNSR.3) A/C relay, cooling fan relay, injectors"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "20A",
+     "(ATM) ATM control relay"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "20A",
+     "(H/LP HI) Headlight relay (high)"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "20A",
+     "(H/LP WASHER) Headlight washer motor"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "20A",
+     "(F/PUMP) Fuel pump relay"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) A/C relay"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "20A",
+     "(H/LP LO) Headlight relay (low)"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "20A",
+     "(IGN COIL) Ignition coils, condenser"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "(SNSR.2) Oxygen sensor, fuel pump relay"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "(S/ROOF) Sunroof control module"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "(FR FOG) Front fog light relay"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "15A",
+     "(DRL) Siren relay, DRL control module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "20A",
+     "(TAIL) Tail light relay"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlight low"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlight high"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Main"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "ATM control"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Wiper"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "A/C"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Fog lamp"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Horn"
+    ]
+   ]
+  }
+ ]
+}
