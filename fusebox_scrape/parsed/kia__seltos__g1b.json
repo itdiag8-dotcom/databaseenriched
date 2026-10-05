@@ -250,7 +250,7 @@
      "2",
      "Fuse FMX/JCase",
      "50A",
-     "(B+4) ICU junction block (fuses F2-F5, F8-F10)"
+     "(B+4) ICU junction block (F2-F5, F8-F10)"
     ],
     [
      "3",
@@ -388,7 +388,7 @@
      "36",
      "Fuse MINI",
      "10A",
-     "(SENSOR 2) Oxygen sensor (up/down), variable force solenoids #1/#2, variable intake solenoid valve, purge control solenoid valve, E/R junction block (RLY.4, RLY.7, RLY.11)"
+     "(SENSOR 2) Oxygen sensor, variable force solenoids, variable intake solenoid, purge control valve, E/R junction block relays"
     ],
     [
      "38",
@@ -439,6 +439,12 @@
      "Start relay"
     ],
     [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan 2 relay [D4FA/G4FG]"
+    ],
+    [
      "R9",
      "Relay",
      "",
@@ -487,12 +493,6 @@
      "Rear defogger relay"
     ],
     [
-     "R8",
-     "Relay",
-     "",
-     "Cooling fan 2 relay"
-    ],
-    [
      "R15",
      "Relay",
      "",
@@ -509,7 +509,7 @@
      "2",
      "Fuse FMX/JCase",
      "50A",
-     "(B+4) ICU junction block (fuses F2-F5, F8-F10)"
+     "(B+4) ICU junction block (F2-F5, F8-F10)"
     ],
     [
      "3",
@@ -683,7 +683,7 @@
      "36",
      "Fuse MINI",
      "10A",
-     "(SENSOR 2) Oxygen sensor (up/down), variable force solenoids, variable oil pump valve, purge control solenoid valve, E/R junction block (RLY.7), RCV control solenoid valve"
+     "(SENSOR 2) Oxygen sensor, variable force solenoids, variable oil pump valve, purge valve, RCV control solenoid valve"
     ],
     [
      "37",
@@ -791,7 +791,7 @@
   },
   {
    "index": 3,
-   "name": "Engine compartment fuse box [D4FA U-II 1.5L TCI]",
+   "name": "Engine compartment fuse box [D4FA U-II 1.5 TCI]",
    "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-seltos-2026-genid-g1b-3.webp",
    "fuses": [
     [
@@ -804,7 +804,7 @@
      "2",
      "Fuse FMX/JCase",
      "50A",
-     "(B+4) ICU junction block (fuses F2-F5, F8-F10)"
+     "(B+4) ICU junction block (F2-F5, F8-F10)"
     ],
     [
      "3",
@@ -948,7 +948,7 @@
      "36",
      "Fuse MINI",
      "10A",
-     "(SENSOR 2) Lambda sensor (up/down), stop lamp switch, camshaft position sensor, E/R junction block (RLY.3, RLY.4, RLY.7, RLY.11)"
+     "(SENSOR 2) Lambda sensor, stop lamp switch, camshaft position sensor, E/R junction block relays"
     ],
     [
      "37",
@@ -1005,6 +1005,24 @@
      "Start relay"
     ],
     [
+     "R7",
+     "Relay",
+     "",
+     "Fuel heater relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan 2 relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "DCU relay"
+    ],
+    [
      "R9",
      "Relay",
      "",
@@ -1051,24 +1069,6 @@
      "Relay",
      "",
      "Rear defogger relay"
-    ],
-    [
-     "R7",
-     "Relay",
-     "",
-     "Fuel heater relay"
-    ],
-    [
-     "R8",
-     "Relay",
-     "",
-     "Cooling fan 2 relay"
-    ],
-    [
-     "R10",
-     "Relay",
-     "",
-     "DCU relay"
     ],
     [
      "R15",
