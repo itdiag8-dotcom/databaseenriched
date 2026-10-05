@@ -335,11 +335,11 @@
   "jac": 1,
   "jaguar": "22 models processed",
   "jeep": "11 models done",
-  "jmc": "0/6 models have data (all no_data); DB model New Generation Transit not on startmycar"
+  "jmc": "0/6 models have data (all no_data); DB model New Generation Transit not on startmycar",
+  "kia": true
  },
  "in_progress": null,
  "queue_next_makes": [
-  "kia",
   "lancia",
   "land-rover",
   "lexus",
@@ -1282,10 +1282,13 @@
   "kia/sportage": "done",
   "kia/stinger": "done",
   "kia/stonic": "done",
-  "kia/stonic-gt-line": "done"
+  "kia/stonic-gt-line": "done",
+  "kia/telluride": "done",
+  "kia/venga": "done",
+  "kia/xceed": "done"
  },
- "last_updated": "2026-10-05T11:15:19.973222",
- "current_brand": "kia",
+ "last_updated": "2026-10-05T11:17:53.232484",
+ "current_brand": "lancia",
  "audi_done_models": [
   "a1",
   "a2",
