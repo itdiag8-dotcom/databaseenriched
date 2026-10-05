@@ -1,0 +1,607 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "ix20",
+ "brand_db": "Hyundai",
+ "model_db_name": "ix20",
+ "model_id": 2225,
+ "generation_name": "1st generation (JC)",
+ "generation_code": "g1",
+ "year_start": 2010,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/hyundai/ix20/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-ix20-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Start relay (petrol), PTC 1 relay, camshaft sensor, MAF sensor (diesel)"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Head lamp RH"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "20A",
+     "PCM (petrol), ECM (diesel)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Head lamp LH"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "20A",
+     "Petrol: ignition coils #1-4, condenser"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Diesel: WGT control solenoid (D4FC), electric VGT actuator (D4FB)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Petrol: rear combination lamps, AVN, EC mirror, PCM, range switch"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Cooling fan relays, oil level sensor, fuel pressure valve, camshaft sensor, purge solenoid, oxygen/lambda sensors"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Injectors #1-4, fuel pump relay, A/C relay, EGR bypass valve, oil control module, stop lamp switch, fuel metering unit"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Petrol: PCM"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Rain sensor, ECM/PCM"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Headlamp relay"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Horn relay, burglar alarm horn relay, battery sensor"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Headlamp high relay"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "60A",
+     "I/P junction box (fuses, power outlet / window relays)"
+    ],
+    [
+     "F18",
+     "Fuse FMX/JCase",
+     "30A",
+     "Main engine control relay, fuse F21"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "40A",
+     "Petrol: cooling fan low/high relays"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "50A",
+     "Diesel: cooling fan low/high relays"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition switch, PDM relay box"
+    ],
+    [
+     "FB1",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "FB2",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "FB3",
+     "Other",
+     "",
+     "I/P junction block (F27, rear defogger relay)"
+    ],
+    [
+     "FB4",
+     "Other",
+     "",
+     "ABS/ESP control modules"
+    ],
+    [
+     "FB5",
+     "Other",
+     "",
+     "ABS/ESP control modules"
+    ],
+    [
+     "FB6",
+     "Other",
+     "",
+     "Diesel block (glow, PTC fuses), alternator, E/R block fuses F1-F5"
+    ],
+    [
+     "FB7",
+     "Other",
+     "",
+     "Diesel: fuel filter heater relay"
+    ],
+    [
+     "FB8",
+     "Other",
+     "",
+     "I/P junction block (fuses, tail relay)"
+    ],
+    [
+     "FB9",
+     "Other",
+     "",
+     "Ignition switch, PDM relay box, start relay"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main engine control relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "A/C relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan low relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Front wiper relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Cooling fan high relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Fuel filter heater relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Instrument panel fuse block",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-ix20-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Deicer: front deicer relay"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "DRL: BCM"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "PDM 2: smart key module, BCM"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Static lamp: BCM"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "25A",
+     "Front wiper: multifunction switch, motor, relay"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "ACC: mirror switch, audio, DC-DC, BCM, smart key, sunroof, rheostat, AVN, clock"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Blower: A/C module, resistor, motor, relay"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "ECU: smart key module, ECM/PCM, immobilizer"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Turn signal: multifunction switch"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Airbag: SRS control module"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Rear fog relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp: stop signal electronic module"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Front fog relay"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Room: data link connector, auto cut relay"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper: multifunction switch, motor, relay"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "IG2: headlamp leveling, headlamps, EC mirror, sunroof, rain sensor, relays, PTC, A/C, seat warmers"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "15A",
+     "Heated steering: clock spring"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "IGN1: facia/crash pad switches, DC-DC, seat warmers, fuel filter sensor, TPMS, parking sensors, A/C, rheostat, stop lamp switch"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "MDPS unit"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Cluster, BCM, clock, ATM shift lever switch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Airbag indicator: cluster"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "20A",
+     "Door lock: lock/unlock, dead lock, tailgate unlock relays"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "Hazard: driver center facia panel switch"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "PDM 1: smart key control module"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Brake switch: smart key, stop lamp switch, start/stop button, immobilizer"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors: PCM, A/C module, power mirrors"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "ABS: crash pad switch, ABS/ESP modules, yaw rate sensor"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp switch"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "TCU: PM sensor, glow unit, range switch"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "25A",
+     "Safety power window modules"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "25A",
+     "Safety power window modules"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Seat heater: driver/passenger seat warmers"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Folding mirrors: mirror switch, facia panel switch"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "BCM: key illumination, cluster, A/C, trip computer, clock, light sensor, TPMS"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "20A",
+     "Audio, DC-DC converter, AVN head unit"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp RH: headlamp RH, rear lamps RH, license lamp, AUX/USB, clock, audio, cluster, A/C, switches"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Tail lamp LH: rear combination lamps LH, headlamp LH"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "Start: ECM, PCM, smart key, clutch switch, range switch"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "25A",
+     "Power window LH: main switch, passenger switch"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "25A",
+     "Power window RH: main switch, passenger switch"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "20A",
+     "Sunroof motor"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "Headlamp indicator: cluster, headlamps, relay 8"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "25A",
+     "Rear/center power outlets"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Diesel fuse and relay box (D4FC 1.4L/D4FB 1.6L)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-ix20-2017-genid-g1-2.webp",
+   "fuses": [
+    [
+     "FB1",
+     "Other",
+     "",
+     "PTC 3 relay"
+    ],
+    [
+     "FB2",
+     "Other",
+     "",
+     "PTC 2 relay"
+    ],
+    [
+     "FB3",
+     "Other",
+     "",
+     "PTC 1 relay"
+    ],
+    [
+     "FB4",
+     "Other",
+     "",
+     "Glow unit"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "PTC 3 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PTC 2 relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "PTC 1 relay"
+    ]
+   ]
+  }
+ ]
+}
