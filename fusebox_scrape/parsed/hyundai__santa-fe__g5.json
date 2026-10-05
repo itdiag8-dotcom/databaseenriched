@@ -1,0 +1,690 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "santa-fe",
+ "brand_db": "Hyundai",
+ "model_db_name": "Santa Fe",
+ "model_id": 2241,
+ "generation_name": "5th generation (MX5)",
+ "generation_code": "g5",
+ "year_start": 2024,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/hyundai/santa-fe/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-santa-fe-2024-genid-g5-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MICRO2",
+     "7.5A",
+     "(A/C3) PTC heater relay; front A/C control module/panel, in-car temp sensor"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "7.5A",
+     "(BRAKE SWITCH) BDC, stop lamp switch"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "(MEMORY) Rear A/C module, fingerprint unit, BDC, infotainment jack, front A/C module, CDCU, head-up display, mood lamps, corner radars, DC-DC converter"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "(E-SHIFTER5) Electronic ATM shift lever"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE7) Blower relay, DLC, hazard switch, rain sensor, ICC unit, power liftgate unit, power mirrors, smart key handles, seat modules/switches, driver door module"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "(E-SHIFTER4) Electronic ATM shift lever"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "(CCU) CCU"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "(WIRELESS DCU) DCU"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "7.5A",
+     "(BDC2) BDC"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE2) CCU, stop lamp switch"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "(REAR A/C) Rear A/C control module"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "15A",
+     "(CHILD LOCK) Child lock/unlock relay"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "25A",
+     "(MULTIMEDIA) [w/o AMP] Low DC-DC converter"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE4) Driver power seat module, AMP, overhead console, EC mirror, UVC lamp, fingerprint unit, CCNC head unit, DC-DC converter, DLC, A/C module/panel, wireless chargers"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "7.5A",
+     "(CLUSTER) Cluster unit, head-up display"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "20A",
+     "(S/HEATER RR LH) 2nd row power seat control module LH"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "20A",
+     "(S/HEATER RR RH) 2nd row seat heater control module"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE6) AC inverter module/outlet, headlamps, 12V lithium auxiliary battery"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "20A",
+     "(SUNROOF1) Front sunroof motor"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE8) Driver door module"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MDPS2) MDPS unit"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE1) ADAS parking unit, BDC, CCU, DCU, CCNC keyboard, DC-DC converter"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "30A",
+     "(P/SEAT PASS) Passenger power seat switch"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "25A",
+     "(S/HEATER FRT) Passenger seat heater / air ventilation control module"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "15A",
+     "(WASHER) Multifunction switch"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "10A",
+     "(BDC1) Smart key handles, Bluetooth unit, UWB units, BDC"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "7.5A",
+     "(HEATED MIRROR) Power outside mirrors"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "10A",
+     "(AIR BAG1) SRS control module, occupant detection sensor"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "15A",
+     "(USB CHARGER) Infotainment jack, luggage/driver/passenger USB chargers"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "25A",
+     "(P/SEAT RR RH 2) 2nd row seat reclining folding actuator RH"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "30A",
+     "(P/WINDOW RH) Rear/passenger safety window modules, window switches RH"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE5) BDC"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "25A",
+     "(P/SEAT RR RH 1) 2nd row power seat control module RH"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "25A",
+     "(AMP) Low DC-DC converter"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "20A",
+     "(SUNROOF2) Roller blind motor"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE3) CDCU, ADAS units, crash pad/console switches, ICC unit, AWD ECM, front view camera, corner radars, SCC unit"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "30A",
+     "(P/SEAT DRV 1) Driver power seat switch"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "30A",
+     "(P/WINDOW LH) Rear/driver safety window modules, rear window switch LH"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "10A",
+     "(AIR BAG2) SRS control module"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "20A",
+     "(DOOR LOCK) Door lock/unlock, two-turn unlock relays"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "25A",
+     "(P/SEAT RR LH 1) 2nd row power seat control module LH"
+    ],
+    [
+     "56",
+     "Fuse MICRO2",
+     "10A",
+     "(P/SEAT DRV 2) Driver power seat switch"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "7.5A",
+     "(START) BDC, PCM"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "30A",
+     "(INVERTER) AC inverter module"
+    ],
+    [
+     "59",
+     "Fuse MICRO2",
+     "25A",
+     "(P/SEAT RR LH 2) 2nd row seat reclining folding actuator LH"
+    ],
+    [
+     "AAF",
+     "Fuse",
+     "",
+     "(AAF) Active air flap (upper LH/RH, lower)"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-santa-fe-2024-genid-g5-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Other",
+     "",
+     "(ABS1) ESC module"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "(TRAILER1) Trailer connector"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "(POWER TAILGATE) Power liftgate unit"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "(E-CVVT1) E-CVVT relay"
+    ],
+    [
+     "6",
+     "Other",
+     "",
+     "(B+5) PDC (AMP, sunroof, airbag2, seat, DCU fuses)"
+    ],
+    [
+     "7",
+     "Other",
+     "",
+     "(IG1) PCB block (ACC relay, IG1 relay)"
+    ],
+    [
+     "9",
+     "Other",
+     "",
+     "(AUX BATT) 12V lithium auxiliary battery"
+    ],
+    [
+     "10",
+     "Other",
+     "",
+     "(COOLING FAN1) Cooling fan motor"
+    ],
+    [
+     "12",
+     "Other",
+     "",
+     "(IG2) Start relay, IG2 relay"
+    ],
+    [
+     "13",
+     "Other",
+     "",
+     "(E-SHIFTER1) SCU"
+    ],
+    [
+     "16",
+     "Other",
+     "",
+     "(B+3) PDC (rear/front power seat fuses, AAF)"
+    ],
+    [
+     "17",
+     "Other",
+     "",
+     "(B+6) PCB block (ECU2, horn, A/C1 fuses, wiper/main relays)"
+    ],
+    [
+     "18",
+     "Other",
+     "",
+     "(ABS2) ESC module"
+    ],
+    [
+     "20",
+     "Other",
+     "",
+     "(MDPS1) MDPS unit"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "(REAR HEATED) Rear heated relay"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "50A",
+     "(B+1) PDC (IPS4-IPS7)"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "40A",
+     "(B+2) PDC (IPS11, IPS12)"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "60A",
+     "(BLOWER) Blower relay"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "60A",
+     "(DCT) TCM"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "60A",
+     "(COOLING FAN2) Cooling fan motor"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "60A",
+     "(EOP) Electronic oil pump"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "60A",
+     "(PTC HEATER) PTC heater relay"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "60A",
+     "(B+4) PDC (door lock, CCU, brake switch, BDC1, child lock, rear seat, IPS13 fuses; load latch relay)"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "(HEAD LAMP LH) Headlamp LH"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "(HEAD LAMP RH) Headlamp RH"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "(TRAILER3) Trailer controller"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "(4WD) AWD ECM"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "(TRAILER2) Trailer connector"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "(AMS) Battery sensor"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "(E-SHIFTER2) SCU"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "20A",
+     "(VACUUM PUMP1) Vacuum pump relay"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "(FUEL PUMP) Fuel pump relay"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "(A/C2) Rear A/C control module, rear blower motor"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "10A",
+     "(WIPER FRT2) BDC, PCM"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "20A",
+     "(E-CVVT2) PCM"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "20A",
+     "(E-CVVT3) PCM"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "(VACUUM PUMP2) ESC module"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "20A",
+     "(POWER OUTLET1) Luggage power outlet"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "20A",
+     "(POWER OUTLET2) Front power outlet"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "30A",
+     "(WIPER FRT1) Front wiper motor"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "15A",
+     "(SENSOR3) Canister close valve"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "20A",
+     "(ECU1) PCM"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "20A",
+     "(IGN COIL) Ignition coils #1-#4"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "15A",
+     "(WIPER RR) Rear wiper motor, relay"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "15A",
+     "(SENSOR1) Oxygen sensors (up/down)"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "15A",
+     "(INJECTOR) Injectors #1-#4 (MPI)"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "10A",
+     "(ECU3) PCM"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "10A",
+     "(FUEL PUMP2) Fuel pump relay"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "10A",
+     "(SENSOR2) A/C relay, purge valve, oil control valve, variable oil pump solenoid, cooling fan motor, RCV solenoid, oil level sensor"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "10A",
+     "(ABS3) ESC module"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "10A",
+     "(A/C1) A/C relay"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "15A",
+     "(ECU2) PCM"
+    ],
+    [
+     "69",
+     "Fuse MINI",
+     "15A",
+     "(TCU1) Transmission control unit"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn relay"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "10A",
+     "(TCU2) TCM"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "10A",
+     "(E-SHIFTER3) SCU"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "E-CVVT"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "(BLOWER) AC blower motor"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Vacuum pump"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "(PTC HEATER) Additional heater"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Rear window defogger"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Starter system"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Rear wiper"
+    ]
+   ]
+  }
+ ]
+}

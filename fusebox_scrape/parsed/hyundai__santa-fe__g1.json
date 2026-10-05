@@ -1,0 +1,408 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "santa-fe",
+ "brand_db": "Hyundai",
+ "model_db_name": "Santa Fe",
+ "model_id": 2241,
+ "generation_name": "1st generation (SM)",
+ "generation_code": "g1",
+ "year_start": 2001,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/hyundai/santa-fe/info/fusebox/2006/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-santa-fe-2006-genid-g1-0.webp",
+   "fuses": [
+    [
+     "Diode 1",
+     "Diode MINI",
+     "",
+     "Air con diode"
+    ],
+    [
+     "F01",
+     "Fuse MINI",
+     "15A",
+     "Fog lamp relay"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "10A",
+     "Right headlamp"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "10A",
+     "Left headlamp, instrument cluster, DRL control module"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "20A",
+     "Ignition failure sensor, oxygen sensor"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "10A",
+     "Check engine indicator, ECM, PCM"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "10A",
+     "Horn relay"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "20A",
+     "ATM control relay, 4WD control module"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay, ECM, TCM, generator, PCM"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "20A",
+     "Injectors"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Engine control relay"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window relay, fuse 26"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Radiator fan relay"
+    ],
+    [
+     "F14",
+     "Fuse FMX/JCase",
+     "20A",
+     "Condenser fan relay"
+    ],
+    [
+     "F15",
+     "Fuse FLD/PAL 283",
+     "140A",
+     "Generator"
+    ],
+    [
+     "F16",
+     "Fuse FMX/JCase",
+     "50A",
+     "Tail lamp relay, fuses 11-17, power connector"
+    ],
+    [
+     "F17",
+     "Fuse FMX/JCase",
+     "50A",
+     "Start relay, ignition switch"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "PCM, ECM"
+    ],
+    [
+     "F19",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS control module, air bleeding connector"
+    ],
+    [
+     "F20",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS control module, air bleeding connector"
+    ],
+    [
+     "F21",
+     "Fuse FMX/JCase",
+     "40A",
+     "A/C fuse, blower relay"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "Front fog"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "Air con"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R05",
+     "Relay",
+     "",
+     "Radiator fan"
+    ],
+    [
+     "R06",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R07",
+     "Relay",
+     "",
+     "Condenser fan #1"
+    ],
+    [
+     "R08",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R09",
+     "Relay",
+     "",
+     "Wiper"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Condenser fan #2"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Burglar alarm"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "ECU"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Inner panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-santa-fe-2006-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F02",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper motor control"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "25A",
+     "Seat warmer"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "10A",
+     "Headlamp relay"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "10A",
+     "Cruise control"
+    ],
+    [
+     "F06",
+     "Fuse MINI",
+     "15A",
+     "Digital clock, rear power outlet"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "10A",
+     "Audio, power outside mirror"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighter & power outlet"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "15A",
+     "Digital clock, ETACM, audio, siren"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "10A",
+     "Room lamp, door warning switch, door lamp, manual A/C control, Homelink controller"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "A/C control, sunroof controller, EC mirror"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Rear window defogger, power outside mirror"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "20A",
+     "Sunroof controller"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "25A",
+     "Power seat, rear wiper motor control"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Hazard lamp"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Stop lamp, data link connector, check connector"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "20A",
+     "AMP speakers"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamps, TCM, speed sensor, ETS module, ignition failure sensor"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Turn signal lamp"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "ABS control module, G-sensor, air bleeding connector, 4WD control module"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (airbag indicator)"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "ECM [V6 2.7L]"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "15A",
+     "SRS control module"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Cluster, pre-excitation resistor, ETACM, auto light sensor, DRL module, generator"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "30A",
+     "Defogger relay"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "Front wiper motor, wiper relay, washer motor"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Radiator/condenser fan relays"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "15A",
+     "ETS control module [V6 3.5L], fail safety relay"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Tail & parking lamp RH, fog lamp relay, switch illumination"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Tail & parking lamp LH, turn signal lamp, license lamp"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "20A",
+     "Door lock/unlock relay, key lock/unlock relay"
+    ]
+   ]
+  }
+ ]
+}

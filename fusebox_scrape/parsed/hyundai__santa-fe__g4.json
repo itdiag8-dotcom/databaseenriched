@@ -1,0 +1,594 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "santa-fe",
+ "brand_db": "Hyundai",
+ "model_db_name": "Santa Fe",
+ "model_id": 2241,
+ "generation_name": "4th generation (TM)",
+ "generation_code": "g4",
+ "year_start": 2019,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/hyundai/santa-fe/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-santa-fe-2023-genid-g4-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE 4) Data link connector, stop lamp switch, driver area unit"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "15A",
+     "(AIR BAG 1) SRS control module, occupant detection sensor"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "7.5A",
+     "(BRAKE SWITCH) IBU, stop lamp switch"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "15A",
+     "(MODULE 9) Front A/C module, driver door area unit, power tailgate module, DC-DC converter, ROA sensor, driver IMS module, head-up display, power mirrors"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "(MODULE 10) Blind-spot collision warning units, front wireless charger"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "(AIR BAG IND) Overhead console, instrument cluster"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "7.5A",
+     "(IBU 1) IBU"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE 2) AC inverter outlet/module, front ventilation/seat warmer modules, 2nd row seat warmer modules"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE 8) Hazard switch, key solenoid, rain sensor, mood lamps"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "20A",
+     "(S/HEATER FRT) DLC, front ventilation/seat warmer control modules"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "15A",
+     "(AIR BAG 2) SRS control module"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "(E-SHIFTER1) Electronic shift dial"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "7.5A",
+     "(E-SHIFTER2) Electronic shift dial"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE 5) LDW unit, crash pad/console switches, IBU, 4WD ECM, surround view unit, parking collision avoidance unit"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "15A",
+     "(IBU 2) IBU, ignition switch, BLE unit, IAU, smart key handles"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "(SUNROOF 2) Panorama sunroof"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE 1) IBU, IAU"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "25A",
+     "(P/WINDOW RH) Passenger/rear safety window modules, window switches RH"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "15A",
+     "(ISG) DC-DC converter (AMP), cluster, A/C module, AVN, head-up display, audio"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "25A",
+     "(RR SEAT LH) 2nd seat warmer LH module, folding actuator"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "7.5A",
+     "(CLUSTER) Cluster, head-up display"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "(MDPS) MDPS unit"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "7.5A",
+     "(A/C) Blower/PTC heater relays"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "15A",
+     "(CHILD LOCK) ICM relay box (child lock/unlock relay)"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "20A",
+     "(DOOR LOCK) Door lock/unlock, tailgate, driver door unlock relays"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "(REAR A/C)"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "20A",
+     "(SUNROOF 1) Panorama sunroof"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "25A",
+     "(P/WINDOW LH) Driver safety window module, rear window switch/safety module LH"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE 3) IBU"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "7.5A",
+     "(MODULE 6) Audio, AVN unit/keyboard, A/C module, wireless charger, EC mirror, DC-DC converter"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "15A",
+     "(WASHER) Multifunction switch"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "25A",
+     "(RR SEAT RH) 2nd seat warmer RH module, folding actuator"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "15A",
+     "(WIPER RR) Rear wiper relay, motor"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "25A",
+     "(AMP) Low DC-DC converter (with AMP)"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "7.5A",
+     "(ACC) IBU, USB chargers, DC-DC converter, IAU"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "30A",
+     "(P/SEAT PASS) Passenger seat manual switch"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "30A",
+     "(P/SEAT DRV) Driver IMS module, seat manual switch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-santa-fe-2023-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "TCM"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "20A",
+     "Injectors #2/#4"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "10A",
+     "Injectors #1/#3"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "10A",
+     "PCM"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "[G4KN] Electronic oil pump"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "Luggage power outlet"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "IBU, PCM"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "ESC module"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "20A",
+     "PCM"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "Canister close valve, cooling fan controller, oil pump/purge/oil control/intake or RCV solenoid valves, A/C relay"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "Oxygen sensors (up/down)"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coils #1-#4"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "20A",
+     "ICU junction block (ACC fuse)"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "30A",
+     "Front wiper motor, wiper low relay"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "SCU"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Front radar unit"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "15A",
+     "PCM"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "TCM"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "15A",
+     "PCM"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "Rear heated relay"
+    ],
+    [
+     "33",
+     "Fuse FMM/MCase",
+     "40A",
+     "PDM (IG1) relay"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "10A",
+     "ESC module, vacuum pump relay/pump"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "10A",
+     "Blower relay, front A/C control module"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "20A",
+     "PCM, E-CVT relay"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "20A",
+     "PCM, E-CVT relay"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "10A",
+     "Rear heated relay, outside mirrors, front A/C module"
+    ],
+    [
+     "40",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer module"
+    ],
+    [
+     "42",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power tailgate unit"
+    ],
+    [
+     "43",
+     "Fuse FMM/MCase",
+     "30A",
+     "Trailer module"
+    ],
+    [
+     "45",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer module"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater relay"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "50A",
+     "ICU junction block (IPS 1-3/5-7, load latch relays)"
+    ],
+    [
+     "48",
+     "Fuse FMX/JCase",
+     "60A",
+     "[G4KP] Electronic oil pump"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "50A",
+     "ICU junction block (door lock, IBU, brake switch, child lock, RR seat, sunroof fuses)"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "10A",
+     "SCU"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "20A",
+     "4WD ECM"
+    ],
+    [
+     "59",
+     "Fuse MICRO2",
+     "20A",
+     "Vacuum pump relay"
+    ],
+    [
+     "60",
+     "Fuse MICRO2",
+     "10A",
+     "Battery sensor"
+    ],
+    [
+     "61",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "62",
+     "Other",
+     "",
+     "ESC module"
+    ],
+    [
+     "63",
+     "Other",
+     "",
+     "Start relay, PDM (IG2) relay"
+    ],
+    [
+     "64",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "66",
+     "Other",
+     "",
+     "ICU junction block (E-shifter, power seat/window, RR seat fuses)"
+    ],
+    [
+     "67",
+     "Other",
+     "",
+     "ICU junction block (IPS 8/10/13/14/15)"
+    ],
+    [
+     "69",
+     "Other",
+     "",
+     "ICU junction block (module8, sunroof1, AMP, window RH, seat heater fuses)"
+    ],
+    [
+     "70",
+     "Other",
+     "",
+     "[BLDC 400W] Cooling fan controller"
+    ],
+    [
+     "71",
+     "Other",
+     "",
+     "[BLDC 600W] Cooling fan controller"
+    ],
+    [
+     "72",
+     "Other",
+     "",
+     "SCU"
+    ],
+    [
+     "73",
+     "Other",
+     "",
+     "AC inverter module"
+    ],
+    [
+     "75",
+     "Other",
+     "",
+     "Rear heated relay"
+    ],
+    [
+     "76",
+     "Other",
+     "",
+     "PCB block (E-CVT relay)"
+    ],
+    [
+     "77",
+     "Other",
+     "",
+     "TCM"
+    ],
+    [
+     "78",
+     "Other",
+     "",
+     "PCB block (B+)"
+    ],
+    [
+     "79",
+     "Other",
+     "",
+     "ESC module"
+    ],
+    [
+     "81",
+     "Other",
+     "",
+     "MDPS unit"
+    ]
+   ]
+  }
+ ]
+}
