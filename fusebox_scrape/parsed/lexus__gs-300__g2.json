@@ -1,0 +1,404 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "gs-300",
+ "brand_db": "Lexus",
+ "model_db_name": "Gs",
+ "model_id": 2584,
+ "generation_name": "2nd generation S160",
+ "generation_code": "g2",
+ "year_start": 1997,
+ "year_end": 2005,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/lexus/gs-300/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side kick panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-gs-300-2004-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "WASHER - windshield washer"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "FR FOG - fog lights"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "TAIL - tail/side marker/license plate/parking lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "GAUGE - back-up lights, gauges and meters"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "FUEL OPN - fuel filler door opener"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "PANEL - emergency flashers, headlight cleaner"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "HEATER - air conditioning"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "SRS-B - gauges, warning buzzers"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "D P/SEAT - driver power seat"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "RADIO NO.2 - audio, shift lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "25A",
+     "WIPER - windshield wipers"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - on-board diagnostics"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "STOP - stop lights, ABS, traction control"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "CIG - cigarette lighter, power outlet"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "ECU-IG - power window, door lock, remote, theft deterrent"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "STARTER - starting system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "IGN - injection, SRS, ABS, VSC, cruise"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "D RR DOOR - rear left door window/lock"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger's side kick panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-gs-300-2004-genid-g2-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "MIR HTR - outside mirror heater"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "P P/SEAT - passenger power seat, tilt/telescopic steering"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "ECU-B3 - power window, door lock, remote"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "S/ROOF - moon roof"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "DOME - interior/personal/vanity lights, trunk light, clock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "ECU-B2 - power seat system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "SEAT HTR - seat heater"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "P RR DOOR - rear right door window/lock"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-gs-300-2004-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "ECU-B1 - windows, locks, remote, theft deterrent, interior lights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "P FR DOOR - front passenger door window/lock"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "D FR DOOR - driver door window/lock"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "HORN - horn"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "ETCS - electronic throttle control"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "AM2 - starting, fuel injection"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "TURN-HAZ - turn signal lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "25A",
+     "EFI - fuel injection, emission control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "ALT-S - charging system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "RADIO NO.1 - audio"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "DRL NO.2 - daytime running lights"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "DRL NO.1 - daytime running lights"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "H-LP L LWR - left headlight low beam"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "H-LP R LWR - right headlight low beam"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "ENG MAIN - engine control relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlight control relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "EFI relay"
+    ],
+    [
+     "U1",
+     "Fuse FMX/JCase",
+     "40A",
+     "MAIN - main fuse"
+    ],
+    [
+     "U2",
+     "Fuse FMX/JCase",
+     "30A",
+     "H-LP CLN - headlight cleaner"
+    ],
+    [
+     "U3",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS - anti-lock braking system"
+    ],
+    [
+     "U4",
+     "Fuse FMX/JCase",
+     "30A",
+     "RAD FAN - radiator fan"
+    ],
+    [
+     "U5",
+     "Fuse FMX/JCase",
+     "30A",
+     "CDS FAN - A/C condenser fan"
+    ],
+    [
+     "U6",
+     "Fuse FMX/JCase",
+     "50A",
+     "FAN MAIN - electric cooling fan"
+    ],
+    [
+     "U7",
+     "Fuse FMX/JCase",
+     "50A",
+     "HTR - air conditioning system"
+    ],
+    [
+     "U8",
+     "Fuse FLF/PAL 293",
+     "",
+     "ALT - battery and charging system"
+    ],
+    [
+     "U9",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "ABS NO.1"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine compartment additional fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-gs-300-2004-genid-g2-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "H-LP R UPR - right headlight high beam"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "H-LP L UPR - left headlight high beam"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "FAN NO.1 - electric cooling fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "FAN NO.2 relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "FAN NO.3 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Headlight dimmer (DRL 2) relay"
+    ]
+   ]
+  }
+ ]
+}
