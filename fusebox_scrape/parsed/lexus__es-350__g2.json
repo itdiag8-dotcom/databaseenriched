@@ -1,0 +1,607 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "es-350",
+ "brand_db": "Lexus",
+ "model_db_name": "ES",
+ "model_id": 2583,
+ "generation_name": "XV60",
+ "generation_code": "g2",
+ "year_start": 2012,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/lexus/es-350/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box [Type A]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-es-350-2018-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "WIP-S - driver support system, windshield wipers"
+    ],
+    [
+     "2",
+     "Multi fuse block MUSB",
+     "",
+     "FAN - electric cooling fan"
+    ],
+    [
+     "4",
+     "Multi fuse block MUSB",
+     "",
+     "HTR - air conditioning system"
+    ],
+    [
+     "5",
+     "Multi fuse block MUSB",
+     "",
+     "ALT - charging [gasoline]; DC/DC - hybrid system [hybrid]"
+    ],
+    [
+     "6",
+     "Multi fuse block MUSB",
+     "",
+     "ABS NO.2 - VSC, ABS [gasoline]"
+    ],
+    [
+     "7",
+     "Multi fuse block MUSB",
+     "",
+     "ST/AM2 - starting [gasoline]; ABS NO.1 - VSC, ABS [hybrid]"
+    ],
+    [
+     "8",
+     "Multi fuse block MUSB",
+     "",
+     "H-LP MAIN - headlight low beams"
+    ],
+    [
+     "9",
+     "Multi fuse block MUSB",
+     "",
+     "ABS NO.1 [gasoline]; ABS MTR NO.1 [hybrid] - VSC, ABS"
+    ],
+    [
+     "10",
+     "Multi fuse block MUSB",
+     "",
+     "EPS - electric power steering"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "S-HORN - security horn"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "HORN - horn"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "EFI NO.2 - fuel injection, transmission"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.3 - fuel injection, air intake, exhaust [gasoline]"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "EFI NO.3 - fuel injection, air intake [hybrid]"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "INJ - fuel injection system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG2 NO.3 - injection, transmission, power management, steering lock, cruise"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "IGN - starting system"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "25A",
+     "D/L-AM2 - power door lock system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "25A",
+     "IG2-MAIN - INJ, IGN"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "ALT-S - charging [gasoline]; DC/DC-S - hybrid system [hybrid]"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "MAYDAY - emergency call"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "TURN&HAZ - turn signals, emergency flashers"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "STRG LOCK - steering lock system"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "AMP - audio system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "H-LP LH-LO - left headlight"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "H-LP RH-LO - right headlight"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "EFI-MAIN NO.1 - EFI NO.2/NO.3, fuel system"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "SMART - smart access, occupant classification"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "ETCS - fuel injection system"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "ABS NO.2 - VSC, ABS [hybrid]"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "EFI NO.1 - fuel injection, transmission"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "20A",
+     "A/F - air intake [gasoline]; EFI-MAIN NO.2 - fuel/air/exhaust [hybrid]"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "AM2 - power management, smart access"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "PANEL - switch illumination, audio, displays"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "DOME - clock, interior/courtesy lights"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.1 - smart access, main body ECU, meters, power seats"
+    ],
+    [
+     "U1",
+     "Fuse MINI",
+     "30A",
+     "AMP NO.2 - audio system"
+    ],
+    [
+     "U2",
+     "Fuse MINI",
+     "15A",
+     "DEICER - windshield deicer"
+    ],
+    [
+     "U3",
+     "Fuse MINI",
+     "15A",
+     "TV - displays, Remote Touch, audio"
+    ],
+    [
+     "U7",
+     "Multi fuse block MUSB",
+     "",
+     "ABS MTR NO.2 - VSC, ABS [hybrid]"
+    ],
+    [
+     "U8",
+     "Multi fuse block MUSB",
+     "",
+     "ENG W/PMP - cooling system [hybrid]"
+    ],
+    [
+     "U9",
+     "Multi fuse block MUSB",
+     "",
+     "PTC HTR NO.2 - PTC heater"
+    ],
+    [
+     "U10",
+     "Multi fuse block MUSB",
+     "",
+     "PTC HTR NO.1 - PTC heater"
+    ],
+    [
+     "U11",
+     "Multi fuse block MUSB",
+     "",
+     "R/B NO.2 - IGCT MAIN, INV W/PMP [hybrid]"
+    ],
+    [
+     "U12",
+     "Relay",
+     "",
+     "H-LP relay"
+    ],
+    [
+     "U13",
+     "Relay",
+     "",
+     "FAN relay"
+    ],
+    [
+     "U14",
+     "Relay",
+     "",
+     "ENG W/PMP relay"
+    ],
+    [
+     "U15",
+     "Relay",
+     "",
+     "C/OPN relay"
+    ],
+    [
+     "U15",
+     "Relay",
+     "",
+     "HORN relay"
+    ],
+    [
+     "U16",
+     "Relay",
+     "",
+     "S-HORN relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box [Type B] [Hybrid]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-es-350-2018-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "BATT FAN - hybrid battery cooling fan"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "INV W/PMP RLY - inverter water pump relay"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "DC/DC IGCT - hybrid system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "INV - hybrid system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "BATT VL SSR - hybrid system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "PM IGCT - power management, hybrid system"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "IGCT-MAIN - hybrid control main"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "INV W/PMP - hybrid inverter water pump"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Driver's Side Instrument Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-es-350-2018-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "BKUP LP - back-up lights, injection, transmission, audio/nav"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "25A",
+     "WIPER - windshield wipers"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "A/C-IG1 - A/C, PTC heater, meters, seat heaters"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "WASHER - windshield washer"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "H-LP LVL - automatic headlight leveling"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "DOOR R/L - power window"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "DOOR F/L - power window, mirror ECU"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "DOOR R/R - power window"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "DOOR F/R - power window, mirror ECU"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "TAIL - parking/side marker/license plate lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "PANEL NO.2 - clock"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG1 NO.1 - FAN, DEICER, VSC/ABS, charging, EPS, gateway"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG1 NO.2 - main body ECU, audio, wipers, moon roof, TPMS"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "30A",
+     "P/SEAT F/L - power seat"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "STOP - stop lights, VSC/ABS, smart access, shift lock"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "25A",
+     "PTL - power trunk opener/closer"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "STRG HTR - heated steering wheel"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.2 - window master switch, A/C, smart access, TPMS"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - on-board diagnostics"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "S/HTR&FAN F/L - seat heater/ventilator"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "S/HTR&FAN F/R - seat heater/ventilator"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "RADIO-ACC - audio, Remote Touch, displays"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "P/OUTLET RR - rear power outlet"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "EPS-IG1 - electric power steering"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "FUEL OPN - fuel filler door opener"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG1 NO.3 - parking assist, blind spot monitor, radar"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-ACC - main body ECU, meters, mirrors"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "CIG & P/OUTLET - power outlet"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG2 NO.2 - VSC/ABS, gateway, smart access, SRS"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG2 NO.1 - gauges and meters"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "A/B - SRS airbag, occupant classification"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "TI&TE - electric tilt/telescopic steering"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "D/L-AM1 - main body ECU"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "30A",
+     "PSB - pre-collision seat belt"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "30A",
+     "P/SEAT F/R - power seat"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "S/ROOF - moon roof"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "7.5A",
+     "A/C-B - air conditioning"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,528 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "ct-200h",
+ "brand_db": "Lexus",
+ "model_db_name": "CT",
+ "model_id": 2582,
+ "generation_name": "1st generation A10/ZWA10",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/lexus/ct-200h/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ct-200h-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "EPS - electric power steering"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "H-LP CLN - headlight cleaner"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "P CON MTR - power control, hybrid system, starting, door lock, smart access"
+    ],
+    [
+     "6",
+     "Fuse MPF2",
+     "",
+     "HTR - air conditioning"
+    ],
+    [
+     "7",
+     "Fuse MPF2",
+     "",
+     "RDI - cooling fan"
+    ],
+    [
+     "8",
+     "Fuse MPF2",
+     "",
+     "CDS - cooling fan"
+    ],
+    [
+     "9",
+     "Fuse MPF2",
+     "",
+     "P/I 2 - A/C, audio, lights, hybrid system, parking assist, defoggers"
+    ],
+    [
+     "10",
+     "Fuse MPF2",
+     "",
+     "ABS MTR 1 - ABS, VSC, TRAC, hybrid system"
+    ],
+    [
+     "11",
+     "Fuse MPF2",
+     "",
+     "ABS MTR 2 - ABS, VSC, TRAC, hybrid system"
+    ],
+    [
+     "12",
+     "Fuse MIDI",
+     "125A",
+     "DC/DC - lights, hybrid system, starting, theft deterrent"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "RAD NO.1 - audio/navigation system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "ENG W/P - engine water pump, hybrid system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "ABS MAIN NO.2 - ABS, VSC, TRAC"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "AMP NO.2 - audio amplifier"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "ETCS - engine control, hybrid system"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "IGCT - ignition, hybrid system, starting"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "DC/DC-S - hybrid system control"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "P CON MAIN - power control, hybrid system, starting"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "AM2 - starting, hybrid system, smart access"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-B2 - back door opener, immobiliser, smart access, theft deterrent"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "MAYDAY - Lexus Enform, Safety Connect"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "ECU-B3 - A/C, defoggers, mirror heater"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "TURN & HAZ - turn signals and hazard lights"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "AMP NO.1 - audio amplifier"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "ABS MAIN NO.1 - ABS, VSC, TRAC"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "H-LP HI MAIN - headlight high beam"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "DRL - daytime running lights"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "DOOR NO.2 - door lock control, back door opener, smart access"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "PCU - hybrid power control unit"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "IGCT NO.2 - ignition, hybrid system, starting"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "IGCT NO.3 - engine control, hybrid system"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "DOME - interior lights, smart access, theft deterrent"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-B - body ECUs (ABS, A/C, audio, lights, SRS, VSC etc.)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "H-LP LH HI - left headlight high beam"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "H-LP RH HI - right headlight high beam"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.2 - engine control, cooling fan, hybrid system"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "M-HTR - mirror heater, rear window defogger"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "EFI MAIN - engine control, cooling fan, hybrid system"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "10A",
+     "BATT FAN - hybrid battery fan"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "20A",
+     "IG2 - combination meter, engine/hybrid control, VSC"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "DIM relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "IGCT relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "P CON MTR relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "ENG W/P relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "FAN NO.2 relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "FAN NO.3 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "DRL relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "FAN NO.1 relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "DOME relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Left side instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ct-200h-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG NO.1 - ABS, A/C, body ECUs, lights, power windows, VSC"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG NO.2 - ABS, EPS, hybrid system, wipers, seat heater, SRS"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "GAUGE - meters, A/C, audio, hybrid system, parking assist"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "A/C - air conditioning, defoggers, mirror heater"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "WASHER - front wiper and washer"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "RR WIP - rear wiper and washer"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "WIP - front wipers, engine/hybrid control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "MET - meter, illumination, taillight, VSC, smart access"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "IGN - ignition, ABS, SRS, hybrid system, starting"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "PANEL - illumination, taillight"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "TAIL - taillight, front fog light, illumination"
+    ],
+    [
+     "14",
+     "Fuse FMM/MCase",
+     "30A",
+     "PWR SEAT - driver's power seat"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - data link connector 3"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "FUEL OPEN - fuel lid opener"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "RR FOG - rear fog light"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "STOP - stop lights, ABS, hybrid system, starting"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "S-HORN - security horn, theft deterrent, smart access"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "P FR DOOR - passenger front door, power window, mirror heater"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "D FR DOOR - driver front door, power window, door lock"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "DOOR RR - rear right power window"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "25A",
+     "DOOR RL - rear left power window"
+    ],
+    [
+     "26",
+     "Fuse FMM/MCase",
+     "30A",
+     "S/ROOF - sliding roof"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "PWR OUTLET2 - power outlet"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "ECU-ACC - accessory ECUs, audio, mirrors, smart access"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "PWR OUTLET - power outlet"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "RAD NO.2 - audio/navigation, illumination, A/C"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "SEAT HTR FR - front right seat heater"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "SEAT HTR FL - front left seat heater"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "25A",
+     "DOOR NO.1 - body ECUs, door lock, power window, smart access"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "STRG HTR - heated steering wheel"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "30A",
+     "PSB - pre-collision seat belt"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "30A",
+     "P-PWR SEAT - passenger's power seat"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "25A",
+     "DBL LOCK - double locking system"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "FR FOG - front fog light"
+    ]
+   ]
+  }
+ ]
+}
