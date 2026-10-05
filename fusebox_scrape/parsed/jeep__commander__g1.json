@@ -1,0 +1,584 @@
+{
+ "make_slug": "jeep",
+ "model_slug": "commander",
+ "brand_db": "Jeep",
+ "model_db_name": "Commander",
+ "model_id": 2402,
+ "generation_name": "Generation XK (XK/XH)",
+ "generation_code": "g1",
+ "year_start": 2006,
+ "year_end": 2010,
+ "trim_label": "",
+ "representative_year": 2010,
+ "source_url": "https://www.startmycar.com/jeep/commander/info/fusebox/2010",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuses - front",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-commander-2010-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "30A",
+     "Audio amplifier (B+)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Sunroof (B+)"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Heated mirror (EBL)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Rear power outlet (B+)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Rear HVAC (R/O) (Commander only)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Door locks (B+)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Power outlet (B+)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Final drive control module (FDCM), HVAC, rear heated seat switch, HVAC relay, rear park assist"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Door modules, overhead lamps, IP courtesy lamps, glove box lamp (B+)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Autowipe (R/A)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter (R/A)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Tire pressure transponders (R/O)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Upper & lower switch bank, diagnostic connector, cluster (B+)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "Flipper glass (B+)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Steering column control module (SCCM), cluster (R/S), BUX trailer tow"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper (B+)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Power distribution center relays, powertrain control module A580 (R/S)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "Shifter assembly (BTSI), transfer case switch, ESP/ABS, trailer sway damp relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuses - back (relays)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-commander-2010-genid-g1-1.webp",
+   "fuses": [
+    [
+     "K1",
+     "Relay",
+     "",
+     "Transmission"
+    ],
+    [
+     "K2",
+     "Relay",
+     "",
+     "Flip-up glass"
+    ],
+    [
+     "K6",
+     "Relay",
+     "",
+     "Run/accessory delay"
+    ],
+    [
+     "K9",
+     "Relay",
+     "",
+     "Rear window defogger (EBL)"
+    ],
+    [
+     "K10",
+     "Relay",
+     "",
+     "Power outlet"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Underhood fuses (power distribution center)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-commander-2010-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater 1 (diesel only)"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "HID headlamps"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater 2 (diesel only)"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power outlets"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater 3 (diesel only)"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Cigar lighter, trailer tow battery"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Power liftgate (Commander only)"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter, JB power"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front power windows"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "HVAC blower"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear wiper, ignition R/O"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defroster (EBL), heated mirror"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Rear HVAC (if equipped)"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "ASD"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS pump"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Accessory delay, seats"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "JB power"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "30A",
+     "Wiper motor"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "20A",
+     "TCM, A/C clutch"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "25A",
+     "Power inverter"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "Final drive control module (FDCM)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Brake lamps"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "HD washer (if equipped, export only)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "ABS valves"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "PCM battery (gasoline only)"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Powertrain control module (diesel only)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "Final drive control module (FDCM) E-Diff"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "Trailer tow module (export only)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "HID left"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "HID right"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "25A",
+     "Next generation controller (NGC), injectors"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer (SRT only)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "25A",
+     "Coils, actuators"
+    ],
+    [
+     "U2",
+     "Relay",
+     "",
+     "PTC heater (cassette, diesel only)"
+    ],
+    [
+     "U3",
+     "Relay",
+     "",
+     "Transmission control module (optional cassette)"
+    ],
+    [
+     "U4",
+     "Relay",
+     "",
+     "HD wash (optional cassette)"
+    ],
+    [
+     "U5",
+     "Relay",
+     "",
+     "HID headlamps (optional cassette)"
+    ],
+    [
+     "U6",
+     "Relay",
+     "",
+     "PTC heater #1 (diesel)"
+    ],
+    [
+     "U7",
+     "Relay",
+     "",
+     "PTC heater #2 (diesel)"
+    ],
+    [
+     "U8",
+     "Relay",
+     "",
+     "Ignition run/start"
+    ],
+    [
+     "U9",
+     "Relay",
+     "",
+     "A/C clutch"
+    ],
+    [
+     "U10",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "U11",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "U12",
+     "Relay",
+     "",
+     "HVAC blower motor"
+    ],
+    [
+     "U13",
+     "Relay",
+     "",
+     "Auto-shutdown"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Underhood fuses (integrated power module)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jeep-commander-2010-genid-g1-3.webp",
+   "fuses": [
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Left park lamps"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Trailer-tow park lamps"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Right park lamps"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Front control module (FCM) batt #4"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "Front control module (FCM) batt #2"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Adjustable pedals"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Front fog lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "Horn"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Rear fog lamps (export only)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Front control module (FCM) batt #1"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "Left trailer-tow stop/turn"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Front control module (FCM) batt #3"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Right trailer-tow stop/turn"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "30A",
+     "Final drive control module (FDCM) MOD"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "50A",
+     "Radiator fan"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Ignition off draw (IOD) #1"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Ignition off draw (IOD) #2"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Occupant restraint controller (ORC) R/S"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Occupant restraint controller (ORC) R/O"
+    ]
+   ]
+  }
+ ]
+}
