@@ -1,0 +1,613 @@
+{
+ "make_slug": "land-rover",
+ "model_slug": "freelander",
+ "brand_db": "Land Rover",
+ "model_db_name": "Freelander",
+ "model_id": 2569,
+ "generation_name": "Freelander 2 L359",
+ "generation_code": "g2",
+ "year_start": 2006,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2014,
+ "source_url": "https://www.startmycar.com/land-rover/freelander/info/fusebox/2014",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-land-rover-freelander-2014-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "RF receiver, interior motion sensor, TPMS"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamps"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Slip control module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "5A",
+     "Ignition supply for engine and luggage compartment fuse box relays"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "25A",
+     "Front passenger door module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "EPB"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Heated washer jets"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Reverse light trailer"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Reverse lights, mirror control"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Brake pedal switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Heated rear screen"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Keyless vehicle module (KVM)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Powertrain control module (PCM)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Accelerator pedal"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel, centre console, electric booster heater"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Transmission control module (TCM)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Rear fog lamp (right side)"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "Rear fog lamp (left side)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Voltage module, rain sensor, passenger airbag deactivation (PAD) lamp"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "Driver door module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Fuel flap"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Battery backed sounder"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "5A",
+     "Road pricing [Singapore only]"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Front screen washer"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "25A",
+     "Rear door module (left side)"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "5A",
+     "Clock, door memory switch"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "30A",
+     "Driver seat"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Rear screen washer"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "25A",
+     "Rear door module (right side)"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "30A",
+     "Front passenger seat"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "20A",
+     "Sunroof and sunblind module"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "15A",
+     "Trailer connector"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "5A",
+     "Steering wheel switches"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter (front)"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary socket (rear console)"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "10A",
+     "Restraints control module (RCM)"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "10A",
+     "Battery saver circuits, vanity mirror lamp, glove box lamp, upper console lamp"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "5A",
+     "Occupant classification sensor control module"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "5A",
+     "Immobiliser antenna unit (IAU)"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "10A",
+     "Climate control module"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "20A",
+     "Auxiliary socket (luggage compartment)"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "5A",
+     "On-board diagnostic (OBD) connector"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-land-rover-freelander-2014-genid-g2-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "5A",
+     "Voltage module"
+    ],
+    [
+     "F3",
+     "Fuse MIDI",
+     "80A",
+     "Cooling fans"
+    ],
+    [
+     "F4",
+     "Fuse MIDI",
+     "60A",
+     "Glow plugs"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Engine management, oxygen sensors"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "5A",
+     "Relays"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "20A",
+     "Engine management"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "Engine management"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "Engine management"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Engine management"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "Engine management, air conditioning"
+    ],
+    [
+     "F15",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter motor"
+    ],
+    [
+     "F16",
+     "Fuse MIDI",
+     "100A",
+     "Diesel PTC heater"
+    ],
+    [
+     "F17",
+     "Fuse MIDI",
+     "60A",
+     "Passenger compartment fuse box supply"
+    ],
+    [
+     "F18",
+     "Fuse MIDI",
+     "60A",
+     "Passenger compartment fuse box supply"
+    ],
+    [
+     "F19",
+     "Fuse MIDI",
+     "60A",
+     "Luggage compartment fuse box supply, audio system"
+    ],
+    [
+     "F20",
+     "Fuse MIDI",
+     "60A",
+     "Luggage compartment fuse box supply"
+    ],
+    [
+     "F21",
+     "Fuse MIDI",
+     "60A",
+     "Luggage compartment fuse box supply"
+    ],
+    [
+     "F22",
+     "Fuse FMX/JCase",
+     "30A",
+     "Windscreen wipers"
+    ],
+    [
+     "F23",
+     "Fuse FMX/JCase",
+     "40A",
+     "Passenger compartment fuse box supply"
+    ],
+    [
+     "F25",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS"
+    ],
+    [
+     "F26",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "F27",
+     "Fuse FMX/JCase",
+     "40A",
+     "Passenger compartment fuse box supply"
+    ],
+    [
+     "F28",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heater blower"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "15A",
+     "Headlamp washer"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "15A",
+     "Horns"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "20A",
+     "Diesel auxiliary heater"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "5A",
+     "Relays"
+    ],
+    [
+     "F34",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated windscreen (LH)"
+    ],
+    [
+     "F35",
+     "Fuse FMX/JCase",
+     "40A",
+     "Heated windscreen (RH)"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary heater water pump (diesel only)"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Parking aid module"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "5A",
+     "Headlamp levelling control"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "5A",
+     "Automatic high beam, rear view camera"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "Heated steering wheel"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary heater water pump (diesel only)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-land-rover-freelander-2014-genid-g2-2.webp",
+   "fuses": [
+    [
+     "FB1",
+     "Fuse MINI",
+     "15A",
+     "Electronic centre differential"
+    ],
+    [
+     "FB2",
+     "Fuse MINI",
+     "15A",
+     "Caravan fridge"
+    ],
+    [
+     "FB3",
+     "Fuse MINI",
+     "15A",
+     "Driver seat heater"
+    ],
+    [
+     "FB4",
+     "Fuse MINI",
+     "15A",
+     "Front passenger seat heater"
+    ],
+    [
+     "FB5",
+     "Fuse MINI",
+     "5A",
+     "Auxiliary heater control"
+    ],
+    [
+     "FB8",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "FB9",
+     "Fuse MINI",
+     "5A",
+     "Heating and ventilation system"
+    ],
+    [
+     "FD1",
+     "Fuse MINI",
+     "10A",
+     "Audio system, touch screen"
+    ],
+    [
+     "FD2",
+     "Fuse MINI",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "FD3",
+     "Fuse MINI",
+     "10A",
+     "Digital radio"
+    ],
+    [
+     "FD5",
+     "Fuse MINI",
+     "5A",
+     "Electric seat switches"
+    ],
+    [
+     "FD6",
+     "Fuse MINI",
+     "30A",
+     "Electric park brake (EPB)"
+    ],
+    [
+     "FD7",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "FD8",
+     "Fuse MINI",
+     "30A",
+     "EPB"
+    ],
+    [
+     "FD10",
+     "Fuse MINI",
+     "5A",
+     "Audio amplifier"
+    ],
+    [
+     "FD11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Audio amplifier"
+    ]
+   ]
+  }
+ ]
+}
