@@ -1,0 +1,288 @@
+{
+ "make_slug": "mazda",
+ "model_slug": "323",
+ "brand_db": "Mazda",
+ "model_db_name": "323 F VI (BJ)",
+ "model_id": 5174,
+ "generation_name": "BJ",
+ "generation_code": "g6",
+ "year_start": 1997,
+ "year_end": 2004,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/mazda/323/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Passenger compartment fuse panel (driver's side)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-323-2004-genid-g6-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "S/WRM - various circuits"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "H/CLN - various circuits"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "RADIO - audio system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "A/C - air conditioner"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "R.WIPER - various circuits"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "ROOM - interior, trunk, luggage lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "MIRR DEF - mirror defroster"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "DOOR LOCK - power door lock"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "30A",
+     "P/WIND - power windows"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "WIPER - windshield wiper and washer"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "ENGINE - engine control unit"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "METER - instrument cluster"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "P/WIND - power windows"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mazda-323-2004-genid-g6-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "INJ/FIP - engine control unit"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "AD FAN - additional AC cooling fan"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "40A",
+     "BTN - interior lights, power door lock"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "COOLING FAN"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "GLOW - glow plug heater"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "PTC - additional heater"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "60A",
+     "IG KEY - various circuits"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "HEAD-L - left headlight"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "STOP - brake lights"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "FOG - fog lights"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "TAIL - taillights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "HORN"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "A/C - air conditioner"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "HEAD HI - high beams"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "HEAD-R - right headlight"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "FOG - fog lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "HEAD C/U - various circuits"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "HAZARD - hazard flashers"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ST.SIG - starter signal"
+    ],
+    [
+     "22",
+     "Fuse FLB/PAL 295",
+     "100A",
+     "MAIN - all circuits"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "40A",
+     "HEATER"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS and various circuits"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Tail lights relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "AC relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Additional AC fan relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlights relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Circuit/SPV relay"
+    ]
+   ]
+  }
+ ]
+}
