@@ -1,0 +1,438 @@
+{
+ "make_slug": "lincoln",
+ "model_slug": "zephyr",
+ "brand_db": "Lincoln",
+ "model_db_name": "Zephyr",
+ "model_id": 2618,
+ "generation_name": "2nd generation CD378",
+ "generation_code": "g2",
+ "year_start": 2006,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2006,
+ "source_url": "https://www.startmycar.com/lincoln/zephyr/info/fusebox/2006",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-zephyr-2006-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "SJB power feed (fuses 12-18, C/B)"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Powertrain power"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear window defroster, heated mirrors"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "20A",
+     "Wipers"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS valves"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "Heated seats, passenger heated/cooled seat"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver heated/cooled seat"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Memory module logic"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Transmission"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Console power point"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Alternator sense"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "Logic feed to SJB (solid state devices)"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "20A",
+     "THX II amplifier #1"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "20A",
+     "THX II amplifier #2"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "60A",
+     "SJB power feed (fuses 1, 2, 4, 10, 11)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "Fog lamps"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "A/C compressor clutch"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Left HID low beam"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Right HID low beam"
+    ],
+    [
+     "29",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Engine cooling fan"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Fuel pump relay feed"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger power seat"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver power seat"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "20A",
+     "Moonroof"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "30A",
+     "Driver smart power window"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "30A",
+     "Passenger smart power window"
+    ],
+    [
+     "36",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS pump"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "15A",
+     "PCM non-emission related"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Coil on plug"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "PCM emission related"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "15A",
+     "Injectors"
+    ],
+    [
+     "Diode 1",
+     "Diode MINI",
+     "",
+     "Fuel pump diode"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "PCM relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Wiper park relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Wiper run relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Fog lamps relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Left HID low beam relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Right HID low beam relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-zephyr-2006-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Backup lamps, electrochromatic mirror"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "Horns"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Battery saver: interior/puddle/trunk/glove box lamps, rear windows"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "Parklamps, license plate lamps"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Rear window defroster"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Starter coil, PCM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "High beams"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Delayed accessories: radio, moonroof, front windows, EC mirrors"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster, KAM-PCM, analog clock, climate control, canister vent solenoid"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Washer pump"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Cigar lighter"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Door lock actuator, decklid lock solenoid"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Subwoofer, THX II DSP module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "Radio head units, OBD II connector"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Power mirrors, DSP (THX/navigation radio)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Stop lamps"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Audio"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "Wiper relay coil, cluster logic"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "OCS (passenger seat), PAD indicator"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "RCM"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "PATS transceiver, brake shift interlock, brake pedal switch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster, climate control head units"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "ABS/traction control, heated seats, compass"
+    ],
+    [
+     "C/B",
+     "Circuit breaker ATO",
+     "",
+     "Rear power windows, delayed accessory"
+    ]
+   ]
+  }
+ ]
+}
