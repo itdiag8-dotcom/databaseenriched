@@ -1,0 +1,625 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "rx-330",
+ "brand_db": "Lexus",
+ "model_db_name": "RX",
+ "model_id": 2598,
+ "generation_name": "Generation XU30",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2006,
+ "trim_label": "",
+ "representative_year": 2004,
+ "source_url": "https://www.startmycar.com/lexus/rx-330/info/fusebox/2004",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment (with air suspension)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-rx-330-2004-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FLM",
+     "60A",
+     "(AIRSUS) Electronically modulated air suspension"
+    ],
+    [
+     "3",
+     "Fuse FLM",
+     "140A",
+     "(ALT) Main power feed to interior fuse circuits"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "(PBD) Power back door"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "(H-LP CLN) Headlight cleaner"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS NO.1) ABS, VSC, TRAC, brake assist"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "(RR DEF) Rear window defogger"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "50A",
+     "(HEATER) A/C, rear window defogger"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "(DRL) Daytime running light system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(H-LP L LWR) Left headlight low beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(H-LP L UPR) Left headlight high beam"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(H-LP R UPR) Right headlight high beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "(PWR OUTLET NO.2) Power outlet"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "(TOWING) Trailer lights"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "(ABS NO.2) ABS, VSC, TRAC, brake assist"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "50A",
+     "(RDI FAN) Electric cooling fan"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(HAZ) Turn signal lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "(CRT) Car audio system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "(ALT-S) Charging system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(ETCS) Fuel injection system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horns"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "40A",
+     "(MAIN) Headlights, DRL"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "(AM2) Starting system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "(RADIO NO.1) Audio, navigation system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "(ECU-B) Power windows, CAN, meters, A/C, seats"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "(DOME) Interior and courtesy lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "(TEL) Lexus Link system"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "30A",
+     "(AMP) Audio amplifier"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "25A",
+     "(DOOR NO.1) Multiplex communication system"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "(A/F) Fuel injection system"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "25A",
+     "(EFI NO.1) Fuel injection system"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "(H-LP R LWR) Right headlight low beam"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "(EFI NO.2) Fuel injection system"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment (without air suspension)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-rx-330-2004-genid-g1-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse FLM",
+     "100A",
+     "(INP-J/B) Main feed to instrument panel junction block"
+    ],
+    [
+     "3",
+     "Fuse FLM",
+     "140A",
+     "(ALT) Main power feed to engine compartment fuses"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "(PBD) Power back door"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "30A",
+     "(H-LP CLN) Headlight cleaner"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS NO.1) ABS, VSC, TRAC, brake assist"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "40A",
+     "(RR DEF) Rear window defogger"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "50A",
+     "(HEATER) A/C, rear window defogger"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "(DRL) Daytime running light system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(H-LP L LWR) Left headlight low beam"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "(H-LP L UPR) Left headlight high beam"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(H-LP R UPR) Right headlight high beam"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "(PWR OUTLET NO.2) Power outlet"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "(TOWING) Trailer lights"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "50A",
+     "(ABS NO.2) ABS, VSC, TRAC, brake assist"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "50A",
+     "(RDI FAN) Electric cooling fan"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(HAZ) Turn signal lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "(CRT) Car audio system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "(ALT-S) Charging system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(ETCS) Fuel injection system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horns"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "40A",
+     "(MAIN) Headlights, DRL"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "(AM2) Starting system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "(RADIO NO.1) Audio, navigation system"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "(ECU-B) Power windows, CAN, meters, A/C, seats"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "(DOME) Interior and courtesy lights"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "(TEL) Lexus Link system"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "30A",
+     "(AMP) Audio amplifier"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "25A",
+     "(DOOR NO.1) Multiplex communication system"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "(A/F) Fuel injection system"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "25A",
+     "(EFI NO.1) Fuel injection system"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "(H-LP R LWR) Right headlight low beam"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "(EFI NO.2) Fuel injection system"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Driver's side instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-rx-330-2004-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "20A",
+     "(RR DOOR RH) Rear right power window"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(RR DOOR LH) Rear left power window"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "(FUEL OPN) Fuel filler door opener"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A",
+     "(FR FOG) Front fog lights"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "(OBD) On-board diagnosis system"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "25A",
+     "(FR DEF) Windshield wiper deicer, mirror heater"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(STOP) Stop lights, ABS, VSC, shift lock"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "(TI&TE) Tilt and telescopic steering"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "(AM1) Starter system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "(RR FOG) Rear fog light"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "(AIR SUS) Air suspension"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "(DOOR NO.2) Multiplex communication system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "(S/ROOF) Moon roof"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(TAIL) Tail, marker, license plate lights, fog lights"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "7.5A",
+     "(PANEL) Panel lights, audio, A/T, seat heaters"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "(ECU-IG NO.1) Mirrors, moon roof, CAN, VSC, seats"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "(ECU-IG NO.2) Headlight leveling, VSC, cruise, AFS"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "(HEATER) Cooling fan, A/C, defogger, deicer"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "20A",
+     "(WASHER) Windshield washer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "(SEAT HTR) Seat heaters"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "(GAUGE NO.1) Panel lights, flashers, back-up lights"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "(FR WIP) Windshield wipers"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(RR WIP) Rear window wiper"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "(INJ) Fuel injection system"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(IGN) SRS airbag, fuel injection, stop lights"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "(GAUGE NO.2) Gauges and meters"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "(ECU-ACC) Navigation display, mirrors, shift lock"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "(CIG) Cigarette lighter, power outlet"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "(PWR OUTLET NO.1) Power outlet"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "(RADIO NO.2) Panel lights, navigation, audio"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(MIR HTR) Mirror defogger"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "30A",
+     "(P/SEAT) Power seats"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "30A",
+     "(PWR) Power windows, door locks, mirrors"
+    ],
+    [
+     "U1",
+     "Fuse MINI",
+     "7.5A",
+     "(MPX-B) No circuit"
+    ]
+   ]
+  }
+ ]
+}
