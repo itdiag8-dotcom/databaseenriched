@@ -1,0 +1,583 @@
+{
+ "make_slug": "maserati",
+ "model_slug": "granturismo",
+ "brand_db": "Maserati",
+ "model_db_name": "Granturismo",
+ "model_id": 2720,
+ "generation_name": "Generation M145",
+ "generation_code": "g1",
+ "year_start": 2007,
+ "year_end": 2019,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/maserati/granturismo/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuses and relays",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-granturismo-2015-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MAXI",
+     "60A",
+     "Fan 1 relay"
+    ],
+    [
+     "F02",
+     "Fuse MAXI",
+     "30A",
+     "ABS valves"
+    ],
+    [
+     "F03",
+     "Fuse MAXI",
+     "20A",
+     "T03 spot lights relay"
+    ],
+    [
+     "F04",
+     "Fuse MAXI",
+     "40A",
+     "ABS cylinder"
+    ],
+    [
+     "F05",
+     "Fuse MAXI",
+     "40A",
+     "A/C node"
+    ],
+    [
+     "F06",
+     "Fuse MAXI",
+     "60A",
+     "Fan 2 relay"
+    ],
+    [
+     "F07",
+     "Fuse MAXI",
+     "30A",
+     "T07 injection main relay"
+    ],
+    [
+     "F08",
+     "Fuse ATO",
+     "7.5A",
+     "T08 A/C compressor relay"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "7.5A",
+     "T05 stop light control relay"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "T06 horn relay"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "LH high beam"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Alternator sensing"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "LH spot light"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "RH high beam"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "7.5A",
+     "Injection bank"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "T02 DRL lights relay"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "15A",
+     "T14 fog lights relay"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "ABS electronics"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "RH spot light"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "30A",
+     "T20 ignition relay"
+    ],
+    [
+     "F81",
+     "Fuse MAXI",
+     "50A",
+     "CPL2"
+    ],
+    [
+     "F83",
+     "Fuse MAXI",
+     "50A",
+     "Air pump relay"
+    ],
+    [
+     "F84",
+     "Fuse MINI",
+     "20A",
+     "Ignition switch"
+    ],
+    [
+     "F85",
+     "Fuse ATO",
+     "30A",
+     "Headlight washers"
+    ],
+    [
+     "F88",
+     "Fuse MINI",
+     "15A",
+     "Main injector/coil relay cyl 1-4"
+    ],
+    [
+     "F89",
+     "Fuse MINI",
+     "15A",
+     "Main injector/coil relay cyl 5-8"
+    ],
+    [
+     "F90",
+     "Fuse MINI",
+     "15A",
+     "Main injection relay, secondary devices"
+    ],
+    [
+     "F91",
+     "Fuse MINI",
+     "10A",
+     "Main relay, injection ECU"
+    ],
+    [
+     "F92",
+     "Fuse MINI",
+     "15A",
+     "Main relay, oxygen sensors"
+    ],
+    [
+     "F93",
+     "Fuse MINI",
+     "7.5A",
+     "+15 roof controls"
+    ],
+    [
+     "F94",
+     "Fuse MINI",
+     "7.5A",
+     "NCS"
+    ],
+    [
+     "F95",
+     "Fuse MINI",
+     "7.5A",
+     "CSG"
+    ],
+    [
+     "F96",
+     "Fuse MINI",
+     "7.5A",
+     "Alternator"
+    ],
+    [
+     "F97",
+     "Fuse MINI",
+     "10A",
+     "Injection ECU"
+    ],
+    [
+     "T03",
+     "Relay",
+     "",
+     "Spot lights relay"
+    ],
+    [
+     "T05",
+     "Relay",
+     "",
+     "Stop light control relay"
+    ],
+    [
+     "T06",
+     "Relay",
+     "",
+     "Horns relay"
+    ],
+    [
+     "T07",
+     "Relay",
+     "",
+     "Injection main relay"
+    ],
+    [
+     "T08",
+     "Relay",
+     "",
+     "A/C compressor relay"
+    ],
+    [
+     "T09",
+     "Relay",
+     "",
+     "High beams relay"
+    ],
+    [
+     "T14",
+     "Relay",
+     "",
+     "Fog lights relay"
+    ],
+    [
+     "T15",
+     "Relay",
+     "",
+     "Radiator fan 1st speed relay"
+    ],
+    [
+     "T16",
+     "Relay",
+     "",
+     "Radiator fan 2nd speed relay"
+    ],
+    [
+     "T19",
+     "Relay",
+     "",
+     "Ignition enable relay"
+    ],
+    [
+     "T20",
+     "Relay",
+     "",
+     "Ignition relay"
+    ],
+    [
+     "T30",
+     "Relay",
+     "",
+     "Air pump relay"
+    ],
+    [
+     "T31",
+     "Relay",
+     "",
+     "Headlight washer pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment fuse box (left of steering wheel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-granturismo-2015-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MINI",
+     "15A",
+     "Left low beam"
+    ],
+    [
+     "F02",
+     "Fuse MINI",
+     "7.5A",
+     "ACC, FN and LF relay coil"
+    ],
+    [
+     "F03",
+     "Fuse MINI",
+     "7.5A",
+     "NVO, CSG, CSP, NIM, NCL, radio, CEM, CRP, wiper controls, Navtrak"
+    ],
+    [
+     "F04",
+     "Fuse MINI",
+     "30A",
+     "Passenger door node (NPP)"
+    ],
+    [
+     "F05",
+     "Fuse MINI",
+     "30A",
+     "Passenger seat movement"
+    ],
+    [
+     "F07",
+     "Fuse MINI",
+     "15A",
+     "Right low beam"
+    ],
+    [
+     "F08",
+     "Fuse MINI",
+     "7.5A",
+     "Roof control panel supply"
+    ],
+    [
+     "F09",
+     "Fuse MINI",
+     "10A",
+     "NQS (instrument panel node), CPP, CPD"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "30A",
+     "Driver seat movement"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "20A",
+     "NPG/NPP locks"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "7.5A",
+     "NCA (automatic gearbox node)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "7.5A",
+     "Airbag system"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Dome/step/footwell lights, CAV, mirror lights"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "30A",
+     "Driver door node (NPG)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "20A",
+     "Cigarette lighters, passenger seat heating"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "30A",
+     "Windscreen wiper/washer"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Driver seat heating"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "7.5A",
+     "A/C unit, NBC body computer, high beam relay"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lights"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "15A",
+     "Rear lid lock"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "NIM, NCL, EOBD socket, CSA, CAV, radio, Navtrak"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "NQS"
+    ],
+    [
+     "R01",
+     "Relay",
+     "",
+     "Jumper 30/87"
+    ],
+    [
+     "R02",
+     "Relay",
+     "",
+     "Connected devices 1 (ignition switch)"
+    ],
+    [
+     "R03",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R04",
+     "Relay",
+     "",
+     "Low beams relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Luggage compartment relay/fuse boxes",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-maserati-granturismo-2015-genid-g1-2.webp",
+   "fuses": [
+    [
+     "T23",
+     "Relay",
+     "",
+     "Reverse gear relay"
+    ],
+    [
+     "T24",
+     "Relay",
+     "",
+     "Third stop light relay"
+    ],
+    [
+     "T25",
+     "Relay",
+     "",
+     "Fuel tank door relay"
+    ],
+    [
+     "T32",
+     "Relay",
+     "",
+     "Key-lock solenoid relay"
+    ],
+    [
+     "T34",
+     "Relay",
+     "",
+     "Fuel pump 1 relay"
+    ],
+    [
+     "T35",
+     "Relay",
+     "",
+     "Fuel pump 2 relay"
+    ],
+    [
+     "F54",
+     "Fuse MINI",
+     "30A",
+     "Hi-Fi amplifier"
+    ],
+    [
+     "F56",
+     "Fuse MINI",
+     "10A",
+     "+30 NAG, NTV, Bose tuner, NIT (Japan)"
+    ],
+    [
+     "F58",
+     "Fuse MINI",
+     "7.5A",
+     "RH reverse from T23"
+    ],
+    [
+     "F60",
+     "Fuse MINI",
+     "7.5A",
+     "NSP"
+    ],
+    [
+     "F61",
+     "Fuse MINI",
+     "7.5A",
+     "T24 third stop light"
+    ],
+    [
+     "F62",
+     "Fuse MINI",
+     "20A",
+     "NCA"
+    ],
+    [
+     "F63",
+     "Fuse MINI",
+     "15A",
+     "T25 fuel tank door relay"
+    ],
+    [
+     "F65",
+     "Fuse MINI",
+     "10A",
+     "Key-lock solenoid"
+    ],
+    [
+     "F66",
+     "Fuse MINI",
+     "20A",
+     "Fuel pumps"
+    ],
+    [
+     "F78",
+     "Fuse MINI",
+     "20A",
+     "Power socket"
+    ],
+    [
+     "F80",
+     "Fuse MINI",
+     "25A",
+     "Bass box"
+    ]
+   ]
+  }
+ ]
+}
