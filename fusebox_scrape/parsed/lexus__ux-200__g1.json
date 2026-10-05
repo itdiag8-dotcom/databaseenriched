@@ -1,0 +1,601 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "ux-200",
+ "brand_db": "Lexus",
+ "model_db_name": "UX",
+ "model_id": 2603,
+ "generation_name": "1st generation ZA10",
+ "generation_code": "g1",
+ "year_start": 2019,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/lexus/ux-200/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Interior Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ux-200-2023-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "FOG RR - rear fog lights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.2"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - diagnostics"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "ECU-B NO.1"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "DOME - interior lights"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "D/L - power door locks"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "7.5A",
+     "DOOR BACK"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "7.5A",
+     "STOP - stop lights"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "TI&TE - tilt/telescopic steering"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "AM2 - starter system"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-DCC NO.2"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "HAZ - hazard lights"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "ECU-DCC NO.1"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "PANEL - panel illumination"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "METER - instrument cluster"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "TAIL - tail lights"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "DOOR R/L - rear left door"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "DOOR - power door locks"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-B NO.3"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "DOOR R/R - rear right door"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "STRG LOCK - steering lock"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "P/OUTLET NO.1 - power outlet"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "DCM - telematics"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "ECU-ACC"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "WASHER - windshield washer"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG1 NO.3"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "WIPER RR - rear wiper"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "EPS-IG1 - power steering"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG1 NO.4"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "A/BAG-IG2 - airbags"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "BKUP LP - back-up lights"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "METER-IG2 - instrument cluster"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG1 NO.2"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "ECU-IG2 NO.3"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "ECU-IG1 NO.1"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment No.1 (M20A-FKS)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ux-200-2023-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "WIPER - front wiper and washer"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.1 - CVT, radar cruise, engine control"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "VVT - engine control"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "D INJ - engine control"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "HORN - horn, smart access, theft deterrent"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "EFI-MAIN NO.3 - engine control"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "H-LP LH (without headlight ECU) - left headlight, AFS, illumination"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "H-LP LH (with headlight ECU) - left headlight, AFS, turn signals"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "H-LP RH (without headlight ECU) - right headlight, AFS, illumination"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "H-LP RH (with headlight ECU) - right headlight, AFS, turn signals"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "FUEL OPN - fuel lid opener"
+    ],
+    [
+     "12",
+     "Fuse MPF2",
+     "",
+     "J/B-B - power source"
+    ],
+    [
+     "15",
+     "Fuse FLM",
+     "80A",
+     "EPS - electric power steering, lane control"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "D/C CUT - power source"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "DRL - daytime running lights"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "BATT-S - charging, engine control, lights"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "S-HORN - security horn, smart access, theft deterrent"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "EFI-MAIN NO.2 - engine control"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "30A",
+     "EFI-MAIN NO.1 - cooling fan, CVT, engine control"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "30A",
+     "ST NO.1 - starting, smart access, steering lock"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "IG2-MAIN - power source"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG2 NO.2 - CVT, radar cruise"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "IGN - engine control, ignition"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-IG2 NO.1 - CVT, radar cruise, engine control"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "EFI NO.3 - cooling fan"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.2 - engine control"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "MIR HTR - mirror heater"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.5 - CVT, radar cruise"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.4 - engine control"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-ACC NO.2 - power outlet"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "STRG HTR - heated steering wheel, lane control"
+    ],
+    [
+     "46",
+     "Fuse FMX/JCase",
+     "50A",
+     "HTR - air conditioning"
+    ],
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS-MAIN - ABS, brake hold, parking brake, VSC"
+    ],
+    [
+     "49",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS MTR NO.1 - ABS, brake hold, parking brake, VSC"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "30A",
+     "S/HTR-MAIN - climate seats, seat heaters"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "20A",
+     "P/OUTLET NO.2 - power outlet"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "7.5A",
+     "FOG FR - front fog lights"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "15A",
+     "DEICER - windshield deicer"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "10A",
+     "ECU-IG1 NO.5 - AFS, A/C, mirrors, defogger, seat heaters"
+    ],
+    [
+     "57",
+     "Fuse MPF2",
+     "",
+     "PBD - power back door"
+    ],
+    [
+     "60",
+     "Fuse MPF2",
+     "",
+     "FAN NO.1 - cooling fan"
+    ],
+    [
+     "61",
+     "Fuse MPF2",
+     "",
+     "H-LP CLN - headlight cleaner, AFS"
+    ],
+    [
+     "62",
+     "Fuse MPF2",
+     "",
+     "DEF - rear defogger, mirror heater"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "EFI-MAIN NO.1 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "S-HORN relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "ST NO.1 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "EFI-MAIN NO.3 relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "DEF relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "HORN relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "D INJ relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "EFI-MAIN NO.2 relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment No.2 (M20A-FKS)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-ux-200-2023-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "S/HTR F/L - front left seat heater"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "S/HTR F/R - front right seat heater"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "DEICER relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "H-LP CLN relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "S/HTR relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "AVS relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "WIPER relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "H-LP SHADE relay"
+    ]
+   ]
+  }
+ ]
+}

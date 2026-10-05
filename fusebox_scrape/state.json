@@ -338,7 +338,8 @@
   "jmc": "0/6 models have data (all no_data); DB model New Generation Transit not on startmycar",
   "kia": 43,
   "lancia": 10,
-  "land-rover": "11 models: defender, discovery, discovery-sport, freelander, lr2, lr3, lr4, range-rover, range-rover-evoque, range-rover-sport, range-rover-velar all done (lr2/lr3/lr4 twin-derived)"
+  "land-rover": "11 models: defender, discovery, discovery-sport, freelander, lr2, lr3, lr4, range-rover, range-rover-evoque, range-rover-sport, range-rover-velar all done (lr2/lr3/lr4 twin-derived)",
+  "lexus": true
  },
  "in_progress": "land-rover",
  "queue_next_makes": [
@@ -1357,7 +1358,9 @@
   "lexus/rz": "done",
   "lexus/sc-430": "done",
   "lexus/sc": "done",
-  "lexus/tx": "done"
+  "lexus/tx": "done",
+  "lexus/ux-200": "done",
+  "lexus/ux-250h": "done_covered_by_ux-200"
  },
  "last_updated": "2026-10-05",
  "current_brand": "lexus",
