@@ -1,0 +1,528 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "veloster",
+ "brand_db": "Hyundai",
+ "model_db_name": "Veloster",
+ "model_id": 2259,
+ "generation_name": "1st generation (FS)",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2017,
+ "trim_label": "",
+ "representative_year": 2017,
+ "source_url": "https://www.startmycar.com/hyundai/veloster/info/fusebox/2017",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Fuse/relay panel (interior)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-veloster-2017-genid-g1-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "15A",
+     "Cigarette lighter"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Power outlet"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "10A",
+     "Mirror switch, AMP, AVN, MTS, smart key module, IPS module"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "15A",
+     "Smart key control module"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "20A",
+     "Door lock/unlock relays, flasher sound, tailgate latch, two-turn unlock relays, IPS module"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "25A",
+     "AMP"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Rear combination/license lamps, shift indicator, cluster, multifunction/window switches, AUX & USB, A/C module, ESC off switch, AVN, crash pad switch, seat warmer switches, head lamp LH"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Head lamp RH, rear combination lamp RH"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "ECM, A/C module, power outside mirrors"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper relay/motor, multifunction switch"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "AVN head unit, MTS module"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "DLC, cluster, A/C module"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "25A",
+     "A/C inverter module"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "Driver/passenger seat warmer"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "25A",
+     "Driver safety power window module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "25A",
+     "Lumbar support"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "15A",
+     "Smart key module, A/C inverter, heated steering wheel"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Front wiper/blower relays, crash pad switch, panorama sunroof, A/C module, IPS"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Luggage/map/room/vanity/overhead lamps"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "25A",
+     "Power window main switch"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "25A",
+     "Power window main/passenger/rear RH switches"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "EPS control module"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "25A",
+     "Multifunction switch, front wiper motor/relay"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "15A",
+     "Occupant detection sensor, SRS module, telltale"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "ECM"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Stop lamp switch, stop signal relay, smart key module"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Smart key module, immobilizer, start/stop button"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "10A",
+     "Burglar alarm relay, transaxle range switch, smart key module, ECM, TCM, start relay"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "AVN, transaxle range switch, MTS, TCM, backup lamp switch, rear combination lamps, IPS"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster (airbag IND)"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Cluster, TPMS, sport mode switch, shift indicator, MTS"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Rear parking sensors/buzzer, IPS, seat warmers/switches, MTS, A/C module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "ESC module/off switch, HAC relay, check connector"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "Immobilizer, smart key module, ECM, stop lamp switch"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "Vacuum pump relay (T-GDI)"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "15A",
+     "TCM (GDI)"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "15A",
+     "Backup lamp switch, transaxle range switch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-veloster-2017-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "EPS control module"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "TCM"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "6",
+     "Other",
+     "",
+     "Multi fuse (DCT 1, MDPS, RR HTD, blower), alternator"
+    ],
+    [
+     "7",
+     "Other",
+     "",
+     "Check connector, ESC module"
+    ],
+    [
+     "8",
+     "Other",
+     "",
+     "Smart junction box (power window relay, IPS; safety power window, AMP fuses)"
+    ],
+    [
+     "9",
+     "Other",
+     "",
+     "Leak current autocut device (room lamp relay; interior lamp, multimedia, memory, seat heater fuses)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "40A",
+     "Cooling fan high/low relays (GDI)"
+    ],
+    [
+     "10",
+     "Fuse FMX/JCase",
+     "60A",
+     "Cooling fan high relay (T-GDI)"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "A/C relay"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Fog lamp relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "Burglar alarm horn relay, horn relay"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "20A",
+     "Panorama sunroof motor"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Vacuum pump relay"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Battery sensor"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch, PDM (IG2) relay, start relay"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch, PDM (IG1/ACC) relays"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "ECM"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensors, canister/intake/purge valves, cooling fan relays (GDI)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Oxygen sensors, canister valve, recirculation/wastegate valves, purge valve, cooling fan high relay (T-GDI)"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump/A/C relays, oil control valves, ECM"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "ECM"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Sport mode switch, key solenoid"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "TCM"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay (GDI)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay (T-GDI)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "Brake switch"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "40A",
+     "ESC module"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control relay, ECU 2 fuse"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "TCM"
+    ],
+    [
+     "32",
+     "Fuse FMX/JCase",
+     "50A",
+     "Smart junction box (tail lamp relay, IPS; stop lamp, smart key, inverter 2, door lock fuses)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Condenser, ignition coils #1-#4"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "A/C"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear wiper"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Burglar alarm horn"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Front wiper"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Start"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Front fog lamp"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Cooling fan 2"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Rear defogger"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Cooling fan 1"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Main"
+    ]
+   ]
+  }
+ ]
+}
