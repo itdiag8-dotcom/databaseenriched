@@ -1,0 +1,564 @@
+{
+ "make_slug": "kia",
+ "model_slug": "optima-hybrid",
+ "brand_db": "Kia",
+ "model_db_name": "Optima Hybrid",
+ "model_id": null,
+ "generation_name": "1st generation TF",
+ "generation_code": "g1",
+ "year_start": 2011,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2013,
+ "source_url": "https://www.startmycar.com/kia/optima-hybrid/info/fusebox/2013",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-hybrid-2013-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Multi fuse block MUSB",
+     "",
+     "I/P Junction Box (Fuses F20/F21/F26/F27/F32, IPS 5/6, ARISU 2)"
+    ],
+    [
+     "2",
+     "Multi fuse block MUSB",
+     "",
+     "Hydraulic Power Unit"
+    ],
+    [
+     "3",
+     "Multi fuse block MUSB",
+     "",
+     "RLY.13 (PDM3 (IG2) Relay)"
+    ],
+    [
+     "4",
+     "Multi fuse block MUSB",
+     "",
+     "ESP Control Module"
+    ],
+    [
+     "5",
+     "Multi fuse block MUSB",
+     "",
+     "RLY.1 (RR HTD Relay)"
+    ],
+    [
+     "6",
+     "Multi fuse block MUSB",
+     "",
+     "RLY.17 (Blower Relay)"
+    ],
+    [
+     "7",
+     "Multi fuse block MUSB",
+     "",
+     "I/P Junction Box (Fuses F1/F2/F7/F13/F19/F25/F31/F36 (Power Connector))"
+    ],
+    [
+     "8",
+     "Multi fuse block MUSB",
+     "",
+     "EPS Control Module"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Hydraulic Power Unit, Electric Oil Pump Unit, Hybrid Fuse & Relay Box (OPCU Relay)"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Electrochromic Mirror, BCM, Rear Combination Lamps (IN), A/V & Navigation Head Unit, PCM, Transaxle Range Switch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Hybrid Fuse & Relay Box (ESS/HAC Relays), Stop Lamp Switch, ESP Module, Multipurpose Check Connector"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "15A",
+     "Transaxle Range Switch"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "PCM"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "30A",
+     "ESP Control Module, Multipurpose Check Connector"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "20A",
+     "Hybrid Control Unit"
+    ],
+    [
+     "17",
+     "Fuse FMX/JCase",
+     "30A",
+     "Hydraulic Power Unit"
+    ],
+    [
+     "18",
+     "Fuse FMX/JCase",
+     "40A",
+     "RLY.7 (Cooling Fan Low Relay)"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "RLY.5 (PDM1 ACC Relay), RLY.12 (PDM2 IG1 Relay)"
+    ],
+    [
+     "20",
+     "Fuse FMX/JCase",
+     "40A",
+     "EMS Box (Fuses F36/F37/F38/F39)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "PCM"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "A/C Control Module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Electric Oil Pump Unit"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "Low Voltage DC-DC Converter, MCU"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "PCM"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "15A",
+     "Hybrid Fuse & Relay Box (HAC Relay), Stop Lamp Relay"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "RLY.10 (Deicer Relay)"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "RLY.6 (Water Pump Relay)"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "50A",
+     "BMS Blower Motor Relay"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "50A",
+     "I/P Junction Box (Fuses F28/F33/F34 (Power Connector), IPS 2/3, ARISU 1)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "Ignition Coils #1-#4, Condenser"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "Oil Control Valves #1/#2, Purge Control Solenoid Valve"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "Camshaft Position Sensors #1/#2"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Injectors #1-#4, RLY.2 (Fuel Pump Relay)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Oxygen Sensors (Up/Down), E/R Fuse & Relay Box (RLY.7 Cooling Fan Low Relay)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "PCM"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "RLY.2 (Fuel Pump Relay)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "E/R Fuse & Relay Box (RLY.16 B/A Horn Relay), RLY.3 (Horn Relay)"
+    ],
+    [
+     "39",
+     "Fuse FMX/JCase",
+     "30A",
+     "RLY.4 (Engine Control Relay)"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "RR Heated Relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel Pump Relay (Plug Micro)"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn Relay (Plug Micro)"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Engine Control Relay (Plug Mini)"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "PDM1 (ACC) Relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Water Pump Relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Cooling Fan (LO) Relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Deicer Relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Headlamp Washer Relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "PDM2 (IG1) Relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "PDM3 (IG2) Relay"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Wiper Relay"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Rain Sensor Relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "B/A Horn Relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "Blower Relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-optima-hybrid-2013-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "(MODULE3) Sport Mode Switch, Active Air Flap, VESS Unit"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "25A",
+     "(PDM1) Smart Key Control Module"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "(POWER OUTLET) Front Power Outlet"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "7.5A",
+     "(MODULE5) Smart Key Control Module, Rear Seat Warmer Relays, E/R Fuse & Relay Box (RLY.11)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "(MODULE2) BCM, Panorama Sunroof, Rain Sensor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(TRUNK) Trunk Room Lamp, Fuel Filler Door & Trunk Lid Switch, Trunk Lid Relay"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(CLOCK) Door Mood Lamps, AMP, BCM, Mirror Switch, A/C Module, Crash Pad Mood Lamp, Overhead Console Lamp, Smart Key Module, Audio, A/V & Navigation, VESS Unit"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "(C/LIGHTER) Cigarette Lighter"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(HTD STRG) Steering Wheel Heater"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "(A/CON) A/C Control Module, Electronic A/C Compressor, E/R Fuse & Relay Box (RLY.6, RLY.17)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "25A",
+     "(WIPER) E/R Fuse & Relay Box (RLY.14, RLY.15), Multifunction Switch, Front Wiper Motor"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "(S/HEATER FRT) Driver CCS Cushion Warmer (with CCS), Seat Warmer Modules (w/o CCS)"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(WATER PUMP HEV) Hybrid Water Pump"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(MIRR HTD) Power Outside Mirrors"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "7.5A",
+     "(MODULE4 HEV) Low DC-DC Converter, BMS Control Module, MCU"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "7.5A",
+     "(A/BAG IND) Instrument Cluster"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "7.5A",
+     "(START) Smart Key Control Module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(S/HEATER RR) Rear Seat Warmer Relays"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "(P/SEAT PASS) Passenger Seat Manual Switch"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "(FOG LP RR) Rear Fog Lamp Relay"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "(MODULE1) Headlamp Leveling Module/Switch/Actuators, BCM, Cluster, Electrochromic Mirror, A/C Module, Driver IMS, Seat Warmer & CCS Switch, Active Air Flap, Seat Warmer Modules"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "(HCU) Hybrid Control Unit"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "15A",
+     "(A/BAG) SRS Control Module, Telltale Lamp"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW LH) Driver Safety Power Window Module, Rear Safety Module LH"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "30A",
+     "(AMP) AMP"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "7.5A",
+     "(BRAKE SWITCH) Smart Key Module, Start/Stop Button, FOB Holder, Stop Lamp Switch"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(BMS) BMS Control Module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(MDPS) Crash Pad Switch, ATM Lever Indicator, ESP Module, TPMS"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "(PDM3) Smart Key Control Module"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW RH) Passenger Safety Power Window Module, Rear Safety Module RH"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "30A",
+     "(P/SEAT DRV) Driver IMS Module, Driver Seat Manual Switch, Lumbar Support Switch"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "20A",
+     "(DR LOCK) Door Lock/Unlock Relay, Turn Signal Lamp Sound Relay"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "20A",
+     "(SUNROOF) Panorama Sunroof"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "20A",
+     "(IG1) E/R Fuse & Relay Box (Fuses F9, F11, F12, F13)"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "(AUDIO) Audio, A/V & Navigation Head Unit"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "(ROOM LP) Smart Key Outside Handles, Door Lamps, Auto Light & Photo Sensor, RF Receiver, Driver IMS, BCM, Audio DLC, Scuff Lamps, Mirror Switch, A/V & Navigation, Lamp Auto Cut Relay, Cluster, TPMS, A/C Module"
+    ]
+   ]
+  }
+ ]
+}

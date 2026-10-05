@@ -1,0 +1,434 @@
+{
+ "make_slug": "kia",
+ "model_slug": "picanto",
+ "brand_db": "Kia",
+ "model_db_name": "Picanto",
+ "model_id": 2462,
+ "generation_name": "1st generation SA",
+ "generation_code": "g1",
+ "year_start": 2004,
+ "year_end": 2011,
+ "trim_label": "",
+ "representative_year": 2011,
+ "source_url": "https://www.startmycar.com/kia/picanto/info/fusebox/2011",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-picanto-2011-genid-g1-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG IND) Airbag warning"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "(TCU B/UP) Automatic transaxle"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG) Airbag"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(IGN COIL) Ignition"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "(SNSR) O2 Sensor"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(INJ) Injection"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "(DSL ECU1) Diesel ECU"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(DSL ECU2) Diesel ECU"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(ABS/ESP) ABS / Electronic Stability Program"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "(CLUSTER) Cluster"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "(T/SIG LP) Turn signal light"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW RR) Power window (rear)"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW FRT) Power window (front)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "(RR WIPER) Rear wiper"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(H/LP LH) Headlight (left)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(H/LP RH) Headlight (right)"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(IGN O/S MIR FATC) Outside rearview mirror"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "(C/LIGHTER) Cigar lighter"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(HTD GLASS2) Rear window defroster"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "20A",
+     "(C/DR LOCK) Central door lock"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "(HTD GLASS1) Rear window defroster"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(START SIG) Start motor"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(A/CON SW) Air conditioner"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "(SEAT HTD) Seat warmer"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(RR FOG LP) Rear fog light"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "20A",
+     "(FRT WIPER) Front wiper"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(FUEL PUMP) Fuel pump"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-picanto-2011-genid-g1-1.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "30A",
+     "Radiator fan"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "20A",
+     "Engine control unit"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine control unit"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "30A",
+     "Ignition"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system"
+    ],
+    [
+     "F8",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system"
+    ],
+    [
+     "F9",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "30A",
+     "In panel B+"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Air conditioner"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "Tail light (left)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Tail light (right)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Engine control unit"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Stop light"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Daytime running light"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Front fog light"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "15A",
+     "Hazard warning flasher"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Room lamp"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "15A",
+     "Audio"
+    ],
+    [
+     "F26",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "Alternator, Battery"
+    ],
+    [
+     "F26",
+     "Fuse FLF/PAL 293",
+     "120A",
+     "Alternator, Battery"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Front fog light relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear fog light relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Air conditioner relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Start motor relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Tail light relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Sub Fuse Panel [Diesel]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-picanto-2011-genid-g1-2.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MIDI",
+     "40A",
+     "PTC heater 1"
+    ],
+    [
+     "F2",
+     "Fuse MIDI",
+     "80A",
+     "Motor driven power steering"
+    ],
+    [
+     "F3",
+     "Fuse MIDI",
+     "40A",
+     "PTC heater 2"
+    ],
+    [
+     "F4",
+     "Fuse MIDI",
+     "80A",
+     "Glow plug"
+    ],
+    [
+     "F5",
+     "Fuse MIDI",
+     "40A",
+     "PTC heater 3"
+    ],
+    [
+     "F6",
+     "Fuse MIDI",
+     "30A",
+     "Fuel filter heater temperature sensor"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment Sub Fuse Panel [Gasoline]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-picanto-2011-genid-g1-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FLD/PAL 283",
+     "80A",
+     "(MDPS) Motor driven power steering"
+    ]
+   ]
+  }
+ ]
+}

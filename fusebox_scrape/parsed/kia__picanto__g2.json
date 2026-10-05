@@ -1,0 +1,571 @@
+{
+ "make_slug": "kia",
+ "model_slug": "picanto",
+ "brand_db": "Kia",
+ "model_db_name": "Picanto",
+ "model_id": 2462,
+ "generation_name": "2nd generation TA",
+ "generation_code": "g2",
+ "year_start": 2011,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/kia/picanto/info/fusebox/2018/2nd-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Inner fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-picanto-2018-genid-g2-0.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "10A",
+     "Room Lamp Relay"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "15A",
+     "Power Outlet"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Cigarette Lighter"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "BCM, Audio, Low DC-DC Converter, Smart Key Module, Mirror Switch"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "10A",
+     "Instrument Cluster"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "A/C Control Module, SRS Control Module"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "10A",
+     "Multifunction Switch (Europe), Hazard Switch (except Europe)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Rear Parking Assist System, BCM/TACU, TPMS, Seat Belt Timer"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "10A",
+     "ACC"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "Multifunction Switch, Rear Wiper Motor"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "15A",
+     "Steering Wheel Heater"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "Rear Fog Lamp Relay"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "15A",
+     "Front Fog Lamp Relay"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "BCM/TACM"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "15A",
+     "Stop Lamp Relay, PCB Box (HAC Relay), Stop Lamp Switch, DLC, Smart Key Module, Power Window Relay"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "BCM, TACM, Seat Belt Timer, A/C Control Module, Instrument Cluster"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Stop Lamp Switch, Alternator (G3LA/G4LA), Rear Parking Sensors, Seat Heater Switch/Heaters, Crash Pad Switch, Low DC-DC Converter, Electrochromic Mirror"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "Yaw Rate Sensor, Check Connector, ESC/ABS Modules, PCB Box (HAC/ESS Relays), Steering Angle Sensor"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "Back-Up Lamp Switch"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Smart Key Module, Immobilizer, ECM/PCM"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Head Lamp LH"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "Smart Key Module, Immobilizer, Start/Stop Button"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "Hazard Relay, Flasher Unit, Hazard Switch"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "25A",
+     "Smart Key Control Module"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "15A",
+     "Sunroof Motor"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Smart Key Module, Immobilizer, Start/Stop Button"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "EPS Control Module"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "15A",
+     "Pulse Generators A/B, Vehicle Speed Sensor, Transaxle Range Switch"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Sunroof Motor, Rear Defogger Timer, Dual Pressure Switch, Headlamp Leveling Actuators, I/P Junction Box (Power Window Relay)"
+    ],
+    [
+     "F30",
+     "Fuse MINI",
+     "25A",
+     "Front Wiper Motor, Multifunction Switch"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "20A",
+     "Door Lock/Unlock Relay, Tailgate Unlock Relay"
+    ],
+    [
+     "F32",
+     "Fuse MINI",
+     "25A",
+     "Driver Safety Power Window Module"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "15A",
+     "Driver/Passenger Seat Heater"
+    ],
+    [
+     "F34",
+     "Fuse MINI",
+     "10A",
+     "Brake Switch, Smart Key Control Module"
+    ],
+    [
+     "F35",
+     "Fuse MINI",
+     "10A",
+     "Luggage Lamp, A/C Module, BCM/TACM, Auto Light & Photo Sensor, Cup Holder Ill., Cluster, Key Ill. & Door Warning Switch, Vanity/Overhead Console/Room Lamp"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "20A",
+     "Audio (w/o ISG), Low DC-DC Converter (with ISG)"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "Cluster, Rear Combination Lamp LH, License/Rear Bumper Lamp, Projection Lamp LH, Head Lamp LH"
+    ],
+    [
+     "F38",
+     "Fuse MINI",
+     "10A",
+     "Rear Combination Lamp LH, License Lamp, Ill.(+), Rear Bumper Lamp, Projection Lamp LH, Head Lamp LH"
+    ],
+    [
+     "F39",
+     "Fuse MINI",
+     "10A",
+     "Ignition Lock Switch, ECM/PCM, PCB Box (Start Relay)"
+    ],
+    [
+     "F40",
+     "Fuse MINI",
+     "10A",
+     "Instrument Cluster, Head Lamp RH"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "25A",
+     "Rear Power Window Switch LH, Power Window Main Switch, Driver Safety Module, Passenger Window Switch"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "25A",
+     "Rear Power Window Switch RH, Power Window Main Switch, Passenger Window Switch"
+    ],
+    [
+     "F43",
+     "Fuse MINI",
+     "10A",
+     "Power Outside Mirrors, ECM/PCM, A/C Control Module"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "A/C Control Module"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "10A",
+     "ECM/PCM, Blower Switch, Blower Resistor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse panel (General head light type)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-picanto-2018-genid-g2-1.webp",
+   "fuses": [
+    [
+     "MF1",
+     "Multi fuse block MUSB",
+     "",
+     "EPS Control Module"
+    ],
+    [
+     "MF2",
+     "Multi fuse block MUSB",
+     "",
+     "Alternator, PCB Fuse & Relay Box"
+    ],
+    [
+     "F1",
+     "Fuse FMX/JCase",
+     "50A",
+     "I/P Junction Box (Power Connector fuses F1/F2, fuses F24-F27, Tail Lamp Relay)"
+    ],
+    [
+     "F2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Projection Type E/R Sub Fuse Box (fuses F1, F2, F4, F5, F7)"
+    ],
+    [
+     "F3",
+     "Fuse FMX/JCase",
+     "50A",
+     "I/P Junction Box (fuses F8, F9, F10, F16, F17, F18, F19, F35; Power Window Relay)"
+    ],
+    [
+     "F4",
+     "Fuse FMX/JCase",
+     "40A",
+     "E/R Junction Box (fuse F11), Ignition Switch, PDM Relay Box (ESCL Relay)"
+    ],
+    [
+     "F5",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS Control Relay, ESC Control Relay"
+    ],
+    [
+     "F6",
+     "Fuse FMX/JCase",
+     "30A",
+     "ABS Control Relay, ESC Control Relay"
+    ],
+    [
+     "F7",
+     "Fuse FMX/JCase",
+     "40A",
+     "Rear Defogger Relay"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "Instrument Cluster, Head Lamp RH, PCB Box (Head Lamp HI Relay)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "15A",
+     "PCB Box (Fuel Pump #2 Relay)"
+    ],
+    [
+     "F10",
+     "Fuse FMX/JCase",
+     "40A",
+     "PCB Box (Start Relay), Ignition Switch, PDM Relay Box (ESCL Relay)"
+    ],
+    [
+     "F11",
+     "Fuse FMX/JCase",
+     "30A",
+     "PCB Box (Engine Control Relay, fuse F23)"
+    ],
+    [
+     "F12",
+     "Fuse FMX/JCase",
+     "40A",
+     "PCB Box (Blower Relay)"
+    ],
+    [
+     "F13",
+     "Fuse FMX/JCase",
+     "40A",
+     "PCB Box (Cooling Fan Relay)"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "15A",
+     "PCB Box (Fuel Pump #1 Relay)"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "20A",
+     "PCB Box (Head Lamp HI Relay)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "20A",
+     "PCB Box (Head Lamp LO Relay)"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "PCB Box (Horn Relay, Burglar Alarm Horn Relay)"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "10A",
+     "PCB Box (A/C Relay)"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "PCM (B3LA)"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "TCM (F3LA/F4LA), PCM (B3LA)"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "Transaxle Range Switch, TCM/PCM, ESC Module, Rear Bumper Lamp, Cluster, BCM, Back-Up Lamps, Back-Up Lamp Switch"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "ECM/PCM, Front Wiper Motor, Multifunction Switch"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "15A",
+     "TCM/PCM, Injectors #1-#3, #4 (G4LA), Jumper Wire 1, Crash Pad Switch (B4LA), Fuel Pump #2 Relay (B3LA)"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Head Lamp RH"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "Head Lamp LH"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "TCM/ECM, Camshaft Position Sensors, Oxygen Sensors, Canister Purge Solenoid Valve, Oil Control Valves, PCB Box (A/C, Cooling Fan, Start Relays), Variable Intake Solenoid Valve (B3LA)"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "20A",
+     "Ignition Coil, Condenser"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment fuse panel (Projection head light type)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-picanto-2018-genid-g2-2.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "PCB Box (A/C Relay)"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "20A",
+     "PCB Box (Head Lamp LO Relay)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "PCB Box (Fuel Pump #1 Relay)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "10A",
+     "PCB Box (Horn Relay, Burglar Alarm Horn Relay)"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "B3LA: PCB Box (Fuel Pump #2 Relay)"
+    ],
+    [
+     "F8",
+     "Fuse MINI",
+     "10A",
+     "PCB Box (Head Lamp HI Relay)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "20A",
+     "Ignition Coil, Condenser"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "15A",
+     "PCB Box (Engine Control Relay, Fuel Pump #1/#2 Relays (F3LA)), Injectors #1-#3 (B3LA), PCM"
+    ],
+    [
+     "F11",
+     "Fuse MINI",
+     "10A",
+     "B3LA: PCM, PCB Box (Engine Control Relay)"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "10A",
+     "TCM, Transaxle Range Switch, Rear Bumper Lamp, Cluster, BCM, Back-Up Lamps, Back-Up Lamp Switch"
+    ],
+    [
+     "F13",
+     "Fuse MINI",
+     "10A",
+     "ECM, Front Wiper Motor, Multifunction Switch"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "10A",
+     "Projection Lamp LH"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "ECM/TCM/PCM, PCB Box (Engine Control Relay)"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Projection Lamp RH"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "PCB Box (Engine Control, A/C, Cooling Fan, Start Relays), ECM/PCM, Canister Purge Control Valve, Oil Control Valves, Camshaft Position Sensors, Variable Intake Solenoid Valve (B3LA)"
+    ]
+   ]
+  }
+ ]
+}
