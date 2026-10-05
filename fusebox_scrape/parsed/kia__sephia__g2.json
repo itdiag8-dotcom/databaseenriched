@@ -1,0 +1,384 @@
+{
+ "make_slug": "kia",
+ "model_slug": "sephia",
+ "brand_db": "Kia",
+ "model_db_name": "Sephia",
+ "model_id": 2472,
+ "generation_name": "Sephia II S-II",
+ "generation_code": "g2",
+ "year_start": 1997,
+ "year_end": 2003,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/kia/sephia/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine fuses",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sephia-2001-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "20A",
+     "(IGN 1) Ignition switch (IG1 ACC)"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "(ABS) Anti-lock brake system"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "(TNS) Tail/number plate illumination relay"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN 2) Ignition switch (IG2 SD)"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "30A",
+     "(STARTER) Starter"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(COOLING) Cooling fan"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "(CON/FAN) Condenser fan"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(STARTER) Starter ECU FCAT, cruise control"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "(BLOWER) Blower relay"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "(SR/ACC) Swirl variable intake, air quality sensor, DRL, cruise control"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(HLLD) Headlight leveling device"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Hazard warning switch"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "25A",
+     "(D/LOCK) Door lock, power window"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "(ABS) Anti-lock brake system"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(S/ROOF) Sunroof"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "25A",
+     "(P/WIN RH) Power window right"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "25A",
+     "(P/WIN) Power window left"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "(RR WIPER) Rear wiper and washer"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "(ROOM) Cabin lamp, ETWIS, audio, clock"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "(HEAD) Headlight generator"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "(IG COIL) ECU, ignition coil, data link connector, check connector"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(OX SEN D) Oxygen sensor (down)"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "(OX SEN U) Oxygen sensor (up)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(FUEL PUMP) Fuel pump"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(INJECTOR) Injector"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "(A/CON) A/C relay (magnetic clutch)"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "(HTD MIR) Heated outside mirrors"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "30A",
+     "(BTN) Brake ECU battery positive fuse"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(RR FOG) Rear fog lamp"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "(FRT FOG) Front fog lamp"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "(TAIL RH) ECU, position/tail lamp right, license plate light"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "(TAIL LH) Position/tail lamp left, illumination lamp"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "(HEAD LOW) Low beam headlight"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "20A",
+     "(HEAD HI) High beam headlight"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "(HORN) Horn"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "30A",
+     "(DEFOG) Rear defroster"
+    ],
+    [
+     "50",
+     "Relay",
+     "",
+     "(HEAD) Headlight relay"
+    ],
+    [
+     "52",
+     "Relay",
+     "",
+     "(FUEL PUMP) Fuel pump relay"
+    ],
+    [
+     "53",
+     "Relay",
+     "",
+     "(EGI MAIN) EGI main relay"
+    ],
+    [
+     "54",
+     "Relay",
+     "",
+     "(A/CON) Air conditioner relay"
+    ],
+    [
+     "55",
+     "Relay",
+     "",
+     "(HORN) Horn relay"
+    ],
+    [
+     "56",
+     "Relay",
+     "",
+     "(TNS) Tail/number plate illumination relay"
+    ],
+    [
+     "60",
+     "Relay",
+     "",
+     "(P/WIN) Power window relay"
+    ],
+    [
+     "61",
+     "Relay",
+     "",
+     "(BLOWER) Blower relay"
+    ],
+    [
+     "62",
+     "Relay",
+     "",
+     "(STARTER) Starter relay"
+    ],
+    [
+     "63",
+     "Relay",
+     "",
+     "(COOLING) Cooling fan relay"
+    ],
+    [
+     "64",
+     "Relay",
+     "",
+     "(CON/FAN) Condenser fan relay"
+    ],
+    [
+     "65",
+     "Relay",
+     "",
+     "(DEFOG) Rear defroster relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Passenger compartment",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sephia-2001-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(TURN SIGNAL) Hazard light switch"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(METER) Instrument cluster, reverse light switch, transaxle range switch, ETCM"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(ECM(IG1)) Transaxle control module, shift lock actuator"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "(ABS) ABS control unit"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(ROOM) Interior lights, digital clock, ignition key switch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "(ECM(B+)) Transaxle control module, ETCM, radio, shift lock actuator"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Rear brake light assemblies"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "(AIR BAG) Airbag diagnostic unit"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "(AUDIO) Radio, remote control mirror"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "(CIGAR) Cigarette lighter"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "(FRT WIPER) Front wiper (from year 2000)"
+    ]
+   ]
+  }
+ ]
+}

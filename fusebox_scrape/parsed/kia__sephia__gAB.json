@@ -1,0 +1,420 @@
+{
+ "make_slug": "kia",
+ "model_slug": "sephia",
+ "brand_db": "Kia",
+ "model_db_name": "Sephia",
+ "model_id": 2472,
+ "generation_name": "1st generation AB (Soluto-based)",
+ "generation_code": "gAB",
+ "year_start": 2017,
+ "year_end": 2026,
+ "trim_label": "Taxi",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/kia/sephia/info/fusebox/2023/trims-taxi",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine fuse box (gasoline)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sephia-2023-genid-kia__soluto_g1-trims-taxi-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Multi fuse block MUSB",
+     "",
+     "(BATT1) IP junction box (audio, cabin light, tail light relay, AMS, front/rear fog light fuses)"
+    ],
+    [
+     "3",
+     "Multi fuse block MUSB",
+     "",
+     "(ECU1) Main relay"
+    ],
+    [
+     "5",
+     "Multi fuse block MUSB",
+     "",
+     "(ABS1) ABS/ESC control module"
+    ],
+    [
+     "6",
+     "Multi fuse block MUSB",
+     "",
+     "(ABS2) ABS/ESC control module"
+    ],
+    [
+     "7",
+     "Multi fuse block MUSB",
+     "",
+     "(REAR HEATER) IP junction box (rear defroster relay)"
+    ],
+    [
+     "8",
+     "Multi fuse block MUSB",
+     "",
+     "(BLOWER) Blower relay"
+    ],
+    [
+     "9",
+     "Multi fuse block MUSB",
+     "",
+     "(MDPS1) Motor-driven power steering unit"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IGN1) Ignition switch, start relay"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "30A",
+     "(IGN2) Ignition switch"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "40A",
+     "(COOLING/FAN) Cooling fan relay"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "50A",
+     "(BATT2) IP junction box (brake light, hazard, immobilizer, sunroof, door lock, power window relay)"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "(ECU3) PCM/ECM"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "(FUEL PUMP) Fuel pump relay"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "(RH LOW BEAM) Headlight RH"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "10A",
+     "(LH LOW BEAM) Headlight LH"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "15A",
+     "(ECU2) PCM/ECM, A/C relay, cooling fan relay, oil control valves, purge valve, oxygen sensors"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "15A",
+     "(INJECTOR) PCM/ECM, injectors #1-#4, fuel pump relay"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "(TCU 1) PCM"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "(HORN) Horn relay"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "(A/C) Air conditioning relay"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "7.5A",
+     "(BACK-UP LIGHT) [AT] Rear combination light RH (outer), navigation/audio head unit"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "15A",
+     "(IGNITION COIL) Condenser, ignition coils #1-#4"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "10A",
+     "(WIPER) Windshield wiper motor, multifunction switch"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "High beam lights relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Low beam lights relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Air conditioning relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Radiator fan relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Main relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Climate control blower relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Driver's side fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sephia-2023-genid-kia__soluto_g1-trims-taxi-1.webp",
+   "fuses": [
+    [
+     "F2",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light relay"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "15A",
+     "Hazard switch, hazard relay (with BCM)"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "20A",
+     "Driver's door lock actuator / door lock-unlock relay (with BCM)"
+    ],
+    [
+     "F6",
+     "Fuse MINI",
+     "15A",
+     "Front fog light relay"
+    ],
+    [
+     "F7",
+     "Fuse MINI",
+     "15A",
+     "Electronic brake signal module, brake light switch"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "25A",
+     "Power window main switch, rear power window switch LH"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Front power outlet"
+    ],
+    [
+     "F12",
+     "Fuse MINI",
+     "15A",
+     "Sunroof motor"
+    ],
+    [
+     "F14",
+     "Fuse MINI",
+     "25A",
+     "Power window main switch, rear power window switch RH"
+    ],
+    [
+     "F15",
+     "Fuse MINI",
+     "10A",
+     "Power mirror switch, BCM, audio, navigation head unit"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "10A",
+     "Battery sensor"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "10A",
+     "Immobilizer module"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "10A",
+     "A/C control module, PCM/ECM"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "F21",
+     "Fuse MINI",
+     "10A",
+     "MDPS unit"
+    ],
+    [
+     "F22",
+     "Fuse MINI",
+     "10A",
+     "SRS control module"
+    ],
+    [
+     "F23",
+     "Fuse MINI",
+     "10A",
+     "Brake light switch, BCM, navigation head unit"
+    ],
+    [
+     "F24",
+     "Fuse MINI",
+     "10A",
+     "Hazard switch"
+    ],
+    [
+     "F25",
+     "Fuse MINI",
+     "10A",
+     "ABS/ESC control module"
+    ],
+    [
+     "F26",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster"
+    ],
+    [
+     "F27",
+     "Fuse MINI",
+     "10A",
+     "[MT] Reverse light switch"
+    ],
+    [
+     "F28",
+     "Fuse MINI",
+     "10A",
+     "Output/input speed sensors, inhibitor switch"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "7.5A",
+     "Rear combination light LH (outer), license plate lamps, headlight LH"
+    ],
+    [
+     "F29",
+     "Fuse MINI",
+     "10A",
+     "Rear combination light LH (outer), license plate lamps, headlight LH"
+    ],
+    [
+     "F31",
+     "Fuse MINI",
+     "10A",
+     "Immobilizer module, PCM/ECM"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "7.5A",
+     "Rear combination light RH (outer), headlight RH, A/C module, cluster, clock spring, hazard/crash pad switches, audio, shift illumination, AUX/USB, headlight leveling switch"
+    ],
+    [
+     "F33",
+     "Fuse MINI",
+     "10A",
+     "Rear combination light RH (outer), headlight RH, A/C module, cluster, clock spring, hazard/crash pad switches, audio, shift illumination, AUX/USB, headlight leveling switch"
+    ],
+    [
+     "F36",
+     "Fuse MINI",
+     "10A",
+     "BCM, A/C module, headlight leveling switch, sunroof motor, headlights, blower relay, power window relay"
+    ],
+    [
+     "F37",
+     "Fuse MINI",
+     "10A",
+     "[AT] Inhibitor switch / [MT] ignition lock switch"
+    ],
+    [
+     "F41",
+     "Fuse MINI",
+     "20A",
+     "Front wiper motor, multifunction switch"
+    ],
+    [
+     "F42",
+     "Fuse MINI",
+     "10A",
+     "Instrument cluster, engine junction block (headlight high/low relays)"
+    ],
+    [
+     "F44",
+     "Fuse MINI",
+     "10A",
+     "BCM, front cabin light, trunk light, cluster, data link connector"
+    ],
+    [
+     "F45",
+     "Fuse MINI",
+     "20A",
+     "Audio, navigation head unit"
+    ]
+   ]
+  }
+ ]
+}
