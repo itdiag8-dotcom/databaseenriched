@@ -1,0 +1,380 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "es-300",
+ "brand_db": "Lexus",
+ "model_db_name": "ES",
+ "model_id": 2583,
+ "generation_name": "Generation XV20 (ES 300)",
+ "generation_code": "g3",
+ "year_start": 1996,
+ "year_end": 2001,
+ "trim_label": "",
+ "representative_year": 2001,
+ "source_url": "https://www.startmycar.com/lexus/es-300/info/fusebox/2001",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-es-300-2001-genid-g3-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "25A",
+     "(A/F HTR) Air fuel ratio sensor"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "(A/C) No circuit"
+    ],
+    [
+     "7",
+     "Fuse FMX/JCase",
+     "30A",
+     "(CDS) Air conditioning system"
+    ],
+    [
+     "8",
+     "Fuse FMX/JCase",
+     "30A",
+     "(RDI) Electric cooling fan system"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "5A",
+     "(ALT-S) Charging system"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "(HEAD RH UPR) Right headlight high beam"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "(EFI) Multiport fuel injection"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "(HORN) Horn, theft deterrent system"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "15A",
+     "(HAZARD) Emergency flashers, turn signal lights"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "(AM2) Starting system"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "(TEL) Telephone"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "20A",
+     "(HEAD LH UPR) Left headlight high beam"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "(RADIO NO.1) Audio system"
+    ],
+    [
+     "19",
+     "Fuse FMX/JCase",
+     "40A",
+     "(MAIN) Headlight, starting system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "(DOME) Interior lights, clock, theft deterrent, wireless remote"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(ECU-B) Air conditioning, power seat system"
+    ],
+    [
+     "22",
+     "Fuse FLF/PAL 293",
+     "100A",
+     "(ALT) Charging system"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "(HTR) Air conditioning system, seat heater"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "(T-STK) No circuit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "HTR relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "FAN No.3 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "FAN No.2 relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "CIR OPN relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "MG CLT relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "MAIN relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "EFI relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "HEAD relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "ST relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "HORN relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "FAN No.1 relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Interior Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-es-300-2001-genid-g3-1.webp",
+   "fuses": [
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "(SEAT-HEATER) Seat heater system"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "(HEATER) Air conditioning system"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "(GAUGE) Gauges and meters, warning buzzers, back-up light"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "25A",
+     "(WIPER) Windshield wipers and washer"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "(MIRROR-HEATER) Outside mirror defogger"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "(ECU-IG) Cruise control, ABS, shift lock, theft deterrent"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "5A",
+     "(IGN) SRS, multiport fuel injection"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "(STOP) Stop lights, cruise control, ABS, shift lock"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "(TAIL) Tail, side marker, license plate lights"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "(POWER-OUTLET) Power outlet"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "(OBD) On-board diagnosis system"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "(FOG) Fog lights"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "(STARTER) Starting system"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "25A",
+     "(DOOR) Door locks, courtesy lights, trunk/fuel openers"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "(PANEL) Instrument panel lights, glove box light"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "(TURN) Emergency flashers, turn signal lights"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "(RAD NO.2) Audio system"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "(CIG) Cigarette lighter, clock, SRS"
+    ],
+    [
+     "42",
+     "Fuse FMX/JCase",
+     "40A",
+     "(DEF) Rear window defogger, mirror defogger"
+    ],
+    [
+     "43",
+     "Fuse FLF/PAL 293",
+     "30A",
+     "(PWR) Power windows, moon roof, power seats"
+    ],
+    [
+     "44",
+     "Fuse FLF/PAL 293",
+     "40A",
+     "(AM1) No circuit"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment Additional Box 1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-es-300-2001-genid-g3-2.webp",
+   "fuses": [
+    [
+     "47",
+     "Fuse FMX/JCase",
+     "60A",
+     "(ABS) Anti-lock brake system"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Engine Compartment Additional Box 2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-es-300-2001-genid-g3-3.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "(INJ) No circuit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "(DRL NO.2) Daytime running light system"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "15A/10A",
+     "(H-LP LH LWR) Left headlight low beam [15A discharge / 10A standard]"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A/10A",
+     "(H-LP RH LWR) Right headlight low beam [15A discharge / 10A standard]"
+    ]
+   ]
+  }
+ ]
+}

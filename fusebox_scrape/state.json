@@ -1307,7 +1307,16 @@
   "land-rover/range-rover": "done",
   "land-rover/range-rover-evoque": "done",
   "land-rover/range-rover-sport": "done",
-  "land-rover/range-rover-velar": "done"
+  "land-rover/range-rover-velar": "done",
+  "lexus/ct-200h": "done",
+  "lexus/es-350": "done",
+  "lexus/ct": "skipped_duplicate_of_ct-200h",
+  "lexus/ct-hybrid": "skipped_duplicate_of_ct-200h",
+  "lexus/es-330": "done",
+  "lexus/es-300h": "skipped_duplicate_of_es-350",
+  "lexus/es": "skipped_duplicate_of_es-350",
+  "lexus/es-300": "done",
+  "lexus/es-250": "skipped_pre2000"
  },
  "last_updated": "2026-10-05",
  "current_brand": "lexus",
