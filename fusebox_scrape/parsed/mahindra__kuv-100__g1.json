@@ -1,0 +1,675 @@
+{
+ "make_slug": "mahindra",
+ "model_slug": "kuv-100",
+ "brand_db": "Mahindra",
+ "model_db_name": "KUV100",
+ "model_id": 2667,
+ "generation_name": "1st generation",
+ "generation_code": "g1",
+ "year_start": 2016,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/mahindra/kuv-100/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box (petrol)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-kuv-100-2023-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine management system"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Supply to mini fuses"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "EPS"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "25A",
+     "ABS"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 1"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery 2"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "CPV/VVT"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "GNS / fan / AC compressor / fuel pump relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Lambda sensor"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Trip pressure switch / ESS"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Injectors"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Brake lamp"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Headlamp high beam"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "AC compressor"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Headlamp low beam"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "EMS B+"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Daytime running lights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "GNS relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Electric fan high relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Electric fan low relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "AC compressor relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "ECU main relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box (diesel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-kuv-100-2023-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "Engine management system"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "40A",
+     "Glow plug"
+    ],
+    [
+     "5",
+     "Fuse FMX/JCase",
+     "40A",
+     "Supply to mini fuses"
+    ],
+    [
+     "6",
+     "Fuse FMX/JCase",
+     "40A",
+     "Starter"
+    ],
+    [
+     "9",
+     "Fuse FMX/JCase",
+     "40A",
+     "EPS"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower"
+    ],
+    [
+     "12",
+     "Fuse FMX/JCase",
+     "25A",
+     "ABS"
+    ],
+    [
+     "13",
+     "Fuse FMX/JCase",
+     "60A",
+     "Battery 1"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "40A",
+     "Battery 2"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "ECU supply 1"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "GNS / fan / AC compressor / fuel pump relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "ECU supply 2"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "10A",
+     "Trip pressure switch / ESS"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "HFM sensor"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Brake lamp"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "EGR / boost / high pressure pump"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "15A",
+     "Headlamp high beam"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "AC compressor"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Headlamp low beam"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Daytime running lights"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "GNS relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Electric fan high relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Electric fan low relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "AC compressor relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlamp high relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "ECU main relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Headlamp low relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument panel fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-kuv-100-2023-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Parking lights"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Roof lamp"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Diagnostic"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Electrical tailgate"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "MBFM 2"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Audio / HVAC"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "15A",
+     "Power fold mirrors"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Front fog lamp"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "MBFM 1 / hazard"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "5A",
+     "Immobilizer"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "MBFM 3 / central door locking"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Cluster"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "Rear fog lamp"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Rear demister"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "5A",
+     "Crank"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Reverse switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Immobilizer / EMS"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "EPS"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Cluster / MBFM / hazard"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "5A",
+     "ABS"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "5A",
+     "Audio / power window eco / HVAC"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "15A",
+     "Front wiper"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "5A",
+     "Airbag"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "ORVM / blower / headlamp"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "30A",
+     "Front power windows"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Audio"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "30A",
+     "Rear power windows"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "MBFM"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Front power socket"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Rear wiper"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Rear power socket"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Accessory cut-off / clutch start relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Front fog lamp relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Rear demister relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Battery mounted fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-kuv-100-2023-3.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MIDI",
+     "80A",
+     "Bus bar fuse"
+    ],
+    [
+     "3",
+     "Fuse MIDI",
+     "60A",
+     "Cooling fan fuse"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Glow plug relay box (diesel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-mahindra-kuv-100-2023-4.webp",
+   "fuses": [
+    [
+     "R1",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ]
+   ]
+  }
+ ]
+}
