@@ -1,0 +1,481 @@
+{
+ "make_slug": "infiniti",
+ "model_slug": "qx50",
+ "brand_db": "Infiniti",
+ "model_db_name": "QX50",
+ "model_id": 2307,
+ "generation_name": "J55",
+ "generation_code": "g2",
+ "year_start": 2019,
+ "year_end": 2025,
+ "trim_label": "",
+ "representative_year": 2025,
+ "source_url": "https://www.startmycar.com/infiniti/qx50/info/fusebox/2025",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box No.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx50-2025-genid-g2-0.webp",
+   "fuses": [
+    [
+     "51",
+     "Fuse MINI",
+     "10A",
+     "Active grille shutter, ECM"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "15A",
+     "ECM, EVAP purge solenoid, coolant bypass valve solenoid, fuel heater/water-in-fuel sensor, high pressure fuel pump, condenser, ignition coils, valve timing solenoids, injector relay, MAF sensor, oxygen/air-fuel sensors, turbo wastegate/boost/bypass solenoids, fuel flow actuator, oil pressure solenoid"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "15A",
+     "MR engine: throttle control motor relay"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "10A",
+     "ECM, coolant bypass valve solenoid, valve timing solenoids, oil pressure solenoid, turbo bypass valve solenoid, intake manifold runner control valve"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "15A",
+     "ECM, heated oxygen sensor, thermostat heater solenoid, glow control unit, turbo boost solenoid, air-fuel ratio sensor, fuel flow actuator, intake manifold runner valve"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "15A",
+     "ECM, steering lock unit"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "15A",
+     "Air conditioner relay"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "10A",
+     "ECM, engine restart relay"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "30A",
+     "Front wiper Hi/Lo relay"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "10A",
+     "TCM, speed sensors, transmission range switch, IPDM E/R"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "5A",
+     "ECM, steering lock unit"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "10A",
+     "Airbags, ABS system"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "10A",
+     "Headlamp aiming motor, compressor, transmission range switch, front window defogger relays, reverse/neutral position switches, back-up lamp switch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box No.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx50-2025-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "20A",
+     "VDC/ESP stabilizer unit"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Side lights / DRL"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "High pressure fuel pump"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "20A",
+     "Electronic gear selector motor (circuit A)"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Electronic gear selector control"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "15A",
+     "Socket / cigarette lighter"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "30A",
+     "Towbar / trailer circuit"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "15A",
+     "Injectors 1st circuit"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Injectors 2nd circuit"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "Accelerator pedal (sensor)"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "CVT control"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "Alarm siren (anti-theft horn)"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "15A",
+     "Horn"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "20A",
+     "Gear selector motor (circuit B)"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "15A",
+     "Heated wiper zone (wiper deicer)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-infiniti-qx50-2025-genid-g2-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "Battery electrical parts"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "Heated steering wheel"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "5A",
+     "All wheel drive"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "20A",
+     "Rear right power window"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "30A",
+     "Power tailgate"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "Turn signals and hazard lights"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "Interior light"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "15A",
+     "Rear door locks"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "20A",
+     "Front door locks"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "20A",
+     "Rear left power window"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "30A",
+     "Electric handbrake right circuit"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "20A",
+     "Front right power window"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "5A",
+     "Electronic gear selector (circuit 1)"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "30A",
+     "Electric handbrake left circuit"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "5A",
+     "Body control module"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "20A",
+     "Front left power window"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "Heated driver's seat"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Traction control/stability control"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "30A",
+     "Blower motor"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "15A",
+     "Heated passenger seat"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "Washer pump"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "10A",
+     "ADAS cameras/radar, assistants"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "USB charger"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Cigarette lighter (power socket)"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "10A",
+     "Heated mirrors"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "30A",
+     "Heated rear window"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "Electrical system via ACC"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "5A",
+     "Head-up display"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "20A",
+     "Bose amplifier (mini)"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "15A",
+     "Bose amplifier (channel 1)"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "15A",
+     "Bose amplifier (channel 2)"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "Audio system"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "15A",
+     "Audio system"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "5A",
+     "Electrical system (auxiliary circuit from battery)"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "5A",
+     "Electrical system after ignition"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "5A",
+     "Electronic shift selector (circuit 2)"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "10A",
+     "Engine/ignition circuits"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "5A",
+     "Electronic shift selector"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "10A",
+     "Airbags"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "5A",
+     "Instrument cluster (IGN)"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "10A",
+     "Brake lights"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "10A",
+     "Instrument cluster (BAT)"
+    ],
+    [
+     "53",
+     "Fuse MICRO2",
+     "5A",
+     "Body control module"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "5A",
+     "Stability control (VDC/ESP)"
+    ]
+   ]
+  }
+ ]
+}
