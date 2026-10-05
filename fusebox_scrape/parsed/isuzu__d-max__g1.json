@@ -1,0 +1,637 @@
+{
+ "make_slug": "isuzu",
+ "model_slug": "d-max",
+ "brand_db": "Isuzu",
+ "model_db_name": "D-Max",
+ "model_id": 2325,
+ "generation_name": "1st generation (RA/RC)",
+ "generation_code": "g1",
+ "year_start": 2003,
+ "year_end": 2012,
+ "trim_label": "",
+ "representative_year": 2012,
+ "source_url": "https://www.startmycar.com/isuzu/d-max/info/fusebox/2012/1st-gen",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-d-max-2012-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Starter"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Rear fog light"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "15A",
+     "Stop light"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Anti-theft"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Room light"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Meter (+B)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "Door lock"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "Audio (+B)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Cigar & accessory socket"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "Audio"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "SRS (airbag)"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "Front wiper"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "ABS/4WD"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "ECU [HFV6]"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Engine [Diesel]"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Elec. IG"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Turn light"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "Back light"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "Engine [HFV6]"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "TCM [Diesel]"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Trailer"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Meter"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power window"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear defogger"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment (HFV6 engine)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-d-max-2012-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "ECM"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "O2 sensor pre"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ECM (B)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "TCM/PIM (B)"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Headlight high (RH)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Headlight high (LH)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Headlight low (RH)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Headlight low (LH)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Trailer"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Tail light (RH)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Illumination & tail light (LH)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "A/C"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "4WD"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Hazard"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "O2 sensor post"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil (RH)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "Ignition coil (LH)"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front fog light"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "60A",
+     "Radiator fan"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "20A",
+     "Fuel pump"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG-1"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS-1"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS-2"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "60A",
+     "IG-2"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fog light"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Tail light"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlight dimmer"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlight"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Heater"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "ECM main"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "A/C compressor"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "Starter"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment (Diesel)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-isuzu-d-max-2012-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "ACG (S)"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(ECM B) Engine control unit"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Engine control system"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Headlight high (RH)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "Headlight high (LH)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "Headlight low (RH)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Headlight low (LH)"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Trailer"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "A/C condenser fan"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "Tail light (RH)"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "Illumination & tail light (LH)"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "A/C"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "10A",
+     "4WD"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Horn"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Hazard"
+    ],
+    [
+     "20",
+     "Fuse FLD/PAL 283",
+     "120A",
+     "Main fuse"
+    ],
+    [
+     "21",
+     "Fuse FMX/JCase",
+     "40A",
+     "ABS-1"
+    ],
+    [
+     "22",
+     "Fuse FMX/JCase",
+     "20A",
+     "ABS-2"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "40A",
+     "ECM"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "40A",
+     "IG-1"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "30A",
+     "Blower"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "20A",
+     "Front fog light"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "60A",
+     "Glow plug heater"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "60A",
+     "IG-2"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fog light"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Tail light"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Headlight dimmer"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Glow plug heater"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Headlight"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Starter cut"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Starter"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "A/C condenser fan"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Transmission"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Heater"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "ECM main"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Fuel pump"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "A/C compressor"
+    ],
+    [
+     "R15",
+     "Relay",
+     "",
+     "A/C thermo"
+    ]
+   ]
+  }
+ ]
+}
