@@ -1,0 +1,1077 @@
+{
+ "make_slug": "lexus",
+ "model_slug": "lx",
+ "brand_db": "Lexus",
+ "model_db_name": "Lx",
+ "model_id": 2594,
+ "generation_name": "4th generation J310 (LX 600)",
+ "generation_code": "g4",
+ "year_start": 2022,
+ "year_end": 2024,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/lexus/lx/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Engine Compartment Fuse Box No.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lx-2024-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "S/HTR FL - front seat heater/climate seat"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "S/HTR FR - front seat heater/climate seat"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.2 - A/C, shift lock"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGP NO.3 - A/C, engine control, driver-assist"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "ENG-IGR NO.1 - cooling fan, transmission, engine control"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "ENG-IGP NO.2 - headlights, radar cruise, deicer"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "ENG-IGP NO.3 - lighting, wipers, stop light, towing"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "AVS-IGR - adaptive variable suspension"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "4WD-IGR - AWD"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "S-HORN - theft deterrent"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "HORN - horn, theft deterrent"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "D/C CUT - power source"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "30A",
+     "AMP NO.2 - audio, navigation, rear entertainment"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "AMP NO.1 - audio, navigation, rear entertainment"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "DCM - Lexus Enform"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "15A",
+     "RADIO - audio, navigation, monitors"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "WIPER - front and rear wiper/washer"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "RSE DISP - rear seat entertainment display"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "BATT-S NO.1 - charging"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "10A",
+     "BATT-S NO.2 - charging"
+    ],
+    [
+     "25",
+     "Other",
+     "",
+     "PDB-ALT NO.2 - interior light"
+    ],
+    [
+     "26",
+     "Other",
+     "",
+     "ALT - charging"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "30A",
+     "TOWING - trailer towing"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "30A",
+     "IGR NO.2 - power source"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "50A",
+     "PA-BBC - stop & start system"
+    ],
+    [
+     "36",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "ENG P/I-B - lighting, wipers, stop light, towing"
+    ],
+    [
+     "37",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "EPS NO.1 - electric power steering"
+    ],
+    [
+     "38",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "PDB-B - power source"
+    ],
+    [
+     "39",
+     "Fuse FLF/PAL 293",
+     "80A",
+     "EPS NO.2 - electric power steering"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "STRG HTR - heated steering wheel"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "7.5A",
+     "TOW BK/UP - trailer towing"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "30A",
+     "RFS RH - rear power seat"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "30A",
+     "RFS LH - rear power seats"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "15A",
+     "AC INV - power outlet (voltage inverter)"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "15A",
+     "DEICER - windshield deicer"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "ALT CDS - charging"
+    ],
+    [
+     "52",
+     "Fuse FMX/JCase",
+     "30A",
+     "TOW BRK - trailer brakes"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "7.5A",
+     "METER - combination meter and many systems"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "30A",
+     "CDS FAN - A/C condenser fan"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "30A",
+     "TOW TAIL - trailer lights"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "30A",
+     "SUB BATT - trailer towing"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "50A",
+     "HWD NO.1 - power source"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "50A",
+     "HWD NO.2 - power source"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "50A",
+     "PTC NO.1 - air conditioning"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "50A",
+     "PTC NO.2 - air conditioning"
+    ],
+    [
+     "64",
+     "Fuse MINI",
+     "50A",
+     "PTC NO.3 - air conditioning"
+    ],
+    [
+     "65",
+     "Other",
+     "",
+     "PDB-ALT NO.1 - taillights, defogger, mirror heater, towing"
+    ],
+    [
+     "66",
+     "Other",
+     "",
+     "AHC - active height control suspension"
+    ],
+    [
+     "67",
+     "Other",
+     "",
+     "RR R/B-ALT - rear seat heater/climate seat"
+    ],
+    [
+     "69",
+     "Other",
+     "",
+     "A/C R - air conditioning"
+    ],
+    [
+     "70",
+     "Other",
+     "",
+     "H-LP CLN - headlight cleaner"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "20A",
+     "WASHER - front and rear washer"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "IGP NO.1 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "IGR NO.3 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PTC NO.1 relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "PTC NO.2 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "PTC NO.3 relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "WSH NZL HTR relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "CDS FAN relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "AC INV relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "IGR NO.4 relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "TOW BK/UP relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "ACC NO.2 relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "H-LP CLN relay"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "DEICER relay"
+    ],
+    [
+     "R16",
+     "Relay",
+     "",
+     "TOW TAIL relay"
+    ],
+    [
+     "R17",
+     "Relay",
+     "",
+     "HORN relay"
+    ],
+    [
+     "R19",
+     "Relay",
+     "",
+     "SUB BATT relay"
+    ],
+    [
+     "R20",
+     "Relay",
+     "",
+     "TOW STOP LP relay"
+    ],
+    [
+     "R21",
+     "Relay",
+     "",
+     "WIPER relay"
+    ],
+    [
+     "R22",
+     "Relay",
+     "",
+     "AHC relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box No.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lx-2024-1.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "20A",
+     "EDU NO.4 - cooling fan, transmission, engine control"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "EDU NO.3 - cooling fan, transmission, engine control"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "EDU NO.2 - cooling fan, transmission, engine control"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "EDU NO.1 - cooling fan, transmission, engine control"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "EFI NO.2 - cooling fan, transmission, engine control"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "7.5A",
+     "A/C NO.1 - A/C, seat heaters"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "ENG-IGP NO.2 - ABS, A/C, engine control, VDIM"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "ENG-IGP NO.1 - cooling fan, transmission, engine control"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "INJ - cooling fan, transmission, engine control"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "IGN - ignition"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "ABS MAIN NO.2 - ABS, parking brake, VDIM"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "ABS MAIN NO.1 - ABS, parking brake, VDIM"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "IGT/INJ - cooling fan, transmission, engine control"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "50A",
+     "ABS NO.2 - ABS, parking brake, VDIM"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "25A",
+     "EFI MAIN NO.3 - cooling fan, transmission, engine control"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "ETCS - cooling fan, transmission, engine control"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "4WD-B - AWD"
+    ],
+    [
+     "41",
+     "Multi fuse block MUSB",
+     "",
+     "EDU - cooling fan, transmission, engine control"
+    ],
+    [
+     "42",
+     "Multi fuse block MUSB",
+     "",
+     "ABS MTR NO.1 - ABS, VDIM"
+    ],
+    [
+     "43",
+     "Multi fuse block MUSB",
+     "",
+     "ABS NO.1 - ABS, VDIM"
+    ],
+    [
+     "44",
+     "Multi fuse block MUSB",
+     "",
+     "EFI MAIN NO.1 - cooling fan, transmission, engine control"
+    ],
+    [
+     "45",
+     "Multi fuse block MUSB",
+     "",
+     "BBC NO.2 - stop & start system"
+    ],
+    [
+     "46",
+     "Multi fuse block MUSB",
+     "",
+     "BBC NO.1 - stop & start system"
+    ],
+    [
+     "47",
+     "Multi fuse block MUSB",
+     "",
+     "EFI MAIN NO.2 - cooling fan, transmission, engine control"
+    ],
+    [
+     "48",
+     "Multi fuse block MUSB",
+     "",
+     "ST NO.2 - starting, immobiliser, smart access"
+    ],
+    [
+     "49",
+     "Multi fuse block MUSB",
+     "",
+     "ST NO.1 - starting, immobiliser, smart access"
+    ],
+    [
+     "50",
+     "Multi fuse block MUSB",
+     "",
+     "A/F - cooling fan, transmission, engine control"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "15A",
+     "ECT-B - cooling fan, transmission, engine control"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "10A",
+     "EFI-B NO.4 - cooling fan, transmission, engine control"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "20A",
+     "EFI-B NO.3 - cooling fan, transmission, engine control"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "20A",
+     "EFI-B NO.2 - cooling fan, transmission, engine control"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "20A",
+     "EFI-B NO.1 - cooling fan, transmission, engine control"
+    ],
+    [
+     "56",
+     "Fuse MINI",
+     "7.5A",
+     "EFI NO.1 - stop & start system"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "7.5A",
+     "GRILLE SHUTT - grille shutter"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "15A",
+     "EFI NO.4 - cooling fan, transmission, engine control"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "10A",
+     "EFI NO.3 - cooling fan, transmission, engine control"
+    ],
+    [
+     "61",
+     "Fuse MINI",
+     "10A",
+     "A/F NO.2 - cooling fan, transmission, engine control"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "10A",
+     "A/F NO.1 - cooling fan, transmission, engine control"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "ECU relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "EFI MAIN NO.1 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "EGT/INJ relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "IGP NO.2 relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "ST NO.2 relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "EFI MAIN NO.3 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "ST NO.1 relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "EFI MAIN NO.2 relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "A/F relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Instrument Panel Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lx-2024-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "WIPER RR - rear wiper/washer"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "EPS-IGR - electric power steering"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.1 - driver-assist, seats, back door"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.4 - door locks, smart access, steering lock"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "7.5A",
+     "BKUP LP - back-up light, parking assist, monitors"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.2 - body, A/C, audio, driver-assist (many circuits)"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "A/B-IGR - SRS"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "5A",
+     "METER-IGR - combination meter and many systems"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.3 - ABS, lighting, wipers, driver-assist"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.2 - immobiliser, smart access, back door, TPMS"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "STOP - stop lights, ABS, engine control, towing"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-B NO.1 - immobiliser, smart access, steering lock"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "30A",
+     "TI&TE - power tilt/telescopic"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "ECU-B NO.4 - lighting, wipers, driver-assist"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "STRG LOCK - steering lock, smart access"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "HAZ - hazard lights, meter, smart access"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "DOOR R/R - rear right door, window"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "OBD - data link connector"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.3 - A/C, audio, seats, mirrors, wireless charging"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "30A",
+     "DOOR F/R - front right door, window, mirror, defogger"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "30A",
+     "DOOR R/L - rear left door, window"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "DOOR F/L - front left door, window, mirror, defogger"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "DOME CUT - interior light"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "ECU-DCC NO.1 - meters, seats, monitors, defogger"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "ECU-DCC NO.2 - lighting, seats, back door, smart access"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "10A",
+     "RADIO-DCC - active noise control"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "30A",
+     "D/L - door locks, smart access"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "7.5A",
+     "USB NO.1 - power outlet"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "ECU-ACC - audio, navigation, monitors, wireless charging"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "SFT LOCK-ACC - power source"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "10A",
+     "DOOR BACK - power source"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "USB NO.4 - power outlet"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "DOME - interior light"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "P/OUTLET NO.1 - power outlet"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "10A",
+     "ECU-IGR NO.5 - stop & start system"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "7.5A",
+     "SMART - smart access, immobiliser, steering lock"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Instrument Panel Fuse Box Side View",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lx-2024-3.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMX/JCase",
+     "30A",
+     "P/SEAT F/R - front passenger power seat"
+    ],
+    [
+     "2",
+     "Fuse FMX/JCase",
+     "30A",
+     "P/SEAT F/L - driver power seat"
+    ],
+    [
+     "3",
+     "Fuse FMX/JCase",
+     "30A",
+     "S/ROOF - sliding roof"
+    ],
+    [
+     "4",
+     "Fuse FMX/JCase",
+     "50A",
+     "HTR - air conditioning"
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "name": "Luggage Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lexus-lx-2024-4.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "S/HTR RR - rear seat heater/climate seat"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "S/HTR RL - rear seat heater/climate seat"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "30A",
+     "P/SEAT FR NO.2 - power source"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "VIP SEAT RL - rear power seat (4 seater)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "VIP SEAT RR - rear power seat (4 seater)"
+    ],
+    [
+     "11",
+     "Fuse FMX/JCase",
+     "30A",
+     "PBD - power back door"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "P/SEAT RL - rear power seat (4 seater)"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "15A",
+     "P/SEAT RR - rear power seat (4 seater)"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "IGP NO.3 - rear seat heater/climate seat"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "AHC-B - active height control suspension"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "ECU-B NO.5 - audio, navigation, rear entertainment"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "IGP NO.3 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "DOME CUT relay"
+    ]
+   ]
+  }
+ ]
+}
