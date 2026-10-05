@@ -1,0 +1,596 @@
+{
+ "make_slug": "jaguar",
+ "model_slug": "i-pace",
+ "brand_db": "Jaguar",
+ "model_db_name": "I-Pace",
+ "model_id": 2374,
+ "generation_name": "1st generation (X590)",
+ "generation_code": "g1",
+ "year_start": 2018,
+ "year_end": 2020,
+ "trim_label": "",
+ "representative_year": 2020,
+ "source_url": "https://www.startmycar.com/jaguar/i-pace/info/fusebox/2020",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Front compartment fuse box No.1",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-i-pace-2020-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Charge port"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Camera"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Air conditioning (A/C)"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Adaptive cruise control"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Front luggage compartment controller"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "30A",
+     "Headlamp washer"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Screen washer"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "15A",
+     "Horn"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "20A",
+     "Heated washer jet"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "5A",
+     "Coolant controller"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "On board charger"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "15A",
+     "Electrical system cooling"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "15A",
+     "Battery cooling"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "Electrical system cooling"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "5A",
+     "Electrical power management"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "5A",
+     "Electrical power management"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Park lock"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "5A",
+     "Brake"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Headlight washing system"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Headlight washing system"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Windscreen de-icing warning light"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Windscreen washers"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Washer fluid heater"
+    ],
+    [
+     "U1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windscreen de-icing warning light 1"
+    ],
+    [
+     "U2",
+     "Fuse FMX/JCase",
+     "40A",
+     "Windscreen de-icing warning light 2"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Front compartment fuse box No.2",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-i-pace-2020-genid-g1-1.webp",
+   "fuses": [
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Cooling system"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "5A",
+     "Active vanes"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "10A",
+     "Electrical management system"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "10A",
+     "Front fog lights"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Rear headlight"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "20A",
+     "Rear headlight"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "Electrical management system"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "Electrical management system"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "Electrical management system"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Electrical management system"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Electrical management system"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "5A",
+     "Electrical management system"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Cooling system"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear fog light indicator"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "U1",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electric fan"
+    ],
+    [
+     "U2",
+     "Fuse FMX/JCase",
+     "20A",
+     "Rear wiper"
+    ],
+    [
+     "U3",
+     "Fuse FMX/JCase",
+     "40A",
+     "Anti-lock brake system (ABS)"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-i-pace-2020-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "5A",
+     "Battery sounder"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "5A",
+     "Brakes"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "5A",
+     "Immobilizer"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "5A",
+     "Diagnostic socket"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "5A",
+     "Radio / motion sensor"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "20A",
+     "12V socket 2nd row"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "20A",
+     "12V socket cubby"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Left front seat power 2"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "Right front seat power 2"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "Left front seat power 1"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "30A",
+     "Right front seat power 1"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "5A",
+     "Electric mirrors"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "20A",
+     "12V socket luggage compartment"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "5A",
+     "Forward camera"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Heated rear screen"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "5A",
+     "Telematic control unit"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "20A",
+     "Heated / climate seats"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Heated / climate seats"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "Front right side door"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "25A",
+     "Left rear side door"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "25A",
+     "Right rear side door"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "25A",
+     "Left front side door"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Head-up display (HUD)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Phone"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "5A",
+     "Exit detection"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "5A",
+     "USB controller unit"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "5A",
+     "Electronic toll collection device"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "Tire pressure monitoring system (TPMS)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Steering wheel"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "USB sockets"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Electric seats"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Loadspace fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-i-pace-2020-genid-g1-3.webp",
+   "fuses": [
+    [
+     "F1",
+     "Fuse MINI",
+     "20A",
+     "Rear-left cushion heater element"
+    ],
+    [
+     "F2",
+     "Fuse MINI",
+     "20A",
+     "Rear-right cushion heater element"
+    ],
+    [
+     "F3",
+     "Fuse MINI",
+     "5A",
+     "Rear console switchpack"
+    ],
+    [
+     "F4",
+     "Fuse MINI",
+     "10A",
+     "Integrated suspension control module (VBATT B)"
+    ],
+    [
+     "F5",
+     "Fuse MINI",
+     "15A",
+     "Integrated suspension control module (VBATT A)"
+    ],
+    [
+     "F9",
+     "Fuse MINI",
+     "2A",
+     "Electronic toll collection (ETC) module"
+    ],
+    [
+     "F10",
+     "Fuse MINI",
+     "20A",
+     "Front cigar lighter"
+    ],
+    [
+     "F16",
+     "Fuse MINI",
+     "5A",
+     "Integrated suspension control module"
+    ],
+    [
+     "F17",
+     "Fuse MINI",
+     "30A",
+     "Upper tailgate control module"
+    ],
+    [
+     "F18",
+     "Fuse MINI",
+     "5A",
+     "Immobiliser antenna unit"
+    ],
+    [
+     "F19",
+     "Fuse MINI",
+     "5A",
+     "Passenger seat memory switchpack"
+    ],
+    [
+     "F20",
+     "Fuse MINI",
+     "5A",
+     "Parking assist control module"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Extended ignition"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Air suspension"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Accessory socket"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Air suspension"
+    ]
+   ]
+  }
+ ]
+}
