@@ -1,0 +1,583 @@
+{
+ "make_slug": "lincoln",
+ "model_slug": "mkx",
+ "brand_db": "Lincoln",
+ "model_db_name": "MKX",
+ "model_id": 2612,
+ "generation_name": "2nd generation U540",
+ "generation_code": "g2",
+ "year_start": 2016,
+ "year_end": 2018,
+ "trim_label": "",
+ "representative_year": 2018,
+ "source_url": "https://www.startmycar.com/lincoln/mkx/info/fusebox/2018",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power Distribution Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-mkx-2018-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power fold 2nd row seats"
+    ],
+    [
+     "2",
+     "Relay",
+     "",
+     "Starter relay"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "15A",
+     "Rear wiper, rain sensor"
+    ],
+    [
+     "4",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "5",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 3 - back of console"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "20A",
+     "PCM vehicle power 1"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "20A",
+     "PCM vehicle power 2"
+    ],
+    [
+     "9",
+     "Relay",
+     "",
+     "Powertrain control module relay"
+    ],
+    [
+     "10",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 5 - main bin"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "",
+     "PCM vehicle power 4"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "",
+     "PCM vehicle power 3"
+    ],
+    [
+     "15",
+     "Relay",
+     "",
+     "Run-start relay"
+    ],
+    [
+     "16",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 2 - console bin"
+    ],
+    [
+     "17",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 4 - luggage compartment"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "20A",
+     "Right HID headlamp"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Run-start electronic power assist steering"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "10A",
+     "Run/start lighting"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "15A",
+     "Transmission oil pump logic power (start/stop)"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "A/C clutch solenoid"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "15A",
+     "Front split view camera, rear view camera, gear shift actuator"
+    ],
+    [
+     "25",
+     "Fuse MICRO3",
+     "10A",
+     "Run-start ABS"
+    ],
+    [
+     "26",
+     "Fuse MICRO3",
+     "10A",
+     "Run-start PCM"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Rear washer pump"
+    ],
+    [
+     "32",
+     "Relay",
+     "",
+     "Electronic fan 1 relay"
+    ],
+    [
+     "33",
+     "Relay",
+     "",
+     "A/C clutch relay"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "15A",
+     "Glove box release"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "10A",
+     "Power transfer unit fan"
+    ],
+    [
+     "38",
+     "Relay",
+     "",
+     "Electronic fan 2 relay"
+    ],
+    [
+     "39",
+     "Relay",
+     "",
+     "Electric fan 3 relay"
+    ],
+    [
+     "40",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "42",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "10A",
+     "2nd row easy fold seat release"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "20A",
+     "Left HID headlamp"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "20A",
+     "Horn"
+    ],
+    [
+     "54",
+     "Fuse MICRO3",
+     "10A",
+     "Brake on/off switch"
+    ],
+    [
+     "55",
+     "Fuse MICRO3",
+     "10A",
+     "Alternator sensor"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power Distribution Box (Bottom)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-mkx-2018-genid-g2-1.webp",
+   "fuses": [
+    [
+     "57",
+     "Fuse FMM/MCase",
+     "20A",
+     "Power point 1 - driver front"
+    ],
+    [
+     "58",
+     "Fuse FMM/MCase",
+     "30A",
+     "Fuel pump feed"
+    ],
+    [
+     "59",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic fan 3"
+    ],
+    [
+     "60",
+     "Fuse FMX/JCase",
+     "40A",
+     "Electronic fan 1"
+    ],
+    [
+     "62",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module 1"
+    ],
+    [
+     "63",
+     "Fuse FMM/MCase",
+     "25A",
+     "Electronic fan 2"
+    ],
+    [
+     "64",
+     "Fuse FMM/MCase",
+     "20A",
+     "Headlamp washer"
+    ],
+    [
+     "65",
+     "Fuse FMM/MCase",
+     "20A",
+     "Front heated seat"
+    ],
+    [
+     "66",
+     "Fuse FMM/MCase",
+     "15A",
+     "Heated wiper park"
+    ],
+    [
+     "67",
+     "Fuse FMX/JCase",
+     "50A",
+     "Body control module 2"
+    ],
+    [
+     "68",
+     "Fuse FMM/MCase",
+     "40A",
+     "Heated rear window"
+    ],
+    [
+     "69",
+     "Fuse FMM/MCase",
+     "30A",
+     "ABS valves"
+    ],
+    [
+     "70",
+     "Fuse FMM/MCase",
+     "30A",
+     "Passenger seat"
+    ],
+    [
+     "71",
+     "Fuse FMX/JCase",
+     "50A",
+     "Active front steering"
+    ],
+    [
+     "72",
+     "Fuse FMM/MCase",
+     "20A",
+     "Transmission oil pump (start/stop)"
+    ],
+    [
+     "73",
+     "Fuse FMM/MCase",
+     "20A",
+     "Rear heated seats"
+    ],
+    [
+     "74",
+     "Fuse FMM/MCase",
+     "30A",
+     "Driver seat module"
+    ],
+    [
+     "75",
+     "Fuse FMM/MCase",
+     "25A",
+     "Wiper motor 1"
+    ],
+    [
+     "76",
+     "Fuse FMM/MCase",
+     "30A",
+     "Power liftgate module"
+    ],
+    [
+     "77",
+     "Fuse FMM/MCase",
+     "30A",
+     "Climate control seat module"
+    ],
+    [
+     "78",
+     "Fuse FMM/MCase",
+     "40A",
+     "Trailer lighting module"
+    ],
+    [
+     "79",
+     "Fuse FMX/JCase",
+     "40A",
+     "Blower motor"
+    ],
+    [
+     "80",
+     "Fuse FMM/MCase",
+     "25A",
+     "Wiper motor 2"
+    ],
+    [
+     "81",
+     "Fuse FMM/MCase",
+     "40A",
+     "110 volt inverter"
+    ],
+    [
+     "83",
+     "Fuse FMM/MCase",
+     "20A",
+     "TRCM (iShifter)"
+    ],
+    [
+     "84",
+     "Fuse FMM/MCase",
+     "30A",
+     "Starter solenoid"
+    ],
+    [
+     "87",
+     "Fuse FMX/JCase",
+     "60A",
+     "ABS pump"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-lincoln-mkx-2018-genid-g2-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "7.5A",
+     "Memory seats, lumbar, driver seat module logic power"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "Driver door unlock"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "20A",
+     "Subwoofer amplifier"
+    ],
+    [
+     "6",
+     "Fuse MICRO3",
+     "10A",
+     "USB charger"
+    ],
+    [
+     "9",
+     "Fuse MICRO3",
+     "10A",
+     "Rear seat entertainment module, 360 camera badge"
+    ],
+    [
+     "10",
+     "Fuse MICRO3",
+     "5A",
+     "Keypad, power liftgate logic, hands free liftgate, SYNC 3, embedded modem"
+    ],
+    [
+     "11",
+     "Fuse MICRO3",
+     "5A",
+     "Combined sensing module"
+    ],
+    [
+     "12",
+     "Fuse MICRO3",
+     "7.5A",
+     "Climate control module, gear shift module"
+    ],
+    [
+     "13",
+     "Fuse MICRO3",
+     "7.5A",
+     "Cluster, steering column control module, smart datalink gateway"
+    ],
+    [
+     "14",
+     "Fuse MICRO3",
+     "10A",
+     "Extended power module - power"
+    ],
+    [
+     "15",
+     "Fuse MICRO3",
+     "10A",
+     "Datalink power"
+    ],
+    [
+     "19",
+     "Fuse MICRO3",
+     "7.5A",
+     "Extended power module - run/start"
+    ],
+    [
+     "20",
+     "Fuse MICRO3",
+     "7.5A",
+     "Active front steering logic power"
+    ],
+    [
+     "21",
+     "Fuse MICRO3",
+     "5A",
+     "Humidity and in-car temperature sensor"
+    ],
+    [
+     "22",
+     "Fuse MICRO3",
+     "5A",
+     "Occupant classification sensor"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "10A",
+     "Delayed accessory (inverter logic, moonroof logic, driver window switch)"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "20A",
+     "Central lock/unlock"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "30A",
+     "Driver door (window, mirror), driver door module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "30A",
+     "Front passenger door (window, mirror), door module"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "30A",
+     "Moonroof"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "20A",
+     "Amplifier"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "30A",
+     "Rear driver side door smart window"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "30A",
+     "Rear passenger side door smart window"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Voice control (SYNC), radio transceiver module"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "20A",
+     "Radio"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "30A",
+     "Run-start bus"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "15A",
+     "Auto-dimming mirror, lane departure module, rear heated seats, suspension module"
+    ],
+    [
+     "38",
+     "Circuit breaker MAXI",
+     "",
+     "Rear power windows, rear window switch illumination"
+    ]
+   ]
+  }
+ ]
+}
