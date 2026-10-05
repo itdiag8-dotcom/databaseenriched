@@ -1,0 +1,847 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "kona",
+ "brand_db": "Hyundai",
+ "model_db_name": "Kona",
+ "model_id": 2230,
+ "generation_name": "1st generation (OS)",
+ "generation_code": "g1",
+ "year_start": 2017,
+ "year_end": 2023,
+ "trim_label": "",
+ "representative_year": 2023,
+ "source_url": "https://www.startmycar.com/hyundai/kona/info/fusebox/2023",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's side fuse panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-kona-2023-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "7.5A",
+     "Shift indicator, AVN, audio, EC mirror, A/C, ventilation module, LDC, console switch, wireless charger, DLC, seat warmer modules"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "7.5A",
+     "Stop lamp switch, BCM, ATM shift lever, IAU"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Sunroof unit"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Tailgate relay"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "25A",
+     "Power window LH relay, driver safety window module"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Low DC-DC converter"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "Power window RH relay, passenger safety window module"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "25A",
+     "Driver seat manual switch, reclining switch"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "7.5A",
+     "EPB switch, BCM, front view camera, AWD ECM"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "7.5A",
+     "Smart key module, immobilizer"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "Power outlet relay"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "7.5A",
+     "Glove box, vanity, room, console, luggage, foot lamps"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "10A",
+     "A/C module, HUD, BCM, console switch, wireless charger, rain sensor"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Rear seat warmer control module"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "30A",
+     "Low DC-DC converter"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "7.5A",
+     "Smart key module, BCM, IAU"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "7.5A",
+     "Key interlock, BCM, hazard switch, DLC, rain sensor"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "7.5A",
+     "Ventilation/seat warmer control modules"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "Cluster, A/C control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "Stop lamp switch, smart key module"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "7.5A",
+     "Transaxle range switch (AT), inhibitor switch"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "7.5A",
+     "Head-up display, cluster"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "20A",
+     "Door lock/unlock relays, two-turn unlock relay"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "Immobilizer, BLE unit, IAU"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Smart key outside handles, front radar unit"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Front seat warmer/ventilation modules"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "A/C"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "7.5A",
+     "A/C module, PTC heater relays, blower relay"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Smart key module, start/stop button"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "SRS module, occupant detection sensor"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "25A",
+     "PCB block fuses (ABS 3, ECU 5, sensor 4, TCU 2)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "10A",
+     "Front USB charger, smart key, BCM, power outlet relay, IAU"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Multifunction switch"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "BCM"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper relay, motor"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "25A",
+     "Front wiper motor, low relay"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "10A",
+     "Power mirrors, A/C module, ECM"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "20A",
+     "Power outlet #2"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "15A",
+     "BCM"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment (PCB block - G4NS/G4NH 2.0L MPI Atkinson)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-kona-2023-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "A/C comp relay, cooling fan relays, purge/intake solenoids, oil control valves, canister valve, oil pressure solenoid"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "ECM"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "PCM/ECM"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "15A",
+     "Injectors #1-4"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "15A",
+     "Oxygen sensors (up/down)"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coils #1-4"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "15A",
+     "PCM/ECM"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "A/C compressor relay"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "15A",
+     "Electronic oil pump"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "PCM"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "ESC module, check connector"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "15A",
+     "Inhibitor switch"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel pump relay"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "PCM/ECM"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "24",
+     "Other",
+     "",
+     "PCB block (horn, A/C, ECU fuses; engine control relay)"
+    ],
+    [
+     "25",
+     "Other",
+     "",
+     "IGPM (front seat heater fuse, IPS0-2)"
+    ],
+    [
+     "26",
+     "Other",
+     "",
+     "IGPM (IPS3-8)"
+    ],
+    [
+     "27",
+     "Other",
+     "",
+     "IGPM (window, tailgate, sunroof, outlet, seat fuses)"
+    ],
+    [
+     "29",
+     "Other",
+     "",
+     "ESC module (without EPB)"
+    ],
+    [
+     "29",
+     "Other",
+     "",
+     "ESC module (with EPB)"
+    ],
+    [
+     "30",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "31",
+     "Other",
+     "",
+     "Ignition switch / PDM IG1, ACC relays"
+    ],
+    [
+     "32",
+     "Other",
+     "",
+     "Ignition switch, start relay / PDM IG2, start relays"
+    ],
+    [
+     "35",
+     "Other",
+     "",
+     "PTC heater #1 relay"
+    ],
+    [
+     "36",
+     "Other",
+     "",
+     "PTC heater #2 relay"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "20A",
+     "TCM"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "40A",
+     "SGA"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "40A",
+     "IGPM (brake switch, PDM, door lock, module fuses; leak autocut)"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "40A",
+     "TCM"
+    ],
+    [
+     "47",
+     "Fuse FMM/MCase",
+     "40A",
+     "TCM"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "20A",
+     "AWD ECM"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear defogger relay"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "40A",
+     "ESC module, check connector"
+    ],
+    [
+     "53",
+     "Fuse FMM/MCase",
+     "40A",
+     "Electronic oil pump (G4NS)"
+    ],
+    [
+     "55",
+     "Other",
+     "",
+     "E/R junction block (ABS 2, rear heated, EOP, CVD, 4WD fuses), alternator"
+    ],
+    [
+     "56",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PTC heater #2 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PDM #3 (IG1) relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Start #1 relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "PDM #4 (IG2) relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "PDM #2 (ACC) relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "PTC heater #1 relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Cooling fan #2 relay"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "Cooling fan #1 relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine compartment (PCB block - G4FP 1.6 T-GDI)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-kona-2023-genid-g1-2.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MICRO2",
+     "10A",
+     "A/C comp relay, variable oil pump solenoid, purge/RCV solenoids, oil control valves, canister valve"
+    ],
+    [
+     "2",
+     "Fuse MICRO2",
+     "10A",
+     "ECM"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "20A",
+     "PCM/ECM"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "15A",
+     "Oxygen sensors (up/down)"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "20A",
+     "Ignition coils #1-4"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "15A",
+     "PCM/ECM"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "A/C compressor relay"
+    ],
+    [
+     "11",
+     "Fuse MICRO2",
+     "10A",
+     "ECM, CVVD actuator"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "10A",
+     "ESC module, check connector"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "15A",
+     "TCM, transaxle range switch"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "Fuel pump relay"
+    ],
+    [
+     "16",
+     "Fuse MICRO2",
+     "15A",
+     "PCM/ECM"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "24",
+     "Other",
+     "",
+     "PCB block (horn, A/C, ECU fuses; engine control relay)"
+    ],
+    [
+     "25",
+     "Other",
+     "",
+     "IGPM (front seat heater fuse, IPS0-2)"
+    ],
+    [
+     "26",
+     "Other",
+     "",
+     "IGPM (IPS3-8)"
+    ],
+    [
+     "27",
+     "Other",
+     "",
+     "IGPM (window, tailgate, sunroof, outlet, seat fuses)"
+    ],
+    [
+     "29",
+     "Other",
+     "",
+     "ESC module (without EPB)"
+    ],
+    [
+     "29",
+     "Other",
+     "",
+     "ESC module (with EPB)"
+    ],
+    [
+     "30",
+     "Other",
+     "",
+     "Blower relay"
+    ],
+    [
+     "31",
+     "Other",
+     "",
+     "Ignition switch / PDM IG1, ACC relays"
+    ],
+    [
+     "32",
+     "Other",
+     "",
+     "Ignition switch, start relay / PDM IG2, start relays"
+    ],
+    [
+     "35",
+     "Other",
+     "",
+     "PTC heater #1 relay"
+    ],
+    [
+     "36",
+     "Other",
+     "",
+     "PTC heater #2 relay"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "20A",
+     "TCM"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "20A",
+     "Fuel pump relay"
+    ],
+    [
+     "44",
+     "Fuse FMM/MCase",
+     "40A",
+     "SGA"
+    ],
+    [
+     "45",
+     "Fuse FMM/MCase",
+     "40A",
+     "IGPM (brake switch, PDM, door lock, module fuses; leak autocut)"
+    ],
+    [
+     "46",
+     "Fuse FMM/MCase",
+     "40A",
+     "TCM"
+    ],
+    [
+     "47",
+     "Fuse FMM/MCase",
+     "40A",
+     "TCM"
+    ],
+    [
+     "49",
+     "Fuse MICRO2",
+     "20A",
+     "AWD ECM"
+    ],
+    [
+     "50",
+     "Fuse FMM/MCase",
+     "40A",
+     "Rear defogger relay"
+    ],
+    [
+     "51",
+     "Fuse FMM/MCase",
+     "40A",
+     "ESC module, check connector"
+    ],
+    [
+     "53",
+     "Fuse FMM/MCase",
+     "40A",
+     "CVVD actuator (G4FP)"
+    ],
+    [
+     "55",
+     "Other",
+     "",
+     "E/R junction block (ABS 2, rear heated, EOP, CVD, 4WD fuses), alternator"
+    ],
+    [
+     "56",
+     "Other",
+     "",
+     "MDPS unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "PTC heater #2 relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "PDM #3 (IG1) relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Start #1 relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "PDM #4 (IG2) relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "PDM #2 (ACC) relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "PTC heater #1 relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "34",
+     "Other",
+     "",
+     "Cooling fan controller"
+    ]
+   ]
+  }
+ ]
+}

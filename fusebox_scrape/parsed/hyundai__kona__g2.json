@@ -1,0 +1,696 @@
+{
+ "make_slug": "hyundai",
+ "model_slug": "kona",
+ "brand_db": "Hyundai",
+ "model_db_name": "Kona",
+ "model_id": 2230,
+ "generation_name": "2nd generation (SX2)",
+ "generation_code": "g2",
+ "year_start": 2023,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/hyundai/kona/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Instrument panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-kona-2024-genid-g2-0.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MICRO2",
+     "15A",
+     "Power window driver: E/R junction block relays 8/13"
+    ],
+    [
+     "3",
+     "Fuse MICRO2",
+     "7.5A",
+     "A/C 3: control module, electric compressor, relays 7/11"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "7.5A",
+     "Brake switch: stop lamp switch, BDC"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Memory 1: A/C, mood lamps, cluster, ADAS parking unit"
+    ],
+    [
+     "7",
+     "Fuse MICRO2",
+     "10A",
+     "E-shifter 3: electronic shift lever, SCU"
+    ],
+    [
+     "8",
+     "Fuse MICRO2",
+     "10A",
+     "IG3 3: BMS control module"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "Module 9: rain sensor, DLC, hazard switch, BDC"
+    ],
+    [
+     "10",
+     "Fuse MICRO2",
+     "10A",
+     "E-shifter 2: electronic shift lever, SCU"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "CCU"
+    ],
+    [
+     "13",
+     "Fuse MICRO2",
+     "7.5A",
+     "Memory 2: DCU"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "7.5A",
+     "BDC 2: BDC"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "Module 2: CCU, stop lamp switch"
+    ],
+    [
+     "17",
+     "Fuse MICRO2",
+     "10A",
+     "Module 10: ICC unit"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "25A",
+     "Multimedia: CCND head unit"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Module 5: crash pad switch, headlamps, CCND, DLC, ICC, DCU, A/C, wireless charger, EC mirror, AMP, seat modules"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cluster: instrument cluster, cluster unit"
+    ],
+    [
+     "24",
+     "Fuse MICRO2",
+     "10A",
+     "IG3: CCU"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "15A",
+     "DDM: driver mirror, driver door module"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "15A",
+     "ADM: passenger power mirror"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module 7: 12V lithium auxiliary battery"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Tailgate open: PDC tailgate relay"
+    ],
+    [
+     "29",
+     "Fuse MICRO2",
+     "20A",
+     "Sunroof blind/glass motors"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "10A",
+     "Module 3: console switch, seat belt indicator, driver door module"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS 2: MDPS unit"
+    ],
+    [
+     "32",
+     "Fuse MICRO2",
+     "10A",
+     "Module 1: console keyboard, BDC, DCU, CCU, CCND, AMP, BMS, ADAS parking"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger power seat switch, relax seat module"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "25A",
+     "Front seat heater/ventilation modules"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "15A",
+     "Washer: multifunction switch"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag 2: SRS control module"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "10A",
+     "BDC 1: BDC"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "7.5A",
+     "Front wiper 2: BDC"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag 1: SRS control module"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "10A",
+     "USB charger connectors"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "25A",
+     "Power window RH: rear switch RH, safety modules"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "7.5A",
+     "Module 6: BDC"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "10A",
+     "BMS 1: control module"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "25A",
+     "AMP"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "10A",
+     "Module 4: ADAS parking, corner radars, crash pad switch, front camera"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "30A",
+     "Driver power seat switch, IMS module"
+    ],
+    [
+     "52",
+     "Fuse MICRO2",
+     "25A",
+     "Power window LH: rear switch LH, safety modules"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "20A",
+     "Door lock: PDC lock/unlock, dead lock relays"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "25A",
+     "Rear seat heater: front seat heater module"
+    ],
+    [
+     "56",
+     "Fuse MICRO2",
+     "10A",
+     "Module 8: IMS, ventilation/heater modules, relax seat, VESS, smart key handles"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "7.5A",
+     "Start: BDC, HPCU"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine compartment fuse box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-hyundai-kona-2024-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Other",
+     "",
+     "MDPS 1: MDPS unit"
+    ],
+    [
+     "2",
+     "Other",
+     "",
+     "ALT: E/R junction block fuses"
+    ],
+    [
+     "3",
+     "Other",
+     "",
+     "Cooling fan 1: motor"
+    ],
+    [
+     "4",
+     "Other",
+     "",
+     "Cooling fan 2: relay 2"
+    ],
+    [
+     "5",
+     "Other",
+     "",
+     "B+2: PDC (IPS9/11/12)"
+    ],
+    [
+     "6",
+     "Other",
+     "",
+     "Rear mirror heated: relay 3"
+    ],
+    [
+     "7",
+     "Other",
+     "",
+     "B+5: PDC fuses"
+    ],
+    [
+     "9",
+     "Other",
+     "",
+     "IG1: PCB block (ACC, IG1 relays)"
+    ],
+    [
+     "10",
+     "Other",
+     "",
+     "IG2: PCB block (IG2 relay)"
+    ],
+    [
+     "11",
+     "Other",
+     "",
+     "DCT 1: TCM"
+    ],
+    [
+     "12",
+     "Other",
+     "",
+     "DCT 2: TCM"
+    ],
+    [
+     "13",
+     "Other",
+     "",
+     "B+1: PDC (IPS2-7)"
+    ],
+    [
+     "14",
+     "Other",
+     "",
+     "B+6: PCB block (main relay, wiper main relay, fuses)"
+    ],
+    [
+     "15",
+     "Other",
+     "",
+     "B+3: PDC fuses"
+    ],
+    [
+     "16",
+     "Other",
+     "",
+     "IEB 1: IEB unit"
+    ],
+    [
+     "17",
+     "Other",
+     "",
+     "IEB 2: IEB unit"
+    ],
+    [
+     "18",
+     "Other",
+     "",
+     "Blower: relay 4"
+    ],
+    [
+     "19",
+     "Other",
+     "",
+     "IEB 3: check connector"
+    ],
+    [
+     "20",
+     "Other",
+     "",
+     "PTG: power tailgate module"
+    ],
+    [
+     "21",
+     "Other",
+     "",
+     "E-shifter 1: SCU"
+    ],
+    [
+     "23",
+     "Fuse FLF/PAL 293",
+     "60A",
+     "Aux battery: 12V lithium auxiliary battery"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "60A",
+     "B+4: PDC (long term load latch relay, fuses)"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater 1: relay 7"
+    ],
+    [
+     "28",
+     "Fuse FMX/JCase",
+     "30A",
+     "Clutch actuator"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "15A",
+     "Battery cooling fan: relay 5"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "HEV ECU 1: HPCU"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "10A",
+     "EWP 1: electronic water pump (engine)"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "Head lamp LH"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Head lamp RH"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump 1: relay 9"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "7.5A",
+     "EWP 2: electronic water pump (HEV)"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "15A",
+     "Heated mirrors"
+    ],
+    [
+     "44",
+     "Fuse FMX/JCase",
+     "50A",
+     "PTC heater 2: relay 11"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "10A",
+     "IG3 2: HPCU"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "20A",
+     "IG3 1: relay 6"
+    ],
+    [
+     "57",
+     "Fuse MINI",
+     "20A",
+     "Trailer 3: connector"
+    ],
+    [
+     "58",
+     "Fuse MINI",
+     "20A",
+     "Trailer 2: connector"
+    ],
+    [
+     "59",
+     "Fuse MINI",
+     "30A",
+     "Trailer 1: connector"
+    ],
+    [
+     "60",
+     "Fuse MINI",
+     "20A",
+     "Power outlet"
+    ],
+    [
+     "62",
+     "Fuse MINI",
+     "30A",
+     "Front wiper 1: low relay, motor"
+    ],
+    [
+     "63",
+     "Fuse MINI",
+     "15A",
+     "Sensor 3: cooling fan controller"
+    ],
+    [
+     "65",
+     "Fuse MINI",
+     "20A",
+     "ECU 1: ECM"
+    ],
+    [
+     "66",
+     "Fuse MINI",
+     "20A",
+     "Ignition coil: injectors #1-4"
+    ],
+    [
+     "67",
+     "Fuse MINI",
+     "15A",
+     "Rear wiper: relay 12"
+    ],
+    [
+     "68",
+     "Fuse MINI",
+     "15A",
+     "Sensor 1: oxygen sensors"
+    ],
+    [
+     "70",
+     "Fuse MINI",
+     "15A",
+     "TCU 2: TCM"
+    ],
+    [
+     "71",
+     "Fuse MINI",
+     "10A",
+     "ECU 4: ECM"
+    ],
+    [
+     "72",
+     "Fuse MINI",
+     "10A",
+     "Fuel pump 2: relay 9"
+    ],
+    [
+     "73",
+     "Fuse MINI",
+     "10A",
+     "Sensor 2: purge solenoid, oil pump solenoid, oil control valves"
+    ],
+    [
+     "74",
+     "Fuse MINI",
+     "7.5A",
+     "EWP 3: electronic water pump (engine)"
+    ],
+    [
+     "75",
+     "Fuse MINI",
+     "10A",
+     "HEV ECU 2: HPCU, clutch actuator"
+    ],
+    [
+     "76",
+     "Fuse MINI",
+     "10A",
+     "IEB 4: check connector, IEB unit"
+    ],
+    [
+     "78",
+     "Fuse MINI",
+     "15A",
+     "ECU 3: ECM, CVVD actuator"
+    ],
+    [
+     "82",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "83",
+     "Fuse MINI",
+     "10A",
+     "Burglar alarm relay"
+    ],
+    [
+     "84",
+     "Fuse MINI",
+     "10A",
+     "FCA: front radar unit"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Cooling fan 1 relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear mirror heated relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Battery cooling fan relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "IG3 relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "PTC heater 1 relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Power window driver 1 relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "PTC heater 2 relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Rear wiper relay"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "Power window driver 2 relay"
+    ]
+   ]
+  }
+ ]
+}
