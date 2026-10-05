@@ -1,0 +1,914 @@
+{
+ "make_slug": "jaguar",
+ "model_slug": "x-type",
+ "brand_db": "Jaguar",
+ "model_db_name": "X-Type",
+ "model_id": 2378,
+ "generation_name": "1st generation (X400)",
+ "generation_code": "g1",
+ "year_start": 2002,
+ "year_end": 2007,
+ "trim_label": "",
+ "representative_year": 2007,
+ "source_url": "https://www.startmycar.com/jaguar/x-type/info/fusebox/2007",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Power distribution fuse box (top) [Gasoline engines]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-x-type-2007-genid-g1-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Right-hand high beam"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamps, master lamp switch"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Left-hand high beam"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor clutch"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "7.5A",
+     "Alternator"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Wiper switch"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Wiper switch, windscreen washer pump, wiper motor"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Ignition coils"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission control module"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Anti-lock braking system (ABS), dynamic stability control (DSC) system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Heated front screen left-hand side"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Heated front screen right-hand side"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Radiator fans speed control"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Fuel injectors"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Canister purge valve, airflow meter, inlet manifold tuning valve, canister close valve, vacuum module; [2.0L petrol] cruise control module"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Engine control module (ECM), throttle motor relay [2.5L/3.0L], fuel pump relay [2.0L petrol]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Oxygen sensor heaters B"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "30A",
+     "Petrol: oxygen sensor heaters A"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Power wash pump"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Transit relay, vacuum module, battery backed sounder"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Left-hand dip beam, master lamp switch (autolamps), headlamp levelling, instrument pack"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Right-hand dipped beam"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission control module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "30A",
+     "Starter motor solenoid"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Ignition relay coil"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "5A",
+     "Engine control module"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Horns"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main beam / front fog relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Windshield wiper motor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Power distribution fuse box ignition relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Windshield heater relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "EMS control relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Powerwash pump relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Dip beam relay"
+    ],
+    [
+     "R12",
+     "Other",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R13",
+     "Other",
+     "",
+     "Slave ignition relay"
+    ],
+    [
+     "R15",
+     "Other",
+     "",
+     "Horn relay"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Power distribution fuse box (top) [Diesel engines]",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-x-type-2007-genid-g1-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "Right-hand high beam"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "15A",
+     "Front fog lamps, master lamp switch"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "20A",
+     "Horns"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Left-hand high beam"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning compressor clutch"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "5A",
+     "Fuel-fired heater relay coil"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "30A",
+     "Wiper switch"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "30A",
+     "Wiper switch, windscreen washer pump, wiper motor"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission control module"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "7.5A",
+     "Supplementary heater relay coil"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "5A",
+     "Anti-lock braking system (ABS), dynamic stability control (DSC) system"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Heated front screen left-hand side"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "30A",
+     "Heated front screen right-hand side"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "5A",
+     "Radiator fans speed control"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "10A",
+     "Exhaust gas recirculation, variable geometry turbocharger control (diesel only)"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "10A",
+     "Glow plug relay coil"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "Throttle motor relay [2.5L and 3.0L]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "Inlet manifold valve"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "15A",
+     "Airflow meter, engine control module (ECM)"
+    ],
+    [
+     "22",
+     "Fuse MAXI",
+     "60A",
+     "Glow plugs (diesel only; replace only by Jaguar dealer/authorised repairer)"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "30A",
+     "Power wash pump"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "15A",
+     "Transit relay, vacuum module, battery backed sounder"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "10A",
+     "Left-hand dip beam, master lamp switch (autolamps), headlamp levelling, instrument pack [without HID headlamps]"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "20A",
+     "Left-hand dip beam, master lamp switch (autolamps), headlamp levelling, instrument pack [with HID headlamps]"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "10A",
+     "Right-hand dipped beam [without HID headlamps]"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "Right-hand dipped beam [with HID headlamps]"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Fuel-fired heater"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "15A",
+     "Automatic transmission control module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "30A",
+     "Starter motor solenoid"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "5A",
+     "Ignition relay coil"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "7.5A",
+     "Battery sense to alternator"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "30A",
+     "Auxiliary heater"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Main beam / front fog relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Horn relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "A/C compressor clutch relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Windshield wiper motor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Power distribution fuse box ignition relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Windshield heater relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "EMS control relay"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Powerwash pump relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Glow plug relay"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "Dip beam relay"
+    ],
+    [
+     "R12",
+     "Other",
+     "",
+     "Starter relay"
+    ],
+    [
+     "R13",
+     "Other",
+     "",
+     "Slave ignition relay"
+    ],
+    [
+     "R15",
+     "Other",
+     "",
+     "Auxiliary heater relay 1"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Passenger junction fuse box (front)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-x-type-2007-genid-g1-2.webp",
+   "fuses": [
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel, electrochromic mirror, reverse light switch, reverse lights"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Passenger seat adjustment motors"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "20A",
+     "Accessory connectors"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "20A",
+     "Rear wiper [estate only]"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "On board diagnostics, heated front seat modules, rain sensing system, JaguarVoice"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "20A",
+     "Heated front seat modules"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "10A",
+     "Driver's seat memory function"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "15A",
+     "Sunroof module, SRX antenna"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "Left-hand (front and rear) electric window motors"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "10A",
+     "VICS (Japan), JaguarVoice"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "30A",
+     "Heated rear screen"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "10A",
+     "Heated door mirrors"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "30A",
+     "Driver's seat adjustment motors"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "20A",
+     "Fuel pump driver module and relay"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "15A",
+     "Rear accessory socket [estate only]"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "30A",
+     "Tow-bar module, rear accessory socket [estate only]"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "30A",
+     "Premium ICE amplifier unit"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "20A",
+     "Right-hand (front and rear) electric window motors"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "15A",
+     "Door lock module"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "20A",
+     "Rear screenwash pump [estate only]"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "20A",
+     "Screenwash pump"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "5A",
+     "On board diagnostics"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "10A",
+     "Manual transmission cruise control clutch switch, rotary switch"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "5A",
+     "Touch-screen"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "15A",
+     "Front and rear accessory sockets"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "7.5A",
+     "Rear fog lights"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "5A",
+     "In-car telephone, PSE"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "15A",
+     "Ignition switch"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "5A",
+     "On board diagnostics"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "5A",
+     "Park aid"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "10A",
+     "Reverse switch"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "15A",
+     "Direction power module"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "20A",
+     "Throttle motor relay [2.5L and 3.0L]; fuel pump [2.0L petrol only]"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "30A",
+     "Climate control blower motor"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "15A",
+     "Exterior light switch"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "10A",
+     "HID module, air conditioning ECU, blower motor relay coil"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "5A",
+     "Sunroof module, electrochromic mirror, power window motors and switches"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "5A",
+     "Passenger airbag light, passenger seat weight sensor"
+    ],
+    [
+     "42",
+     "Fuse MINI",
+     "5A",
+     "Power steering module"
+    ],
+    [
+     "43",
+     "Fuse MINI",
+     "10A",
+     "Instrument panel, telematics display, ICE head unit, antenna module, VICS [Japan], navigation system, park aid, JaguarVoice, in-car telephone, accessory relay coil"
+    ],
+    [
+     "44",
+     "Fuse MINI",
+     "15A",
+     "Navigation system ECU, CD player, ICE head unit"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning ECU"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "7.5A",
+     "Power fold back door mirrors"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "7.5A",
+     "Left-hand side (parking) lights"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "7.5A",
+     "Right-hand side (parking) lights"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "10A",
+     "Air conditioning ECU, interior courtesy lights, roof console, in-car sensor"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "5A",
+     "Automatic transmission control module"
+    ],
+    [
+     "51",
+     "Fuse MINI",
+     "7.5A",
+     "Manual transmission cruise control clutch switch, brake switch"
+    ],
+    [
+     "52",
+     "Fuse MINI",
+     "15A",
+     "Cigar lighter"
+    ],
+    [
+     "53",
+     "Fuse MINI",
+     "10A",
+     "Airbag module ignition supply"
+    ],
+    [
+     "54",
+     "Fuse MINI",
+     "5A",
+     "Instrument panel ignition supply"
+    ],
+    [
+     "55",
+     "Fuse MINI",
+     "5A",
+     "Number plate lights, glove compartment light, instrument panel"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Fold-back mirror module"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Accessory relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Rear wiper motor relay [estate/wagon only]"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower motor relay"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Passenger junction fuse box ignition relay"
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "name": "Passenger junction fuse box (back)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-jaguar-x-type-2007-genid-g1-3.webp",
+   "fuses": [
+    [
+     "R6",
+     "Relay",
+     "",
+     "Heated rear window relay"
+    ],
+    [
+     "R7",
+     "Other",
+     "",
+     "Throttle motor relay [2.5L/3.0L]"
+    ],
+    [
+     "R7",
+     "Other",
+     "",
+     "Fuel pump relay [2.0L]"
+    ],
+    [
+     "R9",
+     "Other",
+     "",
+     "Reverse lamps relay"
+    ],
+    [
+     "R10",
+     "Other",
+     "",
+     "Battery saver relay"
+    ]
+   ]
+  }
+ ]
+}
