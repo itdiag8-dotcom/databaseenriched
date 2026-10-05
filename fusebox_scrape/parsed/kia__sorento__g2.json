@@ -1,0 +1,588 @@
+{
+ "make_slug": "kia",
+ "model_slug": "sorento",
+ "brand_db": "Kia",
+ "model_db_name": "Sorento",
+ "model_id": 2474,
+ "generation_name": "2nd generation XM",
+ "generation_code": "g2",
+ "year_start": 2009,
+ "year_end": 2015,
+ "trim_label": "",
+ "representative_year": 2015,
+ "source_url": "https://www.startmycar.com/kia/sorento/info/fusebox/2015",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Inner Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sorento-2015-genid-g2-0.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "10A",
+     "(FOG LAMP RR) Rear fog lamp"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "10A",
+     "(MEMORY) OBD II, front A/C module, TPMS, digital clock, inside mirror, seat warmer switches"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW LH) Driver power window relay, main switch, rear window switch LH, driver safety window module"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "25A",
+     "(P/WDW RH) Passenger power window relay, switches, rear window switch RH"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "15A",
+     "(S/HEATER RR) ICM relay box (rear seat warmer LH/RH relays)"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "30A",
+     "(AMP) Amplifier"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "10A",
+     "(INTERIOR LAMP) Scuff/visor/overhead/room/personal/cargo lamps, door warning switch"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "15A",
+     "(MULTIMEDIA) Audio, AVN head unit, MTS"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "25A",
+     "(SUNROOF) Sunroof"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "30A",
+     "(P/SEAT DRV) Driver power seat switch, lumbar support switch"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "20A",
+     "(P/SEAT PASS) Passenger power seat switch"
+    ],
+    [
+     "12",
+     "Fuse MINI",
+     "20A",
+     "(S/HTR FRT) Front seat warmers"
+    ],
+    [
+     "13",
+     "Fuse MINI",
+     "10A",
+     "(HTD MIRR) Power outside mirrors, front A/C module"
+    ],
+    [
+     "14",
+     "Fuse MINI",
+     "7.5A",
+     "(START) E/R fuse & relay box (start, sub start, burglar alarm relays), PDM"
+    ],
+    [
+     "15",
+     "Fuse MINI",
+     "20A",
+     "(BLOWER RR) ICM relay box (rear A/C relay)"
+    ],
+    [
+     "16",
+     "Fuse MINI",
+     "15A",
+     "(STOP LAMP) Stop lamp"
+    ],
+    [
+     "17",
+     "Fuse MINI",
+     "15A",
+     "(F/LID) Fuel filler door switch"
+    ],
+    [
+     "18",
+     "Fuse MINI",
+     "20A",
+     "(DR LOCK) Door lock/unlock relay, two-turn unlock relay, door lock actuators, tailgate latch relay"
+    ],
+    [
+     "19",
+     "Fuse MINI",
+     "10A",
+     "(SMART KEY 4) PDM, start/stop button switch, FOB holder"
+    ],
+    [
+     "20",
+     "Fuse MINI",
+     "7.5A",
+     "(MODULE 1) Sport mode switch, key solenoid"
+    ],
+    [
+     "21",
+     "Fuse MINI",
+     "25A",
+     "(SUNROOF) Sunroof"
+    ],
+    [
+     "22",
+     "Fuse MINI",
+     "25A",
+     "(SMART KEY 1) Smart key unit"
+    ],
+    [
+     "23",
+     "Fuse MINI",
+     "7.5A",
+     "(SMART KEY 2) Smart key control module"
+    ],
+    [
+     "24",
+     "Fuse MINI",
+     "7.5A",
+     "(MDPS) MDPS"
+    ],
+    [
+     "25",
+     "Fuse MINI",
+     "10A",
+     "(A/BAG IND) Instrument cluster (IND.), digital clock"
+    ],
+    [
+     "26",
+     "Fuse MINI",
+     "20A",
+     "(IG1)"
+    ],
+    [
+     "27",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 4) Outside mirror switch, window switch, power outlet relay, digital clock, MTS, audio, AVN head unit"
+    ],
+    [
+     "28",
+     "Fuse MINI",
+     "7.5A",
+     "(SMART KEY 3) Smart key control module"
+    ],
+    [
+     "29",
+     "Fuse MINI",
+     "15A",
+     "(P/OUTLET 1) Power outlet"
+    ],
+    [
+     "30",
+     "Fuse MINI",
+     "20A",
+     "(P/OUTLET 2) Luggage power outlet, front power outlet (driver)"
+    ],
+    [
+     "31",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 2) Cluster, steering angle sensor, alternator, smart key module, AVN head unit, stop switch, SI ECU, headlamp leveling LH/RH"
+    ],
+    [
+     "32",
+     "Fuse MINI",
+     "10A",
+     "(MODULE 3) ESC off switch, A/C module, cluster, audio, MTS, AVN, TPMS, window switches, 4WD ECU, IMS, rear parking sensors, IPM (BCM IG1)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "(A/BAG) SRS control module, PODS module"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "7.5A",
+     "(MODULE 5)"
+    ],
+    [
+     "35",
+     "Fuse MINI",
+     "7.5A",
+     "(A/CON) Front A/C module, incar sensor, cluster ionizer, rear A/C relay, blower relay"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "15A",
+     "(HTD STRG) Steering wheel heater"
+    ],
+    [
+     "37",
+     "Fuse MINI",
+     "15A",
+     "(WIPER RR) ICM relay box (rear wiper relay), rear wiper motor, multifunction switch"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "25A",
+     "(WIPER FRT) E/R fuse & relay box (wiper low relay), front wiper motor, multifunction switch"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sorento-2015-genid-g2-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Fuse MINI",
+     "15A",
+     "Horn relay"
+    ],
+    [
+     "2",
+     "Fuse MINI",
+     "30A",
+     "Active hood 2"
+    ],
+    [
+     "3",
+     "Fuse MINI",
+     "30A",
+     "Active hood 1"
+    ],
+    [
+     "4",
+     "Fuse MINI",
+     "10A",
+     "Alternator"
+    ],
+    [
+     "5",
+     "Fuse MINI",
+     "10A",
+     "Burglar alarm horn relay"
+    ],
+    [
+     "6",
+     "Fuse MINI",
+     "15A",
+     "Front wiper deicer relay"
+    ],
+    [
+     "7",
+     "Fuse MINI",
+     "25A",
+     "Power outlet relay, rear power outlet, front power outlet (passenger)"
+    ],
+    [
+     "8",
+     "Fuse MINI",
+     "10A",
+     "Brake switch"
+    ],
+    [
+     "9",
+     "Fuse MINI",
+     "20A",
+     "4WD ECU"
+    ],
+    [
+     "10",
+     "Fuse MINI",
+     "10A",
+     "ECU, OBD"
+    ],
+    [
+     "11",
+     "Fuse MINI",
+     "10A",
+     "E/R fuse & relay box (headlamp RH relay), headlamp RH"
+    ],
+    [
+     "14",
+     "Fuse FMX/JCase",
+     "30A",
+     "Trailer power outlet"
+    ],
+    [
+     "15",
+     "Fuse FMX/JCase",
+     "50A",
+     "AMP 30A, P/WDW LH 25A, P/WDW RH 25A, S/HEATER RR 15A"
+    ],
+    [
+     "16",
+     "Fuse FMX/JCase",
+     "30A",
+     "AC inverter unit"
+    ],
+    [
+     "17",
+     "Multi fuse block MUSB",
+     "",
+     "Smart key-1/4, module-1, sunroof-2, interior lamp, multimedia, memory fuses (IP junction feeds)"
+    ],
+    [
+     "18",
+     "Multi fuse block MUSB",
+     "",
+     "E/R fuse & relay box (cooling fan relay)"
+    ],
+    [
+     "19",
+     "Multi fuse block MUSB",
+     "",
+     "ESC control module, multipurpose check connector"
+    ],
+    [
+     "20",
+     "Multi fuse block MUSB",
+     "",
+     "ESC control module, multipurpose check connector"
+    ],
+    [
+     "21",
+     "Multi fuse block MUSB",
+     "",
+     "Rear defogger relay"
+    ],
+    [
+     "22",
+     "Multi fuse block MUSB",
+     "",
+     "Blower relay"
+    ],
+    [
+     "23",
+     "Multi fuse block MUSB",
+     "",
+     "IPM (S/HTR FRT, P/SEAT, SUNROOF-1, IPS1 fog/tail lamps, ARISU LH headlamp/turn feeds)"
+    ],
+    [
+     "24",
+     "Multi fuse block MUSB",
+     "",
+     "MDPS ECU"
+    ],
+    [
+     "25",
+     "Fuse FMX/JCase",
+     "50A",
+     "IPM (DR LOCK, BLOWER RR, FUEL LID, IPS3 tail lamps, ARISU RH headlamp/turn feeds)"
+    ],
+    [
+     "26",
+     "Fuse FMX/JCase",
+     "40A",
+     "EMS box (main relay: IGN COIL, ECU 1, SNSR 1/2, ECU 2, INJECTOR 1; F/PUMP, ECU 4)"
+    ],
+    [
+     "27",
+     "Fuse FMX/JCase",
+     "50A",
+     "Cooling fan"
+    ],
+    [
+     "29",
+     "Fuse FMX/JCase",
+     "40A",
+     "Ignition switch / IGN1 & ACC relays (with smart key)"
+    ],
+    [
+     "30",
+     "Fuse FMX/JCase",
+     "30A",
+     "Power tailgate"
+    ],
+    [
+     "31",
+     "Fuse FMX/JCase",
+     "40A",
+     "Start relay, ignition switch / IGN2 relay (with smart key)"
+    ],
+    [
+     "33",
+     "Fuse MINI",
+     "15A",
+     "Fuel pump relay"
+    ],
+    [
+     "34",
+     "Fuse MINI",
+     "15A",
+     "PCM (Theta/Lambda), IBD"
+    ],
+    [
+     "36",
+     "Fuse MINI",
+     "10A",
+     "Immobilizer module, fuel pump relay (Theta); PCM, fuel pump relay (Lambda)"
+    ],
+    [
+     "38",
+     "Fuse MINI",
+     "20A",
+     "Ignition coils (+capacitor/condensers)"
+    ],
+    [
+     "39",
+     "Fuse MINI",
+     "20A",
+     "PCM"
+    ],
+    [
+     "40",
+     "Fuse MINI",
+     "10A",
+     "Cooling fan relay, canister close valve, oil control valves, purge valve, variable intake valves, immobilizer (Lambda)"
+    ],
+    [
+     "41",
+     "Fuse MINI",
+     "10A",
+     "Purge valve, oil control valves, variable intake valve, crankshaft sensor, oxygen sensors"
+    ],
+    [
+     "45",
+     "Fuse MINI",
+     "10A",
+     "E/R fuse & relay box (wiper low relay), PCM"
+    ],
+    [
+     "46",
+     "Fuse MINI",
+     "10A",
+     "E/R fuse & relay box (blower relay), front A/C module"
+    ],
+    [
+     "47",
+     "Fuse MINI",
+     "10A",
+     "Back-up lamp relay (AT), back-up lamp switch (MT)"
+    ],
+    [
+     "48",
+     "Fuse MINI",
+     "7.5A",
+     "ESC control module, multipurpose check connector"
+    ],
+    [
+     "49",
+     "Fuse MINI",
+     "7.5A",
+     "PCM"
+    ],
+    [
+     "50",
+     "Fuse MINI",
+     "15A",
+     "Transaxle range switch, PCM"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "START2 ACC"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "START1"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Horn"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Blower"
+    ],
+    [
+     "R5",
+     "Relay",
+     "",
+     "Deicer"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "Power outlet"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "Wiper LO"
+    ],
+    [
+     "R8",
+     "Relay",
+     "",
+     "Cooling fan LO"
+    ],
+    [
+     "R9",
+     "Relay",
+     "",
+     "B/A horn"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Headlamp RH"
+    ],
+    [
+     "R11",
+     "Relay",
+     "",
+     "IG1"
+    ],
+    [
+     "R12",
+     "Relay",
+     "",
+     "IG2"
+    ],
+    [
+     "R13",
+     "Relay",
+     "",
+     "Rear heated"
+    ],
+    [
+     "R14",
+     "Relay",
+     "",
+     "Cooling fan"
+    ]
+   ]
+  }
+ ]
+}

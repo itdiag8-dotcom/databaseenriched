@@ -1,0 +1,643 @@
+{
+ "make_slug": "kia",
+ "model_slug": "sorento",
+ "brand_db": "Kia",
+ "model_db_name": "Sorento",
+ "model_id": 2474,
+ "generation_name": "4th generation MQ4",
+ "generation_code": "g4",
+ "year_start": 2020,
+ "year_end": 2026,
+ "trim_label": "",
+ "representative_year": 2024,
+ "source_url": "https://www.startmycar.com/kia/sorento/info/fusebox/2024",
+ "boxes": [
+  {
+   "index": 0,
+   "name": "Driver's Side Fuse Panel",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sorento-2024-genid-g4-0.webp",
+   "fuses": [
+    [
+     "3",
+     "Fuse MICRO2",
+     "7.5A",
+     "MTC/DATC, ERJB (PTC heater 2 relay)"
+    ],
+    [
+     "4",
+     "Fuse MICRO2",
+     "7.5A",
+     "BDC (Body Domain Controller), stop lamp switch"
+    ],
+    [
+     "5",
+     "Fuse MICRO2",
+     "10A",
+     "Cluster, ISG LDC 450W, mood lamp unit/LH/RH, BDC, built-in camera unit, HUD, MTC/DATC, ADAS parking ECU, rear aircon switch"
+    ],
+    [
+     "6",
+     "Fuse MICRO2",
+     "7.5A",
+     "Overhead console"
+    ],
+    [
+     "9",
+     "Fuse MICRO2",
+     "10A",
+     "Module 7"
+    ],
+    [
+     "12",
+     "Fuse MICRO2",
+     "10A",
+     "CCU (Central Communication Unit)"
+    ],
+    [
+     "14",
+     "Fuse MICRO2",
+     "10A",
+     "BDC, door outside handle switches, ATM lever, Digital Key 2.0 unit/sensor"
+    ],
+    [
+     "15",
+     "Fuse MICRO2",
+     "10A",
+     "CCNC keyboard, BDC, CCU, USB charger, built-in camera, MTC, DCU, overhead console, amplifier, ADAS parking unit"
+    ],
+    [
+     "18",
+     "Fuse MICRO2",
+     "7.5A",
+     "DCU (Data Connectivity Unit)"
+    ],
+    [
+     "19",
+     "Fuse MICRO2",
+     "10A",
+     "Rear aircon switch, rear aircon blower motor"
+    ],
+    [
+     "20",
+     "Fuse MICRO2",
+     "15A",
+     "Rear door child lock LH/RH"
+    ],
+    [
+     "21",
+     "Fuse MICRO2",
+     "25A",
+     "ISG LDC 200W, CCNC"
+    ],
+    [
+     "22",
+     "Fuse MICRO2",
+     "10A",
+     "Front view camera, tilt-tele unit, crash pad switch, ADAS drive unit, rear/front corner radars, 4WD ECU, DCU, console switch, ADAS parking unit, front radar"
+    ],
+    [
+     "23",
+     "Fuse MICRO2",
+     "7.5A",
+     "Cluster, HUD"
+    ],
+    [
+     "25",
+     "Fuse MICRO2",
+     "20A",
+     "2nd seat folding actuator LH"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "20A",
+     "2nd seat folding actuator RH"
+    ],
+    [
+     "27",
+     "Fuse MICRO2",
+     "7.5A",
+     "Wireless charger, OBD, MTC/DATC, ECM/DCM mirror, built-in camera, CCNC, ISG LDC, power seat unit, amplifier, headlamp leveling device"
+    ],
+    [
+     "28",
+     "Fuse MICRO2",
+     "10A",
+     "Tailgate latch"
+    ],
+    [
+     "31",
+     "Fuse MICRO2",
+     "7.5A",
+     "MDPS unit"
+    ],
+    [
+     "33",
+     "Fuse MICRO2",
+     "30A",
+     "Passenger power seat motor"
+    ],
+    [
+     "34",
+     "Fuse MICRO2",
+     "25A",
+     "1st seat warmer/ventilation LH/RH"
+    ],
+    [
+     "35",
+     "Fuse MICRO2",
+     "15A",
+     "Multifunction switch"
+    ],
+    [
+     "36",
+     "Fuse MICRO2",
+     "10A",
+     "P_LBM (Parking lithium battery module)"
+    ],
+    [
+     "37",
+     "Fuse MICRO2",
+     "7.5A",
+     "BDC"
+    ],
+    [
+     "38",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag control unit"
+    ],
+    [
+     "39",
+     "Fuse MICRO2",
+     "7.5A",
+     "Outside mirror heated LH/RH"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "10A",
+     "Airbag control unit"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "15A",
+     "Luggage/1st seat USB chargers LH/RH"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "Cluster, HUD, MTC, wireless charger, ADAS parking unit, rear corner radars"
+    ],
+    [
+     "43",
+     "Fuse MICRO2",
+     "25A",
+     "Power window motor RH"
+    ],
+    [
+     "44",
+     "Fuse MICRO2",
+     "30A",
+     "Panorama sunroof motor"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "7.5A",
+     "Multifunction switch, power window main switch"
+    ],
+    [
+     "47",
+     "Fuse MICRO2",
+     "15A",
+     "2nd seat warmer LH/RH"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "25A",
+     "Amplifier, ISG LDC 450W"
+    ],
+    [
+     "50",
+     "Fuse MICRO2",
+     "10A",
+     "CCU, DCU, stop lamp switch"
+    ],
+    [
+     "51",
+     "Fuse MICRO2",
+     "30A",
+     "Driver power seat motor"
+    ],
+    [
+     "54",
+     "Fuse MICRO2",
+     "20A",
+     "All door lock/unlock"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "20A",
+     "4WD ECU"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "7.5A",
+     "(START) Ignition switch"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "30A",
+     "Power tailgate unit"
+    ],
+    [
+     "59",
+     "Fuse MICRO2",
+     "25A",
+     "Power window motor LH"
+    ]
+   ]
+  },
+  {
+   "index": 1,
+   "name": "Engine Compartment Fuse Box",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sorento-2024-genid-g4-1.webp",
+   "fuses": [
+    [
+     "1",
+     "Multi fuse block MUSB",
+     "",
+     "(COOLING FAN) Cooling fan motor"
+    ],
+    [
+     "2",
+     "Multi fuse block MUSB",
+     "",
+     "(B+1) PDC (Power Domain Controller)"
+    ],
+    [
+     "5",
+     "Multi fuse block MUSB",
+     "",
+     "(BLOWER) Blower relay"
+    ],
+    [
+     "6",
+     "Multi fuse block MUSB",
+     "",
+     "(E-CVVT1) E-CVVT relay"
+    ],
+    [
+     "8",
+     "Multi fuse block MUSB",
+     "",
+     "(ABS1) ABS/ESC"
+    ],
+    [
+     "9",
+     "Multi fuse block MUSB",
+     "",
+     "(B+2) PDC"
+    ],
+    [
+     "10",
+     "Multi fuse block MUSB",
+     "",
+     "(ABS2) ABS/ESC"
+    ],
+    [
+     "11",
+     "Multi fuse block MUSB",
+     "",
+     "(MDPS1) MDPS unit"
+    ],
+    [
+     "12",
+     "Multi fuse block MUSB",
+     "",
+     "(AUX BATT) Parking lithium battery module"
+    ],
+    [
+     "13",
+     "Multi fuse block MUSB",
+     "",
+     "(B+3) PDC"
+    ],
+    [
+     "14",
+     "Multi fuse block MUSB",
+     "",
+     "(B+6) PCB block"
+    ],
+    [
+     "16",
+     "Multi fuse block MUSB",
+     "",
+     "(REAR HEATED) Rear glass heated relay"
+    ],
+    [
+     "19",
+     "Multi fuse block MUSB",
+     "",
+     "(B+5) PDC"
+    ],
+    [
+     "20",
+     "Multi fuse block MUSB",
+     "",
+     "(EOP2) Electric oil pump"
+    ],
+    [
+     "23",
+     "Fuse FMX/JCase",
+     "60A",
+     "(ABS3) ABS/ESC"
+    ],
+    [
+     "24",
+     "Fuse FMX/JCase",
+     "50A",
+     "(B+4) PDC"
+    ],
+    [
+     "25",
+     "Fuse FMM/MCase",
+     "20A",
+     "(FUEL PUMP) Fuel pump relay"
+    ],
+    [
+     "26",
+     "Fuse MICRO2",
+     "20A",
+     "(HEAD LAMP RH) Head lamp RH"
+    ],
+    [
+     "30",
+     "Fuse MICRO2",
+     "20A",
+     "(HEAD LAMP LH) Head lamp LH"
+    ],
+    [
+     "33",
+     "Fuse FMX/JCase",
+     "50A",
+     "(PTC HEATER) PTC heater relay"
+    ],
+    [
+     "34",
+     "Fuse FMX/JCase",
+     "60A",
+     "(TCU3) DCT TCU"
+    ],
+    [
+     "35",
+     "Fuse FMX/JCase",
+     "60A",
+     "(EOP1) Electric oil pump"
+    ],
+    [
+     "36",
+     "Fuse FMM/MCase",
+     "50A",
+     "(TRAILER1) Trailer module"
+    ],
+    [
+     "37",
+     "Fuse FMM/MCase",
+     "20A",
+     "(TRAILER2) Trailer module"
+    ],
+    [
+     "38",
+     "Fuse FMM/MCase",
+     "20A",
+     "(TRAILER3) Trailer module"
+    ],
+    [
+     "40",
+     "Fuse MICRO2",
+     "20A",
+     "(VACUUM PUMP1) Vacuum pump relay"
+    ],
+    [
+     "41",
+     "Fuse MICRO2",
+     "15A",
+     "(TCU1) TCU"
+    ],
+    [
+     "42",
+     "Fuse MICRO2",
+     "10A",
+     "(AMS) Battery sensor"
+    ],
+    [
+     "45",
+     "Fuse MICRO2",
+     "20A",
+     "(E-CVVT2) ECU (Smartstream G2.5 T-GDi)"
+    ],
+    [
+     "46",
+     "Fuse MICRO2",
+     "20A",
+     "(E-CVVT3) ECU (Smartstream G2.5 T-GDi)"
+    ],
+    [
+     "48",
+     "Fuse MICRO2",
+     "20A",
+     "(VACUUM PUMP2) ABS/ESC"
+    ],
+    [
+     "53",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IG2) PCB block (IG2 relay), start relay"
+    ],
+    [
+     "54",
+     "Fuse FMX/JCase",
+     "40A",
+     "(IG1) PCB block (IG1 relay, ACC relay)"
+    ],
+    [
+     "55",
+     "Fuse MICRO2",
+     "7.5A",
+     "(FRT WIPER2) BDC, ECU"
+    ],
+    [
+     "57",
+     "Fuse MICRO2",
+     "20A",
+     "(SENSOR1) Ignition coils #1-#4"
+    ],
+    [
+     "58",
+     "Fuse MICRO2",
+     "10A",
+     "(SENSOR7) Electric oil pump"
+    ],
+    [
+     "59",
+     "Fuse MICRO2",
+     "10A",
+     "(ECU2) ECU"
+    ],
+    [
+     "60",
+     "Fuse MICRO2",
+     "10A",
+     "(SENSOR 5) Fuel pump relay, ECU"
+    ],
+    [
+     "62",
+     "Fuse MICRO2",
+     "20A",
+     "(SENSOR3) ECU"
+    ],
+    [
+     "63",
+     "Fuse MICRO2",
+     "15A",
+     "(SENSOR2) Oxygen sensors (up/down)"
+    ],
+    [
+     "64",
+     "Fuse MICRO2",
+     "30A",
+     "(FRT WIPER1) Front wiper motor, PCB block (front wiper relays high/low)"
+    ],
+    [
+     "65",
+     "Fuse MICRO2",
+     "15A",
+     "(RR WIPER) Rear wiper motor, PCB block (rear wiper relays)"
+    ],
+    [
+     "66",
+     "Fuse MICRO2",
+     "15A",
+     "(HORN) PCB block (horn relay)"
+    ],
+    [
+     "67",
+     "Fuse MICRO2",
+     "10A",
+     "(A/C) PCB block (A/C compressor relay)"
+    ],
+    [
+     "68",
+     "Fuse MICRO2",
+     "15A",
+     "(B/ALARM HORN) PCB block (burglar alarm horn relay)"
+    ],
+    [
+     "73",
+     "Fuse MICRO2",
+     "10A",
+     "(TCU2) TCU, DCT lever"
+    ],
+    [
+     "74",
+     "Fuse MICRO2",
+     "10A",
+     "(SENSOR4) Cooling fan, variable intake solenoid, RCV, oil control valve, canister valve, variable oil pump solenoid, oil level sensor, purge valve"
+    ],
+    [
+     "75",
+     "Fuse MICRO2",
+     "15A",
+     "(SENSOR6) Injectors #1-#4"
+    ],
+    [
+     "76",
+     "Fuse MICRO2",
+     "15A",
+     "(ECU1) ECU"
+    ],
+    [
+     "79",
+     "Fuse MICRO2",
+     "7.5A",
+     "(ABS4) ABS/ESC"
+    ],
+    [
+     "80",
+     "Fuse MICRO2",
+     "20A",
+     "(POWER OUTLET2) Rear console power outlet"
+    ],
+    [
+     "81",
+     "Fuse MICRO2",
+     "20A",
+     "(POWER OUTLET1) Luggage power outlet"
+    ],
+    [
+     "R1",
+     "Relay",
+     "",
+     "Blower relay"
+    ],
+    [
+     "R2",
+     "Relay",
+     "",
+     "Rear heated relay"
+    ],
+    [
+     "R3",
+     "Relay",
+     "",
+     "Start relay"
+    ],
+    [
+     "R4",
+     "Relay",
+     "",
+     "Fuel pump relay"
+    ],
+    [
+     "R6",
+     "Relay",
+     "",
+     "E-CVVT relay"
+    ],
+    [
+     "R7",
+     "Relay",
+     "",
+     "PTC heater relay"
+    ],
+    [
+     "R10",
+     "Relay",
+     "",
+     "Vacuum pump relay"
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "name": "Engine Compartment (Battery terminal cover)",
+   "image_url": "https://images.startmycar.com/legos/fusebox-thumbnails/fusebox-kia-sorento-2024-genid-g4-2.webp",
+   "fuses": [
+    [
+     "F01",
+     "Fuse MIDI",
+     "250A",
+     "(ALT) Alternator"
+    ]
+   ]
+  }
+ ]
+}
